@@ -1,0 +1,2309 @@
+ 薪傳論文
+《中研院法學期刊》第 35 期                                          213
+頁 213-275（2024 年 9 月）
+
+
+                                                  ＊
+        反實體的科學性認識演化之路
+          — 論Hans Kelsen的國家學與法科學
+
+                         林允中＊＊
+
+
+                          摘 要
+  本文是以Hans Kelsen的理論事業為對象的思想史考察，以其較
+為人忽視的主張，即對於「法科學」的追求，為考察的主軸，一方
+面試圖展現這點是貫通Kelsen作品的核心關懷，同時也以此來解釋
+他許多論述策略上的選擇，並強調時空及學術的脈絡。首先，本文
+統整他的國家學，指出對Kelsen而言，解消實體國家概念是法學科
+學化的關鍵，作為一種「無國家的國家學」的國家與法同一說，正
+是為此而生。國家概念之所以會成為關鍵，是由於他認為，人類認
+識的發展存在著從將事物實質化、走向破除實體的演化進程。在自
+然科學一側，經由解消神的概念，這項進程已經發生；平行對照
+下，法學成為科學、擺脫「國家神學」的里程碑，就是實體國家概
+
+
+＊  投稿日：2023年7月10日；接受刊登日：2024年1月4日。［責任校對：顏家
+   佑、徐慕薇］  。
+   本文原型為筆者碩士論文之三、四章，參見林允中，法律天國—論Hans
+   Kelsen「無國家的國家學」，國立臺灣大學法律學研究所碩士論文（2022
+   年）。在此係經改寫與進一步延伸研究後的成果，在對Kelsen理論的討論上，
+   無論是原典的掌握與詮釋、二手文獻的使用與討論，以及全文的問題意識與
+   部分論點上，均已有許多變動與修正。感謝黃璿元先生對本文初稿的諸多評
+   論與提點、亦非常感謝兩位匿名審查人對本文的指教與雕琢，他們在學術研
+   究上的經驗談與重要意見，都讓這個作品離不成熟的胚胎更遠了一些。最
+   後，必須感謝恩師顏厥安教授的指導與啟發。當然，本文必定存在的諸多不
+   足或錯漏之處，無疑仍是筆者的責任。
+＊＊ 國立臺灣大學法學碩士。
+   穩定網址：https://publication.iias.sinica.edu.tw/41616042.pdf。
+214                      《中研院法學期刊》第35期（2024年9月）
+
+
+
+念的破除。最後，Kelsen之所以設想或接受這樣的國家概念與科學
+觀，與其奧匈帝國背景有關，特別是帝國本身的多元性與維也納現
+代主義的反實體立場。
+
+關鍵詞：Hans Kelsen、法學、國家學、法科學、國家與法同一說、
+    維也納現代主義。
+
+
+                     目 次
+
+ 壹、前言                       四、道成肉身與奇蹟：國家學
+ 貳、Hans Kelsen「無國家的國          中的神學方法
+   家學」概述                    五、橋接：無國家的國家學作
+  一、Georg Jellinek的國家學        為法科學的前提
+  二、Kelsen的批判與重構           肆、中歐經驗：地域性與時代性
+  三、實體國家概念解消之必要              影響
+     與法科學                   一、奧匈帝國的多元現實
+ 參、法科學的科學哲學                 二、反形上學／反實體的維也
+  一、實體的解消                     納現代主義
+  二、認識的演化：Kelsen的科          三、小結
+     學史                    伍、代結論：法學與法學者的自
+  三、國家與神的概念相似性               我理解
+
+
+
+
+壹、前言
+
+      被譽為「世紀法學家」的Hans Kelsen，對法律人來說太多介紹
+恐怕純屬多餘，即便不是基礎法學的研究者或愛好者，也大都能指
+出與他齊名的「純粹法學」（Reine Rechtslehre）、知曉他法實證主
+義的主張、或許還能談到他有關憲法法院的擘劃，甚至是他的民主
+理論。著作等身、研究領域既廣且深的Kelsen儘管逝世已逾半世
+紀，他的諸多論述至今依然是許多學術討論的焦點：在抽象的法理
+反實體的科學性認識演化之路                                                                         215
+
+
+學領域，Kelsen的規範理論在分析法理學界雖然略顯「過時」，但
+仍是許多關於法規範性、法概念論與法律系統相關研究與理論的切
+入點1；具體一些的公法學領域，Kelsen的框架理論，在討論內國法
+的公法秩序、乃至於歐盟與成員國之間的規範問題，還是學者討論
+時的重要理論來源、或探討的對象2。
+
+      然而，至少在國內的討論中，Kelsen一項長期的主張似乎較乏人
+                 （Wissenschaftlichkeit）3，
+問津：他非常強調自己工作的「科學性」
+
+
+1 當代英美分析法理學的經典文獻，常能追溯到對Kelsen理論的檢討，參見如
+  H.L.A. Hart, Kelsen’s Doctrine of the Unity of Law, in ETHICS AND SOCIAL JUSTICE
+  171 (Howard E. Kiefer & Milton K. Munitz eds., 1970); Joseph Raz, Kelsen’s Theory
+  of the Basic Norm, in THE AUTHORITY OF LAW 122 (1979). 分析法理學領域直至近
+  年依然不乏對Kelsen法理論的討論，參見如Brian Bix, Kelsen, Hart, and Legal
+  Normativity, 34 REVUS 25 (2018); PETER LANGFORD, IAN BRYAN & JOHN MCGARRY
+  EDS., KELSENIAN LEGAL SCIENCE AND THE NATURE OF LAW (2017); Li-Kung Chen,
+  The Continuity of a Legal System, 86 MOD. L. REV. 364, 364-74 (2023).
+2 黃舒芃的一系列重要作品即為代表，參見如Shu-Perng Hwang, Europarechts-
+  ordnung als Rahmenordnung: Versuch einer Überwindung der dualistischen
+  Konstruktion von staatlichen und überstaatlichen Rechtsordnungen, 2020; Shu-Perng
+  Hwang, Verfassungsordnung als Rahmenordnung: Eine kritische Untersuchung zum
+  Materialisierungsansatz im Verfassungsrecht aus rahmenorientierter Perspektive, 2018;
+  黃舒芃，框架秩序下的國家權力—公法學術論文集（2013年）；黃舒芃，框
+  架秩序下的國家權力（二）—公法學術論文集（2016年）                                        。
+3 Kelsen本人並不太常使用這個字，少數幾次可見於Hans Kelsen, Allgemeine
+  Staatslehre, 1925, S. 130（以下簡稱：Kelsen, Staatslehre）; Hans Kelsen, Der
+  soziologische und der juristische Staatsbegriff: Kritische Untersuchung des Verhältnisses
+  von Staat und Recht, 2. Aufl., 1928, S. 248（以下簡稱：Kelsen, Staatsbegriff）             ，但
+  本文認為這個詞很好地掌握到了他的追求與堅持。德語的Wissenschaft一詞，在
+  漢語中可以作「科學」與「學術」解，且漢語「法學」在德語的對應詞之一，
+  即Rechtswissenschaft，Kelsen也常用這個字，但漢語並不常以「法科學」來翻
+  譯 這 個 字 。 因 此 為 何 本 文 要 把 Wissenschaft 偏 向 「 科 學 」、 Kelsen 談
+  Rechtswissenschaft作「法科學」來理解，似乎有必要加以說明。簡單地說，本
+  文認為Kelsen使用Rechtswissenschaft一詞的時候，有著明確的對應關係，也就
+  是對應到Naturwissenschaft，漢語作「自然科學」（也時常在忽略／無視人文及
+  社會科學的狀況下，簡稱為「科學」                         ），這點將可在下文看到。下文中同時也會
+  看到，Kelsen對自然科學的態度是既嚮往又警戒：他一方面築起了應實然的範
+  疇高牆，來防止自然科學所屬的因果科學進犯法學領域；但與此同時，他也期
+  待法 學能達到自 然科學的客 觀與純粹。 這麼看來， Kelsen 在意的 顯然 是
+  „Wissenschaft“的客觀與純粹，並且強調Rechtswissenschaft與Naturwissenschaft平
+216                        《中研院法學期刊》第35期（2024年9月）
+
+
+
+事實上他的理論事業自始至終，都致力於將法學發展成一門能與自
+然科學平起平坐的科學。他追求法的科學化這點，即便經他多次重
+申之下，已為人所熟知，但到底這項主張在其理論事業中的什麼位
+置、具有什麼意義，則較欠缺討論4。本文將「認真看待」Kelsen對
+法學科學化的追求，以這項追求作為主軸，來考察他使用了哪些論
+述與論證策略。本文認為，由於對科學性的追求是一項貫穿Kelsen
+學術生涯的主張，它能夠解釋其理論設計與發展上的具體形貌；換
+句話說，對法學科學化的追求可以說明，為何Kelsen會選擇特定的
+理論與論述策略。不過，論述策略的選擇除了他想藉之達成的理論
+成果之外，Kelsen所受到的時空與學術脈絡，也是相當重要的影響
+來源，這些脈絡決定了他所能調用的思想與理論資源、進而將他的
+理論形塑成特定的樣貌。從本文將考察論述策略的形構及其脈絡的
+角度來看，本文是一個思想史的考察，對此，本文將把重心放在脈
+絡化論述策略之上，觀察Kelsen與同時期的學人、乃至於與所處時
+代之間的承繼與對話。然而，雖然自我定位為思想史的考察，但要
+特 別 指 出 的 是 ， 本 文 並 不 是 Kelsen 的 分 期 研 究 、 或 可 以 稱 為
+「Kelsen思想編年史」的思想演變爬梳5。本文與這類研究的差異之
+處，在於本文認為Kelsen的理論中存在著持續且穩固的主張及論述
+形式6，並以這些論述形式作為本文的考察對象，觀察並呈現它們
+
+
+  行對等的地位，而要掌握到這點，漢語的「科學」譯法較諸「學術」應是更為
+  妥適。本文所謂「Kelsen追求科學性」、            「將法學發展為一門科學」等論述，立
+  基於前述的翻譯與文意理解之上。
+4 國內對此問題的少數重要研究，鍾芳樺，國家與法作為人民的自我組織：論威
+  瑪時代Hans Kelsen, Carl Schmitt與Hermann Heller對法最終證立依據的分析，國
+  立臺灣大學法律學研究所博士論文，頁108-116（2006年）（以下簡稱：鍾芳
+  樺，國家與法）     。
+5 思想分期本身就是一個Kelsen研究的重要領域。國內研究的代表性文獻，可參
+  鍾芳樺，應然與實然之關係作為純粹法學的難題，中研院法學期刊，4期，頁
+  81-150（2009年）（以下簡稱：鍾芳樺，純粹法學的難題）               。
+6 為了支持此宣稱，請容筆者在此先「破哏」                 ：對本文來說，Kelsen最重要的兩個
+  論據，分別是國家與法同一，以及科學發展的去實體演化傾向。從思想變遷的
+  角度來看，這兩個論據基本上都是在1922年的作品明確出現，參見Kelsen,
+反實體的科學性認識演化之路                                                            217
+
+
+是在如何的脈絡中孕育而成。而如果換個角度來看，存在著穩固的
+主張與論述形式，意味著Kelsen的理論體系中，有著長期、固定的
+理論「內核」，而這些主張與論述形式所要達成的目標，即是法科
+學。當然，這並不是說本文認為Kelsen的分期研究並沒有其重要
+性、或是Kelsen思想並沒有分期的必要，會需要強調本文與這類研
+究之間的區別、並強調本文並非這類研究的成員之一，純粹是研究
+主題之選擇所造成的結果。
+
+   對此，本文將以文本分析作為研究方法，指出Kelsen將法學開
+展為一門科學的重要論據為何，以及它們是在何種時空與學術脈絡
+下，被形塑成特定的樣貌。本文將分成三個部分：首先討論Kelsen
+為了將法學提升至科學的高度，做出了何種診斷、又提出了哪些理
+
+
+
+ Staatsbegriff (Fn. 3), S. 114 ff., 205 ff.，若我們參閱鍾芳樺，純粹法學的難題（註
+ 5）的劃分，這是Kelsen學術生涯的第二個時期（1920-1934）                          ，不過這些論述的
+ 雛形在第一個時期（1911-1919）就已經出現，如對實體國家概念的逐步拆解，
+ 參見Hans Kelsen, Hauptprobleme der Staatsrechtslehre: entwickelt aus der Lehre
+ vom Rechtssatze, 1911, S. 162 ff., insbesondere S. 183-187（以下簡稱：Kelsen,
+ HP1）；到了第三期（1935-1961），Kelsen也沒有拋棄這兩個論據，而是繼續沿
+用，參見Hans Kelsen, Reine Rechtslehre, 2. Aufl., 1960, S. 176-178, 289 ff., 320
+（以下簡稱：Kelsen, RR2）             ；至於第四期（1962-1973），Kelsen在作品中直接針
+ 對國家的討論相當少，但也沒有拋棄國家與法同一的論述，許多對於機關
+（Organ）的討論可以說是過去論述的具體化，因為國家在一個意義上，是各種
+「暫時歸責點」（vorläufiger Zurechnungspunkt ）的「機關」群，這點已在
+ Kelsen先前的作品中藉由拆解實體國家概念而完成；另一方面，Kelsen在此一
+ 時期有著較大的認識論變動：他放棄了新康德主義的先驗方法，對基礎規範
+（Grundnorm）的看法也從假定變為虛擬，HANS KELSEN, GENERAL THEORY OF
+ NORMS 256 (Michael Hartney trans., Clarendon Press 1991) (1979)；另參鍾芳樺，
+ 純粹法學的難題（註5），頁129-132。這樣的變動對於本文的宣稱是否會有影
+ 響？在筆者看來，Kelsen即便在法認識論上做了相當幅度的調整，但這些改變
+ 並未顯示他推翻了去實體化的長期目標，反而可以看作是他持續地在這條路線
+ 上找出更佳的論說方法。這是因為他仍然是在過去拆解掉各種法學中的實體的
+ 基礎之上，進一步去細緻分析法規範。因此，本文認為這兩個論據在Kelsen的
+ 整體理論、或者說理論的變遷中都十分穩固，而它是否是、又如何作為Kelsen
+ 理論的重要核心部分，則煩請讀者見下文詳述。有關Kelsen思想變遷的國內重
+ 要文獻，可參鍾芳樺，純粹法學的難題（註5）                          。感謝一位審查人指出，本文此
+ 宣稱與Kelsen的思想變遷之間存在的緊張關係。
+218                《中研院法學期刊》第35期（2024年9月）
+
+
+
+論；下一步則討論Kelsen理論所依賴的科學哲學與科學史觀；最後
+則是討論Kelsen之所以採用這樣的論述策略，其時空及學術背景影
+響為何。
+
+      首先，第貳節將指出著名的「國家與法同一說」，即是Kelsen
+認為法學走向科學的路途中，所必須歷經的過程。獨立的實體國家
+概念必須從法學中清除，法學才能成為一門科學。Kelsen的立論從
+批判Georg Jellinek的國家學開始，認為後者的「兩面理論」
+                                 （Zwei-
+Seiten Lehre）在方法上有重大的瑕疵，錯誤地將作為法秩序的國家
+複製出一個實際上不存在的實體對象，這項錯誤中更暗藏了意識形
+態。Kelsen指出，國家的認識只能經由法，因此獨立於法的實體國
+家概念是不可能且錯誤的。只有在清除掉實體國家概念之後，法學
+才可能免於認識論上的錯誤與意識形態的糾纏。
+
+      第參節將釐清這項法科學工作之理論基礎的科學哲學與科學史
+觀。Kelsen認為，近代科學的發展方向，是破除並拆解實體，進而
+將研究的重心從實體移轉到關係（Beziehung）之上。將實體國家
+概念解消、將國家概念復歸為法秩序，這樣的工作與科學的趨向相
+符。Kelsen並認為這樣的發展，是人類認識從情緒走向理性、從意
+識型態走向科學的長期演化過程。他進一步指出自然科學與法學間
+的類比關係，兩者在認識領域內原先都存在著原質化的產物，即神
+與國家。而歷經認識論批判後，神與國家都要失掉實體概念身分，
+而成為系統的體現、作為系統本身的功能概念。在自然科學的範
+圍，這項發展已然發生、甚至可以說已經宣告完成；而在法學這
+邊，這項工作便落在Kelsen的身上，具體展現為他「無國家的國家
+學」；而就科學開展的重要條件，是拋棄認識領域中的實體概念並
+轉換為關係這點來說，法科學的達成也仰賴著這個「無國家的國家
+學」
+ 。
+反實體的科學性認識演化之路                                                                      219
+
+
+      第肆節則將從時代與地域性背景下手，來了解Kelsen的思想是
+在怎麼樣的環境下發展成形。本文將特別關注Kelsen的奧匈帝國背
+景所產生的影響，其中奧匈帝國的高度多元，使得他自始不認為國
+家所需的統一性可以存在於實然世界。另外，維也納現代主義
+（Wiener Moderne）反實體、反形上學的傾向，也啟發Kelsen追求一
+個「無實體」（Substanzlos）的國家概念。這樣的背景條件可以說
+形塑了Kelsen的世界觀，使他想像並追尋一種特定的科學型態；也
+可以說，這樣的背景促使他發展出、或接受一種排斥國家實體的
+「
+（法）科學哲學」
+       。
+
+
+
+貳、Hans Kelsen「無國家的國家學」概述
+
+      本節將簡短地回顧Kelsen國家理論的鋪陳與主張。「法與國家
+同一說」是Kelsen著名的論點，然而他之所以如此安排國家理論，
+其主要目的是為了在理論上為法學的科學化進程鋪墊基礎。以下我
+們將討論，Kelsen從對Jellinek的國家學通說猛烈批判之中，醞釀出
+一個非實體、純關係的「法的國家概念」
+                 。
+
+一、Georg Jellinek的國家學
+
+      要想知道Kelsen為何走上這條論述的路徑，就必須對於他所處
+的學術脈絡有所了解。在國家學的範圍內，Kelsen所對話的對象主
+要是德國法學界的先行者們，但特別關鍵的是世紀之交的重要法學
+者：Georg Jellinek。Kelsen對Jellinek的批判非常重要，因為他的理
+論可以說是誕生於對Jellinek的批判中7。
+
+
+7   Manfred Friedrich, Geschichte der deutschen Staatsrechtswissenschaft, 1997, S. 342;
+    Stanley L. Paulson, Zur neukantianischen Dimension der Reinen Rechtslehre:
+    Vorwort zur Kelsen-Sander-Auseinandersetzung, in: Paulson (Hrsg.), Die Rolle des
+    Neukantianismus in der Reinen Rechtslehre, 1988, S. 7 (9-15). Paulson在此指出，
+220                                      《中研院法學期刊》第35期（2024年9月）
+
+
+
+  Kelsen明確將自己的國家學，定位為「使法理論及國家理論從
+神學走向現代科學」的樞紐；而其中的關鍵，是「解消掉一個與法
+不同的國家概念」
+       ，而只剩下一個「關於國家的法理論」
+                       。這樣的理
+             （Staatslehre ohne Staat）8。嚴格說
+論，是一個「無國家的國家學」
+來，「關於國家的法理論」本身並不是什麼創新或驚世駭俗的論
+點。從德語世界的法學教育科目來看，19世紀以降就開始有了國家
+法學（Staatsrechtslehre）此一學科，而其具體工作即是建築出關於
+國家與其內涵的法概念9。因此，關於國家的法理論在德語世界早
+已有著某種傳統或脈絡可循。然而，「『只剩下』關於國家的法理
+論」這個宣言就值得我們特別注意，這個主張之所以引人注目，就
+必須得從當時的學術脈絡談起。
+
+      在Kelsen 開展其學術生涯的時點，德語世界的國家學總論
+（Allgemeine Staatslehre）的「通說」無疑是Georg Jellinek的鉅著10。
+
+
+   Kelsen是在批判Jellinek作品的過程中，間接地接受到新康德主義、特別是
+   Hermann Cohen的影響。
+8 „Diese reine Rechtstheorie vom Staat, die den Begriff eines vom Recht verschiedenen
+   Staates auflöst, ist eine Staatslehre — ohne Staat. Und so paradox das klingen
+   mag — erst dadurch rückt die Rechts- und Staatstheorie aus dem Niveau der
+   Theologie in die Linie der modernen Wissenschaft vor.“ Hans Kelsen, Gott und Staat,
+   in: Klecatsky/Marcic/Schambeck (Hrsg.), Die Wiener rechtstheoretische Schule:
+   Schriften von Hans Kelsen, Adolf Merkl, Alfred Verdross, Bd. 1, 2010, S. 139 (156)
+  （以下簡稱：Kelsen, Gott und Staat）.
+9 Michael Stolleis, Geschichte des öffentlichen Rechts in Deutschland, Bd. 2, 1992, S.
+   122 ff.
+10 Georg Jellinek, Allgemeine Staatslehre, 3. Aufl., 1929 （ 以 下 簡 稱 ： Jellinek,
+   Staatslehre）. 有關Jellinek之生平與理論概述，可參閱詹朝欽，肇建近代德國國
+   家法學與基本權體系—Georg Jellinek之人與事（1851-1911）                          ，法制史研究，
+   36期，頁169-211（2019年）；國內有關Jellinek國家學之研究，可參詹朝欽，國
+   家、法與社會—論Georg Jellinek之國家學理論，國立政治大學法律學系博士
+   論文（2023年）       （以下簡稱：詹朝欽，國家、法與社會）                         。本文在Jellinek的國家
+   學部分，所引用的國家學作品是其《國家學總論》（Allgemeine Staatslehre）的
+   第三版。該版的特殊之處在於，其為Jellinek過世後其子Walter Jellinek負責編輯
+   出版，其中包含了部分遺稿彙整。此版本一方面是Kelsen在批評Jellinek時所引
+   用的版本、同時也是許多Jellinek研究所立基的版本。感謝一位審查人指出本文
+   在版本說明上的不足。
+反實體的科學性認識演化之路                                                                       221
+
+
+                    11
+Jellinek延續了此前學界的發展趨向 ，正式從方法論上為國家的相
+關研究訂下了兩個領域12：關於國家的法概念的國家法學、以及關
+於國家的因果研究的國家學13。在他看來，前者即是以形塑出國家
+的法概念、或者換句話說，在法上表現出國家為目標，後者則是以
+展現國家的實在樣貌為要務14。如前所述，這樣的國家理論「兩面
+性」已是當時學界的發展方向，而Jellinek的貢獻則特別在於他為這
+個觀點提供了方法論的基礎：受到新康德主義（Neukantianismus）
+的影響15，Jellinek認為同一個對象可以以不同的方式來掌握，是故
+「國家」這個對象在他看來既可以以法學的方式來理解、進而生成
+出許多關於國家的法概念，也可以從歷史的、社會的、政治的、或
+其他等方法來掌握，這部分則歸屬於Jellinek稱為「社會的國家概
+ （soziale Staatsbegriff）的範圍。即便Jellinek在用語上只將國家
+念」
+研究區分成兩個區塊，但應特別強調的是「社會的國家概念」事實
+上是將一切非法學、實然的方法所產生出的觀察結果，都統括在
+內。總之，這些不同的面相在他看來，是共同構築出「國家」此一
+對象的樣貌16。Jellinek並且指出，法學一如邏輯，它們只能告訴我
+們該如何無矛盾地掌握對象，卻並不會直接告訴我們對象「是什
+麼」17。因此在法學家們以法學思辨將國家掌握成無矛盾的、融貫
+的法概念組之前，必須先有社會的國家概念、由它們來告訴法學家
+
+
+11 如時序上在前的C. F. von Gerber、Paul Laband等人關於國家法人（Staat als
+   juristische Person）的作品中，就已開始出現將這類研究區分成至少兩個領域的
+   說法。Henning Uhlenbrock, Der Staat als juristische Person: Dogmengeschichtliche
+   Untersuchung zu einem Grundbegriff der deutschen Staatsrehctlehre, 2000, S. 66-68.
+12 詹朝欽，國家、法與社會（註10）                       ，頁49-54、77-81。
+13 Jellinek, Staatslehre (Fn. 10), S. 10-11.
+14 Jellinek, Staatslehre (Fn. 10), S. 20.
+15 有關Jellinek與新康德主義的關係，參Oliver Lepsius, Georg Jellineks Methodenlehre
+   im Spiegel der zeitgenössischen Erkenntnistheorie, in: Paulson/Schulte (Hrsg.), Georg
+   Jellinek: Beiträge zu Leben und Werk, 2000, S. 309 (331-339)。當然，Jellinek是否
+   是個「新康德主義者」               ，則又是一個激烈的學術辯題，在此不需也無力涉入。
+16 Georg Jellinek, System der subjektiven öffentlichen Rechte, 1892, S. 14.
+17 Jellinek (Fn.16), S. 13; Jellinek, Staatslehre (Fn. 10), S. 138.
+222                                   《中研院法學期刊》第35期（2024年9月）
+
+
+
+國家具體存在的實在樣貌18。從這個意義上，也可以說「社會的國
+家概念」是承載「法學的國家概念」的「基質」（Substrat）19，法
+學要在法律上妥善描述且呈現的，即是由因果研究所鋪陳出來的國
+家面貌。換句話說，社會的國家概念是國家的規範性認識的基礎20。
+因此社會與法學的國家概念，兩者的地位並不相等，後者的存在必
+須預設了前者，這是因為在Jellinek看來，如果沒有社會的國家概念
+來鋪墊法學詮釋與理解的基質，法學工作根本無法開始。在具體的
+理論內容上，Jellinek認為國家之社會實在作為法學國家概念的基
+質，是以統治關係（Herrschaftsverhältnis）為核心21 。在這項關係
+的一端，國家具有統治力（Herrschaftsgewalt），這項國家獨享的力
+量，能無條件地貫徹自己的意志，並將自己的意志強加於他人意志
+之上。在他看來，這股力量也是原初（ursprüngliche）、非從它處導
+出的。統治關係有著時空上的範圍，這個範圍內的個人們也就可以
+被視為一個團體。這個「具備原初統治力的定居者團體」，就是國
+家的實在樣貌 22 ；國家法學面向，便是要將這個實在樣貌給「翻
+譯」成法學概念，Jellinek對此延續此前德語國家學的發展，將國家
+看作是一個法人（juristische Person），並提出了著名的國家三要素
+理論，指出國家在法上有三個要件：國家權力（Staatsgewalt）、國
+民（Staatsvolk）與國土（Staatsgebiet）23，這些便分別對應到統治
+力與其時間及空間範圍。
+
+
+
+
+18 Jellinek, Staatslehre (Fn. 10), S. 11-12, 137.
+19 Jellinek, Staatslehre (Fn.10), S. 162. Jellinek在此明確指出，法概念以社會進程作
+   為基質（„Den Rechtsbegriffen dienen die...sozialen Vorgänge... als Substrat.“） ，而
+  「社會進程」正是Jellinek的「社會的國家概念」的主要內容，a.a.O., S. 137-138.
+20 Jens Kersten, Georg Jellinek und die klassische Staatslehre, 2000, S. 167.
+21 Jellinek, Staatslehre (Fn. 10), S. 174-177.
+22 Jellinek, Staatslehre (Fn. 10), S. 178-181.
+23 Jellinek, Staatslehre (Fn. 10), S. 394 ff.
+反實體的科學性認識演化之路                                                           223
+
+
+二、Kelsen的批判與重構
+     總之，Kelsen所面對的國家學學術脈絡，是以Jellinek「集19世
+紀大成24」的作品為代表，其中認為國家具有兩種樣貌，一種是法
+學的、一種是先於法學的、實在的樣貌。這種被Kelsen稱為「兩面
+理論」的理論範式，正是他批判的標靶，他要做的便是大筆一揮，
+將先於法學的、實在的國家概念完全抹去—或者以他的原話，解
+消（auflöst）—，只留下法學的國家理論。這顯然不只是理論鋪
+陳的細節不同，而是從方法論的層次上根本地挑戰了Jellinek的體
+系。相較於Jellinek認為法學需要以別的觀點作為基礎，讓它們先鋪
+墊國家的實在樣貌才能開展法學的工作，Kelsen反過來認為，要是
+脫離了法學的視野，反而自始就不可能看見「國家」。Kelsen指
+出，對象是由方法所建構而成的，不同的方法會構築出不同的對
+象25。Jellinek認為國家可同時被不同觀點研究，而且這些研究在認
+識國家此一目的上還相輔相成，這個看法在Kelsen看來係屬無
+稽26。他指出，通說把國家看作一個與法秩序不同的強制力或權力
+機構（Zwangs- oder Machtapparat）
+                            ，並把絞架、武器、堡壘等當作
+是國家的實在，是「天真的短視」
+              ，因為那些都是「死的東西」
+                          ，它
+們的實在本身不可能直接與國家有關聯、更遑論成為國家本身。只
+
+
+24 這是Kelsen給予的讚譽，Kelsen, Staatslehre (Fn. 3), S. IX.
+25 這個主張顯示出Kelsen的新康德主義色彩。Kelsen自承受到了Cohen的新康德主
+   義所影響，Hans Kelsen, Hauptprobleme der Staatsrechtslehre: entwickelt aus der
+   Lehre vom Rechtssatze, 2. Aufl., 1923, S. XVII（以下簡稱：Kelsen, HP2）  。不過
+   到底Kelsen有多「新康德」              ，事實上也是一個激烈爭論的焦點；且隨著思想的發
+   展與變遷，Kelsen到生涯的晚期也與新康德主義較為疏離，鍾芳樺，純粹法學
+   的難題（註5）         ，頁89-94、129-132。
+26 Jellinek (Fn. 16), S. 13-15 舉了一個生動的例子：他指出，一個對象在生理學等自
+   然科學的研究觀點下，可能只是空氣的波動、耳膜的震動；但如果以美學的觀
+   點來看，同一對象則會被看作是貝多芬的第五號交響曲。這兩種觀點之間並不
+   會出現矛盾或衝突，而只是呈現出在不同觀點下，其共同對象的不同樣貌或面
+   相。然而，Kelsen, Staatsbegriff (Fn. 3), S. 116則針鋒相對地指出，在生理學觀點
+   下根本沒辦法以「交響曲」來作為認識對象，因為認識對象的同一性建立在方
+   法的同一性之上。
+224                            《中研院法學期刊》第35期（2024年9月）
+
+
+
+有當它們被活生生的（生物）人操作、也就是作為人之行為
+（menschliche Handlung）的一部分，且這些人之行為又是規範之內
+容時，才會與國家產生關聯27。換個角度來看，被視為國家之本質
+的統治、權威、強制力等，這些實在的現象其實都不能直接與國家
+畫上等號，因為這些關係或狀態並不專屬於國家。Kelsen舉例說，
+「統治」（Herrschaft）常界定為某人的意思表示（Willensäußerung）
+被他人當作行動的動機，這麼一來比如父母對子女的教養，也可以
+說是父母統治子女，因為子女常嚴格遵照父母的意思表示。既然這
+些關係或狀態四處可見，問題便不是、或至少不只是觀察「是否存
+在這些關係或狀態」
+        ，而更需要進一步問道，
+                  「這些關係或狀態是否
+與國家有關」。這個問題在Kelsen看來，也就是這些事實是否與國
+家有歸責關係（Zurechnung）。要判定事實與國家間的歸責關係，
+當然就必須考察表述歸責關係的法規範28，具體來說是考察該些事
+實是否是法規範的內容29。這麼一來，觀察的重點顯然是在法規範
+上，而兩面理論中國家的社會面向，則其實並沒有必要獨立存在：
+       ，在Kelsen看來其實只是法秩序運作結果而已30。
+那些「社會面相」
+
+      而在「法學」的面向上，Kelsen承繼了國家法學的既有論述，
+認為國家是一個法人（juristische Person），不過即便是這個面向，
+也有需要重新整理的地方。Kelsen認為既有的法人格（Person）理
+論也有著問題與不精確之處31：Kelsen強調，在同一個觀點、同一
+
+27 Kelsen, Staatsbegriff (Fn. 3), S. 89-90.
+28 Hans Kelsen, Reine Rechtslehre, 1934, S. 120（以下簡稱：Kelsen, RR1）.
+29 歸責關係是Kelsen理論的核心概念之一。Kelsen指出，歸責關係是一種法所特
+   有的律則性（Gesetzlichkeit），其可與自然科學的因果律相類比，Kelsen, HP2
+   (Fn. 25), S. XI-X。進一步說，Kelsen, RR1 (Fn. 28), S. 56-57還將歸責關係分為核
+   心（zentrale）與邊陲（periphere）兩種。後者是在具體的法規範內作用，指的
+   是作為要件（Rechtsbedingung）的事實與法效果（Rechtsfolge）之間的關係；
+   核心歸責則是指某個特定事實與規範之間的關係。當某個事實作為要件，因而
+   成為規範之內容時，該事實就可以說是與規範有著核心歸責關係。
+30 Kelsen, Staatslehre (Fn. 3), S. 17-18, 19-21.
+31 較詳細的整理，請見林允中，法律天國—論Hans Kelsen「無國家的國家
+   學」 ，國立臺灣大學法律學研究所碩士論文，頁38-46（2022年）                     。
+反實體的科學性認識演化之路                                                                  225
+
+
+個方法之下，只能建構出同一種對象，然而既有法人格理論卻將法
+人與法規範分立，這也就意味著一種方法內出現了兩種不同質的對
+象，這顯然是不可允許的。在認識論批判下，Kelsen認為法人格在
+法學中的獨立地位必須被解消掉，進而發現法人其實就只是一個人
+們任意劃界的規範複合體（Normkomplex） 32 ，而之所以要這麼
+做，純粹只是基於認識上的方便而進行的擬人（Personifikation）33。
+經此重構，法人格和事實之間的關係，也就是歸責關係，說得更清
+楚一點就是，作為法人格的規範複合體所涵蓋的規範中，其內容是
+否有該些事實。如果從歸責關係來看的話，法人格也可以說是許多
+歸責關係匯聚之處、可以說是一個歸責點（Zurechnungspunkt）34。
+
+     總的來說，在認識論批判之下，「兩面」式國家理論的問題在
+於，這種國家理論將國家看作一個與法不同的實體，這點在「社會
+的國家概念」可以明顯地看出來：國家在兩面式國家理論的觀點
+下，顯然有著與法不同的一面，所以才需要以歷史、社會、政治等
+其他因果科學為方法，來展現出國家的這個面向。然而，如果對象
+是由方法所構成、而一個方法只能構成一個對象，國家又只有在以
+法學的視角進行觀察時才能看見，此時去設想了一個與法不同的實
+體國家，就會是一個嚴重的錯誤35。Kelsen把這個錯誤稱為「對象
+
+
+
+32 Kelsen, Staatslehre (Fn. 3), S. 64-67.
+33 Kelsen, Staatsbegriff (Fn. 3), S. 205-206. Kelsen有關擬人的討論，承接上的是Hans
+   Vaihinger的論述。而從時序上來看，Kelsen「原質化」（Hypostasierung）、「對
+   象複製」    （Verdoppelung）的用辭，以及將國家概念和自然科學的「力」與「靈
+   魂」概念相類比，可能都出自Vaihinger。Vaihinger對於「力」與「靈魂」的討
+   論，可參HANS VAIHINGER, THE PHILOSOPHY OF ‘AS IF’ 86-87, 197-99, 211-14 (C.K.
+   Ogden trans., Kegan Paul, Trench, Trubner, 2d ed. 1935) (1920). Kelsen與Vaihinger
+   較為人所討論的關係，還是Kelsen在晚期的作品中以Vaihinger的理論作為基礎
+   規範的理論基石這點，KELSEN, supra note 6, at 256，相關討論可參鍾芳樺，純
+   粹法學的難題（註5）            ，頁129-132；Stanley L. Paulson, Kelsen’s Legal Theory: The
+   Final Round, 12 OXFORD J. LEGAL STUD. 265, 269-70 (1992) (book review).
+34 Kelsen, RR1 (Fn. 28), S. 57.
+35 Kelsen, RR1 (Fn. 28), S. 55.
+226                           《中研院法學期刊》第35期（2024年9月）
+
+
+
+  （Verdoppelung）36，因為它的後果便是把同一個研究對象，
+複製」
+複製成兩個不相容的東西，造成了系統中存在著二元性，而妨礙了
+純粹的認識；更嚴重的是，對象複製的錯誤還進一步衍生出回答
+「兩者之間的關係為何」這種困難「偽問題」
+                   （Scheinproblem）的必
+要 37 ：在兩面理論下，由各種因果科學所形構出的社會的國家概
+念，顯然與法學的國家概念並不同質，但兩者又在許多地方有所交
+集。解釋兩者之間的關係、特別是說明這些交點，便是一個Jellinek
+需 要 解 釋 的 問 題 38 。 Jellinek 對 此 的 答 案 是 國 家 自 我 義 務
+（Selbstverpflichtung des Staates），他認為指出社會面、事實面的國
+家是在創造法後、並自願地服從法。Jellinek之所以借用了Immanuel
+Kant的道德自律論，稱國家服從法是一種「自我束縛」，是因為在
+他看來作為國家意志的法被國家所遵守，其實也就是國家在服從自
+己39。而事實面的國家在服從法之後，法學的國家概念成為可能，
+國家這才成為一個法上可以理解與掌握的事物40。這麼一來，國家
+實體的設想其實是一種「原質化」（Hypostasierung），因為它是一
+種先於法、在法秩序的「背後」以權力來保障法秩序的東西41。
+
+  Kelsen認為，這種解法完全是自找麻煩，國家學根本是先製造
+了一個問題、再用疑點重重的方式嘗試解決這個問題：如前所述，
+這一連串問題的根源，即是國家的實體化。由於自始就用錯誤的方
+式看待國家，認為國家有一個超越法、不同於法的實體，而進一步
+生產出方法論上可疑的兩面理論，試圖去掌握其實並不存在的「社
+
+
+36 Kelsen, Staatslehre (Fn. 3), S. 76.
+37 Kelsen, HP2 (Fn. 25), S. XIX.
+38 Kersten (Fn. 20), S. 5-7.
+39 Jellinek對於自我義務的處理，其實涉及到的是主權（Souveränität）是否是不可
+   限制的問題。Jellinek藉由引入自我義務，澄清了具有主權的國家與國家法之間
+   的關係：他一方面強調主權依然受法所限制，但同時主權的「不受限制」則展
+   現在它能自由決定其法秩序的內容。參見Jellinek, Staatslehre (Fn. 10), S. 480-484.
+40 Uhlenbrock (Fn. 11), S. 106.
+41 Kelsen, Staatsbegriff (Fn. 3), S. 175-177.
+反實體的科學性認識演化之路                                            227
+
+
+會面」或「國家的實在」，最後再討論要如何橋接這兩個面相，創
+造出自我義務這種主張著國家「既超越、又受制」的自相矛盾理
+論。一旦我們從頭就正確地認識到，國家只有「法學的」一面、只
+有在法認識之下才能看見國家，那麼國家與法之間的關係，就不再
+是對立與分立的關係，而是合而為一：國家即是法規範的集合、是
+法規範的概觀（Überblick）42。在這個觀點下，國家只是蘊含著眾
+多法規範所表達的歸責關係的功能（Funktion）
+                        ，單獨稱呼國家僅只
+是將這個功能、這個概觀予以擬人化而已43。國家因而與法同一。
+
+三、實體國家概念解消之必要與法科學
+
+   至此，我們了解了Kelsen對當時主流國家理論的批判與重構，
+但對於這項工作與法科學之間的關聯，則還不甚明確。要將法學推
+上科學的層次，怎麼會有談國家理論的必要呢？這自然有其重要的
+理由。其一與法效力問題相關：Kelsen接受了國家法實證主義
+（Staatrechtspositivismus）的主張，認為國家的制定法是法語句的必
+要形式44，但他無法接受國家法實證主義認為法效力出自國家意志
+的見解。在國家法實證主義的傳統下，法是國家之意思表示、是國
+家意志的展現，而國家的意志又被認為是某個、或某群人具體的、
+心理學意義上的意志。Kelsen之所以不能接受這樣的說法，是因為
+他認為要妥善理解與描述法，就必須以應然的方式來理解45，因為
+法規範中展現的歸責關係是一種與意味著「若A則B」的因果關係
+不同，其表述的是「若A則應B」的應然關係46；假若國家意志是一
+種實然的心理學現象，那法出自於國家意志，也就意味著應然的規
+範是從實然的現象中所從出，就出現了實然推導出應然的範疇錯
+
+
+42 Kelsen, Staatsbegriff (Fn. 3), S. 214-215.
+43 Kelsen, Staatsbegriff (Fn. 3), S. 206.
+44 Kelsen, HP2 (Fn. 25), S. 541.
+45 Kelsen, RR1 (Fn. 28), S. 35；鍾芳樺，純粹法學的難題（註5） ，頁102。
+46 Kelsen, RR1 (Fn. 28), S. 22-24；鍾芳樺，純粹法學的難題（註5）
+                                                ，頁101。
+228                                      《中研院法學期刊》第35期（2024年9月）
+
+
+
+誤，這不為Kelsen所容許47。法效力的問題其實涉及到兩個不同向
+度，也因此需要兩個不同的理論說明：其一是，如何解釋法系統
+中，既有的法規範之效力從何而來的問題；其二則是，新創造的法
+規範，其效力又是如何、以及從何而來。對此，Kelsen首先以「掏
+空」國家意志的方式，指出意志概念的功能便是確認，哪些法規範
+能被歸責予國家，也因此國家意志與歸責關係其實是一樣的東西48，
+藉此剷除了舊有意志理論涉及實然心理學式意義的內涵49。既有法
+規範的效力便以歸責的方式得到說明；而在法創造的部分，Kelsen
+則是藉由引入法階層論（Stufenbaulehre）來說明50。法系統在預設
+基礎規範（Grundnorm）之下，形成了一個具有階層的系統，法的
+創造是藉由上位階規範設定某些個人行動具備創設法規範的法效
+果，這些人行動的歸責點擬人化後便是一個法創造的「機關」51，
+這些機關便可以說是被上位階規範所授權（Ermächtigung）
+                               。這麼一
+來，法系統便是一個動態的階層系統，並且自己決定了自己的創
+造，而不再需要引入其他外於系統的東西52。
+
+
+
+47 Kelsen, RR1 (Fn. 28), S. 12-13。應／實然的分野、或者說分屬兩端之學科的界
+   線必須嚴守這點，在Kelsen學術生涯的起始就已被他強調，可參Kelsen, HP1
+   (Fn. 6), S. VII-VIII。如何妥善地處理應實然之間的問題，特別是法如何可能同
+   時是應然、又是實然，是Kelsen法理論中一個持續不斷、且對其理論發展有著
+   主導地位的問題，詳參鍾芳樺，純粹法學的難題（註5）                                   ，頁97-104。
+48 Kelsen, Staatslehre (Fn. 3), S. 65-66.
+49 林允中（註31），頁47-49。更進一步地，在民主機制下由議會所代表的「人民
+   意志」   ，在Kelsen看來也是一個擬制、而非實體，Shu-Perng Hwang, Volkswille:
+   Reale Substanz oder Notwendige Fiktion? Ernst-Wolfgang Böckenförde und Hans
+   Kelsen im Vergleich, Der Staat 59 (2020), S. 371 (379-384).
+50 Kelsen, RR1 (Fn. 28), S. 107-108. Kelsen在法階層論引用的是其門生Adolf Merkl
+   的研究，這點已是周知事實，在此不多贅述。另外，從另一個角度來看，
+   Kelsen在引入法階層論後，在一定程度上也降低了國家的制定法在其理論中的
+   地位，因為它們不再是法系統中的唯一法源，鍾芳樺，國家與法（註4），頁
+   142-144。
+51 Kelsen, RR1 (Fn. 28), S. 121-124.
+52 Stanley L. Paulson, Hans Kelsen’s Earliest Legal Theory: Critical Constructivism, 59
+   MOD. L. REV. 797, 807-09 (1996).
+反實體的科學性認識演化之路                                                                     229
+
+
+     另一方面，Kelsen認為既有的國家理論中，充滿著為意識形態
+辯護的論述，許多說詞只是服務於維護或增強國家權力53、或者是
+擁 護 君 主 與 君 主 制 54 。 Kelsen 指 出 ， 國 家 學 中 在 法 之 上 的
+（überrechtliche）實體國家概念，在法學上產生的後果，其實是
+「兩個國家法」相互競逐的狀況：如果要「正確地」重構「錯誤」
+的實體國家概念，則由於國家必然是規範複合體、必然是規範的歸
+責點，因此國家與法的分立，其實是兩個不同的規範秩序的分立、
+兩者之間的關係便是兩個規範秩序的關係。這樣看的話，國家與法
+分立之下的國家，其實是一個以「國家理性」（Staatsraison）為核
+心的規範秩序，這個秩序則會與法秩序競逐。Kelsen認為，既有的
+學說之所以這樣建構國家概念及國家與法關係，就是要為統治者、
+        （oberste Organ）—也就是君主—留下更多
+或者說「最高機關」
+自由裁量的空間55。如果從法秩序的角度來看，這個思路的目標就
+是要將君主的行為、特別是其非法行為，看作是國家或集體的行
+為，進而將君主凌駕於法秩序之上56。因此Kelsen更直言，所謂國
+家與法的對立，最主要的目的就要從所謂的「國家本質」中，提供
+一個偏好絕對君權制下的警察國之理論基礎57，以此為理論核心預
+設的既有國家理論，也因此並非全心全意地服務於認識58。在國家
+法實證主義下與國家概念掛鉤的法學，也受此波及而無法達到科學
+的程度，反而可能成為用以支持特定意識形態的工具59 。在他看
+
+
+53 Kelsen, Staatslehre (Fn. 3), S. 100-101.
+54 Kelsen, RR1 (Fn. 28), S. 111-114. Hans Kelsen, The Pure Theory of Law, ‘Labandism’,
+   and Neo-Kantianism: A Letter to Renato Treves, in NORMATIVITY AND NORMS:
+   CRITICAL PERSPECTIVES ON KELSENIAN THEMES 169, 170-71 (Stanley L. Paulson &
+   Bonnie Litschewski Paulson eds., Stanley L. Paulson, Bonnie Litschewski Paulson &
+   Michael Sherberg trans., Clarendon Press 1998) (1933) 特別針對的是Laband：
+   Kelsen認為他將政治立場偷渡到法理論中，這是學術工作所不可忍受的。
+55 Kelsen, Staatsbegriff (Fn. 3), S. 136-137.
+56 就這點而言，Kelsen尚有藉由與神學對比的進一步說明，詳見下文。
+57 Kelsen, Staatsbegriff (Fn. 3), S. 139.
+58 Kelsen, RR1 (Fn. 28), S. 116-117.
+59 Kelsen, RR1 (Fn. 28), S. 16-18. 當然，許多先行研究也都認為，Kelsen這個「意
+230                                     《中研院法學期刊》第35期（2024年9月）
+
+
+
+來，科學的重要工作之一，便是要揭開意識形態的遮掩物，因此破
+除這些暗藏並掩飾意識形態的實體概念，便是科學的要務、也是學
+術與政治的重要區別60。反意識形態更是Kelsen「純粹法學」的重
+要工作之一 61 。基於對法科學的追求，國家學的這些痼疾都是
+Kelsen所必須大刀闊斧地處置的對象。
+
+
+
+
+   識形態驅逐者」自己所提出的理論，其實也只是要為了特定的意識形態辯護而
+   已，如鍾芳樺就指出，Kelsen主張「一切國家都是法治國（Rechtsstaat）                                」與史
+   實不合，法治國理念是近代資本主義的產物，並不是所有國家存在的必然基
+   礎，他的這個觀點其實是要替自由主義法治國的意識形態辯護。鍾芳樺，國家
+   與法（註4），頁168。本文認為，Kelsen確實在政治上有著非常明顯的社會民
+   主 傾 向 ， 對 此 可 參 Thomas Olechowski, Hans Kelsen: Biographie eines
+   Rechtswissenschaftlers, 2020, S. 179-184 （以下簡稱：Olechowski, Biographie
+   Kelsens）; Clemens Jabloner, Kelsen and His Circle: The Viennese Years, 9 EUR. J.
+   INT’L L. 368, 377-78 (1998)。Kelsen, HP1 (Fn. 6), S. XI 也「大方承認」自己對於
+   自由主義的偏好—儘管這個將自己理論的科學部分與政治宣言相連結的做
+   法，也許是當時年輕的Kelsen「年少輕狂」之舉，見Christoph Schönberger,
+   Hans Kelsens „Hauptprobleme der Staatsrechtslehre“: Der Übergang vom Staat als
+   Substanz zum Staat als Funktion, in: Jestaedt (Hrsg.), Hans Kelsen Werke, Bd. 2,
+   2008, S. 23 (32-33)。不過就「一切國家都是法治國」的主張，Kelsen, RR1 (Fn.
+   28), S. 126-127; Kelsen, RR2 (Fn. 6), S. 320. 其實很清楚地指出，他所指的
+   „Rechtsstaat“並不是具有特定內涵的、實質的法治國，甚至也不是「國家依法
+   行政」等非常弱意義下的法治國。在他看來，„jeder Staat ein Rechtsstaat sein
+   muß“（每個國家都必須是Rechtsstaat）毋寧是認識論意義下的宣稱：所有國家
+   都只是法秩序，因此任何國家一定都是「法的國度」。而那些主張實質內涵法
+   治國的論述，在他看來是自然法、是關於正義的判斷；需要「依法行政」的國
+   家則顯然是一種「兩面式」的觀察，因為國家「就是法」                                  ，「法應依法行政」是
+   一個如字面上一樣荒謬的要求。總之，至少在Kelsen對「法治國」的強調上，
+   其意義並不是自由主義、憲政民主的法治國，而是完全形式的、作為認識之條
+   件或意義圖式（Deutungsschema）意義下的法治國。就此，也許把Kelsen對
+   Rechtsstaat的用法稱為「法之國」             ，會更貼近他的本意。
+60 Johannes Feichtinger, Intellectual Affinities: Ernst Mach, Sigmund Freud, Hans
+   Kelsen and the Austrian Anti-essentialist Approach to Science and Scholarship, in
+   THE FOUNDATION OF THE JURIDICO-POLITICAL: CONCEPT FORMATION IN HANS
+   KELSEN AND MAX WEBER 117, 119-20 (Ian Bryan, Peter Langford & John McGarry
+   eds., 2016).
+61 Kelsen, RR1 (Fn. 28), S. 17.
+反實體的科學性認識演化之路                                                                        231
+
+
+參、法科學的科學哲學
+
+一、實體的解消
+
+      如前所述，Kelsen之所以要發展這種樣貌的國家學，是因為他
+認為這樣可以使法學科學化。但他「憑什麼」做出這樣的判斷呢？
+說得更清楚一些，前面我們討論了「法學的科學化」與國家理論的
+關係；但對於為何這樣處理國家理論，會有助於「科學化」，則仍
+然不清楚。進一步來說，為何要走向科學化，就必須擁抱「這種形
+式」的國家／法理論呢？要回答這點，就必須釐清Kelsen是怎麼看
+待科學，這某種程度上也就是要釐清Kelsen的科學哲學主張。
+
+      讓我們回頭再看一眼Kelsen的國家學。其中，我們可以看到他
+多次強調實體國家的問題62，並且要以形式的、客觀的法秩序來取
+而代之，作為理解、或者說表述國家的方式63。我們已經知道，他
+認為這麼做對於法學的科學化有所助益，而之所以用這樣的理論樣
+貌來應對，是因為Kelsen認為法學同時面臨著來自於自然科學與自
+然法的威脅，需要在方法論上站穩腳步，才能確立自己作為一個獨
+立自主學科的地位64；從Kelsen的主要論證，如對實體國家、特別
+是國家意志的批判與拆解，從早期作品開始就已經成形來看，這個
+理由可能也是型構其理論的最原初、且最主要的理由65。
+
+
+62 Kelsen, Staatslehre (Fn. 3), S. 9, 11, 17-18, 76, 83; Kelsen, Staatsbegriff (Fn. 3), S.
+   126-130.
+63 詳細的整理，可參林允中（註31），頁35-56。值得注意的是，Kelsen其實還主
+   張了這是國家唯一的認識或表述方式，Kelsen, Staatslehre (Fn. 3), S. 65; Kelsen,
+   Staatsbegriff (Fn. 3), S. 44-45, 106, 117.
+64 Horst Dreier, Hans Kelsens Wissenschaftsprogramm, in: Schulze-Fielitz (Hrsg.),
+   Staatsrechtslehre als Wissenschaft, 2007, S. 81 (86-92).
+65 Kelsen對於法學獨立性的焦慮，充分顯現在他早期的鉅著《論國家法學的主要
+   問題》之中，Kelsen, HP1 (Fn. 6), S. 5-7。Ota Weinberger並指出，所有Kelsen理
+   論的雛型都能在這部作品中找到，Ota Weinberger, Introduction: Hans Kelsen as
+   Philosopher, in ESSAYS IN LEGAL AND MORAL PHILOSOPHY, at IX, X (Ota Weinberger
+   ed., Peter Heath trans., D. Reidel 1973) (1973)。近來則又有研究認為，Kelsen的理
+232                                      《中研院法學期刊》第35期（2024年9月）
+
+
+
+      不過，隨著理論的發展，Kelsen也逐步賦予這項工作更多意
+義。Kelsen認為科學發展中存在著一個發展方向：從實體到關係。
+現代科學在這項發展路徑裡的重要目標與職志，即是將實體解消為
+功能66。把這點套用在國家學的發展上，便是把遭「僵化、具體化
+的法建構物，使其重回簡單且純粹的法命題關係之中」67、另一個
+說法則是把作為實體的國家解消於作為功能的法秩序之中 68 。另
+外，藉由與自然科學的類比，Kelsen指出他的工作不只讓法學獨
+立、還能讓它成為一門客觀的科學，成為一個與自然科學平起平坐
+的「規範科學」
+      （Normwissenschaft）。「實體的拆解」、「將研究重點
+移轉到關係」這樣的看法，其實可見於許多同期的科學哲學作品69。
+不過Kelsen注意到這項發展的開端，是出於日後與他「反目成仇」
+的學生Fritz Sander的研究：Sander指出，傳統國家學中，被看作是
+獨立於法程序（Rechtsverfahren）、存在於法運作與法經驗背後的國
+家概念，是一種實體概念，而此概念應該要被解消入法運作之中，
+國家概念即是指稱整體的法運作、是一個整體法運作的功能 70 。
+
+
+
+   論雛型其實還可以進一步溯及到他的第一本學術作品《論但丁的國家學》。
+   Mario Patrono, Kelsen Before Kelsen – Reflections on Hans Kelsen’s Die Staatslehre
+   des Dante Alighieri, 50 VICTORIA U. WELLINGTON L. REV. 421, 425-29 (2019)。總
+   之，不論採取哪一種看法，Kelsen的理論輪廓與主要主張奠基的時點甚早，後
+   續的改動與引述理論和論述，都是要持續發展這些早期所奠立的主張，這點應
+   無疑義。
+66 Kelsen, Gott und Staat (Fn. 8), S. 157.
+67 „Es handelt sich mir durchwegs um die Auflösung der im Denken des Juristen
+   erstarrten, verdinglichten Rechtsgebilde, um ihre Rückführung auf die einfachen und
+   reinen Relationen des Rechtssatzes. “ Hans Kelsen, Das Problem der Souveränität und
+   die Theorie des Völkerrechts, 1920, S. IV（以下簡稱：Kelsen, Souveränität）.
+68 Kelsen, Staatsbegriff (Fn. 3), S. 206, 211; Hans Kelsen, RR2 (Fn. 6), S. 277.
+69 Kelsen有注意到19世紀末的經驗批判主義者，如Richard Avenarius、Joseph
+   Petzoldt都有類似的說法。Kelsen, Staatsbegriff (Fn. 3), S. 208-209. 與Kelsen在科
+   學化路途上有著親近性的Ernst Mach，也有類似的論述，詳見後述。
+70 Kelsen, Staatsbegriff (Fn. 3), S. 215-218。有關Kelsen認為Sander正確地指出傳統
+   國家概念是一個實體概念，參Kelsen, Staatsbegriff (Fn. 3), S. 207 fn. 1。儘管
+   Kelsen認同Sander的部分判斷，不過對於Sander進一步的其他論證與理論主張，
+   如將法規範類比為自然科學的自然律、法經驗（Rechtserfahrung）類比為自然
+反實體的科學性認識演化之路                                                                      233
+
+
+Kelsen認同並接受了Sander的說法，認為Sander正確地指出了傳統
+國家概念的實體樣貌、國家概念也確實該轉型為功能，Kelsen並進
+一步援引了Ernst Cassirer對自然科學那側的分析，認為Cassirer將自
+然科學的基礎概念，如原子、乙太、物質、力、靈魂等，從實體概
+念轉變為功能概念的工作，也必須落實在法學上、特別是必須拆解
+國家概念。如此便證明了這項轉變的傾向，是內在於科學的發展之
+中71。Cassirer藉由「實體概念」與「功能概念」的對立72，是想檢
+
+
+
+   現象、以及Sander諸多對純粹法學的澈底批判，Kelsen則強烈反對，Kelsen,
+   Staatsbegriff (Fn. 3), S. 218 fn. 3。兩人的論戰可參Christoph Kletzer, Kelsen,
+   Sander, and the Gegenstandsproblem of Legal Science, 12 GERMAN L.J. 785, 785-810
+   (2011); Paulson (Fn. 7), S. 7-26; Axel-Johannes Korb, Sander gegen Kelsen:
+   Geschichte einer Feindschaft, in: Walter/Ogris/Olechowski (Hrsg.), Hans Kelsen:
+   Leben – Werk – Wirksamkeit, 2009, S. 195 (197-206)。兩人之間的學術爭論越演
+   越烈，在一連串誤會下甚至讓Sander指控Kelsen在國家與神之間的類比、以及
+   Hermann Cohen的新康德主義之繼受上，剽竊了他的學術成果。兩人爭鬥的詳
+   情可參Olechowski, Biographie Kelsens (Fn. 59), S. 316 ff.
+71 Kelsen, Staatsbegriff (Fn. 3), S. 212. 不過，必須特別釐清的是，Kelsen在一些作
+   品裡使用了„Funktionsbegriff“ 一詞，這當然容易讓人聯想到Cassirer的作品
+   Substanzbegriff und Funktionsbegriff，且Kelsen確實也引用了Cassirer來加強自己
+   的論點，但這項親近關係應該是在Kelsen已將其理論架構發展成形後偶然而
+   成。換句話說，至少在文本中我們無法看到Cassirer在Kelsen的國家與法理論之
+   發展中的影響；甚至，Cassirer在作品中強調的其實是兩種不同哲學觀的差別，
+   並藉此討論認識的條件，但Kelsen的引用有很強的「選擇性引用」狀況，所引
+   的篇章中都不是Cassirer這些論證的核心部分。如果這個觀察是對的，那恐怕
+   Kelsen與Cassirer在思想上究竟多大程度上有所契合，就必須畫上問號。如果比
+   照Paulson認為Kelsen是在批判Jellinek時才逐步接受了新康德主義的論點（參
+   Paulson (Fn. 7)）  ，那麼或許Kelsen有關「實體與功能」部分的論述、或至少是
+   „Funktion“一詞的使用，與其說是受到Cassirer的影響、或援引他的思想，更可
+   能是在與Sander互動的過程中所接受的。
+72 關 於 實 體 與 功 能 概 念 的 分 立 在 Cassirer 整 體 哲 學 中 的 意 義 ， 可 參 閱 Simon
+   Truwant, The Concept of ‘Function’ in Cassirer’s Historical, Systematic, and Ethical
+   Writings, in THE PHILOSOPHY OF ERNST CASSIRER: A NOVEL ASSESSMENT 289 (J.
+   Tyler Friedman & Sebastian Luft eds., 2015)。不過，從文本上看起來Kelsen本身
+   對於„Funktion“這個詞並沒有什麼進一步的發展或分析，對於Funktion本身可能
+   帶有的意義或理論潛力並不太感興趣，比起來他更強調「關係」（Beziehung）
+   作為科學之研究主軸這點，Cassirer的論點與„Funktion“的說法只是用來強化他
+   對「關係」的關注。另外，有論者指出Kelsen的法規範概念本身應該就可以以
+   功能的方式來理解，see Mario García Berger, The Legal Norm as a Function: The
+234                                    《中研院法學期刊》第35期（2024年9月）
+
+
+
+討概念建構的理論73 。在舊有的思路下，概念被置放在優先的位
+置74，其中最優先的是實體的概念，因為各種存有的性質似乎只有
+在實在、給定的實體或物質上才是可想像的。在這種觀點中，關係
+（relation）附屬於實體，並沒有獨立的地位、且也不會更動實體的
+本質75。這種思路下，一切概念都是從個別經驗的共通特徵抽象化
+而得來的，而也因為概念出自於經驗，因此知覺（sensation）是一
+切知識的起點，這點並且是自明且給定的76。在這樣的思路下，測
+量（measurement）的結果便是最基本的科學事實，但Cassirer認為
+這是有問題的：即便是測量中所使用的基本單位，其實也都預設了
+概念組、甚至某些律則。舉例來說，當我們在測量速率的時候，
+「速率」本身就預設了「方向」、「運動」、「時間」、「距離」等數學
+與物理概念，這些概念又預設了某些公理或定律。因此測量的結果
+並不可能是最基本的事實，要掌握「測量」甚至一定得先預設一個
+特定的概念系統77。也因此，我們也可以發現從知覺中無法在毫無
+預設的狀況下產生認識，概念也不可能只是純粹再現了知覺，一切
+的認識必須處在一個經驗的一般性形式（general form）中，而這些
+一般性形式是由普遍的法則所構成的78。
+
+  Cassirer同時也警告，概念與經驗之間的關係必須嚴守，一旦
+概念與經驗之間失去了聯繫，概念就變成了一個不可知、在經驗之
+上的、絕對的實體，而這些經驗無法企及的實體卻又被認為是最真
+實的實在，這使得經驗的地位變得非常可疑79。要解決這個問題，
+
+
+   Influence of Ernst Cassirer and the Marburg Neo-Kantians on Hans Kelsen, 12
+   PROBLEMA: ANUARIO DE FILOSOFÍA Y TEORÍA DEL DERECHO 239 (2018).
+73 ERNST CASSIRER, SUBSTANCE AND FUNCTION AND EINSTEIN’S THEORY OF RELATIVITY,
+   at iii (William Curtis Swabey & Marie Collins Swabey trans., Dover 1953) (1923).
+74 Id. at 4.
+75 Id. at 8.
+76 Id. at 4-5.
+77 Id. at 143-46, 427.
+78 Id. at 268.
+79 Id. at 165.
+反實體的科學性認識演化之路                            235
+
+
+便是要正確地掌握「概念」與「關係」的先後順序：概念表述的是
+系統中的一個「位置」，這是藉由某概念與其他概念之間的關係而
+得到確定的80；概念具體指涉到的，則是感知之間的關係與連結，
+這麼一來概念便是表現具體感知之對應關係的功能，而不是一個與
+感知不同的存有81。這樣看來，概念便是個圖式（schemata），而圖
+式的意義在於完整地展現感知（perception）之間的關係與連結。
+換句話說，這些概念並非脫離感知、不是一個與感知不同的存有，
+而是與感知緊密連接、展現了經驗的可能形式82，同時也免於原質
+化（hypostasize）的危險83。
+
+      對Kelsen來說，傳統國家學的國家概念無疑地是實體概念。國
+家被認為是一個與法本質上不同、超越法又創設法的存有，本身也
+不是「關係」，關係只會發生在國家與其他法主體之間。但Cassirer
+的看法與Kelsen的國家學方案之間，具體要如何類比呢？將自然科
+學與規範科學之中的要素對應關係，這項類比工作的意義就會明顯
+得多。如前所述，在Cassirer看來，概念的意義在於展現感知之間的
+連結與關係，呈現出雜多的感知經規整後的樣貌，Cassirer也稱為
+「規整概念」（ordering concept）84。相對應地，Kelsen的國家概念
+顯然也是要作為一個規整概念、用以展現連結與關係，但國家概念
+所要規整、所要呈現的連結與關係是什麼呢？在Kelsen的理論體系
+裡，這個位置無疑地是保留給法規範、以及法規範所展現的歸責關
+係，法規範與歸責關係是需要被概念所規整的質料。國家必須被理
+解為一個展現法之統一性（Einheit）的基本功能（Grundfunktion）
+                                       ，
+它的作用便是指出特定規範在法秩序中的成員身分，也可以就這個
+意義上理解為法效力的鑑別判準。這麼一來國家與法之間的差別便
+
+
+80 Id. at 36.
+81 Id. at 19-20.
+82 Id. at 165.
+83 Id. at 26.
+84 Id. at 165.
+236                                    《中研院法學期刊》第35期（2024年9月）
+
+
+
+是邏輯的、而非形上學的85。國家概念的功能與意義即是提供一個
+整體法關係（Beziehungen des Rechtes）的概觀。如果脫離了這層
+意義，而把國家看作一個超越法關係的實體，對象複製的錯誤就隨
+之出現86。在這樣的理解下，國家就從實體轉為功能概念，而具體
+的改造我們也已在前一節看過：Kelsen把國家看作是一個歸責點、
+是眾多歸責關係所匯聚之處，這表示國家概念的意義是在法系統內
+被理解，且是以法系統的內容（法規範）與其之關聯（歸責）呈現
+出來的；同時，作為法規範的歸責終點、作為總體法規範複合體，
+國家也展現了法的統一性。
+
+二、認識的演化：Kelsen的科學史
+
+      前面我們看到了Kelsen藉由與自然科學一側的科學哲學理論、
+特別是與Cassirer的論述相類比，來強化其國家學方案在法學科學
+化中的意義與地位。不過，「實體到關係的轉變是內在於科學的傾
+向」這個宣言，其實是Kelsen從民族誌與哲學史的考察中得出的結
+論。他認為人類認識存在著演化的路線，在這條發展的途徑上，人
+們理解與觀看世界的方式逐漸產生改變，從非理性、充斥著情緒和
+意識形態，轉變成理性、非人格式（non-personalistic）的思維。現
+代科學也就是在後者的降臨下而誕生。
+
+      發展出一種一元且線性的演化途徑來作為科學哲學的基礎觀
+點，對於當今更警醒且重視文化現象之多元性的我們來說，似乎是
+有點難以想像的思維。不過，一如本文在其他部分的考察，本文希
+望將Kelsen的理論嘗試置放在各種脈絡中，而他之所以會發展出一
+套「認識演化論」，也必須回顧當時的學術界的場景：Charles
+                          87
+Darwin的理論在世紀之交的奧匈帝國有著相當的熱度 ，在這個背
+
+
+85 Kelsen, Staatsbegriff (Fn. 3), S. 213.
+86 Kelsen, Staatsbegriff (Fn. 3), S. 214-215.
+87 Mónica García-Salmones, On Kelsen’s Sein: An Approach to Kelsenian Sociological
+反實體的科學性認識演化之路                                                                   237
+
+
+景下利用演化論的形式來解釋現象，就不那麼讓人意外88。不過，
+Kelsen展開這些研究的根本關懷，其實還是在於法學、特別是在於傳
+統國家學的批判89，這點可以從他在許多作品中把既有的國家學理
+論內容與「原始民族」相比較，用來指斥前者的「不科學」看出90。
+
+
+   Themes, 8 NO FOUND.: J. EXTREME LEGAL POSITIVISM 41, 51 (2011); WILLIAM M.
+   JOHNSTON, THE AUSTRIAN MIND: AN INTELLECTUAL AND SOCIAL HISTORY 1848-1938,
+   at 323-25 (1976). 當時德語世界有關演化論的討論，一方面固然有Ernst Haeckel
+   之研究的影響，但同時Arthur Schopenhauer哲學中的一些概念，也被認為是提
+   前為Darwin理論的引入架好了橋梁，Peter Sprengel, Fantasies of the Origin and
+   Dreams of Breeding: Darwinism in German and Austrian Literature around 1900,
+   102 MONATSHEFTE 458, 460 (2010)。至於法學界，世紀之交的德語世界固然有使
+   用演化論的法學者，特別是被譽為人類學之父的Albert Hermann Post，但他們
+   當然不是「通說」           。Hans-Peter Haferkamp, Rechtsgeschichte und Evolutionstheorie,
+   in: Siep (Hrsg.), Evolution und Kultur: Symposium der Nordrhein-Westfälischen
+   Akademie der Wissenschaften und der Künste, 2011, S. 35 (38-43).
+88 Kelsen對演化論的使用其實相當廣泛：舉例來說，Kelsen有關國際法的討論
+   中，將國際法稱為一個「原始的法秩序」                         （primitive Rechtsordnung）   ，認為它們
+   處在一個「內國法已經走完的發展路途的起點」                             （Es steht erst am Anfang einer
+   Entwicklung, die das staatliche Recht schon zurückgelegt hat.）
+                                                                ，Kelsen, RR2 (Fn. 6),
+   S. 321-322。Kelsen的這個看法顯然是將內國法看作一個發展的終點、發展的完
+   全體，從這個角度出發才能說國際法尚處「原始」。相同意見可參Clemens
+   Jabloner, Menschenbild und Friedenssicherung, in: Walter/Jabloner (Hrsg.), Hans
+   Kelsens Wege sozialphilosophischer Forschung, 1997, S. 57 (61-62)；與此類似的
+   是，Kelsen一方面指出「國家一定是法秩序」，不過並不是所有法秩序都是國
+   家，法秩序必須要有一定程度的集中與功能分化、特別是要有創造與適用法律
+   的機關，才能稱作一個國家。因此「原始社會」的法秩序與屬於原始法秩序的
+   國際法，都不是國家。Kelsen, RR2 (Fn. 6), S. 289.
+89 Horst Dreier, Rechtslehre, Staatssoziologie und Demokratietheorie bei Hans Kelsen,
+   2. Aufl., 1990, S. 93-94; Arkadiusz Górnisiewicz, Totemism of the Modern State: On
+   Hans Kelsen’s Attempt to Unmask Legal and Political Fictions and Contain Political
+   Theology, 33 RATIO JURIS 49, 54-56 (2020); García-Salmones, supra note 87, at 55.
+   Jabloner認為，Kelsen在這裡的主要工作，是在維也納學派（Wiener Kreis）的
+   影響下，要將他的意識形態批判與法理論相連結，是一個統一科學
+  （Einheitswissenschaft）的嘗試，但這個意圖則與Kelsen自始就強調的應實然二
+   元區分出現嚴重的矛盾，使得這也是Kelsen最後一次嘗試這麼做。Clemens
+   Jabloner, Bemerkungen zu Kelsens „Vergeltung und Kausalität“, Besonders zur
+   Naturdeutung der Primitiven, in: Krawietz/Topitsch/Koller (Hrsg.), Ideologiekritik
+   und Demokratietheorie bei Hans Kelsen, 1982, S. 47 (49-53).
+90 Kelsen在1943年出版的作品SOCIETY AND NATURE，以相當大的篇幅發展了這項
+   論點。但把傳統國家理論與這種後來被他稱為「原始認識」的思路相連接，是
+238                                      《中研院法學期刊》第35期（2024年9月）
+
+
+
+這種使用方式固然在人類學或社會學上值得商榷91，但這正是他展
+現自己科學觀的方式，也因此這些論述值得我們注意與認真看待。
+
+
+   Kelsen早已多次使用的論述，如Kelsen, HP1 (Fn. 6), S. 4-5; Hans Kelsen, Über
+   Staatsunrecht, in: Klecatsky/Marcic/Schambeck (Hrsg.), Die Wiener rechtstheoretische
+   Schule: Schriften von Hans Kelsen, Adolf Merkl, Alfred Verdross, Bd. 1, 2010, S. 785
+   (791)（以下簡稱：Kelsen, Staatsunrecht）; Kelsen, Staatslehre (Fn. 3), S. 63;
+   Kelsen, Staatsbegriff (Fn. 3), S. 206。換句話說，這個「人類認識發展學」的看
+   法，幾乎是從Kelsen學術生涯的開始便已存在。1911年作品簡單勾勒出的圖
+   像—「律則」           （Gesetz）的概念是從社會往自然界擴展、人是把自己的社群和
+   自己的形象投射到自然界，並以此方式來理解自然，也因此自然律與社會規範
+   一樣都存在著超越性的支配者、自然科學最後掙脫了超越性的靈魂—，基本
+   上與Kelsen在1943年嘗試鋪陳的敘事如出一轍。1943的作品中Kelsen新增的，
+   除了大量的「實證研究」來作為人類認識之「起源」的例證，就是明確的演化
+   論論述。
+   最後必須提及一個在引註文獻上有些重要性的版本學問題：SOCIETY AND
+   NATURE 基 本 上 是 Kelsen 再 早 一 些 （ 1941 年 ） 以 德 語 寫 成 的 Kausalität und
+   Vergeltung 的 「 英 文 版 」， 對 此 可 參 Clemens Jabloner, Beiträge zu einer
+   Sozialgeschichte der Denkformen: Kelsen und die Einheitswissenschaft, in:
+   Jabloner/Stadler (Hrsg.), Logischer Empirismus und Reine Rechtslehre: Beziehungen
+   zwischen dem Wiener Kreis und der Hans Kelsen-schule, 2001, S. 19 (19-43);
+   Olechowski, Biographie Kelsens (Fn. 59), S. 692-693。是故，本文將這兩個作品與
+   其中論旨視作同一，儘管本文Kelsen原典部分參考的是「英文版」                                     ，討論「德文
+   版」的二手文獻本文也一併參酌—具體的例子即是Jabloner著作（Jabloner
+   [Fn. 89]），併此敘明。
+91 Kelsen再現與應對資料的方式，受到社會學與人類學學者大力批評，其中
+   Talcott Parsons的評論足以作為代表：他認為Kelsen的許多論述為了符合預先設
+   立的理論，而選擇性引用，對於不合其理論的部分直接忽視；在說明其理論所
+   引用的資料上，Kelsen也未區分出嚴謹的學術性整理與探險家的道聽塗說，而
+   給予兩者相同的分量；且在堆疊大量範例之餘，欠缺任何實質的分析與論述；
+   最後，是Kelsen的論述太過扁平化，將複雜且多樣的現象擠壓在其預設的刻板
+   印象中。Parsons不客氣地說，Kelsen欠缺分析社會系統的能力，且對於其所書
+   寫的學圈缺乏基本的認識，特別是Kelsen所引用的研究與論述大多已經非常過
+   時。他更指出，Kelsen只是把民族誌用來當作他已預設的理論的範例，這是一
+   種「法學式」的方法（juristic approach）              。Talcott Parsons, Book Review, 58 HARV.
+   L. REV. 140, 140-44 (1944) (reviewing HANS KELSEN, SOCIETY AND NATURE: A
+   SOCIOLOGICAL INQUIRY (1943)). 另一個值得我們注意、且對這個論證的「歷史
+   真實性」持高度保留的理由，是Kelsen用以舉為人類認識之起點的「原始認
+   識」，都是取材於19、20世紀對「原始部落」的描述與紀錄。即便讓我們先忽
+   略為Parsons所批判的、這些紀錄實際上良莠不齊的問題，這些部落的描繪能作
+   為Kelsen立論基礎的基本預設，便是他們直至當時都「未曾演化」                                     。而這項預設
+   本身的疑點恐怕就非常多了。
+反實體的科學性認識演化之路                                                        239
+
+
+       藉由這個演化圖像，Kelsen其實想強調的是兩種不同的世界
+  92
+觀 ，儘管兩個觀點下都是以律則來解釋世界，但它們用以解釋世
+界的律則則分屬不同範疇：理性的態度下，世界被以實然因果律來
+解釋；情緒性的態度下，則以應然規範來解釋世界93。讓我們從人
+類認識之演化起點開始。Kelsen認為，人類起初使用著一種情緒性
+的、充斥著意識形態的認識方式。這種認識方式將世界看作是依照
+規範而行動的實體（substance）所構成，現象是源自實體受規範的
+規制或命令而產生的 94 。這是種以規範來理解環境與世界的觀
+點95 。這樣的「原始」世界觀，有幾個重要的基本預設。首先，
+Kelsen認為人類起先並不懂得區分物我，而將萬物都視為自己的同
+類，這使得人們是以社會關係的角度出發在看待世界，並以自身社
+群的規範「延伸適用」，來解釋各種自然現象96。這種物我的不加
+區分，也體現在原始民族的泛靈論（animism）之上。泛靈論不可
+以被稱作是擬人（anthropomorphic）或是人化（personification），
+因為被擬人或人化的東西必須先「不被當人」，才能被擬人或人
+化，但在泛靈論中，萬物都被看作是人的同類，原始民族是以「人
+格 」（ personal ） 的 方 式 來 看 待 萬 物 ， 因 此 這 是 一 種 人 格 式
+（personalistic）的觀點97 。在原始民族的人格式觀點下，現象的解
+
+
+
+
+92 Kelsen在此的討論儘管沒有言明，但事實上也是延續了他在其他作品中討論的
+   主觀主義與客觀主義的世界觀之區分，Kelsen對這兩種世界觀的鋪陳，可參
+   Kelsen, Souveränität (Fn. 67), S. 314-317。對Kelsen世界觀之討論的分析，可參鍾
+   芳樺，國家與法（註4），頁109-116。
+93 HANS KELSEN, SOCIETY AND NATURE: A SOCIOLOGICAL INQUIRY 1 (1943). 在這樣的
+   態度下，人們可以說是以一種應然觀點在看待世界，而特別需要提醒讀者注意
+   的是，這只是「一種」應然觀點；換句話說，Kelsen並不認為所有的規範觀點
+   都是情緒性、或者說非理性的。Kelsen一生的理論志業，可以說都是要建立一
+   個理性的應然觀點，也就是法科學。
+94 Id. at 44.
+95 Id. at 24-31.
+96 Id. at 6-8.
+97 Id. at 24-28.
+240                                      《中研院法學期刊》第35期（2024年9月）
+
+
+
+釋常會以「誰想要如此」來說明，而非追問「為何會如此」98。當
+把世界看作由規範組織而成的時候，這個問題也可以被改寫為「誰
+欲求（willed）這樣的規範」
+               ，而欲求者則可以是人或萬物的靈魂。
+這種思路把世界的運行看作是心理意志的結果，也因此是一種
+「人」而非「事」的解釋。這樣的解釋方式，是試圖以異於事物、
+存在於事物背後的靈魂，來解釋現實中的事物，這種解釋方法中便
+存在著本質上不相同的東西，而與因果解釋的思路中，起因與後果
+都是同質的這點，相當不同。上述的思考模式，設想了在一切現象
+的「背後」有著各種靈魂，這些靈魂一方面能作為欲求規範的主
+體、另一方面也會合乎規範地「行動」。這種思路在Kelsen看來，
+其實蘊含了原始的意識形態，即應報原則（retribution）99。應報原
+則作為一種規範的具體內容，也被原始民族用以解釋傷病100 、氣
+候101 等現象。這些解釋方式的共通特色，是它們都被設想為某種
+「物質」
+   。Kelsen認為原始民族有一種實體化的傾向（substantializing
+tendency）
+        ，他們不懂得區分物體、條件、力，而是將他們都看作某
+種實體。這被Kelsen稱為一種實體化（substantialize）的思維102 。
+總的來說，在Kelsen的二分法下，實體化的思維是一種人格式的思
+考，這樣的思維將世界看作是各種實體的行動所共同構成、這些實
+體又被超越性的靈魂所規制。貫穿這個思維的，則是應報原則這個
+意識形態。Kelsen更進一步指出，意識形態並不只是實體化的「副
+作用」，還更進一步強化了這種思路103。也就是說，實體化與意識
+形態之間存在著一種「相輔相成」的緊密關係。
+
+
+
+
+98 Kelsen, HP1 (Fn. 6), S. IV; KELSEN, supra note 93, at 42-44.
+99 KELSEN, supra note 93, at 53-58.
+100 Id. at 97-115.
+101 Id. at 115-18.
+102 Id. at 11-13.
+103 Id. at 40.
+反實體的科學性認識演化之路                      241
+
+
+      說明了人類認識之發展的「起點」，緊接著要展現的是人類的
+世界觀，是怎麼樣從情緒轉向理性。Kelsen以因果關係概念的發展
+作為這部分考察的主軸。Kelsen指出，最初因果關係在希臘的自然
+哲學中，其實還是規範解釋的一部分，當早期的希臘哲學家在思考
+宇宙的普遍律則時，他們所想的是某種如君王一般統治世界的東
+西。即便當時起因（cause）的思考已經出現，因果關係的思路正
+在逐漸成形，但其仍然受人格式解釋的影響：起因是有意地致使某
+些事件發生、起因統治（rule）了事物104；而在基督教的神學體系
+中，人格式解釋更是明顯。基督教創世神話中，世界顯然並不是客
+觀元素自行發展而來，而是源自某個人格存有，即神，的命令。自
+然的運行是服從於權威的意志105。由於基督教文明具備的影響力與
+重要地位，這種將自然法則看作是神的命令、神頒布的規範的觀
+點，也成為至近世前的主導性觀點。
+
+  Kelsen認為，因果關係概念的發展關鍵在David Hume的批判，
+因為他將因果性從與神的意志、和與規範相聯結的論述中解放出
+來。Hume認為，因果關係只是人們將接續的事件加以連接的思考
+習慣而已，從而起因與結果之間，並不存在著內在於事物本身的、
+客觀的連結106。另外，因果關係常以可預測性作為標準，這意味著
+因果關係也拘束了未來，Hume認為這也是人們的習慣，將過去不
+斷發生的事情視為未來也會發生。不過，這樣的「習慣」並不足以
+宣稱起因與結果之間，即便在未來也存在著毫無例外的客觀連結。
+Kelsen認為當時這裡還存在著一個規範式的解釋來作為橋接；換言
+之，因果關係的表述中仍然存在著規範的影子，只有在一個律則是
+規範時，才能「決定」未來將發生些什麼。這與在Hume的時代，
+因果關係仍然被當作是神的意志有關，在這樣的觀點下，按照因果
+
+
+104 Id. at 233-34.
+105 Id. at 132.
+106 Id. at 249.
+242                                           《中研院法學期刊》第35期（2024年9月）
+
+
+
+關係運行的自然，依舊是遵循著神的意志107。不論如何，在Kelsen
+看來Hume依然卓有貢獻，特別是由於他放棄了從神的意志中來找
+尋必然的起因與後果之間的連結，這便將因果性的思考從本體論的
+問題轉為認識論的問題108。如此一來，超越性意志與規範的色彩，
+才能夠從因果性中消除109，換句話說，認識系統中的異質物—即
+人格式的意志—經此被捨棄了。我們不再問「誰欲求」、而轉而
+問「為什麼」，不再以超越性的意志、而是以起因與結果之間的客
+觀關係來解釋世界。
+
+      至此，我們可以看到，對Kelsen來說認識的發展進程，在形式
+上是從規範轉變為因果關係作為認識的框架。一方面，這個進展促
+進了客觀化，這是因為拋棄規範、改以因果關係來解釋事物後，解
+釋便不再從個人或社群的觀點出發，那些源自於主觀觀點的意識形
+態也不再涉及事物的解釋110；另一方面，隨著以因果關係來解釋事
+物，過去因實體化而產生的實體便被破除，那些被看作是最基本、
+不可被分割、且與實體之間的關係本質上相異的實體，便被解消於
+以因果律來表述的關係之中。從接下來的討論中我們可以看到，這
+個超越性意志與實體、到以「關係」與「功能」為核心的思考方式
+轉向，對Kelsen來說是現代科學的重要基礎111。
+
+三、國家與神的概念相似性
+
+      如前所述，Kelsen鋪陳這個演化圖像的核心關懷，還是國家學
+與法學。如果這是對的話，那麼Kelsen的意圖就非常清楚了：實質
+化是「原始」的，是人類理性尚未得到發展、理性認識尚未生成之
+下，以情緒性的方式來掌握世界的展現，而這些也是Kelsen想加諸
+
+
+107 Id. at 259-62.
+108 Id. at 249-50, 262.
+109 Id. at 250-51.
+110 Id. at 263-64.
+111 Kelsen, Gott und Staat (Fn. 8), S. 157.
+反實體的科學性認識演化之路                                                                       243
+
+
+傳統國家學的頭銜：它們其實就是藉由將國家實質化、情緒性且偷
+渡意識形態的「原始認識」。在意識形態的部分，Kelsen還進一步
+做出了類比：在「原始認識」那側，他認為儘管人們起先預設了物
+我是相等的，並以此來解釋世界，但人們遲早會發現人與其他物的
+差別，將這些物、特別是不可動的物看作是同類，似乎是行不通
+的，但原始民族卻依然持續使用這種解釋框架來掌握世界，Kelsen
+認為這是被強烈的意識形態—在原始民族這裡是靈魂信仰—所
+驅使112。明顯與此對應的，是Kelsen認為傳統的國家學事實上暗藏
+著君主制的意識形態，也正是在意識型態的驅使之下，讓國家學即
+便面臨到重大的自相矛盾，也需要開展出自我義務這樣的理論來自
+圓其說。這種「原始」而不科學的理論113 ，就需要經歷澈底的改
+造。
+
+      如前所述，為了對法的性質進行妥善的描述，Kelsen一直相當
+堅持應實然的區分。不過，基於這項區分而分隔兩岸的學科，即法
+科學與自然科學之間，其實存在著一種既有隔閡、但又緊密相連的
+張力：一方面，法學的科學地位所嚮往的是自然科學當時已初步獲
+致的客觀性與明確性，在這個意義上法學必須「效法」自然科學、
+以自然科學「馬首是瞻」114。但自然科學畢竟是實然領域的研究，
+試圖掌握的是實然的自然現象，與試圖掌握應然法規範的法科學並
+不同，因此法學要想成為一門科學，顯然不是輕鬆移植自然科學的
+
+
+112 KELSEN, supra note 93, at 40-41.
+113 Kelsen於是（在滿溢的民族誌資料中）非常突兀地說道：     「……這種思考模式
+    在文明人的科學思維中尚未被完全超克，而在我們這個時代的社會理論、更
+    具體地說是國家理論中，扮演著重要腳色。」（“...this primitive tendency of
+    substantialization – a tendency which is not yet entirely overcome in the scientific
+    thinking of civilized man and which plays a fateful part in the social theory of our
+    time, particularly in the doctrine of the state.”）KELSEN, supra note 93, at 16。很有
+    趣的是，Kelsen在這段話的引註中完全沒有提及德語國家學的脈絡。或許是他
+    已經習慣處於將這件事看作「周知之事實」的學術脈絡中、又或許是因為他
+    在這本作品中預設的對話對象，                     「真的是」社會學與人類學界吧。
+114 Dreier (Fn. 89), S. 104.
+244                     《中研院法學期刊》第35期（2024年9月）
+
+
+
+方法就可以達成。Kelsen早期理論發展的重要工作之一，便是確立
+法學自身的獨立性，拒斥自然科學的擴張；而他之所以繼受了新康
+德主義的方法論，其中一項重要的目標也是在認識論上找到法學獨
+立性的基礎115，以免法學受到自然科學的吞噬。
+
+      另一方面，屬於科學陣線的自然科學與法科學之間，其實在很
+多意義上也相當親近。一者，兩者都以律則來作為表述方式，只是
+各自要掌握的關係不同，在自然科學是因果關係、在法科學則是歸
+責關係。二者，它們所分別對立的實體概念，分別是神與國家，而
+在 Kelsen 看 來 ， 神 與 國 家 的 概 念 在 邏 輯 結 構 上 有 平 行 關 係
+（Parallelität），這使得神學與國家學都內含著一個與研究對象本身
+直接相關的矛盾，而要如何解決這個矛盾所產生的種種難題，便成
+為國家學與神學的主要內容；相似的問題結構，也讓國家學與神學
+對矛盾的解方同樣非常相似116。這樣的相似性、或者說平行關係，
+也及於兩組學科所涉及的對立關係：在一側是神學—自然科學，
+在另一側則是國家學—法學117。
+
+  Kelsen利用神與國家概念的平行比較，來說明兩者都必須被解
+消的命運118 。這兩個實體的解消，也是科學昂揚的條件：在前一
+節，我們已看到Kelsen認為因果關係與神的意志斷絕關係，是現代
+自然科學發展的關鍵。對此他另外認為，泛宇宙論（Pankosmismus）
+的發展也是自然科學開展的重要因素。這個思路下，神的原質概念
+被破除，為研究重心從實體轉換到關係打下了基礎；而在Kelsen的
+
+
+
+115 Dreier (Fn. 89), S. 33-37.
+116 Kelsen, Staatsbegriff (Fn. 3), S. 222.
+117 Kelsen, Staatsbegriff (Fn. 3), S. 253.
+118 Kelsen類比的意圖，則正好與同樣做了這項工作的Carl Schmitt相反。Kelsen指
+      出他之所以討論國家與神之間的平行關係（且僅只是平行關係、而非同一
+      性），是為了強調國家學必須脫離「國家神學」地位。他同時也認為Schmitt過
+      於強調字面上的同一，忽略了不同脈絡下字義的不同，是錯把類比當同一。
+      HANS KELSEN, SECULAR RELIGION 17 (2012).
+反實體的科學性認識演化之路                                    245
+
+
+「國家學」中，我們也看到一個澈底「法化」
+                   、只能以法來掌握與表
+述的國家概念，是法科學擺脫「神學方法」、走向現代科學的必經
+之途。
+
+四、道成肉身與奇蹟：國家學中的神學方法
+
+      Kelsen認為，國家與神概念高度相似。在形塑這兩個概念的國
+家學與神學中，這兩個概念都被認為是超越性的：國家先於、並超
+越法，而神超越世界119。這個思路就預設了國家與法、神與世界的
+分立，這也使得國家學與神學的主要問題，都是去回答「如何說明
+超越性的原質與系統之間的關係」：在神學這邊，是神與世界之間
+的關係；在國家學，則是國家與法之間的關係120。神學認為，神創
+造世界、且是超越於現世之上的存有 121 ；不過，神在道成肉身
+（Menschwerdung）後，也成為此世、成為自然的一部分122 ，祂也
+因此受制於自己創造的自然律123。這麼一來，在研究自然律的自然
+科學蓬勃發展之後，神要如何與自然律「互動」，便成為了一個麻
+煩的問題：超越現世的神，要如何身在此世、構成此世的一部分，
+並被自然律所拘束呢？而為了要調和神的超越性與現世的自然律，
+神學發展出了兩個應對方法。其一是強調基督的神人二性：神在道
+成肉身後，便從一個超越現世的存有，轉為一個現世的存有，此時
+具有肉身的基督便臣服於神的意志之下，因而受制於此世的所有限
+制，這包含神所制定的自然律。由於基督同時具有神性，因此這項
+「限制」其實也就是神「自我束縛」124。但這項自我拘束並非絕對
+或全面：某些時候神會擺脫自我束縛，而此時人們便可清晰地看見
+神性的展現；換句話說，神對自然律的遵守是「原則」，也就是說
+
+119 Kelsen, Staatslehre (Fn. 3), S. 76.
+120 Kelsen, Staatslehre (Fn. 3), S. 77-78.
+121 Kelsen, Staatsbegriff (Fn. 3), S. 222-224.
+122 Kelsen, Staatsbegriff (Fn. 3), S. 226-227.
+123 Kelsen, Staatslehre (Fn. 3), S. 78.
+124 Kelsen, Staatsbegriff (Fn. 3), S. 230-231.
+246                                《中研院法學期刊》第35期（2024年9月）
+
+
+
+存在著例外，這項例外也便是神學發展出的第二個應對方法：奇蹟
+（Wunder）。奇蹟在概念上即是違反自然律、換言之自然科學所無
+法掌握與解釋的現象，而它之所以會出現，是因為神「暫時脫離」
+自然律之拘束、決定不再自我束縛，而展現出其本質的超越性125。
+這麼一來，神學一方面依然肯認自然律，一方面也維持了神的概
+念。
+
+      在Kelsen看來，國家學有著與此高度相似的問題與解答。傳統
+國家學認為，法是國家意志的產物，因此國家與法的關係，是國家
+先於法、並創造法。這樣看來，國家與法除了是兩個不同的東西之
+外，國家還可以完全逸脫於法而行動。如此的理解卻將國家法學置
+於危機之中：倘若國家可以完全逸脫法，那國家要如何在法上被掌
+握呢？這便產生了一個內在的深刻矛盾。對此，國家學也發展出與
+神學的答案在結構上一模一樣的解答。首先，Jellinek提出的兩面理
+論、以及橋接兩個面向的國家自我義務，根本就是神人二性、道成
+肉身的國家學翻版：國家一方面先是一個先於法、超越法的東西，
+但另一方面國家也作為一個法概念，有著國家的法學面向126。前者
+高於法，不受法拘束，後者則是在法之上的國家「降生」在法之
+中、獲得「法的身軀」，而受法拘束與掌握。而「道成法身」之所
+以可能，則是經由國家自縛而決定受法規範所拘束；而「必要性」
+或「例外狀態」下的國家行為，則就是國家所施展的「法奇蹟」
+（Rechtswunder）127。「法奇蹟」則確保了國家依然維持著能夠在法
+之上的「神性」：在國家認為需要、或是在任何其認為適當的時
+機，國家都可以脫離法規範的拘束，而進行它認為適當與必要的行
+為。這些在法之上的、因為脫離了法規範的拘束，進而是非法的行
+
+
+
+125 Kelsen, Staatsbegriff (Fn. 3), S. 246-247.
+126 Kelsen, Staatsbegriff (Fn. 3), S. 226 更把自我義務與道成肉身Menschwerdung在
+      字面上對應，稱之為„Rechtwerdung“。
+127 Dreier (Fn. 89), S. 216-217.
+反實體的科學性認識演化之路                                 247
+
+
+為，無法被法所掌握與理解，換言之無法以法規範中的歸責關係與
+國家產生連結，只有藉由基於別的規範才能被看作是國家行為。這
+種「法外的國家行為」
+         ，便成為一種「法奇蹟」
+                   。
+
+      國家自我義務與法奇蹟兩個理論，在Kelsen的分析之下顯然是
+無法成立的：國家只能是法秩序、國家只能經由法規範而被認識，
+國家與法同一。因此國家自我義務與法奇蹟的理論從一開始就沒有
+存在的必要，因為它完全是以一個自找麻煩的區分作為基礎，也就
+是實體國家與國家法人的兩立。當國家與法被正確地看為同一時，
+因為國家並不是某種本質上超越、而暫時被法所拘束的東西，兩個
+理論所試圖解決的問題便隨風消逝。在人之行為只有在作為法命題
+內容時才與國家有歸責關係的意義下，一切的國家行為都必須有法
+的基礎。在法之上的／非法的國家行為根本是不可想像的128。
+
+      Kelsen更進一步指斥，這兩個沒必要存在的國家學解方，都是
+出自於維護意識形態。一如前一節所述，就所有的國家行為都需要
+依據某種歸責關係，才能與國家產生連結這點來看，認為存在的在
+法之上的／非法的國家行為，也就意味著這個認識領域中其實存在
+著兩種規範系統，而這種「兩種國家法」的用意，即是要正當化或
+擴大君主的權限。國家自我義務與法奇蹟，如同它們坐落的基礎預
+設：國家與法的分立，在Kelsen看來都內含著意識形態：任何設想
+了「在法之上的國家行為」的理論，實際上就是要「合法化」非法
+行為129。若國家能「做出」在法之上的、以至於不法的行為，這等
+於是說作為法秩序的國家要欲求不法、換言之「不法」能被歸責於
+國家意志，歸責於整體法秩序，在Kelsen看來簡直是「胡言亂
+語」130。再次地，這樣的論據其實只是要藉由將某些個人之行為歸
+
+
+
+128 Dreier (Fn. 89), S. 220-221.
+129 Kelsen, Staatsbegriff (Fn. 3), S. 247.
+130 Kelsen, Staatsunrecht (Fn. 90), S. 796.
+248                                        《中研院法學期刊》第35期（2024年9月）
+
+
+
+責予國家，藉此正當化國家最高機關的行為而已131。同樣藉由神與
+國家概念的類比，Kelsen指出宗教經驗與社會經驗中，其核心都是
+某些人借用權威之名，將其他人置於自己的控制之下：不論是宗教
+或社會群體，其成員之間是平等的，沒有誰控制誰或支配誰的問
+題；但若是以「
+      （我們的）神」
+            、「（我們的）國家」之名，強制力便
+可以被施用，某些人便會被置於支配之下。Kelsen認為若我們直視
+在「神施賞罰」
+      、「國家行刑」之背後實際的運作，實際上所發生的
+不外是某些人加強制力於他人。社會與宗教經驗的真實運作，即是
+強制力。如果這麼看，我們便可以發現神或國家這些實體概念，都
+是強制力的「面具」，是一種掩蓋其真正運作，即強制力與權力的
+意識形態132。如前所述，Kelsen認為科學的重要工作之一便是要揭
+開對意識形態的遮掩物，這也意味著拒斥實體概念、並以此排除政
+治對學術的干涉。與此相對，Kelsen在自己的國家學中將強制力之
+運作（Machtprozesse）納入說明、而非掩飾133；而在將國家看作是
+法 秩 序 、 法 秩 序 又 作 為 強 制 秩 序 （ Zwangsordnung ） 之 下 134 ，
+Kelsen確實成功做到這點。這些由「國家學中的神學方法」所產生
+的、充斥著意識形態的理論135，在確立了法與國家的同一性之後，
+也能就此被排除。
+
+五、橋接：無國家的國家學作為法科學的前提
+
+  Kelsen之所以要指出存在於國家與神的概念、國家學與神學的
+主要問題與解答的平行關係，是為了展示在他所設想的人類認識發
+
+
+131 Kelsen, Staatslehre (Fn. 3), S. 80.
+132 Kelsen, Gott und Staat (Fn. 8), S. 144-145.
+133 Johannes Feichtinger, Wissenschaft als reflexives Projekt. Von Bolzano über Freud
+      zu Kelsen: Österreichische Wissenschaftsgeschichte 1848-1938, 2010, S. 281.
+134 Hans Kelsen, Der Begriff des Staates und die Sozialpsychologie: Mit besonderer
+    Berücksichtigung von Freuds Theorie der Masse, Imago: Zeitschrift für Anwendung
+    der Psychoanalyse auf die Geisteswissenschaften 8 (1922), S. 97 (138)（以下簡
+    稱：Kelsen, Staat und Sozialpsychologie）; Kelsen, RR1 (Fn. 28), S. 29-30.
+135 Kelsen, Staatsbegriff (Fn. 3), S. 246.
+反實體的科學性認識演化之路                                               249
+
+
+展下，國家學與神學最終都必須要解消於科學、國家與神的實體概
+念都將轉為一種功能概念。在神學那側，泛神論（Pantheismus）的
+發展是關鍵因素：泛神論有兩個分支，分別是泛宇宙論
+（Pankosmismus）與無宇宙論（Akosmismus），前者以「世界」吸
+收了「神」的概念，認為世界才是真實；後者則是反過來，以
+「神」吸收了「世界」
+         ，認為神才是真實。Kelsen認為正是由於泛宇
+宙論的出現，才使得現代的自然科學從神學的迷霧中解放出來136，
+它解決了神與自然律之間的關係：泛宇宙論認為自然律便是神的體
+現，因此神即是自然律（的總和），神的實體概念便轉化為作為整
+體自然律之體現的功能概念。在神的實體被解消了的意義下，世界
+從此「失去了神」。神的概念也自此不再與自然律分立，對象複製
+的問題也就被解決了。同樣苦於對象複製的錯誤的國家學，在
+Kelsen看來，也需要一個「泛宇宙論」，來將國家的實體概念解
+消，轉為一種體現規範統一性的功能概念，法科學才能從此生長茁
+壯，而對於這項工作，Kelsen可謂「捨我其誰」：純粹法學便是
+「國家學的泛宇宙論」
+         ，它對傳統國家理論的拆解與重構，是要把過
+去將國家看作一種實體的錯誤糾正過來。經過他重構後的國家，就
+不再被看作是一個實體，而是以一團規範為內容的功能。這個「實
+體往功能」的概念形構發展方向，正是Kelsen將法學科學化的路途
+中，一定要「處理」國家概念的理由。也因此解消實體國家概念，
+是法學發展成科學的關鍵137。它將被「國家神學」看作至高無上的
+國家概念138，拆解為整體法秩序藉由歸責關係所組織起來的系統性
+運作，國家概念則失去其作為實體的地位，而只是作為指涉整體法
+秩序的思考幫助（Denkbehelf）
+                  。於是，當實體的國家概念被解消於
+法規範之中，這時從兩面理論的角度來看，國家學就已「沒有國
+
+
+
+136 Kelsen, Staatsbegriff (Fn. 3), S. 247-248, 253 fn. 1.
+137 Kelsen, Gott und Staat (Fn. 8), S. 156.
+138 Kelsen, Staatsbegriff (Fn. 3), S. 253.
+250                                      《中研院法學期刊》第35期（2024年9月）
+
+
+
+ （ohne Staat）
+家」          ，針對名為「國家」的法系統異質物，所展開的法
+學內部「淨化」工作，也就此完成139。
+
+
+
+肆、中歐經驗：地域性與時代性影響
+
+      至此，Kelsen的國家學與法科學之間的關係，已經清晰許多。
+不過本文還將再進一步探詢，他之所以具體採取這種理論路徑，與
+其時空背景與環境的關係。對此，我們需要把Kelsen放進一個更大
+的脈絡裡、回到他所處的時空背景中，來進一步討論他選擇這種理
+論鋪陳與論述語彙的可能原因與影響；從某個角度來看，也可以說
+是進一步探問，為何Kelsen「會成為Kelsen」
+                         。從時間的面向上來看，
+生理與寫作生命都極為長壽的Kelsen，其實無疑是一位「19世紀」
+的學者；而在決定他基本論題形貌的學術生涯早期，他同樣無疑地
+是一位奧匈帝國公民。這些時空背景對他的學術影響可見於許多層
+面：首先，奧匈帝國這個在各個面向上都非常多元的國家，讓他自
+始就不相信任何實體國家的論述，轉而設想一個以法秩序為核心的
+國家概念；而在對科學化路程的擘畫上，彼時彼地的「維也納現代
+主義」（Wiener Moderne），包含著驅逐實體用語（substantivische
+          140
+Sprache         ）的努力，這項特色在帝國分裂後的奧地利共和國中仍
+         141
+然留存            。Kelsen將自己「無國家的國家學」置放在解消實體的科
+學大勢之中，同時也舉了兩個已完成這項工作的學科作為例證：作
+
+
+139 Matthias Jestaedt, Das Postulat einer streng wissenschaftlichen Erkenntnis des
+    Rechts, in: Aliprantis/Olechowski (Hrsg.), Hans Kelsen: Die Aktualität eines großen
+    Rechtswissenschafters und Soziologen des 20. Jahrhunderts, 2014, S. 3 (7-8).
+140 這個詞出自Fritz Mauthner，Kelsen, Staat und Sozialpsychologie (Fn. 134), S. 138.
+141 特別是1919-1934年的「紅色維也納」                  （Rotes Wien）   ，其各項蓬勃、自由且多元
+    的文化與學術成果，被認為足以稱為「第二次維也納現代主義」                                      （Zweite Wiener
+    Moderne），Kelsen正是這段時期中法學的代表人物，Rob McFarland/Georg
+    Spitaler/Ingo Zechner, Einleitung, in: McFarland/Spitaler/Zechner (Hrsg.), Das Rote
+    Wien: Schlüsseltexte der Zweiten Wiener Moderne 1919-1934, 2020, S. 3 (3-16).
+ 反實體的科學性認識演化之路                                                                   251
+
+
+ 為「無力的力學」的物理學，以及「無靈魂的靈魂學」的心理學。
+ 這兩個已成功走向現代科學的學門，關鍵人物也都來自中歐帝國：
+ 物理及科學哲學家Ernst Mach與心理學家Sigmund Freud。
+
+ 一、奧匈帝國的多元現實
+
+      Kelsen與德國公法學界、哲學界的互動一向得到較多注意。這
+ 個面相當然非常重要，但本文認為在Kelsen的理論發展上，特別是
+ 在形塑Kelsen思想的基礎預設、或者說世界觀上，「奧匈經驗」也
+ 扮演著重要腳色。本節便想要強調這個奧匈／奧地利的面向。
+
+      如果說1911 年的教授資格論文《論國家法學的主要問題》
+（Hauptprobleme der Staatsrechtslehre: entwickelt aus der Lehre vom
+ Rechtssatze）就已勾勒出、並預示了他整體理論的未來發展，那麼
+ 1881年出生於當時屬於奧匈帝國的布拉格、日後長期在維也納就學
+ 的Kelsen，這部作品在地域上所受到的影響無疑是相當「奧匈」
+ 的142。它是一個與時代格格不入的政治體，在民族主義逐漸成為舞
+ 臺上的主唱的19世紀歐洲，它顯然與這樣的「時代潮流」無法相
+ 容：1867年的奧匈妥協（Ausgleich）後的中歐帝國，政治秩序的頂
+ 端就已是一個日耳曼與馬札爾人的身合國，帝國的兩個部分除了外
+ 交、軍事與部分的財政事務，並不共享任何東西、連國籍都是分開
+ 給予143。而雙元帝國中各構成邦國的民族，依然致力於恢復他們認
+
+
+
+ 142 Kelsen這段時期的經歷，可參Olechowski, Biographie Kelsens (Fn. 59), S. 27-58,
+     127-141。值得一提的是，這段期間內Kelsen也有首次的第一手「德國經驗」，
+     分別在1908與1910年到海德堡與柏林進行訪問研究（Studienaufenthalt）                           。而在
+     1908年的訪問期間，Kelsen前去聽了當時最重要的國家學學者：Jellinek的課
+     程。但按Kelsen在自傳中的說法，他對Jellinek的作品、課堂狀況乃至於其個
+     人，都似乎相當「失望」             ，Hans Kelsen, Autobiographie, in: Jestaedt (Hrsg.), Hans
+     Kelsen Werke, Bd. 1, 2007, S. 29 (40-42)（以下簡稱：Kelsen, Autobiographie）
+     —這當然是Kelsen的「一面之詞」，這些Jellinek「令人失望」的具體細節是
+     否為真，則不得而知。
+ 143 PIETER JUDSON, THE HABSBURG EMPIRE: A NEW HISTORY 262 (2016).
+252                                       《中研院法學期刊》第35期（2024年9月）
+
+
+
+為自始存在的民族與歷史權利，同時還有更多族群在這場爭論中無
+法被代表而發聲144。民族國家的理念與這個國家完全相反、甚至可
+以說對它有敵意。它的存在仍然建立在中古歐洲的王朝與封建繼承
+之上，這與北邊日耳曼地區如火如荼的民族國家建國工程，展現出
+強烈的對比。奧匈帝國的核心特徵就是多元性，民族與族群多元、
+語言多元、文化多元、價值多元145；若從另一個角度來觀察，這種
+多元性所展現的便是一元／統一在實然上的不可能。一切被認為可
+以構築出實然統一性的鏈結，在這裡都是解裂的要素，一個現實的
+統一群體在奧匈帝國是不可想像的 146 。生長在這樣的環境中的
+Kelsen，顯然不可能接受任何主張著實然上統一性的國家理論，因
+為那些理論完全無法說明其母國的統一性：如果國家是實然統一性
+的展現，那麼多民族、多文化、多語言的奧匈帝國根本不可能存
+在，而會解裂成無數個小國家147。於是對Kelsen來說，國家的統一
+性自然不能在實然領域中找尋，而必須立於其他層次。國家只可能
+是一種法的統一體，一切將國家立基於社會心理、或是種族／民族
+的國家理論，都是荒誕而虛構的。而在作為實體國家概念的反例的
+同時，奧匈帝國也是„Rechtsstaat“的最佳範例，因為將帝國從上到
+下連結在一起、使之還能被視為一個法人格的，正是各種法律文件
+
+
+
+144 對各民族、邦國的主體地位與「歷史性權利」從1848革命至帝國崩潰後的流
+    轉，可參Natasha Wheatley, Law, Time, and Sovereignty in Central Europe:
+    Imperial Constitutions, Historical Rights, and the Afterlives of Empire (2016) (Ph.D.
+    dissertation, Columbia University) (on file with Columbia University Library).
+145 由於本文的旨趣在此，故而這裡列出的多元性僅限於人文領域。事實上，疆
+    域從亞得里亞海到阿爾卑斯山、再到匈牙利大平原的奧匈帝國在自然環境上
+    也非常多元，這也讓奧匈帝國在氣象學上，有獨特且兼顧各種尺度的描述方
+    式，對此可參Deborah Coen著，翁尚均譯，帝國、氣象、科學家：從政權治理
+    到近代大氣科學奠基，奧匈帝國如何利用氣候尺度丈量世界（2021年）                                            。
+146 Feichtinger (Fn. 133), S. 280-282.
+147 Feichtinger, supra note 60, at 131-32. 從另一個角度來看，中歐帝國本身其實也
+    被認為可類比於國際法體系，NATASHA WHEATLEY, THE LIFE AND DEATH OF
+    STATES: CENTRAL EUROPE AND THE TRANSFORMATION OF MODERN SOVEREIGNTY 59
+    (2023); Wheatley, supra note 144, at 154-64.
+反實體的科學性認識演化之路                                                                          253
+
+
+與帝國的法秩序本身。換句話說，奧匈的統一性完全建立在法的統
+一性上148，即便法的內容依然非常多元，它們可能出於飭令、匈牙
+利議會、或各邦的立法機構，但這些多元的法依然有著共通的歸責
+點。
+
+      在這樣的政治、社會與歷史背景下，Kelsen以下的這段自我理
+解，也就非常清楚了：
+
+     如果說這種國家理論是純粹法學的核心部分，那麼純粹法
+     學也可以說是一個特別奧地利式的理論149。
+
+      從這個角度出發，我們完全可以說Kelsen的理論是奧匈帝國最
+精到的描述。
+
+      這樣的環境與Kelsen的價值相對主義、客觀個人主義的世界
+   150
+觀        ，似乎相互呼應：在他看來，價值問題的核心是意識形態的問
+   151
+題     ，從而不可能以理性的方式解決，這也同時意味著沒有哪一個
+價值或文化可以被合理地凌駕於其他價值或文化。這其實也同時是
+Kelsen的民主理論所立的基礎：人們之間存在著多元性，且這樣的
+多元性之下的衝突是無法合理解決的，於是要共同生活便需要仰賴
+所有人的妥協152；另外，由於存在著無法化解的多元性，因此客觀
+的統一性不會立基在、也無法仰賴於本身就非常多元的價值、文化
+或族群特徵。在實然的領域裡，唯一客觀的單位就是個人，一切的
+思考都必須從個人出發、以個人為基礎，是實然社會領域中唯一實
+
+
+
+148 Kelsen, Autobiographie (Fn. 142), S. 59-60.
+149 „Insofern diese Staatstheorie ein wesentlicher Bestandteil der Reinen Rechtslehre ist,
+    kann die Reine Rechtslehre als eine spezifisch oesterreichische Theorie gelten.“ Kelsen,
+    Autobiographie (Fn. 142), S. 60.
+150 參鍾芳樺，國家與法（註4），頁110-116。
+151 鍾芳樺，國家與法（註4），頁137。
+152 黃舒芃，多元民主中的自由保障—Hans Kelsen的多元主義民主觀暨其對議
+    會與憲法法院的證立，政大法學評論，96期，頁66-73（2007年）                                      。
+254                                       《中研院法學期刊》第35期（2024年9月）
+
+
+
+在、而非擬制的單位。這樣的思路，多少都反映了中歐帝國高度多
+元的現實153。
+
+二、反形上學／反實體的維也納現代主義
+
+      地域及時代對Kelsen的影響，除了反映在具體國家概念的思考
+上，也影響到了他如何看待與想像「科學」。如前所述，Kelsen的
+許多論點在早期作品中就已見雛型，在本文關心的範圍、亦即對國
+家概念的處理方面，針對傳統國家學的國家概念是一種實體，在他
+生涯的早期便已進行了強烈批判，且實體國家概念更被他認為是法
+學科學化的主要障礙。這種論述路徑事實上也體現了地域背景的影
+響力：世紀末的維也納現代主義，有著明確的反形上學、反實體主
+張，並強調經驗主義與科學154，Kelsen的思想便是在這樣的環境之
+中成長茁壯。然而，環境與個人之間若僅只依賴時空上的親近程
+度，就認為兩者之間有某種「關係」
+               ，則似乎不脫某種「臆測」
+                          ；且
+如果只說「學術環境」、而不談具體的學者或論述，也似乎有將環
+境進行「擬人的實體化」的危險。不過，由於可想見的限制，本節
+在此無意、也無能力整理所有與Kelsen學術上親近、有所交流、乃
+至可能相互影響的學者155，而會較具體地討論兩位維也納現代主義
+成員：Ernst Mach與Sigmund Freud對Kelsen的影響。之所以是Mach
+與Freud，是因為這兩位「前輩」對Kelsen理論形塑上的影響較諸其
+他學者，最為清楚且深遠。
+
+
+153 當然，本文也並非主張「多元的現實中必然會生成出相對主義、個人主義與
+    尊重多元的立場」的必然因果關係。事實上，奧匈帝國這樣的學術後臺也養
+    成了許多並不支持這些主張的論者。
+154 Feichtinger, supra note 60, at 117, 119-20.
+155 其中本文不會論及、但已有許多討論的，是Kelsen與維也納學派的關係，可參
+    Jabloner, supra note 59, at 368, 378-82; Olechowski, Biographie Kelsens (Fn. 59), S.
+    398-399。如前所述，Kelsen有關認識演化的作品Society and Nature（或其德文
+   「原版」Kausalität und Vergeltung）即與維也納學派的統一科學有關。在維也納
+    學派中，Otto Neurath對Kelsen的科學觀有較高的影響力，可參Jabloner (Fn.
+    90), S. 19-22.
+反實體的科學性認識演化之路                                                                  255
+
+
+
+   （一）Ernst Mach
+     學術生涯早於Kelsen約半個世紀的Ernst Mach，在物理學、心
+理學與科學哲學上，都有重要的貢獻156。兩人除了活躍年代不同，
+領域其實也相差甚大，但這並沒有阻礙Kelsen從Mach的研究中取得
+啟發。在Mach涵蓋甚廣的研究範圍中，對Kelsen產生了相當影響的
+是科學哲學的論述與觀點，確切地說是「思維經濟」（Ökonomie
+des Denkens）的理念：Mach指出，科學中的各種概念都是感知或
+要素聚合而成的感知或要素複合體。這些概念因而並不是實體，它
+們之所以會被視為一個單位，是因為思維上的方便與需要，而這點
+正是科學的核心目的或功能：科學必須簡化人們的思維負擔，追求
+「思維經濟」
+     。Kelsen將這個理念應用在國家概念、以及基礎規範應
+如何設定的說明之上，從中也再次彰顯出國家概念的非實體性。
+
+     Mach認為，一切認識都是以個人的感知（sensation）為基礎，
+一切的描述與解釋都是在掌握感知，而非實體（substance）、物體
+（object）或法則（laws）。並且，人所感知到的對象，即外在世
+界，是由獨特且不可再現的狀態（state）或事件（event）所組
+成157。可以想見的是，要應對這種紛亂不已、變化無窮的環境，是
+相當艱困的事情，Mach因此便認為科學具有實用的、生物學上的
+意義，即幫助人們應對並掌握環境，還能讓人們在變數更大、更不
+穩定的環境中生存下來158。具體來說，在不斷變化的環境中，人們
+需要以某種方式來簡化狀態或事件，否則人們將疲於奔命。這種
+「簡化」在Mach看來，就是思維經濟的目標；換句話說，科學便是
+
+
+156 對於Mach生平與學術貢獻的精要介紹，可參Paul Pojman, Ernst Mach, THE
+    STANFORD ENCYCLOPEDIA OF PHILOSOPHY (Mar. 3, 2019), https://plato.stanford.edu/
+    archives/win2020/entries/ernst-mach/.
+157 Erik Banks, The Philosophical Roots of Ernst Mach’s Economy of Thought, 139
+    SYNTHESE 23, 25 (2004).
+158 ERNST MACH, KNOWLEDGE AND ERROR: SKETCHES ON THE PSYCHOLOGY OF
+    ENQUIRY 1-2 (Thomas McCormack & Paul Foulkes trans., D. Reidel 1976) (1926).
+256                                        《中研院法學期刊》第35期（2024年9月）
+
+
+
+要在思維經濟的要求下，以最簡潔的方式來表示環境，以方便人們
+應對與掌握它。他進一步指出，科學中的任何概念都是基於思維經
+濟而被形塑出來，都是為了幫助人們更好地掌握環境、於世界中自
+處。但若要進行簡化，則勢必要將事件中的某些要素看作是重複發
+生的，藉由這些會重複發生的要素，我們可以歸類、整理各種事
+件，這是較諸記錄所有事件更為「經濟」的做法，這些要素便是科
+學中的諸多基本概念。但不可忘記的是，要素的重複性毋寧是擬制
+出來的，因此要素的形構，其實伴隨的是對事實的些微扭曲159。總
+之，這些科學的基本概念，如原子、電子、乃至於長久以來所設想
+的認知主體，即自我（Ego），都只是感知的複合體（complex of
+                             160
+sensations），是基於理解與操作方便而設的一個單位 ，而不是實
+體。科學的核心應當在於討論這些複合體之間、乃至於複合體內部
+的關係，而非複合體本身161。Mach所持的無疑是一個非常去實體
+化的、乃至於去形上學的思路162，實體顯然就是必須驅逐的東西，
+認識的一切重心要回歸到經驗與感知的理解之上，而認識「成本」
+的降低，也就是追求思維經濟的理由。
+
+       若以Kelsen所處的「學術環境」來說，Mach式的科學哲學在當
+時毋寧具備相當的影響力，因此Mach的思路對Kelsen或許多少有些
+影響：強調科學在於討論關係、而非實體這點，讓人聯想到Kelsen
+重構國家時所作出的分析。兩人其實最明確的關聯，則在Kelsen援
+引了思維經濟的理念163。Kelsen對思維經濟論述的引用，我們其實
+
+
+159 Banks, supra note 157, at 27-29.
+160 ERNST MACH, THE ANALYSIS OF SENSATIONS 29 (C. M. Williams & Sydney
+      Waterlow trans., Dover Publications 1959) (1897).
+161 Id. at 22.
+162 Id. at xxxviii.
+163 Kelsen引用思維經濟理念，對其理解法規範性的影響，可參Paul Silverman,
+      Sovereignty as a Juristic Assumption and as a Focal Point of Political Commitment,
+      in: Jestaedt (Hrsg.), Hans Kelsen Werke, Bd. 4, 2013, S. 237 (245-248)。另外，與
+      Kelsen同期的法學家Erich Kaufmann認為，Kelsen是藉由思維經濟的理念，來
+反實體的科學性認識演化之路                                                               257
+
+
+已經在前面看過：當Kelsen認為法人—或者更具體地說，國
+家—是將複數規範看作一個單位的幫助思考概念時，其實便是認
+為這些概念是出於思維經濟而產生的用法164 。然而在更上位的層
+次，Kelsen在某種堪稱「法科學哲學」的意義下也使用了思維經濟
+的論述。這涉及到基礎規範的預設，更正確地說是「如何」預設：
+如前所述，Kelsen承認基礎規範的預設並不是「必然」的，人們完
+全可以不接受基礎規範，並因此以完全不同的方式看待法現象165；
+不過，若是人們想要應用規範觀點，獲取有關應然的知識時，就必
+須預設基礎規範。但基礎規範要「如何預設」，也就是說基礎規範
+要如何設計，讓哪些事實具有規範意義，Kelsen指出這點可以說是
+完全恣意的，但也在某些意義下不是如此；確切地說，在思維經濟
+的要求之下，基礎規範的設計並非完全恣意。Kelsen將思維經濟的
+要求理解為，以盡可能簡單的形式，解釋盡可能多的現象。他認為
+這個要求也可以擴張到規範觀點之上，轉為要求人們必須採取一種
+預設，它必須能將盡可能多的事實理解為合乎規範的、或有價值
+（wertvoll166）的。這麼一來，應實然之間的張力也會最大程度地減
+少 。 Kelsen 認 為 ， 這 可 以 說 是 某 種 「 價 值 經 濟 」 的 原 則
+（wertökomomische Prinzip）167。從這兩個思維經濟的援用中，我們
+可以再次看到國家並非實體，而是由法學觀點下基於認識上的方便
+而形構出來的對象：首先，如前所述，Kelsen指出國家概念在法學
+上就是幫助思考的概念；再者，若法認識之所以可能，仰賴著基礎
+
+
+    論證法律一元主義（Legal Monism）—這是相對於區分國際法與內國法的二
+    元論—，對此可參Stanley L. Paulson, Some Issues in the Exchange between
+    Hans Kelsen and Erich Kaufmann, in PERSPECTIVES ON JURISPRUDENCE 269, 282-85
+    (2005).
+164 Kelsen, Staatsunrecht (Fn. 90), S. 791.
+165 Kelsen, RR1 (Fn. 28), S. 36-37.
+166 在Kelsen看來，法規範的功能在於，在二階規範的意義下，對事實做出合法與
+    非法的價值判斷。因此wertvoll不能被理解為「有正面價值的」                            ，而毋寧要理解
+    為中性的意義，即「該事實被賦予某種價值」                        。
+167 Kelsen, Souveränität (Fn. 67), S. 98-100.
+258                                《中研院法學期刊》第35期（2024年9月）
+
+
+
+規範與其「第一次」的授權，具體來說就是基礎規範授權國家，並
+因此使法秩序的認識成為可能，而基礎規範的設定在一定程度上是
+恣意的，換言之並沒有任何原因「非得要」如何設定—思維經濟
+確實提供了的指引，但那也沒有完全拘束或決定設定的結果—，
+那麼「國家」顯然是因為認識的需要，所進行的（恣意）預設之
+下，才會出現，而不是某種永恆的、先於法／法認識的實體。
+
+       當然，思維經濟或價值經濟的說法，是在人們想要運用規範觀
+點的前提下，給出了對「基礎規範應如何設計才是最佳」此問題的
+答案，而並沒有回答為何人們一定得採用規範觀點。我們也可以再
+次看到，Kelsen非常強調不同「觀點」
+                   （Betrachtung）的運用與之間
+的區隔，這與他「方法構成對象」的基本立場直接相關；至於在此
+之所以要特別強調是「規範觀點」，還是得回到Kelsen堅守的應實
+然區分上。Kelsen把思維經濟在規範領域中的實踐改稱為價值經
+濟、並強調這個實踐是一種類比（analoge），是因為既然思維經濟
+所放眼的是實然範疇的因果科學，那當然就不能直接挪用到應然的
+規範科學之上，而要經過必要的「修改」—從「解釋最多的事
+實」變成「將最多的事實理解為有價值」—之後，才能延伸到規
+範領域。也可能正是因為這點，使得Kelsen不願引用太多Mach的論
+述：Mach是一位一元論（Monism）者，他追求一個普遍的科學，
+且顯然是以自然／因果科學為核心168。這個基本立場便與想藉由應
+實然的區分，來積極確立與保護法學之獨立性的Kelsen，明顯出現
+衝突169。但無論如何，就思維經濟理念本身，其實就已經明確揭示
+
+
+168 ERIK BANKS, ERNST MACH’S WORLD ELEMENTS: A STUDY IN NATURAL PHILOSOPHY
+      25-26 (2003).
+169 Kelsen也承認，基礎規範的說法與Mach的思維經濟相關，但他因為這層引用
+      帶來太多誤解，因而在後續的作品中淡化自己理論與Mach之間的連結。
+      Kelsen, supra note 54, at 172-73. 儘管後來為了避免誤解而不再直接提到
+      Mach，但Kelsen也並沒有修改他整體的理論設計；換句話說，這層影響在
+      Kelsen理論型構上所造成的結果，並沒有隨著他「絕口不提」Mach而消失。
+      也因此思維經濟依然展現了Mach對Kelsen理論的直接影響。
+反實體的科學性認識演化之路                                                                 259
+
+
+了反實體的理論立場。把思維經濟「改裝」後，Kelsen在一定程度
+上可以說是在法學領域中實踐了Mach對認識與科學的想像170。從
+這個角度來看，Kelsen毋寧與許多世紀之交的科學家一樣，是一位
+        （Machian）171。
+「Mach主義者」
+
+   （二）Sigmund Freud
+     精神分析學與心理學家Sigmund Freud，以其對意識的分析與
+揭露、以及所開創的精神分析學派而舉世聞名。儘管與Mach一
+樣，在領域上與Kelsen相距甚遠，但活躍年代與Kelsen較相近的
+Freud，兩人之間的關係就相對直接：Kelsen至少從1911年起便與
+Freud 有 私 交 ， 且 長 期 參 與 維 也 納 精 神 分 析 學 會 （ Wiener
+Psychoanalytische Vereinigung）的定期聚會，也曾在學會刊物中發
+表作品，評論Freud大眾心理理論下的國家觀172。這層關聯本身就
+十分有趣，畢竟對精神分析抱持強烈興趣的法學家，並不多見173。
+既然Kelsen都已經把Freud的理論應用到自己關注的論題上，在這個
+意義下，Freud對Kelsen的影響也與兩人的關係一樣，相對「直
+接」。具體來說，Kelsen受到影響的是Freud對於群眾或集體靈魂
+（Massen-, Kollektivseele）的分析。這些分析一樣駁斥了傳統理論的
+實體傾向，而將被設想為實體的群體，解消於個體的運作之中。
+
+
+
+170 Franz L. Fillafer & Johannes Feichtinger, Habsburg Positivism: The Politics of
+    Positive Knowledge in Imperial and Post-Imperial Austria, 1804-1938, in THE
+    WORLDS OF POSITIVISM: A GLOBAL INTELLECTUAL HISTORY, 1770-1930, at 191, 213-
+    14 (Johannes Feichtinger, Franz L. Fillafer & Jan Surman eds., 2018).
+171 Feichtinger在研究中以韋伯式的術語「選擇性親近」                          （Wahlverwandtschaft）來
+    形容Kelsen與Mach之間的關係，似乎是避免主張兩人之間的思路有因果關
+    係，Feichtinger (Fn. 133), S. 301 ff.。本文則認為，前述的爬梳均可以在Kelsen
+    的文本中找到直接證據，根據這些整理所作出的宣稱，似乎就沒有必要這麼
+   「保守」     。
+172 Kelsen, Staat und Sozialpsychologie (Fn. 134), S. 97.
+173 Kelsen與Freud私人關係之起源，可參Olechowski, Biographie Kelsens (Fn. 59), S.
+    370-372.
+260                                    《中研院法學期刊》第35期（2024年9月）
+
+
+
+  Freud反對傳統觀點下，將「靈魂」
+                   （Seele）視為與身體相區別
+的實體，他也把靈魂的概念理解為一種幫助思考的概念，用來指稱
+個人內部的各種心理性過程。這個個人內部的動態進程，即是自我
+（Ich）的形塑與變動：在Freud看來，自我總是處於三種不同的力的
+影響之下，分別是外在世界、本我（Es）的原慾（Libido）與超我
+（Über-Ich）的道德拘束。因此自我並不是一個穩固的、最原初的實
+體，而是一個在不同作用力運作下持續被形構的單位174。Freud因
+此認為，「自我並不是家中的主人」175。在社會性的層次，Freud駁
+斥了當時流行的「群眾或集體靈魂」假設，認為社會或大眾心理學
+的問題依然適用個人心理學，這是因為Freud認為，「群眾」是由個
+體所組成，群眾的特性依然要回歸到個人心理學、在個人的層次中
+加以解釋與說明，而非另外創設出一個超個人、並與個人相對立的
+集體靈魂概念來掌握 176 。Freud指出，群眾是一個個體原慾的結
+構，其中個人與個人、個人與領袖之間，有著情感的連結
+（Gefühlsbindungen）以及愛慾（Eros）。群眾心理的核心在Freud看
+來即是一種「情愛關聯」（Liebesbeziehungen）。在群眾裡，個人放
+棄了其自我的理想，轉而追求體現在領袖身上的群眾理想，這是因
+為兩者的理想相符。這樣的分析下，獨立的群眾或集體靈魂便被破
+除了，群眾所特有的心理現象，是因為個人在獨處與在群體中有不
+同的行為模式177。
+
+      在自我的分析上，Freud將其也理解為各種作用與進程的匯
+聚，這自然是一種破除了實體傾向的論述，在反實體的大方向上與
+Kelsen的目標相同；而在群眾心理現象這邊，Freud的分析與論證可
+以說正中Kelsen下懷，他找到了一個從心理學這種自然／因果科學
+
+
+
+174 Feichtinger (Fn. 133), S. 310-311.
+175 Sigmund Freud, Gesammelte Werke, Bd. 12, 1947, S. 11.
+176 Vgl. Sigmund Freud, Massenpsychologie und Ich-Analyse, 1921.
+177 Feichtinger (Fn. 133), S. 312.
+反實體的科學性認識演化之路                                                261
+
+
+出發的論述，來支持他強烈的個人主義立場，以此駁斥任何在實然
+或因果世界中建立統一體的理論，尤其是社會學理論。Kelsen引用、
+或以Freud的分析為啟發，可以分成兩個側面：一方面，他以此為
+基礎，批評任何試圖以心理現象建構出社會統一體的理論，認為任
+何把社會學看作社會心理學的嘗試都是「天真的自我欺騙」178；另
+一方面，他堅持社會學必須在一種「個人主義」的觀點下觀察，而
+在這種觀點下就需要引用規範、特別是客觀的法規範來讓超個人的
+統一體成為可能。就如同前述，Kelsen認為社會學—或者任何因
+果科學—要研究國家的話，就必須借用法學的國家概念，「國家
+社會學」才會可能。也是在這個面向上，Kelsen對Freud的「國家概
+念」頗有微詞：Kelsen認為Freud所做的，是將過去理論對社會權威
+的「證立」，轉為以個人心理學來「解釋」社會行為。這樣的變化
+當然為Kelsen所支持，但對於Freud將國家依然看作是某種心理現
+象179，他則不表認同。對此Kelsen再次回到他批評社會學的國家概
+念所使用的論證，強調因果世界中不可能有超個人的統一體、統一
+性要由規範提供，國家是、也只能是一個法概念；至於Freud將國
+家看作心理現象，Kelsen認為這是潛在原質化的前兆。但持平而
+論，Kelsen的這個批判或許誇張了，因為Freud其實並不關心國家理
+論的問題，他在群眾心理學的論述中，也沒有針對國家進行概念上
+較深入的討論，只是簡單帶過而已。Freud也表示他無意做出任何
+Kelsen所認為會導致原質化的論述。或許至多只能說，Freud對國家
+概念的處理「不夠精緻」
+          ，但這大概太「強人所難」了。
+
+三、小結
+
+      一切思想無法離開孕育它的現實條件；反過來說，思想的內容
+也可以說是環境反射。在Kelsen這裡，我們能很清楚地看到環境與
+
+
+178 Kelsen, Staat und Sozialpsychologie (Fn. 134), S. 127.
+179 Kelsen, Staat und Sozialpsychologie (Fn. 134), S. 119.
+262                《中研院法學期刊》第35期（2024年9月）
+
+
+
+思想家之間的關係：首先，奧匈帝國的政治與社會，給了Kelsen一
+個明確的、反實體的國家概念典範，而它的多元樣貌與Kelsen的客
+觀主義世界觀也相互映照；生長於維也納現代主義蓬勃發展的時
+期，其成員對他的影響也相當明顯。儘管領域相去甚遠，我們還是
+可以看見Mach、Freud與Kelsen之間，共通的反形上學、反實體信
+念：Mach破除了自然科學基本概念的實體地位，指出它們都是在
+思維經濟的要求下所設想的感知複合體。這種破除了實體「力」概
+念的「無力的力學」，便是現代的物理學；Freud則指出群眾心理現
+象並非由獨立的、相對於個人的群眾靈魂所造成，而是個人心理現
+象經由原欲結構的組織下，所產生的特殊變化。這麼一來，心理學
+也從實體的「靈魂」概念中得到解放，成為「無靈魂的靈魂學」。
+這兩個學門在Kelsen看來，隨著實體的消除而在人類智識的發展上
+往科學的理想更邁進了一步。在這項驅逐實體用語、將認識的對象
+從實體轉移到關係的學術進程中，Kelsen也在法學領域裡盡了自己
+的一份心力：他指出國家並不是一個獨立且先於法的實體，而恰恰
+就是法規範本身，國家與法同一、國家理論即是法理論、國家學即
+是法學。如此一來，Kelsen的法學就是一個「無國家的國家學」。
+而擺脫國家概念束縛的法學，也從此才能成為一門科學。
+
+
+
+伍、代結論：法學與法學者的自我理解
+
+      本文以Kelsen對科學的追求為主軸，來試著呈現其理論型構或
+論述策略與這項主張之間的關係，並同時將這些論述策略與其所處
+的時空與學術脈絡相連結。Kelsen指出了人類的認識有著從情緒至
+理性、實質化至破除實體這樣的演化發展，這項發展便是指向現代
+科學。而為了將法學提升至現代科學的高度，法學內部必須去除掉
+非理性的意識形態與實體，這項淨化工程中最大的目標便是國家概
+念。在這樣的理解之下，Kelsen開出的具體藥方，是將獨立於法又
+反實體的科學性認識演化之路                                                                   263
+
+
+超越法的實體國家概念解消，正視國家即是法秩序本身。這麼一
+來，法學才脫離了意識形態與實體，將研究的焦點轉回關係之上。
+而Kelsen之所以採用了這樣的論述策略，一方面是基於他的母國奧
+匈帝國的多元特色，使實體的國家概念自始就不是可能的選項；另
+一方面則在奧地利現代派的論者影響下，讓他設想了一種反實體的
+科學理念。
+                                                                          180
+  Kelsen的「淨化工程」是否成功，自然仍有討論的空間 ；同
+樣地，他所藉以立足的科學哲學與科學史，同樣也不見得十分穩
+固、甚至可以說有些可疑181，不過這些進一步的討論，暫且處於本
+文能力與篇幅所能及的範圍之外，只能留待日後再多探討了。本文
+的主要目標，仍在於提供一項不同的切入視角，希望在未來的
+Kelsen研究與文本詮釋上能有所幫助。至於Kelsen具體的理論內
+容，儘管可能存在著諸多缺陷，但它依然能給今日的我們寶貴的智
+識果實：一者，Kelsen對實體國家概念的拆解，讓我們在面對國家
+及其「行動」時，能夠更具體地以關係和運作來掌握並分析，這麼
+一來相比於將國家實體或神格／原質化，或許能得到更為「切事」
+的成果；二者，Kelsen對於科學、或者說法學的科學化的執著，事
+實上也是一個法學與法學者自我理解、自我界定的安身立命問題：
+法學所生產出的知識，具有什麼樣的價值（特別是相對於生機蓬勃
+的自然科學）？到底法學與法律人在知識的殿堂上，佔有的是什麼
+位置？甚至我們是否佔有任何位置？誠然，這個焦慮本身、以及
+
+
+180 Kelsen的嘗試「驚世駭俗」到遭遇群起圍攻，這點讓他備感挫折，Kelsen, RR1
+    (Fn. 28) , S. V-VI。這些攻擊作為複雜的威瑪國家學與方法論爭的一部分，本身
+    就是一個重要的研究課題，在此無力、但也似乎沒必要涉入。單就Kelsen理論
+    的內容而言，一方面國家概念上的主張有可能強過其方法論所能承受的範
+    圍，可參林允中（註31）            ，頁104-105；另一方面，Alexander Somek指出Kelsen
+    的理論有部分太過反直覺，且他其實是把國家唯名論、本體論化了，see
+    Alexander Somek, Stateless Law: Kelsen’s Conception and Its Limits, 26 OXFORD J.
+    LEGAL STUD. 753 (2006).
+181 可參考本文於認識演化論部分的評論。
+264            《中研院法學期刊》第35期（2024年9月）
+
+
+
+Kelsen對此的答覆，仍然是時空與學術脈絡的深刻展現，但這並不
+代表今日的法律人就真正免於這項難題。若從這個角度來理解他的
+理論事業，那麼Kelsen的嘗試不論在證立的層次上成功與否、在多
+大程度上禁得起挑戰，它都至少是我們探問法學樓閣之基礎時，一
+個重要且深具代表性的參考對象；畢竟對認識之基礎不加批判的學
+術，終究是無根的。
+反實體的科學性認識演化之路                                                   265
+
+
+
+
+                          參考文獻
+
+1. 中文部分
+
+Deborah Coen著，翁尚均譯（2021），帝國、氣象、科學家：從政
+  權治理到近代大氣科學奠基，奧匈帝國如何利用氣候尺度丈量
+  世界，臺北：麥田。[Coen, Deborah. 2018. Climate in Motion:
+  Science, Empire, and the Problem of Scale. Chicago, IL: University
+  of Chicago Press.]
+        ，法律天國—論Hans Kelsen「無國家的國家學」
+林允中（2022）                         ，
+  國立臺灣大學法律學研究所碩士論文。
+黃舒芃（2007），多元民主中的自由保障—Hans Kelsen的多元主
+  義民主觀暨其對議會與憲法法院的證立，政大法學評論，96
+  期，頁57-98。
+—（2013），框架秩序下的國家權力—公法學術論文集，臺
+  北：新學林。
+—（2016），框架秩序下的國家權力（二）—公法學術論文
+  集，臺北：新學林。
+詹朝欽（2019），肇建近代德國國家法學與基本權體系—Georg
+  Jellinek之人與事（1851-1911），法制史研究，36期，頁169-
+  211。
+—（2023），國家、法與社會—論Georg Jellinek之國家學理
+  論，國立政治大學法律學系博士論文。
+鍾芳樺（2006），國家與法作為人民的自我組織：論威瑪時代Hans
+  Kelsen, Carl Schmitt與Hermann Heller對法最終證立依據的分
+  析，國立臺灣大學法律學研究所博士論文。
+—（2009），應然與實然之關係作為純粹法學的難題，中研院
+  法學期刊，4期，頁81-150。
+266                                  《中研院法學期刊》第35期（2024年9月）
+
+
+
+2. 外文部分
+
+Banks, Erik. 2003. Ernst Mach’s World Elements: A Study in Natural
+      Philosophy. Dordrecht: Springer Science+Business Media.
+—. 2004. The Philosophical Roots of Ernst Mach’s Economy of
+      Thought. Synthese 139:23-53.
+Bix, Brian. 2018. Kelsen, Hart, and Legal Normativity. Revus 34:25-42.
+Cassirer, Ernst. 1953. Substance and Function and Einstein’s Theory of
+      Relativity, translated by William Curtis Swabey and Marie Collins
+      Swabey. New York, NY: Dover.
+Chen, Li-Kung. 2023. The Continuity of a Legal System. Modern Law
+      Review 86:364-394.
+Dreier,     Horst      (1990),   Rechtslehre,      Staatssoziologie   und
+      Demokratietheorie bei Hans Kelsen (1986), 2. Aufl., Baden-Baden:
+      Nomos.
+— (2007), Hans Kelsens Wissenschaftsprogramm, in: Schulze-
+      Fielitz (Hrsg.), Staatsrechtslehre als Wissenschaft, Berlin: Duncker
+      & Humblot, S. 81-114.
+Feichtinger, Johannes (2010), Wissenschaft als reflexives Projekt. Von
+      Bolzano       über     Freud    zu        Kelsen:    Österreichische
+      Wissenschaftsgeschichte 1848-1938, Bielefeld: transcript.
+—. 2016. Intellectual Affinities: Ernst Mach, Sigmund Freud, Hans
+      Kelsen and the Austrian Anti-essentialist Approach to Science and
+      Scholarship. Pp. 117-139 in The Foundation of the Juridico-
+      Political: Concept Formation in Hans Kelsen and Max Weber,
+      edited by Ian Bryan, Peter Langford and John McGarry. New York,
+      NY: Routledge.
+Fillafer, Franz L., and Johannes Feichtinger. 2018. Habsburg Positivism:
+      The Politics of Positive Knowledge in Imperial and Post-Imperial
+反實體的科學性認識演化之路                                                    267
+
+
+    Austria, 1804-1938. Pp. 191-238 in The Worlds of Positivism: A
+    Global Intellectual History, 1770-1930, edited by Johannes
+    Feichtinger, Franz L. Fillafer and Jan Surman. Cham: Palgrave
+    Macmillan.
+Freud, Sigmund (1921), Massenpsychologie und Ich-Analyse, Wien:
+    Internationaler Psychoanalytischer Verlag.
+— (1947), Gesammelte Werke, Bd. 12, London: Imago.
+Friedrich, Manfred (1997), Geschichte der deutschen Staatsrechts-
+    wissenschaft, Berlin: Duncker & Humblot.
+García Berger, Mario. 2018. The Legal Norm as a Function: The
+    Influence of Ernst Cassirer and the Marburg Neo-Kantians on Hans
+    Kelsen. Problema: Anuario de Filosofía y Teoría del Derecho
+    12:239-262.
+García-Salmones, Mónica. 2011. On Kelsen’s Sein: An Approach to
+    Kelsenian Sociological Themes. No Foundations: Journal of
+    Extreme Legal Positivism 8:41-70.
+Górnisiewicz, Arkadiusz. 2020. Totemism of the Modern State: On Hans
+    Kelsen’s Attempt to Unmask Legal and Political Fictions and
+    Contain Political Theology. Ratio Juris 33:49-65.
+Haferkamp, Hans-Peter (2011), Rechtsgeschichte und Evolutionstheorie,
+    in: Siep (Hrsg.), Evolution und Kultur: Symposium der Nordrhein-
+    Westfälischen Akademie der Wissenschaften und der Künste, Wien:
+    Ferdinand Schöningh, S. 35-59.
+Hart, H.L.A. 1970. Kelsen’s Doctrine of the Unity of Law. Pp. 171-199
+    in Ethics and Social Justice, edited by Howard E. Kiefer and
+    Milton K. Munitz. Albany, NY: State University of New York Press.
+Hwang, Shu-Perng (2018), Verfassungsordnung als Rahmenordnung:
+    Eine kritische Untersuchung zum Materialisierungsansatz im
+    Verfassungsrecht aus rahmenorientierter Perspektive, Tübingen:
+268                                《中研院法學期刊》第35期（2024年9月）
+
+
+
+      Mohr Siebeck.
+— (2020), Europarechtsordnung als Rahmenordnung: Versuch
+      einer Überwindung der dualistischen Konstruktion von staatlichen
+      und überstaatlichen Rechtsordnungen, Tübingen: Mohr Siebeck.
+— (2020), Volkswille: Reale Substanz oder Notwendige Fiktion?
+      Ernst-Wolfgang Böckenförde und Hans Kelsen im Vergleich, Der
+      Staat 59, S. 371-396.
+Jabloner, Clemens (1982), Bemerkungen zu Kelsens „Vergeltung und
+      Kausalität“, Besonders zur Naturdeutung der Primitiven, in:
+      Krawietz/Topitsch/Koller     (Hrsg.),      Ideologiekritik     und
+      Demokratietheorie bei Hans Kelsen, Berlin: Duncker & Humblot, S.
+      47-62.
+—           (1997),    Menschenbild     und     Friedenssicherung,   in:
+      Walter/Jabloner (Hrsg.), Hans Kelsens Wege sozialphilosophischer
+      Forschung, Wien: Manz Verlag, S. 57-73.
+—. 1998. Kelsen and His Circle: The Viennese Years. European
+      Journal of International Law 9:368-385.
+— (2001), Beiträge zu einer Sozialgeschichte der Denkformen:
+      Kelsen und die Einheitswissenschaft, in: Jabloner/Stadler (Hrsg.),
+      Logischer Empirismus und Reine Rechtslehre: Beziehungen
+      zwischen dem Wiener Kreis und der Hans Kelsen-schule, Wien:
+      Springer, S.19-43.
+Jellinek, Georg (1892), System der subjektiven öffentlichen Rechte,
+      Freiburg: J.C.B. Mohr.
+— (1929), Allgemeine Staatslehre, 3. Aufl., Berlin: Julius Springer.
+Jestaedt, Matthias (2014), Das Postulat einer streng wissenschaftlichen
+      Erkenntnis des Rechts, in: Aliprantis/Olechowski (Hrsg.), Hans
+      Kelsen: Die Aktualität eines großen Rechtswissenschafters und
+      Soziologen des 20. Jahrhunderts, Wien: MANZsche Verlangs- und
+反實體的科學性認識演化之路                                                        269
+
+
+    Universitätsbuchhandlung, S. 3-12.
+Johnston, William M. 1976. The Austrian Mind: An Intellectual and
+    Social History 1848-1938. London: University of California Press.
+Judson, Pieter. 2016. The Habsburg Empire: A New History. Cambridge,
+    MA: The Belknap Press of Harvard University Press.
+Kelsen, Hans (1911), Hauptprobleme der Staatsrechtslehre: entwickelt
+    aus der Lehre vom Rechtssatze, Tübingen: J.C.B. Mohr.
+— (1920), Das Problem der Souveränität und die Theorie des
+    Völkerrechts, Tübingen: J.C.B. Mohr.
+— (1922), Der Begriff des Staates und die Sozialpsychologie: Mit
+    besonderer Berücksichtigung von Freuds Theorie der Masse, Imago:
+    Zeitschrift   für   Anwendung     der      Psychoanalyse   auf   die
+    Geisteswissenschaften 8, S. 97-141.
+— (1923), Hauptprobleme der Staatsrechtslehre: entwickelt aus der
+    Lehre vom Rechtssatze (1911), 2. Aufl., Tübingen: J.C.B. Mohr.
+— (1925), Allgemeine Staatslehre, Berlin: Julius Springer.
+— (1928), Der soziologische und der juristische Staatsbegriff:
+    Kritische Untersuchung des Verhältnisses von Staat und Recht
+    (1922), 2. Aufl., Tübingen: J.C.B. Mohr.
+— (1934), Reine Rechtslehre, Wien: Franz Deuticke.
+—. 1943. Society and Nature: A Sociological Inquiry. Chicago, IL:
+    University of Chicago Press.
+— (1960), Reine Rechtslehre (1934), 2. Aufl., Wien: Franz
+    Deuticke.
+—. 1991. General Theory of Norms, translated by Michael Hartney.
+    Oxford: Clarendon Press.
+—. 1998. The Pure Theory of Law, ‘Labandism’, and Neo-
+    Kantianism: A Letter to Renato Treves. Pp. 169-176 in Normativity
+    and Norms: Critical Perspectives on Kelsenian Themes, edited by
+270                                《中研院法學期刊》第35期（2024年9月）
+
+
+
+      Stanley L. Paulson and Bonnie Litschewski Paulson, translated by
+      Stanley L. Paulson, Bonnie Litschewski Paulson and Michael
+      Sherberg. Oxford: Clarendon Press.
+— (2007), Autobiographie (1947), in: Jestaedt (Hrsg.), Hans Kelsen
+      Werke, Bd. 1, Tübingen: Mohr Siebeck, S. 29-92.
+— (2010), Über Staatsunrecht (1914), in: Klecatsky/Marcic/
+      Schambeck (Hrsg.), Die Wiener rechtstheoretische Schule:
+      Schriften von Hans Kelsen, Adolf Merkl, Alfred Verdross, Bd. 1,
+      Wien: Verlag Österreich, S. 785-865.
+— (2010), Gott und Staat (1922), in: Klecatsky/Marcic/Schambeck
+      (Hrsg.), Die Wiener rechtstheoretische Schule: Schriften von Hans
+      Kelsen, Adolf Merkl, Alfred Verdross, Bd. 1, Wien: Verlag
+      Österreich, S. 139-157.
+—. 2012. Secular Religion. Wien: Springer.
+Kersten, Jens (2000), Georg Jellinek und die klassische Staatslehre,
+      Tübingen: Mohr Siebeck.
+Kletzer, Christoph. 2011. Kelsen, Sander, and the Gegenstandsproblem
+      of Legal Science. German Law Journal 12:785-810.
+Korb, Axel-Johannes (2009), Sander gegen Kelsen: Geschichte einer
+      Feindschaft, in: Walter/Ogris/Olechowski (Hrsg.), Hans Kelsen:
+      Leben – Werk – Wirksamkeit, Wien: MANZsche Verlangs- und
+      Universitätsbuchhandlung, S. 195-208.
+Langford, Peter, Ian Bryan, and John McGarry, eds. 2017. Kelsenian
+      Legal Science and the Nature of Law. Cham: Springer.
+Lepsius, Oliver (2000), Georg Jellineks Methodenlehre im Spiegel der
+      zeitgenössischen Erkenntnistheorie, in: Paulson/Schulte (Hrsg.),
+      Georg Jellinek: Beiträge zu Leben und Werk, Tübingen: Mohr
+      Siebeck, S. 309-344.
+Mach, Ernst. 1959. The Analysis of Sensations, translated by C.M.
+反實體的科學性認識演化之路                                                         271
+
+
+    Williams and Sydney Waterlow. New York, NY: Dover Publications.
+—. 1976. Knowledge and Error: Sketches on the Psychology of
+    Enquiry, translated by Thomas McCormack and Paul Foulkes.
+    Dordrecht: D. Reidel.
+McFarland, Rob/Spitaler, Georg/Zechner, Ingo (2020), Einleitung, in:
+    McFarland/Spitaler/Zechner (Hrsg.), Das Rote Wien: Schlüsseltexte
+    der Zweiten Wiener Moderne 1919-1934, Berlin: de Gruyter, S. 3-
+    16.
+Olechowski,   Thomas     (2020),     Hans   Kelsen:   Biographie    eines
+    Rechtswissenschaftlers, Tübingen: Mohr Siebeck.
+Parsons, Talcott. 1944. Book Review (reviewing HANS KELSEN, SOCIETY
+    AND NATURE: A SOCIOLOGICAL INQUIRY (1943)).            Harvard Law
+    Review 58:140-144.
+Patrono, Mario. 2019. Kelsen Before Kelsen – Reflections on Hans
+    Kelsen’s Die Staatslehre des Dante Alighieri. Victoria University of
+    Wellington Law Review 50:421-432.
+Paulson, Stanley L. (1988), Zur neukantianischen Dimension der Reinen
+    Rechtslehre:   Vorwort     zur    Kelsen-Sander-Auseinandersetzung
+    (1987), in: Paulson (Hrsg.), Die Rolle des Neukantianismus in der
+    Reinen Rechtslehre, Aalen: Scientia Verlag, S. 7-26.
+—. 1992. Kelsen’s Legal Theory: The Final Round (book review).
+    Oxford Journal of Legal Studies 12:265-274.
+—. 1996. Hans Kelsen’s Earliest Legal Theory: Critical
+    Constructivism. The Modern Law Review 59:797-812.
+—. 2005. Some Issues in the Exchange between Hans Kelsen and
+    Erich Kaufmann. Pp. 269-290 in Perspectives on Jurisprudence.
+    Stockholm: Stockholm Institute for Scandinavian Law.
+Pojman, Paul. 2019. Ernst Mach. In The Stanford Encyclopedia of
+    Philosophy, https://plato.stanford.edu/archives/win2020/entries/ernst-
+272                                《中研院法學期刊》第35期（2024年9月）
+
+
+
+      mach/.
+Raz, Joseph. 1979. Kelsen’s Theory of the Basic Norm. Pp. 122-145 in
+      The Authority of Law. Oxford: Oxford University Press.
+Schönberger, Christoph (2008), Hans Kelsens „Hauptprobleme der
+      Staatsrechtslehre“: Der Übergang vom Staat als Substanz zum Staat
+      als Funktion, in: Jestaedt (Hrsg.), Hans Kelsen Werke, Bd. 2,
+      Tübingen: Mohr Siebeck, S. 23-35.
+Silverman, Paul (2013), Sovereignty as a Juristic Assumption and as a
+      Focal Point of Political Commitment, in: Jestaedt (Hrsg.), Hans
+      Kelsen Werke, Bd. 4, Tübingen: Mohr Siebeck, S. 237-248.
+Somek, Alexander. 2006. Stateless Law: Kelsen’s Conception and Its
+      Limits. Oxford Journal of Legal Studies 26:753-774.
+Sprengel, Peter. 2010. Fantasies of the Origin and Dreams of Breeding:
+      Darwinism in German and Austrian Literature around 1900.
+      Monatshefte 102:458-478.
+Stolleis, Michael (1992), Geschichte des öffentlichen Rechts in
+      Deutschland, Bd. 2, München: C. H. Beck.
+Truwant, Simon. 2015. The Concept of ‘Function’ in Cassirer’s
+      Historical, Systematic, and Ethical Writings. Pp. 289-312, in The
+      Philosophy of Ernst Cassirer: A Novel Assessment, edited by J.
+      Tyler Friedman and Sebastian Luft. Berlin: de Gruyter.
+Uhlenbrock, Henning (2000), Der Staat als juristische Person:
+      Dogmengeschichtliche Untersuchung zu einem Grundbegriff der
+      deutschen Staatsrehctlehre, Berlin: Duncker & Humblot.
+Vaihinger, Hans. 1935. The Philosophy of ‘As if’, translated by C.K.
+      Ogden, 2d ed. London: Kegan Paul, Trench, Trubner.
+Weinberger, Ota. 1973. Introduction: Hans Kelsen as Philosopher. Pp.
+      IX-XXV in Essays in Legal and Moral Philosophy, edited by Ota
+      Weinberger, translated by Peter Heath. Dordrecht: D. Reidel.
+反實體的科學性認識演化之路                                                     273
+
+
+Wheatley, Natasha. 2016. Law, Time, and Sovereignty in Central Europe:
+    Imperial Constitutions, Historical Rights, and the Afterlives of
+    Empire. Ph.D. dissertation, Columbia University (on file with
+    Columbia University Library).
+—. 2023. The Life and Death of States: Central Europe and the
+    Transformation of Modern Sovereignty. Princeton, NJ: Princeton
+    University Press.
+274                                    《中研院法學期刊》第35期（2024年9月）
+
+
+
+
+          An Evolutionary Path Towards
+      an Anti-Substance Scientific Cognition:
+      On the Theory of State (Staatslehre) and Legal Science
+              (Rechtswissenschaft) of Hans Kelsen
+
+
+                              Yun-Chung Lin＊
+
+                                  Abstract
+      This article tries to place Hans Kelsen’s theoretical enterprise in its
+intellectual historical context. Focusing on his somewhat overlooked
+claim, namely, the pursuit of science—more specifically the pursuit of
+legal science (Rechtswissenschaft)—it attempts to demonstrate that this
+pursuit is central to Kelsen’s work, and uses it to explain many of his
+discourse strategies that were chosen and employed, and also connects
+them with the time, space, and academic background of Kelsen.
+      It begins with Kelsen’s theory of the state (Staatslehre) and points
+out that within its context, the dissolution of the concept of substantive
+state is crucial to the scientification of the study of law. The thesis of the
+identity of law and state, as a form of “stateless theory of the state,” is
+born out of this endeavor. The reason why the concept of the state to
+Kelsen, is the key to a legal science, lies in his philosophy of science and
+his imagination of the history of science. He believes that the
+development of human cognition presents an evolutionary process,
+which started from substantializing things to overcoming these
+substances. This evolution has already taken place in the sphere of
+natural science through the dissolution of the concept of God. In parallel
+comparison, legal science has to expel the concept of substantive state,
+overcoming the “theology of state”. Finally, Kelsen’s envisioning or
+
+＊ LL.M., College of Law, National Taiwan University.
+反實體的科學性認識演化之路                                                       275
+
+
+acceptance of this kind of concept of state and conception of science, is
+related to his Austro-Hungarian background. The diversity of the empire
+made him wary of the concept of substantive state from the beginning,
+and the anti-substantial stance of Viennese Modernism (Wiener Moderne)
+also influenced his acceptance of similar scientific ideas.
+KEYWORDS: Hans Kelsen, Legal Science (Rechtswissenschaft), Theory
+          of State (Staatslehre), The thesis of identity of State and
+          Law, Viennese Modernism (Wiener Moderne).
+

@@ -1,0 +1,1309 @@
+《國際比較下我國著作權法之總檢討》 劉孔中主編                                      415
+ 臺北 中央研究院法律學研究所 專書（19）
+民國 103 年 12 月，頁 415-449
+
+
+
+
+           美國 Wiley 案對我國著作權
+                        ＊
+              耗盡原則之啟發
+
+                              胡心蘭＊＊
+
+                              摘 要
+  美國聯邦最高法院於2013年初針對美國著作權法之「第一次銷
+售原則」究採「國內耗盡」抑或「國際耗盡」做出重大裁決：有鑑
+於國際貿易貨物流通之頻繁，著作重製物充斥於各類日常生活用品
+中，若採「國內耗盡原則」，則著作重製物若是在美國境外製造，
+除非該著作重製物之首次銷售係發生在美國境內，否則著作權人對
+該自境外輸入之著作重製物的散布權仍未耗盡，其散布需再獲得著
+作權人之授權，如此恐將影響民眾日常交易行為甚鉅，是以美國最
+高法院於 Wiley 案確立採國際耗盡原則。
+
+  反觀我國著作權法中規範散布、輸入著作物之行為，與耗盡原
+則之相關規定，因我國第59條之1將「第一次銷售理論」之適用範
+圍限制於「在中華民國管轄區域內取得著作原件或其合法重製物所
+有權」，排除了在我國合法重製，直接外銷再回銷之重製物，係採
+行比美國 Wiley 案作成前更嚴格之限制，實不利於處著作物輸入國
+地位之我國國民。然當美國自身已經由 Wiley 案確認將第一次銷售
+原則改採國際耗盡之情況下，正成為我國修法一次矯正上述適用上
+之疑義的最佳契機。
+
+
+
+
+＊ 投稿日：2013年10月29日；接受刊登日：2014年5月2日。
+                                 ［責任校對：鄭育翔］
+                                          。
+＊＊ 東海大學法律學院助理教授。
+  穩定網址：http://publication.iias.sinica.edu.tw/42016141.pdf。
+416                                    國際比較下我國著作權法之總檢討
+
+
+
+關鍵詞：第一次銷售原則、耗盡原則、國際耗盡原則、國內耗盡原
+    則、單一報酬理論、美國最高法院 Wiley 判決、散布權、
+    輸入權。
+
+
+
+
+                               目 次
+
+    壹、問題提出                             （一）案例事實
+    貳、第一次銷售原則與平行輸入                     （二）分析
+     一、 單一報酬原理                       三、 小結
+     二、 耗盡原則之適用範圍與散                 肆、美國法例對我國著作權法第
+        布權、輸入權之關連                     一次銷售原則之啟發—代
+    參、美國法相關案例                         結論
+     一、Wiley案之前
+     二、 美國最高法院 Wiley 案
+
+
+
+
+壹、問題提出
+
+      近年間，美國法院針對「第一次銷售原則（first sale doctrine）
+                                            ，
+                                」1，有兩項重大的爭
+或稱「權利耗盡原則（doctrine of exhaustion）
+議：其一為授權契約可否限縮第一次銷售原則之適用；另一則為第
+一次銷售原則與平行輸入的關係。第一次銷售原則除作為限制著作
+權人專屬散布權的重要原則，有著「衡平著作權人控制其著作之權
+
+
+1   歐洲法系所用「耗盡（Exhaustion）   」一詞乃源自於著作財產權人對於合法著作
+    重製物加以散布之控制，因其同意下公開散布後即告耗盡，不得再對該著作重
+    製物主張公開散布權。參見章忠信，著作權法真品平行輸入之研究，資訊法務
+    透析，10 卷 7 期，頁 60 註 13（1998 年）
+                                ，http://www.copyrightnote.org/paper/
+    pa0006. doc。
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                           417
+
+
+利，……與使用者接觸使用（著作物）之需要2」此一重要法律上
+之價值外，該兩項爭議之所以獲得相當大關注，正是由於爭議的產
+生，與現今使用者對於著作權產物之利用方式，因數位科技的發
+展、資訊、貨物頻繁快速的全球化流通而隨之改變有關，且廣泛的
+深入人們的日常生活中。
+      在有關授權契約可否限縮第一次銷售原則之適用的議題，美國
+第九巡迴上訴法院在 2010 年至 2011 年間做成三件有關電腦軟體3、
+數位音樂著作4等之散布行為涉及第一次銷售原則適用性之案例，
+均承認該等限制使用者移轉著作重製物之授權契約的有效性，配合
+著作權人現行之授權模式，勢必壓縮未來著作權法第一次銷售原則
+之適用於數位著作或電腦程式之空間，並削弱第一次銷售原則之功
+能，對著作使用者與消費者而言恐有不利之影響，以致有著作權濫
+用的疑慮5。
+      而有關第一次銷售原則與平行輸入的關係，一般認知中「合法
+取得」之「著作重製物」，即便是平行輸入之水貨，若依第一次銷
+售原則之適用，因著作權人之散布權在同意其進入市場時即已耗
+盡，該著作重製物之所有權人當可自由處分之，不需再取得著作權
+人之授權。然此一適用結果，卻因該著作重製物之製造地不同而有
+了不同的命運：根據美國之前判例法的解釋，若是在境內製造，則
+散布權耗盡；若是在境外製造，則除非該著作重製物之首次銷售係
+發生在境內，否則著作權人對該自境外輸入之著作重製物的散布權
+仍未耗盡，其散布需再獲得著作權人之授權。
+
+
+2   “[A] balance between the artist’s right to control [her] work …and the public’s need
+    for access… .” Stewart v. Abend, 495 U.S. 207, 228 (1990).
+3   Vernor v. Autodesk, 621 F.3d 1102, 1104 (9th Cir. 2010); MDY Industries, LLC v.
+    Blizzard Entertainment, Inc., 629 F.3d 928 (9th Cir. 2010).
+4   UMG Recordings, Inc. v. Augusto, 628 F.3d 1175 (9th Cir. 2011).
+5   有關此一議題，限於篇幅，不在本文討論範圍。作者已另為文探討，參見胡心
+    蘭，初探數位環境下著作權第一次銷售原則與濫用原則之適用，「2012 國際比
+    較下我國著作權法問題之總檢討」學術研討會，中央研究院法律學研究所主辦
+    （2013 年 12 月 29 日）      。
+418                                            國際比較下我國著作權法之總檢討
+
+
+
+      在 2013 年，美國最高法院判決 John Wiley & Sons 一案（以下
+簡稱 Wiley 案）確立採國際耗盡原則之前，著作重製物之製造地大
+大的影響了第一次銷售原則之適用結果，故本文將以該案為主軸，
+探討第一次銷售原則與平行輸入間關聯，並討論如我國係以著作權
+輸入為主的市場，究採國際耗盡原則抑或國內耗盡原則孰者較為有
+利？藉此本文亦將就此一主題對臺灣著作權法第一次銷售原則提出
+建言，若爭議發生在臺灣，在適用本國著作權法下會產生何種結
+果，並以著作物輸入國的角度檢討我國著作權法第一次銷售原則有
+無改進之空間。
+
+
+
+貳、第一次銷售原則與平行輸入
+
+      如前所述，為維持著作權人與著作使用人間之平衡，除合理使
+用原則以外，第一次銷售原則，又稱耗盡原則，亦是著作權法制中
+一項精心的設計：著作權賦予著作權人就其創作有獲得報酬的機
+會，但為使著作物得以自由流通，讓使用者充分的利用，著作權法
+亦限制著作權人對於已進入市場的特定著作重製物再握有控制能
+力，即耗盡其對著作物再行散布的權利。
+
+一、單一報酬原理
+
+      就美國法而言，耗盡原則的道理很簡單，著作權法賦予著作權
+人就其創作之銷售或其他移轉所有權的行為獲得一次補償，著作權
+人就該特定著作重製物自此而後的各種處置均不應再獲得報酬，即
+                                  」6。在第一次銷售
+採所謂「單一報酬原理（single-reward principle）
+原則之濫觴 Bobbs-Merrill 案中7，美國最高法院為正當化第一次銷
+
+
+6   John A. Rothchild, Exhausting Extraterritoriality, 51 SANTA CLARA L. REV. 1187,
+    1188 (2011).
+7   Bobbs-Merrill Co. v. Straus, 210 U.S. 339 (1908).
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                            419
+
+
+售原則之建構，即宣告了此一「單一報酬原理」
+                    ：「本案之著作權人
+已以其所接受的數量及價格出售其著作。如此已實行了其販售（著
+作）的權利。8」換言之，販售著作的權利（right to vend）意指著
+作權人得以其可接受之價格出售其著作重製物的權利。相反的，若
+著作權人所訂的價格沒有人願意接受，則該販售著作的權利亦隱含
+了著作權人拒絕出售任何著作重製物的權利。一旦著作權人以其可
+接受之價格同意移轉特定著作重製物之所有權，該著作權人即不得
+就該特定重製物再次主張著作權而獲得第二次的報酬9。美國國會
+於 Bobbs-Merrill 案之隔年，亦是以「單一報酬原理」作為本質而
+將第一次銷售原則予以法典化10。
+      單一報酬原理用於從製造至銷售均發生於美國境內的著作重製
+物案例尚無疑問，蓋著作權人一旦以其可接受之價格同意移轉特定
+著作重製物之所有權，該著作權人於境內控制其著作重製物再散布
+的權利即告耗盡。然而，若製造或銷售之行為發生在境外，則美國
+有部分法院之判決結果即與單一報酬原理有所扞格，將使得著作權
+人就單一著作重製物之處置有獲得多次報酬之機會11。
+      美國第三巡迴上訴法院曾在 Sebastian 案12以「單一報酬原理」
+解釋第一次銷售原則與境外銷售間之關係：
+
+      在第109條（a）項文字中，或在該條文之歷史背景或基本
+      原理中，沒有任何部分顯示著作權人於境外銷售其著作重
+      製物時，就其著作未獲得「報酬」。在第602條（a）項中
+      亦無任何語言提及著作權人若選擇於境外銷售其著作重製
+
+
+
+8  “The owner of the copyright in this case did sell copies of the book in quantities and
+    at a price satisfactory to it. It has exercised the right to vend.” Id. at 351.
+ 9 Rothchild, supra note 6, at 1191.
+10 Id. at 1192.
+11 詳見下述參、一。See also id. at 1189.
+12 Sebastian Int’l, Inc. v. Consumer Contacts (PTY) Ltd., 847 F.2d 1093, 1099 (3d Cir.
+   1988).
+ 420                                               國際比較下我國著作權法之總檢討
+
+
+
+       物，可比在境內銷售著作重製物的權利人獲得「更適當的
+       報酬」。此種結果將發生於權利人不但獲得（著作重製物
+       之）售價，亦獲得可限制（系爭著作重製物）輸入之權利
+       時13。
+       Sebastian 案就第一次銷售原則之解讀於 Wiley 案14中為美國最
+高法院所採，將第一次銷售原則之適用排除地理上限制：著作權人
+一旦以其可接受之價格同意移轉特定著作重製物之所有權，則不論
+境內、外，著作權人控制其著作重製物再散布的權利即告耗盡，符
+合「單一報酬原理」之意旨。
+
+二、耗盡原則之適用範圍與散布權、輸入權之關連
+
+       目前權利耗盡理論各國規範不一致，「與貿易相關智慧財產權
+協定（Trade-Related Aspects of Intellectual Property Rights, TRIPs）
+                                                               」
+第 6 條僅規定：
+        「就本協定爭端解決之目的，根據第 3 條及第 4 條
+規定之限制，本協定中無任何規定得被用以處理智慧財產權權利耗
+盡之爭議。15」其中第 3 條及第 4 條分別為「國民待遇原則」與
+「最惠國待遇原則」
+        ，只要不違反此二原則，各會員國得自行決定是
+否適用耗盡原則及其相關規定。「世界智慧財產權組織（World
+Intellectual Property Organization, WIPO）
+                                        」下之「世界智慧財產權組
+織著作權條約（The WIPO Copyright Treaty, WCT）
+                                     」及「世界智慧
+
+
+
+13 “Nothing in the wording of section 109(a), its history or philosophy, suggests that the
+   owner of copies who sells them abroad does not receive a ‘reward for his work.’ Nor
+   does the language of section 602(a) intimate that a copyright owner who elects to sell
+   copies abroad should receive ‘a more adequate award’ than those who sell
+   domestically. That result would occur if the holder were to receive not only the
+   purchase price, but a right to limit importation as well.” Id. at 1099.
+14 Kirtsaeng v. John Wiley & Sons, Inc., 568 U.S. ____ (2013), http://cyber.law.harvard.
+   edu/people/tfisher/IP/2013_Kirtsaeng_Abridged.pdf.
+15 TRIPs Article 6: For the purposes of dispute settlement under this Agreement, subject
+   to the provisions of Articles 3 and 4 nothing in this Agreement shall be used to address
+   the issue of the exhaustion of intellectual property rights.
+美國 Wiley 案對我國著作權耗盡原則之啟發                                 421
+
+
+財 產 權 組 織 表 演 及 錄 音 物 條 約 （ The WIPO Performances and
+Phonograms Treaty, WPPT）」兩條約亦同，均任其會員國自行決定
+有關耗盡原則之規定16。
+   耗盡原則因適用範圍之不同而分為「國際耗盡」
+                       、「國內耗盡」
+                             、
+與折衷之「區域耗盡」。國際耗盡原則是指當著作權人第一次以銷
+售或其他移轉所有權之方式，讓其著作進入市場流通後，則不論該
+第一次進入市場之行為發生在何處，著作權人對該著作重製物之散
+布權即告耗盡。相對的，若採國內耗盡原則，則著作權人於國境內
+讓其著作第一次進入市場的行為雖耗盡其於國境內之散布權，但若
+第一次進入市場之行為係發生於境外者，則散布權未耗盡，著作權
+人並未喪失其於境內對該境外輸入之著作重製物之控制。而區域耗
+盡則如歐盟所採之模式，以歐盟會員國所含蓋之區域為界，區域內
+採國際耗盡原則，區域外則以會員國為整體採國內耗盡原則17。
+   一般而言，各國著作權法究採國際耗盡原則或國內耗盡原則，
+有其經濟及政策上之考量，此與是否允許平行輸入有關。採國際耗
+盡之國家通常不禁止平行輸入，蓋著作重製物一旦經著作權人同意
+進入市場流通後，著作權人即全球性的喪失其對該著作重製物之控
+制，除有針對特定種類之著作重製物的例外規定外，原則上不得禁
+止其輸出、入的行為。然若採國內耗盡，則著作權人之散布權僅限
+於當地國內耗盡，故仍可禁止真品平行輸入。職是之故，採國際耗
+盡有助於著作物市場競爭，促進流通管道多元化，有利於著作物使
+用者便於取得接觸，亦可享受競爭下之價格優勢，故採國際耗盡者
+多為著作物輸入國，如澳洲、紐西蘭，或國內、外物價差距較大之
+
+
+16 參見章忠信，新著作權法「散布權」相關規定之檢討，政大智慧財產評論，2 卷
+ 1 期，頁 54（2004 年）。
+17 參見章忠信（註 1）；沈宗倫，由對價平衡觀點論智慧財產權耗盡原則之適
+ 用—以平行輸入為中心，中正法學集刊，23 期，頁 193-198（2007 年）                ；林利
+ 芝，論著作權法之輸入權與散布權規定重疊適用上的衝突—以美國最高法院
+ 確認聯邦第九巡迴上訴法院 Omega S.A. v. Costco Wholesale Corporation 案之判
+ 決為中心，智慧財產權月刊，165 期，頁 62-87（2012 年）      。
+422                        國際比較下我國著作權法之總檢討
+
+
+
+國家，如日本、瑞士18。相對的，採國內耗盡者則多為較重視著作
+權人權益之國家，最主要原因在於禁止平行輸入有利於著作權人依
+各國經濟水準、著作物利用態樣與習慣等因素作市場分割，實行差
+別取價，有助其國際市場之收益最大化。此一論點亦為下述美國
+Wiley 案中，原告出版商與不同意見書所爭執之重點，詳下述。
+      承前所言，耗盡原則係為平衡著作權人與著作物使用人間對著
+作重製物之控制與流通，是以耗盡原則所耗盡之權利，即係著作權
+人所專屬之散布權。如學者章忠信之觀察，散布權乃重製權之補
+充，「而『第一次銷售理論』與輸入權均是以散布權為中心，其
+中，散布權之範圍受『第一次銷售理論』之限制而縮小，另一方
+面，輸入權則擴大散布權之範圍，至於『第一次銷售理論』在採國
+內耗盡之法制中，則並不影響輸入權之行使。19」惟須說明的是，
+在採國內耗盡的國家中，亦非所有國家均同時規定有相關平行輸入
+之限制，蓋在國內耗盡原則下，未經著作權人同意而銷售/散布自
+境外輸入之著作重製物時，仍會構成散布權之侵害，因散布權與輸
+入權之效果均在防止著作重製物未經授權而在境內自由流通，單純
+限制「輸入」之行為並無太大的意義20，是以如我國與美國散布權
+與輸入權並列之情形即產生諸多爭議。
+      美國於 2013 年最高法院判決 Wiley 案確立採國際耗盡原則之
+前，對於其著作權法第 109 條究採國內耗盡抑或國際耗盡原則並無
+明確指示，惟從相關案例研讀結果得知，下級法院以採國內耗盡原
+則之解讀者居多21。而美國著作權法雖未於第 106 條著作權人「專
+
+
+18 參見陳皓芸，從著作權與競爭法交錯之觀點分析著作真品平行輸入相關法制問
+ 題，國立臺灣大學法律學研究所碩士論文，頁 18（2008 年）
+                               。
+19 參見章忠信（註 16） ，頁 54。
+20 若係為防堵盜版品流入國內，似授權於海關直接扣押已可收效。
+21 Wiley 案之最大爭議點即在於第 109 條（a）項中「依本法合法製造（lawfully
+ made under this title）」一詞是否含有「地理上之限制」？此所謂地理上之限
+ 制，即在區分國際耗盡與國內耗盡原則。就此，第二、第九巡迴上訴法院、美
+ 國檢察總長及最高法院 Ruth B. Ginsburg 大法官均持肯定說，即認應為國內耗
+ 盡，詳下述參、一。
+美國 Wiley 案對我國著作權耗盡原則之啟發                               423
+
+
+                                        」條項22中明文賦予著
+屬權利（exclusive right in copyrighted works）
+作權人有禁止輸入之權利，但第 602 條（a）項（1）款規定：「未
+經著作權人之授權，將於境外取得之著作重製物或錄音物輸入美
+國，屬侵害第 106 條著作權人專屬散布著作重製物或錄音物之行
+為，得依第 501 條之規定提起訴訟。23 」間接賦予著作權人輸入
+權，當為著作權人之散布權的延伸。於此即產生了適用上之疑義，
+根據第 602 條（a）項（1）款之規定，若從事禁止輸入之行為，屬
+侵害第 106 條著作權人專屬權利之行為，然第 106 條本文又規定包
+括散布權等著作權人之專屬權利「受第 107 條至第 122 條之限
+ ，則附屬於散布權之輸入權是否亦受第 107 條至第 122 條中，
+制」
+第 109 條「第一次銷售原則」之限制？以下謹就美國判例法上對此
+一問題之爭議簡介之。
+
+
+
+參、美國法相關案例
+
+一、Wiley 案之前
+
+     事實上，自 1908 年做出第一次銷售原則之濫觴 Bobbs-Merrill
+案後24，美國最高法院在其後一百多年間於著作權法下就該原則只
+
+
+22 17 U.S.C. §106 (2006).
+23 17 U.S.C. §602(a)(1) (2006).
+24 Bobbs-Merrill Co. v. Straus 一案確立了「第一次銷售原則」之定義，闡明著作權
+   人之專屬散布權，於權利人首次銷售該特定受著作權保護之著作的重製物後，
+   即告耗盡。Bobbs-Merrill, 210 U.S. at 350-51. 在本案中，原告為系爭著作之著作
+   權人，於銷售其著作書籍時附有任何經銷商若以低於一美元之價格銷售該書，
+   均屬著作權侵害之書面啟事。被告書商卻仍以低於一美元之價格出售該書，原
+   告著作權人即提出侵權告訴，主張附隨於書本封面的限制零售價格啟事，事實
+   上應認係著作權人與該書消費者間構成授權契約，屬於著作權人專有販售其著
+   作物之權利範圍。然最高法院並不認同原告之主張，判定該限制零售價格啟事
+   並不構成授權契約，且原著作權人之專有販售著作物之權利僅存在於最初之銷
+   售行為，不得擴及後續之銷售行為。在作成此一決定時，最高法院申明「著作
+ 424                                              國際比較下我國著作權法之總檢討
+
+
+
+做出一個判決25，即 Quality King v. L’anza 案26。在該案中，最高法
+院判定第一次銷售原則適用於國外進口之著作重製物，只要該著作
+                 （lawfully made under this
+重製物係根據美國著作權法「合法製造」
+title）的 27 ，換言之，輸入權亦受第一次銷售原則之限制。然於
+2010 年被熱烈討論的 Omega v. Costco 案28，第九巡迴上訴法院又修
+正了第一次銷售原則對輸入權之適用範圍，對境外製造之合法著作
+重製物之輸入行為，創設了「部分適用、部分不適用」第一次銷售
+原則的模式。
+       雖然 Quality King 案已判定輸入權亦受第一次銷售原則的限
+制，但第九巡迴上訴法院在 Omega 案對第一次銷售原則附加了一
+個地理上的條件，即所謂「依本法合法製造（lawfully made under
+this title）」，是指系爭著作重製物必須是在適用美國著作權法之
+「美國境內合法製造並銷售」 29 。然第九巡迴上訴法院在先前的
+
+
+
+
+   權法在保護著作權利人專屬之重複生產及銷售其著作之權利的同時，並未創設
+   一個如本案事實中，以書面啟事對未來之購買者於零售該書時強加限制的權
+   利……」。Bobbs-Merrill, 210 U.S. at 350.
+25 美國國會對於第一次銷售原則亦是鮮少關注，自 2003 年提出「移轉並刪除模式
+   （forward-and-delete approach ）」之 Consumer, Schools, and Libraries Digital
+   Rights Management Awareness Act of 2003, S.1621 (108th Congress) 法案被否決
+   後，就沒有任何相關法案被引進國會討論。See Adam W. Sikich, Buyer Beware:
+   The Threat to the First Sale Doctrine in the Digital Age, 14 J. INTERNET L. 1, 22
+   (2011).
+26 Quality King Distrib., Inc. v. L’anza Research Intern, Inc., 523 U.S. 135 (1998).
+27 Id. at 145, 152. 在本案中，系爭著作重製物是貼在美髮用品的包裝上的標籤，在
+   美國製作，銷往美國以外，再回銷美國—因該美髮用品有價差，在美國以外
+   之售價比美國境內便宜。由於國內學者對於 Quality King 案已有諸多詳實之介
+   紹與分析，本文即不再贅述。請參見前註 17，章忠信、沈宗倫、與林利芝等
+   文。
+28 Omega S.A. v. Costco Wholesale Corp., 541 F.3d 982 (9th Cir. 2008), aff’d by an
+   equally divided court; Costco Wholesale Corp. v. Omega, S.A., 131 S. Ct. 565 (2010).
+29 Omega, 541 F.3d at 988 (stating “In short, copies covered by the phrase ‘lawfully
+   made under [Title 17]’ in § 109(a) are not simply those which are lawfully made by
+   the owner of a U.S. copyright. Something more is required. To us, that ‘something’ is
+   the making of the copies within the United States, where the Copyright Act applies.”).
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                      425
+
+
+BMG Music 案與 Drug Emporium 案等判決中發現30，若嚴格適用此
+一地理上之限制，恐會引起鼓勵著作人將著作重製物製造地移往境
+外，進而規避適用第一次銷售原則的情況。
+  BMG Music 案之系爭著作物係於美國境外製造，未經著作權人
+授權而輸入美國販售之錄音物。第九巡迴上訴法院判定：因美國著
+作權法第 109 條（a）項中「以本法合法製造」
+                       ，係指依據美國著作
+權法，在美國製造並銷售之著作重製物，故不可做為同法第 602 條
+（a）項之抗辯31。Drug Emporium 案之案例事實與判決亦與 BMG
+Music 案類似，惟第九巡迴上訴法院發現，若只有在美國境內合法
+製造並銷售的著作重製物可適用第一次銷售原則之抗辯，則美國著
+作權法對於境外製造的著作重製物之保障似乎大於境內製造之重製
+物32。此等適用結果亦無法源支持，故第九巡迴上訴法院就 BMG
+Music 案所做的判決設了一個例外，即第 109 條（a）項亦可適用於
+境外製作，但第一次銷售係在美國境內之著作重製物33。
+     因此，由於 Omega 刻在手錶背面的環球圖樣是在瑞士製造，
+不符合「美國境內合法製造並銷售」之地理限制，而 Costco 於美
+國境內銷售手錶之行為又未經著作權人授權，故亦不適用「雖境外
+製作，但第一次銷售係發生在美國境內之著作重製物」此一地理限
+制之例外，因此第九巡迴上訴法院判定 Costco 的輸入行為不適用
+第一次銷售原則34。
+     第九巡迴上訴法院辨別 Omega 案與 Quality King 案最大的不
+同，在於 Omega 案中的系爭著作重製物係於美國境外製造，換言
+
+
+30 See BMG Music v. Perez, 952 F.2d 318 (9th Cir. 1991), Parfums Givenchy, Inc. v.
+   Drug Emporium, Inc., 38 F.3d 477 (9th Cir. 1994). 此二案例均於最高法院 Quality
+   King 案判決前作成。第九巡迴上訴法院於 Omega 案引述該二案以解釋創設
+   「部分適用、部分不適用」第一次銷售原則的模式的緣由。Omega, 541 F.3d at
+   985-86.
+31 BMG Music, 952 F.2d at 319.
+32 Drug Emporium, 38 F.3d at 482 n.8.
+33 Id. at 481.
+34 Omega, 541 F.3d at 983-84.
+ 426                                             國際比較下我國著作權法之總檢討
+
+
+
+之，美國著作權法第 602 條（a）項（1）款輸入著作重製物之行為
+是否適用第一次銷售原則，因系爭著作重製物之製造地是否在美國
+境內而有不同結果，此一論點頗具爭議。本案雖移審至美國最高法
+院，然卻在 Kagan 大法官未參與討論與決策的情況下，以四比四的
+票數，未附理由，維持了第九巡迴上訴法院所做有利於 Omega 的
+判決35。由於美國最高法院錯失了在 Omega 案重新定義第一次銷售
+原則的機會，最高法院於 2013 年 3 月間做出的 John Wiley & Sons,
+Inc. v. Kirtsaeng 案，則成了最高法院再次釐清第一次銷售原則之適
+用的時機。
+
+二、美國最高法院 Wiley 案
+
+    （一）案例事實
+       Wiley 案的案件事實與前述 Quality King 案與 Omega 案稍有不
+同，被告 Kirtsaeng 是在美國唸書的泰籍研究生，其發現同本教科
+書在泰國的售價比在美國便宜，便請親友從泰國買書寄給他後，再
+由他在 eBay 上拍賣36。然此一行為明顯違反出版商 John Wiley &
+Sons (Asia)（以下稱 Wiley）在系爭教科書上的聲明，其明言該教
+科書係僅授權於歐洲、亞洲、非洲、及中東販售，且未經出版商同
+意不得自該等區域出口37。Wiley 於 2008 年於美國紐約州地方法院
+提起著作權侵權訴訟，控告 Kirtsaeng 違反著作權法第 106 條（3）
+項 著 作 權 人 專 屬 散 布 權 及 第 602 條 （ a ） 項 輸 入 權 之 規 定 。
+Kirtsaeng 則以其取得之教科書皆係合法取得之正版書籍，故其主張
+引用同法第 109 條第一次銷售原則作為抗辯38。
+       是以系爭著作重製物是美國著作權人授權於泰國印製之正版教
+
+
+
+35 “JUSTICE KAGAN took no part in the consideration or decision of this case.” Id.
+36 John Wiley & Sons v. Kirtsaeng, 654 F.3d 210, 212-13 (2d Cir. 2011).
+37 Kirtsaeng, 568 U.S. at 4.
+38 Id. at 5.
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                                 427
+
+
+科書，與 Quality King 案是在美國著作權人在美國境內製造，及與
+Omega 案是外國著作權人在外國製造者均有所不同。然一審之紐約
+地方法院與審理該案之第二巡迴上訴法院仍依據 Quality King 案之
+判決，認為第 109 條（a）項既列明本條適用對象是「依本法合法製
+造的物品」，則法條文意即隱含有「不適用外國製造物品」之意，
+故以「第一次銷售原則不適用於在美國境外製造的著作重製物」39，
+判定 Kirtsaeng 的行為違法著作權法之有關進口權之規定，須賠償
+著作權人每本 7 萬 5 千，共計 60 萬美元40。Kirtsaeng 即上訴至最
+高法院。
+      Wiley 案之影響範圍恐比 Quality King 案更廣，甚至影響美國
+人民之日常生活。在美國最高法院針對該案所進行之口頭辯論
+中，Stephen Breyer 大法官對原告律師提出一個可怕的（horrible）
+假設41：
+    「試想 Toyota，其在美每年銷售數百萬台。車上附有受著作
+權保護之音響系統，有受著作權保護之 GPS 系統。當消費者在美
+國購買 Toyota，消費者預想他們應可轉賣這些汽車。可是照（原
+告）之解讀看來，除非得到該車上每一項著作物之著作權人的允
+許，美國 Toyota 的百萬消費者將無法轉售汽車，對吧？42」而原告
+律師只能回答該等情況應有別的抗辯可用（如合理使用），此非本
+
+
+
+39 “The first sale doctrine does not apply to goods produced outside of the United
+   States.” John Wiley & Sons, 654 F.3d at 216; “the first sale doctrine does not apply to
+   copies manufactured outside of the United States.” John Wiley & Sons, 654 F.3d at
+   224.
+40 Id. at 224.
+41 在本案的口頭辯論中，“horrible” 此一形容詞被大法官們當作名詞 “horribles” 頻
+   繁使用，共計16 次。See Kirtsaeng v. Wiley Supreme Court Oral Argument Transcript,
+    at 59, https://www.eff.org/sites/default/files/filenode/11-697.pdf.
+42 “Imagine Toyota,… Millions sold in the United States. They have copyrighted sound
+   systems. They have copyrighted GPS systems. When people buy them in America,
+   they think they’re going to be able to resell them. Under your reading, the millions of
+   Americans who buy Toyotas could not resell them without getting the permission of
+   the copyright holder of every item in that car which is copyrighted?... Is that right?” Id.
+   at 28-29.
+ 428                                               國際比較下我國著作權法之總檢討
+
+
+
+案所討論的議題43。此一質疑被撰寫不同意見書之 Ruth B. Ginsburg
+大 法 官 嗤 之 以 鼻 ， 認 其 係 純 屬 想 像 的 「 恐 怖 遊 行 （ parade of
+horribles）」 44，卻深深影響本案之最終判決，美國最高法院最終以
+六比三的多數決判定了美國著作權法第 109 條第一次銷售原則亦適
+用於國外製造之合法著作重製物45，換言之，間接宣告美國採「國
+際耗盡」模式。
+     （二）分析
+       撰寫主審意見的 Breyer 大法官首先重申，著作權人享有美國
+著作權法第 106 條所賦予之專屬權利，包括該條第（3）項所規定
+之「公開散布權」46，均受同法第 109 條（a）項第一次銷售原則的
+限制47。Breyer 大法官接著解釋第一次銷售原則與同法第 602 條
+（a）項（1）款有關輸入權的關係：由於第 602 條（a）項（1）款
+明文規定48，未經著作權人授權而輸入著作重製物，即侵害著作權
+人之專屬散布權，而規定於第 106 條（3）項之專屬散布權又受同
+法第 109 條（a）項之限制，如同在 Quality King 一案中所做的宣
+示，第 602 條（a）項（1）款輸入權之規定亦受第 109 條（a）項
+之限制49。因此，Breyer 大法官指出，「儘管有第 602 條（a）項
+（1）款輸入權之規定（然根據前述之演繹），任何人在國外買了一
+
+
+43  Id. at 29.
+44  “The Court’s parade of horribles, however, is largely imaginary.” Kirtsaeng, 568 U.S.
+   (Ginsburg, J., dissenting, at 1). “Parade of Horribles”原為美國國慶日遊行的一部
+   分，由民眾裝扮成恐怖的模樣參與遊行。此一名詞衍生有斥為荒謬的意思，用
+   做法律用語則成為辯護人用以駁斥對造對於裁判之負面影響的擔憂。See
+   http://en.wikipedia.org/wiki/Parade_of_horribles; see also http://www.languagehat.com/
+   archives/ 004671.php (last visited Jul. 9, 2013).
+45 “We hold that the ‘first sale’ doctrine applies to copies of a copyrighted work lawfully
+   made abroad.” Kirtsaeng, 568 U.S. at 3.
+46 17 U.S.C. § 106(3) (2006).
+47 “In copyright jargon, the ‘first sale’ has ‘exhausted’ the copyright owner’s §106(3)
+   exclusive distribution right.” Kirtsaeng, 568 U.S. at 2.
+48 17 U.S.C. § 602(a)(1) (2006).
+49 Kirtsaeng, 568 U.S. at 2-3.
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                              429
+
+
+份著作重製物，他就可以自由的將該重製物輸入美國境內並自由處
+分之，如同其可處置在美國買到的著作重製物一樣。50」
+      然 Breyer 大法官也提到，本案與 Quality King 一案最大的不
+同，就是系爭著作重製物係在境外製造的51，並以此帶出本案爭議
+重心：第一次銷售原則是否適用於境外合法製造的著作重製物52？
+換言之，美國著作權法第 109 條（a）項條文所示之「依本法合法
+製造」等文字，是否將第 109 條下的第一次銷售原則之適用附加了
+地理上的限制53？針對此一問題的答案，最高法院有四個選項54：
+除了黑白分明的「是55」與「不是56」以外，還有兩個折衷的「是
+
+
+50 “Thus, it might seem that, §602(a)(1) notwithstanding, one who buys a copy abroad
+   can freely import that copy into the United States and dispose of it, just as he could
+   had he bought the copy in the United States.” Kirtsaeng, 568 U.S. at 3.
+51 Id.
+52 “The ‘first sale’ doctrine applies to copies of a copyrighted work lawfully made
+   abroad.” Id.
+53 “We must decide whether the words ‘lawfully made under this title’ restrict the scope
+   of §109(a)’s ‘first sale’ doctrine geographically.” Id. at 7.
+54 “The Second Circuit, in its decision below, is the first Court of Appeals to adopt a
+   purely geographical interpretation. The Third Circuit has favored a nongeographical
+   interpretation. Sebastian Int’l, 847 F.2d 1093. The Ninth Circuit has favored a
+   modified geographical interpretation with a nongeographical (but textually
+   unsustainable) corollary designed to diminish the problem. Denbicare U.S.A. 84 F.3d
+   1143. See supra, at 11-12. And other courts have hesitated to adopt, and have cast
+   doubt upon, the validity of the geographical interpretation.” Id. at 23.（第二巡迴上訴
+   法院為第一個採取第一次銷售原則純粹適用於具地理限制之解釋的法院，第三
+   巡迴上訴法院偏好無地理限制之解釋，第九巡迴上訴法院則採修正式之具地理
+   限制之解釋。）正因為針對此一爭議在第二、第三、及第九巡迴上訴法院間有
+   不同之判決結果，美國最高法院即發給移審令以統一見解。Id. at 6.
+55 承審本案之第二巡迴上訴法院明確表示，「第一次銷售」原則不適用於在境外
+   製造之著作重製物。John Wiley & Sons, 654 F.3d at 221 (“first sale” doctrine does
+   not apply to copies manufactured outside the United States.).
+56 第三巡迴上訴法院則曾在 1988 年的 Sebastian 案中指出之第一次銷售原則之限
+   制亦適用於第 602 條（a）項之輸入權。Sebastian Int’l, 847 F.2d at 1099.
+   Sebastian 案之案例事實與 Quality King 類似，係有關護髮產品自南非回銷美國
+   之爭議，Kirtsaeng 案最高法院則特別引用 Sebastian 案判決書裡註 1 所提的一
+   段文字，強調若將第一次銷售原則之限制，限縮適用於美國境內製造之著作重
+   製物，「將無法適當的符合著作權法之目標」，Kirtsaeng, 568 U.S. at 7 (stating
+   “limitation of the first sale doctrine to copies made within the United States ‘does not
+ 430                                               國際比較下我國著作權法之總檢討
+
+
+
+也不是」57，說文解字於焉開始。
+       Breyer 大法官分析，第二巡迴上訴法院、原告出版商 Wiley、
+以及美國檢察總長，均將「依本法合法製造」等文字解讀為具有某
+種程度的地理上之限制（geographical limitation）58。第二巡迴上訴
+法院主張限制第一次銷售原則適用於「（美國）著作權法是適用法
+之領域內製造（made in territories in which the Copyright Act is
+law）」的特定著作重製物，換言之，即於「美國境內製造」之著作
+重製物，不包括境外製造者59。同樣的，回應人 Wiley 認為「依本
+法合法製造」將第一次銷售原則限縮適用於「在適用美國著作權法
+之地，遵循該法所製造（to copies made in conformance with the
+[United States] Copyright Act where the Copyright Act is applicable）
+                                                                   」
+之著作重製物，Wiley 之解讀為第一次銷售原則不適用於美國境外
+製造之著作重製物，或至少不適用「專為境外銷售而於境外製造之
+著作重製物（foreign production of a copy for distribution exclusively
+
+
+
+   fit comfortably within the scheme of the Copyright Act.’ ”).
+57 第九巡迴上訴法院與代表美國政府之總檢察官對於境外製造之著作重製物，各
+   自提出了有些許差異的「部分適用、部分不適用」第一次銷售原則之修正方
+   案：在 Omega 案中，第九巡迴上訴法院主張「只有在該境外製造之著作重製物
+   經授權之第一次銷售是在美國境內發生的情況下，第一次銷售原則才適用於該
+   著作重製物。」Omega, 541 F.3d at 986 (“[F]irst sale” doctrine applies to copies
+   manufactured outside the United States only if an authorized first sale occurs within
+   the United States.).
+   美國總檢察長在其支持回應人 Wiley 的法庭之友意見書中則引用第一次銷售原
+   則之濫觴 Bobbs-Merrill 案，指出第一次銷售原則除了適用於美國境內製造的著
+   作重製物外，若直接適用 Bobbs-Merrill 案判決，將導出若著作權人授權該境外
+   製造之著作重製物之輸入，並且／或者授權該重製物在境內之銷售，則著作權
+   人 控 制 著 作 重 製 物 之 散 布 的 專 屬 權 利 亦 隨 之 耗 盡 。 (“[A] straightforward
+   application of Bobbs-Merrill would indicate that a copyright owner who authorized
+   the importation of foreign-made copies into the United States, and/or authorized a first
+   sale of the copies within this country, had “exhausted his exclusive statutory right to
+   control [the] distribution.”) Brief for United States as Amicus Curiae, at 27,
+   http://www.justice.gov/osg/briefs/2012/3mer/1ami/2011-0697.mer.ami.pdf.
+58 Kirtsaeng, 568 U.S. at 7.
+59 Id. (citing John Wiley & Sons, 654 F.3d at 221-22).
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                            431
+
+
+abroad）」60。再根據美國檢察總長之解釋，則「依本法合法製造」
+將第一次銷售原則限於適用在「依照並遵守（美國）著作權法所製
+造」之著作重製物 61 。而第九巡迴上訴法院則稱「依本法合法製
+造」將第一次銷售原則限於適用於：1. 在美國合法製造之著作重製
+物；2. 在美國境外合法製造，但經著作權人授權在美國境內首次銷
+售之著作重製物62。
+         上述所有含有「地理限制」的解讀都將使得第一次銷售原則不
+適用於本案中，由出版商 Wiley 授權於美國境外製造之教科書。相
+反的，請願人 Kirtsaeng 則做了一個無地理限制（non-geographical
+limitation）的解讀，將「依本法合法製造」單純解釋為「根據或符
+合（美國）著作權法（“in accordance with” or “in compliance with”
+                 」所製造之著作重製物63。換言之，第 109 條第
+the Copyright Act）
+一次銷售原則適用於所有符合美國著作權法之規定所製造之著作重
+製物，包括本案系爭經著作權人授權於境外製造之著作重製物64。
+         Kirtsaeng 的解讀最終為最高法院所採用 65 ，最主要的原因在
+於，就第 109 條（a）項之文義解釋而言，看不出有何與地理相關
+之限制66 。針對第二上訴巡迴法院、Wiley、及檢察總長之解讀，
+Breyer 大法官的總結為：「從『依本法合法製造』之文字看來，沒
+有任何字句具有規定著作重製物製造地之涵義67。」雖然最高法院
+理解第九巡迴上訴法院就境外製造之著作重製物部分適用，部分不
+適用第一次銷售原則之苦心—若不讓第一次銷售原則適用於「在
+
+
+
+60 Kirtsaeng, 568 U.S. at 7.
+61 Id. (citing Brief for United States as Amicus Curiae, supra note 57, at 5).
+62 Kirtsaeng, 568 U.S. at 7 (citing Denbicare U. S. A., 84 F.3d at 1149-50).
+63 Kirtsaeng, 568 U.S. at 7.
+64 Id. at 8.
+65 Id.
+66 “The language of §109(a) says nothing about geography.” Id. at 8-9.
+67 “…neither ‘under’ nor any other word in the phrase (of lawfully made under this title)
+   means ‘where’.” Id. at 9 (emphasis added).
+ 432                                                 國際比較下我國著作權法之總檢討
+
+
+
+美國境外合法製造，但經著作權人授權在美國境內首次銷售之著作
+重製物」，將可能變相鼓勵著作權人在美國境外生產製造著作重製
+物，藉以規避第一次銷售原則之適用 68 ，然根據「依本法合法製
+造」之文義，實無法支持第九巡迴上訴法院「半有地理限制／半無
+地理限制（ half-geographical/half-nongeographical）」之解釋方式 69 。
+再者，不論是從第 109 條（a）項之立法理由與歷程70，或從源自於
+習慣法之第一次銷售原則於習慣法上之解釋71，主審意見都認為應
+是有利於 Kirtsaeng 所主張之無地理限制之解讀。
+       為強調若將第一次銷售原則附加地理上之限制，將會導致非常
+不利之影響，主審意見用了相當大的篇幅引述支持 Kirtsaeng 的法院
+之友意見書的觀察：包括圖書館協會、二手書商、科技公司、電腦
+相關商品之零售商、以及美術館等，均指出將第一次銷售原則附加
+地理上之限制將阻礙美國憲法第 1 條第 8 項第 8 款「著作權條款」
+所訂「促進實用科學與藝術之進步」的目標72。主審意見接著例示
+被不同意見稱為「恐怖遊行」的各種不利影響，從圖書館來自世界
+各國的書籍、二手書商之營運、乃至於各式於境外製造，再輸入美
+國的日常生活用品如汽車、微波爐、電腦，甚至美術館展示之藝術
+品來源等，均仰賴無地理限制之第一次銷售原則始得以運作 73。雖
+
+
+68 Id. at 11-12.
+69 Id. at 12.
+70 主審意見指出，1976 年美國著作權法修正第 109 條（a）項，將原本「合法取
+   得（lawfully obtained）     」之文字修改為「依本法合法製造（lawfully made under
+   this title）」，並未使得第一次銷售原則成為具有地理限制之意涵，而係單純為
+   補正當承租人合法取得著作重製物之占有，但未真正獲得所有權之情況；亦或
+   者是如錄音著作物所有人係藉由強制授權而取得該錄音物，則此時所謂「依本
+   法合法製造」，即指依美國著作權法第 115 條之規定。Id. at 12-14.
+71 “The common-law doctrine makes no geographical distinctions; nor can we find any
+   in Bobbs-Merrill (where this Court first applied the ‘first sale’ doctrine) or in §109(a)’s
+   predecessor provision, which Congress enacted a year later.” Id. at 18.
+72 Id. at 19.
+73 Id. at 20-22. (explaining that reliance upon the ‘first sale’ doctrine is deeply embedded
+   in the practices of those, such as book sellers, libraries, museums, and retailers, who
+   have long relied upon its protection.)
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                              433
+
+
+然 Wiley 及其支持者指稱該等「恐怖」事實並未發生74，但法院不
+以為然的表示：
+
+      目前為止傷害不大的原因，可能只是反映著作權人還不願
+      主張其具地理限制之轉賣權利。若法院判決明確對其有
+      利，則著作權人即可能做出不同的決定。況且，若只在
+    （權利人）不執行權利時才可有效運作之著作權法不是一
+      部健全的著作權法，其將造成法的不確定性、將導致選擇
+      性主張權利，且若普遍的不執行，則是對著作權法本身的
+      侮蔑75。
+      因此，主審認為請願人 Kirtsaeng 及其法庭之友所描述之問題
+太嚴重、太廣泛，且非常可能成真，實不可忽視76。
+      再者，主審意見針對由 Ginsburg 大法官所主筆之不同意見書
+中所提的幾點主張提出反駁，其中較為重要的部分為主審意見承
+認，若採無地理限制的解讀，美國著作權法第 602 條（a）項（1）
+款之輸入權規定雖不致於變成贅文（superfluous）
+                           ，但其適用範圍將
+大受影響—恐只剩四種非常限縮的情況77：
+    （1）外國出版商經美國著作權人授權於美國境外印製著作
+            重製物後，在未進行任何經授權之銷售前，試圖將系
+            爭著作重製物輸入美國；
+    （2）外國印製人或製造者（未授權銷售前，故尚非第 109
+            條（a）項所稱之「所有人」），試圖將系爭受著作權
+            保護之商品輸入美國；
+
+
+74 Id. at 22-23.
+75 “[T]he fact that harm has proved limited so far may simply reflect the reluctance of
+   copyright holders so far to assert geographically based resale rights. They may decide
+   differently if the law is clarified in their favor. Regardless, a copyright law that can
+   work in practice only if unenforced is not a sound copyright law. It is a law that would
+   create uncertainty, would bring about selective enforcement, and, if widely unenforced,
+   would breed disrespect for copyright law itself.” Id. at 24.
+76 Id.
+77 Id. at 26.
+ 434                                                國際比較下我國著作權法之總檢討
+
+
+
+     （3）某出版商將著作重製物運送至某批發商，而該（尚未
+                成為所有人之）批發商試圖將系爭著作重製物輸入美
+                國；或
+     （4）承租影片之外國電影發行公司，或任何其他的承租
+                人、承銷人、或受託人等試圖將系爭著作重製物輸入
+                美國。
+       由這些例子顯示，美國著作權法第 602 條（a）項（1）款有關
+輸入權之規定，雖然被限縮，但仍有其存在價值，且主審認為限縮
+第 602 條（a）項（1）款比 Wiley 與不同意見所主張之限縮第 109
+條（a）項好多了78。
+       在不同意見書中，Ginsburg 大法官引用了一個在 Quality King
+案出現過的例子79：
+
+       若某作者—根據美國著作權法—將其在美國版本之專
+       屬散布權授予美國的出版商，另將英國版本之專屬散布權
+       授予英國的出版商，則或許只有由美國出版商所製作之著
+       作重製物可該當第109條（a）項所稱『依本法合法製作』
+       之重製物。若發行的出版商決定將英國版賣到美國來，則
+       第一次銷售原則將不得作為違反第602條（a）項之抗辯
+     （若其後尚有散布之行為，則不得作為違反第106條（3）
+       款之抗辯）80。
+
+
+78 Id. at 27.
+79 Kirtsaeng, 568 U.S. (Ginsburg, J., dissenting, at 4-5).
+80 “If the author of the work gave the exclusive United States distribution rights—
+   enforceable under the Act—to the publisher of the United States edition and the
+   exclusive British distribution rights to the publisher of the British edition, however,
+   presumably only those made by the publisher of the United States edition would be
+   ‘lawfully made under this title’ within the meaning of §109(a). The first sale doctrine
+   would not provide the publisher of the British edition who decided to sell in the
+   American market with a defense to an action under §602(a) (or, for that matter, to an
+   action under §106(3), if there was a distribution of the copies).” Quality King, 523 U.S.
+   at 148.
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                              435
+
+
+      並稱若根據此例所示，則 Wiley 案中應作出對原告出版商有利
+的判決。然主審輕描淡寫的表示，「依本法合法製作」之解釋並非
+Quality King 案之爭點，上述舉例只能當作沒有拘束力的附帶意見
+（dictum）81。
+      此外，主審意見雖認同 Wiley 與不同意見所稱，若採無地理限
+制之解讀，將使得著作權人無法為實行差別取價之目的而劃分國
+外、內市場82，但主審強調：
+
+      美國憲法（著作權條款）所規定之有限專屬權利中，並未
+      賦予（著作權人）有權劃分市場，或任何可以就同一本書
+      對不同的消費者收取不同的價格之附隨權利，以使收益增
+      加或極大化83。
+
+      對於著作權人是否應享有超過普通的商業力量來劃分國際市
+場，主審意見認為，這應是由美國國會決定的事84。
+      最後，對於 Wiley 與不同意見稱主審之判決恐史無前例的將美
+國著作權法導入「國際耗盡」的制度85，主審意見並未否認，只說
+不同意見較偏好的「那種」耗盡原則在 Quality King 案中已被削弱
+（eroded）86。是以，最高法院雖未明言，但美國著作權法制邁入國
+際耗盡原則已是事實87。
+
+
+81 Kirtsaeng, 568 U.S. at 27. 主審甚至強調，即使是在 Quality King 案，該附帶意
+   見亦是「沒有必要」的。還開了個饒富趣味的玩笑：「一旦最高法院寫了附帶
+   意見說番茄是蔬菜，從此就須永遠否認它也是水果嗎？」Id.
+82 Id. at 31.
+83 “But the Constitution’s language nowhere suggests that it’s limited exclusive right
+   should include a right to divide markets or a concomitant right to charge different
+   purchasers different prices for the same book, say to increase or to maximize gain.” Id.
+   at 32.
+84 Id.
+85 Id.
+86 Id.
+87 See Jillian A. Centanni, Kirtsaeng v. John Wiley & Sons, Inc.: U.S. Supreme Court
+   Reverses Lower Courts and Determines That International Copyright Exhaustion Is
+ 436                                            國際比較下我國著作權法之總檢討
+
+
+
+三、小結
+
+       美國最高法院在 Wiley 案確立美國著作權法第一次銷售原則採
+國際耗盡原則，對於圖書館、進口商、二手書商、拍賣網站、乃至
+於習慣於灰色市場購物之一般消費者及著作物使用者而言，當然是
+一大勝利。一般預期如出版商等著作權人對於此一判決之因應不外
+乎三種途徑：將其著作重製物之國際售價提高至與美國境內之售價
+相同、區別境內、外版本之內容、甚或放棄整個境外市場；又或者
+從遊說修改國內法或國際條約下手；最後，放棄實體印刷，改為專
+以電子書出版模式，藉網路為行銷／授權使用通路88。
+       第一種途徑在實踐上確有可能且最容易實施，只要著作權人與
+出版商單方進行即可，惟並非無代價，對於原本欲藉由市場區隔以
+最大化收益的著作權人而言，勢必將在境外市場遭受巨大的損失。
+再就第二種途徑而言，若策動成功，對著作權人而言將是最有利
+的，蓋若將美國著作權法明訂為「國內耗盡」原則的話，除可不需
+變動現行營運模式，甚可肆無忌憚的實現「恐怖遊行」所描述的所
+有恐怖事實。
+       更恐怖的是，此一途徑是最有可能成真的。如撰寫不同意見書
+的 Ginsburg 大法官所言，美國政府在以往與目前所進行的多個國
+際雙邊或多邊貿易協定中，均要求與簽訂協定的國家內國著作權法
+必須採國內耗盡原則，在其引用的學術論文中特別提到美國以簽訂
+自由貿易協定（Free Trade Agreement, FTA）與貿易 301 條款為手
+段特別關注澳洲、紐西蘭、以及臺灣之著作權法是否採用國際耗盡
+
+
+
+   Now the Rule, IP LAW ALERT (Mar. 27, 2013), http://www.iplawalert.com/2013/03/
+   articles/copyright/kirtsaeng-v-john-wiley-sons-inc-us-supreme-court-reverses-lower-
+   courts-and-determines-that-international-copyright-exhaustion-is-now-the-rule/.
+88 See Dorothea Salo, E-textbooks Redux: What Does Kirtsaeng Mean to the Market?,
+   LIBRARY JOURNAL (Apr. 9, 2013), http://lj.libraryjournal.com/2013/04/opinion/peer-
+   to-peer-review/e-textbooks-redux-what-does-kirtsaeng-mean-to-the-market-peer-to-
+   peer-review/.
+美國 Wiley 案對我國著作權耗盡原則之啟發                                                              437
+
+
+原則89。Ginsburg 大法官點出 Wiley 案判決所造成的矛盾：
+
+      當美國政府促使我國的貿易夥伴們避免採用有利於其境內
+      消費者，但不利於美國智慧財產製造者之國際耗盡制度
+      時，最高法院卻採行了對美國消費者有利，但對享有美國
+      著作權（保護）之境外持有人不利的國際耗盡規則90。
+
+  言下之意，即在凸顯著作權國際耗盡原則與美國政府保護著作
+權之態度不符。
+      即使是贊同主審意見之 Kagan 大法官亦在其協同意見書中表明
+其投贊成票的「苦衷」，其認為主審所持第一次銷售原則不應有地
+理限制的論述，是延續 Quality King 案「第 602 條（a）項（1）款
+輸入權之規定亦受第 109 條（a）項之限制」的必然結果，Kagan
+大法官拒絕曲解（misconstrue）第一次銷售原則以矯正 Quality
+King 案的判決91 。在其協同意見的註釋中，Kagan 大法官提到若
+Quality King 案做出相反的判決，即若輸入權不受第一次銷售原則
+的限制的話，著作權人即可行市場區隔以利差別取價92。蓋 Elena
+
+
+89 Kirtsaeng, 568 U.S. (Ginsburg, J., dissenting, at 21-22) (citing Dale Clapperton &
+   Stephen Corones, Locking in Customers, Locking out Competitors: Anti-
+   circumvention Laws in Australia and Their Potential Effect on Competition in High
+   Technology Markets, 30 MELB. U. L. REV. 657, 664 (2006); Lina M. Montén,
+   Comment, The Inconsistency Between Section 301 and TRIPS: Counterproductive
+   with Respect to the Future of International Protection of Intellectual Property Rights?,
+   9 MARQ. INTELL. PROP. L. REV. 387, 417-18 (2005)).
+   有關美國以貿易手段強迫推銷其著作權法制於國際社會的討論，請參見胡心
+   蘭，The DMCA-ish Anti-circumvention Provision Around the World，2008 年第十
+   二屆全國科技法律研討會，國立交通大學科技法律研究所主辦（2008 年 11 月
+   27 日）。
+90 “While the Government has urged our trading partners to refrain from adopting
+   international-exhaustion regimes that could benefit consumers within their borders but
+   would impact adversely on intellectual-property producers in the United States, the
+   Court embraces an international-exhaustion rule that could benefit U.S. consumers but
+   would likely disadvantage foreign holders of U.S. copyrights.” Kirtsaeng, 568 U.S.
+   (Ginsburg, J., dissenting, at 22)
+91 Kirtsaeng, 568 U.S. (Kagan, J., concurring, at 3).
+92 Id. at 3 n.2.
+ 438                                                國際比較下我國著作權法之總檢討
+
+
+
+Kagan 大法官迴避 Omega 案最高法院判決的原因在於，在未被提
+名為美國最高法院法官以前，其曾以歐巴馬政府之總檢察長
+（solicitor general）身分參與此案討論，並代表政府提出支持第九巡
+迴上訴法院判決的法庭之友意見書93，由此或可探知美國政府的態
+度：修正美國著作權法，或引導國際著作權法條約的未來方向，以
+保護美國著作權人之權益—此非無前例可循94。
+       第三種途徑：全面放棄紙本印刷，改為專以電子書出版模式，
+藉網路為行銷／授權使用通路。即如本文所討論之第一個主題，越
+來越多著作權人就電子書、電腦軟體等數位著作物，以授權使用的
+方式取代銷售，規避第一次銷售的適用，是以散布權未耗盡，則屬
+散布權補充權利之輸入權亦未耗盡，著作權人對數位著作重製物保
+留完全的控制能力。
+       惟需注意者，上述四個有關第一次銷售原則之最高法院案例
+中，其所涉之系爭著作重製物都還是具有實體之重製物，在駁回美
+國第九巡迴上訴法院有關授權契約可限縮使用者移轉數位著作物之
+能力的 Vernor 移審案後95，美國最高法院並沒有碰觸第一次銷售原
+則對數位化著作物之適用，此一議題仍有討論的空間。
+
+
+
+93 See Brief for the United States as Amicus Curiae, on Petition for a Writ of Certiorari to
+   the United States Court of Appeals for the Ninth Circuit, http://www.justice.gov/osg/
+   briefs/2009/2pet/6invit/2008-1423.pet.ami.inv.pdf.
+94 美國柯林頓政府於 1990 年間在推動著作權科技保護措施反規避條款時，即是因
+   相關法案未在國內通過，故而轉向當時正在談判之 WCT 及 WPPT，成功在該
+   二條約加入科技保護措施相關規定後，於 1998 年再以履行會員國義務為由，修
+   訂美國數位千禧年著作權法案，引介科技保護措施之相關規定。參見蔡岳勳、
+   胡心蘭，論美國數位千禧年著作權法中反規避條款濫用原則之發展，科技法學
+   評論，4 卷 1 期，頁 106-107（2007 年）               。
+95 See Christopher Faille, Supreme Court Decides Software Law by Not Deciding (Apr.
+   10, 2011), http://www.forbes.com/sites/greatspeculations/2011/10/04/supreme-court-
+   decides-software-law-by-not-deciding/; see also Mike Masnick, Supreme Court Won’t
+   Hear Case Saying That You Have No First Sale Rights with Software (Apr. 10, 2011),
+   https://www.techdirt.com/articles/20111004/02480316193/supreme-court-wont-hear-
+   case-saying-that-you-have-no-first-sale-rights-with-software.shtml.
+美國 Wiley 案對我國著作權耗盡原則之啟發                                     439
+
+
+肆、美國法例對我國著作權法第一次銷售原則之
+  啟發—代結論
+
+   我國著作權法第 28 條之 1 第 1 項規定，
+                          「著作人除本法另有規
+定外，專有以移轉所有權之方式，散布其著作之權利。」是以散布
+權是著作權人專有權利，未經授權而散布著作原件或其重製物者，
+屬於著作權之侵害。相對的，同法第 59 條之 1 規定：
+                           「在中華民國
+管轄區域內取得著作原件或其合法重製物所有權之人，得以移轉所
+有權之方式散布之。」則為散布權之耗盡，此情形下移轉著作物原
+件或其合法重製物即不需再取得著作權人之授權。再者，第 87 條
+「視為侵害著作權或製版權」則有禁止輸入之相關規定，其中第 3
+款「輸入未經著作財產權人或製版權人授權重製之重製物或製版物
+者」，係為禁止盜版品之輸入。而其第 4 款則為本文重點，禁止
+「真品平行輸入」之規定：
+           「未經著作財產權人同意而輸入著作原件
+或其重製物者。」另，第 87 條之 1 則規定有五種前條第 4 款禁止
+輸入之例外。
+   上述法條之制定與發展受美國影響至深，該等權利之制訂順序
+與相互關連間均有複雜難解、不得不為之背景壓力，我國學者已有
+分析、介紹，本文茲不贅述96。而因為此等交錯複雜之關聯而衍生
+與第 87 條第 4 款輸入規定等有關境內、境外取得著作原件或其重
+製物之各種樣態與適用上之疑義，則依 2003 年著作權法新增第 59
+條之 1 之立法理由歸納如下97：
+  （一）某著作重製物係由著作財產權人甲所製造，在中華民國管
+       轄區域內販售，乙在中華民國管轄區域內購買該重製物
+       後，成為物權所有人。嗣後乙將該重製物以移轉所有權之
+
+
+96 參見章忠信（註 1）
+            。
+97 經濟部智慧財產局，92            年著作權法新舊條文對照及說明，頁 14-15，http://
+ www.tipo.gov.tw/ct.asp?xItem=335509&ctNode=7012&mp=1（最後瀏覽日：2013
+ 年 7 月 9 日）  。
+440                  國際比較下我國著作權法之總檢討
+
+
+
+       方式予以散布，例如出售予國內丙，或輸出國外販售予
+       丁，即有本條之適用，此等散布行為均不須另行徵得著作
+       財產權人甲之同意，不侵害著作財產權人甲之散布權，此
+       時甲對該等重製物之散布權業因其移轉所有權之行為而耗
+       盡。
+  （二）承前例，國外之購買者丁嗣後將其自乙買得之重製物，再
+       輸入中華民國管轄區域時（即所謂「回銷」）者，亦不必
+       徵得著作財產權人甲之同意，而無第 87 條第 4 款之適
+       用。
+  （三）如著作重製物係由著作財產權人甲在中華民國管轄區域內
+       所製造，但未在中華民國管轄區域內販售，直接輸出國外
+       在他國銷售散布，
+              「或」（筆者按，應為「戊」之誤）在他
+       國合法購買該重製物後，成為物權所有人。嗣後戊欲將該
+       重製物回銷至中華民國管轄區域內者，因該重製物並未取
+       得甲同意在中華民國管轄區域內散布之授權，仍應徵得著
+       作財產權人甲之同意始得輸入，否則即屬違反第 87 條第
+       4 款規定之行為，而其違反該款規定而輸入之物因非屬本
+       條所稱之「合法重製物」，亦無本條之適用。
+  （四）假設著作財產權人甲授權己在中華民國管轄區域內製造其
+       著作重製物，另在區域外例如馬來西亞，授權庚製造重製
+       物。辛考量二國重製物價差，認有利益可圖，在馬國購買
+       該重製物後，欲輸入中華民國管轄區域內販賣者，因庚在
+       馬來西亞製造之重製物並未取得甲同意在中華民國管轄區
+       域內散布之授權，故仍應徵得著作財產權人甲之同意，否
+       則即屬違反第 87 條第 4 款規定之行為，而其違反該款規
+       定而輸入之物因非屬「合法重製物」
+                      ，並無本條之適用。
+      於例（一）
+          、（二）兩種情形中，因二例中之「乙」均係於「中
+華民國管轄區域內」「取得」系爭著作重製物，成為物權所有人，
+「因移轉繼受取得該著作原件或重製物之所有權人，基於物權，本
+美國 Wiley 案對我國著作權耗盡原則之啟發                   441
+
+
+得自由管理、使用、處分或收益該著作原件或重製物98。」於此同
+時，依據第 59 條之 1 的規定，甲之散布權亦隨之消滅。乙之後處
+置系爭著作重製物之行為—不論乙係移轉給國內的丙或國外的
+丁—甲均不得再主張散布權。惟在例（二）中，國外之丁自乙處
+取得系爭著作重製物後，又「回銷」至國內之情形，立法理由稱
+「亦不必徵得著作財產權人甲之同意，而無第 87 條第 4 款之適
+用」，此處亦係因甲之散布權已消滅，故丁之「輸入」行為，甚至
+輸入後之再散布的行為，均不再受甲之控制。
+   例（三）之情形，即為我國 2003 年著作權法新增第 59 條之 1
+的最主要原因。本例中之甲未將系爭著作重製物於國內銷售，而係
+於國內製造後直接外銷，並於國外流通。戊於國外取得後成為合法
+物權所有人，職是之故，戊在國外之再移轉系爭著作重製物之行為
+固不受著作財產權人之限制，惟若戊欲將系爭著作重製物再輸入至
+國內，則仍需徵得著作財產權人甲之同意，否則即屬違反第 87 條
+第 1 項第 4 款規定之行為，而其違反該款規定而輸入之物因非屬第
+59 條之 1 所稱之「合法重製物」
+                 ，亦無該條之適用，換言之，不得
+再以移轉所有權之方式散布之。
+   為回應 1998 年美國 Quality King 案之作成，新增第 59 條之 1
+原欲制定為不禁止在國內散布之著作原件或其合法重製物，輸出國
+境後再回銷之情形，使第 87 條第 1 項第 4 款「禁止真品平行輸
+入」之規定不受影響99。然第 59 條之 1 條文中「在中華民國管轄區
+域內取得」等文字，卻造成我國「耗盡原則」之適用嚴於 Quality
+King 案所揭示之標準。在 Quality King 案中，只要是「依本法合法
+製造」之著作重製物，然不論第一次銷售行為之行為是在國內、
+外，均適用第一次銷售原則。雖當時尚有需「在美國境內製造」之
+限制，然並未限於「在美國境內取得」，於國外取得者亦得自由回
+
+
+98 經濟部智慧財產局（註 97）
+                ，頁 14，修正理由三。
+99 章忠信（註 16）
+           ，頁 13。
+442                     國際比較下我國著作權法之總檢討
+
+
+
+銷及在美國境內轉售，散布權人不得反對100。然我國第 59 條之 1
+將「第一次銷售理論」之適用範圍限制於「在中華民國管轄區域內
+取得著作原件或其合法重製物所有權」，排除了在我國合法重製，
+直接外銷再回銷之重製物，即如前述例（三）之情形，係採行美國
+1998 數位千禧年著作權法修正草案中所未通過之更嚴格限制101。
+      再者，立法理由中亦有語焉不詳的說明。理由中提到「嗣後戊
+欲將該重製物回銷至中華民國管轄區域內者，因該重製物並未取得
+甲同意在中華民國管轄區域內『散布』之授權，仍應徵得著作財產
+           ，否則即屬違反第 87 條第 1 項第 4 款規
+權人甲之同意始得『輸入』
+定之行為」，蓋該款係禁止未經著作財產權人同意之「輸入」行
+為，是項理由中卻指該重製物因未取得著作財產權人甲之同意「散
+布」，故而不得「輸入」，似有將著作財產權人之「同意散布」與
+「同意輸入」混而為一之誤。
+      然而，若真將「同意散布」與「同意輸入」視為兩種個別的權
+利，又會造成於適用第 59 條之 1 時，需係經授權重製並授權輸入
+之著作重製物，才屬該條所稱之「合法重製物」，始可不經著作財
+產權人之同意，以移轉所有權之方式散布之。然此處所生之實務上
+問題在於，我國著作權法第 87 條之 1 規定有禁止平行輸入之除外
+規定102，若符合各該規定，則輸入行為合法。然合法輸入之著作物
+
+
+100 章忠信（註 16）
+            ，頁 13。
+101 美國著作權人嘗試於「1998 年數位化千禧年著作權法案」中，修正第 109 條
+    第（a）款規定為：「縱有第 106 條第（3）項規定，合法重製且經著作權人或
+    著作權人所授權之人授權在美國散布之特定重製物或錄音物之所有人，有權不
+    經著作權人之授權，銷售或以其他方式處分該特定重製物或錄音物之占有。」
+    以限縮第 109 條之適用範圍，惟因消費者團體的強力反對而未果。同前註。
+102 參見著作權法第 87 條之 1。五種除外規定為：
+    1. 為供中央或地方機關之利用而輸入。但為供學校或其他教育機構之利用而輸
+       入或非以保存資料之目的而輸入視聽著作原件或其重製物者，不在此限。
+    2. 為供非營利之學術、教育或宗教機構保存資料之目的而輸入視聽著作原件或
+       一定數量重製物，或為其圖書館借閱或保存資料之目的而輸入視聽著作以外
+       之其他著作原件或一定數量重製物，並應依第四十八條規定利用之。
+    3. 為供輸入者個人非散布之利用或屬入境人員行李之一部分而輸入著作原件或
+       一定數量重製物者。
+美國 Wiley 案對我國著作權耗盡原則之啟發                                        443
+
+
+重製物因係在國外取得，仍不符合著作權法第 59 條之 1 規定須
+「在中華民國管轄區域內取得」之要件，則後續之散布行為將因未
+取得著作財產權人之同意而不得為之，否則即有侵害著作權人之專
+屬散布權之疑慮。
+    更有甚者，除非系爭著作重製物於外觀上（如於實體書封面或
+DVD 外盒上載明「限中華民國管轄區域外發行、銷售」）、或內容
+上（如使用語言或修訂版本於國內、外有明顯差異）能令一般使用
+者得知該著作重製物係需經著作財產權人同意始得輸入，或依第
+87 條之 1 合法輸入後尚須再取得散布同意之著作重製物，否則一
+般使用者如何分辨系爭著作重製物是否為第 59 條之 1 所稱之「合
+法重製物」而得以繼續散布之？
+    就此，經濟部智慧財產局曾做出兩則函釋，認為依第 87 條之
+1 第 1 項第 3 款規定「為供輸入者個人非散布之利用或屬入境人員
+行李之一部分」之情形而輸入之著作重製物，「雖非本法第五十九
+條之一所規定『在中華民國管轄區域內取得』，仍得於輸入後予以
+出租或出售，並無侵害他人之著作財產權之問題。又該著作原件或
+合法重製物復經出售予第三人，則該第三人仍為合法重製物所有權
+之人，而得依本法第五十九條之一及第六十條規定再行出售或出
+租，亦不會構成本法第九十一條之一散布權或第九十二條出租權之
+侵害。103」此雖解決前述合法輸入後需再經著作財產權人授權始得
+散布的問題，然為何在不符合第 59 條之 1 所規定「在中華民國管
+轄區域內取得」，故應非屬「合法重製物」的情況下，因行政函令
+
+
+
+    4. 附含於貨物、機器或設備之著作原件或其重製物，隨同貨物、機器或設備之
+       合法輸入而輸入者，該著作原件或其重製物於使用或操作貨物、機器或設備
+       時不得重製。
+    5. 附屬於貨物、機器或設備之說明書或操作手冊隨同貨物、機器或設備之合法
+       輸入而輸入者。但以說明書或操作手冊為主要輸入者，不在此限。
+103 經濟部智慧財產局 93 年 6 月 11 日智著字第 09300036780 號解釋函令，http://
+    www.tipo.gov.tw/ct.asp?ctNode=7448&mp=1&xItem=215505（最後瀏覽日：2013
+    年 7 月 9 日）  。
+444                                       國際比較下我國著作權法之總檢討
+
+
+
+之解釋而「仍得於輸入後予以出租或出售」？其效力又該如何論
+斷？智慧財產局並無說明，論理亦有不明之處。
+      另於解釋「為供輸入者個人非散布之利用」時，智慧財產局認
+為，「此等標的物只要在輸入之時點係基於『為供輸入者個人非散
+布之利用』之主觀意思而輸入，其在法律上之評價即為『合法重製
+物』。……第三者如經由輸入者此等散布行為而取得該等著作，自
+不生侵害著作財產權問題，更與是否善意取得無涉。104」此處以輸
+入人之主觀意思來評斷系爭著作重製物是否為「合法重製物」，於
+訴訟上在證明時必徒增困擾，雖智慧財產局提醒輸入者要妥善留存
+購買來源及報關等相關資料備用，惟該等資訊僅能證明輸入人所輸
+入者係自海外購買之真品，或一次僅購買一份，然是否可間接證明
+輸入人之主觀意識，則不無爭議。另亦有學者認為，即使輸入行為
+因符合第 87 條之 1 的規定而無侵權疑慮，然該等著作重製物仍不
+是在著作財產權人之同意或授權下進入本國市場者，故應不可以再
+行移轉「變價回收」，否則豈不是變相侵害著作權人權利105？須說
+明者，此處所謂「變相侵害著作權人權利」，應係指損害著作財產
+權人因市場區隔而可獲得之利益，蓋根據前述「單一報酬理論」，
+著作財產權人不論於國內、外第一次銷售其著作重製物時即已獲得
+報酬，致使其權利耗盡，使用人於使用著作重製物後「變價回收」
+成本之行為即無侵害權利之可能，僅損及其利益。
+      最後，例（四）所述之情況即與美國最高法院於 2013 年所做
+之 Wiley 案相同。立法理由中將例（四）與例（三）做相同處理，
+認為「輸入」前應先取得著作財產權人同意於國內「散布」之授
+權。蓋我國著作權法第 59 條之 1 的要件為「在中華民國領域內
+
+104 經濟部智慧財產局 98 年 10 月 7 日智著字第 09800085650 號解釋函令，http://
+    www.tipo.gov.tw/ct.asp?ctNode=7448&mp=1&xItem=218116（最後瀏覽日：2013
+    年 7 月 9 日）  。
+105 參見章忠信，網拍水貨或盜版品的疑義，著作權筆記網站，2007 年 2 月 8
+    日，http://www.copyrightnote.org/crnote/bbs.php?board=1&act=read&id=64（最後
+    瀏覽日：2013 年 7 月 9 日）        。
+美國 Wiley 案對我國著作權耗盡原則之啟發          445
+
+
+『取得』」，故著作重製物之製造地係於國內、外並無不同，是以例
+（四）與例（三）做相同處理自屬當然，惟所產生之爭異亦同，茲
+不贅述。
+   我國著作權法中有關第一次銷售理論與散布權、輸入權間錯綜
+複雜之關聯，於制訂各該條款時固有其不得不為之壓力，然當美國
+自身已經由美國最高法院 Wiley 案，確認將第一次銷售原則改採國
+際耗盡之情況下，正成為我國修法一次矯正上述適用上之疑義的最
+佳契機。
+   根據「單一報酬理論」，一旦著作權人以其可接受之價格同意
+移轉特定著作重製物之所有權，該著作權人即不得就該特定重製物
+再次主張著作權而獲得第二次的報酬，此係第一次銷售原則之基本
+內涵。採「國內耗盡理論」雖有助於著作權人於國際間區分市場，
+然獲取「最大化」之利益並非著作權法之宗旨，著作權法之制定目
+的應係維持著作權人與使用者間之平衡，以達到增進整體社會公益
+之目的。且如前所述，採國際耗盡有助於著作物市場競爭，促進流
+通管道多元化，有利於著作物使用者便於取得接觸，亦可享受競爭
+下之價格優勢106，整體而言，我國應屬智慧財產產物之輸入國，為
+保障國人權益，促進著作物流通，並可享著作物市場價格競爭之好
+處，故建議我國著作權法修正改採國際耗盡原則。
+   是以本文建議將我國著作權法第一次銷售原則修正為國際耗
+盡，不再區分系爭著作重製物是否於「中華民國管轄區域內取
+得」，而係一經著作財產權人同意進入著作物市場者，取得該著作
+重製物之人均可繼續散布之。此外，為配合第一次銷售原則改採國
+際耗盡，本文亦建議刪除我國著作權法有關真品平行輸入之限制。
+雖美國最高法院於 Wiley 案中強調，若將美國著作權法第 109 條
+「依本法合法製造」採無地理限制的解讀而使第一次銷售原則成為
+國際耗盡，美國著作權法第 602 條（a）項（1）款之輸入權規定仍
+
+
+106 參見陳皓芸（註 18）與相應之本文。
+446                                    國際比較下我國著作權法之總檢討
+
+
+
+不致於變成贅文而有適用之可能。惟其適用範圍將大受影響，美國
+最高法院亦僅例舉四種非常限縮的情況107。即便如此，因美國最高
+法院所舉例子均為著作權人尚未授權進行任何銷售之前始可能發生
+之情況，換言之，著作權人之散布權尚未因銷售而耗盡，輸入後之
+未經著作權人同意而銷售／散布自境外輸入之著作重製物時，仍會
+構成散布權之侵害，是以單純限制「輸入」之行為並無太大的意
+義。該等情形於我國著作權法若改採國際耗盡原則時亦會發生，故
+建議同時刪除我國著作權法第 87 條第 1 項第 3 及第 4 款，及其例
+外規定第 87 條之 1。
+      建議修正條文如下108：
+      第 28 條之 1 第 1 項應修正為：
+                         「著作人專有以移轉所有權之方
+式，散布其著作之權利。」並配合歐盟 UsedSoft 案增訂第 3 項：
+「著作原件或重製物經散布權人同意進入交易或流通者，得繼續散
+布之。經授權永久使用著作之人，亦得繼續散布之。」另同步刪除
+第 59 條之 1（移至第 28 條第 3 項）
+                       ，及第 87 條第 1 項第 3 款及第
+4 款，與 87 條之 1 等真品平行輸入之規定，使我國改採對著作物
+輸入國較有例之「國際耗盡原則」109。
+
+
+107 參見前註 77 與相應之本文。
+108 所列修正建議為本人參與由中央研究院法律研究所劉孔中教授主持之「新著作
+  權法法典研修建計畫」，於 2013 年 6 月 14 日與法界前輩們討論之結果。本人
+  特別感謝劉孔中教授與輔仁大學法律學院張懿云院長惠予賜教。
+109 修正理由為：「一般而言，採國際耗盡有助於著作物市場競爭，促進流通
+  管道多元化，有利於著作物使用者便於取得接觸，亦可享受競爭下之價格
+  優勢，鑑於我國為著作物輸入國，爰在第三項採取國際耗盡原則，並且不
+  討論是否為合法重製物。
+  美國最高法院於 2013 年 Wiley 案以六比三的多數決判定美國著作權法第
+  109 條第一次銷售原則採「國際耗盡」模式，亦適用於國外製造之著作重
+  製物，但限於合法重製物。然而對於重製物持有人而言判斷其是否為合法
+  甚為困難，等於增加國際貿易之障礙，故以不採取此項限制為宜。
+  第 3 項加入「經授權永久使用著作」亦可適用第一次銷售原則。本項參考歐盟
+  法院（Court of Justice of the European Union, CJEU）於 2012 年 7 月 UsedSoft
+  GmbH v. Oracle International Corp. 判決，根據歐盟電腦程式保護指令第一次銷
+  售原則，電腦軟體數位重製物的銷售將耗盡著作權人專屬之散布權。因此，經
+  由永久性授權取得軟體數位重製物之人，不論是經由光碟載體或網路下載，均
+  可轉售該重製物，而不會違反歐盟電腦程式保護指令。」
+美國 Wiley 案對我國著作權耗盡原則之啟發                                      447
+
+
+
+
+                         參考文獻
+
+1. 中文部分
+沈宗倫（2007）
+        ，由對價平衡觀點論智慧財產權耗盡原則之適用—
+   以平行輸入為中心，中正法學集刊，23期，頁161-207。
+林利芝（2012），論著作權法之輸入權與散布權規定重疊適用上的
+   衝突—以美國最高法院確認聯邦第九巡迴上訴法院 Omega
+   S.A. v. Costco Wholesale Corporation 案之判決為中心，智慧財
+   產權月刊，165期，頁62-87。
+        ，The DMCA-ish Anti-circumvention Provision Around
+胡心蘭（2008）
+   the World，2008年第十二屆全國科技法律研討會，國立交通大
+   學科技法律研究所主辦，2008年11月27日。
+—（2013），初探數位環境下著作權第一次銷售原則與濫用原
+   則之適用，「2012國際比較下我國著作權法問題之總檢討」學
+  術研討會，中央研究院法律學研究所主辦，2013年12月29日。
+陳皓芸（2008），從著作權與競爭法交錯之觀點分析著作真品平行
+   輸入相關法制問題，國立臺灣大學法律學研究所碩士論文。
+章忠信（1998），著作權法真品平行輸入之研究，資訊法務透析，
+   10卷7期，頁58-74，http://www.copyrightnote.org/paper/pa0006.
+   doc。
+—（2004），新著作權法「散布權」相關規定之檢討，政大智
+   慧財產評論，2卷1期，頁49-72。
+—（2007）
+      ，網拍水貨或盜版品的疑義，著作權筆記網站，2007
+   年 2 月 8 日 ， http://www.copyrightnote.org/crnote/bbs.php?board=
+  1&act=read&id=64。
+蔡岳勳、胡心蘭（2007），論美國數位千禧年著作權法中反規避條
+   款濫用原則之發展，科技法學評論，4卷1期，頁103-152。
+448                                       國際比較下我國著作權法之總檢討
+
+
+
+2. 外文部分
+
+Centanni, Jillian A. 2013. Kirtsaeng v. John Wiley & Sons, Inc.: U.S.
+      Supreme Court Reverses Lower Courts and Determines That
+      International Copyright Exhaustion Is Now the Rule, IP Law Alert,
+      http://www.iplawalert.com/2013/03/articles/copyright/kirtsaeng-v-
+      john-wiley-sons-inc-us-supreme-court-reverses-lower-courts-and-
+      determines-that-international-copyright-exhaustion-is-now-the-rule/.
+Clapperton, Dale, and Stephen Corones. 2006. Locking in Customers,
+      Locking out Competitors: Anti-circumvention Laws in Australia
+      and Their Potential Effect on Competition in High Technology
+      Markets. Melbourne University Law Review 30:657-715.
+Faille, Christopher. 2011. Supreme Court Decides Software Law by Not
+      Deciding, http://www.forbes.com/sites/greatspeculations/2011/10/0
+      4/supreme-court-decides-software-law-by-not-deciding/.
+Masnick, Mike. 2011. Supreme Court Won’t Hear Case Saying That You
+      Have No First Sale Rights with Software, https://www.techdirt.co
+      m/articles/20111004/02480316193/supreme-court-wont-hear-case-
+      saying-that-you-have-no-first-sale-rights-with-software.shtml.
+Montén, Lina M. 2005. Comment, The Inconsistency Between Section
+      301 and TRIPS: Counterproductive with Respect to the Future of
+      International Protection of Intellectual Property Rights?. Marquette
+      Intellectual Property Law Review 9:387-422.
+Rothchild, John A. 2011. Exhausting Extraterritoriality. Santa Clara Law
+      Review, 51:1187-1239.
+Salo, Dorothea. 2013. E-textbooks Redux: What Does Kirtsaeng Mean
+      to the Market?. Library Journal, http://lj.libraryjournal.com/2013
+      /04/opinion/peer-to-peer-review/e-textbooks-redux-what-does-kirt
+      saeng-mean-to-the-market-peer-to-peer-review/.
+美國 Wiley 案對我國著作權耗盡原則之啟發                                            449
+
+
+Sikich, Adam W. 2011. Buyer Beware: The Threat to the First Sale
+    Doctrine in the Digital Age. Journal of Internet Law 14:1,19-24.
+

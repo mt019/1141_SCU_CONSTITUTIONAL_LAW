@@ -1,0 +1,1026 @@
+Contract versus Property Remedies                                               1
+
+
+
+
+                                    主題演說
+
+                                                                         ＊
+        Contract versus Property Remedies
+
+                            Keynote Address
+
+                         (Delivered on June 15, 2012)
+
+                           Omri Ben-Shahar＊＊
+
+
+                                    Contents
+ Introduction
+    I. Property and Contract Remedies
+         A. Conversion of Property by Seller
+         B. Breach of License v. Infringement of Intellectual Property
+         C. Breach of Fiduciary Contract
+    II. Ex Post versus Ex Ante Measures of Damages
+    III. The Distortive Effect of the Remedial Options
+    IV. Impaired Liability Rules
+ Conclusion
+
+
+
+
+＊  Submission: November 2, 2012; Editorial assistants: Man-Ting Chien; Chia-Ju
+   Chang.
+   Mike Morrill provided valuable research assistance. This article builds on and
+   extends two previous articles: Omri Ben-Shahar, Damages for Unlicensed Use, 78
+   U. CHI. L. REV. 2 (2011); Omri Ben-Shahar & Robert A. Mikos, The (Legal) Value
+   of Chance: Distorted Measures for Recovery in Private Law, 7 AM. L. & ECON.
+   REV. 484 (2005).
+＊＊ Leo Herzel Professor of Law, The University of Chicago Law School.
+2                                   《中研院法學期刊》第12期（2013年3月）
+
+
+
+     This Article investigates the distinction between the damages for
+breach of contract and for violation of property rights. It identifies a
+class of situations in which both types of remedies may be available to
+an aggrieved party. Using economic analysis, it argues that in these
+situations the unclear boundaries between contract and property
+remedies can create distortions in measuring recovery and in the
+incentive of wrongdoers. This distortion is aggravated by an additional
+option to measure damages based on ex-post realization versus ex ante
+expected value.
+
+
+
+Introduction
+
+     This Article examines the interface between two types of damage
+remedies: for breach of contract and for violation of a property right. For
+example, an employee may cause harm to the employer’s property, and
+this may constitute a breach of the employment contract but also a
+violation of the employer’s physical property rights. Or, a licensee may
+make an unlicensed use of intellectual property rights, and this may
+constituted a breach the license contract and also an infringement upon
+the property rights of the licensor. Or, a seller may use the goods he
+already sold, but did not yet deliver to the buyer, and this may be a
+breach of contract and also a violation of the buyer’s acquired property
+rights.
+
+     In each one of these setting, the property owner has a contractual
+relation with the offender, and thus a fundamental question arises—
+which remedy applies? Is the aggrieved property owner entitled to the
+remedies that protect property rights? Or is he entitled to the remedies
+Contract versus Property Remedies                                        3
+
+
+
+
+that protect the contractual relations he happens to have with the
+offender? Or, perhaps yet, is he entitled to both, or to a choice between
+the two arsenals of remedial claims?
+
+     This distinction between breach of contract and violation of
+property has important implications for measuring damages. Damages
+for breach of contract are based on a principle that is unique to contract
+law—the protection of the expectation interest of the aggrieved party. He
+is entitled to money damages that will provide him the benefit he
+expected to get from the contract, but not necessarily the value of the
+damaged property. In contrast, damages for violation of property rights
+are based on two different principles that are fundamental to property but
+not to contract law—harm and restitution. The offender has to pay for
+the harm to the damaged property, irrespective of the contractual
+expectations. And if the offender benefitted from the violation, this
+benefit can be disgorged and “returned” to the property owner.
+
+     Consider the following example: A copyright owner licenses the
+right to publish his novel in a specific medium, say, in paperback, to a
+licensee. The licensee commits one of three wrongful acts: (1) he
+launches the distribution belatedly, thereby reducing the owner’s profits;
+(2) he distributes the work in additional media that were not covered by
+the license, and reaps much profits; (3) he makes changes to the text of
+the work, cutting chapters and revising the story’s ending, to make the
+book more “marketable.” In each of these cases, did he commit a breach
+of contract? Or did he infringe upon the owner’s copyright? Are
+damages limited to the owner’s lost profits, which might often be low or
+hard to prove, or could the damages instead be measured by the
+violator’s profits, which are higher and easier to prove?
+4                                        《中研院法學期刊》第12期（2013年3月）
+
+
+
+         In the first part of this Article, I demonstrate that despite the clear
+conceptual abstract distinction between contract and property damages,
+the law has hard time determining which remedy is available when. The
+problem arises because the same behavior—the same offense—can be
+classified both as breach of contract and a violation of property. I survey
+some of the rules that American law uses to divide the work between
+contact and property law, and note a patterns of arbitrary and confused
+distinctions.
+
+         In the second part of the Article, I demonstrate another dichotomy
+that compounds the problem of damage assessment: the timing of
+measurement. Each damage measure—contract or property—can be
+measure either ex post or ex ante. An ex post measure focus on the
+expected value of the compensated interest as known at the time of the
+violation, whereas the ex post measure provides added accuracy by
+setting the damages equal to the actual value as known at the time of
+trial.
+
+         The third part of the Article uses economic analysis to evaluate the
+effects of these fuzzy boundaries between contract and property damages,
+and between ex post and ex ante damages. One of the most surprising
+effects is the ability of a litigant to choose which remedy contract versus
+property and which measurement methodology (ex post versus ex ante)
+apply. If it is the plaintiff (the aggrieved party) who chooses, he is
+effectively entitled to the greater of the two remedies. When the two
+measure of recovery differ, these options to choose the greater-of or the
+lesser-of the two available damages measures can be quite valuable. I
+will also show that these options also create distorted incentives in
+property and contractual relations.
+Contract versus Property Remedies                                          5
+
+
+
+
+     Let me briefly illustrate the insights of this paper through the simple
+example of a violation of a copyright license. Imagine that the licensee
+violated the license terms and distributed the materials owned by the
+licensor through a medium that was not licensed. The violation had the
+potential of both harming the owner and benefiting the violator, but the
+magnitude of either effect was unknown at the time of violation. Assume
+that the harm to the owner, measured by the lost profits, was $1000.
+Assume, also, that at the time the violation, the benefit to the violator
+from the unlicensed use, measured by the extra profits he made, was
+uncertain, either $2000 or $0, each with equal probabilities. (This
+uncertainty, too, would be resolved by the time the suit would reach
+court, and evidence can be assembled regarding the actual profit
+garnered by the violation). The expected benefit was, accordingly, $1000.
+Notice that in this example, the expected profit equaled the expected
+harm—the violation was neither efficient nor inefficient, ex ante.
+
+     How would the law remedy this violation? If the remedy were
+measured by the contractual rule of expectation damages, it would equal
+$1000. If instead, the remedy were measure by the property rule of
+restitution, it would equal the actual benefit that the violator/licensee
+reaped. If this value turns out to be high—in our example, $2000—the
+property owner would choose it over the contractual measure of $1000
+and recover the full $2000. If, instead, the benefit turns out to be low—
+$0—the property owner would choose the contractual measure instead,
+and recover $1000. In all, the property owner would recover either
+$2000 or $1000, each with equal likelihood, for an expected recovery of
+$1500. This expected recovery exceeds either the expected loss to the
+owner or the expected gain to the violator, because it is equal to the
+greater of the two. In effect, the entitlement is worth more the owner
+when violated!
+6                                    《中研院法學期刊》第12期（2013年3月）
+
+
+
+     How could this be? I will show in the article that the crucial
+element in making this distorted measure of recovery happen is the
+choice that a party has among competing measures of damages. This
+choice embeds an option into the recovery rule, and bolsters it by the
+value of the option.
+
+     The question remains, though, how and why the law accords a party
+the choice between two different measures of damages. I will show how
+such regimes of multi-measures evolve, how they might be justified, and
+why these justifications ultimately fail.
+
+     Finally, I will end by listing some principles that can help shape a
+rational policy of the election of remedies. In which situations should a
+pure property measure apply, and in which should a pure contract
+measure apply? How should we classify an offense—a property violation
+or a contract breach?      Economic analysis suggests that the choice
+between property violation and contract breach—as well as the associate
+remedies—cannot be conducted along conceptual or mechanical tests.
+The choice has to respond to the basic question: when are contract
+damages insufficient to protect entitlements, and should be enhanced by
+the greater property protection.
+
+
+
+I. Property and Contract Remedies
+
+A. Conversion of Property by Seller
+
+     The first example of the tense line between breach of contract and
+violation of property involves the protection of the rights of buyers in the
+period between the date of the purchase and the final conveyance of the
+Contract versus Property Remedies                                                      7
+
+
+
+
+property to the buyer. In this interim stage, the buyer does not yet have a
+perfected property right, although some seeds of property entitlement,
+beyond the contractual right, already emerge. It is often said that the
+seller continues to hold the legal title to the property “subject to an
+                                                              1
+equitable obligation to convey” it to the purchaser. In various cases of
+real property purchase, for example, it was held that “the rights of the
+purchaser are contract rights rather than rights of ownership of real
+           2
+property.”
+
+     There are many ways in which the seller can breach the sale
+contract, for example by failing to deliver in time or by damaging the
+purchased goods. These breaches rarely implicate any property remedy,
+and are addressed by damages for breach of contract, such as the
+difference between the actual value and the promised value of the goods.
+But one type of violation raises the remedial dichotomy and the
+contract/property interface: The seller’s deliberate expropriation of value
+from the asset prior to its delivery, in a way that both benefits the seller
+and harms the buyer.
+
+     Consider, for example, the case of Laurin v. DeCarolis
+               3
+Construction. A buyer entered a contract to purchase a wooded parcel
+of real estate. Under the terms of the contract, the deed was to be
+delivered six months after the execution of the contract. During these six
+months, while he still held the property, the seller removed the majority
+of the trees from the lot and 360 truckloads of gravel, and sold those for
+a nice profit in the open market. These actions were ruled to be a breach
+
+
+1 Barrell v. Britton, 244 Mass. 273, 278-279, 138 N.E. 579, 582 (1923); Kares v. Covell,
+   180 Mass. 206, 209, 62 N.E. 244 (1902).
+2 Laurin v. DeCarolis Construction, 72 Mass. 688, 363 N.E. 2d 675 (1977).
+3 Laurin, 363 N.E. 2d 675.
+8                                    《中研院法學期刊》第12期（2013年3月）
+
+
+
+of contract, but the question the court had to address was the
+measurement of damages. Is the buyer entitled to the contract damages,
+here equal to the diminution of the property value? Or is the buyer
+entitled to the substantially higher property remedy of disgorgement
+damages, here equal to the benefit to the seller from the expropriation?
+
+     This generic question is difficult for courts to resolve. In the Laurin
+case, the trial court ruled that the buyer was the “equitable owner” of the
+property and thus the conduct was a violation of property—the tort of
+conversion—and awarded the buyer the higher measure of damages
+equal to the value of the benefit to the seller. The court of appeals took a
+different view: “as the plaintiffs were not in or entitled to possession of
+the premises during the period when the gravel was removed therefrom
+by the defendant, they are not entitled to the value of the gravel removed
+on the theory of conversion which was employed by the master in
+determining damages. [...] [T]he plaintiffs are entitled ... to the
+diminution in the value of the land which was caused by the defendant's
+                                       4
+stripping and appropriation ... .”         The case then reached the
+Massachusetts Supreme Court, which took yet another view: the buyer
+was not an equitable owner, therefore the conduct was merely a breach
+of contract, but nevertheless, due to the willful nature of the breach, the
+buyer was entitled to disgorgement measure of damages—the value
+                            5
+appropriated from the land.
+
+     Pragmatically, my reading of American common law suggests that
+in cases like this—situations of deliberate breach of contract that verge
+
+
+
+4 Id. at 677.
+5 Id. at 678-79.
+Contract versus Property Remedies                                                          9
+
+
+
+
+on property violation—plaintiffs can choose the greater of the two
+remedies, diminution-in-value of purchased asset versus the value to the
+violator of the appropriated goods. The New York Court of Appeals
+made this option explicit.6 The court recognized that there are two
+possible scenarios. In the first scenario, the value of the material
+removed from the land is low in comparison to the loss of value to the
+land. In this scenario, the aggrieved buyer can recover the contract
+remedy of diminution-in-value.7 As another court explained, “there was
+substantial testimony that the lands the [plaintiffs] purchased were worth
+$5000.00 less because of the [timber removed] by the [defendants]. Just
+because the [defendants] sold the timber for a small amount of money
+does not necessarily determine the measure of damages.” 8 In the
+second scenario, the value of the materials removed from the land is
+high in comparison to the loss of value to the land, and in this case the
+aggrieved buyer can recover the disgorgement remedy.9 As explained by
+the Massachusetts court, the disgorgement of profit remedy is available
+because the violation “merely deprives the defendant of a profit
+wrongfully made, a profit which the plaintiff was entitled to make.”10
+
+
+
+6 See Worrall v. Munn, 53 N.Y. 185, 189-90 (N.Y. 1873).
+7 Id. at 190. (“If the soil, having no value separated from the land, was stripped from
+   [land], so as to render it unproductive and unfit for the use to which it was applied, the
+   diminished value of the land would be the only adequate measure of compensation.
+   So, also, where trees designed for shade or ornament have been cut down, whereby
+   the value of the land has been greatly lessened.”)
+8 Walker v. Dibble, 241 Ark. 692, 696 (Ark. 1966).
+9 Id. (“Cutting a few trees on a timber tract, or taking a few hundred tons of coal from a
+   mine, might not diminish the market value of the tract, or of the mine, and yet the
+   value of the wood or coal, severed from the soil, might be considerable. The wrong-
+   doer would, in the cases instanced, be held to pay the value of the wood and coal, and
+   he could not shield himself by showing that the property from which it was taken was,
+   as a whole, worth as much as it was before.”)
+10 Laurin, 363 N.E. 2d 675.
+10                                         《中研院法學期刊》第12期（2013年3月）
+
+
+
+     Courts across the United States disagree whether such violations
+constitute property infringement, contract breach, or both. But,
+interestingly, when it comes to the remedy assessed for the violation,
+courts do not pursue the conceptual implications of their classifications.
+The Massachusetts Supreme court classified the infringed right as
+contractual, but nevertheless granted a damage remedy, uncommon in
+contractual cases, of disgorgement. This reflects a pattern: regardless of
+the contract versus property classification of the offense, court are
+relatively consistent in allowing the plaintiff to recover the greater of the
+two remedies, contract versus property damages.
+
+B. Breach of License v. Infringement of Intellectual Property
+
+     The second example of the tense line between breach of contract
+and violation of property involves unlicensed use of intellectual property.
+Judge Benjamin Cardozo explained that
+
+          [t]he author who suffers infringement of his copyright at the
+          hands of a licensee may ... seek redress under the statute by
+          action in the federal courts. But that is not in all circumstances
+          the only remedy available. If the same act is not merely an
+          invasion of the statutory right of property, but is also the breach
+          of a contract ... he may count upon the breach or the abuse, and
+                                      11
+          have relief accordingly.
+
+     The unauthorized use by the licensee could be both a breach of the
+license contract and the resulting contract remedies, or an infringement
+of the licensor’s intellectual property and the resulting property law
+remedies. In copyright law, for example, the Copyright Act awards the
+
+
+11 Underhill v. Schenck, 143 N.E. 773, 775 (N.Y. 1924).
+Contract versus Property Remedies                                                      11
+
+
+
+                                        12
+owner the disgorgement remedy,               which could be substantially higher
+than the normal contract damages that measure the rightholder’s lost
+profits. In patent law, the shift from contract to infringement remedies
+could also increase the magnitude of damages. Further, unlike contract
+recovery, infringement of intellectual property opens the door to
+                                                                            13
+recovery of treble damages and attorneys’ fees in certain cases,                 as well
+                                       14
+as a longer statute of limitations.
+
+      American courts have struggled to draw a clear line between the
+two measures of recovery and determine which is available in any given
+case. The rules determining when the aggrieved party is entitled to the
+property remedy and when he is restricted to the contract remedy are
+technical and almost arbitrary. For example, a key doctrinal distinction is
+whether the license is exclusive or not. An exclusive license is regarded
+as a transfer of the “ownership” of the copyright rights, and the exclusive
+licensee—as the person who now “owns” some copyright rights—is
+                                                                                      15
+“incapable of infringing a copyright interest that is owned by him.”
+He is only “capable of breaching the contractual obligations imposed on
+                         16
+him by the license.”          If, instead, the license were not exclusive, the
+breaching licensee could be deemed a violator of someone else’s
+                                                                    17
+property and liable for copyright infringement damages.
+
+
+12 See 17 U.S.C. § 504(b) (“The copyright owner is entitled to recover ... any profits of
+   the infringer that are attributable to the infringement and are not taken into account
+   in computing the actual damages.”).
+13 See 35 U.S.C. §§ 283-85 (patent); 15 U.S.C. § 1117 (trademark); 17 U.S.C. §§ 502-05
+   (copyright).
+14 See Robert P. Merges, A Transactional View of Property Rights, 20 BERKELEY TECH.
+   L.J. 1477, 1509 (2005).
+15 Id. at 695, quoting Cortner v. Israel, 732 F.2d 267, 271 (2d Cir. 1984).
+16 U.S. Naval Institute v. Charter Communications, 936 F.2d 695 (2d Cir. 1991).
+17 See Sun Microsystems v. Microsoft Corp, 188 F.3d 1115, 1121 (9th Cir. 1999)
+   (noting that generally a “copyright owner who grants a nonexclusive license to use
+12                                        《中研院法學期刊》第12期（2013年3月）
+
+
+
+     There are other ways courts determine whether the licensor is
+entitled to contract versus property damages. If the licensee breaches a
+promissory obligation under the license agreement, then it is breach of
+contract and he is liable only for contract damages. If, on the other hand,
+the licensee fails to satisfy a condition precedent, then the license is
+deemed not to exist, and, in the absence of a license, the violator is liable
+                               18
+for infringement remedies.          Or, if the licensor is entitled to cancel the
+contract in response to the breach, he may do so and, with the license no
+longer in place, the only remaining ground for recovery is IP
+infringement (that is, property damages). In fact, the same violation can
+give rise to damages both for breach (prior to the license termination)
+                                                                            19
+and for infringement (for the period following termination).                     This
+access to property damages becomes all the more secure if the license
+itself contains a reversion clause that automatically terminates the
+licensee’s rights (Richards, 2002).
+
+     Finally, jurisdiction rules can affect the remedy. Federal courts have
+exclusive jurisdiction over copyright infringement actions, whereas state
+courts adjudicate contract disputes. When a complaint asserts breach of
+license and infringement of copyright—does it arise under copyright law
+                                                                           20
+or under contract law? Does it go to Federal or state court?                    Many
+courts hold that the complaint arises under the Copyright Act if it is for a
+
+
+   his copyrighted material waives his right to sue the licensee for copyright
+   infringement’ and can sue only for breach of contract”).
+18 See, e.g., Graham v. James, 144 F.3d 229, 236-37 (2d Cir. 1998); Edwin E. Richards,
+   Drafting Licenses to Guide Whether Potential Disputes Lie in Contract or
+   Infringement, 7 COMPUTER L. REV. & TECH J. 45, 51-52 (2002).
+19 See, e.g., Wisconsin Alumni Research Foundation v. General Electric Co, 880 F.
+   Supp. 1266, 1274-76 (E.D. Wis. 1995).
+20 See generally James M. McCarthy, Comment, Federal Subject Matter Jurisdiction:
+   When Does a Case Involving the Breach of a Copyright Licensing Contract “Arise
+   Under” the Copyright Act?, 19 U. DAYTON L. REV. 165 (1993).
+Contract versus Property Remedies                                                  13
+
+
+
+
+remedy granted by the Act—a “well-pleaded complaint rule” that gives
+                                     21
+the plaintiff the outright choice.        This choice is constrained by a variety
+of tests: whether the dispute is “informed by the substantive law of
+               22                                                                23
+copyright,”         or whether it is within the “subject matter of copyright.”
+
+     As we see, this classification is difficult to resolve. The law entitles
+the right holder to two types of remedies but does not draw a clear and
+reasoned boundary between the causes of action. This means that in
+many cases the owner would be effectively able to choose which remedy
+to claim and could wait to plead the count that provides the higher
+          24
+recovery.
+
+C. Breach of Fiduciary Contract
+
+     A third example of the tense line between breach of contract and
+violation of property involves the remedies for violations of fiduciary
+obligations by an agent. An agent who violates his duties to the principal
+(for example, by expropriating an amount of money entrusted to him in
+the first place) is committing a breach of contract and can be charged
+with damages equal to the value of the funds, had they remained in
+principal’s account. This is the standard measure of expectation damages.
+But if the agent receives a benefit through the violation of the duty of
+loyalty (say, if the agent expropriates funds and invests them in his own
+
+
+21 See T.B. Harms Co. v. Eliscu, 339 F.2d 823, 828 (2d Cir. 1964). Bassett v.
+   Mashantucket Pequot Tribe, 204 F.3d 343, 355 (2d Cir. 2000).
+22 SAPC, Inc. v. Lotus Development Corp., 699 F. Supp. 1009, 1012 (D. Mass. 1988).
+23 La Resolana Architects, PA v. Clay Realtors Angel Fire, 416 F.3d 1195, 1199 n. 2
+   (10th Cir. 2005).
+24 Courts even permit plaintiffs to amend their complaints and shift the basis of
+   recovery. See, e.g., Matarese v. Moore-McCormack Lines, Inc, 158 F.2d 631, 633
+   (2d Cir. 1946); Frontier Management Co. v. Balboa Insurance Co., 658 F. Supp. 987,
+   994 (D. Mass. 1986).
+14                                        《中研院法學期刊》第12期（2013年3月）
+
+
+
+account successfully), the principal is entitled to recover the entire
+                                                 25
+benefit obtained as result of the violation.
+
+     For example, in Kelley v. Allin, the Massachusetts Supreme Court
+held that a plaintiff had the right to choose between the value of property
+entrusted to the fiduciary or the profit made by his wrongful act: “It was
+for the plaintiff to elect whether to bring suit to compel a conveyance of
+the property which the defendant acquired as the result of his dealings ...
+or to hold him accountable for the gain which he made [from the
+wrongful transaction].”26
+
+     In this area of the law, there is no conceptual confusion regarding
+the availability of the property-based remedy of disgorgement. As
+explained by a New York court, “all profits and every advantage beyond
+lawful compensation made by an agent in the business, or by dealing or
+speculating with the effects of his principal, though in violation of his
+duty of agent, and though the loss, if one had occurred, would have
+fallen on the agent, are for the benefit of the principal.”27 The normative
+case in favor of the stiffer property damages is also clear: “It is only by a
+rigid adherence to this simple rule that all temptation can be removed
+from one acting in a fiduciary capacity to abuse his trust, or seek his own
+advantage in the position which it affords him.”28
+
+     Nevertheless, the contract/property dichotomy reappears if the
+disgorgement damages are low (or negative). Imagine a fiduciary who
+expropriates funds from the client’s account and invests them under his
+own account (or gambles with the money in a casino). If the fiduciary
+
+
+25 Restatement (Second) of Agency §407.
+26 Kelley v. Allin, 212 Mass. 327, 333 (Mass. 1912).
+27 Dutton v. Willner, 52 N.Y. 312, 319 (N.Y. 1873).
+28 Id.
+Contract versus Property Remedies                                           15
+
+
+
+
+earns a profit from this violation, it is duly disgorged. But if the fiduciary
+loses the investment, the client can turn instead to contract damages and
+recover the value that the funds, had the fiduciary performed his
+obligations under the contract. The “principal [can] elect to get back the
+thing improperly dealt with or to recover from the agent its value or the
+amount of benefit which the agent has improperly received.”29
+
+     Some state statutes have endorsed similar positions. For example,
+a Colorado state statute involving trade secrets mandates that Damages
+[for misappropriation of trade secrets] may include both the actual loss
+caused by misappropriation and the unjust enrichment caused by
+misappropriation that is not taken into account in computing actual
+loss.30
+
+
+
+II. Ex Post versus Ex Ante Measures of Damages
+
+     The previous section identified a particular dichotomy in the law of
+remedies—the interface between property and contract damages. In this
+part, I discuss a second, unrelated, dichotomy—the interface between ex
+post and ex ante damages. Once this second dichotomy is drawn out, the
+remainder of the article will discuss the combined effect of the two.
+
+     An ex post measures of damages is a rule that sets the magnitude of
+recovery according to the actual realization of the protected interest. If,
+say, the remedy is expectation damages, the ex post measure means the
+actual lost profit suffered by the right holder, as assessed by court based
+
+
+29 Tarnowski v. Resop, 236 Minn. 33, 38 (Minn. 1954).
+30 COL REV STAT § 7-74-104(1). (2011).
+16                                            《中研院法學期刊》第12期（2013年3月）
+
+
+
+on all the information available after the fact (hence the term “ex post”).
+Or, if the remedy is the disgorgement of benefit, the ex post measure
+means the actual benefit reaped by the wrongdoer.
+
+       Ex post measures serve the objective of “accuracy.” If the purpose
+of a particular liability rule is to make a party “whole” based on some
+conception of redress, then the ex post measure applies this redress in a
+way that corresponds to the actual realization. A party who was injured
+more recovers more.
+
+       The law of remedies is replete with ex post measures of damages.
+Tort law, usually, seeks to compensate the victim for the actual harm
+suffered, as proven in court based on all the available evidence. Contract
+law, often, seeks to award the aggrieved promise the actual lost profit, or
+the consequential loss. Parties with different magnitudes of loss receive
+different damages. Patent law, likewise, grants the patentee whose patent
+was infringed a lost profit measure of damages that, at times, can be
+highly idiosyncratic.
+
+       An ex ante measure of damages, in contrast, is a rule that sets the
+magnitude of the recovery according the information known prior to the
+violation, before the actual realization of the loss or the benefit. It is an
+expected value—a hypothetical quantum—equal to the average of the
+possible ex post realizations. If, for example, the remedy is expectation
+damages, the ex ante measure is the average anticipated lost profit. In a
+breach of license case, it could be equal to hypothetical royalties that the
+owner would have negotiated in a hypothetical license, had the infringer
+                                                                 31
+approached him and sought to secure a license.                        This hypothetical
+
+
+31 35 U.S.C. § 284 (allowing the award of “damages adequate to compensate for the
+     infringement, but in no event less than a reasonable royalty”). See, e.g., Panduit Corp.
+Contract versus Property Remedies                                                       17
+
+
+
+
+royalty measure is merely an educated guess—a mid-range point. It
+reflects the expected value of the right to the parties and their relative
+bargaining power, based on information that was available pre-
+                32
+infringement.
+
+      The law is replete with ex ante measures of damages. In some areas
+of tort law, plaintiffs cannot recover their actual loss but instead are
+compensated according to tables and charts that are uniform across all
+victims. For example, workers compensation in the United States, or
+Social Security disability insurance, follow charts that apply fixed
+damages, irrespective of actual harm. Even in contract law, an aggrieved
+buyer can recover damages equal to the difference between the contract
+price and the market price at the time of breach, which is an average way
+to measure the actual loss.
+
+      In some areas of the law, plaintiffs can choose among the ex post
+and ex ante measures. In patent law, for example, the patentee can
+choose between lost profit (ex post measure) and hypothetical royalty
+(ex ante measure). In copyright law, the copyright holder can choose
+between disgorgement of benefit (ex post measure) and statutory
+damages (ex ante measure). In contract law, the aggrieved buyer can
+choose between actual lost profits (ex post measure) and contract/market
+differential damages (ex ante damages). Or, if a service provider is suing
+
+
+   v. Stahlin Bros. Fibre Works, 575 F.2d 1152, 1157 (6th Cir. 1978) (“When actual
+   damages, e.g., lost profits, cannot be proved, the patent owner is entitled to a
+   reasonable royalty.”); Georgia-Pacific Corp. v. United States Plywood Corp., 318 F.
+   Supp. 1116, 1120 (S.D.N.Y. 1970) (listing the factors relevant to the calculation of a
+   reasonable royalty).
+32 See Lucent Technology v. Gateway, 580 F.3d 1301, 1325, 1332 (Fed. Cir. 2009)
+   (“The hypothetical negotiation tries, as best as possible, to recreate the ex ante
+   licensing negotiation scenario and to describe the resulting agreement ... to elucidate
+   how the parties would have valued the patented feature.”).
+18                                   《中研院法學期刊》第12期（2013年3月）
+
+
+
+the client for breach of contract after partial performance was already
+done, he is entitled to restitution damages measured by the actual benefit
+conferred to the breaching party (ex post damages) or by the
+hypothetical fee that would be charged for such partial performance (ex
+ante measure). In property law, a co-tenant or co-owner who invests in
+updating the common property can recover the value of the
+improvement (ex post measure) or the cost he incurred (ex ante measure).
+The former is available under the “improvement” doctrine while the
+latter is available under the “repairs” doctrine, but since many types of
+updates could be classified as either improvement or repair, the law
+effectively grants the investing party a choice.
+
+
+
+III. The Distortive Effect of the Remedial Options
+
+     What’s wrong with a fuzzy boundary between contract and property
+damages? What’s wrong with an option to choose the greater of the ex
+post and ex ante measures of damages? The analysis above shows the
+difficulty of drawing a clear boundary between various remedies and
+thus the ways different causes of action, and different ways to measure
+them, overlap. This gives rise to a complex and sometimes messy body
+of doctrine, which tries (sometimes arbitrarily) to distinguish the
+grounds for various remedies. But my critique here will focus on a
+different problematic aspect of the fuzzy boundary. When causes of
+actions overlap, parties have the option to choose the remedy that is
+more favorable. It is this option, I will argue, that can create distortions
+in compensation and in the incentives of the parties.
+
+     Return, now, to the example discussed in the introduction. It
+Contract versus Property Remedies                                         19
+
+
+
+
+considered a violation that could both harm the owner and benefit the
+violator. It further assumed that the magnitude of either effect is
+unknown at the time of violation, but becomes known by the time of trial.
+
+     Case I: No benefit. Assume, first, that the violation creates no
+benefit to the violator, but creates an expected harm (lost profit) of
+$1000. After the fact, harm could be either high or low—either $1500 or
+$500 with equal probabilities, and so on average it is equal $1000. Under
+a pure ex post rule of expectation damages, the aggrieved party can
+recover either $1500 or $500, depending on the actual loss. Under a pure
+ex ante rule of expectation damages, the aggrieved party can recover
+exactly $1000, regardless of whether the true harm is either $1500 or
+$500. But what if the plaintiff can choose between the ex-post and ex-
+ante measures of damages? What if, say, an aggrieved patent holder can
+recover either the hypothetical royalty (the ex ante measure) of $1000, or
+his actual lost profit, and can choose the greater of the two? In such case,
+the plaintiff would choose the ex ante measure of $1000 when the actual
+lost profit is lower (equal to $500), but would choose to recover the ex
+post measure of actual lost profit when it is higher (equal to $1500). The
+expected recovery is the average of $1000 and $1500, which equals
+$1250. It is greater than the expected loss.
+
+     Case II: No Harm. Assume, now, that the violation creates no harm
+to the owner, but creates an expected benefit to the violator, of $1000.
+After the fact, the benefit could be either high or low—either $2000 or
+$0 with equal probabilities, and so on average it equals $1000. Under a
+pure ex post rule of disgorgement damages, the aggrieved party can
+recover either $2000 or $0, depending on the actual benefit. Under a
+pure ex ante rule, the aggrieved party can recover exactly $1000,
+regardless of whether the actual benefit is $2000 or $0. But what if the
+20                                         《中研院法學期刊》第12期（2013年3月）
+
+
+
+plaintiff can choose between the ex post and ex ante measures of
+disgorgement damages? What if, say, a copyright owner can disgorge the
+infringer’s actual profit, or—if this measure turns out to be too low (if
+the infringer made no profit)—he can recover instead the statutory
+                                                        33
+damages under § 504(c) of the Copyright Act?                 If the benefit turns out
+to be high, the aggrieved plaintiff would choose the ex post measure and
+recover $2000. And if the benefit turns out to be low, the aggrieved
+plaintiff would forgo the ex post measure and recover instead the ex ante
+measure, equal to the average benefit of $1000. The expected recovery is
+the average of $1000 and $2000, which equals $1500. It is greater than
+the expected benefit.
+
+       Case III: Fixed Benefit and Harm. Assume, next, that the violation
+creates both a benefit and harm. As before, the harm will be either $1500
+or $500, and the benefit either $2000 or $0, all with equal chances. It is
+also assumed that the high/low realization of harm is independent of the
+high/low realization of the benefit.
+
+       Notice that the expected values of the harm and of the benefit are
+$1000, which means that, from an ex ante perspective, the violation is
+welfare-neutral. It is neither efficient nor inefficient. This is a special
+case, but it is useful to consider it because it can help us see the presence
+of a distortion in the measurement of damages that is independent of any
+additional normative concern related to the effect of the violation on
+total welfare.
+
+       What will the plaintiff choose, if he had the option between contract
+
+
+33 17 U.S.C. § 504(c)(1) (“[T]he copyright owner may elect ... to recover, instead of
+     actual damages and profits, an award of statutory damages ... in a sum of not less
+     than $750 or more than $30,000 as the court considers just.”).
+Contract versus Property Remedies                                              21
+
+
+
+
+and property damages, and in addition had the option between ex post
+and ex ante damages? There is a 50% chance that the ex post benefit is
+$2000, in which case the aggrieved plaintiff will choose the ex-post
+disgorgement measure of $2000, regardless of how high the lost profit is
+(which cannot exceed $1500). But there is also a 50% chance that the ex
+post benefit is low, $0, in which case the plaintiff would have the option
+to turn to the lost profit measure. If that measure turns out, ex post, to be
+high ($1500), the plaintiff will choose to recover the ex post expectation
+damage measure. But if the lost profit also turned out to be low, $500,
+the plaintiff will abandon any ex post recovery measure and seek instead
+the ex ante measure (of either benefit or lost profits, which are here
+assumed to be equal), of $1000.
+
+       The following table summarizes the plaintiff’s choice:
+    Case         Benefit        Lost profit    Combined          Plaintiff’s
+                                               probability        choice
+    HH            $2000             $1500         25%              $2000
+    HL            $2000             $500          25%              $2000
+    LH             $0               $1500         25%              $1500
+    LL             $0               $500          25%              $1000
+
+(Case “HL” means High benefit and Low lost profit; and so on.)
+
+       Notice that there is a 75% chance that the plaintiff will choose the
+ex post measure (50% chance of ex-post disgorgement measure and 25%
+ex post lost profit measure.) There is only a 25% chance that the plaintiff
+will choose an ex ante measure, because the ex ante measure is
+preferable only when both the benefit and the lost profit are low (case
+LL).
+
+       The table also helps us calculate the expected recovery for the
+22                                    《中研院法學期刊》第12期（2013年3月）
+
+
+                                           34
+aggrieved plaintiff, which equals $1625.        It is higher than the expected
+damages under either case I ($1250) or case II ($1500).
+
+     In cases I and II, the excess recovery beyond the expected loss or
+benefit was due to the option to choose the greater of the ex post or the
+ex ante measures of the particular remedy. In case III, the excess
+recovery is due to two confounding options: the option to choose the
+greater of the contract or property damages, and the option to choose the
+greater of their respective ex post and ex ante values.
+
+     The effect of a “greater of” regime is distortive because the
+portfolio of damages it creates ends up depending on arbitrary, irrelevant
+factors. That is, violations that create the same expected harm or the
+same expected benefits at the time they are committed end up with
+different expected recoveries. To see why, look again at case I—where
+the violation causes a stochastic lost profit, but no benefit. In the original
+example, the lost profit was either $1500 or $500. Let’s call this case I.A,
+and compare it to case I.B, which has the same feature of no-benefit, and
+the same expected lost profit of $1000, but a different distribution:
+instead of {$1500, $500}, assume that the lost profits are {$1100, $900}.
+Namely, the High loss is not as high (only $1100, instead of $1500), but
+the Low loss is also not as low ($900, instead of $500). The plaintiff will
+continue to choose the ex post measure of damages when the lost profits
+are high, and the ex ante measure of damage when the lost profits are
+low, but now the expected value of this recovery portfolios is only $1050,
+lower than it was in case I.A ($1250).
+
+     What’s going on? What is the pattern that explains these results?
+
+
+
+34 ¼×2000＋¼×2000＋¼×1500＋¼×1000 = 1625.
+Contract versus Property Remedies                                          23
+
+
+
+
+The choice of remedy regime entitles the owner to recover the actual
+realized value bundled with a put option to sell this right to the violator
+for the ex ante value of $1,000. The excess recovery under this regime
+equals the value of the put option. The more volatile the ex post value of
+the asset—case I.A is more volatile than case I.B because the variance of
+{$1500, $500} is greater than the variance of {$1100, $900}—the more
+valuable the put option and the larger the excess recovery enjoyed by the
+plaintiff. The expected recovery depends not only on the expected value
+of the measure, but also its volatility.
+
+     Thus, in case II, the recovery exceeded that of Case I (either I.A or
+I.B) because the volatility of the benefit was greater than the volatility of
+the lost profit. And in case III the recovery was the highest because the
+expected value of $1000 was bolstered by two, rather then one,
+options—the option to choose benefit based versus lost-profit based
+recovery, and the option to choose ex post versus ex ante measures of
+each remedy.
+
+     These embedded options to choose the more favorable damage
+measure—contract versus property, and ex-post versus ex-ante—
+increase the recovery beyond the amount that is needed to protect the
+violated interest. It is possible that this increased recovery is useful to
+overcome what might otherwise be sub-optimal damages. For example,
+if for some reason the aggrieved party does not enforce his rights in
+every case of violation, a “multiplier” is necessary to offset the lower
+enforcement effort and maintain optimal deterrence. But this “imperfect
+enforcement” rationale does not seem to explain the patterns of the law.
+The option to choose contract versus property damages arises when there
+is a contract. In a non-contractual setting, when one’s property is
+violated, the only damages are the property measure. Is there any reason
+24                                  《中研院法學期刊》第12期（2013年3月）
+
+
+
+to expect that the presence of a contract would serve to reduce the
+probability of enforcement and thus justify a damages multiplier relative
+to the non-contractual case? If at all, it would seem that the presence of
+contract makes the identity of the violator known and the likelihood of
+enforcement higher, reducing the need for any multiplier. And so the
+option to choose a different damage measure creates a multiplier where
+it is least needed.
+
+     Moreover, an option to choose the greater of two remedies is a poor
+way to set a damages multiplier. If the reason to multiply damages is the
+low probability of detection, this—and not the value of the option—
+should be the multiplying criterion. Why should violations that create a
+higher variance of effects (where, we saw, the option value is higher) be
+punished more severely? If anything, the more profitable the violation is
+to the violator, the more likely it is to lead to enforcement. When the
+owner sees that the violator profited well from the violation, the owner is
+more likely to sue and seek a disgorgement remedy. Thus, violations that
+create high variance of benefits (small chance of very high profits) may
+be more likely to end up with a disgorgement suit. And with the higher
+likelihood of suit, there is less need for a damage multiplier. The choice
+of remedy scheme is worth more in cases of high detection probability—
+contrary to the deterrence rationale. And so, again, the option to choose
+creates a larger multiplier where a smaller one is needed, and vice versa.
+
+
+
+IV. Impaired Liability Rules
+
+     There is perhaps a good explanation for the pattern of remedy
+options that private law accords the aggrieved owner. As we saw, these
+Contract versus Property Remedies                                          25
+
+
+
+
+options create a regime of super-compensatory damages. But there is a
+way that the violator can avoid the burden of such overcompensation: he
+can negotiate the right to commit the unauthorized use. To avoid the
+harsh “greater-of” sanction, a potential violator would contract for the
+right—would negotiate and secure a paid-for license. When the costs of
+negotiating a license are lower than the cost of dispute resolution, such
+incentive is desirable.
+
+     For example, the seller who wants to strip the land from trees and
+gravel after selling it to the buyer may negotiate for this right rather than
+unilaterally haul away the goods. Or, a copyright licensee who wants to
+engage in additional, non-authorized uses would renegotiate the original
+license to expand the permitted uses.        Or, a client who wishes to
+terminate a service contract prematurely can negotiate compensation for
+the disappointed service provider, rather than unilaterally breach pay
+restitution damages. In these settings, and in numerous others, the law
+correctly channels parties to engage in transactions, rather than act
+unilaterally. Call options on other people’s property are fairly rare.
+
+     Of course, there are situations in which diverting parties to a
+consensual negotiation would be undesirable, because such negotiations
+are too costly and difficult to conduct. This question—when is a voluntary
+transaction superior to a unilateral compensated violation—is an ages-
+old fundamental inquiry. It is the familiar “property rules versus liability
+rules” dichotomy. This is a normative dilemma that may be settled by
+reference to transactions costs, or to defensive costs, or to notions of
+liberty and autonomy, or according to a framework distributive justice.
+Nothing in the analysis of this paper implicates such normative inquiry
+or contributes to the body of thinking about the proper division of labor
+among property rules and liability rules.
+26                                  《中研院法學期刊》第12期（2013年3月）
+
+
+
+     What the analysis did demonstrate, however, is the inadvertent
+impairment of liability rules. Imagine that, for any given set of reasons,
+it is determined that the optimal way to protect an entitlement is by a
+liability rule. Perhaps because transactions costs or coordination costs
+are too high; or because some owners are too wealthy and stubborn and
+are unwilling to sell usage rights at reasonable prices; or because some
+people have dire and urgent needs that would be undermined if
+channeled to market transactions. A liability rule is thus set in place and
+a “price” for the violation is tagged, so that one-sided violations may
+occur in the desired set of circumstances. Unfortunately, the effect of the
+options described in this article is to distort the “price.” The violator
+would have to pay, not the price the law intended to set, but a higher,
+“inadvertent,” price that reflects the option that the owner has to choose
+among the various legal ways to measure this price. The law perhaps
+intended to grant the owner a compensation based on one of several
+ways to measure his loss. But the law did not mean to bolster the
+compensation in an arbitrary way that reflects something different than
+the loss (or gain), but rather reflects only the option value—that is, the
+variance of the distribution of harms.
+
+     The inadvertent increase in expected compensation could be benign,
+if the violator would continue to behave in the same way even under in
+the presence of costlier remedies. There would be a redistributive effect,
+but not necessarily a chilling incentive effect. This is the same
+redistributive effect that property rules accomplish—they let owners
+extract more of the surplus from violators. But the inadvertent increase
+in expected compensation could also increase deterrence. Some
+violations would not occur and some violators would have to go through
+the more expensive routes of negotiated transfers. If a liability rule were
+Contract versus Property Remedies                                        27
+
+
+
+
+deemed desirable, the unintended effect of the remedial dichotomies is to
+transform it into a property rule.
+
+
+
+Conclusion
+
+       This Article identified two options that owners have in seeking
+remedies. The first is the choice between contract and property damages.
+This dichotomy arises in situation in which the owner and the violator
+have a contractual relationship, and the violator overstepped his rights in
+a way that is more severe than mere contract breach. The second option
+is the choice between accurate ex post damages based on the realization
+of the infringed value and average ex ante damages based on some
+measure that is independent of the actual realization. Both options arise
+from     the   unclear    boundaries   between    remedial    rules.   The
+contract/property fuzzy boundary is due to the difficulty of
+distinguishing breach and infringement. The ex post versus ex ante fuzzy
+boundary is due to the portfolio of remedies that are available to
+aggrieved parties.
+
+       These options arise without courts ever noticing them. For the same
+violation, a party may bring a claim for property remedy, or for ex post
+measure of damages, only because some realization of harm or benefit
+turned out, by chance, to be high. A court adjudicating this claim is not
+positioned to recognize the ex ante distribution of harms or benefits, and
+to recognize that an implicit exercise of a remedial option occurred. As
+far as I know, courts have never noticed the over-compensation effect
+that is due to the embedded options.
+
+       As long as the law is wedded to an approach of a menu of remedies,
+28                                 《中研院法學期刊》第12期（2013年3月）
+
+
+
+such results are probably inevitable. The way to overcome this distortion
+is to thin down the menu of remedial choices. For example, if remedies
+were always based on ex ante measures, then the option to choose the
+greater of the ex post and ex ante damages would be eliminated. But for
+this solution to arise, the law has to abandon the strong held notions of
+the importance of “accuracy” in the assessment of damages.
+Contract versus Property Remedies                                   29
+
+
+
+
+                                    References
+
+Ben-Shahar, Omri. 2011. Damages for Unlicensed Use. University of
+     Chicago Law Review 78:7-29.
+Ben-Shahar, Omri, and Robert A. Mikos. 2005. The (Legal) Value of
+     Chance: Distorted Measures for Recovery in Private Law. American
+     Law and Economics Review 7:484-522.
+McCarthy, James M. 1993. Comment, Federal Subject Matter Jurisdiction:
+     When Does a Case Involving the Breach of a Copyright Licensing
+     Contract “Arise Under” the Copyright Act?. University of Dayton
+     Law Review 19:165-196.
+Merges, Robert P. 2005. A Transactional View of Property Rights.
+     Berkeley Technology Law Journal 20:1477-1520.
+Richards, Edwin E. 2002. Drafting Licenses to Guide Whether Potential
+     Disputes Lie in Contract or Infringement. Computer Law Review
+     and Technology Journal 7:45-64.
+

@@ -1,0 +1,1207 @@
+《2011 行政管制與行政爭訟》 李建良主編
+ 日本行政法判例之動向                                        83
+臺北 中央研究院法律學研究所 專書（16）
+民國 101 年 12 月，頁 83-112
+
+
+
+
+                     主題演說
+                                          ＊
+        民營化時代的行政法新趨勢
+
+                  Hartmut Bauer＊＊
+                    李建良＊＊＊譯
+
+                      目 次
+ I.   引言與問題提要
+ II. 民營化的概念、民營化的領域及民營化的動機
+ III. 民營化的類型化、混合形式、區辨與合體
+ IV. 民營化過程規範操控的調節樞紐
+ V. 對於法律所形成之民營化現實作體系歸整的基本觀點
+ VI. （再）國家化及（再）地方自治團體化之未來趨勢？
+ VII. 展望
+
+
+
+
+＊   演說日期：2011年11月19日。    〔責任校對：簡蔓婷〕
+                                  。
+＊＊  德國波茨坦大學法學院院長。於波茨坦大學法學院講授歐洲暨德國憲法、行政
+    法、社會法及經濟公法。本演講之準備承研究助理 Kai-Holmger Kretschmer 博士
+    及 Lydia Hajasch 之協助，謹此致謝。
+＊＊＊ 中央研究院法律學研究所研究員。
+84                                                      2011 行政管制與行政爭訟
+
+
+
+I. 引言與問題提要
+
+       民營化在德國，依事物性質，雖非全新之物1，但向上躍升而
+具重大意義，則是近期之事。單從外觀上看，隨即可見民營化受到
+特別的關注，包括法學界對民營化趨勢的持續關注：多本的教授資
+格論文2、大量的博士論文及無數的文章處理此項議題。還有不計
+其數的學術研討會，如國家法教授年會(Staatsrechtslehrertagung)近
+                                             3
+10年來以此為主題即不下兩次 ，還有幾年前舉行的德國法律人年會
+                               4
+(Deutscher Juristentag) 。
+
+       從時間上來看，當前民營化浪潮的肇端，約莫與德國統一交疊
+並進。早在1980年代即可見端倪，續經醞釀進展之後，自1990年代
+起，民營化的拓展始「全速推進」5。同步齊進，絕非偶然。單是
+
+
+1 民營化的歷史早於其概念本身，關於民營化的歷史，參見Jörn Axel Kämmerer,
+     Privatisierung, 2001, S. 61 (61 ff.).
+2 尤 其 是 Martin Burgi, Funktionale Privatisierung und Verwaltungshilfe, 1999;
+  Kämmerer (Fn. 1); Wolfgang Weiß, Privatisierung und Staatsaufgaben, 2002; Christof
+  Gramm, Privatisierung und notwendige Staatsaufgaben, 2001; Barbara Remmert,
+  Private Dienstleistungen in staatlichen Verwaltungsverfahren, 2003.
+3 1994年年會之主題為「行政任務之民營化」(Privatisierung von Verwaltungs-
+  aufgaben)，參見Johannes Hengstschläger, Lerke Osterloh及Hartmut Bauer等人之
+  報告以及Tobias Jaag的各國概況報告，載於VVDStRL 54 (1995), S. 165 ff., 204
+  ff., 243 ff., 287 ff.；2002年年會的主題為「私人參與公共任務與國家責任」
+  (Beteiligung Privater an der Wahrnehmung öffentlicher Aufgaben und staatliche
+  Verantwortung) ， 參 見 Markus Heintzen 及 Andreas Voßkuhle 的 報 告 ， 載 於
+  VVDStRL 62 (2003), S. 220 ff., 266 ff. 與此相關的還有甚早之前1970年年會的主
+  題 「 行 政 任 務 之 私 人 履 行 」 (Die Erfüllung von Verwaltungsaufgaben durch
+  Private)，計有Fritz Ossenbühl及Hans-Ullrich Gallwas提出的兩篇報告，載於
+  VVDStRL 29 (1971), S. 137 ff., 211 ff.
+4 參見Martin Burgi, Privatisierung öffentlicher Aufgaben – Gestaltungsmöglichkeiten,
+  Grenzen, Regelungsbedarf, Gutachten D für den 67. Deutschen Juristentag, 2008；該
+  次會議分別由Joachim Wieland、Thomas von Danwitz及Thomas de Maizière提出報
+  告，載於 Teil M der Verhandlungen des 67. Deutschen Juristentages in Erfurt 2008.
+5 相 同 看 法 ， 參 見 Friedrich Schoch, Die Rolle der Rechtsdogmatik bei der
+  Privatisierung staatlicher Aufgaben, in: Stürner (Hrsg.), Die Bedeutung der
+  Rechtsdogmatik für die Rechtsentwicklung, 2010, S. 91 (91).
+民營化時代的行政法新趨勢                                                                        85
+
+
+
+
+東德舊有國家企業透過信託機構6進行大規模的民營化，以及在德
+東地區引進私人從事老舊民生基礎設施的更新工程，即是開啟「民
+營化」需求的重要動力，「包括西德在內」7。尤其，隨著德國統一
+之後快速上升的國家預算赤字8，財政上亮起了警訊。「國庫匱乏的
+窘迫處境」意味著必須出售公家財產，以減少負債，以及公部門必
+須從至今己力從事的任務中抽身，以減輕國家的負擔。秩序政策上
+的考量與泛政治上的基本走向，也就是民營化的選項，在維持德國
+未來作為經濟重心的課題上，扮演重要角色，此點更強化了民營化
+的發展趨勢9。在過去民營化的高峰時期，主要著例是德國聯邦郵
+政10及德國鐵路11的改革與改組，此外還有地方生存照顧部門的民
+營化措施。
+
+     此一民營化的趨勢，至少眼下似乎是沛然不可抑遏。近期法律
+上有關公私夥伴關係的框架規範12，足以提供簡明可觀的印證。部
+
+
+6 在「從以全民財產和國家主導為基礎的計畫經濟轉換成以私有財產和個人自由
+   為基礎的市場經濟之過程中」(BVerfGE 95, 267 [308])，信託機構(Treuhand-
+   anstalt)扮演相當吃重的角色，其主要身負改組舊有全民企業的結構，使之進入
+   競爭市場並加民營化的巨責重任(Herkulesaufgabe)。最初，該信託機構擁有8000
+   個企業、4萬個廠場及600萬個員工，當時可稱得上是全世界最大的企業主(Fritz
+   Ossenbühl, Eigentumsfragen, in: Isensee/Kirchhof (Hrsg.), Handbuch des Staatsrechts
+   (HStR), Bd. IX, 1987, § 212 Rn. 8)。
+ 7 當時的相關規劃，例如由Kronberger Kreis提出的Privatisierung auch im Westen,
+   1993.（【譯註】Kronberger Kreis，係由德國自由派的經濟學者及法律學者於
+   1982年所成立的組織，主要從事秩序政策改革之研究與建言，以降低人民依賴
+   國家照顧政策為宗旨，期以建立自由的國家秩序。）
+ 8 早在德國統一後不久，即有人預估國家的負債會超過2兆馬克；關於當時的財
+   政政策綱領，參見Hartmut Bauer, Die finanzverfassungsrechtliche Integration der
+   neuen Länder, in: Isensee/Kirchhof (Hrsg.), Handbuch des Staatsrechts (HStR), Bd.
+   IX, 1987, § 206 Rn. 1 ff., 41 ff.
+ 9 關 於 1990 年 代 初 期 之 政 治 氛 圍 ， 詳 見 Friedrich Schoch, Privatisierung von
+   Verwaltungsaufgaben, DVBl. 1994, S. 962 (965 ff.); Bauer (Fn. 3), S. 245 ff.
+10 參見Johannes Masing, Post und Telekommunikation, in: Isensee/Kirchhof (Hrsg.),
+   Handbuch des Staatsrechts (HStR), Bd. IV, 3. Aufl., 2006, § 90 Rn. 16.
+11 參見Robert Uerpmann-Wittzack, Verkehr, in: Isensee/Kirchhof (Hrsg.), Handbuch
+   des Staatsrechts (HStR), Bd. IV, 3. Aufl., 2006, § 89 Rn. 5 ff., 41 f.
+12 2005年9月1日之加速落實公私協力及改善公私協力法律框架條件法(BGBl I S.
+86                                                        2011 行政管制與行政爭訟
+
+
+分學者將民營化趨勢與「訴求公私夥伴關係之基本共識」13相互連
+結，此種共識存於所有層次（聯邦、邦及地方自治團體），超越黨
+派，於全歐領域亦可見之14。與此同一方向的是目前擬議中的行政
+程序法修正草案，在此草案中，成立及規範公私夥伴關係之合作契
+約(Kooperationsverträge)，被置於法律的規範基礎之下15。法律有意
+促進公私夥伴關係的發展，印證了近20年來持續進行中的民營化趨
+勢，稱之為「民營化時代」(Zeitalter der Privatisierung)，殆有理
+也，諒非過言。
+
+      不過，時至今日，民營化時代可能已經過了頂峰，甚至可能已
+接近臨界點。至少在德國漸有觀念轉換及趨勢變遷的跡象16。例如
+「德國鐵路」大計劃的民營化已陷入停擺17 ，前述行政程序法中基
+於民營化之需要的修正案，即行政合作法，也停滯不前18。此外，
+在德國越來越多人鼓吹（再）國家化及（再）地方自治團體化19，
+
+
+     2676)。
+13 Michael Uechtritz/Olaf Otting, Das „ÖPP-Beschleunigungsgesetz“: Neuer Name,
+   neuer Schwung für „öffentlich-private Partnerschaften“?, NVwZ 2005, S. 1105 (1105
+   [Zitat], 1111).
+14 參見Hartmut Bauer, Verwaltungsverträge, in: Hoffmann-Riem/Schmidt-Aßmann/
+   Voßkuhle (Hrsg.), Grundlagen des Verwaltungsrechts, Bd. II, 2. Aufl., im Erscheinen,
+   § 36 Rn. 42 m.w.N.
+15 參見Heribert Schmitz, „Die Verträge sollen sicherer werden“ – Zur Novellierung der
+   Vorschriften über den öffentlich-rechtlichen Vertrag, DVBl. 2005, S. 17 (17 ff.).
+16 就此主要可參見Roland Schäfer提出的實務報告：Rekommunalisierung: Modetrend
+   oder neues Politikphänomen?, Öffentliche Finanzen, Sonderbeilage zur FAZ vom 19.
+   6. 2008, S. 3.「研討會活動」亦可視作一種變遷趨勢的徵象。再地方自治團體化
+   的問題，去年即是一系列學術研討會的議題和討論課題—例如2010年10月在
+   Speyer行政學大學、2011年4月在波茨坦大學地方自治學研究所、2011年6月在
+   Halle行政法論壇，以及2011年11月在Osnabrück大學地方自治法研究所 舉行之
+   研討會。關於前述及其他研討會的資料，可以從網路下載。
+17 參見Sina Stamm, Eisenbahnverfassung und Bahnprivatisierung, 2010, S. 234.
+18 其間一再被提出的修正案，迄今為止尚未通過；此一修正案雖仍有通過的機
+   會，但由於其他被列為優先的行政程序法修正法案，而遭到擱置（參見
+   Heribert Schmitz, Kooperationsverträge, in: Bauer/Büchner/Brosius-Gersdorf [Hrsg.],
+   Verwaltungskooperation, 2008, S. 51 [58 f.]）  。
+19 例如Peter Collin, Privatisierung und Etatisierung als komplementäre Gestaltungs-
+民營化時代的行政法新趨勢                                                                       87
+
+
+
+
+甚至有人提到再地方自治團體化的「現代趨勢」 20 或「未來走
+向」21。
+    「整體而言，當前對於市場力量的信賴似乎正在衰退當中，
+以及在民營化肥大症(Privatisierungseuphorie)之後，〔……〕應該可
+以察覺到傳統國家復興之需求」22。此點後續將再論及（VI）
+                            。
+
+     於此，首先介紹德國行政法上有關民營化之發展趨勢。由於討
+論範疇的廣度與問題領域的幅度23，本文僅能簡略處理若干民營化
+的重要議題，即民營化的概念、民營化的領域及民營化的動機
+（II）
+   ，民營化的類型及混合的表現型態（III）
+                      ，民營化過程之規範控
+制的調節樞紐（IV），以及民營化現實之法釋義體系化的基本觀
+點，也就是行政合作法（V）
+            。
+
+
+
+II. 民營化的概念、民營化的領域及民營化的動機
+
+1. 民營化的概念與相關任務領域的民營化
+     姑且不論法律條文中偶爾出現的用語24，與「民營化」概念相
+
+
+   prozesse, JZ 2011, S. 274 (274 ff.).; Christoph Brüning, (Re-)Kommunalisierung von
+   Aufgaben aus privater Hand – Maßstäbe und Grenzen, VerwArch 100 (2009), S. 453
+   (453 ff.).; Manfred Röber, Privatisierung adé?: Rekommunalisierung öffentlicher
+   Dienstleistungen im Lichte des Public Managements, Verwaltung & Management
+   2009, S. 227 (227 ff.).
+20 Schäfer (Fn. 16), S. 3.
+21 Hartmut Bauer, Verwaltungskooperation, in: Bauer/Büchner/Brosius-Gersdorf (Hrsg.),
+   Verwaltungskooperation, 2008, S. 9 (22 f.).
+22 Rolf Stober, Privatisierung öffentlicher Aufgaben, NJW 2008, S. 2301 (2301).
+23 除 註 2 以下所列文獻外，另可參見Martin Burgi, Privatisierung, in: Isensee/
+   Kirchhof (Hrsg.), Handbuch des Staatsrechts (HStR), Bd. IV, 3. Aufl., 2006, § 75
+   m.w.N.
+24 例如聯邦預算法第7條第1項（                   「於編列及執行預算時，應注意經濟性與撙節性
+   原則。基於此等原則，必須審查國家任務或公共服務之私經濟行為，在何種
+   範圍內得以透過分殊化、去國家化或民營化履行之。」） 及各邦預算法之類
+   似規定。
+88                                                        2011 行政管制與行政爭訟
+
+
+連結的是，公部門將以往自己處理的事務移轉到私人領域的各種現
+象，包括前階段的灰色地帶25 。因此，「民營化」此一關鍵詞，指
+涉公部門與私部門之間任務重分配的過程：民營化，指的是「傾向
+私人」的任務重分配過程。此一概念的理解方式，對於「行政為履
+行其任務是否僅運用私法組織型態（例如有限公司、股份有限公
+司），或者該任務是否由受公權力委託之私人或行政助手履行，或
+者該任務是否完全移轉到私部門（『去國家化』）等問題」26，保持
+開放。
+
+          國家任務的概念，亦具有類似的開放性。此間因「民營化界
+     27
+限 」的片面質疑而引發的論辯已然顯示，在國家任務的視角之
+下，原則上無法劃出某一任務領域，完全不得進行民營化。相反
+地，國家的任務狀態「憲法原則上是開放的」28。在德國，一般對
+於國家任務的概念29係採形式意義的取向，即凡屬國家及其所屬組
+織基於法律之授權或其他合法之方式所從事之公共任務30，皆為國
+家任務31。
+
+
+25 關於用語部分，以下參見Bauer (Fn. 3), S. 250 f.; Rainer Schröder, Verwaltungs-
+   rechtsdogmatik im Wandel, 2007, S. 148; Schoch (Fn. 5), S. 95; Friedrich Schoch,
+   Rechtliche Steuerung der Privatisierung staatlicher Aufgaben, Jura 2008, S. 672 (672
+   ff.); 關於定義之相關問題，詳參Kämmerer (Fn. 1), S. 16 ff. m.w.N.
+26 Schoch (Fn. 5), S. 95，對於概念的開放性，有詳盡的闡述。
+27 略可參見Hengstschläger (Fn. 3), S. 174 ff.；關於一再被認定為不得民營化的核
+   心秩序任務（聯邦軍隊、警察及秩序行政、司法行政及監獄行刑、財政行
+   政），參見Helmuth Schulze-Fielitz, Grundmodi der Aufgabenwahrnehmung, in:
+   Hoffmann-Riem/Schmidt-Aßmann/Voßkuhle              (Hrsg.),     Grundlagen       des
+   Verwaltungsrechts, Bd. I, 2006, § 12 Rn. 95，其指出非不得民營化的邊界領域。
+28 Osterloh (Fn. 3), S. 207；類似見解，早見於Ossenbühl (Fn. 3), S. 153。對於不得
+   民營化之必要國家任務，嘗試作實質界定的各種見解，參見Gramm (Fn. 2)教授
+   資格論文S. 23 ff.所列之參考文獻，以及Weiß (Fn. 2), S. 53 ff.；對此提出批評，
+   參見Burgi (Fn. 23), § 75 Rn. 2.
+29 BverfGE 12, 205 (243)；相同見解參見Burgi (Fn. 2), S. 41 ff.
+30 「其履行對於社會有高度利益」之任務，屬於公共任務(BVerfGE 38, 281
+   [299])。
+31 參見Burgi (Fn. 23), § 75 Rn. 2; Schoch (Fn. 5), S. 96; 尤其是行政任務，參見
+   Bauer (Fn. 3), S. 249 f.
+民營化時代的行政法新趨勢                                                              89
+
+
+
+
+     此種理解開啟可觀的民營化潛能，包括被認為是「特別敏感的
+民營化選項32」的領域。典型的例子是，治安的領域，此非國家的
+專屬任務，必要時，非不得經由分層負責之方式納入私人之力，以
+維護治安33—例如跟監、對平時及尖峰交通的監控等。類似情形
+亦發生在部分屬國家保留領域的生存照顧任務34。就此部分，聯邦
+行政法院曾將水利管理任務之履行，即涉及「全地區之重大公益的
+維護，如水質—地表水及地下水—的維護與保護」，定位為
+「民生必要且不得『民營化』的國家任務」35 ，惟此項見解遭到聯
+邦憲法法院36的否定。由此等事例可知，整個法領域中存有不得民
+營化事項的全稱性論述，無法成立；相反地，於實務上，在判斷個
+別民營化的方案時，恆須依各該相關規範作不同的詮釋。
+
+     因此，延續過去，民營化在諸多任務領域中，部分仍在今天持
+續的推動之中，且與人民日生活關係密切37：郵政、電信、航空安
+全、鐵路、醫療院所、監獄行刑、訴訟執行、廢棄物清理、污水處
+理、用水供應、能源供應、社會及文化設施（幼稚園、游泳池、劇
+院等）
+  、展覽會、市集及民俗慶典，乃至於危險排除，均屬之。
+
+2. 民營化的動機
+     民營化的預期目標，向有多端。拜 Erfurt 法律人年會舉辦之
+賜，此等預期目標再次被綜合整理而予表述38，但同時提出若干疑
+
+
+32 Stober (Fn. 22), S. 2301.
+33 參見Stober (Fn. 22), S. 2301 ff., 附相關文獻資料，以及使用民間保全從事治安
+   任務之眾多事例。
+34 Burgi (Fn. 23), § 75 Rn. 11.
+35 BVerwGE 106, 64 (77).
+36 BVerfGE 107, 59 (93 f.) 同時徵引其他類似的重要任務，例如廢棄物清理及能源
+   供應。
+37 當前情形之概述，參見Schoch (Fn. 5), S. 97 f.；關於1990年代初期受民營化浪潮
+   影響的各該領域，參見Bauer (Fn. 3), S. 245 ff.; jeweils m.w.N.
+38 Burgi (Fn. 4), S. D 24 ff.；近期文獻另參Hans J. Wolff/Otto Bachof/RolfStober/
+   Winfried Kluth, Verwaltungsrecht II, 7. Aufl., 2010, § 89 Rn. 30 ff.
+90                                                 2011 行政管制與行政爭訟
+
+
+慮。簡要述之，除了秩序政策上的考量外，可資一提的主要是：利
+用及吸收私人專業、民間創意、私人的行政潛能及私人資金、另闢
+財源及撙節支出，以及加強取法私經濟部門的行動模式與成就策
+略。不過，在此也存有若干重大疑慮，包括任務的怠於履行或不盡
+完善、法律拘束的弱化、民主控制的式微、為符私營利性而增加任
+務相關當事人間受領給付的成本，乃至於形成寡佔或獨佔之經濟文
+化。
+
+     單從上述表象上的正反意見對立，即顯示出在法政策上尚乏可
+一般化的全稱表述。相反地，在決定各種具體的民營化方案時，應
+進行合乎任務、事理及情狀的個案分析，各主管機關應在此基礎
+下，依照各該領域法秩序框架39，決定民營化方案的實施40。
+
+
+
+III. 民營化的類型化、混合形式、區辨與合體
+
+1. 類型化的表現形式
+     經由類型化有助於民營化的決定41，這些類型之形成，係觀照
+行政實務上之民營化現象，歸整而為民營化的基本類型42。依民營
+
+
+39 關此參見註74。
+40 此一方向之見解，早見於Schoch (Fn. 9), S. 966 f.; Bauer (Fn. 3), S. 258.
+41 不過，在泛無邊際的民營化議題的論辯之下，此種藉由類型化以減輕理解上負
+   擔的作法，逐漸相對化，蓋在此等論辯中一再有事實上或設想上的新類型被提
+   出討論。除了上述的主要類型之外，此間有關民營化的討論，另有9種類型與
+   10種類型的區分（參見Burgi [Fn. 4], S. D 29 m.w.N.）當前「居冠者」大概是不
+   下13種（！）的民營化類型(Gregor Kirchhof, Rechtsfolgen der Privatisierung,
+   AöR 132 [2007], S. 215 [230 f.])。
+42 這些類型已散見於行政法總論的教科書文獻資料中—但分類方式不一。本文
+   之整理係本於Hartmut Maurer, Allgemeines Verwaltungsrecht, 18. Aufl., 2011, § 23
+   Rn. 60 ff.，其為德國目前通用之分類。與此不同者，例如Burgi (Fn. 4), S. D 32
+   ff., 氏提出「新觀點」，並且倡導以問題取向及歐洲法取向的民營化四種選項
+   （[1]任務民營化、[2]以契約為基礎之公私夥伴關係及功能民營化的其他方式、
+民營化時代的行政法新趨勢                                         91
+
+
+
+
+化的標的，可區分為四種基本類型，即財產民營化、組織民營化、
+任務民營化及所謂功能民營化。以下分論之：
+   a) 財產民營化
+   財產民營化，指公部門之財產權及其他具有財產價值之物，例
+如土地、財產持分等，移轉到私經濟部門或產業。隨著民營化而一
+併出售之整套附件，其所得資產悉歸屬於公部門，但僅具有一次性
+效應，蓋私人取得該財產之後，所有財產價值不再屬於國家。因
+此，初看之下，財產民營化「並無特殊之行政法上問題」
+                        ，「尤其沒
+有後續問題」43。
+   b) 組織民營化
+   被稱為「形式民營化」的組織民營化，仍維持在各該任務主體
+（聯邦、邦、地方自治團體等）的既有任務範疇內。任務主體為處
+理其各自的任務，成立私法組織，作為自營公司44。在行政實務上
+常見的法律形式，主要是有限公司及股份有限公司，其通常45以私
+法行為形式履行其主管的任務。依事物之性質，組織民營化在地方
+自治法上素有傳統，而於民營化的浪潮下，在民生供應及清除等方
+面（飲用水、能源、污水、廢棄物等）復有進一步的運用。此種民
+營化型態的優點是，私法的高效率、免除預算法上與公務員薪俸法
+上的拘束，以及責任的有限性46。
+
+
+
+
+   [3]制度化的公私夥伴關係，以及[4]合致性評估之公權力委託及授權）              ；對於此
+   種分類之批評，參見Schoch (Fn. 5), S. 110 ff.
+43 Maurer (Fn. 42), § 23 Rn. 64. 不過，細究財產民營化的實務，可知此種民營化亦
+   有後果問題。除財產民營化之情形外，於此亦涉及民營化契約上所欲確保之公
+   益問題；關此，參見下述III. 2.
+44 此所謂之自營公司，全由公部門所有，反之，所謂的公私合營企業，則有私法
+   主體以股東身分參與其中；嚴格而言，公私合營企業因有私人之參與，已屬一
+   種混合模式。
+45 另一種可資考量、實務上亦可見之型態是，私法主體受委託行使公權力。
+46 Maurer (Fn. 42), § 23 Rn. 61.
+92                                                      2011 行政管制與行政爭訟
+
+
+
+      c) 任務民營化
+       有「實質民營化」之稱的任務民營化，國家，確切地說：現有
+的任務主體（聯邦、邦、地方自治團體等），完全退出任務的履
+行，並將該任務交給私部門從事，也就是移轉給在競爭條件下於市
+場活動的私經濟主體。任務民營化有相當大的運用領域，在此，本
+文僅能舉出若干地方自治領域中行政主體退出文化及社會機構及設
+施（劇院、圖書館、幼稚園、運動場等）及道路交通的例子。任務
+民營化的主要目的是希望能為日益緊縮之公預算減輕負擔，同時
+「期望該任務在自由經濟競爭下，可以更完善、更有效率且撙節支
+出的遂行47」
+      。
+      d) 功能民營化
+       在此其間，同時被認定是一種履行方式民營化 48 的功能民營
+化，究實而言，涉及的是部分民營化，也就是任務之部分民營化的
+一種態樣。在功能民營化之下，該任務雖仍屬國家任務主體（聯
+邦、邦、地方自治團體等），但將私人納入任務的履行中。從事絕
+大部分任務履行（例如建築物、設施、街道等之計畫、融資、建
+設、營運及維護）的民間企業，通常是在私法領域以「行政助手」
+的地位為之49。在此方面，業已存有公私夥伴關係的多種模式，在
+過去廣受運用50。除了財政支出上的撙節外，一般寄望可以透過此
+種合作關係，利用民間企業的專業能力、自發創意及設施設備；不
+過，相對而言，如何確保私人之「履行輔助」得以順遂的處理任
+務，仍有特殊、部分異常複雜的後續問題。此點後續將再論及。
+
+
+
+47 Maurer (Fn. 42), § 23 Rn. 63.
+48 關此，以下主要參見Maurer (Fn. 42), § 23 Rn. 62.
+49 於公權力委託之情形，私人掌有法律賦予或依法律授予之公法權限。
+50 關於將公私夥伴關係歸入功能民營化之範疇，參見Peter J. Tettinger, Public
+     Private Partnership, Möglichkeiten und Grenzen – ein Sachstandsbericht, NWVBl.
+     2005, S. 1 (1 ff.).
+民營化時代的行政法新趨勢                                                                   93
+
+
+
+
+2. 混合形式、區辨與合體
+     以上四種基本類型有助掌握繁雜多樣的民營化，但也因其理想
+型上的短絀而認識價值有限。因為，在民營化的實務上，多半是以
+混合形式出現，因而有進一步細分的必要，並且辨識其合體相疊之
+處。在此，僅能舉出數例闡明之。
+
+  — 從實證的角度以觀，財產民營化絕非如其表象所示，「毫無
+        問題」51。姑且不論，多數情形僅涉及部分的財產民營化52，
+        而且民營化的後續責任53亦多繼續存在，於行政實務上，主
+        要是存在以下的情況，公部門之所以移轉財產，遠非只為獲
+        取出售利潤，毋寧是為了確保一定目的之遂行，例如社會目
+        的。顯而易見且政治上頗具爭議的例子是，目前正陷入困境
+        的「德勒斯登社會約款」(Dresdner Sozialcharta)。薩克森邦
+        首都德勒斯登原本想要透過此一約款，確保地方政府將公有
+        住宅予以民營化在社會上的可接受度54。2006年，德勒斯登
+        市將其所有的「德勒斯登不動產有限公司」的股份賣給美國
+        的投資公司。這宗在當時登上德國頭條新聞的交易，為德勒
+        斯登的市庫賺進大約9億8,200萬歐元，德勒斯登市將該筆進
+        帳大部分用於清償債務；德勒斯登市可說是「一舉」無債一
+        身輕。至於當時住在這些市有住宅的承租人的保護，則是透
+
+
+51 參見上述註43。
+52 此種情形主要是，國家將其原本百分之百持有的股份部分出讓給人民，再以公
+   私合營企業之方式運作，其內部則有主控問題（參見Schoch [Fn. 5], S. 106)，在
+   此之外，尚包括先組織民營化而附有後續（部分）財產民營化選項之情形（如
+   基本法第87e條第3項明定之聯邦鐵路）                  。
+53 Bauer (Fn. 3), S. 279；另參Burgi (Fn. 23), § 75 Rn. 3 f., 28 f.
+54 關於2005年9月22日市府決議出售德勒斯登不動產有限公司含社會約款及進一
+   步相關資料，可從德勒斯登市以下網址下載：http://www.dresden.de/de/02/110/02/
+   verwaltungsgeschichte/08_woba_verkauf.php 以 及 http://www.dresden.de/media/pdf/
+   infoblaetter/Beschluss_SR_220905_WOBA.pdf；另請參見：http://de.wikipedia.org/
+   wiki/Woba_Dresden. 對於社會約款的相關批評以及社會約款的「安慰劑性
+   格」  ，參見Stefan Kofner, Kommunale Wohnungspolitik, WM 2010, S. 20 (23 ff.).
+94                                                         2011 行政管制與行政爭訟
+
+
+        過與私人投資公司的租約中納入「社會約款」予以確保 55。
+        然而，很顯然的是，「社會約款」原本預期的目標並未達
+        成，主要可以歸因於民營化契約中之條款不夠明確，導致該
+        年初即發生以私人投資者為被告的上億求償訴訟56。由此顯
+
+55 社會約款主要包含社會目標（第2點）
+                   、都市建設目標（第4點）
+                              、經濟目標（第
+   5點）以及勞工保護（第3點）等規定。不過，居於首位者，為承租人保護（第
+   1點）。其中如既有租賃契約中有利於承租人之規定應「嚴格」遵守，不得規
+   避；此外，於個別契約上應確保60歲以上承租人終身居住權，但奢侈設備除
+   外。在5至10年不等期間內租金漲價受到限制，而且在個別契約中必須確保承
+   租人在10年之內不會因為出租人自用或經濟情況不佳而解除契約。再者，社會
+   約款規定，所謂的承租人民營化優先於出售給非承租人（第1.5點）                                           （【譯註】即
+   承租人有優先承買權）。據此規定，首先須向承租人提出低於市價約15%的出
+   售價金之要約。在將住宅或持分轉賣給第三人時，德勒斯登不動產有限公司有
+   義 務 透 過 契 約 確 保 買 受 人 必 須 遵 守 社 會 約 款 之 規 定 （ 第 6.2 點 ）； 另 參
+   Landeshauptstadt Dresden, Präsentation zum Thema Woba-Verkauf vom 18. 8.
+   2005，此份資料於以下網址可以下載：http://www.dresden.de/media/pdf/haushalt/
+   praesentation_zum_woba_verkauf.pdf；關於社會約款於契約上之轉換、契約罰則
+   及其他相關法律上保護規定，參見Ralf Lunau, Dresdner Sozialcharta vertraglich
+   gesichert, Dresdner Blätt`l 4/2006，可自以下網址下載：http://www.dresdnerblaettl.
+   de/2006/04/0701.htm；關於社會約款的「安慰劑性格」                         ，參見Kofner (Fn. 54), S.
+   23 ff.
+56 根據媒體報導，民營化契約中條款之不明確，主要是承租人先買權的先買價
+   格，依照民營化契約，該價格含約定之罰則，還必須提供給後續可能之買受
+   人。由於（據稱）未遵守上述債法上之約定，德勒斯登不久前對德勒斯登不動
+   產有限公司東南分公司、德勒斯登不動產有限公司西北分公司提起訴訟，並向
+   德勒斯登不動產有限公司提請仲裁，同時向「蝗蟲」訴請給付超過10億歐元的
+   違約金。據稱，這些住宅於出賣時並未先向承租人提出要約，且於讓售給第三
+   人時，並未將社會約款所定之義務載入買賣契約中；參見Stefan Kofner, Gagfah:
+   Verfall eines Wohnungsunternehmens, WuM 2011, S. 205 (205 ff.); Ralf Redemund,
+   Gagfah will Milliarden-Klage der Stadt vermeiden – vor Gericht droht „fürchterliches
+   Blutbad“, DNN-Online vom 17. 3. 2011，可自以下網址下載：http://www.dnn-
+   online.de/dresden/web/dresden-nachrichten/detail/-/specific/Fristverlaengerung-Gagfah-
+   will-Milliarden-Klage-der-Stadt-vermeiden-1262480155; Sozialcharta-Klage gegen
+   Gagfah, n-tv online vom 1. 4. 2011，可自以下網址下載：http://www.n-tv.de/
+   wirtschaft/Dresden-fordert-1-Milliarde-Euro-article2997076.html; Peter Schilder,
+   Häuserkampf in Dresden, F.A.Z. vom 24. 3. 2011，可自以下網址下載：http://www.
+   faz.net/aktuell/wirtschaft/unternehmen/48-000-verkaufte-wohnungen-haeuserkampf-
+   in-dresden-1612925.html; Thiemo Heeg, Der Dresdner Wohnungsstreit eskaliert,
+   F.A.Z. vom 13. 6. 2011，可自以下網址下載：http://www.faz.net/aktuell/wirtschaft/
+   unternehmen/immobilienunternehmen-gagfah-der-dresdner-wohnungsstreit-eskaliert-
+   13102.html.
+民營化時代的行政法新趨勢                                                                        95
+
+
+
+
+        示，初時順利的財產民營化過程，可能在轉瞬間演變成複雜
+        的問題。
+
+  — 類似的情形也發生在組織民營化身上，在實務上，此類民營
+        化可以帶來高度複雜的情況。範例是1990年代後期進行的柏
+        林水事業處57的部分民營化。柏林水事業處原本是具有權利
+        能力的公營造物機構，其任務是供應柏林市的用水與污水處
+        理。經由部分民營化，在法律的基礎下，透過一份綜合多項
+        私法契約的複雜文件，該機構在持股模式下，併入某一私法
+        企業，該股份公司的持分為49.9%，其餘50.1%仍歸柏林市所
+        有。結果「柏林水事業處模式」58一再地成為法院爭訟的標
+        的，爭訟之點主要涉及難以理解的錯雜契約條款，特別是受
+        憲法支配的契約形成問題59。
+
+  — 同樣在任務的民營化，主要亦多是部分民營化60：
+                          「只有極少
+        數情形—主要在地方—公任務才會全部移轉到私部
+        門」61。尤其是在許多領域普遍運用的公私夥伴關係，從定
+        義上來看，公任務主體（聯邦、邦、地方自治團體等）即仍
+
+
+57 於柏林因部分民營化而進行的水事業結構改組，一再地成為柏林邦憲法法院受
+   理的憲法爭訟事件(VerfGH, NVwZ 2000, S. 794 (794 ff.); ferner Beschluss vom 21.
+   10. 1999, VerfGH 71/99; Urteil vom 6. 10. 2009, VerfGH 63/08; Urteil vom 14. 7.
+   2010, VerfGH 57/08; zitiert nach juris)，迄今仍為眾所爭議的課題；文獻上相關
+   見解，參見Benedikt Wolfers, Privatisierung unter Wahrung der öffentlich-rechtlichen
+   Rechtsform: Der Modellfall Berliner Wasserbetriebe, NVwZ 2000, S. 765 (765 ff.);
+   Jan Hecker, Privatisierung unternehmenstragender Anstalten des öffentlichen Rechts,
+   VerwArch 92 (2001), S. 261 (261 ff.); Arndt Schmehl, Teilprivatisierung der
+   Daseinsvorsorge, Demokratieprinzip und Gewinnerzielungsmaxime – BerlVerfGH,
+   NVwZ 2000, 794, JuS 2001, S. 233 (233 ff.).
+58 Wolfers (Fn. 57), S. 765.
+59 參見VerfGH Berlin, NVwZ 2000, S. 794 (796)，據此判決，基於民主原則之要
+   求，柏林邦的指示影響權，唯有在以下的條件下，始能獲得確保，即「在形成
+   具體之企業契約條款時，必須維持一定必要程度之決定的民主正當性。」
+60 當然，此一評估於某種範圍內，因個別任務領域的樣態多少不同而有所差異。
+61 Schoch (Fn. 5), S. 105 附帶指出，任務民營化「始終具有部分民營化的特徵」                                。
+96                                                              2011 行政管制與行政爭訟
+
+
+          主其事 62。各種的合作模式63多半是以契約為基礎，結合各
+          種契約類型，這些契約內容的形成，可以為民營化的實務帶
+          來諸多問題。
+
+       以上這些事例相對化了民營化類型的表述能力，同時也彰顯出
+民營化過程的複雜性。不過，於此須格外注意者，儘管民營化標的
+的差異性，但上舉事例共同指向一個共通的阿基米得問題點，也就
+是民營化過程的契約設計、契約形成及必要備置。
+
+
+
+IV. 民營化過程規範操控的調節樞紐
+
+1. 民營化作為一種程序
+       對於民營化過程的規範操控64，進行合於事理的體系架構，合
+宜的作法65是將民營化理解為一種程序66。此種程序的構想將視野
+予以擴大，在長期以來過於側重何種任務領域具有民營化適格的問
+題（「是否」民營化67）之外，將眼光放在民營化的（「如何」）方
+
+62 就此，以下主要參見Bauer (Fn. 14), § 36 Rn. 42 ff.
+63 例 如 參 見 Peter J. Tettinger, Die rechtliche Ausgestaltung von Public Private
+     Partnership, DÖV 1996, S. 764 (764 ff.); Tettinger (Fn. 50), S. 1 ff.
+64 關於行政法上討論之起始方向，參見Gunnar Folke Schuppert, Verwaltungs-
+   rechtswissenschaft als Steuerungswissenschaft, in: Hoffmann-Riem/Schmidt-Aßmann/
+   Schuppert (Hrsg.), Reform des Allgemeinen Verwaltungsrechts: Grundfragen, 1993, S.
+   65 (65 ff.); 關於在弗萊堡舉行之國家法教授年會上針對行政法學作為操控學之
+   意涵論辯，在此其間被過度強調、且過於偏向國家法教授協會之立場，參見Ivo
+   Appel 及 Martin Eifert針對第三主題「傳統釋義學理解與操控學訴求下之行政
+   法」所提出之報告，以及緊接在後的討論，載於：VVDStRL 67 (2008), S. 226
+   ff., 286 ff., 334 ff.；相關問題，另可參見在此之前由Matthias Schmidt-Preuß 及
+   Udo Di Fabio在德勒斯登舉行之國家法教授年會上針對主題「社會自律與國家
+   操控下之行政與行政法」提出之報告，載於：VVDStRL 56 (1997), S. 160 ff.,
+   235 ff.
+65 主要參見Schröder (Fn. 25), S. 152.
+66 關於此種建議，參見Bauer (Fn. 3), S. 254.
+67 在此指的是「是否」具備民營化之適格性，首要問題是何種任務得為民營化或
+民營化時代的行政法新趨勢                                                                    97
+
+
+
+
+式上，以及在多階段進行的民營化過程。據此，至少有三種發展階
+段應予特別觀察，即民營化的預備階段、民營化的決策階段及民營
+化之後的階段。
+
+2. 若干規範上操控取向舉隅
+     整體觀察，民營化過程的規範調控，各種法位階均有，條文眾
+多，層層規定：國際法、歐盟法68、聯邦及邦之內國憲法、內國行
+政法，還有民法、刑法上之規範。因此本文只能侷限在若干調控規
+範。
+
+     規範上調控可以在決定「是否」民營化的階段，並且將行政導
+引到民營化的方向。例如德國的預算法規定69，在決定進行何種民
+營化的前階段，基於經濟性與撙節性的考量，必須「審查國家任務
+或公共服務之私經濟行為，在何種範圍內，得以透過分殊化、去國
+家化或民營化履行之」。此種審查義務及說理負擔，足以在決策的
+階段產生某種程度的民營化壓力，縱使該規定並未課予具體的民營
+化義務。此種民營化誘導規定，以較不嚴格的規範方式，亦見諸於
+專門法律中，於此類規定中，立法者僅宣示與私人合作的法律上選
+項，俾以啟發並促使行政部門考量是否成立公私夥伴關係70。
+
+     規範上的指引亦見於民營化決策自身 71 。首先是民營化的要
+
+
+   禁止民營化，也就是民營化的選項及其界限；參見前述註27。
+68 特別是關於歐盟法的部分，目前主要有以下的見解：嚴格從「法律以觀
+   〔……〕，各成員國所推動的民營化本身無關宏旨」（參見Schoch [Fn. 5], S.
+   111）
+      。不過，經過詳細的研究早已證實，各種民營化的過程均受到歐體法及歐
+   盟法之拘束，且必須符合基本自由及歐洲救助法及採購法之要求及指令。歐近
+   期見解主要參見Danwitz (Fn. 4), S. M 27 ff.
+69 註24。
+70 例如水資源管理法（水利法 – WHG）第56條第3句規定，負責廢水處理之地方
+   自治團體得「使用私人，履行其義務」。關於與此相關之前身規定的立法意
+   旨，參見Hartmut Bauer, Privatisierungsimpulse und Privatisierungspraxis in der
+   Abwasserentsorgung – Eine Zwischenbilanz, VerwArch 90 (1999), S. 561 (563 ff.).
+71 例如參見Burgi (Fn. 4), S. D 52 ff.
+98                                                      2011 行政管制與行政爭訟
+
+
+求，基本法僅在關於郵政及鐵路的規定中，提及若干必須要民營化
+的要例 72 ，其餘部分則以普遍性的規定，保持中立的態度。同樣
+的，在憲法條文中也找不到禁止民營化的規定。儘管在國家組織法
+上多半是民營化中立的立場，然越來越多見解強力主張，基本法絕
+無一般所謂「近乎絕對不得民營化的國家權力獨佔核心領域」73。
+此點亦適用在地方自治行政的保障上74，但不排除對於「如何」民
+營化的方式設有憲法上要求。此外，個別行政法中的專門法律通常
+亦設有特別規定，指示具體的任務範圍及涉及該領域的民營化可能
+性75。與此相關的還有對於地方經濟活動的規範上備位性原則，此
+一原則在過去已被用來作為立法者調控民營化及在地方自治團體化
+過程的核心樞紐，如今則又再次被提出來運用76。
+
+
+72 基本法第87e條第3項、第143條第1項。
+73 Schröder (Fn. 25), S. 155 f.
+74 特別是以鄉鎮地方自治權作為禁止（屬於自願性地方自治事項） 「傳統上具重
+   要性之」耶誕市集民營化的憲法依據的嘗試(BVerwG, BayVBl 2010, S. 376 [376
+   ff.])，不具說服力；相關批評，主要參見Friedrich Schoch, Das gemeindliche
+   Selbstverwaltungsrecht gemäß Art. 28 Abs. 2 Satz 1 GG als Privatisierungsverbot?,
+   DVBl. 2009, S. 1533 (1533 ff.). 義務性之地方自治事項固然不得為完全之任務民
+   營化；但在此領域仍容許透過私人履行行政任務之部分民營化。
+75 因此，對於相關法律進行（部分跨領域）之細部分析，乃有其必要；例如關於
+   廢水處理法上部分及全部民營化的選項，參見Bauer (Fn. 14), § 36 Rn. 124 f.
+76 除其他要件外，備位性原則係地方自治團體從事經濟活動之另一要件。根據此
+   項原則，地方自治團體僅能於較有效履行該任務時，方得從事經濟活動。如果
+   私人從事該任務之成本較為有利者，原則上應由私人優先為之，並將該任務讓
+   諸私人從事。私人與地方自治團體如皆可同等完善從事該任務者，地方自治團
+   體得否從事經濟活動，則視各該地方自治團體有關經濟活動限制規定究屬真正
+   或不真正之備位性條款而定。於前者之情形，系爭任務之履行不得「與由私人
+   同樣完善且經濟」，亦即，鄉鎮必須證明由其從事該任務較之由私人為之更具
+   效率優點（例如Baden-Württemberg, Bayern, Brandenburg, Hessen, Mecklenburg-
+   Vorpommern, Niedersachsen, Rheinland-Pfalz, Saarland及Thüringen等邦之規定
+   [Baden-Württemberg邦鄉鎮制度法第102條第1項第3款、Bayern邦鄉鎮制度法第
+   87條第1項第1句第4款、Brandenburg邦地方制度法第91條第3項、Hessen邦鄉鎮
+   制度法第121條第1項第3款、Mecklenburg-Vorpommern邦地方制度法第68條第2
+   項第3款、Niedersachsen邦地方制度法第136條第1項第2句第3款、Rheinland-
+   Pfalz邦鄉鎮制度法第85條第1項第3款、Saarland邦地方制度法第108條第1項第3
+   款及Thüringen邦地方制度法第71條第1項第4款]）                    。因此，除有其他民營化需求
+   之例外情形外，於服務同等性之情形，地方自治團體即不得從事該經濟活動。
+民營化時代的行政法新趨勢                                                                       99
+
+
+
+
+     除了在此無法深論的任務移轉階段77外，另一重要的規範重點
+是針對民營化之後的階段，在此階段國家對於該任務的責任仍可能
+繼續存在。有一項對於民營化過程進行程序取向的研究分析78，該
+研究的重要成果特別強調此一觀點。在此其間，經過長年的論辯，
+已然澄清的是，民營化的結果不必然是國家的完全退出。相反的，
+國家對於公共事務的責任仍然存在，在諸多領域中，國家對於任務
+的正常履行，至少負有擔保義務(Gewährleistungspflicht) 79，此一義
+
+
+   此種「嚴格」備位性原則之立法宗旨，在於限制公部門從事經濟活動，強調由
+   私人提供服務之優先性，參見NRW LT-Drucks. 14/3979, S. 2, 149; BW LT-Drucks.
+   12/5615, S. 18. 反之，於不真正備位性條款之情形，亦即該任務目的之達成，
+   若由私人為之「並非較為完善且經濟」者，則於服務同等性時，私人經營不應
+   具有優先性（例如Nordrhein-Westfalen, Sachsen, Sachsen-Anhalt 及Schleswig-
+   Holstein等邦之規定 [Nordrhein-Westfalen邦鄉鎮制度法第107條第1項第3款、
+   Sachsen邦鄉鎮制度法第97條第1項第3款、Sachsen-Anhalt邦第 116條第1項第1
+   句第3款及Schleswig-Holstein邦鄉鎮制度法第101條第1項第3款])。此種「寬
+   鬆」備位性條款之目的，在於促使鄉鎮之經濟活動，蓋此等活動「向來即屬地
+   方自治行政之本質」且「具有特定之類型」                      ，參見BW LT-Drucks. 12/4055, S. 23
+   f. 近 來 ， 此 一 觀 點 在 Brandenburg 邦 扮 演 重 要 角 色 。 2010 年 1 月 20 日 ，
+   Brandenburg邦議院支持以地方自治團體從事公共生存照顧的作法，並要求邦政
+   府應為此設定必要的框架條件，參見Bbg LT-Drucks. 5/332-B。藉由「強化地方
+   生存照顧法」的頒訂，以排除Brandenburg 邦地方制度法第91條第3項嚴格備位
+   性條款所造成的不必要障礙，同時擴大地方從事經濟活動的可能性。據謂，地
+   方自治團體的經濟活動，乃地方自治保障之重要要素，確保地方得以在自我負
+   責之下履行其任務，亦即得以決定「是否」及「如何」履行其任務。就此而
+   言，公部門相對於私人居於後位，並不合理；詳見Bbg LT-Drucks. 5/3023。對
+   於部分執政黨而言，備位性條款作為地方從事經濟活動的限制，似乎只是一種
+   恣意的可調節螺絲。此點顯示在Nordrhein-Westfalen 邦不同版本之備位性條款
+   的比較。在紅執政或紅綠執政時期，並無私經濟優先條款，也就是迄2007年10
+   月16日之前Nordrhein-Westfalen邦鄉鎮制度法第107條第1項第3款為不真正的備
+   位性條款。2005年，政黨輪替為黑黃執政，也因此而促使備位性條款的修正。
+   2007年公布的「地方自治強化法—鄉鎮制度改革法」                             ，改採嚴格的真正備位性
+   條款，參見LT-Drucks. 14/3939, 14/4981。然而此一規定維持不久，2010年政黨
+   輪替恢復紅綠執政，另頒「鄉鎮經濟權恢復法」                          ，使鄉鎮制度法第107條所定之
+   鄉鎮經濟權又回到200年之前不真正備位性條款的法制狀態，參見LT-Drucks.
+   15/27, 15/867.
+77 例如參見Bauer (Fn. 3), S. 272 ff.; Schröder (Fn. 25), S. 155 f.; Burgi (Fn. 4), S. D 92
+   ff.
+78 參見前述IV. 1.
+79 關於當前民營化浪潮的肇始，參見Bauer (Fn. 3), S. 268 ff., 274 ff., 277 ff. 附相關
+100                                                       2011 行政管制與行政爭訟
+
+
+務於各該領域容有不同，通常須賴專門法律予以具體化。在新的郵
+政及鐵路基準法中，此種擔保義務甚至被明文規定80。抑且，國家
+對於民生重要需求的確保義務，可以追溯到憲法原則及國家對基本
+權利的保護義務，其於諸多領域—如前所述—通常須經法律予
+以具體化81，或者由參與其事者在法的基礎下自己形成之。以上這
+些規範上指示的具體化與實踐，可說已為法制實務帶來「繁難的工
+作」
+ 。
+
+
+
+V. 對於法律所形成之民營化現實作體系歸整的
+   基本觀點
+
+1. 行政法學上的革新動力
+       如何處理以上的困難，對於行政法學而言，亦不容易。對於法
+律所形成之民營化現實進行體系上的歸整，行政法學顯然遭遇了一
+些問題。對於部分學者來說，源自傳統學說及後續經驗知識的現代
+行政法學，儘管在此其間已有多方進展，似乎已經不具足以應付民
+營化新課題的能力。面對事實上或觀念上已然過狹的傳統行政法思
+維之緊身衣，以下的關鍵詞82或許可以提供脫解之路，此等關鍵詞
+有些不再只是流行口號，因而相當適於作為拓建體系之用。
+
+
+
+      早期文獻資料，近期討論，參見Burgi (Fn. 4), S. D 94 ff. 附相關文獻資料。
+80 基本法第87e條第4項、第87f條第1項。
+81 基於憲法之意旨，此點適用於註80提及的兩種典型類型。關於確保委託（【譯
+   註】即憲法上之國家確保義務）之證立理由與基本內涵及其有賴法律形成的關
+   係，參見Hermann Butzer, Sicherstellungsaufträge, in: Isensee/Kirchhof (Hrsg.),
+   Handbuch des Staatsrechts (HStR), Bd. IV, 3. Aufl., 2006, § 74 Rn. 23 ff., 38 ff. 同時
+   援引歐盟法為依據。
+82 參見Andreas Voßkuhle, Neue Verwaltungsrechtswissenschaft, in: Hoffmann-Riem/
+   Schmidt-Aßmann/Voßkuhle (Hrsg.), Grundlagen des Verwaltungsrechts, Bd. I, 2006,
+   § 1 Rn. 40 f.
+民營化時代的行政法新趨勢                                                                          101
+
+
+
+
+          「基礎建設行政法83」
+      簡而言之：         、「民營化後續處理法84」
+                                、「行
+政公司法 85 」、「行政合作法 86 」、「擔保行政法 87 」、「招標行政
+法88」、「管制行政法89」等，或許還有「服務行政法90」，凡此符碼
+標舉出可能的改革需求，並且結合相關的國家圖像（「合作國
+家」 91、「管制國家92」、「擔保國家93」、「服務國家94」），展現出高
+
+
+
+83 參見Heiko Faber, Verwaltungsrecht, 3. Aufl., 1992; Georg Hermes, Staatliche
+   Infrastrukturverantwortung, 1998.
+84 參見Bauer (Fn. 3), S. 279 (Privatisierungsfolgenverantwortung); Jörn Axel Kämmerer,
+   Verfassungsstaat auf Diät?, JZ 1996, S. 1042 (1047 ff.); Kämmerer (Fn. 1), S. 423 ff.;
+   Martin Burgi, Kommunales Privatisierungsfolgenrecht: Vergabe, Regulierung und
+   Finanzierung, NVwZ 2001, S. 601 (601 ff.).
+85 概念形塑，參見Ernst Thomas Kraft, Das Verwaltungsgesellschaftsrecht, 1982；近
+   期文獻，例如Thomas von Danwitz, Vom Verwaltungsprivat- zum Verwaltungs-
+   gesellschaftsrecht, AöR 120 (1995), S. 595 (595 ff.); Walter Krebs, Notwendigkeit
+   und Struktur eines Verwaltungsgesellschaftsrechts, Die Verwaltung 29 (1996), S. 309
+   (309 ff.)；批評見解，Thomas Mann, Die öffentlich-rechtliche Gesellschaft, 2002,
+   insbesondere S. 269 ff.; Thomas Mann, Kritik am Konzept des Verwaltungs-
+   gesellschaftsrechts, Die Verwaltung 35 (2002), S. 463 (463 ff.).
+86 Gunnar Folke Schuppert, Jenseits von Privatisierung und „schlankem“ Staat:
+   Vorüberlegungen zu einem Konzept der Staatsentlastung durch Verantwortungs-
+   teilung, in: Gusy (Hrsg.), Privatisierung von Staatsaufgaben: Kriterien – Grenzen –
+   Folgen, 1998, S. 72 (111 f.); Hartmut Bauer, Zur notwendigen Entwicklung eines
+   Verwaltungskooperationsrechts – Statement, in: Schuppert (Hrsg.), Jenseits von
+   Privatisierung und „schlankem“ Staat, 1999, S. 251 (251 ff.).
+87 Voßkuhle (Fn. 3), S. 307 ff.; Friedrich Schoch, Gewährleistungsverwaltung: Stärkung
+   der Privatrechtsgesellschaft?, NVwZ 2008, S. 241 (241 ff.); Burgi (Fn. 4), S. D 101 ff.
+88 Burgi (Fn. 4), S. D 102.
+89 例如Matthias Ruffert, Regulierung im System des Verwaltungsrechts, AöR 124
+   (1999), S. 237 (237 ff.); Johannes Masing, Stand und Entwicklungstendenzen eines
+   Regulierungsverwaltungsrechts, in: Bauer/Huber/Niewiadomski (Hrsg.), Ius Publicum
+   Europaeum, 2002, S. 161 (161 ff.); Johannes Masing, Soll das Recht der Regulierungs-
+   verwaltung übergreifend geregelt werden?, Gutachten D für den 66. Deutschen
+   Juristentag, 2006; Michael Fehling/Matthias Ruffert (Hrsg.), Regulierungsrecht, 2010.
+90 Franz Reimer, Qualitätssicherung, Grundlagen eines Dienstleistungsverwaltungsrechts,
+   2010.
+91 概念形塑，參見Ernst-Hasso Ritter, Der kooperative Staat, AöR 104 (1979), S. 389
+   (389 ff.).
+92 早期見解，參見Edgar Grande, Entlastung des Staates durch Liberalisierung und
+   Privatisierung?, in: Vogt (Hrsg.), Abschied vom Staat – Rückkehr zum Staat?, 1993, S.
+102                                                     2011 行政管制與行政爭訟
+
+
+度的啟發力。這些新的啟發，再結合其他的現代化動力，或許可以
+支持「新行政學」的昭示，但仍應僅「止於行政法的研究」95。
+
+      然而，前述關鍵詞並不傾向鉅細靡遺的縝密體系結構，後者為
+行政法總論發展出體系的形（重）塑力或正當化「新行政學」的訴
+求，更不消說可能取而代之96。大部分的情形，學者使用這些「關
+鍵詞」毋寧持相當保留的態度，例如使用服務行政法概念，主要強
+調其具有教育功能97；使用管制行政法概念，僅論及該特殊領域的
+部分釋義體系98；使用招標行政法概念，用以強調該傳統之行政法
+領域，在民營化的趨勢下產生結構上的進展，其重要性大增99，同
+時涵蓋傳統上非屬民營化領域的行政輔助事務100 。基礎建設行政
+
+   371 (388 f.)；近期例見Gunnar Folke Schuppert, Verwaltungswissenschaft, 2000, S.
+   383.
+93 例如 Matthias Knauff, Der Gewährleistungsstaat: Reform der Daseinsvorsorge, 2004.
+94 Andreas Voßkuhle, Der „Dienstleistungsstaat“: Über Nutzen und Gefahren von
+    Staatsbildern, Der Staat 40 (2001), S. 495 (495 ff.).
+95 Voßkuhle (Fn. 82), § 1 Rn. 1, 71.
+96 「新行政法學」完全有理由受到以下問題的質疑，到底「新」在哪裡？（從
+    Jörn Ipsen, Grundlagen des Verwaltungsrechts. Ein großer Bestand an Altem im
+    vorgeblich Neuen, Die Verwaltung 44 [2011], S. 290 ff.書評一文的副標題，即可
+    見一語中的：         「新瓶裝舊酒」         （【譯註】德文原意為絕大部分仍屬舊物，卻佯裝
+    成 新 的 ， 譯 者 此 處 採 取 意 譯 ）； Christian Starck, Neue Verwaltungsrechts-
+    wissenschaft?, JZ 2010, S. 1170 [1173]於書評中亦有類似整體評價：                 「非新的行
+    政法學」），特別是新行政法學過於片面地集中在操控觀點，完全忽略了現代
+    及當前行政法學的中心課題，例如法律關係理論（允確的批評，見 Ipsen,
+    a.a.O., S. 298 f.），此外，新行政法學也必須承受各方對其概念上整體發展方向
+    所提出的批判及質疑（參見 Bauer [Fn. 14], § 36 Rn. 135 ff.）               ；深入的批評，參
+    見 Wolfgang Kahl, Über einige Pfade und Tendenzen in Verwaltungsrecht und
+    Verwaltungswissenschaft – Ein Zwischenbericht, Die Verwaltung 42 (2009), S. 463
+    (436 ff.). m.w.N.
+97 參見 Reimer (Fn. 90), S. 75，進一步參見 S. 421 ff.
+98 Masing (Fn. 89), S. D 1：   「截至目前尚無管制行政法—至少不算是緊密相關連
+    之法律素材」        。
+99 參見 Burgi (Fn. 4), S. D 101 f.
+100 古典之行政輔助事務有相當長的傳統，可追溯至19世紀，其根源尚可見於當
+    前的法律中。固然，公共採購法初則主要是追求預算法上的目的，以便確保
+    「公有資金的正確及撙節使用」(BT-Drucks. 13/9340, S. 12)。不過，至少作為
+    預算法上撙節及經濟原則的反射，行政輔助事務早亦同時具有競業上的功
+民營化時代的行政法新趨勢                                                                    103
+
+
+
+
+法，在規範對象上，集中於部分的基礎建設；行政公司法侷限於組
+織型態的有限選項上；民營化後續處理法則是處理民營化之後的民
+營化流程。
+
+     類似情形，亦見於近期頗多討論的擔保行政法，其核心思維近
+                                    101
+10年來已在學說上多所討論                             ，並影響實務 102 。然多數學者認
+為，內容仍不精確103、牽連甚廣的擔保行政法，只是把已知的東西
+放入（部分104）新概念的外衣之內，因此至今為止非但沒有澄清問
+題，反而造成觀念上的混亂。例如所謂「擔保協議」105或「擔保契
+
+
+    能。在前20年間，諸多歐盟法上指令的影響，已經強化了採購法的競業要
+    素，但同時並未減損到採購法原本的預算功能。例如在採購實務上，由於潛
+    在投標者之間的競爭關係，已致使公開招標價格的大幅降低(Rudolf Weyand,
+    Praxiskommentar Vergaberecht, 3. Aufl., 2011, GWB Teil 1 Rn. 9)。公共採購事務
+    在當前經濟及政治上的重要性，主要顯示在歐盟地區每年相關的採購金額達
+    1.500 Milliarden 歐元（歐盟 BIP 的16%）           ，超過1998年估計營業額的一倍以上
+    （參見 Weyand, a.a.O., GWB Teil 1 Rn. 8）     。此項營業金額的重要部分是來自公
+    共任務的民營化（特別是透過公私夥伴關係），其同時亦受政府採購法之規
+    範。採購法所涉民營化的問題領域，主要是於何時可以將民營化視為政府採
+    購，政府採購的過程應置於何種程序下進行（例如是否得給予競爭者表達意
+    見之機會），有哪些民營化的模式可資考量，以及此種模式於個案中如何形
+    構。
+101 當前有關擔保行政法論辯的諸多考量，早在 Gallwas (Fn. 3), S. 211 ff.即已體系
+    化處理，且部分形成特有概念（例如「私法的補餘功能」                                 、「操控（    【譯註】能
+    力）淪喪」      、 「控制義務」         、「資訊義務」等）       ，令人驚訝的是，這些先期研究甚
+    少受到注意。
+102 僅參見 Sächsische Staatskanzlei, Privatisierungskonzept der Staatsregierung, Sächs
+    LT-Drucks. 1/3524, S. 2：     「國家的任務主要是擔保，而非全然是提供（行政）
+    服務」   。
+103 一方面主要參見 Voßkuhle (Fn. 3), S. 310 ff.，氏將後果確保、私人參與者的稟
+    直及汰選、第三人權利的保護、引導和控制、評估和學習，以及國家的有效
+    收回權，看作是「擔保行政法體系的基石」                         ，另方面則參見 Burgi (Fn. 4), S. D
+    101 ff.，氏將採購法、契約法（擔保約定及依據委託或授權的擔保措施）及公
+    司法列為「擔保行政法的工具」                      。
+104 在註103提及的諸多基石及工具，包括（                       【譯註】國家）收回可能性，以及契
+    約形成的諸問題，早在1994年於 Halle 舉行的公法教授年會上 即已是論辯及
+    探討的主題而廣為人知、頗受重視，只是當時不是在「擔保行政法」的標籤
+    下討論，否則即可看出早有此重要之認知。
+105 Burgi (Fn. 4), S. D 103 f., 107 ff.
+104                                                        2011 行政管制與行政爭訟
+
+
+約」106之「新」制度，不外乎就是一般熟知且已成為官方用語的合
+作契約。而且在民營化的脈絡中，合作契約在概念上較為精確，因
+為，多半基於長期合作而設想的綜合性契約，任務正常履行的「擔
+保」只是其中的一個部分。因此，此一「新」的概念並未真正切中
+契約標的。此一概念固然有其獨到之處，卻因此而阻斷了行政契約
+法現代化所需要之以事物為取向的聯結能力，從而此一概念至少是
+不具合目的性。此點及其他保留見解，於此不再深論。
+
+2. 特論：行政合作法
+      較具有引領作用的是，草擬行政合作法107的倡議，目前甚且已
+成為立法議案。行政合作法的重心是，公私權利主體在責任分配下
+共同合作履行任務，此同時是民營化中最有趣且實務上最重要的部
+分。行政合作法的預期目標是，為各該公私合作的領域，以概括方
+式，進行法秩序的各別形塑，並且建構、分析及整編之108。據此目
+標，公行政與私人在契約上的相互合作，為行政合作法的核心領
+域。因此，行政合作法主要處理公私夥伴關係的問題、行政契約法
+與時俱進的發展，以及建構現代、有功能的行政契約法學109。就此
+
+
+106 Bernward       Wollenschläger,     Effektive    staatliche   Rückholoptionen     bei
+    gesellschaftlicher Schlechterfüllung, 2006, S. 181 ff.
+107 先請參見註86所列之相關文獻；支持此一倡議，並予開展及深化，主要參見
+    Schuppert (Fn. 92), S. 443 ff., 以及由 Gunnar Folke Schuppert 於2001年受聯邦
+    內政部委託所提出之二份有關法案草擬鑑定書：Grundzüge eines zu entwickeln-
+    den Verwaltungskooperationsrechts, Regelungsbedarf und Handlungsoptionen eines
+    Rechtsrahmens für Public Private Partnership. Rechts- und verwaltungswissenschaft-
+    liches Gutachten, erstellt im Auftrag des Bundesministeriums des Innern, Juni
+    2001，還有由 Jan Ziekow 於同年提出的鑑定書：Verankerung verwaltungs-
+    rechtlicher Kooperationsverhältnisse (Public Private Partnership) im Verwaltungs-
+    verfahrensgesetz. Wissenschaftliches Gutachten, erstattet für das Bundesministerium
+    des Innern, Juni 2001.
+108 參見 Bauer (Fn. 86), S. 254 ff.
+109 此項訴求旨在克服行政契約法內在體系的發展遲滯問題，但並非被理解為概
+    念上的全盤改造，而是持續現代化過程中的一環，關此參見 Bauer (Fn. 14), §
+    36 Rn. 8 ff., 16 ff. m.w.N.
+民營化時代的行政法新趨勢                                                                   105
+
+
+
+
+有兩項切入觀點，其一，法律的規範層次，其二，契約的層次，於
+後一層次，契約當事人無異可以透過自我調控的途徑，自主地確定
+其相互間的權利義務，也就是決定彼此之間何者為是。
+
+   第一種、也就是法律上規範層次，分析顯示立法者對於合作關
+係的內容多半不作終局性的規定。相反地，立法者通常只規定目
+標、列出責任分配之任務履行的選項，或者僅以其他方式，為公私
+合作設定相對嚴格的法律上指示。此外，立法者給予或讓諸參與其
+事者行動及決定的裁量空間110。後者的重要顯例是，一般認為運用
+私人履行任務，無法律明文授權，亦得為之，或立法者僅須規定，
+行政得「使用私人履行其義務」111，或者立法者對於將任務移轉給
+私人，賦予相當大的空間。屬於此例的重要領域是民生供應及廢棄
+物清除，還有污水處理。於此可以透過公私夥伴關係移轉予私人
+者，有污水處理設施的計畫、整修、擴建、裝備、融資及長期營運
+等，不一而足。 於實務上，此點意味的是，整個污水處理設施，
+包括下水道系統，連同其他所有的物力、人力配備，全數「移轉」
+到私人身上。不過，地方自治團體不能經由此種部分民營化而卸除
+其正常處理污水的最後責任。因此，針對契約之終結，乃產生高度
+複雜的契約形成問題。因為，地方自治團體必須確保幾乎在「分秒
+之間」毫無間斷的污水處理安全，從而必須能夠重新自己處理該項
+任務。
+
+   第二種、也就是契約的規範層次，因有上述的考量而居於突出
+的重要地位。隨著契約的規範層次，行政法學上的關注焦點被移轉
+
+
+110 事實上或未必存在的小幅規範密度，乃是強化法律框架條件的源由之一（但
+  在聯邦層級已陷於停頓）
+            。
+111 參照2009年7月31日公布(BGBl I S. 2585)之水資源管理法（水利法 – WHG）
+  第56條第3句規定之文字。與本文探討主題相關之行政實務上過去援用的內容
+  相同舊規定，參見 Bauer (Fn. 70), S. 561 ff.，另關於資源管理領域之同步發展，
+  參見 Angelika Emmerich-Fritsche, Privatisierung der Wasserversorgung in Bayern und
+  kommunale Aufgabenverantwortung, BayVBl. 2007, S. 1 (1 ff.).
+106                                                         2011 行政管制與行政爭訟
+
+
+到契約的形成，也就是「行政契約法上之契約形成法學」
+                                                           112
+(verwaltungsvertragliche Kautelarjurisprudenz)                   。基於德國與民間
+Toll Collect 公司所簽訂的卡車收費特許契約，成立的公私夥伴關
+係，這可能是德國最大的公私夥伴關係，其契約書即不下1萬7,000
+頁113。如此龐大的規範文件，旨在將當事人間的所有法律關係以契
+約的方式悉數規定，儘管如此，還是無法阻止目前發生在 Toll
+Collect 公司身上的爭訟案件。不過，契約的形成在較不著名的公私
+夥伴關係上，也有大問題。例如前述提及的污水處理，為確保地方
+的履行與擔保責任，在契約實務上，有多種約款的可能性，如強制
+性或任意性約款。這些約款可以使行政部門在重新自己處理事務時
+保持「韁繩在手」。特別值得提出的是，有效的契約上收回權
+                                       114
+(vertragliche Rückholoptionen)             是締約的基本內容，以使行政機關
+在與私人經營者議約時，仍保有自身的運作能力，例如約定（非技
+術性意義之）
+     「回歸條款」
+          ，包括人員、設施、配備、電子系統等。
+
+       在此可見的趨勢下，契約的形成爰為民營化順遂運作的支軸及
+樞紐，以及公私合作的成功條件。契約形成學的需求相應而生，但
+在當前行政法中僅粗淺的談及115。無論如何，除契約類型外，契約
+條款如前述之「回歸條款」，殆已是行政合作法的重要基石。不久
+以前，Schleswig-Holstein 邦的立法者已經援用行政法學的先期研
+究成果。在 Schleswig-Holstein 邦有關公行政主體與私人合作法116
+中，除其他規定外，亦有契約形成的詳細規定。特別是確保公部門
+影響力的契約條款，包括相應的監督權及最基本的約款，其遵照提
+
+
+112 概念形塑，參見 Walter Krebs, Verträge und Absprachen zwischen der Verwaltung
+      und Privaten, VVDStRL, 52 (1993), S. 248 (271).
+113 參見 Bauer (Fn. 14), § 36 Rn. 42 m.w.N.
+114 Bauer (Fn. 3), S. 275 f., 278; Voßkuhle (Fn. 3), S. 326; Wollenschläger (Fn. 106), S.
+      143 ff.
+115 Bauer (Fn. 14), § 36 Rn. 122 ff. m.w.N.
+116 2007年6月19日公布(GVBl S. 328)之 Schleswig-Holstein 邦加速公私夥伴關係法
+      第1條。
+民營化時代的行政法新趨勢                                                                         107
+
+
+
+
+供持續且社會可接受的品質及服務之理念117，並且對公私夥伴關係
+終結後之法律後果預作規定118。
+
+
+
+VI. （再）國家化及（再）地方自治團體化之未來
+    趨勢？
+
+      前述所提及之最基本約款讓人意識到，公私夥伴關係的生命週
+期遲早會終結—或因期限屆至，或因解除契約，或因運行失敗或
+其他原因。至少在可能性上，（再）國家化及（再）地方自治團體
+化，即公部門再次將其任務部分或全部收回自己的羽翼之下，是完
+全「正常」、在經過事實發展後，甚至是必要的過程。或者，換的
+方式說：（再）國家化及（再）地方自治團體化是（再）民營化必
+要且不可或缺的替代及互補選項。
+
+1. 個案研究
+      茲以波茨坦的個案研究119為例，闡述說明之：布蘭登堡邦首都
+波茨坦，為地方自治團體，其提早結束已啟動之民營化，旋即「反
+其道而行」進行再地方自治團體化。如同其他的地方自治團體，波
+茨坦在1990年代也有意將用水供應及污水處理民營化。嗣於1998
+年，與 Eurawasser 公司締結公私夥伴關係。Eurawasser 公司當時是
+
+
+117 參見 Bauer (Fn. 3), S. 275 f.
+118 特別是該法(Fn. 116)第7條以下。以瓦斯供應及其管線為例，其所涉及之契約
+    終結後法律後果規範不足的諸多嚴重問題，參見 OLG Schleswig, NVwZ-RR 2006,
+    S. 811 ff.
+119 參見 Peter Paffhausen, Gestaltung von Public Private Partnerships – Motive,
+    Erfolgsfaktoren, Risiken für die Kommune, Rekommunalisierung, in:
+    Bauer/Büchner/Brosius-Gersdorf (Hrsg.), Verwaltungskooperation, 2008, S. 95 (95 ff.);
+    David Hachfeld, Rekommunalisierung – Lehren aus Potsdam und Grenoble, in:
+    Candeias/Rilling/Weise (Hrsg.), Krise der Privatisierung, Rückkehr des Öffentlichen,
+    2009, S. 87 (87 ff.).
+108                                2011 行政管制與行政爭訟
+
+
+
+Thyssen Krupp 及 Suez 兩大企業的知名子公司。在德國，這個「全
+球玩家」把他的商業策略放在成為地方用水供應及污水處理企業的
+成員。布蘭登堡邦首都波茨坦運用公私夥伴關係的動機則類如當時
+在其他可見的民營化過程的動機120：減輕預算負擔、吸引私人投資
+者、人事結構的彈性化、開發民間的 know how 及創新力、確保安
+全的用水供應及污水處理、降低成本、改善服務品質等。與
+Eurawasser 公司合作的基礎是「總計十三本相當複雜、連續編排且
+幾乎是無法理解的契約」121。這些合作契約理應也是要確保波茨坦
+市對於任務正常履行的影響力，諸如有利於該市的控制權、指令
+權、投票權及解除契約權等約款。
+
+      不過，這樁公私夥伴關係沒多久就陷入困境，導致2000年即已
+進行再地方自治團體化。終止夥伴關係的一項重要原因是水費的問
+題。依照合作契約所約定的價格調整條款，水費一再被提高，1998
+年，從最初的6,85 DM/m3 上漲為7,86 DM/m3 ，1999年，從7,86
+DM/m3上漲為8,80 DM/m3，以及在2000年預計從8,80 DM/m3上漲為
+10,18 DM/m3；根據 Euroawasser 公司所提出的資料，2017年飲用水
+及污水的總費用預估是16,40 DM/m3。此外，人員的裁撤也引發政
+治上的爭論。加上：儘管契約中保有指令權，但波茨坦無法對該企
+業產生任何的影響力。因此，在合作失敗之後，用水供應及污水處
+理又再度回到地方自治團體手上，也就是在邦首都擁有百分之百持
+分的波茨坦有限公司之下，這家公司不久前才剛慶祝成立十週年。
+
+2. 從民營化到（再）國家化及（再）地方自治團體化
+      前述波茨坦的經驗替早期對民營化措施的不滿意，提供了例
+證，此種不滿意在別處亦可觀察得到。例如：在柏林122，人們曾考
+
+
+120 上述 II. 2.
+121 Paffhausen (Fn. 119), S. 99.
+122 參見上述註57以下。
+民營化時代的行政法新趨勢                                                                        109
+
+
+
+
+慮過要把用水供應及污水處理再地方自治團體化，在德勒斯登，有
+些人希望買回已出售的地方住宅123。越來越多的批評聲浪並非僅侷
+限在這些個案124，且不以用水供應及污水處理為限，而是針對整體
+一般可見的趨勢，從民營化到再地方自治團體化。
+
+     此種趨勢的轉變，令人意外，因為長期以往，民營化一直是減
+輕地方財政負擔的理想之道。不過，並不是所有的民營化措施都能
+兌現其預期的目標。相反地，越來越多人意識到，私經濟並不必然
+比公部門更好、更有效率且較省錢。各種跡象顯示，德國現在的地
+方經濟逐漸復甦。因此，地方議會及行政部門開始改變想法，良有
+以也125。除了民營化的失敗及私部門瑕疵履行的事例外，主要是出
+
+123 參見上述註54以下。
+124 依照地方企業協會2011年1月18日報告的數據資料，該報告提出於2011年1月24
+    日在聯邦眾議院經濟及科技委員會舉行的專家公聽會上，自2007年以來，已
+    有超過40家的新設市有能源機構，相關資料可自以下網址下載：http://www.
+    bundestag.de/bundestag/ausschuesse17/a09/anhoerungen/Archiv_der_Anhoerungen/
+    6_Oeffentliche_Anhoerung/Stellungnahmen/17_9_379.pdf。例如漢堡市於2009年
+    成立100%持股的市立企業「漢堡能源」，生產再生能源之電力，參見 http://de.
+    wikipedia.org/wiki/Rekommunalisierung#cite_note-18。再如，於2011年，Coesfeld
+    的8個鄉鎮、Coesfeld 市有能源機關及 Münster 市有能源機構，聯合組成
+    Stadtwerke Münsterland，並且負責能源供應；參見 Christoph Tesche/Sven-
+    Joachim Otto, Kommunale Unternehmen im Spannungsfeld von Rekommunalisierung
+    und strategischer Partnerschaft, Power-Point-Präsentation vom 29. 9. 2011，相關資
+    料可自以下網址下載：http://www.derneuekaemmerer.de/veranstaltungen/pdf/dkt
+    2011/Kommunale-Unternehmen-im-Spannungsfeld.pdf。此外，Kiel 市於2009年1
+    月決定重新持有於2003年民營化之交通企業的全部股權。又，早在2003年，
+    Bochum 及 Dortmund 二市即共同買回「Gelsen Wasser」自來水公司集團，並
+    重新自行負責供水，參見 http://de.wikipedia.org/wiki/Gelsenwasser；Kevin P.
+    Hoffmann, Die Renaissance des Staats, Tagesspiegel vom 5. 5. 2009，可自以下網
+    址下載：http://www.tagesspiegel.de/wirtschaft/die-renaissance-des-staates/1504000.
+    html；Alexander Venn, Rekommunalisierung als Stabilisator für die Wirtschaft, City
+    Innovations Review, Mai 2009；可自以下網址下載：http://www.cireview.de/
+    leitlinien/rekommunalisierung-als-stabilisator-fur-die-wirtschaft/。
+125 除註19所列文獻外，以下參見 Jens Libbe/Stefanie Hauke, Rekommunalisierung – neue
+    alte Wege der öffentlichen Daseinsvorsorge, der gemeindehaushalt 2011, S. 108
+    (109); Hachfeld (Fn. 119), S. 88 ff.; Manfred Scholle, Der Trend zur Rekommuna-
+    lisierung – Chance oder Risiko?, in: Gernert/Konegen/Meyers (Hrsg.), Festschrift für
+    Rüdiger Robert, 2010, S. 95 (95 ff.).
+110                                                        2011 行政管制與行政爭訟
+
+
+於以下的動機：地方自我意識的新生；地方自治理念的再度活躍；
+重獲地方控制權及對任務履行及相關控制的影響力；打破以獲利為
+目標的獨佔性私人服務提供、創設有效的合作結構，以提升服務的
+品質，同時降低人民的費用負擔；開發財源，以敷應地方任務履行
+的部門缺口等等。在此其間，此種考量甚至已是立法者轉向規範地
+方經濟的顯要因素126。
+
+       再地方自治團體化的趨勢，因多數合作及特許契約的屆期而益
+發激揚。諸多在1990年代成立的公私夥伴關係，其執行期間20年到
+30年不等，因此現正須延長，或至少在可見的未來將予延長。根據
+地方企業協會的資訊，在2010年至2011年之間，將有不下於2000項
+的特許契約到期127 。在這些情形中，地方自治團體將面臨基本抉
+擇，是否讓該服務繼續由第三人提供，或者收回自己處理。顯然，
+這將帶來再地方自治團體化的選擇問題，有待密集處理。
+
+3. 法律上的框架與挑戰
+       儘管地方政策處於急速變化的氛圍，但不加思慮的再地方自治
+團體化，也非正辦。因為，像是「地方團體優先於私人」的政策大
+標語，在公部門現代化的企劃方面，一如秩序政策上的信條，例如
+極市場化的信條「私人優先於國家」，同樣都無法推展。需要的毋
+寧是針對個別具體個案，縝密的比較分析，因此決策主體必須具備
+專門知識及堅實的專業能力。除了實務經驗外，還要有法律上的指
+引，以方便行政作成政策決定，同時也設定規範上的框架。關於再
+地方自治團體化的法律框架，屬於另一新的講題，在此無法深論。
+
+       不過，至少有一個觀點可以簡短闡述。關於地方任務的遂行，
+存有整套的組織及行為形式，足供地方自治團體運用，以代替公私
+
+126 主要是註76所提及之備位性原則下的發展趨勢。
+127 Hans-Joachim Reck, Pflichten der Kommunen bei auslaufenden Konzessions-
+      verträgen in der Energieversorgung, KommJur 2009, S. 401 (401).
+民營化時代的行政法新趨勢                                                                        111
+
+
+
+
+夥伴關係的運作方式128。類別繁多，除了以自營方式或成立自有公
+司提供地方服務外，還包括地方的各種合作模式，例如透過專案小
+組、地方自治團體聯合會、地方企業聯合組織進行合作，或者基於
+各地方自治團體間的協議及其他公私部門簽訂的契約相互合作。對
+於面臨制度選擇的地方自治團體來說，此種公共夥伴關係(Public
+Public Partnerships, PuPuP)可以擴大選項，從中挑選最切合各該任
+務履行的組織型態。為了達到理想的設計模型，公共夥伴關係有賴
+合於任務及具體情況的契約形成。因此，公共夥伴關係顯然也需要
+高品質的契約形成作業，同時印證了—如同公私夥伴關係—行
+政契約對於行政合作具有挑戰性的重要地位。
+
+
+
+VII. 展望
+
+    綜上以論，民營化時代為行政法帶來了現代化的推動力，過去
+如此，於今猶是。諸多革新主要有，民營化現象、容許民營化之行
+政任務領域及民營化優劣的學理分析，凡此切忌作一般全稱性的評
+斷。於此所需之個案取向的評斷，固然因民營化的類型化而易於處
+理；但這些類型化之表現形式的認識價值有限，因為在民營化的實
+務上，絕大多數是以公私主體合作的混合型態行之。對於合於事物
+的體系建構來說，認知到民營化的過程通常是在多階段程序中進
+行，毋寧更為重要。首先是對民營化過程的規範操控要有不同的切
+入觀點。尤其，程序的觀點可以彰顯出民營化之後可能存在的國家
+責任。深入研究顯示，在諸多領域中，國家至少負有擔保任務順遂
+履行的義務。特別是在許多領域可見的公私夥伴關係場域，此點也
+
+
+128 此點及相關概述，以下參見 Bauer (Fn. 14), § 36 Rn. 47 ff.; Christoph Reichard,
+   Institutionelle Alternativen zu Public-Private-Partnerships: Kommunale Eigenleistung,
+   Public-Public-Partnerships und Contracting-Out, in: Bauer/Büchner/Brosius-Gersdorf
+   (Hrsg.), Verwaltungskooperation, 2008, S. 61 (61 ff.).
+112                    2011 行政管制與行政爭訟
+
+
+使法律形塑之民營化現實的體系化，更加困難。因此，最好是進行
+行政合作法的研議，以作為足以綜攬全局的立基點，如此得以明顯
+提高行政契約的價值，同時也讓人意識到，公私夥伴關係原則上遲
+早會終結。
+
+      此種意識在德國也強化了逐漸可以察覺到的政策趨向轉變，即
+從民營化轉回（再）國家化及（再）地方自治團體化。不過，在此
+新的趨勢之下，行政合作法仍有其需要，因為，除了公私合作的制
+度選擇外，不乏有地方自治團體間的各種合作模式及公共夥伴關
+係，亦在契約的基礎下進行對話。由此可見，（再）地方自治團體
+化的政策轉向，只是讓行政合作法的另一面，即公共夥伴關係，重
+新活躍起來。行政合作法的總體範疇顯示，若把（再）民營化與
+（再）地方自治團體化在觀念上予以對立，恐有誤失。事實上，於
+此涉及的是發展的過程，也就是在同一的刻度下，藉由各種分節點
+與連接線，來回移動。當處於制度選擇之情境，為挑選任務遂行最
+理想的組織及行為形式時，民營化與地方自治團體化，乃是可供決
+策的多種選項，得相互補充，二者缺一不可。因此，處在此種抉擇
+情境而又不受特定觀念的障眼時，所有可供運用的組織及行為選項
+均可納入目下考量，並針對具體個案，審慎斟酌損益所有的選項。
+
+      在此理解下，從民營化轉向國家化及地方自治團體化之可能的
+時代轉移發展將行退場。居於首要地位的，毋寧是共同期待一個良
+善的行政法時代，超越「地方團體優先於私人」對抗「私人優先於
+國家」的兩極政策論辯，為行政部門建立合時且順遂履行公共任務
+所需要的各項制度。
+

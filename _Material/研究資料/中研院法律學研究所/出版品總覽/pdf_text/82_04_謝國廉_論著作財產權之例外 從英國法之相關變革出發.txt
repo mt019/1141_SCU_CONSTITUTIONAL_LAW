@@ -1,0 +1,1399 @@
+《國際比較下我國著作權法之總檢討》 劉孔中主編                                       377
+ 臺北 中央研究院法律學研究所 專書（19）
+民國 103 年 12 月，頁 377-414
+
+
+                                                ＊
+                論著作財產權之例外
+              — 從英國法之相關變革出發
+
+                           謝國廉＊＊
+
+                            摘 要
+   著作財產權的限制與著作的合理使用，並非相同的概念。就著
+ 作財產權的限制而言，立法者於立法時已明文限制著作權人就（全
+ 部或特定種類）著作的特定利用方式享有排他權，概念上等同於英
+ 國著作權法中「無涉合理使用之許可行為」。就著作的合理使用而
+ 言，立法者針對著作權人就著作的特定利用方式是否享有排他權，
+ 認為應按合理使用的判斷基準加以審酌，概念上等同於英國著作權
+ 法中的「合理使用」。此外，本文分析了私人重製的限制條款與以
+ 教育為目的的合理使用。就私人重製而言，本文建議，立法者應將
+ 臺灣著作權法第51條修正為一項著作權的限制，而非現行法中的著
+ 作合理使用。如此既不會對著作權人的權益造成實質的負面影響，
+ 同時亦較符合消費者的認知與習慣。針對以教育為目的的合理使
+ 用，臺灣著作權法第46條第1項似嫌簡略。現今強調終身學習，故
+ 而此項合理重製他人著作之人，不應限於學校及其擔任教學之人。
+ 此外，此項的重製目的，限於廣義的學習目的即可，無須侷限於
+「學校授課需要」。
+
+
+
+
+＊  投稿日：2013年10月29日；接受刊登日：2014年5月2日。                    ［責任校對：陳榕、張文
+   愷］
+    。
+＊＊ 國立高雄大學財經法律學系副教授。
+   穩定網址：http://publication.iias.sinica.edu.tw/41114141.pdf。
+378                               國際比較下我國著作權法之總檢討
+
+
+
+關鍵詞：著作財產權的例外、著作財產權的限制、合理使用、合理
+    使用的判斷基準、著作權侵害、私人重製、時事報導、利
+    用目的、著作權法修正、英國著作權法、英國智慧財產
+    局。
+
+
+
+
+                           目 次
+
+ 壹、前言                            參、私人重製
+ 貳、「受許可之著作利用行為」                   一、 英國之現況
+  （permitted uses of copyright    二、 英國之修正方向
+   works）                         三、 臺灣之觀點
+  一、 規範目的                        肆、教育
+  二、 辭彙意涵之釐清：例外、                  一、 英國之現況
+     許可行為、合理使用                    二、 英國之修正方向
+    （一）「 例 外 」（ excep-            三、 臺灣之觀點
+         tions ） 與 「 許 可 行       伍、結論與修正建議：以「著作
+         為」為同義辭                    財產權之例外」作為上位概
+    （二）「例外」與「合理使                   念
+         用」並非同義辭                  一、 概念、架構與用語
+  三、 「無涉合理使用之許可行                  二、 私人重製之限制條款、以
+     為」與合理使用之行為                      教育為目的之合理使用
+  四、 比較法之觀點
+論著作財產權之例外                                           379
+
+
+壹、前言
+
+   本文所探討之著作財產權的例外規定，其重要性猶如汽車的煞
+車裝置，限制了第 2 次世界大戰結束之後，各國持續擴張之著作財
+產權的保護規模，進而調和了著作權人與利用著作之人在著作權法
+制下日益緊張的關係。從著作權保護的發展史來看，戰後資訊科技
+的快速發展，不僅增加了著作人創作、重製與散布各類著作的便利
+性，同時亦降低了侵權行為人侵害著作權的難度。因此，作為左右
+各國著作權保護的一股重要力量，快速發展的資訊科技，不僅影響
+了各國對於著作權相關條約內容的議定，其亦對各國國會的著作權
+法修法方向及法院實務見解產生了重大衝擊。
+   英國對於其著作權法制的發展史，一向頗為自豪，但其國會、
+學界及實務界於面對新興資訊科技的衝擊時，並未耗費太多精力去
+思考「如何適用現有法令處理新興爭議」，亦即「舊瓶如何盛裝新
+酒」的問題，反而選擇了積極面對資訊科技所帶來的影響，研議、
+辯論並調整著作權法令及司法實務見解。戰後的英國著作權法，曾
+歷經 2 次重大的改革。第 1 次的改革成果，係英國國會於 1956 年
+通過的著作權法（Copyright Act 1956）
+                          ，此法於 1957 年施行。第 2
+次的改革所涉及者，非僅著作權法，而係整個英國的智慧財產權法
+制。此次改革的成果，乃是國會於 1988 年通過，並於其後多次修
+正的著作權、設計暨專利法（the Copyright Designs and Patents Act
+1988（as amended）
+               ；以下簡稱為“CDPA 1988”，此亦為在英國常見
+     。此法於 1989 年 8 月 1 日施行，其中規範著作權的條
+的簡稱方式）
+款（the copyright sections of the CDPA 1988（as amended）
+                                                    ；以下簡
+稱為「英國著作權法」
+         ），即為現行的英國著作權法。
+   何以說選擇了積極面對資訊科技所帶來的衝擊？首先，舉例來
+說，在 1956 年的第 1 次改革中，英國國會修正著作權法，首次將
+380                                     國際比較下我國著作權法之總檢討
+
+
+
+影片（films）與廣播電視影音（broadcasts）1，以及相對應的著作
+權，例如重製（copying）以及公開播放（playing in public）等權
+利，納入著作權法保護的範圍。即便是在其他歐美先進國家，以著
+作權法明文保護影片與廣播電視影音以及相對應的著作權，於
+1950 年代仍屬罕見2。其次，在 1970 年代，影印、錄音、錄影設備
+與電腦設備等現代科技產品，已對英國社會造成重大的衝擊，當時
+社會各界已認知到，在現代科技的衝擊下，若要讓著作權法所提供
+的保護實際上不至於形同具文，則著作權法的規範與實務的運作，
+必須作出相對應的調整（adaptations of UK law and practice）
+                                             。舉例
+來說，於 1956 年修法時，影片的正式用語為「錄製電影之影片」
+                               ，
+實際上指的是以「賽璐珞」材質（celluloid material）製造的錄影
+帶，亦即傳統的膠卷影片，但 1956 年之後出現的磁帶錄影（video
+taping）
+      ，乃至於晚近的數位錄影（digital recording）
+                                   ，增加了可儲存
+視聽內容之媒介物的種類。英國於 1970 年代及 80 年代已明瞭相關
+技術所帶來的影響，因此於 1988 年的第 2 次改革中，採取廣義的
+界定方式，將影片（film）一辭定義為「任何可儲存動態影像之媒
+介物上所錄製的內容」（a recording on any medium from which a
+moving image can be produced）
+                            。此一廣義的界定方式，使得影片一
+辭，得以涵括所有的視聽（audio-visual）創作。總的來說，戰後英
+國將影片與廣播電視影音以及相關的著作權納入著作權法保護的範
+圍，乃是資訊科技發展影響其著作權法制的眾多例證之一。職是之
+故，若問現行（1988 年）英國著作權法的特徵為何，則稱此乃一
+
+
+1 影片可能包括多種著作，例如電影配樂的樂譜為音樂著作、電影劇本為戲劇著
+  作。所謂的廣電影音，係指電子傳輸的影像、聲音或其他資訊，且須符合以下
+  二要件：一、社會大眾同時且（得以合法地）接收此等電子傳輸的影音。二、
+  傳輸的時間點全然由傳輸者決定。因此，部分得藉由網路傳輸的資訊，例如透
+  過互動電視傳輸的資訊，非屬廣電影音。廣電影音與廣電影音的構成內容不
+  同，內容的部分，例如於電視節目播送的歌曲錄音物，仍被當作一音樂、語文
+  著作保護，同時被當作一獨立於廣電影音的錄音物保護之。
+2 WILLIAM CORNISH, DAVID LLEWELYN & TANYA APLIN, INTELLECTUAL PROPERTY:
+  PATENTS, COPYRIGHTS, TRADE MARKS AND ALLIED RIGHTS 410 (7th ed. 2010).
+論著作財產權之例外                                                 381
+
+
+部以因應資訊科技發展為目的的著作權法，絕不為過。
+    各國著作權人對於著作權法制納入新的著作種類或新的著作財
+產權種類，當然非常歡迎。然而，從社會大眾的角度觀察，資訊科
+技高速發展的另一項結果，係資訊產品的平價化，以及隨之而來的
+普及化。在人人皆可輕易重製著作的年代，社會大眾對於「合法利
+用著作」一辭的理解，未必等同於著作權法對於「合法利用著作」
+之概念的界定。進一步來說，重製非法取得的著作乃是侵害著作權
+的行為，如此的認定方式並無任何爭議，但倘若公眾所重製的著作
+為合法取得的著作，特別是重製僅是為了個人、家庭使用或是為了
+教育、慈善等公益目的時，重製行為是否仍應被認定為侵害著作權
+的行為。此時的重製行為，若仍被認為侵害著作權，則如此的著作
+權規範是否妥適？自 2000 年迄今，英國各界對此等涉及著作權之
+例外的問題，進行了廣泛且深入的論辯。
+    歷經了 20 餘年的政治、經濟、科技、社會與文化的發展，英
+國著作權法制的缺失逐一浮現，除了上述涉及著作權之例外的問題
+外，孤兒著作（orphan works）難以利用、集體管理團體（collecting
+societies）的制度過於複雜等問題，皆受到各界相當大的關注。
+2010 年 11 月，英國首相卡麥隆（David Cameron）代表英國政府，
+委託威爾斯卡地夫大學（Cardiff University）的數位經濟學（digital
+economy）教授 Ian Hargreaves，針對英國智慧財產制度對英國經濟
+成長與研發活動的影響進行研究。Ian Hargreaves 教授於 2011 年 5
+月 提 出 了 「 數 位 機 遇 ： 智 慧 財 產 與 發 展 之 評 估 報 告 」（ Digital
+Opportunity: A Review of Intellectual Property and Growth，此報告於
+英國常被簡稱為“the Hargreaves Review”）。英國智慧財產局（The
+Intellectual Property Office in the United Kingdom，以下簡稱「英國
+智慧局」）於詳細檢視了「智慧財產與發展之評估報告」之後，採
+納了此報告中的許多建議3，並將此等建議融入其草擬的著作權法
+
+
+3 針對 the Hargreaves Review，英國智慧財產局代表英國政府於 2011 年 8 月 3 日針
+ 382                                            國際比較下我國著作權法之總檢討
+
+
+
+修正計畫。此修正計畫的目的，在於使著作權法能夠更具彈性
+（intended to make copyright rules more flexible）
+                                               ，且更能因應科技的
+發展，滿足現今社會的需求。英國智慧局於 2011 年 12 月公布了以
+             （Consultation on Copyright）為題的
+「關於著作權之公開意見徵詢」
+                   ）4，自 2011 年 12 月
+著作權法修正計畫書（以下簡稱「修正計畫」
+14 日起，公開徵詢各界意見，相關的意見徵詢工作於 2012 年 3 月
+21 日結束5。
+       英國智慧局彙整了各方的意見，於 2012 年 12 月 20 日對於相
+關的意見作出了回應，公布了以「著作權現代化：一個現代、堅實
+        （Modernising Copyright: A Modern, Robust and
+且具有彈性之框架」
+                                    ）6。
+Flexible Framework）為題的回應報告（以下簡稱「回應報告」
+就研究的架構而言，本文的第二部分，將分析英國著作權法中合理
+使用的相關概念，接著於第三部分及第四部分，以前述「關於著作
+權之公開意見徵詢」的文件內容為依據，援引其中關於著作權法修
+正計畫的詳細說明，並將關注的焦點鎖定在以下兩項議題：私人重
+製（private copying）和以教育為目的的著作利用行為（uses for
+educational purposes）。最後，於第五部分「結論與修正建議」，本
+
+
+   對部分議題發布了一分回應報告，廣泛地採納了 the Hargreaves Review 中的許
+   多建議（recommendations）        。請參考：Her Majesty Government, The Government
+   Response to the Hargreaves Review of Intellectual Property and Growth (Aug., 2011),
+   https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/32448/
+   11-1199-government-response-to-hargreaves-review.pdf.
+ 4 關於此文件的詳細內容，請參考：Her Majesty Government, Consultation on
+   Copyright (Dec., 2011), http://webarchive.nationalarchives.gov.uk/20140603093549/
+   http://www.ipo.gov.uk/consult-2011-copyright.pdf.
+ 5 關於英國智慧財產局此次意見徵詢的相關文件與目的，請參考：THE INTELLECTUAL
+   PROPERTY OFFICE, CONSULTATION ON COPYRIGHT – SUMMARY OF RESPONSES JUNE
+   2012, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/
+   320223/copyright-consultation-summary-of-responses.pdf.
+ 6 Her Majesty Government, Modernising Copyright: A Modern, Robust and Flexible
+   Framework – Government Response to Consultation on Copyright Exceptions and
+   Clarifying Copyright Law (Dec., 2012), http://webarchive.nationalarchives.gov.uk/
+   20140603093549/http://www.ipo.gov.uk/response-2011-copyright-final.pdf.
+論著作財產權之例外                                                                       383
+
+
+文將總結相關的分析結果並據此提出修法建議。
+
+
+
+貳、「受許可之著作利用行為」        （permitted uses
+  of copyright works）
+
+一、規範目的
+
+     在英國，所謂的著作權侵害（copyright infringement）7，係指
+在未得著作權人同意（without permission）的情況下，就著作權人
+之著作的全部或主要部分（whole or a substantial part of a work）8，
+為直接或間接之利用，除非利用著作的行為，符合例外條款
+（exceptions）的規定。此等例外條款，並非法律賦予利用著作之人
+的積極權利，而係著作權侵害訴訟中被告抗辯（defence）的依據，
+亦即被告的抗辯事由。審理相關案件的法院，無須在被告未提出相
+關的抗辯時，主動逐項檢視系爭利用著作的行為是否符合例外條款
+
+
+7 關於何謂著作權侵害，英國智慧局的網站有詳盡的說明。THE INTELLECTUAL
+  PROPERTY OFFICE, COPYRIGHT INFRINGEMENT, https://www.gov.uk/intellectual-
+  property-crime-and-infringement (last visited Nov. 14, 2014).
+8 「主要部分之利用」              （substantial taking），係判斷著作權侵害與否的一項重要的
+  要件。須強調的是，英國的著作權法，並未就「主要部分」（substantial part）
+  這項要件加以定義，但英國法院曾於不同的判決中指出，所謂的主要部分，係
+  以內容的重要性作為判斷基準。倘若一著作的部分內容具有顯著的重要性（a
+  qualitatively significant part of a work），則即便此部分的內容非為該著作的大部
+  分，此部分的內容仍為著作權法意義上的主要部分。因此，即便是整個著作中
+  一小部分的內容，此部分的內容仍有可能為整個著作的主要部分。關於何謂著
+  作的主要部分，英國智慧局的網站扼要的說明。THE INTELLECTUAL PROPERTY
+  OFFICE, SUBSTANTIAL PART, https://www.gov.uk/enforcing-your-copyright (last visited
+  Nov. 14, 2014). 英國法官 Lord Reid 早在 1964 年 Ladbroke v. Williams 案的判決
+  中，即指出，「關於被告是否重製了主要內容的問題，主要應審酌『被利用內
+  容之重要性』，此項要素的重要性，遠高於『被利用內容之分量』這項要素的
+  重 要 性 」。 其 原 文 為 ： “[T]he question whether the defendant has copied a
+  substantial part depends much more on the quality than the quantity of what he has
+  taken”. Ladbroke v. Williams, [1964] 1 W.L.R. 273 at 276. 換句話說，被利用的內
+  容是否為一著作的主要部分，判斷上應重「質」而不重「量」                                    。
+ 384                                             國際比較下我國著作權法之總檢討
+
+
+
+的規定。法院於審酌被告抗辯的內容及其援引的例外條款後，倘若
+認定系爭利用著作的行為落入例外範圍之內，則此行為不構成著作
+權之侵害（do not infringe copyright）9，被告無須負擔侵害著作權
+的民事及刑事責任。
+       訂定此等例外條款的目的為何？此雖係立法政策與學理上的一
+個重要問題，但或許頗令人意外的是，鮮有英國法律學者或實務界
+的專家，對此一問題提出清楚的答案。何以如此？本文認為，其主
+要原因在於各個例外條款的立法目的不盡相同，故而對此問題並無
+一個簡單卻同時又具有說服力的答案。其次，隨著文化創意產業的
+發展、資訊科技的創新以及商業活動的日趨多元化，經常有增加新
+的例外條款或擴張現有例外條款的必要，因此難以針對所有例外條
+款的立法目的，進行一概括的論述。值得參酌的是，此次修法時，
+英國智慧局從經濟的角度出發，利用一種以「交換關係」為核心的
+經濟學說（economic justification for a trade-off），將此等例外條
+款，比喻為一種平衡相競合之利益（to balance competing interests）
+的機制，頗值得參考10。
+       英國智慧局指出，一般而言，若將創作者與各個創意產業
+（creators and the creative industries）視為一個群體，則允許著作權
+人（copyright owners）限制他人使用其著作，將為這個群體帶來利
+益，但就另一個角度觀察，此種限制替這個群體帶來利益之時，付
+出代價的卻是社會中的其他群體（at the expense of other groups）
+                                             ，
+亦即創作者與創意產業之外的群體11。進一步來說，此兩大類群體
+
+
+
+ 9 s 28(2) of CDPA 1988 provides that “[W]here it is provided by this Chapter that an
+   act does not infringe copyright, or may be done without infringing copyright, and no
+   particular description of copyright work is mentioned, the act in question does not
+   infringe the copyright in a work of any description”. 請參考謝國廉，英國著作權法
+   關於合理使用之規範，收於：黃銘傑編，著作權合理使用規範之現在與未來，
+   頁 89-90（2011 年）      。
+10 Her Majesty Government, supra note 4, § 7.3, at 55.
+11 Id.
+論著作財產權之例外                                        385
+
+
+之間，存在著一種三個層次的交換關係（trade-off）。在第一個層
+次 ， 創 作 者 的 群 體 獲 得 相 當 的 誘 因 與 報 酬 （ incentives and
+rewards）。在第二個層次，創作對於社會帶來了相關的經濟上和文
+化上的利益。在第三個層次，使用（受著作權法保護之）著作之
+人，則必須面對與承擔著作權作為一種排他權所造成的負面影響
+                 ，而此等負面影響包括12：
+（negative impacts）
+   （一）著作的供給量受到限制（restricted supply）
+                                  ；
+   （二）較高的交易成本（increased transaction costs）
+                                         ；
+   （三）利用知識、資料、文化創作時所享有的自由較少（less
+         freedom）
+                。
+     此學說就經濟的觀點，對於著作權法存在的理由作出了解釋，
+認為著作權作為一種排他權，雖然對於使用著作之人造成了負面影
+響，但著作權作為一種財產法上的權利，亦有其正面影響；著作權
+既確保了創作者的報酬、提供了再創作的誘因，且著作權對於社會
+亦帶來了相關的經濟上和文化上的利益。然而，此學說同時強調，
+此等正面影響（利益）以及負面影響，未必隨時處於一種平衡的狀
+態。換句話說，利用著作之人（包括個人、企業或其他機構）所需
+付出的經濟成本，有時已高於渠等所得到的利益，因此，適度降低
+利用著作之人所需付出之經濟成本，顯然有其必要性，而此正是著
+作權例外條款這種機制存在的主要目的。
+     不可諱言的是，上述智慧局的分析，扼要地指出了訂定著作權
+例外條款的理由，但此略嫌籠統的概括式答案，顯然並未解決所有
+的相關問題，因為就不同的著作利用行為而言，何時會出現使用著
+作之人所需付出的經濟成本高於其所得到之利益的情況，仍需要個
+別判斷。因此，針對「為何要訂定例外條款？」這個問題，事實上
+並無一個簡單、同時卻又具有普遍解釋力的答案，必須就個別的例
+外條款分別加以分析。
+
+
+12 Id.
+ 386                                             國際比較下我國著作權法之總檢討
+
+
+
+二、辭彙意涵之釐清：例外、許可行為、合理使用
+
+    （一）「例外」
+          （exceptions）與「許可行為」為同義辭
+       首先，就英國法而言，前述所謂著作權侵害的例外，其正式法
+律用語為「受許可之著作利用行為」（permitted uses of copyright
+works，以下簡稱為「許可行為」）；此用語來自英國著作權法第 3
+章的章名，亦即「與著作相關的許可行為」（“Acts Permitted in
+Relation to Copyright Works”）
+                            。第 3 章共有 48 條，鉅細靡遺地規定
+了受許可的著作利用行為13。更明確地說，規範「許可行為」的條
+款，可謂著作權法明定的例外，允許非著作權人於未得著作權人同
+意的情況下，對於著作為有限度的利用（limited use of copyright
+works）14。由此可知，就英國著作權法而言，「例外」（exceptions）
+與「許可行為」實乃同義辭，而以此二辭彙交替使用的情況，亦頗
+為普遍，例如，英國著名的智慧財產權法專家、劍橋大學前任
+Herchel Smith 智慧財產權講座教授 William Cornish，於其編輯的
+CASES AND MATERIALS ON INTELLECTUAL PROPERTY（2006 年，第 5
+版），使用「許可行為」（Permitted Acts）一辭作為標題15。但其於
+著名的教科書 INTELLECTUAL PROPERTY: PATENTS, COPYRIGHT, TRADE
+MARKS AND ALLIED RIGHTS 第 7 版（2010 年）中，則以「
+                                         『合理使用』
+     （“Fair Dealing” and Like Exceptions）作為標題16。
+及相關例外」
+
+
+13 s 28(1) of CDPA 1988 states that “[t]he provisions of this Chapter specify acts which
+   may be done in relation to copyright works notwithstanding the subsistence of
+   copyright”.
+14 關於各種「許可行為」的簡介，請參考：THE INTELLECTUAL PROPERTY OFFICE,
+   EXCEPTIONS TO COPYRIGHT, https://www.gov.uk/exceptions-to-copyright (last visited
+   Nov. 14, 2014).
+15 WILLIAM CORNISH, CASES AND MATERIALS ON INTELLECTUAL PROPERTY 331 (5th ed.
+   2006).
+16 CORNISH, LLEWELYN & APLIN, supra note 2, at 500. 亦有學者直接以「例外」
+   （exceptions）一辭說明許可行為，例如 HECTOR MACQUEEN, CHARLOTTE WAELDE,
+   GRAEME LAURIE & ABBE BROWN, CONTEMPORARY INTELLECTUAL PROPERTY: LAW
+論著作財產權之例外                                                                           387
+
+
+
+    （二）「例外」與「合理使用」並非同義辭
+                   （fair dealing）一辭泛稱前述英
+      以英國著作權法中「合理使用」
+國法中著作權侵害的例外規定，就用法而言恐不甚精準。在英國，
+「例外」與「合理使用」並非同義辭，因此交替使用此二辭彙，並
+不妥當。嚴格來說，fair dealing 雖為著作權例外的一種類型，但
+fair dealing 並非著作權例外的唯一類型。倘若以「是否涉及合理使
+用」為標準區分英國著作權法的例外條款，則此等規定許可行為的
+條文（第 28 條至第 75 條）可分為「構成合理使用之許可行為」以
+及「無涉合理使用之許可行為」等兩大類例外條款。第一類的條文
+帶有「合理使用」一辭，但第二類的條文中則並未涵括「合理使
+用」一辭。因此，將未出現合理使用一辭的條款與出現合理使用之
+用語的條款，一概視為合理使用的規範，將可能造成混淆。此兩類
+例外條款最大的差別是：適用未有合理使用一辭的條款時，無須考
+量利用著作的行為是否為合理使用行為，反之，適用帶有合理使用
+一辭的條款時，則必須檢視利用行為是否為合理使用。
+
+三、「無涉合理使用之許可行為」與合理使用之行為
+
+      由此觀之，何謂「無涉合理使用之許可行為」？何謂「構成合
+理使用之許可行為」？此等問題顯然非常重要。首先，何謂「無涉
+合理使用之許可行為」？舉例來說，按英國著作權法第 38 條（標
+題為「圖書館員之重製：期刊之文章」；Copying by librarians:
+articles in periodicals）第 1 項，圖書館員製作及提供單篇期刊文章
+的重製物，不構成著作權之侵害17。由於此條文中並無合理使用一
+
+
+   AND POLICY (2d ed. 2010), 該書第二部分“Copyright”之中的第 5 章，即以
+   “Copyright 4: Exceptions, technical protection measures, and contracts”作為標題。
+17 s 38(1) of CDPA 1988 provides that “[t]he librarian of a prescribed library may, if the
+   prescribed conditions are complied with, make and supply a copy of an article in a
+   periodical without infringing any copyright in the text, in any illustrations
+   accompanying the text or in the typographical arrangement”.
+ 388                                               國際比較下我國著作權法之總檢討
+
+
+
+辭，因此被告以此條文作為抗辯的依據時，法院審酌的重點，乃系
+爭利用著作行為是否為「圖書館員製作及提供單篇期刊文章的重製
+物」，無須考量此利用行為是否為合理使用。本文在此另舉一「無
+涉合理使用之許可行為」的條款說明之。根據第 39 條（標題為
+                 ；Copying by librarians: parts
+「圖書館員之重製：已出版著作之一部」
+of published works）第 1 項，圖書館員製作及提供（單篇期刊文章
+的重製物以外）已出版的語文、戲劇或、音樂著作一部之重製物，
+不構成著作權之侵害18。由於此條文中並無合理使用一辭，因此被
+告以此條文作為抗辯的依據時，法院無須思考相關的著作重製行為
+是否為合理使用19。
+
+
+18 s 39(1) of CDPA 1988 states that “[t]he librarian of a prescribed library may, if the
+   prescribed conditions are complied with, make and supply from a published edition a
+   copy of part of a literary, dramatic or musical work (other than an article in a
+   periodical) without infringing any copyright in the work, in any illustrations
+   accompanying the work or in the typographical arrangement”.
+19 英國著作權法中頗多此類條款。例如，根據英國著作權法第 31 條（標題為
+   「著作內容之附帶利用」；Incidental inclusion of copyright material），美術著
+   作、錄音物、影片或廣播電視附帶地涵括其他著作的內容，不構成著作權的侵
+   害。s 31(1) of CDPA 1988 provides that “[c]opyright in a work is not infringed by its
+   incidental inclusion in an artistic work, sound recording, film or broadcast”. 此外，
+   為了幫助視覺障礙者（visually impaired persons）利用著作，英國著作權法第
+   31B 條允許教育機構（an educational establishment）或非營利機構（a body that
+   is not conducted for profit）以幫助視覺障礙者使用著作為目的，重製已出版的
+   語文、戲劇、音樂或美術著作。s 31B(1) and s 31B(12) of CDPA 1988. s 31B(1)
+   states that “[i]f an approved body has lawful possession of a copy (‛the master copy’)
+   of the whole or part of –
+   (a) a commercially published literary, dramatic, musical or artistic work; or
+   (b) a commercially published edition,
+   it is not an infringement of copyright in the work, or in the typographical arrangement
+   of the published edition, for the body to make, or supply, accessible copies for the
+   personal use of visually impaired persons to whom the master copies not accessible
+   because of their impairment.”
+   According to s 31B(12), “Approved body” means an educational establishment or a
+   body that is not conducted for profit. s 31B(1) of CDPA 1988, id. 按英國智慧局的
+   說明，受此條款許可之人，除了包括全盲（blind）或僅有部分視力（partially
+   sighted）的視覺障礙者（visually impaired）外，亦包括無法聚焦或移動眼睛
+   （cannot focus or move eyes）之人。實際上，此許可行為常係轉換合法取得著
+論著作財產權之例外                                                                           389
+
+
+      其次，如前所述，規範「構成合理使用之許可行為」的條文，
+皆帶有「合理使用」一辭。本文在此舉三類實務上頗為常見的「構
+成合理使用之許可行為」說明之。第一，以「有關新聞報導之合理
+使用」為例，根據英國著作權法第 30 條第 2 項，以報導時事
+（current events）為目的，合理使用除照片之外任何種類的著作，不
+構成著作權之侵害。報導時事之著作合理使用，以清楚標示出處為
+前提 20 。第二，以「非商業的研究、個人研習（non-commercial
+research and private study）之合理使用」為例，根據著作權法第 29
+條第 1 項，
+      「若清楚標示出處，則以研究目的、非商業目的合理使
+用語文、戲劇、音樂或美術著作，不構成著作權之侵害」21。關於
+此條款中清楚標示出處的規定，按第 29 條第 1C 項，若實際上存在
+無法清楚標示的原因，則以研究、非商業目的合理使用著作，無須
+標示來源。根據第 29 條第 1C 項，
+                   「以個人研習為目的合理使用語
+文、戲劇、音樂或美術著作，不構成著作權之侵害」22。第三，以
+
+
+   作（lawfully obtained copyright works）的格式，使此等著作成為視覺障礙者得
+   以閱讀的內容。值得注意的是，此處的著作不以已出版者為限。此外，所謂轉
+   換格式的內容，除了包括點字書（Braille）                        、放大版的內容（large print）與有聲
+   書（audio tape）之外，亦包括可於電腦螢幕呈現的數位版（a digital copy）內
+   容。關於此許可行為，英國智慧局的網站提供了極具參考價值的資訊。THE
+   INTELLECTUAL PROPERTY OFFICE, HELPING DISABLED PEOPLE, https://www.gov.uk/
+   exceptions-to-copyright (last visited Nov. 14, 2014).
+20 According to s 30(2) of CDPA 1988, “[f]air dealing with a work (other than a
+   photograph) for the purpose of reporting current events does not infringe any
+   copyright in the work provided that (subject to subsection (3)) it is accompanied by a
+   sufficient acknowledgement”.（emphasis added）臺灣著作權法亦有關於時事報導
+   的合理使用規定。根據著作權法第 49 條，「以廣播、攝影、錄影、新聞紙、
+   網路或其他方法為時事報導者，在報導之必要範圍內，得利用其報導過程中所
+   接觸之著作」。按著作權法第 64 條，根據第 49 條規定利用他人著作者，應明
+   示其出處。明示出處，就著作人之姓名或名稱，除不具名著作或著作人不明者
+   外，應以合理之方式為之。
+21 s 29(1) of CDPA 1988 provides that “[f]air dealing with a literary, dramatic, musical
+   or artistic work for the purposes of research for a non-commercial purpose does not
+   infringe any copyright in the work provided that it is accompanied by a sufficient
+   acknowledgement”.
+22 s 29(1C) of CDPA 1988 states that “[f]air dealing with a literary, dramatic, musical or
+ 390                                              國際比較下我國著作權法之總檢討
+
+
+
+批判或評估（criticism or review）為目的的著作合理使用條款，係
+另一適用範圍極廣的例外條款。按英國著作權法第 30 條第 1 項，
+以批判或評估一著作為目的而合理使用該著作、其他著作或一著作
+之演出，不構成著作權之侵害。上述合理使用行為以清楚標示來源
+且被利用著作已公開為前提23。
+       既然有此等規範「構成合理使用之許可行為」的條文，則判斷
+合理使用的基準為何，顯係一項重要的議題。英國著作權法並未訂
+定相關基準，但從近 20 年的相關判決中，可歸納出以下三項重要
+判斷基準：
+   （一）須考量利用著作之人的目的；
+   （二）須考量被利用著作之重要性；
+   （三）須考量著作權人之合法權益。
+       首先，關於著作合理使用的判斷，英國法院特別著重利用著作
+之人的真正目的，不過須強調的是，就相關用語的使用而言，法院
+         （real objective）之外，亦曾使用「著作利用
+除了使用「真正目的」
+    （the motives of the user）一辭，或者以「著作之真正目
+人之動機」
+ （the actual purpose of the work）
+的」                              、        （the true
+                                 「著作之真實目的」
+purpose of the work）等辭彙，作為替代用語24。其次，必須考量被
+利用著作的重要性。所謂被利用著作的重要性，涉及被告利用的內
+容於原告著作中分量（amount）的多寡與重要性（importance）的
+高低25。第三，必須考量著作權人之合法權益26。英國法院曾於司
+法實務上強調伯恩公約第 9 條第 2 項的重要性，指出重製行為
+
+
+   artistic work for the purposes of private study does not infringe any copyright in the
+   work”.
+23 s 30(1) of CDPA 1988 provides that “ [f]air dealing with a work for the purpose of
+   criticism or review, of that or another work or of a performance of a work, does not
+   infringe any copyright in the work provided that it is accompanied by a sufficient
+   acknowledgement and provided that the work has been made available to the public”.
+24 謝國廉（註 9）        ，頁 94-95。
+25 謝國廉（註 9）        ，頁 97。
+26 謝國廉（註 9）        ，頁 99。
+論著作財產權之例外                                                                          391
+
+
+（ reproduction ） 不 應 與 著 作 人 就 其 著 作 所 為 之 一 般 利 用 行 為
+（normal exploitation）產生衝突（conflict）
+                                  ，亦不應對著作人的合法
+權益（legitimate interests）造成不合理的損害 27 。此處的合法權
+益，顯然包括經濟上的利益在內。不過，嚴格來說，適用「須考量
+著作人之合法權益」這項基準時，應平衡著作人的權益與公眾利用
+著作的權益，不得因為利用行為對著作人權益造成些微損害，即認
+定利用著作的行為並非合理使用。
+     值得補充說明的是，由於英國著作權法中“fair dealing”與美國
+法著作權法中“fair use”皆有“fair”一辭，加上二者於國內皆被譯為
+「合理使用」
+     ，因此二者常被視為同義辭，甚至有人認為美國法中規
+範“fair use”的條款，等同於前述英國法中著作權侵害的例外規定。
+此等理解方式存在著一定程度的誤解，顯有加以釐清的必要。美國
+法 雖 繼 受 英 國 法 ， 兩 國 法 同 屬 「 普 通 法 系 」（ common law
+system），但比較兩國著作權法中相關條文的內容，可知美國法既
+無英國法中詳細規範「無涉合理使用之許可行為」的條文，亦無就
+「構成合理使用之許可行為」詳加規範的條文。美國的著作權法，
+係就合理使用的判斷方式，訂定四項概括條款，分別為第 107 條第
+1 項至第 107 條第 4 項（§107（1）－§107（4）
+                               ），另由法院詮釋此
+等抽象之概括條款的適用方式：
+  （一）判斷著作合理使用的第一項基準為：「利用之目的與特
+
+
+
+27 根據伯恩公約第 9 條第 2 項（標題為「重製權：2. 可能之例外）」；Right of
+   Reproduction: 2. Possible exceptions） ，以下事項由伯恩公約各個會員國以立法的
+   方式加以規範：以未與著作人就其著作所為之一般利用行為產生衝突且未對著
+   作人合法權益造成不合理的損害為前提，他人於特定情況下得重製著作人之著
+   作。此條文的原文為：“It shall be a matter for legislation in the countries of the
+   Union to permit the reproduction of such works in certain special cases, provided that
+   such reproduction does not conflict with a normal exploitation of the work and does
+   not unreasonably prejudice the legitimate interests of the author.” 關於伯恩公約對
+   於重製權之例外的規範，請參考 WORLD INTELLECTUAL PROPERTY ORGANIZATION,
+   WIPO INTELLECTUAL PROPERTY HANDBOOK: POLICY, LAW AND USE 264 (2d ed.
+   2004)，以及許忠信，國際著作權公約及發展趨勢，頁 29（2009 年）                                     。
+392                                    國際比較下我國著作權法之總檢討
+
+
+
+        性，包括該使用係屬商業性質或係為達成非營利之教育目
+         （“the purpose and character of the use, including whether
+        的」
+        such use is of a commercial nature or is for nonprofit
+        educational purposes”）28。
+ （二）判斷著作合理使用的第二項基準為：「著作之性質」（“the
+        nature of the copyrighted work”）29。
+ （三）判斷著作合理使用的第三項基準為：「利用部分於整個著
+                （“the amount and substantiality of the
+        作之分量與重要性」
+        portion used in relation to the copyrighted work as a whole”）30。
+ （四）判斷著作合理使用的第四項基準為：「利用對於著作潛在
+                  （“the effect of the use upon the
+        市場或著作價值之影響」
+        potential market for or value of the copyrighted work”）31。
+      由此可知，美國法中規範“fair use”的條款，並不等同於前述英
+國法中的著作權例外條款，其理由如下。
+
+
+
+28 根據美國司法實務上的見解，此項基準最主要的著重點在於新著作是否具有轉
+   換效果。若新著作不具轉換效果，亦即利用他人著作所能達成的目的，與著作
+   權人使用其著作達成的目的大致相同，則利用他人著作的行為往往僅能達成單
+   純的營利目的。因此，利用人此時恐難成功主張此項利用係屬合理使用。
+29 就此項基準而言，美國司法實務上將著重點置於「被利用資料之價值」。之所
+   以如此，其原因在於某些著作的價值高於其他著作，若未能適度提高合理使用
+   的門檻，則無法提供此等著作妥適的著作權保障。至於著作價值高低的判斷，
+   以不同的標準可能得出不同的結論，但美國法院係從被利用著作創作性的高
+   低、經濟價值的大小、出版與否等因素，進行綜合的判斷。
+30 關於此項判斷基準，其著重點在於被利用內容的質量，其中質的重要性又高於
+   量的重要性。此處所謂質的重要性之高低，取決於美國著作權法第 107 條的前
+   兩項基準，亦即「利用之目的與特性」與「著作之性質」。倘若被利用內容係
+   單純描述事實的著作（涉及「著作之性質」的判斷），而此利用著作的行為又
+   具有轉換效果（涉及「利用之目的與特性」的判斷），則被利用內容占原著作
+   的分量並非觀察重點。
+31 關於此項判斷基準，其著重點有二。首先，就「利用對於著作價值之影響」而
+   言，此影響包括利用行為對於被利用著作市場價值所造成的積極與消極影響。
+   其次，就「利用對於著作潛在市場之影響」而言，此處著作潛在市場係指未來
+   可能出現的衍生著作市場。由於他人可能對此利用著作的行為群起效尤，因此
+   法院必須思考過多的模仿行為，是否會對衍生著作造成減損市場價值的危險。
+論著作財產權之例外                         393
+
+
+  第一，以“fair use”泛稱前述英國法中的著作權例外條款，顯有
+重大誤解。美國法並無英國法中詳細規範「無涉合理使用之許可行
+為」的條文，因此“fair use”與「無涉合理使用之許可行為」，全然
+無關。換句話說，前者涉及合理使用的判斷，但後者與合理使用全
+然無涉。第二，英國著作權法中“fair dealing”與美國法著作權法中
+“fair use”於國內雖皆被譯為「合理使用」，但二者並非同義辭，兩
+國規範範方式最主要的差異在於，英國著作權法就「構成合理使用
+之許可行為」，訂有鉅細靡遺的規範，但美國著作權法則無類似的
+條文，而僅有概括的抽象判斷基準。
+  第三，英國與美國的制度之間唯一近似之處在於，前述由英國
+法院近年司法實務所歸納出的三項關於“fair dealing”的判斷基準，
+於美國著作權法第 107 條中亦有類似的判斷方式。進一步來說，關
+於英國著作合理使用之判斷的第一項基準，英國法院特別著重利用
+著作之人的真正目的，而此項基準類似於美國著作權法第 107 條第
+1 項（§107（1）），亦即「利用之目的與特性，包括該使用係屬商
+業性質或係為達成非營利之教育目的」。就英國的第二項基準而
+言，法院認為有必要考量被利用著作的重要性，亦即審酌被告利用
+的內容於原告著作中分量的多寡與重要性的高低。此項基準幾乎等
+同於美國著作權法第 107 條第 2 項（§107（2）
+                           ）「著作之性質」加
+上第 107 條第 3 項（§107（3）
+                    ）「利用部分於整個著作之分量與重
+要性」。至於英國的第三項基準，則強調考量著作權人之合法權益
+的重要性。英國法院曾經強調，重製行為不應與著作人就其著作所
+為之一般利用行為產生衝突，亦不應對著作人的合法權益造成損
+害，此項基準類似於美國著作權法第 107 條第 4 項（§107（4）
+                                  ），
+亦即「利用對於著作潛在市場或著作價值之影響」
+                     。
+
+四、比較法之觀點
+
+  就英國著作權法而言，規範「許可行為」的條文係著作權法明
+定的例外，允許一般人在未得著作權人同意的情況下，對於著作為
+394                            國際比較下我國著作權法之總檢討
+
+
+
+有限度的利用。規範「許可行為」的條文，包括帶有「合理使用」
+一辭的條款，以及未帶有「合理使用」之用語的條款，兩者最大的
+差別在於：適用帶有「合理使用」一辭的條款時，必須檢視著作利
+用行為是否為合理使用。反之，適用未有「合理使用」一辭的條款
+時，僅需考量著作利用行為是否符合相關條款的要件，無須判斷利
+用行為是否為合理使用。
+      進一步來說，關於著作利用行為是否為合理使用行為的判斷，
+英國法院長期以來於案例法中，發展出數項判斷基準，分別考量利
+用著作之人的真正目的、被利用著作的重要性，以及著作權人的合
+法權益。必須強調的是，英國法院判斷特定利用著作之行為是否為
+「許可行為」時，此等合理使用判斷基準，並非獨立於著作權法相
+關條文的另一套判斷標準。法院僅利用此等基準判斷「涉及合理使
+用之許可行為」是否為合理使用，至於「無涉合理使用之許可行
+為」，則僅係單純之著作權效力的例外，並無利用此等基準的餘
+地。
+      探討臺灣著作合理使用的議題時，通常會直接聯想到臺灣著作
+權法第 44 條至第 66 條的規定，特別是第 65 條第 1 項以及第 2 項
+的 4 項概括性的基準32，但第 65 條第 2 項的 4 項概括基準與第 44
+條至第 63 條之間的關係為何？理想上，兩者應達成相輔相成的功
+效，但實際上，兩者之間的關係著實難以釐清。
+
+
+
+32 根據著作權法第 65 條第 1 項及第 2 項：「
+  著作之合理使用，不構成著作財產權之侵害。
+  著作之利用是否合於第 44 條至第 63 條規定或其他合理使用之情形，應審酌一
+  切情狀，尤應注意下列事項，以為判斷之基準：
+  一、利用之目的及性質，包括係為商業目的或非營利教育目的。
+  二、著作之性質。
+  三、所利用之質量及其在整個著作所占之比例。
+  四、利用結果對著作潛在市場與現在價值之影響。」
+  關於臺灣與美國著作合理使用之判斷基準，可參考謝國廉，著作合理使用之判
+  斷基準—評最高法院與高等法院「紫微斗數案」之判決，月旦法學雜誌，
+  182 期，頁 205-222（2010 年）
+                        。
+論著作財產權之例外                          395
+
+
+  首先，著作權法第 44 條至第 63 條中有部分條文，例如第 53
+條（得為認知障礙者重製著作），並無「合理範圍」或「必要範
+圍」等用語，故而應無第 65 條第 2 項 4 項概括基準適用的餘地，
+但此理解方式與第 65 條第 2 項的規定不符。根據第 65 條第 2 項，
+「著作之利用是否合於第 44 條至第 63 條規定或其他合理使用之情
+形，應審酌一切情狀，尤應注意下列事項，以為判斷之基準」，既
+然第 53 條亦於第 44 條至第 63 條規定的範圍內，因此上述「無第
+65 條第 2 項 4 項概括基準適用的餘地」的理解方式，顯然不符第
+65 條第 2 項的規定。其次，且不論第 44 條至第 63 條中未帶有
+「合理範圍」或「必要範圍」等用語的條文。即便吾等將關注的重
+點，聚焦於其他帶有「合理範圍」或「必要範圍」等用語的條文，
+此時究應優先審酌第 44 條至第 63 條中涉及特定利用著作行為的條
+文？抑或第 65 條第 2 項 4 項基準有適用上的優先性？此問題非僅
+涉及學理上的課題，相關的爭議亦增添了實務上判斷的難度。
+  舉例來說，某大學傳播學院的教授，受某市文化中心之邀請，
+赴該文化中心開辦的市民研習班，講授新聞攝影學，此教授掃描教
+科書中 20 張新聞攝影的照片，並將影像儲存至該文化中心建置的
+數位教學平台，要求修課的市民於每週課前就新聞攝影的學理，分
+別評析照片的優劣，其後此教授於課堂的螢幕展示影像並加以講
+解。倘若拍攝 20 張照片的攝影者，主張此教授利用著作的行為侵
+害其著作財產權，此教授可否於法院成功地主張合理使用？著作權
+法第 44 條至第 46 條中，與此爭議關係最密切的條文莫過於第 46
+條第 1 項：
+      「依法設立之各級學校及其擔任教學之人，為學校授課
+需要，在合理範圍內，得重製他人已公開發表之著作」。然而，由
+                  ，因此第 46 條第 1 項並
+市民研習班的教學並非「為學校授課需要」
+無適用的餘地。
+  此處最主要的爭議是，既然著作權法第 44 條至第 63 條中，並
+無可直接援引的條文，是否可謂此教授於法院已無成功地主張合理
+使用可能，無需另行考量第 65 條第 2 項的 4 項判斷基準？或者，
+396                     國際比較下我國著作權法之總檢討
+
+
+
+按第 65 條第 2 項，此等判斷基準可適用於「其他合理使用之情
+ ，因此第 44 條至第 63 條中雖無可直接援引的條文，但仍可將
+形」
+                    ，直接適用第 65 條
+上述例子中的事實視為「其他合理使用之情形」
+第 2 項的 4 項判斷基準？倘若如此，則對於任何具有爭議的著作利
+用行為，無論是否涉及第 44 條至第 63 條中帶有「合理範圍」或
+「必要範圍」等用語的條文，皆有考量 4 項判斷基準的必要。如此
+一來，法院事實上得不問著作權法第 44 條至第 63 條中是否有得以
+直接援引的條文，直接審酌第 65 條第 2 項的 4 項基準？本文以
+為，此種「第 65 條第 2 項本位」的判斷模式33，將於相當程度上架
+空第 44 條至第 63 條中帶有「合理範圍」或「必要範圍」等用語的
+條文。就上述的例子而言，立法者於第 46 條第 1 項已定有「為學
+校授課需要」的要件，倘若非「為學校授課需要」的市民研習班教
+學活動，亦可被視為「其他合理使用之情形」而應審酌第 65 條第
+2 項的 4 項判斷基準，則第 46 條第 1 項是否仍有存在的價值，實
+不無疑問。
+
+
+
+參、私人重製
+
+一、英國之現況
+
+      數位科技的高速發展，使重製他人著作成為一件非常簡單的行
+為。舉例來說，將電子書（e-books）及影片（videos）從特定媒介
+物轉存至另一媒介物，已成為極其容易之事。另舉一例說明之；就
+蘋果公司所販賣的 iPod 而言，此產品於市場上之所以受到消費者
+的歡迎，其中 1 個原因，即是因為其具有複製 CD 內容，並將其以
+數位 mp3 檔案（digital mp3 files）格式加以儲存的功能。許多消費
+
+
+33 與此判斷模式相對者，係將第 65 條第 2 項的 4 項基準視為「補充性的概括要
+ 件」的思考模式。
+論著作財產權之例外                                                                       397
+
+
+者認為，將購買的著作內容從特定裝置（device）轉存至另一裝
+置，係一合於著作權法的行為，而事實上，消費者的確擁有利用數
+位科技產品轉存著作的能力。然而，根據英國著作權法，於未取得
+同意（permission）的情況下私自利用受著作權法保護的著作，係
+侵害著作權的行為34。
+     進一步來說，根據英國實證研究的結果，已有明確的證據證
+明，消費者認為私人重製，特別是重製消費者已付費購買的著作內
+容，係合法行為，因此不應受到著作權法的限制。舉例來說，按一
+分 2010 年所公布的研究報告，在受調查的英國消費者中，僅有
+15% 明 瞭 ， 將 購 買 的 CD 的 內 容 複 製 到 MP3 播 放 器 （ MP3
+player），係一違反著作權法的行為。在相同的受訪者中，僅有 9%
+認為，此行為應被視為違反著作權法的行為35。此外，根據一項赫
+特福德大學（Hertfordshire University）受英國音樂產業委託所作的
+研究，在接受訪查的 14 歲至 24 歲的年輕人之中，有 87%的受訪者
+認為，將音樂轉存於不同裝置（to copy music between devices）
+                                           ，對
+他們而言是一項重要的事36。
+     事實上，英國的唱片業者，對於上述消費者的行為與消費者的
+認知，已有相當程度的瞭解，且正因為如此，業者從未針對上述的
+私人重製行為，提出過侵害著作權的訴訟。此外，許多數位下載服
+務（digital download services）的業者，於消費者購買音樂時，經
+常會提供明確的授權，允許買受人進行私人重製37。例如，蘋果公
+
+
+34 Her Majesty Government, supra note 4, § 7.23, at 61.
+35 Her Majesty Government, supra note 4, § 7.24, at 61. Consumer Futures, Time to
+   Change the Tune: Consumer Research Briefing on Copyright (2010), http://www.
+   consumerfutures.org.uk/wpfb-file/time-to-change-the-tune-pdf.
+36 Her Majesty Government, supra note 4, § 7.24, at 61. David Bahanovich & Dennis
+   Collopy, Music Experience and Behaviour in Young People (2009), p. 12, http://
+   musicbusinessresearch.files.wordpress.com/2013/03/university-of-hertfordshire-
+   bahanovich-collopy-2009-music-experience-and-behaviour-in-young-people-foliensatz.
+   pdf.
+37 Her Majesty Government, supra note 4, § 7.25, at 61.
+ 398                                             國際比較下我國著作權法之總檢討
+
+
+
+司於販賣 iTunes 時，即允許消費者重製其購買的內容。Amazon 所
+經營的 music store，亦允許以個人利用（personal use）為目的的無
+限次數重製（unlimited copying）38。再者，近年來英國的黑膠唱片
+（vinyl records）的銷售量增加，頗有「重生」之勢。何以如此？其
+主要原因在於，許多業者於販賣黑膠唱片時，會同時提供買受人 1
+組「數位下載碼」（a digital download code），消費者藉由此組密
+碼，可下載該黑膠唱片音樂的數位版本，下載後即可利用不同的設
+備，欣賞該黑膠唱片中的音樂，無需另外耗費心力，將購買的黑膠
+唱片的內容，轉換成數位格式並加以儲存，而這正是近年來英國黑
+膠唱片的銷量增加的重要原因39。
+       以上的各項發展，彰顯了一項重要的趨勢，亦即一個允許以私
+人利用為目的而重製內容的環境，對於消費者與唱片業者皆極為有
+利40。因此，英國政府認為，此趨勢所暗示（suggests）的是，無論
+是消費者或唱片業者，皆希望音樂可於不同裝置之間自由重製，而
+此期待若能實現，則唱片業者必將獲得相當的經濟利益41。
+
+二、英國之修正方向
+
+       根據上述的內容，以及英國政府於 12 月 20 日公布的回應報
+告，現行法許可的範圍，與大多數人所認為合理的私人重製，兩者
+之間存在著明顯的差距（a clear mismatch）。英國政府認為，現行
+法對於消費者加諸了不合理的限制（unreasonable restrictions on
+consumers）42。基於此項原因，英國政府計畫訂定一項私人重製例
+外條款（private copying exception）
+                             。此項例外，將許可小範圍的私
+人重製並以科技中立為原則（a narrow technology-neutral exception）
+                                                  ，
+
+
+38 Id.
+39 Her Majesty Government, supra note 4, § 7.26, at 62.
+40 Her Majesty Government, supra note 4, § 7.25 and 7.26, at 61, 62.
+41 Her Majesty Government, supra note 4, § 7.27, at 62.
+42 Her Majesty Government, supra note 6, at 25.
+論著作財產權之例外                                          399
+
+
+不限定重製的方法或儲存的媒介物。更精確地說，此項例外條款，
+將適用於所有種類的私人重製（all types of private storage）與各類
+享有著作權的著作（all types of copyright works）43。此條款將允許
+一著作之重製物的合法所有人或買受人（a lawful owner or buyer）
+                                         ，
+以個人使用為目的重製此重製物，但此條款禁止重製之後另行與他
+人分享的行為44。值得特別說明的是，此條款禁止任何人對於租、
+借或透過網路下載所取得的著作內容（rented, borrowed or streamed
+content）加以重製。
+   因此，此例外條款將允許個人重製其購買的音樂 CD，並將內
+容儲存於其手機，或者將電子書備份（back up）至電腦的硬碟或其
+他私人的儲存空間（private storage）。必須強調的是，未來英國國
+會一旦增訂此項例外條款，個人即可進行上述小範圍的私人重製，
+不問（regardless）上述買賣音樂 CD 或電子書的契約條款（contract
+terms）中，是否有相反的約定45。然而，如前所述，此例外條款將
+禁止重製之後另行與他人分享的行為，故而此條款禁止為私人重製
+行為之人，將其重製物給予朋友、家人或公眾46。
+   消費者某些合理且常見的行為，對於著作權人不會或幾乎不會
+產生任何惡害（causes little or no harm）
+                               ，因此增訂私人重製之例外
+條款的目的，在於使得著作權法的規定，能與此等合理且常見的行
+為一致。關於禁止重製之後另行與他人分享的規定，英國政府指
+出，雖然未有證據證明，家人之間或是其他親友之間的私人重製或
+流通的行為，將產生實質惡害（actual harm）
+                         ，同時在 2011 年 12 月
+
+
+
+43 Id. 根據修正計畫，新的著作權例外條款，允許公眾就享有著作權的內容以私
+   人、非商業使用為目的（for private, non-commercial use）的重製。此項新的例
+   外條款，將以｢科技、格式及平台中立｣（technology, format and platform
+   neutral）為原則，允許大眾將任何種類著作重製於任何種類的裝置或媒介物。
+   Her Majesty Government, supra note 4, § 7.39, at 65.
+44 Her Majesty Government, supra note 6, at 25.
+45 Id.
+46 Id.
+ 400                        國際比較下我國著作權法之總檢討
+
+
+
+14 日至 2012 年 3 月 21 日向各界公開徵詢意見的過程中，相關的
+回應人亦認為，親友之間的私人重製、流通，尚屬可接受的
+（acceptable）行為，但英國政府最終仍作出了不開放的決定。英國
+政府強調，增訂此條款的目的，並非在於讓大眾能免費取得各種著
+作的內容47。
+
+三、臺灣之觀點
+
+       臺灣著作權法第 44 條至第 66 條之中，涉及私人重製之合理使
+用的條文，係第 51 條：
+            「供個人或家庭為非營利之目的，在合理範
+圍內，得利用圖書館及非供公眾使用之機器重製已公開發表之著
+作」。不同於臺灣法的規定，英國政府計畫訂定的私人重製例外條
+款，係本文第二部分所界定的「無涉合理使用之許可行為」，因此
+在適用此例外條款時，完全無須考量著作利用行為是否為合理使用
+行為。本文建議，立法者應刪除臺灣著作權法第 51 條中「在合理
+範圍內」的要件，將此條文修正為一項著作權的限制（而非現行法
+中的著作合理使用）。此條文作為一項單純的著作權限制，一方面
+不會對著作權人的權益造成實質的負面影響，另一方面亦較符合消
+費者的認知與習慣。此外，英國未來的例外條款將以「科技、格式
+及平台中立」為原則，並未限制重製技術的種類、被儲存之內容的
+格式、儲存內容的裝置或媒介物48。避免此條款因為日後資訊科技
+的進步而無法涵括所有私人重製的態樣。換句話說，未來在英國，
+重製著作的機器是否非公眾使用，並非所問。
+       至於其他條文中，與私人重製較相關者，係第 91 條第 4 項：
+「著作僅供個人參考或合理使用者，不構成著作權侵害」
+                        。然而，91
+條前 3 項所規範者，係侵害重製權的構成要件以及刑事責任，因此
+第 91 條第 4 項僅係阻卻構成要件事由或阻卻違法事由，與侵害重
+
+
+47 Id.
+48 例如 MP3 播放器或私人於網路上的儲存空間（online storage）
+                                        。
+論著作財產權之例外                                          401
+
+
+製權之民事責任的認定無涉。其次，此條文中所謂「個人參考」的
+範圍，小於英國私人重製之例外條款所許可的範圍。後者雖僅許可
+小範圍的私人重製，但個人就重製物所為的各種非商業利用（甚至
+包括個人娛樂而不侷限於參考）
+             ，仍應落入此小範圍之中。
+   本文認為，未來倘若臺灣計畫引進英國私人重製的例外條款，
+應進一步思索是否徵收私人重製費（private copying levies）的問
+題。根據歐盟法，若一會員國的私人重製例外條款造成著作權人經
+濟上的損失（causes economic harm to copyright owners）
+                                              ，則此會員
+國應建置相對應的補償制度（a system of compensation）49。英國政
+府將確保此係一項小範圍的例外條款，減少（minimise）私人重製
+對於著作權人帶來的負面影響。雖然在英國以外的其他歐洲聯盟的
+會員國之中，有部分國家已就電子裝置（electronic devices）或空白
+媒介物（blank media）徵收私人重製費50。但由於英國為了避免建
+置補償機制可能帶來的困擾，因此英國政府將竭力確保私人重製之
+例外條款的許可範圍不至於過於寬廣51。
+
+
+
+肆、教育
+
+一、英國之現況
+
+   目前的英國著作權法，已訂有多項以教育為目的的合理使用條
+款。立法者之所以訂定此等例外條款，係因為英國民眾普遍認為，
+教育乃公共財（public good）之一種，其本身即可帶來經濟利益與
+
+
+49 Her Majesty Government, supra note 4, § 7.39, at 65.
+50 Id.
+51 Id. 英國政府於 2012 年 12 月 20 日公布的回應報告中強調，僅許可小範圍之私
+  人重製的例外條款，由於對於著作權人僅造成低度損害（minimum harm），因
+  此並無徵收私人重製費或建置其他補償機制的必要性。Her Majesty Government,
+  supra note 6, at 24.
+ 402                                             國際比較下我國著作權法之總檢討
+
+
+
+社會利益（economic and social benefits）
+                                 。以教育為目的的合理使用
+條款，特別是以下的條款，明定特定的利用著作行為，不構成著作
+權侵害52。
+       首先，根據英國著作權法第 32 條（標題為「以教學或考試為
+目 的 所 為 之 行 為 」（ “Things done for purposes of instruction or
+examination” ） 第 1 項 ， 於 非 商 業 目 的 （ for a non-commercial
+purpose）的教學活動或教學準備過程中利用語文、戲劇、音樂或美
+術著作，不構成著作權之侵害，但此利用著作的行為必須符合以下
+要件：
+   （一）重製須由教學者或受教者為之；
+   （二）重製之行為，不得以平面複製之方法（a reprographic
+           process）為之；
+   （三）重製須清楚標示出處53。
+       此項例外條款的適用範圍，雖不限於教育機構（educational
+establishments）的教學行為，亦即非教育機構的教學行為亦有此條
+款的適用，但由於第 2 款規定，重製之行為不得以平面複製之方法
+為之，故而此條款的許可範圍極為狹隘。此處的平面複製方法，包
+括複印、印刷或使用科技產品所為的重製著作行為，例如利用互動
+式電子白板、PowerPoint 的著作重製行為。換句話說，實際上此項
+例外條款所允許的行為，主要僅是授課教師使用奇異筆或粉筆，將
+書本上某段文字抄寫到教室的黑板或白板上並加以說明的行為而已。
+       其次，根據英國著作權法第 35 條（標題為「教育機構對於廣
+
+
+
+52 Her Majesty Government, supra note 4, § 7.123, at 89.
+53 s 32(1) of CDPA 1988 states that “[c]opyright in a literary, dramatic, musical or
+   artistic work is not infringed by its being copied in the course of instruction or of
+   preparation for instruction, provided that copying –
+   (a) is done by a person giving or receiving instruction,
+   (b) is not done by means of a reprographic process, and
+   (c) is accompanied by a sufficient acknowledgement,
+   and provided that the instruction is for a non-commercial purpose.”
+論著作財產權之例外                                                                           403
+
+
+電 影 音 之 錄 製 」（ “Recording by educational establishments of
+broadcasts”）第 1 項的規定，教育機構得為該機構的教育目的（for
+the educational purposes）
+                        ，儲存一段廣電影音（a broadcast）或重製
+已儲存的廣電影音，但重製須清楚標示出處，且上述教育目的須為
+非商業（non-commercial）的教育目的54 。單就上述規定而言，此
+項例外條款開放的範圍頗為寬廣，包括國民小學、中學、大學在內
+的各級教育機構，得按此條款儲存廣播節目的影音或電視節目的影
+音，並得於日後將儲存的內容對師生播放，以滿足教學的需要。然
+而，根據第 35 條第 2 項的例外規定，若主管機關核准特定人就教
+育目的之著作利用，經營著作權授權業務，則第 1 項不適用之55。
+目前，英國政府已核准 the Copyright Licensing Agency 和 the
+Educational Recording Agency 等著作權集體管理團體，以及英國空
+中大學（the Open University）
+                       ，就教育目的之著作利用，經營著作
+權授權業務56。因此，實際上第 35 條第 2 項的例外規定，已使得第
+1 項所開放的範圍，幾乎形同具文。從另一個角度來說，各級教育
+機構即便是為了非商業的教育目的儲存廣播節目、電視節目的內
+容，或者重製已儲存的節目內容，此等教育機構仍須取得授權，否
+則其重製行為將構成著作權之侵害。
+      此外，按英國著作權法第 36 條（標題為「教育機構就已出版
+            （“Reprographic copying by educational
+著作之部分內容之平面重製」
+establishments of passages from published works”）第 1 項的規定，於
+
+
+54 According to s 35(1) of CDPA 1988, “[a] recording of a broadcast, or a copy of such a
+   recording, may be made by or on behalf of an educational establishment for the
+   educational purposes of that establishment without thereby infringing the copyright in
+   the broadcast, or in any work included in it, provided that it is accompanied by a
+   sufficient acknowledgement of the broadcast and that the educational purposes are
+   non-commercial”.
+55 According to s 35(2) of CDPA 1988, “[t]his section does not apply if or to the extent
+   that there is licensing scheme certified for the purposes of this section under section
+   143 providing for the grant of licences”.
+56 Her Majesty Government, supra note 4, § 7.127, at 89.
+ 404                                                國際比較下我國著作權法之總檢討
+
+
+
+本條許可的範圍內，教育機構得為教學目的平面複製或由他人代為
+平面複製已出版的語文、戲劇或音樂著作，但此重製應清楚標示出
+處，且此處的教學活動，僅限於非商業目的的教學57。值得特別注
+意的是，按第 2 項的規定，教育機構或代為重製者每季之重製不得
+超過一著作的百分之一，而每季起迄的時間點分別為 1 月 1 日至 3
+月 31 日、4 月 1 日至 6 月 30 日、7 月 1 日至 9 月 30 日、10 月 1
+日至 12 月 31 日58。舉例來說，根據此項規定，各級教育機構得影
+印專書或期刊的一小部分的內容作為講義59。然而，同條第 3 項係
+一類似於第 35 條第 2 項的例外規定，因此各級學校即便是為了非
+商業的教育目的而影印專書或期刊的部分內容作為講義，各校仍須
+透過經營著作權授權業務的組織（主要是著作權集體管理團體）取
+得授權，否則其重製行為將構成著作權之侵害。
+
+二、英國之修正方向
+
+       英國政府於 2012 年 12 月 20 日公布的回應報告中指出，各級
+教 育 機 構 於 使 用 著 作 時 面 對 著 「 特 定 之 挑 戰 」（ particular
+challenges）。同時，英國政府已發現相關的著作權法規定與授權契
+
+
+
+57 According to s 36(1) of CDPA 1988, “[r]eprographic copies of passages from
+   published literary, dramatic or musical works may, to the extent permitted by this
+   section, be made by or on behalf of an educational establishment for the purposes of
+   instruction without infringing any copyright in the work, provided that they
+   accompanied by a sufficient acknowledgement and the instruction is for a non-
+   commercial purpose”. 此重製應清楚標示出處，除非事實上存在著難以標示的理
+   由（例如著作之著作人不明）。According to s 36(1A) of CDPA 1988, “[n]o
+   acknowledgement is required in connection with the making of copies as mentioned
+   in subsection (1) where this would be impossible for reasons of practicality or
+   otherwise”.
+58 s 36(2) of CDPA 1988 states that “[n]ot more than one per cent. Of any work may be
+   copied by or on behalf of an establishment by virtue of this section in any quarter, that
+   is, in any period 1st January to 31st March, 1st April to 30th June, 1st July to 30th
+   September or 1st October to 31st December”.
+59 此處所謂一小部分的內容，相對應的英文用語為 an extract 或 short passages。
+論著作財產權之例外                                                           405
+
+
+約，「過度複雜而僵化」（over-complicated and bureaucratic）60。本
+文的第二部分，區隔了英國著作權法中「未出現合理使用一辭的條
+款」與「出現合理使用之用語的條款」，亦即「涉及合理使用之許
+可行為」與「無涉合理使用之許可行為」。按前述的分析，兩者最
+大的差別是，適用未有合理使用一辭的條款時，無須考量著作利用
+行為是否為合理使用行為，反之則必須檢視利用行為是否為合理使
+用。
+     首先，就英國著作權法第 32 條而言，此條應屬「無涉合理使
+用之許可行為」，但根據回應報告，英國政府計畫將此條文所許可
+的著作利用行為，修正為「涉及合理使用之許可行為」。按現行法
+第 32 條第 1 項及第 2 項的規定，教學活動中的重製的行為，僅得
+以「非平面複製之方法」為之，故而此條款許可的範圍極為狹隘，
+但未來新的條文將規定：授課者為講授特定主題，得於必要之範圍
+內利用他人之著作進行闡釋（“permit the use of copyright works to
+the extent necessary by way of illustration to teach about a subject”）61。
+此項新條款搭配另一允許合理範圍內引用（quotation）他人著作的
+例外條款，除了涵括現行法第 32 條第 1 項及第 2 項較為狹隘的許
+可範圍之外，亦將擴張許可的範圍，於其他不阻礙著作權人正常利
+用著作（normal exploitation）的情況下，允許小規模利用他人著作
+的行為（minor uses of materials protected by copyright）62。舉例來
+說，某位講授 20 世紀藝術的教師掃描 1 幅畢卡索的畫作，並於課
+堂上利用互動式電子白板向學生展示，此重製並展示美術著作的
+行為，係未來修正條文所許可的利用行為63。值得注意的是，未來
+一旦英國國會增訂此項合理使用條款，所有教育機構、非教育機
+構及個人，即可依據上述條款，於合理範圍內就著作為非商業的利
+
+
+60 Her Majesty Government, supra note 6, at 40.
+61 Id.
+62 Id.
+63 Id.
+  406                                國際比較下我國著作權法之總檢討
+
+
+
+ 用行為，不問著作的買賣契約或授權契約條款（contract and licence
+ terms）中，是否有相反的約定64。
+        其次，根據回應報告，就英國著作權法第 35 條及第 36 條來
+ 說，教育機構重製廣電影音以及重製語文、戲劇或音樂著作之一小
+ 部分內容的行為，仍須取得授權。總體而言，英國政府就此二例外
+ 條款，計畫保留現行法中原則性的規定，並未規畫大規模的修正。
+ 其原因在於，若修改此二條文，允許於教育機構內大規模重製及分
+ 享書籍及其他著作（mass copying and sharing of books and other
+ materials），可能造成著作權人不合理的損失，減損創作人的誘因
+（damage incentives to creators）65。
+        然而，英國政府雖計畫保留著作權法第 35 條及第 36 條中原則
+ 性的規定，但其認為部分的修正仍有其必要性。英國政府主張，第
+ 35 條的規定，尚符合其立法目的，但就第 36 條而言，其立法目的
+ 在於防止學校及其他教育機構侵害著作權，但禁止平面複製已出版
+ 的語文、戲劇或音樂著作，對於達成上述立法目的的助益有限。舉
+ 例來說，若一語文、戲劇或音樂著作的著作權人不願授權任何人以
+ 平面複製的方式複製其著作，則第 36 條根本鮮有適用的餘地，遑
+ 論防止教育機構侵害其著作權。職是之故，英國政府計畫修改第
+ 36 條，將此例外條款的適用範圍，擴及所有的著作種類。同時，
+ 修正後的條文將允許平面複製任何著作，不問著作權人是否同意就
+ 平面複製進行授權。
+
+ 三、臺灣之觀點
+
+        根據臺灣著作權法第 46 條第 1 項：
+                           「依法設立之各級學校及其
+ 擔任教學之人，為學校授課需要，在合理範圍內，得重製他人已公
+ 開發表之著作」。相較於英國法，臺灣法所允許之以教育為目的重
+
+
+ 64 Id.
+ 65 Id. at 41.
+論著作財產權之例外                         407
+
+
+製範圍雖然並不狹隘，但此項規定似嫌簡略。
+   首先，在強調終身學習的今天，區隔學校教育與非學校教育
+（例如社區教育及專業培訓）的實益有限，故而此處合理重製他人
+著作之人，不應限於學校及其擔任教學之人。其次，重製的目的僅
+需限定於學習的目的即可，無須限縮於「學校授課需要」。舉例來
+說，現今的教育強調互動式教學法，鼓勵學習者主動蒐集資訊、分
+享資訊、參與討論，因此學生為了學習的目的，亦有重製他人著作
+的需求。例如，掃描他人著作的一部分、上傳至課程的數位學習平
+台，其後與同儕及教師共同討論。此種利用著作的行為，係為達成
+學習的目的，但由於此係學生所為的利用行為，因此難以解釋為利
+           。本文認為，著作權法第 46 條第 1 項的
+用著作之人的「授課需要」
+重製目的，限於廣義的學習目的即可，侷限於「學校授課需要」，
+實無必要。此外，第 46 條第 1 項中的「合理範圍」應如何界定，
+此係一長期困擾臺灣教育界的問題。例如，取得重製廣播節目或電
+視節目之授權的程序繁瑣，倘若教育機構重製廣播節目或電視節目
+的行為能落入合理使用的範圍，則學校教育的素材將更為多元。然
+而，就現行法而言，由於此時重製的比例，往往占原錄音著作或原
+視聽著作的全部，加上此利用行為通常並未具有轉換
+（transformative）效果，因此不易主張合理使用。針對廣播節目的
+重製與電視節目的重製，是否應另行訂定未帶有「合理範圍」之要
+件的例外條款？此乃一值得思索的方向。
+
+
+
+伍、結論與修正建議：以「著作財產權之例外」
+  作為上位概念
+
+   關於著作利用行為是否為合理使用行為的判斷，英國法院長期
+以來於案例法中，發展出數項判斷基準，分別考量利用著作之人的
+真正目的、被利用著作的重要性，以及著作權人的合法權益。必須
+408                   國際比較下我國著作權法之總檢討
+
+
+
+強調的是，英國法院判斷特定利用著作之行為是否為「許可行為」
+時，此等合理使用判斷基準並未享有優先性。法院僅利用此等基準
+判斷「涉及合理使用之許可行為」是否為合理使用，至於「無涉合
+理使用之許可行為」，則僅係單純之著作權效力的例外，並無利用
+此等基準的餘地。探討臺灣著作合理使用的議題時，通常會直接聯
+想到臺灣著作權法第 44 條至第 66 條的規定，特別是第 65 條第 1
+項以及第 2 項的 4 項概括性的基準，但第 65 條第 2 項的 4 項概括
+基準與第 44 條至第 63 條之間的關係為何？兩者之間的關係著實難
+以釐清。即便吾等僅將關注的重點，聚焦於其他帶有「合理範圍」
+或「必要範圍」等用語的條文，此時究應優先審酌第 44 條至第 63
+條中涉及特定利用著作行為的條文？抑或第 65 條第 2 項 4 項基準
+有適用上的優先性？此問題非僅涉及學理上的課題，相關的爭議亦
+增添了實務上判斷的難度。
+
+一、概念、架構與用語
+
+      嚴格來說，著作財產權的限制與著作的合理使用，並非相同的
+概念。首先，就著作財產權的限制而言，立法者於立法時已明文限
+制著作權人就著作（有時限於某些著作種類）的特定利用方式享有
+排他權，概念上等同於前述英國著作權法中「無涉合理使用之許可
+  。舉例來說，根據臺灣著作權法第 53 條第 1 項，
+行為」                        「已公開發
+表之著作，得為視覺障礙者、學習障礙者、聽覺機能障礙者或其他
+視、聽覺認知有障礙者以點字、附加手語翻譯或文字重製之」，因
+此他人就已公開發表之著作為上述障礙者所為的重製行為，並未落
+入著作權人可主張的排他權範圍。此項條文中未有「合理範圍內」
+或「必要範圍內」等要件，因此無須判斷此種重製行為是否合理或
+必要。其次，就著作的合理使用而言，立法者針對著作權人就著作
+的特定利用方式是否享有排他權，認為應按合理使用的判斷基準加
+以審酌，概念上等同於前述英國著作權法中的「合理使用」。舉例
+來說，根據臺灣著作權法第 52 條，
+                 「為報導、評論、教學、研究或
+論著作財產權之例外                         409
+
+
+其他正當目的之必要，在合理範圍內，得引用已公開發表之著
+作」，因此他人為此等目的引用已公開發表之著作所為的引用行
+為，究竟是否落入著作權人可主張的排他權範圍，應審酌合理使用
+的判斷基準。由此可知，著作財產權的限制與著作的合理使用，實
+非相同概念。
+  然而，現行臺灣著作權法的相關條文，顯然將二者混為一談。
+何以見得？臺灣著作權法第三章的章名為「著作人及著作權」，其
+中第四節（標題為「著作財產權」）的第四款為「著作財產權之限
+ ，第 44 條至第 66 條皆屬此款。就此結構而言，第 44 條至第
+制」
+66 條所規範者，當屬「著作財產權之限制」
+                    。不過，著作權法第 65
+條第 2 項前段規定，
+          「著作之利用是否合於第四十四條至第六十三
+條規定或其他合理使用之情形，應審酌一切情狀，尤應注意下列事
+         ，第 44 條至第 66 條係合理使用的情形，除
+項，以為判斷之基準」
+此等情形外，尚有「其他合理使用之情形」，而無論何種合理使用
+的情形，皆應審酌第 65 條第 2 項所列的 4 項基準。由此可知，臺
+灣著作權法，顯然混淆了著作財產權之限制與著作之合理使用的概
+念。
+  此概念上的混淆所衍生出兩項重大問題。第一，涉及著作財產
+權限制的條文，例如前述第 53 條第 1 項關於他人為障礙者重製著
+作的規定，第 65 條第 2 項所列的 4 項基準並無適用的餘地，但事
+實上第 53 條卻又位於第 44 條至第 66 條的範圍內，倘未審酌此 4
+項基準，似有違反第 65 條第 2 項的強制規定之嫌。第二，根據著
+作權法第 65 條第 1 項，
+              「著作之合理使用，不構成著作財產權之侵
+害」，但著作財產權的限制，是否亦「不構成著作財產權之侵
+害」？觀察著作財產權之限制的性質，其斷無「構成著作財產權侵
+害」之理，但第 65 條第 1 項的語意，卻無法彰顯出此明確之理。
+  在此，本文提出以下的修法建議。首先，將著作權法第三章第
+4 節第 4 款的標題修正為「著作財產權之例外」
+                       ，將著作權法第 65
+條第 1 項移列至相關條文之首，亦即現行法第 44 條的位置，並將
+410                 國際比較下我國著作權法之總檢討
+
+
+
+此項修正為「著作財產權之限制與著作之合理使用，不受他人著作
+財產權之效力所拘束」。本文以為，未來應以「著作財產權之例
+外」作為上位概念，涵括「著作財產權之限制」與「著作的合理使
+用」等兩大類例外條款，一方面釐清相關用語與概念，另一方面對
+於著作財產權之效力的界定，亦有所助益。
+      其次，既已明確區隔「著作財產權之限制」與「著作的合理使
+用」等兩大類例外條款，本文進一步建議將現行著作權法第 48
+條、第 48 條之 1、第 53 條及其他「著作財產權之限制」的條文，
+一併移列至「著作財產權之例外」條款的前半部，現行法第 44
+條、第 45 條、第 46 條及其他「著作之合理使用」條款，則一併置
+於後半部。至於第 65 條第 2 項，則移列至「著作之合理使用」相
+關條款之首，同時修正為：
+      著作之利用是否合於（第……條至第……條）合理使用之情
+形，主張著作合理使用之人，應依下列基準及（第……條至第……
+條）之規定提出抗辯：
+      一、利用之目的及性質，包括係為商業目的或非營利教育目
+        的，或為戲謔、仿作等轉化性使用。
+      二、被利用著作之價值。
+      三、被利用著作之重要性及利用之分量在整個被利用著作所占
+        之比例。
+      四、利用結果對被利用著作之潛在市場與現在價值之影響。
+      首先，此項中兩個中括號內的條文相同，皆為詳細規定「著作
+之合理使用」的相關條款。其次，此項修正建議，確立了應同時審
+酌第 65 條第 2 項及「著作之合理使用」相關條款的原則。第三，
+刪除第 65 條第 2 項前段中「其他合理使用之情形」的用語，將
+「著作合理使用」之相關條款的性質，界定為列舉的性質，排除了
+「其他合理使用之情形」的存在。現行法第 65 條第 2 項前段中「其
+他合理使用之情形」的用語，雖具有一定的彈性，在適用上較有利
+於利用人，但權利人將因此面對不確定性極高的合理使用抗辯。本
+論著作財產權之例外                      411
+
+
+文以為，排除了「其他合理使用之情形」的存在，一方面將使利用
+著作之人於未有直接相關的合理使用條款時，無須單獨審酌第 65
+條第 2 項，另一方面亦平衡了利用人與權利人之間的權益，使權利
+人無須時刻面對範圍寬廣卻又不明確的合理使用抗辯。第四，確立
+了合理使用事由係被告之抗辯事由的原則。從立法政策的角度觀
+之，倘若被告選擇不就（行為外觀上）符合著作財產權侵害的行為
+提出未侵權的抗辯，法院實無須浪費寶貴的司法資源於相關事實的
+調查與釐清。
+
+二、私人重製之限制條款、以教育為目的之合理使用
+
+  充實臺灣「著作財產權之限制」與「著作的合理使用」等兩大
+類例外條款，並非一蹴可及的目標，因此本文僅針對私人重製的限
+制條款與以教育為目的的合理使用，提出本文的見解。首先，就私
+人重製而言，臺灣著作權法第 51 條涉及私人重製的合理使用。不
+同於臺灣法的規定，英國政府計畫訂定的私人重製例外條款，係本
+文第二部分所界定的「無涉合理使用之許可行為」，故而完全無須
+考量著作利用行為是否為合理使用行為。本文建議，立法者應刪除
+臺灣著作權法第 51 條中「在合理範圍內」的要件，將此條文修正
+為一項著作權的限制（而非現行法中的著作合理使用）。此條文作
+為一項單純的著作權限制，一方面不會對著作權人的權益造成實質
+的負面影響，另一方面亦較符合消費者的認知與習慣。此外，未來
+英國的例外條款採取以「科技、格式及平台中立」為原則，並未限
+制重製技術的種類、被儲存之內容的格式、儲存內容的裝置或媒介
+物，避免此條款因為日後傳播科技的進步而無法涵括所有私人重製
+的態樣。換句話說，未來在英國，重製著作的機器是否非公眾使
+用，並非所問。
+  其次，針對以教育為目的的合理使用，相較於英國法，臺灣著
+作權法第 46 條第 1 項所允許的重製範圍雖然並不狹隘，但此項規
+定似嫌簡略。首先，在強調終身學習的今天，區隔學校教育與非學
+412               國際比較下我國著作權法之總檢討
+
+
+
+校教育的實益有限，故而此處合理重製他人著作之人，不應限於學
+校及其擔任教學之人。其次，本文認為，著作權法第 46 條第 1 項
+的重製目的，限於廣義的學習目的即可，侷限於「學校授課需
+要」
+ ，實無必要。
+論著作財產權之例外                                                        413
+
+
+
+
+                            參考文獻
+
+1. 中文部分
+許忠信（2009），國際著作權公約及發展趨勢，臺北：經濟部智慧
+    財產局。
+謝國廉（2010），著作合理使用之判斷基準—評最高法院與高等
+    法院「紫微斗數案」之判決，月旦法學雜誌，182期，頁205-
+    222。
+—（2011），英國著作權法關於合理使用之規範，收於：黃銘
+    傑編，著作權合理使用規範之現在與未來，頁87-114，臺北：
+    元照。
+
+2. 外文部分
+
+Bahanovich, David, and Dennis Collopy. 2009. Music Experience and
+    Behaviour in Young People. http://musicbusinessresearch.files.
+    wordpress.com/2013/03/university-of-hertfordshire-bahanovich-
+    collopy-2009-music-experience-and-behaviour-in-young-people-
+    foliensatz.pdf.
+Consumer Futures. 2010. Time to Change the Tune: Consumer Research
+    Briefing on Copyright. http://www.consumerfutures.org.uk/wpfb-
+    file/time-to-change-the-tune-pdf.
+Cornish, William. 2006. Cases and Materials on Intellectual Property.
+    5th ed. London: Sweet & Maxwell.
+Cornish, William, David Llewelyn, and Tanya Aplin. 2010. Intellectual
+    Property: Patents, Copyrights, Trade Marks and Allied Rights. 7th
+    ed. London: Sweet & Maxwell.
+Her Majesty Government. 2011. Consultation on Copyright. http://
+414                                         國際比較下我國著作權法之總檢討
+
+
+
+      webarchive.nationalarchives.gov.uk/20140603093549/http://www.i
+      po.gov.uk/consult-2011-copyright.pdf.
+─. 2011. The Government Response to the Hargreaves Review of
+      Intellectual    Property    and       Growth.   https://www.gov.uk/
+      government/uploads/system/uploads/attachment_data/file/32448/11-
+      1199-government-response-to-hargreaves-review.pdf.
+─. 2012. Modernising Copyright: A Modern, Robust and Flexible
+      Framework – Government Response to Consultation on Copyright
+      Exceptions and Clarifying Copyright Law. http://webarchive.
+      nationalarchives.gov.uk/20140603093549/http://www.ipo.gov.uk/re
+      sponse- 2011-copyright-final.pdf.
+The Intellectual Property Office. 2012. Consultation on Copyright –
+      Summary of Responses June 2012. https://www.gov.uk/government/
+      uploads/system/uploads/attachment_data/file/320223/copyright-
+      consultation-summary-of-responses.pdf.
+─. 2014. Copyright Infringement. https://www.gov.uk/intellectual-
+      property-crime-and-infringement.
+─. 2014. Exceptions to Copyright. https://www.gov.uk/exceptions-
+      to-copyright.
+─. 2014. Helping Disabled People. https://www.gov.uk/exceptions-
+      to-copyright.
+─. 2014. Substantial Part. https://www.gov.uk/enforcing-your-
+      copyright.
+MacQueen, Hector, Charlotte Waelde, Graeme Laurie, and Abbe Brown.
+      2010. Contemporary Intellectual Property: Law and Policy. 2d ed.
+      Oxford: Oxford University Press.
+World Intellectual Property Organization. 2004. WIPO Intellectual
+      Property Handbook: Policy, Law and Use. 2d ed. Geneva: World
+      Intellectual Property Organization.
+

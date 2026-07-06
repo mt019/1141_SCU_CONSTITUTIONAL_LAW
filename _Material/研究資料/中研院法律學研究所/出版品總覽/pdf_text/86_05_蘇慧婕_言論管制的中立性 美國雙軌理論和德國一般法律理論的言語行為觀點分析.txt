@@ -1,0 +1,2526 @@
+《憲法解釋之理論與實務》第九輯        李建良主編
+身心障礙行不行                                                 201
+臺北 中央研究院法律學研究所 專書 (21)
+民國 106 年 4 月，頁 201-269
+
+
+                                         ＊
+                言論管制的中立性
+       — 美國雙軌理論和德國一般法律理論的
+            言語行為觀點分析
+
+                        蘇慧婕＊＊
+
+
+                         摘 要
+  對於「言論管制中立性」的明確要求，不同國家的憲法實務作
+出了迥異的詮釋，並因此面臨了不同的時代挑戰。為了解釋前述歧
+見並且根本釐清此項概念，本文從言論作為社會溝通的本質出發，
+將憲法保障的言論理解為言語行為（speech act）。藉由言語行為理
+論對言辭、在言、由言行為的層次區分，去定義「言論」、「內
+容」、
+  「中立性」等概念，進而澄清「表意行為與單純行為」      、「言論
+的溝通成分與非溝通成分」、「言論溝通效果與法益侵害」等言論自
+由的重要概念區分，以及各種言論管制類型的中立性判斷。在言語
+行為理論的基礎之上，本文後半段也將進一步分析美國雙軌理論與
+德國一般法律理論的構成，除了指出各該理論在預設價值立場上的
+矛盾，同時也對兩種理論之價值傾向與矛盾所可能面臨的挑戰提出
+警示。
+
+
+
+
+＊  投稿日：2016年7月25日；接受刊登日：2016年12月14日。［責任校對：張幼
+   文］
+    。
+   對於兩位匿名審查委員的建議與指正，作者謹致謝忱。此外，作者亦要特別
+   感謝中研院歐美所陳湘韻助研究員在本文論證強化以及寫作層次區分上的犀
+   利提醒與協助。
+＊＊ 中央研究院歐美研究所助研究員。
+   穩定網址：http://publication.iias.sinica.edu.tw/71300171.pdf。
+202                     《憲法解釋之理論與實務》第九輯
+
+
+
+關鍵詞：言論內容中立性、「言論－行為」區分、言語行為理論、
+    雙軌理論、一般法律理論。
+
+
+
+                  目 次
+
+    壹、緒論               一、言論管制中立性的判定：
+    貳、言論管制中立性的爭議成因       時、地、方式之形式管制
+    參、「言論」、「內容」、「中立      與立法目的
+      性」的概念界定：言語行為     二、雙軌理論的價值立場與體
+      的觀點                系矛盾
+     一、言論：傳遞意義的行為     伍、一般法律理論的爭議與分析
+     二、語言溝通的言論內容       一、法律一般性的判定
+     三、非語言溝通的言論內容      二、一般法律理論的價值立場
+     四、言論管制中立性的判定        與體系矛盾
+    肆、雙軌理論的爭議與分析      陸、結論
+
+
+
+
+壹、緒論
+
+      言論自由的研究者，一直嘗試著從不同的觀點論證言論自由的
+保障：從表意人角度出發的論者，認為表意人有表達個人見解以追
+求自我實現的權利；從民主體制出發的論者，認為百家爭鳴的開放
+言論市場是民主程序的必要條件；從真理觀點出發的論者，認為真
+理只能透過言論的公開競逐而達致1。在種種的論點分歧之間，不
+同的言論自由理論卻都同意一項基本原則：國家不得針對個人言論
+的特定內容進行差別待遇，也就是說，國家為了維護個人的自我實
+
+
+1   言論自由理論的詳細論述，參見林子儀，言論自由之理論基礎，臺大法學論
+    叢，18卷1期，頁227-275（1988年）
+                          。
+言論管制的中立性                                                           203
+
+
+現／民主制度的健全／真理的追求，必須對各種言論內容保持中立
+的態度，不得厚此薄彼。
+
+    由此觀之，國家在言論管制上的中立性似乎是自明之理2。然
+而，特別是在侮辱、煽動、仇恨、色情言論3以及象徵言論4的案例
+類型裡，法院對於「何謂言論內容」以及「言論管制是否中立」的
+問題卻往往沒有明確一致的答案，所適用的違憲審查標準也頗為參
+差5。在以憲法實務為中心的法學領域裡，這種現象就導引出大量
+關於言論管制中立性之概念與審查標準分歧的研究，而這些分析性
+的研究也成為各國言論自由法學的主軸。然而這些止於探尋法院
+「真意」的學術嘗試，並未解釋言論管制中立性爭議的成因，也無
+法精確指出法院論證的根本缺失。有鑑於此，本文就嘗試從語言哲
+學的觀點切入，藉此指出言論管制中立性爭議的成因、剖析「言論
+內容」和「中立性」的概念，並且釐清「言論管制中立性」之概念
+分歧背後的價值歧異。
+
+    承續前述思維，本文的架構安排如下：首先對言論限制規範進
+行分類，並指出中立性爭議之所在與成因（貳）。接著從語用學
+（pragmatics）、特別是言語行為理論（speech act theory）的角度出
+發，確定「言論」概念的內涵外延以及「言論內容」的不同層次。
+該項分析解釋了中立性爭議的理論原因，並且提出一套相應的判斷
+標準（參）。再來本文就運用言語行為理論的判準，去分析美國雙
+軌理論和德國一般法律理論的預設立場及其價值分歧（肆、伍）。
+最後部分則是結論（陸）
+          。
+
+
+2 反對見解，參見John Fee, Speech Discrimination, 85 B.U. L. REV. 1103 (2005).
+3 關於「構成行為之言論」（speech as conduct）的詳細論述，參見後文第參、
+  二、（二）和肆、二、 （二）部分。
+4 關於「構成言論之行為」    （conduct as speech）的詳細論述，參見後文第參、三
+  和肆、一、（二）部分。
+5 參見後文第肆、伍部分對於美國聯邦最高法院及德國聯邦憲法法院相關判決的
+  分析。
+204                                               《憲法解釋之理論與實務》第九輯
+
+
+
+      為了界定並確定本文的研究對象，此處必須澄清以下兩點：首
+先，本文的目的是從言論管制中立性的爭議出發，在語言哲學的研
+究成果基礎上尋找一套理論，用以全面檢證所有言論管制類型，並
+且同時分析美國雙軌理論和德國一般法律理論的立場，進而修正主
+流言論自由法學的觀點6。由於本文無意完整證成特定的言論自由
+理論或全面介紹特定法院的判決見解，所以後文不會細究具體個案
+中的衝突法益衡量標準；而本文目的也不在於引介特定法院的立場
+（演變）
+   ，因此只會在推進論證的必要範圍內援引相關法院的判決論
+理7。其次，有鑑於本文認為憲法言論自由理論必須建構在語言哲
+學的基礎之上，所以無可避免地將會引入相關的語言哲學概念，例
+如辨明語言意義內涵的語意學（semantics）、分析語言作為溝通行
+為之社會功能的語用學（pragmatics），以及—作為語用學重要分
+支之—言語行為理論（speech act theory）的言辭行為（locutionary
+act）
+   、在言行為（illocutionary act）
+                          、由言行為（perlocutionary act）
+三層次區分。為了便於讀者理解這些對法學界相對陌生的哲學用
+語，本文會在參、二部分中進行必要的概念解釋。
+
+
+
+
+6   本文以美國雙軌理論和德國一般法律理論為分析對象。
+7   言論自由爭議的研究至少包含政府角色、規範客體和本益衡量三個層次，參見
+    Joshua P. Davis & Joshua D. Rosenberg, The Inherent Structure of Free Speech Law,
+    19 WM. & MARY BILL RTS. J. 131 (2010)。本文所研究的範圍僅限於涉及規範客體
+    層面（也同時牽連本益衡量）的言論管制中立性議題。此處必須強調的是，該
+    議題雖然是言論自由法學的基石，但絕非言論自由法學的全貌，參見Seth F.
+    Kreimer, Good Enough for Government Work: Two Cheers for Content Neutrality, 16
+    U. PA. J. CONST. L. 1261, 1342 (2014) (“A keystone is not a castle; it is not even an
+    arch.”)。跳脫狹義「言論」            ，對於溝通程序現實脈絡的宏觀探討，參見Wesley J.
+    Campbell, Speech-Facilitating Conduct, 68 STAN. L. REV. 1 (2016)。此外也必須說
+    明，本文雖主張以言語行為理論為言論、言論內容和言論內容中立性進行定
+    義，但未達以溝通行動理論作為言論自由理論的論證強度。主張以溝通行動理
+    論 作 為 言 論 自 由 理 論 的 文 獻 ， 參 見 Lawrence B. Solum, Freedom of
+    Communicative Action: A Theory of the First Amendment Freedom of Speech, 83 NW.
+    U. L. REV. 54 (1988).
+言論管制的中立性                            205
+
+
+貳、言論管制中立性的爭議成因
+
+  如同緒論所指出，為了防止人格發展的歧視、民主的扭曲或真
+理的蒙蔽，各家言論自由理論都特別強調國家必須對個人的言論內
+容保持中立。在規範正當性審查的層次上，這項言論管制中立性原
+則就會導引出某種「雙軌」主張：歧視特定言論內容的規範應予禁
+止，不針對特定言論內容的規範則須接受言論管制的本益衡量。因
+此，如何認定言論管制中立性的問題就不僅僅是學術概念的爭論，
+也同時具有司法實務上的重要性。
+
+  根據本文的研究目的，可以把言論管制規範大致區分為以下幾
+種類型：
+
+  R1 禁止在任何時間、任何地點，以任何方式發表宣揚共產主
+     義的言論。
+
+  R2 禁止晚上十點之後在住宅區以70分貝以上的音量發表言
+     論。
+
+  R3 禁止在任何時間、基於任何原因在墮胎診所周圍1公里內集
+    會遊行。
+
+  R4 禁止妨礙交通秩序。
+
+  R5 禁止在任何時間、任何地點，以任何方式發表脅迫他人的
+     言論。
+
+  在憲法解釋的傳統脈絡下，前述的R1和R2在規範定性上相對
+明確：R1是典型針對言論內容（content-based）的規範，R2則是典
+型無涉言論內容，亦即言論內容中立（content-neutral）的規範。而
+從定性迥異的這兩項規範內容裡可以看出，儘管現實中的法規未必
+會明文提及時間、地點、方式的情境因素，但是所有言論管制規
+206                                             《憲法解釋之理論與實務》第九輯
+
+
+
+範—無論是否歧視特定言論內容—性質上都必然是某種言論時
+間、地點和方式的管制（Time, Place, Manner Regulations, TPM
+Regulations）。歧視特定言論內容的規範如R1，就是一種適用範圍
+侷限於宣揚共產主義言論的全面性時間、地點、方式管制。所以表
+面上的時間、地點、方式管制並不當然是言論內容中立性的保
+證8。例如把墮胎診所劃為集遊禁制區的R3規範，雖然在字面上是
+單純的言論地點管制，但從個案適用的管制效果角度來看，具有針
+對反墮胎言論內容的高度嫌疑9。
+
+      從更為宏觀的規範體系觀點來看，即便是文義和動機都和言論
+之內容、時、地、方式無涉的規範，仍然可能在具體個案中對表意
+行為造成偶然而附帶的限制（incidental regulation）。諸如單純的交
+通規則R4，在占領華爾街運動和國道收費員抗爭的案例裡，就會對
+以「占領」樣態顯現的抗議言論造成限制。
+
+      另一方面，與文義不涉及言論（內容）卻構成言論（內容）管
+制的R3、R4相反，某些規範雖然在文義上明白針對特定言論類
+型，卻不會被定性為言論內容的歧視。例如R5無疑是在限制脅迫他
+人的特定言論內容，但是絕大多數的國家都認為這是人格權的保障
+規範，而非應予禁止的言論內容管制。
+
+      透過前述的分類和說明，可以看到言論限制規範的內容中立性
+（content neutrality）爭議，源自於言論和行為的概念區分（speech-
+
+
+8 See Barry P. McDonald, Speech and Distrust: Rethinking the Content Approach to
+  Protecting the Freedom of Expression, 81 NOTRE DAME L. REV. 1347, 1367-68 (2006);
+  Larry A. Alexander, Trouble on Track Two: Incidental Regulations of Speech and Free
+  Speech Theory, 44 HASTINGS L.J. 921, 928 (1993) (“Whenever government is
+  regulating conduct that is being engaged in as a symbol, it is regulating the ‘time,
+  place, and manner’ of speech. … However, the time of a speech or demonstration or
+  the place in which it occurs may also be employed symbolically.”)
+9 其他類似案例參見德國集會遊行法第15條第2項（將猶太死難者紀念碑劃為集
+  遊禁制區）       。
+言論管制的中立性                                                                           207
+
+
+                    10
+conduct-distinction） 難題。當代言論自由理論和實務一般咸認，
+憲法框架下的「言論」是有別於日常語言和哲學論述脈絡的功能性
+概 念 11 ， 其 內 涵 並 不 限 於 口 語 和 文 字 的 語 言 表 達 （ linguistic
+expression），也及於非語言（non-linguistic）的表意行為12。這種與
+     （verbal expression）的日常定義明顯相左的，對「言論
+「口語溝通」
+－行為」區分的規範功能性理解，模糊了言論和行為的概念輪廓，
+使得語言表達既非言論的必要條件，也非充分條件13：人群聚集的
+物理行為可能該當「言論」，使得集遊禁制區規定（R3）和單純的
+交通規則（R4）構成言論管制；而侵害他人權利的語言表達則會喪
+失「言論」適格，從而脅迫言論的處罰（R5）會被定性為行為管
+制14。
+
+10 「言論－行為」區分的提出，參見THOMAS I. EMERSON, THE SYSTEM OF FREEDOM
+   OF EXPRESSION 8 (1970)。不同意見，參見John H. Ely, Flag Desecration: A Case
+   Study in the Roles of Categorization and Balancing in First Amendment Analysis, 88
+   HARV. L. REV. 1482, 1493-96 (1975)；Melville B. Nimmer, The Meaning of Symbolic
+   Speech under the First Amendment, 21 UCLA L. REV. 29 (1973)；Solum, supra note
+   7, at 110, 115: “[C]ommunication is accomplished through behavior, both verbal and
+   nonverbal. On the other hand, communication is engaged in for the purpose of
+   coordinating action.” 。 相 關 論 爭 的 介 紹 ， 參 見 Peter M. Tiersma, Nonverbal
+   Communication and the Freedom of “Speech”, 1993 WIS. L. REV. 1525, 1527-28
+   (1993).
+11 Tiersma, supra note 10, at 1529, citing FREDERICK SCHAUER, FREE SPEECH: A
+   PHILOSOPHICAL ENQUIRY 89-91 (1982); see also Kent Greenawalt, Free Speech
+   Justifications, 89 COL. L. REV. 119 (1989); WOJCIECH SADURSKI, FREEDOM OF SPEECH
+   AND ITS LIMITS 55-57 (1999).
+12 表意行為（expressive conduct）            ，在美國言論自由法學脈絡下又稱為象徵言論
+  （symbolic speech），意指利用行為（如靜坐）或物品（如焚燒國旗）等非口語
+   或文字形式進行訊息傳遞的言論。但從符號學（semiotics）的角度來看，語言
+   正是典型的象徵（symbol）符號，因此象徵言論的用語容易產生混淆。職是之
+   故，本文避免使用臺灣法學界通行的「象徵言論」，而另採「表意行為」用
+   語。對於象徵言論一詞的批評，參見Nimmer, supra note 10, at 33.
+13 SADURSKI, supra note 11, at 43-58 (speech as action vs. action as speech).
+14 See R.A.V. v. St. Paul, 505 U.S. 377, 387 (1992): “In other words, the exclusion of
+   ‘fighting words’ from the scope of the First Amendment simply means that, for
+   purposes of that Amendment, the unprotected features of the words are, despite their
+   verbal character, essentially a ‘nonspeech’ element of communication. Fighting words
+   are thus analogous to a noisy sound truck[.]” (emphasis added). See also Frederick
+208                                              《憲法解釋之理論與實務》第九輯
+
+
+
+      出於前述原因，要正確判斷言論管制的中立性，就必須捨棄形
+式上的「言論－行為」區分15，重新找尋一套能在言論自由保障領
+域（coverage, scope of application; Schutzbereich）層次上區分言論
+（含表意行為）和單純行為（mere conduct）
+                         ，並在保障程度（degree
+of protection, strength or ambit-level; Schutzniveau）的層次上辨明附
+加性（speech plus）16非言論成分（non-speech element）的完整論
+述17。為了達成此項任務，我們必須回到源頭，重新釐清一個最為
+基礎的概念：言論18。
+
+
+
+參、
+ 「言論」、
+     「內容」、「中立性」的概念界定：
+  言語行為的觀點
+
+      為了解釋和解決言論管制中立性的定義難題，本節將借助語用
+
+
+
+   Schauer, The Phenomenology of Speech and Harm, 103 ETHICS 635 (1993).
+15 William E. Lee, Speaking Without Words: The First Amendment Doctrine of Symbolic
+   Speech and the Supreme Court, 15 COLUM.-VLA J.L. & ARTS 495, 514, 511 (1991):
+   “[T]he distinction between words and nonverbal expression … is irrelevant when the
+   government regulation is content-based.”
+16 純粹言論（pure speech）和言論附加（speech plus）的概念對比，參見Teamsters
+   Union v. Vogt, Inc., 354 U.S. 284, 289, 290, 292 (1957); Cox v. Louisiana, 379 U.S.
+   559, 563 (1965).
+17 對表意行為的言論自由保障而言，                     「表意行為－單純行為」               （expressive conduct-
+   mere conduct）以及「言論成分－非言論成分」（speech element-nonspeech
+   element）的區分至關重要，參見Paul Berckmans, The Semantics of Symbolic
+   Speech, 16 L. & PHIL. 145, 147 (1997)。但從「言論－行為」概念的雙向流動來
+   看，前述概念區分的規範意義並不限於表意行為。認為言論管制中立性議題同
+   時涉及保障領域和保障程度兩個層面的見解，參見Frederick Schauer, The
+   Politics and Incentives of First Amendment Coverage, 56 WM. & MARY L. REV. 1613,
+   1617-20 (2015)；John Greenman, On Communication, 106 MICH. L. REV. 1337,
+   1359-60 (2008)；SADURSKI, supra note 11, at 47.
+18 See Greenman, supra note 17, at 1364: “If content neutrality means neutrality toward
+   communicative effects, one needs a theory of communication in order to identify
+   those effects.”.
+ 言論管制的中立性                                                                            209
+
+
+ 學中的言語行為理論去釐清言論的概念（一）、言論內容的層次
+（二）以及言論內容和言論形式的關聯（三）
+                   ；這種言語行為理論的
+ 觀點，可以解消言論－行為的概念界分爭議，並指出言論內容中立
+ 性的判斷關鍵（四）
+         。
+
+ 一、言論：傳遞意義的行為
+
+       如同前述，言論（speech）在日常語言的認知裡意指口語形式
+ 的溝通（verbal communication）。但在憲法的規範脈絡中，言論自
+ 由的特殊保障地位並非來自口語（verbal）的表達形式，而是來自
+ 溝通（communication）在人類行為脈絡中的特殊性19。所以憲法中
+ 的言論係指權利主體—亦即表意人和閱聽人—之間的意義傳遞
+（meaning transfer）20，而言論自由則是社會溝通的自由。基於此種
+ 理解，憲法所認知的言論概念必須具備兩項要件：一是表意性
+（ expressiveness ）， 二 是 社 會 性 （ Sozialbezug ） 或 主 體 間 性
+（intersubjectivity）
+                  。
+
+    （一）表意性
+       言論有別於單純行為（mere conduct）的首要特徵，就在於意
+ 義的表達和傳遞。由於心靈感應並非當前的科技現實，所有的意義
+ 內涵都必須透過某種外顯形態才能進行傳遞21。其中雖然以口語和
+ 文字最為普遍，但是從言論自由的鬥爭史也可以輕易看到，溝通的
+ 樣態絕非語言表達所能窮盡。無論是人體的動靜姿態（如敬禮、靜
+ 坐）還是物體的利用毀棄（如佩戴徽章、焚燒國旗、傾倒茶葉），
+ 只要非口語（non-verbal）行為具備傳遞意義的功能，都該當於憲
+ 法意義下的言論22。
+
+
+ 19 See SADURSKI, supra note 11, at 52; Tiersma, supra note 10, at 1526, 1530, 1543-56.
+ 20 「意義」的概念層次，參見後文第參、二、                           （一）部分。
+ 21 See SADURSKI, supra note 11, at 44.
+ 22 Vgl. BVerfGE 54, 129 (138 f.); 60, 234 (241); 76, 171 (192); Helmuth Schulze-Fielitz,
+210                                              《憲法解釋之理論與實務》第九輯
+
+
+
+      基於前述觀點，文字、聲音、圖像、動畫、行為等等都是言論
+的外顯形態，所以嚴格說來並不存在所謂的「純粹言論」（pure
+       23
+speech） 。
+
+      （二）社會性
+      另一方面，既然憲法所認知的言論是傳遞意義的行動，那麼
+「言論」就不僅僅是意義內涵本身（semantic meaning as such）
+                                        ，也
+絕非面向空谷的獨白，而必然預設了表意人和閱聽人雙方，以及主
+體之間的溝通連結24。進一步來說，這裡的溝通連結除了表意人指
+向於閱聽人的傳播面向（Verbreitungsdimension）之外25，更包含了
+觸動閱聽人情感、形成閱聽人意見與激發閱聽人行為的影響面向
+（Wirkungsdimension）26，以及共同形塑社會和政治文化脈絡27的公
+
+
+   in: Dreier (Hrsg.), GG Kommentar, Bd. I, 2. Aufl., 2006, Art. 5 I, II Rn. 67; West
+   Virginia State Bd. of Educ. v. Barnette, 319 U.S. 624, 632 (1943); Kent Greenawalt,
+   The Boundaries of Speech: What Actions and Restraints Are Significantly Reached by
+   Justifications for Free Speech?, in SPEECH, CRIME, AND THE USES OF LANGUAGE 40,
+   40-41, 51-56 (1989); 林子儀，言論自由的限制與雙軌理論，收於：李鴻禧教授
+   六秩華誕祝賀論文集編輯委員會編，現代國家與憲法──李鴻禧教授六秩華誕
+   祝賀論文集，頁677（1997年）               。
+23 Harry Kalven, Jr., The Concept of the Public Forum: Cox v. Louisiana, 1965 SUP. CT.
+   REV. 1, 23 (1965): “[A]ll speech is necessarily ‘speech plus.’”; SADURSKI, supra note
+   11, at 44: “Speech is never ‘pure’; it always has a ‘plus’ (conduct which makes the
+   speech possible)[.]”.
+24 關於言論概念所預設的雙方性（Gegenseitigkeit）                      ，參見Wolfgang Hoffmann-Riem,
+   Kommunikationsfreiheiten: Kommentierungen zu Art. 5 Abs. 1 und 2 sowie Art. 8
+   GG, 2002, Rn. 25, 32; Solum, supra note 7, at 111.
+25 Tiersma, supra note 10, at 1536 (communication≠expression).
+26 Vgl. BVerfGE 7, 198 (LS 6); BVerfGE 97, 391 (398): „In der Kundgabe persönlicher
+   Auffassungen oder Mitteilungen erschöpft sich der Sinn von Äußerungen indes nicht.
+   Sie richten sich vielmehr an andere und sind in der Regel dazu bestimmt,
+   meinungsbildend oder handlungsmotivierend auf sie einzuwirken. Art. 5 Abs. 1 Satz 1
+   GG schützt daher Äußerungen nicht nur in ihrer Verbreitungsdimension, sondern auch
+   in ihrer Wirkungsdimension.“ (Hervorhebungen eingefügt) Auch Johannes Masing,
+   Meinungsfreiheit und Schutz der verfassungsrechtlichen Ordnung, JZ 67 (2012), S.
+   585 (585): „Meinungen … wirken auf Überzeugungen anderer ein, verändern die
+   Wahrnehmung, bringen Menschen zusammen und auseinander, werden
+言論管制的中立性                                                                              211
+
+
+共參與面向28。
+
+      由此觀之，以意義傳遞為內涵的言論，概念上必然蘊涵了對外
+界的影響效果 29 。這項社會性的保障，正是言論自由和良心、信
+仰、精神自由的本質差異。
+
+    （三）小結
+      本於表意性和社會性的特徵，憲法中的言論概念會同時涵蓋語
+言（linguistic）和非語言（non-linguistic）的意念溝通方式，也必
+然包含影響他人之價值判斷與行動決策的作用面向。若將之圖像
+化，可以表述如下：
+
+
+
+
+   Kristallisationspunkte persönlicher Identifikation, zielen auf Konsequenzen und
+   werden zur Tat[.]“ (Hervorhebungen eingefügt). See Gitlow v. New York, 268 U.S.
+   652, 673 (1925) (Holmes, J., dissenting): “[E]very ideas is an incitement.” See also
+   JOHN LANGSHAW AUSTIN, HOW TO DO THINGS WITH WORDS 101 (1962); Eugene
+   Volokh, Speech as Conduct: Generally Applicable Laws, Illegal Courses of Conduct,
+   “Situation-Altering Utterances,” and the Uncharted Zones, 90 CORN. L. REV. 1277,
+   1304 (2005): “Under nearly every theory of free speech, the right to free speech is at
+   its core the right to communicate – to persuade and to inform people through the
+   content of one’s message.”
+27 Vgl. BVerfGE 61, 1 (7); Roman Herzog, in: Maunz/Dürig (Hrsg.), GG Kommentar,
+   Bd. I., 69. Aufl., 2009, Art. 5 I, II Rn. 14a; Charles Taylor, Theories of Meaning, in
+   HUMAN AGENCY AND LANGUAGE: PHILOSOPHICAL PAPERS 1, at 248, 259-60, 263-66
+   (1985).
+28 See Taylor, supra note 27, at 260: “To express something … can be not only to get it
+   in articulate focus, but also to place it in public space, and thus to bring us together
+   qua participants in a common act of focusing.” (emphasis added) See also THOMAS M.
+   SCANLON, FREEDOM OF EXPRESSION AND CATEGORIES OF EXPRESSION 90-93 (2003);
+   Steven J. Heyman, Spheres of Autonomy: Reforming the Content Neutrality Doctrine
+   in First Amendment Jurisprudence, 10 WM. & MARY BILL RTS. J. 647, 659-64 (2002).
+29 或有論者因此指出表意自由（freedom of expression）用語的不精確，參見
+   FREDERICK SCHAUER, FREE SPEECH: A PHILOSOPHICAL ENQUIRY 50-52 (1982)。值得
+   注意的是，此處的社會性保障，並不包含表意人獲得閱聽人之嚴肅關注、正確
+   理解，或者信服贊同的層次。
+212                                          《憲法解釋之理論與實務》第九輯
+
+
+
+
+                      圖1 憲法中的言論概念30
+資料來源：作者自製。
+
+
+      儘管意義傳遞的定義把言論跟單純行為（不具表意性）以及思
+想良知（不具社會性）區分開來31，可是仍然不足以確定「言論內
+容」的內涵與外延。言論內容的定義以及言論管制的中立性，必須
+取決於對意義概念（meaning）的認知32。下節就將從言語行為理論
+的角度出發，為言論內容進行概念定義，並且分別為語言
+（linguistic）和非語言（non-linguistic）溝通提供言論成分和非言論
+成分的區隔標準，最後提出言論管制中立性的判定標準。
+
+
+
+
+30 此處的第三人包含言論命題指涉對象、旁觀者（無意願的潛在閱聽人），以及
+   受閱聽人行動影響者。
+31 See   Klaus Günther, Communicative Freedom, Communicative Power, and
+   Jurisgenesis, 17 CARDOZO L. REV. 1035, 1038 (1996)（主張溝通自由有別於行為自
+   由和意志自由）         。
+32 Joseph Blocher, Nonsense and the Freedom of Speech: What Meaning Means for the
+   First Amendment, 63 DUKE L.J. 1423, 1425 (2014)（  「意義」作為美國憲法增修條
+   文第1條的界線）         。
+言論管制的中立性                                                                      213
+
+
+二、語言溝通的言論內容
+
+   （一）言論作為言語行為
+     在語言哲學領域裡，「何謂意義？」是一個永恆的大哉問。依
+據不同的意義理論，語言表述的意義可能是其所指涉的客觀外在事
+態（指涉理論，referential theories）
+                           、所反映的表意人主觀內在心靈
+狀態（觀念理論，ideational theories）
+                           ，或是所提出的命題（命題理
+論，propositional theories）33。但是這些意義理論都無法完全覆蓋
+憲法意義下的言論概念34。作為社會溝通的言論，必須也只能從著
+眼於表述（utterance）脈絡和社會功能的語用學角度來加以理解，
+因此，將言論概念加以擴展並細分的言語行為理論（speech act
+theory）
+      ，就成為最能契合憲法言論自由保障的觀點。
+
+     言語行為理論主張語言的功能不限於描述客觀現實。所有語言
+表述（utterance）都是在實施一種由特定規則所支配的行為，更精
+確地說，是在展演言語行為（perform speech act）35。這裡的言語
+行 為 包 含 三 種 層 次 ： 言 辭 行 為 （ locutionary act ）、 在 言 行 為
+（illocutionary act）和由言行為（perlocutionary act）
+                                           。其中言辭行為
+是指說出某句具有意義或有所指涉之話語的行為，重點在於言辭本
+身 36 。 相 對 於 言 辭 行 為 這 種 說 出 某 句 話 的 行 為 （ act of saying
+
+
+33 WILLIAM G. LYCAN, PHILOSOPHY OF LANGUAGE: A CONTEMPORARY INTRODUCTION
+   63-133 (2d ed. 2008).（各種意義理論的介紹）
+                                  。
+34 See Greenman, supra note 17, at 1346-55; Ashley Messenger, The Problem with New
+   York Times, Co. v. Sullivan: An Argument for Moving From a “Falsity Model” of
+   Libel Law to a “Speech Act Model”, 11 FIRST AMEND. L. REV. 172, 210-21 (2012).
+35 See JOHN SEARLE, SPEECH ACTS: AN ESSAY IN THE PHILOSOPHY OF LANGUAGE 22
+   (1969). 對於John Austin言語行為理論的簡介，參見Berckmans, supra note 17,
+   at 161-63.
+36 Austin認為言語使用是一種符合特定規則的行為，從而言辭行為可以再區分為
+   發出特定聲音規則的吐音行為（phonetic act）、遵循特定語法的構詞行為
+  （phatic act） ，以及有所意涵指涉的稱謂行為（rhetic act）                   。言辭行為的相關論述
+   參見AUSTIN, supra note 26, at 94-98.
+214                                           《憲法解釋之理論與實務》第九輯
+
+
+          37
+something） ，在言行為則是在說某句話時所做成的行為（act in
+                 38
+saying something） 。從在言行為的角度來看，相同的一句話可能
+具有完全不同的意義。舉例而言，基於同樣的「開槍射她」言辭行
+為，表意人可能是在試圖做出建議、督促或命令等等在言語力
+（illocutionary force）強弱不等的不同在言行為39。最後，由言行為
+則是指說某句話所引發或造成的效果（what we bring about or
+achieve by saying something）
+                           ，也就是表意人經由發言而對（潛在）
+閱聽人所激發的，諸如說服、驚嚇、誤導等種種意圖中和意料外的
+現實世界後果（consequences）40 。一言以蔽之，有別於侷限在語
+意學層次的命題理論，言語行為理論是從引發回應的語言功用
+（use）角度41，亦即把語言表述視為一種行為的觀點去理解言論的
+意義。因此言語行為的意義—或者更廣義地說 42 ：言論的內
+容—就不限於言辭層次，而是由言辭、表意人和閱聽人這三個面
+向（語意、力量、效果43）所共同組成。
+
+
+
+
+37 AUSTIN, supra note 26, at 99 (emphasis in original).
+38 Id.
+39 Id. at 99, 101; LYCAN, supra note 33, at 148（論及表意人的意圖（intention）       ）.
+40 AUSTIN, supra note 26, at 105-06, 108 (emphasis in original); Jef Verschueren,
+   Pragmatics, in THE ROUTLEDGE COMPANION TO SEMIOTICS AND LINGUISTICS 83, 85
+   (Paul Cobley ed., 2001); LYCAN, supra note 33, at 148-49.
+41 Berckmans, supra note 17, at 168-69.
+42 包含非語言性的表意行為。
+43 AUSTIN, supra note 26, at 120. Austin此處的原始用詞為“meaning”，為免概念混
+   淆，此處將“meaning”譯為「語意」                。
+言論管制的中立性                                                 215
+
+
+
+
+             圖2 言語行為理論的言論概念 I
+資料來源：作者自製。
+
+
+
+  （二）非屬言論的語言溝通
+    如同Austin的著作名稱《如何使用言語行事》（HOW TO DO
+THINGS WITH WORDS）所示，言語行為理論的根本論點在於：言論
+不等同於命題，而是一種社會溝通行為。那麼就可以想像，在某種
+條件之下，溝通行為會具有壓制閱聽人自由決策能力和空間的強大
+「行事」能力，從而在規範上會脫離言論領域並進入行為範疇44。
+
+    在Austin和Searle的論述之中，在言語力最為強大而極端的類型
+就是做言（performative）45。在言論情境賦予表意人特定地位或權
+威的情況下，表意人的在言行為會具有確定或改變事態的能力：例
+如法院的終審判決宣告具有確定案件事實的效力，而為了符合儀式
+婚要件而說出「我願意」，則具有改變其婚姻狀態的效力等等。從
+
+
+
+44 Davis & Rosenberg, supra note 7, at 155-56（言論作為行為）
+                                                    。基於此種觀點，
+  「言論」的法學概念就和日常概念有所落差，而並非所有的「純粹言論」（pure
+   speech）都受到憲法的保障。參見前文註11到註14所對應的本文段落。
+45 做言（performative）的詞源來自與「行為」連結的動詞“perform”，意指説出該
+   話語的意義就如同做出一個行為。參見AUSTIN, supra note 26, at 6-7.
+216                                        《憲法解釋之理論與實務》第九輯
+
+
+
+言論自由的角度來看，這種並不指向於閱聽人的互動回應，而是由
+表意人單方面做出—（法律）狀態得喪變更之—行為（perform
+actions）的語言表述，並不符合憲法保障社會溝通的規範目的，而
+應該被劃入行為的範疇46。
+
+      除了引進表意人面向，並且把特定在言語力（illocutionary
+force）劃出言論自由保障領域，以避免言論自由條款的不當擴張之
+外，言語行為理論也透過閱聽人面向的由言效果考量，釐清了言論
+自由保障的極限。如前所述，以社會性為本質要件的言論，其目的
+就是在影響閱聽人的情緒感受、價值判斷和行動決定，所以言論的
+意義和內容當然及於言論所引發的外部效果。單純就理論上來說，
+表意人的言論只是閱聽人價值和行為自主決定的的資訊參考，因此
+所有由言效果都會落入言論自由的保障範圍47。然而，「在漆黑擁
+擠戲院中高喊失火」的著名例示卻也清楚顯示，無法脫離現實情境
+存在的個人（此處為閱聽人），其理性能力有時而窮。所以在觀諸
+具體情境已不存在理性論辯餘裕的情況下，原本隸屬於言論內容的
+由言效果就會被評價為不受保障的法益侵害48。
+
+      綜上所述，言語行為理論一方面透過言論意義的面向開展，掌
+握了作為主體間意義傳遞的憲法言論認知，另一方面也經由言論內
+容的層次區分，解釋了「言論」在法學規範和日常生活中的概念落
+差，進而指出自始不屬於言論範疇（做言），以及應劃歸行為領域
+的語言溝通類型。簡而言之，在言語行為理論之下，由表意人單方
+
+
+
+46 類似見解參見Greenman, supra note 17。其他因不符「社會溝通」目的而不受言
+   論自由保障的語言表達類型，參見Frederick Schauer, Categories and the First
+   Amendment: A Play in Three Acts, 34 VAND. L. REV. 265, 270-71 (1981).
+47 Thomas M. Scanlon, A Theory of Freedom of Expression, in THE DIFFICULTY OF
+   TOLERANCE: ESSAYS IN POLITICAL PHILOSOPHY 6, 14-20 (2003).
+48 本文在此並不深入處理「心理－生理二元論」                          （mind-body dichotomy）或所謂棍
+   棒與石頭論證（“sticks and stone” argument）的問題。相關論述參見註163援引
+   文獻。
+言論管制的中立性                                                                217
+
+
+面造成（法律）狀態得喪變更或是未留有閱聽人理性論辯餘裕的言
+論，即使是以語言形式出現，也會因為欠缺溝通功能要素而不受言
+論自由保障。緒論中的脅迫言論管制（R5），其中立性和正當性即
+可由此獲得理論支持。
+
+
+
+
+圖3 言語行為理論的言論概念 II：做言與行為的概念定位
+資料來源：作者自製。
+
+
+三、非語言溝通的言論內容
+
+    前節藉由語用學和言語行為理論對於言論和言論內容的概念詮
+釋，說明了為何某些語言溝通的限制（如緒論中的R5）不會牴觸言
+論管制中立性的要求。以下則要進一步分析非語言溝通（即表意行
+為）的表意性如何構成（一），又該如何區辨該行為中的言論
+（speech）和非言論（non-speech）成分49（二）50。
+
+
+49 美 國 聯 邦 最 高 法 院 分 別 稱 為 溝 通 （ communicative ） 和 非 溝 通 （ non-
+  communicative）成分。參見United States v. O’Brien, 391 U.S. 367, 381-82 (1968).
+50 所有言論都必須處理，但在表意行為爭議中尤為重要的問題有二：一是如何區
+218                                                 《憲法解釋之理論與實務》第九輯
+
+
+
+      （一）行為的表意性
+      根據本文的定義，言論是一種在主體間傳遞意義的社會溝通行
+為。在這種功能觀點之下，口語（verbal）－非口語（non-verbal）
+或是語言（linguistic）－非語言（non-linguistic）的形式區分51，對
+於「言論」的概念要件涵攝並不重要52。儘管如此，由於表意行為
+在命題表達的精確性上往往遜於語言溝通，非語言溝通的表意性就
+經常在個案中遭到質疑53。為了明確區分表意行為和單純行為，進
+而判定行為管制規範的言論內容中立性，此處就有必要對行為的表
+意性進行理論構成。
+
+      從 符 號 學 （ semiotics ） 的 觀 點 來 看 54 ， 不 僅 僅 是 字 詞
+（words），任何依據歷史傳統或社會共識而能夠約定俗成地代表被
+指涉對象（referent）的事物行為，都構成象徵符號（symbol）55。
+
+
+   分表意行為（expressive conduct）和單純行為（mere conduct）                          ，二是如何分辨
+   表 意 行 為 中 的 言 論 成 分 （ speech element ） 和 非 言 論 成 分 （ non-speech
+   element ）， 以 判 定 言 論 管制 規 範 究 屬針 對 言 論 內容 的 管 制 （ content-based
+   regulation）抑或是偶然的附帶管制（incidental regulation）。參見Berckmans,
+   supra note 17, at 147.
+51 或者慣用但較不精確的說法：                  「言論－行為」區分（speech-conductdistinction）                  。
+52 See Tiersma, supra note 10, at 1547.
+53 See Texas v. Johnson, 491 U.S. 397, 432 (1989) (Stevens, J., dissenting): “[F]lag
+   burning is the equivalent of an inarticulate grunt or roar that, it seems fair to say, is
+   most likely to be indulged in not to express any particular idea, but to antagonize
+   others.” (emphasis added) See also Spence v. Washington, 418 U.S. 405, 410-11
+   (1974): “An intent to convey a particularized message [i]s present, and in the
+   surrounding circumstances the likelihood [i]s great that the message would be
+   understood by those who view[] it.” (emphasis added) 對Spence-Test的批判，參見
+   Greenman, supra note 17, at 1361.
+54 對於Saussure和Peirce的符號學理論簡介，參見MARCEL DANESI, MESSAGES, SIGNS,
+   AND MEANINGS: A BASIC TEXTBOOK IN SEMIOTICS AND COMMUNICATION 23-27 (3d
+   ed. 2004).
+55 Peirce對於象符（icon）        、指符（index）和象徵（symbol）的定義，參見DANESI,
+   supra note 54, at 31；Floyd Merrell, Charles Sanders Peirce’s Concept of the Sign, in
+   THE ROUTLEDGE COMPANION TO SEMIOTICS AND LINGUISTICS 28, 28-39 (Paul Cobley
+   ed., 2001).
+言論管制的中立性                                                                          219
+
+
+基於人類無窮的創造力，運用象徵符號來進行溝通的表意行為類型
+就極其多元：從官方認證其符徵（signifier）－符旨（signified）連
+結的國旗、國徽、國歌、基於特定文化認知的焚燒十字架和在樹上
+懸掛空繩圈56行為，到必須理解當時事實與規範脈絡的站立57、露
+宿58和拒絕讓座59行為等等。雖然從理論角度來看，只要行為人主
+觀上有意傳遞訊息，而具體情境下的閱聽人也能理解該訊息內容和
+行為人的溝通意圖時，系爭行為就具備表意性質而構成表意行
+為60，但是特別在前述站立、露宿和讓座的案例中，行為人的溝通
+意圖可能會被該行為的日常社會功能所掩蓋。由此可知，在主體關
+聯和溝通連結的功能理解之下61，表意行為—相較於語言溝通62
+—在定性上更加倚賴相關事實與規範脈絡（context）的認識63，
+以及該脈絡所隱含意涵（conversational implicature）的詮釋64。一
+般而言，對於物體功能、社會成規或法律規範的刻意牴觸，例如焚
+燒徵兵證65、非街友露宿公園66 、占領國會67 等，經常具有明顯的
+
+
+56 相關事件報導參見Alan Yuhas, Noose Found Hanging at Duke University Two
+   Weeks after Racist Incident, THE GUARDIAN ( Apr. 1, 2015, 7:12 PM), http://www.
+   theguardian. com/us-news/2015/apr/01/noose-found-hanging-duke-university-racism-
+   claims。   「奇怪果實」意象的介紹，參見Dorian Lynskey, Strange Fruit: The First
+   Great Protest Song, THE GUARDIAN ( Feb. 16, 2011, 8:00 AM), https://www.
+   theguardian. com/music/2011/feb/16/protest-songs-billie-holiday-strange-fruit.
+57 如土耳其塔克辛廣場的抗議活動。
+58 See Clark v. Community for Creative Non-violence, 468 U.S. 288 (1984).
+59 如Rosa Parks事件，以拒絕讓座予白人作為種族隔離政策的抗議。
+60 See H. P. Grice, Meaning, 66 PHIL. REV. 377 (1957) (“non-natural meaning”); Tiersma,
+   supra note 10, at 1556-68. See also Clark, 468 U.S. at 294: “A symbol is expressive,
+   if it is “intended to be communicative and ... would reasonably be understood by the
+   viewer to be communicative.”.
+61 Berckmans, supra note 17, at 168-69.
+62 即使是語言溝通所傳遞的意義內容，也無法逸脫於語言、心靈、社會和物理世
+   界的脈絡而獲得確定。相關論述參見Verschueren, supra note 40, at 85-87, 90.
+63 Tiersma, supra note 10, at 1567-68.
+64 Berckmans, supra note 17, at 159-60 （ 主 張 表 意 行 為 是 否 具 有 意 義
+  （meaningfulness）     ，取決於行為人的意圖以及行為和行為脈絡的性質）                              。
+65 See O’Brien, 391 U.S.
+66 See Clark, 468 U.S.
+220                                                《憲法解釋之理論與實務》第九輯
+
+
+
+表意性質68。綜言之，在這個符號無所不在且時刻變動的世界裡，
+各種舉止、形體、聲音、圖像、空間69都可能因為某種有形或無形
+的脈絡而得喪變更某種象徵意義70，所以不能因為行為同時具有行
+政、經濟、交通等社會功能而否定或抹煞其表意能力。
+
+      （二）溝通形式與言論內容
+      從行為表意性的理論構成可以看到，表意行為的本質是運用非
+語言象徵符號的意義傳遞。而象徵符號的產生，除了源於傳統和習
+慣（convention）之外，也可能來自表意人和閱聽人共同認知的，
+由社會、經濟、政治、法律等事實和規範所交織而成的文化脈絡
+（context）71。在後者的情況下，行為的表意性質並非憑空出現，而
+是來自於相關脈絡的認識72，所以由行為和文化脈絡共同組成的表
+意行為，就必然同時是「百分之百的行為和百分之百的言論」73，
+在詮釋上不得強行剝除其背景脈絡，把行為的外顯樣態單純視為獨
+立於言論內容且次等於語言形式的附加成分（speech plus）74。
+
+      除了表意性質的認定之外，行為的表意內容也同樣與相關脈絡
+密不可分。一方面表意人可以透過行為和脈絡的參照去傳遞特定訊
+息（如：戰爭和焚燒國旗、種族隔離和拒絕讓座、威權統治和自
+焚），另一方面「站出來」、「以身試法」、「以命相搏」的行為樣態
+
+
+67 如318太陽花運動。關於象徵性的不服從（symbolic disobedience）
+                                            ，參見Tiersma,
+   supra note 10, at 1569-88.
+68 Berckmans, supra note 17, at 171-74.
+69 DANESI, supra note 54, at 235: “In a sense, architecture is all about imposing order on
+   space.”.
+70 Merrell, supra note 55, at 35-36; DANESI, supra note 54, at 39.
+71 Berckmans, supra note 17, at 164.
+72 Id. at 176.
+73 Ely, supra note 10, at 1495-96 (100% action and 100% expression). See also Tiersma,
+   supra note 10, at 1533; Martin H. Redish, The Content Distinction in First
+   Amendment Analysis, 34 STAN. L. REV. 113, 141 (1981).
+74 Teamsters Union, 354 U.S. at 289, 290, 292; Cox, 379 U.S. at 563.
+言論管制的中立性                                                                      221
+
+
+更經常是相關脈絡下對於抗爭、呼籲、感動、震驚等在言語力或由
+言效果的強化展現，而構成言論內容的本質成分75。
+
+     綜而言之，利用特定背景脈絡以產生象徵意義的表意行為，亦
+即根據傳統、慣習等表意人和閱聽人共同認知之文化脈絡而具有象
+徵意涵的身體舉止和物體利用，無論有否其他社會功能，都會落入
+言論自由的保障範圍，並且要從「百分百行為和百分百言論」的整
+體觀點去判斷系爭表意行為（expressive conduct）的言論內容。職
+是之故，非語言表達之時、地、方式脈絡的外顯形態並非總是獨立
+於言論內容之外的非表意成分、不可或缺但無足輕重的言論附加成
+             ，更不是比語言次等的溝通手段76，而毋寧可能構
+分（speech plus）
+成言論內容的一環。出於這種對言論內容的理解，言論管制的中立
+性就無法透過語言和非語言的形式區分，也無法單純透過立法者的
+目的動機來加以判斷。舉例來說，國旗是一種傳統的象徵符號，在
+特定的政治脈絡下，焚毀國旗會成為特定命題、在言行為和由言行
+為的強烈展現，所以禁止公然毀棄國旗的規範就不得被解讀成與言
+論內容無關、只是某種隨時可被他種（更文明）手段無痛取代的言
+論形式管制77。
+
+     另外，行為和行為脈絡的象徵意義不會因為同時具備的日常社
+會功能而喪失（毋寧，此時的象徵符號往往正是來自其日常社會功
+能），所以也不能單從日常社會功能的角度去理解系爭規範，放任
+
+
+75 Berckmans, supra note 17, at 164-65. 然而表意行為的意義詮釋並非漫無界線，
+   參見Berckmans, supra note 17, at 166: “What is done … constitutes the basis upon
+   which illocutionary force is calculated.” (emphasis in original).
+76 從行為和行為脈絡之間是否具有象徵符號連結，可以區分表意行為中具有意義
+   內涵的表意成分和只負有促進（facilitative）傳播功能的非表意成分。相關論述
+   參 見 Berckmans, supra note 17, at 165-66 ； Susan H. Williams, Content
+   Discrimination and the First Amendment, 139 U. PA. L. REV. 615, 659-63 (1991)。認
+   為沒有區分實益者，參見Alexander, supra note 8, at 927-28.
+77 美國聯邦最高法院見解，參見後文第肆、一、                               （二）部分註110到註114對應本
+   文。德國聯邦憲法法院見解，參見後文第伍、一、                                 （二）部分。
+222                                            《憲法解釋之理論與實務》第九輯
+
+
+
+具有個案適用歧視效果的言論管制遁逃到日常社會功能的偽中立保
+護傘之下78 。根據此種觀點，將墮胎診所周圍設為集遊禁制區的
+R3，儘管在文義上僅僅涉及言論地點而未針對特定命題，並且係在
+維護醫療效能和病患權益的正當功能目的，但是從政府單獨挑選墮
+胎診所進行強化限制，乃至於把人行道等傳統公共論壇（public
+forum）也劃入絕對禁制區的管制效果來看，R3實則具有託辭功能
+性中立目的以偷渡反墮胎觀點歧視的高度嫌疑79。
+
+      最後，即便是立法目的確實與言論無關，僅會在具體個案中偶
+然對言論造成附帶限制（incidental restriction）的規範，也可能對
+藉助相關脈絡以產生象徵意義的表意行為產生嚴重干預。從這種觀
+點出發，所有法規範都可能在個案中被定性成言論管制。這種見解
+雖然被法院視為夢魘80，但其實只是反映了言論情境與各種社會秩
+序相互交織的現實。詳言之，言論並非飄浮在虛空之中。存在於現
+實世界的社會溝通活動需要耗費空間、經濟、行政資源、公共秩序
+等各種面向的成本，因此會與各種社會活動衝突交纏。而所有法規
+範在本質上都是對於特定社會秩序的確認或形成，自然也就同時確
+認或形成言論自由保障和特定社會秩序之間的成本配置，並且決定
+       「講什麼」並「產生何種效果」81。
+「誰」能「對誰」
+
+      有鑑於所有法規範都具有決定言論自由在整體法規範秩序中地
+位的言論衝擊效應82，此處的成本配置考量就不應該把言論視為均
+質的集合，或是把言論價值當成固定的常數，毋寧必須顧慮具體個
+
+
+
+78 Lee, supra note 15, at 518-19.
+79 美國聯邦最高法院見解，參見後文第肆、一、           （二）部分註130到註137對應本
+   文。德國法的類似案例，參見Beschluss der 1. Kammer des Ersten Senats vom
+   6.5.2005 – 1 BvR 961/05 （涉及猶太受難者紀念碑的集遊地點管制）                          。
+80 Schauer, supra note 17, at 1627-28.
+81 Alexander, supra note 8, at 931 (“what gets said, by whom, to whom, and with what
+   effect”), 933-34.
+82 Greenman, supra note 17, at 1367.
+言論管制的中立性                                                                        223
+
+
+案中的溝通架構（言論機會平等）83和特定言論的內容與價值84。
+拒絕進行「具體言論影響評估」，主張抽象規範目的中立性即可推
+定其憲法正當性的見解，就結果而言，等於是在捍衛社會現狀
+（status quo），主張言論自由不得挑戰現有的社會秩序85。依循此處
+論理，在抽象規範層次上中立性確然無疑的交通規則R4，在占領運
+動（Occupy Movement）的具體個案裡，就仍然可能對言論內容造
+成限制。對於這種抽象規範目的與言論內容無關，但在具體規範適
+用上會限制言論內容的法律管制，不得驟然一體適用，而必須在個
+案利益衡酌上考量特定表意形式在具體表意情境裡的重要性，並在
+欠缺現實有效替代管道的情況下限縮其適用。
+
+
+
+
+83 Solum, supra note 7, at 127.
+84 Alexander, supra note 8, at 935-36. 對於美國聯邦最高法院因為把言論價值視為
+   常數而注定空洞化的分析，參見同文頁931、961。
+85 Cass R. Sunstein, Free Speech Now, 59 U. CHI. L. REV. 255, 296 (1992)（所謂言論
+   中立只是對現狀的贊同）. William E. Lee, Modernizing the Law of Open-Air
+   Speech: The Hughes Court and the Birth of Content-Neutral Balancing, 13 WM. &
+   MARY BILL RTS. J. 1219, 1265 (2005): “The Court has not been attuned to the
+   discriminatory effects of facially-neutral laws, nor has it been sensitive to the
+   symbolic or communicative importance of certain modes of open-air speech.”.
+224                       《憲法解釋之理論與實務》第九輯
+
+
+
+
+         圖4 言語行為理論的言論概念 III：
+           言論內容與形式的外部影響
+資料來源：作者自製。
+
+
+四、言論管制中立性的判定
+
+      為了解釋並解決實務上關於言論管制中立性的概念爭議，本文
+援用了言語行為的理論架構，指出傳統言論自由法學出於對言論
+（語言溝通本位）和言論內容（語意學本位、命題本位）的認知偏
+差，導致在言論管制中立性的認定上失之準確。
+
+      有別於語意學本位、命題本位和語言溝通本位的思維，言語行
+為理論為言論和言論內容提供了完整而精確的概念定義：一方面基
+於語用學的立場，把言論正確定性為表意人和閱聽人／第三人的主
+體間意義傳遞（亦即：社會溝通）；另一方面再把言論進一步區分
+為言辭行為（言論命題面向）、在言行為（表意人面向）和由言行
+為（閱聽人面向）。如此一來，言論內容就不限於命題的語意
+（semantic meaning），也包含對外產生的由言效果（perlocutionary
+言論管制的中立性                              225
+
+
+effects），從而言論和行為的區分就不是以言論命題（屬於內心思
+維）和言論效果（屬於外界影響）的分野為標準，而是取決於正當
+由言效果和法益侵害的界線劃定，終極來說也就取決於憲法秩序對
+閱聽人自主能力的理解。詳言之，如果憲法秩序對個人（此處為閱
+聽人）的理性能力賦予絕對信任並課予絕對責任，就會導出任何法
+益危害都源自於閱聽人的自主決定，或是唯有閱聽人必須為此負責
+的結論，從而任何針對言論由言效果的規範都會因為牴觸中立要求
+受到絕對禁止。反之，如果承認閱聽人的理性能力有時而窮，則會
+認為言論內容確有可能引發法益的現實侵害，而表意人在這種理性
+論辯收縮至零的特殊脈絡下，必須對其（質變為法益侵害的）由言
+效果負責。從言論內容可能造成現實法益侵害的後一種觀點出發，
+可以更精確地說，言論自由的保障並不要求「針對言論內容」
+（content-based）規範的絕對禁止，而是要求以「法益侵害」（harm-
+based）作為言論管制的必要條件。基於此種論理，禁止—壓迫
+閱聽人理性能力之—脅迫言論的R5，會被定性成尋求法益保障
+的言論中立管制。另外，除非國家能舉證系爭命題的表述會在具體
+情境下對法益造成—理性論辯所不及阻斷的—立即危險，規範
+上直接限制共產言論（R1）和適用上間接限制反墮胎言論（R3）
+的規範，就屬於歧視特定言論內容的非中立管制。
+
+   不唯如此，肯定在言行為和由言行為的言語行為理論，更能為
+表意行為提供有效保障的理論基礎。無論是傳統或脈絡性象徵符號
+的運用，表意人所選擇的行為樣態並非任意置換也不影響言論內容
+的非溝通成分，其所蘊涵的在言語力和由言效果，也絕不能被矮化
+為附麗於語言之上的次等形式（speech plus）
+                         。由此檢視緒論中的管
+制類型，可以看出音量（R2）和交通（R4）管制的文義和目的並
+不涉及特定的言論命題或由言效果，只是會在某些表意行為（特別
+是集會遊行）的個案中對言論自由造成偶然限制。所以單純就抽象
+規範層次而言，系爭規範的中立性毋庸置疑。然而，考慮到表意行
+226                       《憲法解釋之理論與實務》第九輯
+
+
+
+為的形式選擇具有在言行為和由言行為層次上的意義，具體個案中
+的法適用機關就必須審視該行為是否構成言論內容的一部分，而表
+意人又是否具有替代溝通管道的現實選擇，以此進行言論自由和立
+法目的之間的本益衡量。
+
+      綜而言之，在言語行為理論的架構之下，作為社會溝通的言論
+包含了在言行為、言辭行為和由言行為等三個層次，所以言論內容
+的概念並不侷限於狹義的命題內容，而是同時涵蓋了在言語力和由
+言效果在內；涉及這三個層面的規範，就屬「針對言論內容」的限
+制。反之，以做言、法益侵害行為以及言論形式對第三人之影響86
+為限制客體的規範，就符合言論內容中立性的要求。如果使用圖像
+來呈現，可以把本節所介紹的言語行為理論、緒論中的言論管制類
+型，以及規範合憲性的判斷標準一併整合如下：對共產言論施以絕
+對禁止的R1，是明白針對言論命題內容進行管制的規範類型。而與
+R1略有不同，禁止脅迫言論的R5所要管制的，並不是特定的言論
+語意內容，而毋寧是表意人透過言論內容對閱聽人引發的，語用學
+層次上的心理震懾（由言效果）。一旦具體言論情境不再容許閱聽
+人運用理性論辯去應對言論震懾，此時的震懾效果就會質變為法規
+範所認定的利益侵害，而言論由言效果的管制也會質變成法益侵害
+行為的管制。
+
+      另一方面，考慮到所有事物都可能—基於社會多數人或是具
+體溝通兩造之共識—構成象徵符號的現實，噪音製造和空間占領
+就不必然是對（非表意對象之）第三人造成夜間安寧或空間功能破
+壞等非溝通傷害的單純行為（mere conduct）
+                         ，而可能是向閱聽人傳
+達「反對墮胎行為」
+        、「抗議環境噪音」或是「奪還空間權力」的言
+論意涵。如此一來，把墮胎診所周圍設為集遊禁制區的R3、管制言
+
+
+86 美國聯邦最高法院將之稱為言論的次級效果（secondary effect）。參見後文第
+  肆、一、
+     （四）部分。
+言論管制的中立性                    227
+
+
+論音量的R2和管制交通秩序的R4，就不必然是指向於言論非溝通
+成分的中立管制，而可能在個案中構成言論內容的歧視限制，必須
+受到更為嚴格的審查。
+
+
+
+
+ 圖5 言語行為理論的言論概念vs.言論限制規範的類型
+資料來源：作者自製。
+
+
+
+
+肆、雙軌理論的爭議與分析
+
+  在前節的論述中，本文以言語行為理論為思考工具，重新檢視
+了言論和言論內容的概念範圍，以及言論管制規範的中立性判準與
+個案適用。接下來就要秉持前述理論去細究美國雙軌理論（肆）和
+德國一般法律理論（伍）的內涵和得失。本節將從美國法的討論開
+始。
+
+  作為權利法案之首，美國憲法在增修條文第1條中以負面權限
+的規範形式明定了言論自由的保障：「國會不得立法……限制言論
+228                                             《憲法解釋之理論與實務》第九輯
+
+
+
+自由。」雖然言論自由並未因為字面上的定言命令而受到絕對性的
+保障87 ，但是法院仍然透過判決先例建立了所謂的雙軌理論（two
+track theory），確保國家至少必須在各種言論內容之間保持絕對的
+中立立場。
+
+      在1972年的Police Department of Chicago v. Mosley88一案中，美
+國聯邦最高法院明確提出了「針對言論內容之限制應予禁止」的宣
+稱：「增修條文第1條的首要意義在於，政府沒有因為其訊息、意
+念、主題或內容而限制言論表達的權力」89。並進而認為，為了確
+保個人的自我實現和國家的政治體制，國家不得進行言論內容的操
+弄；任何基於內容而將特定言論選擇性排除於公共論壇之外的限
+制，都會違反憲法中的平等保護條款 90 。立基於Mosley判決的立
+論，法院漸次發展出以言論內容中立性區分違憲審查標準的雙軌理
+論91。為了掌握這項在美國言論自由理論和實務裡取得關鍵地位的
+理論92，本節就先介紹美國聯邦最高法院對於言論管制中立性的認
+定標準（一），再深入分析雙軌理論所反映的價值立場，並藉此指
+出雙軌理論的內在矛盾（二）
+            。
+
+一、言論管制中立性的判定：時、地、方式之形式管制與立
+  法目的
+
+      在雙軌理論的脈絡下，所有言論管制都會被定性為針對言論內
+
+
+
+87 See Gitlow, 268 U.S. at 666; Whitney v. California, 274 U.S. 357, 371 (1927).
+88 See Police Department of Chicago v. Mosley, 408 U.S. 92 (1972).
+89 Id. at 95.
+90 Id. at 96.
+91 Kreimer, supra note 7, at 1264.
+92 See Redish, supra note 73, at 121-27; Geoffrey R. Stone, Content Regulation and the
+   First Amendment, 25 WM. & MARY L. REV. 189, 193 (1983) ; McDonald, supra note
+   8, at 1355-56; Erwin Chemerinsky, Content Neutrality as a Central Problem of
+   Freedom of Speech: Problems in the Supreme Court's Application, 74 S. CAL. L. REV.
+   49, 52 (2000); Kreimer, supra note 7, at 1263, 1265-66.
+言論管制的中立性                                                                           229
+
+
+容 （content-based regulations），或是與言論內容無關，亦即言論
+內容中立（content-neutral regulations）的規範類型。而此處的分
+類，又取決於言論內容的概念定義。
+
+   （一）以言論觀點或溝通效果為管制客體
+     針對美國憲法增修條文第1條所保障言論內容的範圍問題，美
+國聯邦最高法院曾經分別從積極和消極的角度表明立場，亦即溝通
+效果（communicative impact）的涵蓋以及「低價值」言論的排除。
+針對前者，美國聯邦最高法院多次表明，言論內容的概念範圍並不
+限於言論所傳遞的特定命題觀點（proposition, viewpoint），也包含
+該言論對表意人信念選擇和行為決策所產生的影響力，也就是言論
+的溝通效果（communicative impact）93。所有看似並未針對特定言
+論觀點，但實則限制言論溝通效果的規範，除了構成明顯立即危險
+的極端案例之外94，都屬於針對言論內容的管制，必須受到嚴格標
+準的審查95。
+
+     另一方面，言論的消極界線則涉及不受保障言論（unprotected
+speech ） 的 爭 議 。 在 奠 定 雙 階 理 論 的 1942 年 Chaplinsky v. New
+         96
+Hampshire 判決裡，聯邦最高法院曾經明確主張，下流、猥褻、粗
+鄙、誹謗、人身攻擊和挑釁言詞等言論，既未揭露任何思維意念，
+也絲毫無益於任何社會價值，甚至一說出口就會造成傷害或是破壞
+秩序，所以該等言論的限制或處罰並不會激起侵害言論自由的爭
+
+
+
+93 Young v. American Mini Theatres, Inc., 427 U.S. 50, 63-64 (1976); Renton v.
+   Playtime Theatres, 475 U.S. 41, 48 (1986); Buckley v. Valeo, 424 U.S. 1, 17 (1976);
+   Boos v. Barry, 485 U.S. 312, 318, 321 (1988); Johnson, 491 U.S. at 411-12; Editorial
+   Staff, Note: The Content Distinction in Free Speech Analysis after “Renton”, 102
+   HARV. L. REV. 1904, 1906-07 (1989).
+94 參見前文第參、二、            （二）部分。
+95 See Brandenburg v. Ohio, 395 U.S. 444 (1969).
+96 See Chaplinsky v. New Hampshire, 315 U.S. 568 (1942).
+230                                                 《憲法解釋之理論與實務》第九輯
+
+
+
+議97 。儘管欠缺完整論理，Chaplinsky判決所點名的言論類型自此
+就被排除於憲法言論自由的保障領域之外，成為不受保障的言論。
+而限制不受保障言論的規範，就算涉及其命題內涵，也不會被認定
+成針對言論內容的管制98。
+
+       這種早期的決絕見解，後來在1992年的R.A.V. v. St. Paul99判決
+中被加以緩和。雖然聯邦最高法院依舊認為，把特定言論類型（如
+誹謗、猥褻等）全面排除於言論自由保障之外的做法是美國言論自
+由法學的重要成分100，但也強調，「不具言論性質」的用詞不能單
+純從字面，而必須從憲法言論自由保障的脈絡觀點去加以理解。對
+於思維明辨不具有重大貢獻的言論，仍然會構成意念傳達的一部
+分101，故而所謂的排除於言論自由範圍（coverage）之外，只是表
+示在言論自由的規範目的之下，這些言論特徵會被定性為非言論成
+分（non-speech element），也就是具有傳遞訊息的功能，但本身並
+不享有憲法增修條文第1條保障的言論模式（mode of speech）102。
+因此，「不受保障的言論」並非真的完全不受憲法保障。對於低價
+值言論所傳遞觀點的明文歧視，也依舊是針對言論內容的歧視性管
+制103。
+
+       綜上所述，美國聯邦最高法院清楚表明了言論不會因為訊息價
+值而喪失言論屬性的立場。雖然法院沒有論證何謂低價值言論中的
+
+
+97 Id. at 571-72.
+98 See Roth v. United States, 354 U.S. 476, 483 (1957) (“not within the area of
+      constitutionally protected speech”).
+99 See R.A.V., 505 U.S.（涉及在非裔家庭草坪上焚燒十字架）                        。
+100 Id. at 383: “Our decisions since the 1960's have narrowed the scope of the traditional
+    categorical exceptions[,] … but a limited categorical approach has remained an
+    important part of our First Amendment jurisprudence.” (citation omitted).
+101 Id. at 385: “We have not said that they constitute ‘no part of the expression of ideas,’
+    but only that they constitute ‘no essential part of any exposition of ideas.’”
+    (emphasis in original).
+102 Id. at 386.
+103 Id. at 383-88.
+言論管制的中立性                                                                          231
+
+
+非言論成分，但也透過長期實務確立了：無論言論價值高低，所有
+以特定言論命題觀點和言論溝通效果為管制客體的規範，都屬於針
+對言論內容之歧視性管制的嚴格立場。由此反面推論，所謂言論內
+容中立的規範，就僅限於不以特定言論觀點或溝通效果為管制客體
+的規範，例如言論時間、地點、方式的管制104。
+
+     這種以規範管制客體是否涉及言論觀點或溝通效果的中立性判
+斷標準，雖然看似合乎直覺又直接明瞭，但是抽離現實言論脈絡、
+純粹以抽象規範文義為斷的觀點，在個案中就可能無法識別政府隱
+藏在中立文義中的歧視動機。
+
+   （二）隱含觀點歧視的形式管制
+     因為以規範管制客體為斷的中立性判準並不考慮具體的言論脈
+絡，在政治現實中就很容易為立法者所規避：立法者可能為了避免
+單一觀點歧視的指謫而索性擴大管制範圍105，也可能利用公共秩序
+之類的概括立法目的把觀點歧視偽裝成言論時間、地點、方式的管
+制106。從結果論，這種規範對言論自由的侵害並不亞於內容歧視，
+只是因為立法者把歧視動機巧妙隱藏在文義不可見之處，就可以規
+避內容歧視的質疑，以及隨之而來的嚴格審查標準 107 。在United
+                    108                        109
+States v. O’Brien 和Texas v. Johnson 這兩個案件裡，聯邦最高法
+院就面臨了這種用字面上中立目的包裝觀點歧視的木馬立法爭議。
+
+     在涉及焚燒國旗的Texas v. Johnson判決裡，聯邦最高法院明確
+
+
+104 參見後文第肆、一、          （二）部分援引判決和文獻。
+105 Carey v. Brown, 447 U.S. 455, 475 (1980) (Rehnquist, J., dissenting); O’Brien, 391
+    U.S. at 375（以全面性的管制範圍證成規範的中立性）
+                                 。
+106 LAURENCE H. TRIBE, AMERICAN CONSTITUTIONAL LAW 794, 800, 820-21 (2d ed.
+    1988); SADURSKI, supra note 11, at 53-54; Boos, 485 U.S. at 329-32; McCullen v.
+    Coakley, 573 U.S. ___, 5-7 (2014) (Scalia, J., concurring).
+107 參見後文第肆、二、           （二）部分註172對應本文段落。
+108 See O’Brien, 391 U.S.
+109 See Johnson, 491 U.S.
+232                                                 《憲法解釋之理論與實務》第九輯
+
+
+
+指出，規範合憲性的判斷標準並不在於口語或非口語的溝通形式差
+異，而在於管制規範所要保障的政府利益110。而就本質而言，國旗
+是一種非語言性的象徵符號111，用以指涉國家認同等等的意涵112，
+所以為了保障國旗所象徵之訊息而限制特定國旗使用方式的規範，
+在定性上就屬於針對言論內容的規範113。
+
+      值得注意的是，由於Johnson判決所涉及的是別無實用功能的
+國旗，所以容易辦明立法目的中的觀點歧視本質114。反之，在表意
+人挪用具有實用功能之物體去進行非語言溝通的情況下，法院就往
+往難以、甚至拒絕質疑立法者管制該物體使用方式的真實動機115。
+
+
+
+110 Id. at 406-07.
+111 See Spence, 418 U.S. at 410: “[F]lags are a form of symbolism comprising a
+    ‘primitive but effective way of communicating ideas…,’ and ‘a short-cut from mind
+    to mind.’” (citations omitted).
+112 Johnson, 491 U.S. at 437. See also Spence, 418 U.S. at 413: “[T]he flag is a symbol
+    of patriotism, of pride in the history of our country, and of the service, sacrifice, and
+    valor of the millions of Americans who, in peace and war, have joined together to
+    build and to defend a Nation in which self-government and personal liberty
+    endure. …It evidences both the unity and diversity which are America.”
+113 Johnson, 491 U.S. at 416. See also Lee, supra note 15, at 502-07（替代溝通管道無
+    法治癒言論觀點歧視）               。
+114 類似案例參見Boos, 485 U.S. at 318-19（涉及具有批判外國政府意涵的標誌）                                       。
+115 See O’Brien, 391 U.S. at 383-86; Renton, 475 U.S. at 47（對於色情戲院分區管制
+    的立法目的，地方法院和上訴法院立場針鋒相對）; McCullen, 573 U.S. at 2:
+    “An intent to single out for regulation speech about abortion cannot be inferred from
+    the Act’s limited scope.”. 在1989年的Ward判決裡（Ward v. Rock Against Racism,
+    491 U.S. 781）    ，法院更援引Mosley判決中Powell大法官的不同意見，進一步把
+    立法者所宣稱的政府目的（government’s purpose）視為斷定所有言論管制中立
+    性的首要判準：只要言論管制所欲追求之目的和言論內容無關，即便系爭管
+    制只對特定表意人或特定言論內容產生附帶效果（incidental effect）                                    ，仍然具備
+    言論內容中立性（Ward, 491 U.S. at 791）                 。此外，關於以立法動機作為言論管
+    制中立性判準的論述，參見Elena Kagan, Private Speech, Public Purpose: The
+    Role of Governmental Motive in First Amendment Doctrine, 63 U. CHI. L. REV. 413
+    (1996); Jed Rubenfeld, The First Amendment’s Purpose, 53 STAN. L. REV. 767
+    (2001)。一般性介紹參見Mark Rienzi & Stuart Buck, Neutral No More: Secondary
+    Effects Analysis and the Quiet Demise of the Content-Neutrality Test, 82 FORDHAM L.
+    REV. 1187, 1192-1200 (2013).
+言論管制的中立性                                             233
+
+
+例如在審查處罰偽造、變造、故意滅失與故意毀壞徵兵證之聯邦法
+律是否違憲116的United States v. O’Brien判決裡，聯邦最高法院就完
+全著眼於徵兵證在行政程序上的實用功能117，主張系爭規範的政府
+利益和管制客體都只涉及焚燒徵兵證行為中的非溝通面向（non-
+                   118
+communicative aspect） ，所以毀壞徵兵證的處罰只是單純保障行
+政效能的行為規範；即便該行為在特定情境中同時具有表意功能，
+從而系爭規範此時會偶然但不可避免地對言論自由（或甚至特定言
+論）造成限制，也不會影響其「非溝通」
+                 「中立」
+                    「行為」規範的性
+質。並且，即使是在面對這種「同時揉合『言論』與『非言論』成
+分於一身」的行為，此種純粹行為觀點的行政效能利益，也仍然足
+以證成對言論自由所造成的偶然限制119。就本案而言，既然徵兵程
+序的順暢與效率是重要實質的政府利益、該利益並不涉及言論自由
+的箝制，而且系爭附隨限制（incidental restriction）的言論自由成
+本小於立法目的的利益120，那麼該項處罰規定不論在抽象規範還是
+個案適用上都沒有違憲的嫌疑121。
+
+   這種完全側重於象徵物體或行動之實用功能的法院見解，也同
+樣出現在表意時間、地點、方式管制的案例裡。在涉及以露宿公園
+之 手 段 主 張 街 友 權 益 的 Clark v. Community for Creative Non-
+      122
+violence 判決中，聯邦最高法院不僅主張表意時間、地點、方式
+管制的審查標準應與象徵言論管制相同，從而使用O’Brien標準去
+審查並肯定禁止露宿公園之表意方式管制的合憲性123，同時也在法
+
+
+116 O’Brien, 391 U.S. at 370.
+117 Id. at 378-79.
+118 Id. at 381-82.
+119 Id. at 376, 381-82.
+120 Id. at 377.
+121 Id. at 382, 385.
+122 See Clark, 468 U.S.
+123 Id. at 298-99. O’Brien標準的四項要素分別為：該管制在政府的憲法權力範圍之
+  內、政府的管制係在追求實質的政府利益（substantial government interest）
+                                                    、該
+234                                     《憲法解釋之理論與實務》第九輯
+
+
+
+適用的審查上再次重申，露營行為在個案脈絡下的表意功能，並不
+會削弱其行為屬性124，也不會動搖系爭規範作為表意時間、地點、
+方 式 管 制的 定 性 125 ，更 不 會 在個 案 中 提高 系 爭 規範 的 審 查標
+準126。本案中禁止在公園露宿的規範，其管制範圍既與立法目的緊
+密相連（narrowly focus）127，同時也為表意人保留了適當的替代溝
+通管道（ample alternative channels for communication）128，所以在
+規範和適用上皆屬合憲129。
+
+      然而，對於政府利益的倚重，也導致聯邦最高法院在某些案件
+裡過度信賴立法者的法益宣稱，從而放棄對目的（政府利益）－手
+段（管制範圍）的連結關係進行實質檢驗，最終導致寬縱觀點歧視
+管制的後果。例如McCullen v. Coakley130判決的法院多數意見就認
+為，Massachusetts州對於在墮胎診所方圓35英呎範圍內逗留者一律
+課予刑罰的禁言區131（speech-free zone）管制132，是在追求公共安
+全、病人進出診所以及公用馬路之順暢使用等與言論內容無涉的政
+府利益，所以儘管在適用上會對墮胎議題言論造成不成比例的衝
+擊，也仍然屬於言論內容中立的表意地點限制 133 。只不過依照
+Clark v. Community for Creative Non-violence和Ward v. Rock against
+
+
+
+    實質政府利益不涉及言論箝制、該管制所引發的言論自由成本不得逾越所追
+    求的政府利益，參見前註120。
+124 Id. at 291.
+125 Id. at 294-95.
+126 Id. at 296-97.
+127 Id. at 296.
+128 Id. at 293, 295.
+129 Id. at 297-98.
+130 See McCullen, 573 U.S.
+131 該用語參見McCullen, 573 U.S. at 8 (Scalia, J., concurring).
+132 Mass. Gen. Laws, ch. 266, §120E½(b) (West 2012)，法規全文參見McCullen, 573
+    U.S. at 3.
+133 Id. at 12-15（尤其是頁14）       （僅僅針對墮胎診所、並不及於其他醫療設施的有
+    限管制範圍，只是為了因應墮胎診所獨有的現實保障需求，並不當然意味立
+    法者具有內容或觀點歧視的意圖）                 。
+言論管制的中立性                                                                        235
+
+
+        134
+Racism 等法院先例為表意時間、地點、方式管制所建立的審查標
+準135，這項中立規範對未牴觸系爭政府利益的言論造成了不必要的
+過當限制，也完全剝奪表意人在公共論壇中和閱聽人面對面溝通的
+機會，所以無法通過合憲性的檢驗136。針對多數意見堅持規範中立
+性判斷在邏輯上優先於目的－手段關聯審查的立場，Scalia大法官
+在協同意見書中提出了嚴厲的批評：誠然，法適用結果上的偏倚不
+會減損法規範的中立性，但在本案的具體脈絡之下，墮胎診所禁言
+區規定和立法目的之間根本不具緊密關聯，所以應該被定性為必須
+受到嚴格審查的言論內容管制，而不是多數意見所定性的過當中立
+管制137。
+
+     從前述Johnson、O’Brien、Clark和McCullen等法院判決中可以
+看出，在表意行為的時間、地點或方式同時具有非表意性之實用功
+能（如醫療服務、休閒遊憩、軍隊徵召）的情況下，即使系爭規範
+的管制範圍隱含了內容歧視的高度嫌疑（O’Brien、McCullen），法
+院仍然傾向於接受立法者表面上所宣稱的中立政府利益，承認該規
+範是僅須以中度標準審查的言論內容中立管制，並且經常以管制利
+大 於 弊 或 尚 有 替 代 溝 通 管 道 為 由 作 出 合 憲 判 決 （ O’Brien 、
+
+
+134 See Ward, 491 U.S.
+135 承續Clark, 468 U.S.的判決見解，美國聯邦最高法院在Ward一案中，對於在公
+    共論壇中所發表言論的時間、地點、方式管制，整理出包含三項要素的合憲
+    性審查標準：1. 該管制不涉及被管制言論的內容（without reference to the
+    content of the regulated speech）
+                                   ，亦即具有言論內容中立性。2. 該管制嚴格遵守
+    追求重大政府利益的目標（narrowly tailored to serve a significant governmental
+    interest）。詳言之，雖然毋須採取最小侵害手段（the least restrictive or least
+    intrusive means）  ，但也不得在追求立法目的的必要範圍之外對言論造成過多限
+    制（burden substantially more speech than is necessary to further the government's
+    legitimate interests）。3. 在管制之下，該資訊仍保有適當的替代溝通管道
+   （leave open ample alternative channels for communication of the information），參
+    見Ward, 491 U.S. at 791-803。McCullen v. Coakley判決也延用了這項Ward標
+    準，參見McCullen, 573 U.S. at 9.
+136 McCullen, 573 U.S. at 18-30.
+137 McCullen, 573 U.S. at 3-10 (Scalia, J., concurring).
+236                                            《憲法解釋之理論與實務》第九輯
+
+
+          138
+Clark）       。
+
+      （三）考量個案中表意功能的形式管制
+       近年來，在規範文義上明目張膽揭示觀點歧視的言論管制已屬
+罕見，所以言論管制的審查重點已經轉向於如何分辨立法目的的真
+偽。從前節論述中可以看出，聯邦最高法院在審查非語言性之表意
+行為或是表意時間、地點、方式的管制時，極為側重言論外在形式
+的實用功能；只要立法者能夠提出與該功能相關的政府利益，法院
+就願意忽視管制範圍層面的歧視嫌疑，認定該規範具有言論內容中
+立性，並且在個案中放寬審查。然而，這種完全忽視言論外在形式
+之表意功能的觀點，不但可能輕易縱放「表面中立實則歧視」的規
+範139，甚至會反過來嚴格審查—考量言論形式在不同具體情境下
+之表意功能並進行差異對待的—「表面歧視實則中立」規範。前
+文曾提及的Mosley判決就是當中的典型案例140。
+
+  Mosley判決所涉及的是「禁止在學校周圍150英呎內舉行所有
+與勞動爭議無關之陳抗行動」的禁制區規定141。聯邦最高法院在此
+肯定了陳抗的表意行為本質，並且援引O’Brien標準，主張為追求
+重大政府利益所必要的時間、地點、方式管制，即便會對不同類型
+的陳抗行動產生強弱不等的影響，也仍然是合憲的言論管制142。觀
+諸本案事實，法院肯定了學校安寧作為立法目的的正當性143，並從
+學校的教學功能角度出發，主張陳抗活動對學校安寧的破壞程度不
+因是否涉及勞動爭議而異，所以僅處罰非勞動爭議之陳抗行動的管
+
+
+
+138 Timothy Zick, Cross Burning, Cockfighting, and Symbolic Meaning: Toward a First
+      Amendment Ethnography, 45 WM. & MARY L. REV. 2261, 2300 (2004).
+139 See Lee, supra note 15, at 507-11.
+140 Mosley, 408 U.S. at 94-102.
+141 Id. at 93.
+142 Id. at 98-99.
+143 Id. at 100.
+言論管制的中立性                                                                           237
+
+
+制範圍就逾越了追求實質政府利益之中立性時間、地點、方式管制
+的界線，而構成違反憲法平等保障的，依據言論主題（subject
+                                                                144
+matter）去進行公共論壇言論篩選的言論內容管制                                          。
+
+     由此可見，聯邦最高法院非但本身並未認知言論之時間、地點
+和非語言形式在意義溝通上的地位，同時也禁止立法者進行相關考
+量。Mosley判決抓住了言論主題差別待遇的點，明快作出了系爭規
+範歧視特定言論內容的結論。但是依據O’Brien-Clark-Ward標準進
+行審查，也仍然可以認為言論禁制區的例外規定，是考量到言論時
+間、地點和非語言形式在特定情境中的表意功能145，並且在其他溝
+通管道難以有效取代的判斷之下，要求政府利益的追求必須向特定
+類型言論之保障退讓的立法決定146 147。
+                                             、
+
+
+
+
+144 Id. at 94-102. 與McCullen一案相較，Mosley判決中Chicago法規的管制範圍是
+    以言論主題作為區分標準，所以法院容易藉以反駁規範的言論內容中立性，
+    而不會得出過當之中立管制的結論。
+145 See Spence, 418 U.S. at 410 (“the context may give meaning to the symbol”).
+146 根據此種思維，系爭禁制區例外規定的合憲性質疑將是涵蓋過窄（學校作為
+    表意地點的選擇不僅在勞動議題上具有表意功能，在被告所表達的招生政策
+    議題上亦然）       ，而非針對言論主題的內容歧視。
+147 針對此一議題，Rehnquist大法官在Carey v. Brown判決（Carey v. Brown, 447
+    U.S. 455 (1980)）的不同意見書（Burger首席大法官和Blackmun大法官加入）
+    中提出了極為精確的闡述。該判決所審查的是禁止在住宅區舉行陳抗行動，
+    但例外容許在勞動爭議中之僱傭地點和平陳抗的規定。法院認為本案情況和
+    Mosley判決類似，所以直接援引了Mosley判決的論證作成了違憲判斷：本案系
+    爭規範的立法目的在維護住宅和家宅的隱私（residential privacy, privacy of the
+    home）   ，而和平抗議對於住宅隱私的干擾強度不會因言論的主題而異，所以對
+    抗議活動的主題歧視就構成違反平等保障的非中立限制。有別於多數意見把
+    住宅區功能抽象化並且完全忽略言論外在形式在具體表意行為脈絡下與言論
+    內容的關聯性，Rehnquist大法官指出：「地點的本質和『其尋常活動模式
+   （normal activities） ，決定了何種時間、地點、方式的管制是合理的。』……關
+    鍵問題在於，       （言論）表達的形式是否和特定地點在特定時間下的尋常活動根
+    本不相容。」       （Carey, 447 U.S. at 482 (Rehnquist, J., dissenting), citing Grayned v.
+    City of Rockford, 408 U.S. 104, 116） （emphasis added）以Carey案涉及的住宅區
+    房屋為例，如果有居民自願將房屋投入非居住性的使用（如締結僱傭契約）                                               ，
+    該房屋的本質功能和隱私權需求就會迥異於單純用於居住的住宅，其時間、
+    地點、方式的限制強度當然就會隨之變動。立法者為了保障言論行動（speech
+    activity），特別是為了提供發聲的論壇，在抗議內容涉及該房屋之非居住使用
+238                                              《憲法解釋之理論與實務》第九輯
+
+
+
+      （四）次級效果原則
+      從言論內容的消極和積極定義，到表意行為與言論時、地、方
+式的語意詮釋，本章介紹了美國聯邦最高法院在言論內容中立管制
+判定上的不同層次爭議。簡而言之，儘管法院把言論內容明確定義
+為言論觀點及其溝通效果，但是從規範—特別是表意時、地、方
+式規範—的角度來看，往往難以判斷此時的限制客體究竟為
+何148。為了在雙軌理論的框架下精確論斷規範的言論內容中立性，
+美國聯邦最高法院在規範文義之外同時納入了立法目的（政府利
+益）的檢驗149，以此辨明非語文象徵符號（如旗幟）之形式管制的
+言論內容歧視性150。但在表意人憑藉時、地、方式之實用功能去傳
+達意義內涵的情況下，法院雖然承認溝通和非溝通成分在表意行為
+
+
+
+    功能（如勞動糾紛）而表意人又別無其他有效的替代論壇時，把該房屋排除
+    於住宅區抗議禁制區之外，才是符合言論自由保障意旨的作為，也才符合平
+    等 保 障 條 款 「 不 等 者 不 等 之 」 的 要 求 。 參 見 Carey, 447 U.S. at 479-83
+    (Rehnquist, J., dissenting)。此時對勞動主題言論的例外容許雖然屬於內容管
+    制，但並非恣意的內容歧視，而是因應不同的論壇性質而為的議題範圍限
+    定。參見Carey, 447 U.S. at 484 (Rehnquist, J., dissenting), citing Cox, 379 U.S.簡
+    言之，雖然「和平抗議對於學校安寧或住宅隱私的干擾強度不會因言論的主
+    題而異」     ，但是學校安寧或住宅隱私等政府利益在個案中所必須忍受的干擾強
+    度，卻會因為不同的言論主題而異。
+148 不意外地，這種定性困難也曾引發雙軌理論的存廢爭議。反對進行雙軌區分
+    者，參見Redish, supra note 73, at 114, 140; Chemerinsky, supra note 92, at 49-64;
+    K.G. Jan Pillai, Neutrality of the Equal Protection Clause, 27 HASTINGS CONST. L.Q.
+    89, 131-34 (1999); Clay Calvert, Free Speech and Content-Neutrality: Inconsistent
+    Applications of an Increasingly Malleable Doctrine, 29 MCGEORGE L. REV. 69, 110
+    (1997); Geoffrey R. Stone, Content-Neutral Restrictions, 54 U. CHI. L. REV. 46, 117-
+    18 (1987).主張應維持雙軌區分者，參見Geoffrey R. Stone, Content-Neutral
+    Restrictions, 54 U. CHI. L. REV. 46, 54-57 (1987)。另外提出應以多項要素審查取
+    代雙軌區分者，參見Wilson R. Huhn, Assessing the Constitutionality of Laws That
+    Are Both Content-Based and Content-Neutral: The Emerging Constitutional
+    Calculus, 79 IND. L.J. 801, 809-13 (2004)（以Stevens大法官的五部分多要素標準
+    為本）   。
+149 TRIBE, supra note 106, at 794-804.
+150 See Johnson, 491 U.S.; United States v. Eichman, 496 U.S. 310 (1990); Stromberg v.
+    California, 283 U.S. 359 (1931).
+言論管制的中立性                                                     239
+
+
+中融為一體，在審查立法目的時卻完全只著眼於表意時、地、方式
+等外顯情境的實用功能151，甚至嚴禁立法者在利益衡量上考慮特定
+時、地、方式在具體情境下的表意功能152。
+
+    依循前述的雙軌理論思維，聯邦最高法院更進一步針對低價值
+色情言論提出所謂的次級效果原則（secondary effects doctrine）153。
+在 Young v. American Mini Theatres, Inc. 154 和 Renton v. Playtime
+           155
+Theatres         判決裡，法院所面臨的是色情言論分區管制（zoning
+                                    156
+regulation）的特殊言論管制類型                   。純粹就規範文義的角度來看，
+特別針對色情言論這種特殊言論類型的差別待遇，理當被定性為必
+須受到嚴格審查的內容歧視管制157。但是聯邦最高法院在這兩個判
+決中則認為，分區管制規範並沒有全面禁止人民設立色情戲院，而
+是市政府為了追求生活品質的實質政府利益，對商業設施所為的地
+域配置決定158，定性上屬於表意時、地、方式的中立管制159。
+
+    在這樣的規範認知基礎之上，為了防範犯罪率攀升、房地產貶
+值和居住品質惡化等表意地點之次級效果160而實施的色情言論分區
+管制，既與立法目的具有緊密連結，也為色情戲院留有適當的替代
+
+
+
+151 參見前文第肆、一、
+            （二）部分。
+152 參見前文第肆、一、
+            （三）部分。
+153 次級效果原則的詳細介紹，參見Rienzi & Buck, supra note 115（尤其是頁1200
+        ；Kreimer, supra note 7, at 1297-98.
+   至1215）
+154 See Young, 427 U.S.
+155 See Renton, 475 U.S.
+156 See Renton判決涉及禁止在住宅區、教堂、公園或學校周圍1,000英呎內設立
+    經營色情電影院的規定，該法規的立法沿革和詳細的規範內容，參見Renton,
+    475 U.S. at 43-44。Young判決則涉及禁止在距離住宅區500英呎或其他受管制
+    設施的1000英呎範圍內設立經營成人戲院的規定，該法規的立法沿革和詳細
+    的規範內容，參見Young, 427 U.S. at 52-55.
+157 Renton, 475 U.S. at 47.
+158 Young, 427 U.S. at 62-63.
+159 See Renton, 475 U.S. at 47-48, 50; Young, 427 U.S. at 71-73.
+160 「次級效果」用語的首次出現，參見Young, 427 U.S. at 69 n.33.
+240                                         《憲法解釋之理論與實務》第九輯
+
+
+
+設立空間，就不違反憲法增修條文第1條的言論自由保障161。
+
+二、雙軌理論的價值立場與體系矛盾
+
+      借用前文所介紹的言語行為理論觀點，可以精確說明美國雙軌
+理論背後所依憑的價值立場，並指出其論理矛盾之處。
+
+      （一）語用學式的言論內容認知
+      論及言論自由的保障，最首要的任務就是確定其構成要件—
+言論—的定義。從語意學的觀點來看，言論的意義在於其語意意
+義本身，所以言論內容就只限於言論命題，而言論形式和由言效果
+的限制，會被認定為與言論內容無關的中立規範。有別於此，言語
+行為理論認為言論的本質是社會溝通，所以言論的意義就在於意義
+的主體間傳達，言論和言論內容的概念都應該作廣義的理解：前者
+包括語言和非語言形式的表達，後者則同時涵蓋言論命題和由言效
+果兩者。由此觀點反推，確定或改變事態的做言會自始被排除於言
+論概念之外，而在具體情境中逾越理性能力、對法益造成明顯立即
+危險的由言效果，則會被事後排除。與之相較，美國雙軌理論對於
+言論和言論內容的認知，就和言語行為理論極為近似162，對於由言
+效果的高度保障，更顯現出截然區分精神傷害（溝通效果）和生理
+傷害（法益侵害）的立場163。
+
+
+
+
+161 Id. at 52-54.
+162 Blocher, supra note 32, at 1430-31.
+163 此處涉及身心二元論（mind-body dichotomy）或是所謂的棍棒與石頭論證
+  （“sticks and stones” argument）
+                               。後者源自“Sticks and stones may break my bones,
+  but words will never hurt me.”的英語俗諺，在言論自由，特別是仇恨或色情言
+  論管制的脈絡中，經常被用來討論言論的法益侵害能力以及精神傷害和生理
+  傷害的異同。相關論述參見Schauer, supra note 14, at 635；Larry A. Alexander,
+   Banning Hate Speech and the Sticks and Stones Defense, 13 CONST. COMMENT. 71
+   (1996)；Susan J. Brison, Speech, Harm, and the Mind-Body Problem in First
+  Amendment Jurisprudence, 4 LEGAL THEORY 39 (1998).
+言論管制的中立性                                                                      241
+
+
+     從言語行為理論保障由言效果的角度出發，也可以解釋雙階理
+論的修正。在例示由言效果之危害，並將（下流、猥褻、粗鄙、誹
+謗、侮辱、攻擊言論等）特定言論排除於言論自由保障之外的
+                                 164
+Chaplinsky v. New Hampshire 判決裡，聯邦最高法院顯然認為言論
+自由偏重於言論認知功能的保護，所以和揭露理念以求趨近真理165
+無關的情感功能，在規範上可以輕易忽略166。但在1971年的Cohen
+                   167
+v. California判決 ，法院就明確肯定受言論自由保障的由言效果並
+不限於認知（cognition）面向，也同時包含了情感（emotion）面
+向168，從而修正了早期對於由言效果的偏狹見解169。
+
+     總而言之，雙軌理論對言論自由的構成要件採取了較語意學寬
+廣的語用學理解：不論其形態是口語或非口語、其命題內容是對是
+錯，也不論其由言效果是認知或情感訴求，只要符合主體間之意義
+傳遞的社會溝通要求，就在美國憲法增修條文第1條言論自由的保
+護領域之內170 。在此前提之下，規範的管制對象限於特定言論類
+型，並不當然代表具有言論內容歧視，而規範的管制面向宥於表意
+時、地、方式，也不當然等於言論內容中立；真正的重點在於立法
+管制客體是否為言論的命題或由言效果。再次以緒論的規範類型為
+例，以立法目的補充（甚至代替）規範文義作為判準的雙軌理
+論171，就會把共產言論（R1）和脅迫言論（R5）的管制都定性為
+
+
+164 Chaplinsky, 315 U.S. at 571-72.
+165 Id. at 572.
+166 TRIBE, supra note 106, at 837-40, 928-44. 另參見前文第肆、一、
+                                                       （一）部分中
+    R.A.V., 505 U.S.判決對於非言論成分的論述。
+167 See Cohen v. California, 403 U.S. 15 (1971).（案例事實為被告身穿寫有“Fuck the
+    Draft”標語的外套進入法院）
+                   。
+168 Cohen, 403 U.S. at 26. See also Snyder v. Phelps, 562 U.S. 443, 455-56 (2011).
+169 TRIBE, supra note 106, at 840-41.
+170 言論自由之保障範圍（coverage）和保護程度（protection）的層次應予區分，
+    言論的合理限制（unprotected）不等於剝奪其言論屬性（uncovered），參見
+    Schauer, supra note 17, at 1623.
+171 參見前文第肆、一、            （二）部分。
+242                                           《憲法解釋之理論與實務》第九輯
+
+
+
+針對言論內容的限制。
+
+      （二）觀點歧視的絕對禁止
+       在言論自由構成要件的廣義理解（言論觀點加溝通效果）之
+下，雙軌理論進一步區分了言論管制規範的實體正當性要件：針對
+言論內容的規範必須是為了防止急迫利益的明顯立即危險才具有正
+當性，而言論內容中立規範則必須透過實質政府利益、目的手段之
+緊密連結和充分替代管道來獲得證成172。
+
+       進而言之，基於對理念之自由市場（free marketplace of ideas）
+的信任以及對國家管制言論的不信任173，美國聯邦層級法院在審查
+針對言論內容的管制規範時，向來堅持國家不得以法益明顯立即危
+險的理由去正當化言論觀點歧視174。在判決Dworkin-MacKinnon反
+色情民權法175違憲的American Booksellers v. Hudnut176案件裡，聯邦
+第7巡迴法院就明確駁斥了「色情等同於女性從屬之傷害（harm,
+injury）」的主張。該法院認為這裡所謂的傷害，本質上是透過心靈
+中介（mental intermediation）的由言效果，所以女性從屬文化存續
+的不幸後果只是「展現了色情作為言論的力量」177、178。正因為特
+定 觀 點 的 單 純 表 達 並 不 會 構 成 法 益 的 迫 切 危 險 （ imminent
+                          179
+danger），所以系爭法規就屬於違憲的內容歧視限制 。另外，聯
+邦最高法院在R.A.V. v. St. Paul180判決中也針對反種族仇恨規範表達
+
+
+
+172 參見前文肆、一、         （一）與（二）部分。
+173 American Booksellers v. Hudnut, 771 F.2d 323, 330-31 (7th Cir. 1985).
+174 Leslie Kendrick, Content Discrimination Revisited, 98 VA. L. REV. 231, 260-61
+      (2012).
+175 詳細法規內容參見American Booksellers, 771 F.2d at 324.
+176 Id.
+177 Id. at 329.
+178 Id. at 328-329.
+179 Id. at 333-34.
+180 See R.A.V., 505 U.S.
+ 言論管制的中立性                                                                      243
+
+
+ 了相似的見解：即使是低價值的挑釁言論（fighting words），也只
+ 能因為其傷害，而非其主題或觀點而受到限制181。本案系爭規範特
+ 別針對種族、膚色、信仰、宗教、性別等言論主題施加限制，就規
+ 範文義本身而言已經違憲，在個案適用上也構成了實際的觀點歧視
+（actual viewpoint discrimination）182。
+
+      基於法院嚴格禁止觀點歧視的立場，針對言論由言效果的脅迫
+ 言論管制（R5）享有「重大迫切法益明顯立即危險」的合憲空間，
+ 但針對言論命題觀點的禁止共產言論規範（R1）就無法以任何理由
+ 加以證成。
+
+    （三）表意行為的保障弱化
+      然而，美國言論自由法學對於言論內容的廣義理解和高度保
+ 障，卻並未一體適用於非語言性的表意行為183。在聯邦最高法院的
+ 認知裡，即便在特定社會文化脈絡具有共同認知的條件之下，時、
+ 地、物體和行為的利用可以完成意義的傳遞，使得表意行為的溝通
+ 和非溝通成分融合為無法分割的言論整體184，但是在判斷立法目的
+ 正當性的時候，仍然可以且應該專注於表意時間、地點、行為方式
+ 的非表意功能 185 ，並且把系爭規範定性為純粹的非溝通成分管
+ 制186。出於這種無視或否定表意行為之語意和語用內容的觀點187，
+ 即便言論管制會對特定言論主題或觀點造成適用歧視，也不會影響
+ 言論管制規範的言論內容中立性；再加上被視為言論附加成分
+
+
+ 181 Id. at 382-90, 391-93, 396.
+ 182 Id. at 391.
+ 183 對於該法院立場的歷史解釋，參見Berckmans, supra note 17, at 147-52.
+ 184 See Zick, supra note 138, at 2304-05, 2327: “[M]eaning is public. People
+     communicate culturally, by means of shared codes and conventions.”
+ 185 參見前文第肆、一、           （二）註117、118對應本文部分。
+ 186 Kendrick, supra note 174, at 281, 285-86.
+ 187 Zick, supra note 138, at 2272-2301 (interpretive indifference and avoidance of
+     symbolic speech).
+244                                                 《憲法解釋之理論與實務》第九輯
+
+
+
+（speech plus）的行為形式永遠可以被更為「文明」的語言溝通管道
+取代188 ，所以在法益衡量上就容易作出「原始」表意形式189 必須
+向政府利益退讓的結論190。
+
+       基於前述立場，聯邦最高法院並不會特別區分規範文義和目的
+都中立的夜間噪音管制（R2）、目的中立但文義歧視的墮胎診所禁
+制區規定（R3），以及僅在適用上偶然造成言論限制的交通規則
+（R4）
+   ，也不會追問各該規範在具體情境下對不同言論類型所造成的
+干預強度，一律都使用相同的中度標準去進行審查和衡量。如此一
+來，將導致表意行為永遠必須向現存社會秩序退讓191、表意行為之
+憲法保障遠低於語言溝通的言論階級化（speech hierarchy）現象192。
+
+      （四）次級效果原則的不當
+       在語用學式的言論內容認知之下忽視表意行為之語意、語用分
+析，將行為形式視為純粹非表意成分的雙軌操作，除了會導致言論
+保障的階級化，還可能造成誤將溝通效果管制「中立化」的結果。
+聯邦最高法院在Young和Renton判決中針對色情言論所提出的次級
+
+
+
+188 FCC v. Pacifica Foundation, 438 U.S. 726, 743 n.18 (1978): “[T]here are few, if any,
+      thoughts that cannot be expressed by the use of less offensive language.”
+189 West Virginia State Bd. of Educ., 319 U.S. at 632: “Symbolism is a primitive but
+      effective way of communicating ideas. … [It] is a short cut from mind to mind.”
+190 Clark, 468 U.S. at 296; Frisby v. Schultz, 487 U.S. 474, 482-84 (1988); Ward, 491
+    U.S. at 802-03; Zick, supra note 138, at 2300; see also Enrique Armijo, The “Ample
+    Alternative Channels” Flaw in First Amendment Doctrine, 74 WASH. & LEE L. REV.
+    1 (2016)（從表意人自主的角度出發）                    。
+191 SADURSKI, supra note 11, at 49-50 (citing Mill: “[T]he pleas for civility hit harder
+    against the dissenters than the supporters of mainstream views.”).
+192 Zick, supra note 138, at 2273, 2390-94; Lee, supra note 15, at 507-17. Similar
+    critique see also Kalven, supra note 23, at 23; Davis & Rosenberg, supra note 7, at
+    155: “[T]he more straightforward way … is to acknowledge that we are suppressing
+    speech, and to explain why we are doing so, rather than pretending that speech has
+    somehow morphed into conduct because of the consequences of the message it
+    expresses.” (emphasis added).
+言論管制的中立性                                                                     245
+
+
+效果原則193，即是一例。
+
+       在色情產業分區規定的審查上，聯邦最高法院認為防止特定類
+型言論過度集中的規範是單純表意地點和方式的管制，再加上該規
+範所追求的是居住環境品質等和言論內容無關的政府利益，所以抽
+象文義與具體適用上的歧視仍然無損於系爭規定的言論內容中立
+性。然而，若從言語行為理論的角度來分析，管制對象是否限於表
+意地點，和言論內容中立性的判斷並無絕對關聯194 。此處的犯罪
+率、房產價值和居住環境，都是色情言論內容對閱聽人所產生、或
+是色情言論吸引閱聽人前來之後，閱聽人行為對第三人產生的影
+響，性質上並非傳單產生垃圾、演講引發噪音、遊行阻礙交通等純
+粹出於言論之非溝通成分的次級效果，而是影響他人價值判斷與行
+為決定這種作為言論首要目的的由言效果。聯邦最高法院這種混淆
+了言論初級和次級效果，把色情言論的溝通效果限制包裝成表意地
+點方式之中立規範的「次級效果」原則，後來也就引發了更多的爭
+議。例如在Barnes v. Glen Theatre, Inc.195 和City of Erie v. Pap’s
+     196
+A.M.    這兩則涉及脫衣舞的判決裡，法院索性把正當立法目的範圍
+擴及公共安全、公共福祉、公共秩序和公共道德的保障，讓次級效
+果原則適用於言論由言效果的管制，明白扭曲雙軌理論對於言論內
+容中立規範的定義，並弱化言論內容原本在雙軌理論之下所受到的
+幾近絕對保障197。
+
+       在本節的最後，可以用圖表形式把美國雙軌理論的內涵呈現如
+
+
+
+193 參見前文第肆、一、     （四）部分。
+194 可對照Mosley, 408 U.S.。「不得在公共論壇中進行言論內容汰選」的嚴格立
+    場，參見前文第肆、一、
+              （三）部分論述。
+195 Barnes v. Glen Theatre, Inc., 501 U.S. 560, 569-70 (1991).
+196 Erie v. Pap’s A.M., 529 U.S. 277, 291 (2000).
+197 Rienzi & Buck, supra note 115, at 1202; Chemerinsky, supra note 92, at 59-61;
+    Greenman, supra note 17, at 1364; Davis & Rosenberg, supra note 7, at 154（本益
+    衡量的包裝）      。
+246               《憲法解釋之理論與實務》第九輯
+
+
+
+下：有別於僅僅涵蓋言論（speech）此一溝通形式的憲法文義，美
+國聯邦最高法院透過歷來判決，發展出同時保障言論語意命題和言
+論溝通效果，並且絕對禁止觀點歧視的語用學式言論自由法學。在
+語用學式的言論內容認知之下，言論的語意命題和（尚未構成明顯
+立即危險的）認知與情感溝通效果都享有「推定管制違憲」的高度
+保障。從而管制共產主義此項言論命題的R1和管制脅迫言論之心理
+震懾效果的R5，就必須受到嚴格審查。但是，在區分語言溝通與表
+意行為，並且否定言論形式（在個案中）可能具有象徵意涵或對閱
+聽人產生溝通效果的論理基礎之上，美國聯邦最高法院經常寬縱歧
+視性的時、地、方式管制，導致言論內容的高度保障並不當然及於
+表意行為。無論是涉及適用歧視的墮胎診所集遊禁制區規定R3、語
+言溝通的音量管制R2，還是在個案中才會偶然涉及言論管制的交通
+規則R4，都適用相同的中度審查標準，並且都會在「適當替代溝通
+管道」存在時獲得合憲評價。
+
+
+
+
+      圖6 雙軌理論：言論內容中立規範的認定與審查
+資料來源：作者自製。
+言論管制的中立性                                                                   247
+
+
+伍、一般法律理論的爭議與分析
+
+     德國基本法在第5條第1項第1句明文保障了意見表達的自由：
+「所有人皆有以語言、文字及圖像自由表達並散布其意見……之權
+利。」和美國憲法增修條文第1條不同，德國基本法對於表意自由
+（Meinungsäußerungsfreiheit）的保障範圍有著明確的規定：就內容
+而言保障的是反映主觀評價的意見198，就形式而言並不限於口語和
+文字形態的表達，也包含所有能傳遞主觀意見的非語言溝
+通199 200 ，就範圍而言則不限於表意人的單方面發言（Äußern），
+     、
+
+
+而同時涵蓋以影響閱聽人為目的的散布（Breiten）201。另一方面，
+基本法不只對表意自由的保障範圍有相對明確的規定，第5條第2項
+也明文指出了言論自由的限制：「前項權利得以一般法律之規定、
+保護青少年及保護個人名譽權的法律條文限制之。」職是之故，言
+論管制合憲性審查的關鍵，就在於德國聯邦憲法法院如何理解法律
+的一般性（Allgemeinheit）。本節的任務就在釐清德國聯邦法法院
+歷來判決對於法律一般性的認定，以及法律之一般性與言論內容中
+立性這兩個概念的關聯和異同（一）202。之後再借用言語行為理論
+
+
+198 Vgl. BVerfGE 7, 198 (210) und ständige Rechtsprechung.
+199 Vgl. BVerfGE 54, 129 (138 f.); 60, 234 (241); 71, 108 (113); 76, 171 (192).
+200 在符合藝術（Kunst）定義的情況下，語言或非語言形態的意見表達也會受到
+    基本法第5條第3項藝術自由（Kunstfreiheit）的保障。參見BVerfGE 75, 369
+    (377).另外，集會結社形式的意見表達，則受到基本法第8條集會自由和第9條
+    結社自由的保障。但如果系爭規範的限制對象是意見表達的內容，法院則會
+    認為此時構成言論自由的限制，而以基本法第5條第1項第1句和第2項來審
+    查。藝術自由案件參見Vgl. BVerfG, 2 BvR 2179/09 vom 24.9.2009, Abs.-Nr. 3；
+    BVerfGE 30, 336, (347)；102, 347 (359)；107, 275 (280)；集會自由案件參見
+    BVerfGE 111, 147 (154)；BVerfG, 1 BvQ 32/03 vom 5.9.2003, Abs.-Nr. 19.
+201 Vgl. BVerfGE 7, 198, LS 6; 90, 1 (20).
+202 德國基本法第5條第1項第1句前段表意自由（Meinungsäußerungsfreiheit）的基
+    本權釋義，以及德國聯邦憲法法院L及德國和Wunsiedel兩個指標判決的詳細介
+    紹分析，參見蘇慧婕，第三帝國陰影下的言論自由保障：論德國聯邦憲法法
+    院在政治極右言論案件中的立場演變，臺大法學論叢，45卷2期，頁395-445
+   （2016年）   。
+248                             《憲法解釋之理論與實務》第九輯
+
+
+
+的觀點去分析法院從中顯露出的價值立場以及內在矛盾（二）
+                          。
+
+一、法律一般性的判定
+
+      （一）追求一般法益且不歧視特定觀點
+      在1958年的Lüth判決 203 中，德國聯邦憲法法院為一般法律
+（allgemeine Gesetze）作出了如下定義：不禁止特定意見，也不針
+對意見的表達，凡在保障不涉及特定意見，無論如何都應予保障之
+法益或是較之言論自由具有優先性之共同體價值的法律204。因此法
+律一般性的判斷標準就包含了觀點歧視的禁止（「不禁止特定意
+見」）、整體言論自由性的保障（「不針對意見的表達」），以及追求
+一般利益（allgemeine Interessen）的立法目的（
+                                「保障不涉及特定意
+見，無論如何都應予保障之法益或是較之言論自由具有優先性之共
+同體價值」
+    ）。這種同時納入觀點歧視禁止與立法目的一般性要求的
+Lüth標準（Lüth-Test），使得德國聯邦憲法法院—和美國聯邦最
+高法院一樣—也必須處理並澄清一般法益保障和觀點歧視禁止之
+間的價值衝突，亦即：1. 國家可否為了追求一般中立目的而限制言
+論的溝通效果甚至特定觀點205，以及2. 一般中立目的可否證成適用
+上的觀點歧視206等問題。
+
+      聯邦憲法法院對於前述議題的立場，在2009年歷經了一次論證
+轉折。2009年之前法院傾向於以立法目的的中立性（即保障法益的
+一般性）去定義一般法律（二），2009年後則直接限縮了言論內容
+的概念範圍（三）
+       。
+
+
+
+
+203 BVerfGE 7, 198.
+204 Vgl. BVerfGE 7, 198 (209 f.).
+205 參見前文第肆、一、          （一）和（二）部分。
+206 參見前文第肆、一、          （二）到（四）部分。
+言論管制的中立性                                                                     249
+
+
+
+   （二）為追求一般法益而限制言論內容的一般法律
+     雖然就文義而言，基本法第5條第1項第1句把意見和意見的溝
+通效果（表達及散布）都明確納入表意自由的保障範圍，但是在實
+務操作上，法院卻經常肯定與言論內容無關的立法目的（即：一般
+法益）足以正當化情感溝通效果的管制，在極端案例中，甚至足以
+正當化特定言論觀點的管制。
+
+     在涉及主管機關以危害公共秩序為由，將極右派遊行推遲到納
+粹受難者紀念日次日舉辦的判決207裡，聯邦憲法法院宣稱德國集遊
+法第15條第1項208所追求的公共安全和公共秩序是與言論內容無涉
+的一般利益，並且認為公共秩序（öffentliche Ordnung）包含了社會
+倫理價值和人民道德感受（sittliches Empfinden）等作為人類共同
+生活基礎的不成文規範在內209，從而主張保障閱聽人之道德感情免
+於言論之挑釁效果（Provokationswirkung）的情感溝通效果管制，
+仍然屬於追求一般法益保障的一般法律。不唯如此，在涉及暴力言
+論管制的魔鬼之舞判決210裡，聯邦憲法法院除了承認客觀人性尊嚴
+價值的憲法保障之外211，更主張立法者為了保障人性尊嚴客觀價值
+的一般利益，得限制暴力言論對閱聽人所產生的，降低對其同類尊
+嚴（die Würde des Menschen als Gattungswesen; die Würde des
+Mitmenschen）之尊重並提高第三人法益侵害危險的認知溝通效
+果212 。基於魔鬼之舞判決的論理，即使是針對言論的最古典功能
+—亦即認知溝通效果—的言論管制，也未必會喪失其一般法律
+
+
+207 BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 26.1.2001 – 1 BvQ 9/01.
+208 德國集會遊行法第15條第1項：               「根據行政行為作成當時的可見情況，集會或
+    遊行的實行將直接危害公共安全或秩序者，主管機關可以禁止該集會和遊
+    行，或對之課予特定負擔。」
+209 Vgl. BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 26.1.2001 – 1 BvQ
+    9/01, Abs.-Nr. 14 f.
+210 BVerfGE 87, 209 – Tanz der Teufel（基本法第5條第1項電影自由）               。
+211 Vgl. BVerfGE 87, 209 (228).
+212 Vgl. BVerfGE 87, 209 (228 f.).
+250                                             《憲法解釋之理論與實務》第九輯
+
+
+
+的規範性質。最後，在著名的否認納粹屠殺判決213裡，聯邦憲法法
+院還進一步認為，在蘊涵特定歷史背景的社會脈絡之下，特定命題
+的宣稱（例如否認納粹屠殺史實）會直接構成對第三人人格權的侵
+害214。所以此時為了保障人格權這項一般法益而限制特定觀點的法
+律，仍舊屬於一般法律215。
+
+       根據聯邦憲法法院的理解，針對言論（情感及認知）溝通效
+果，甚至是特定言論觀點的管制，都仍然可能是合憲的一般法律。
+如此就可以理解，為何在侮辱國家象徵罪216的審查上，德國聯邦憲
+法法院會得出與美國聯邦最高法院相反的結論。德國聯邦憲法法院
+在涉及侮辱國旗、國歌和國家代表色的三則判決裡217，主張國家整
+合和自由民主基礎秩序的保障是中立而一般的立法目的，而國家象
+徵是國家基礎秩序的具象化，所以禁止表意人透過侮辱國家象徵去
+撼動國家維持秩序之權威的規範，就仍然具有法律一般性218。
+
+       綜而言之，雖然基本法明文保障表意自由的保障範圍及於溝通
+效果，但是德國聯邦憲法法院在一般法律的概念定義上並未排除言
+論之情感和認知溝通效果的限制，在特定案例裡甚至也不堅持Lüth
+判決所明白揭示的觀點歧視禁止。因此，不必另外披上時間、地
+點、方式管制的中立偽裝，只要高舉一般法益保障的旗幟，國家就
+可以堂而皇之地限制特定言論觀點和溝通效果。這種不以言論內容
+
+
+
+213 BVerfGE 90, 241 – Auschwitzlüge.
+214 Vgl. BVerfGE 90, 241 (251-253).
+215 德國聯邦憲法法院在否認納粹屠殺判決裡的見解，明顯和美國聯邦最高法院
+      的立場針鋒相對，參見前文第肆、二、
+                      （二）部分論述。
+216 德國刑法第90a條第1項第2款。
+217 BVerfGE 81, 278; 81, 298; BVerfG, Beschluss der 1. Kammer des Ersten Senats vom
+      15. September 2008 – 1 BvR 1565/05.
+218 Vgl. BVerfGE 81, 278 (293 f.); 81, 298 (308); BVerfG, Beschluss der 1. Kammer des
+      Ersten Senats vom 15. September 2008 – 1 BvR 1565/05. 但在三則判決裡，聯邦
+      憲法法院都透過言論的詮釋，主張系爭言論的目的並不在顛覆形塑德國價值
+      基礎的自由民主秩序，因此下級法院的有罪判決違憲。
+言論管制的中立性                                                                          251
+
+
+中立性為要件的「一般法律」認知，意味著憲法對於言論自由的保
+障只是純粹的個案利益衡量，而Lüth判決中由三部分組成的「一般
+法律」判準，在憲法實務上只剩下立法目的（一般法益）加上利益
+權衡的操作219。
+
+   （三）一般法益的限縮與觀點歧視的絕對禁止
+     聯邦憲法法院這種以一般法益正當化觀點歧視和溝通效果限制
+的傾向，在2009年的Wunsiedel判決220 中獲得了修正。在這個涉及
+頌揚納粹政權言論得否加以處罰221的案件裡，聯邦憲法法院承襲了
+                                            222
+Lüth判決對於一般法律的定義文字                              ，但有別於判決先例的曖昧立
+場，Wunsiedel判決正面而明確地界定了中立目的和言論內容限制
+之間的關係。
+
+     針對中立目的得否證成言論內容限制的問題，聯邦憲法法院在
+Wunsiedel判決中提出了規範文義和法益侵害的雙重判斷標準：首
+先，如果法律的規範文義不涉及言論命題和溝通效果，其一般性毋
+庸置疑。但是為了保障一般法益而觸及言論內容的規範，並不當然
+喪失「一般法律」的性質223；區分一般法律和特殊法律的關鍵，毋
+寧在於言論溝通效果和現實法益侵害的概念分野：從法治國原則的
+理論角度來說，任何規範都必須嚴守—蘊涵於所有基本權之中的
+—自由原則（Freiheitsprinzip），言論的管制對象只能是外在世界
+
+
+
+219 Vgl. BVerfGE 59, 231 (265); 71, 162 (181); 77, 65 (75); Herbert Bethge, in: Sachs
+    (Hrsg.), GG Kommentar, 6. Aufl., 2011, Art. 5 Rn. 146; Hans Dieter Jarass, in:
+    Jarass/Pieroth (Hrsg.), Grundgesetz für die Bundesrepublik Deutschland, 11. Aufl.,
+    2011, Art. 5 Rn. 57.
+220 BVerfGE 124, 300.
+221 德國刑法第130條第4項：              「公然或在集會中贊成、頌揚或辯護國家社會主義暴
+    虐統治，從而以侵害受難者尊嚴之方式破壞公共和平者，處三年以下有期徒
+    刑，且得併科罰金。」
+222 Vgl. BVerfGE 124, 300 (321 f.).
+223 Vgl. BVerfGE 124, 300 (322).
+252                               《憲法解釋之理論與實務》第九輯
+
+
+
+（ Äußerlichkeit ） 中 法 益 危 害 （ Gefährdung ） 的 現 實 效 果
+（Realwirkung），不得侵入屬於個人主觀內心世界（das subjektive
+                                                 224
+Innere）的信念（Überzeugung）和思維（Gesinnung）                  ，所以思
+想氛圍、人民的安全感和法意識都不屬於憲法上正當的一般法
+益225。然而，該判決也同時指出，言論溝通效果和法益侵害並沒有
+明確的概念界線，立法者擁有一定的判斷餘地。一般而言，侷限於
+言論形式或情境等外在世界（Außenwelt）層次的規範，通常暗示
+了防止法益侵害的立法目的；而針對特定言論內容的管制，則取決
+於該言論內容和法益侵害之間的因果連結：因果關係愈直接，系爭
+規範就愈傾向於保障一般法益的行為限制。反之，系爭規範就愈有
+箝制言論內容的嫌疑，必須受到嚴格審查226。
+
+      值得注意的是，儘管承認內外世界的分野會隨著個案的具體因
+果關聯而流動，Wunsiedel判決也明白標示出了一個絕對邊界：單
+純的價值宣稱不會構成法益侵害227。無論是衝突法益的衡量、侵害
+結果的認定還是一般法律的定義，都必須以觀點歧視為其絕對界
+線；國家在保障一般正當法益時，永遠必須對各種信念、立場和意
+識型態觀點嚴守言論內容中立性（Meinungsneutralität）228。在此前
+提之下，一旦法律以特定意識型態或特定族群的典型特徵行為作為
+管制對象，從而在適用上對特定意識型態或特定族群造成不合比例
+的限制，那麼即便立法者用中立的文義或目的去進行偽裝，系爭規
+範仍然會因為適用上的觀點歧視喪失法律一般性229。由此看來，單
+
+
+224 Vgl. BVerfGE 124, 300 (330, 332 f.).
+225 Vgl. BVerfGE 124, 300 (320, 334).
+226 Vgl. BVerfGE 124, 300 (333 f.).
+227 Vgl. BVerfGE 124, 300 (333). 值得注意的是，該見解推翻了否認納粹屠殺判決
+  （BVerfGE 90, 241）
+                  ，但聯邦憲法法院對此未置一詞。
+228 Vgl. BVerfGE 124, 300 (323 f., 325, 326 f., 329).
+229 Vgl. BVerfGE 124, 300 (324 f.). 德國聯邦憲法院在Wunsiedel判決所提出：
+                                                          「具
+      有適用上觀點歧視效果者即非一般法律」的見解，與美國聯邦最高法院的立
+      場正相反對。
+言論管制的中立性                                                  253
+
+
+單禁止頌揚納粹政權觀點的刑法規範，無疑就是不具一般性的特殊
+法律（Sonderrecht）230。
+
+    綜觀以上論述，Wunsiedel判決為法律一般性重新作出了明確
+定義：亦即特定言論觀點，甚至只是特定政治和世界觀觀點的歧視
+禁止231。從這種寬鬆理解出發，所有針對由言效果，但在抽象文義
+和具體適用上都不構成觀點歧視的言論管制，也能透過法益衡量而
+獲得一般法律的規範定性232。
+
+二、一般法律理論的價值立場與體系矛盾
+
+    在介紹德國聯邦憲法法院對於法律一般性的認定標準之後，接
+下來也可以借用言語行為理論的角度去檢視德國一般法律理論背後
+的價值立場，並指出其論理矛盾之處。
+
+  （一）語意學式的言論內容認知：由言效果的管制空間
+    從言語行為理論的觀點出發，德國一般法律理論的特徵就在
+於，縱使基本法第5條第1項第1句明文把由言效果納入言論自由的
+保障範圍，憲法實務卻不斷往限縮言論內容保障的方向前進。在納
+
+
+230 Vgl. BVerfGE 124, 300 (326). 但基於頌揚納粹政權言論的特殊內容（超越一般
+    範疇的罪行）      ，聯邦憲法法院認為基本法為該言論的特殊法律限制設置了獨一
+    無二、不可類推的例外容許。Vgl. BVerfGE 124, 300 (327 f.).
+231 Vgl. BVerfGE 124, 300 (323, 324, 325).
+232 Vgl. BVerfGE 124, 300 (322 f., 326 f.)（認為德國刑法第90a條的侮辱國家象徵
+    罪、德國刑法第86、86a條的公然展示違憲組織標誌罪和舊版德國刑法第130
+    條的種族仇恨罪仍是一般法律）。與美國雙軌理論相較，對言論由言效果、非
+    語言象徵符號、表意時地方式的管制都可能是德國基本法第5條第2項定義下
+    的「一般法律」       。由於一般法律所涵蓋的規範類型多元，德國聯邦憲法法院在
+    一般法律的合憲性審查──亦即相互影響理論的操作──上，就並未形成單
+    一標準，而是隨著案例類型而變化。除了「政治言論優先保障」的推定之外
+   （參見BVerfGE 7, 198 (208 f.)；聯邦憲法法院歷來見解）        ，德國聯邦憲法法院對
+    於由言效果管制的審查，並不總是以具體個案中的明顯立即危險為合憲要
+    件，反而時常肯定抽象危險（abstrakte Gefahr）足以證成言論溝通效果的限
+    制，甚至允許立法者推定危險的存在（參見BVerfGE 124, 300 (340 f.)）        。
+254                                          《憲法解釋之理論與實務》第九輯
+
+
+
+粹受難者紀念日遊行判決233 、魔鬼之舞判決234 和否認納粹屠殺判
+決235裡，法院都把言論的情感和認知由言效果定性成一般法益的侵
+害，而非受到憲法保障的言論內容。到了Wunsiedel判決，聯邦憲
+法法院更直接把（受憲法保障的）言論內容侷限在語意學層次，甚
+至進一步限縮言論命題的類型，主張言論內容只包含政治、宗教和
+倫理的意識型態觀點236。基於這種狹義的言論內容認知，在基本法
+第5條第2項和一般法律並列的青少年與名譽權保護規範，就是為了
+追求一般法益而為的由言效果管制，在不歧視特定意識型態觀點的
+前提之下，也具有一般法律的資格237。於是，在德國聯邦憲法法院
+的觀點之下，本文緒論中的諸多規範類型，就只有針對特定政治意
+識型態立場的共產言論管制（R1）會自始被排除於一般法律的概念
+範疇之外。
+
+      德國聯邦憲法法院放寬「一般法律」概念的最直接後果，就是
+由言效果的可限制性。一旦由言效果不被歸入純粹的精神領域，而
+是從內心思維跨越到外在現實、把言論轉化成行為的樞鈕，那麼由
+言效果限制應該被定性為精神領域箝制還是社會互動規範的問題，
+就取決於特定言論和法益侵害之間的因果關係，以及立法者對於法
+益侵害門檻（明顯立即危險？具體危險？抽象危險？）的價值決
+定。聯邦憲法法院這種強調具體言論情境同時尊重立法裁量的立
+場，讓德國立法者在言論由言效果的管制上—例如緒論中的脅迫
+言論管制（R5）—，擁有比美國立法者更大的合憲空間。
+
+      （二）觀點歧視的絕對禁止
+      如同前述，在基本法第5條第2項「一般法律」的實體合憲要件
+
+
+233 參見前註207。
+234 參見前註210。
+235 參見前註213。
+236 Vgl. BVerfGE 124, 300 (323, 324, 325).
+237 Vgl. BVerfGE 124, 300 (326 f.).
+言論管制的中立性                                                                       255
+
+
+之下，聯邦憲法法院以「語意學層次上的特定命題觀點」歧視，作
+為一般法律的概念外延極限。換句話說，基本法的一般法律要求等
+同於觀點歧視的絕對禁止。
+
+     而對於系爭言論管制是否構成觀點歧視的進階問題，聯邦憲法
+法院則強調了具體言論情境的重要性。即使系爭抽象規範在字面上
+是追求一般法益保障的行為限制，如果該行為是特定族群或特定意
+識型態的典型象徵，從而該規範在適用上會對特定觀點造成歧視效
+果，那麼該規範就會喪失一般法律的性格238。由此觀之，除了緒論
+中 的共產言 論管制（ R1 ）之外 ，墮胎診 所集遊禁 制區的 規 定
+（R3）也可能因為適用歧視而被定性為違憲的特殊法律239。
+
+   （三）言論形式的保障
+     聯邦憲法法院放寬一般法律認定，從而相對化言論自由保障的
+立場，也同時顯現在表意行為（非語言溝通）的案件之中。
+
+     有別於美國憲法增修條文第1條的規範方式，德國基本法第5條
+第1項第1句自始就把語文（語言、文字）和非語文（圖像）的表意
+形態都明文納入言論自由的保障範圍。除此之外，出版 240 、廣
+播241、電影242、藝術243、學術244、集會245、結社246等不同形態的
+意見表達，也分別受到不同基本權規範的覆蓋。其中的藝術自由和
+
+
+
+238 Vgl. BVerfGE 124, 300 (324 f.).
+239 Vgl. BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 04. Januar 2002 – 1
+    BvQ 1/02, Abs.-Nr. 2; BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 06.
+    Mai 2005 – 1 BvR 961/05, Rn. 20 f.
+240 基本法第5條第1項第2句。
+241 基本法第5條第1項第2句。
+242 基本法第5條第1項第2句。
+243 基本法第5條第3項第1句。
+244 基本法第5條第3項第1句。
+245 基本法第8條。
+246 基本法第9條。
+256                                          《憲法解釋之理論與實務》第九輯
+
+
+
+學術自由是受到無保留保障（vorbehaltlos）的基本權247，而出版自
+由和集會、結社自由對於自由民主憲政秩序具有不可或缺的地
+位248，因此對於表意行為管制規範及其個案適用的審查，德國聯邦
+憲法法院並不當然會採取寬鬆立場。
+
+      就如同在觀點歧視的判斷上必須依據具體言論情境去詮釋表意
+行為的語意和語用內涵249，聯邦憲法法院雖然承認言論形式管制經
+常與言論內容無涉250，但也多次強調，在操作相互影響理論以進行
+衝突法益權衡的時候，必須考慮言論情境的象徵意義
+（Symbolkraft） 251 。如果純粹從非表意性的一般功能角度去理解
+時、地、行為方式，完全不考慮表意人在具體情境中希望透過這些
+時、地、行為方式所傳達的語意內涵和溝通效果，那麼「法院自始
+就阻斷了在個案中對衝突法益進行權衡的可能。法院不必審酌個案
+情境進行衡量，只需要強調［系爭規範］的保護法益極為重要，而
+［表意］自由必須退讓就好。252」而這種立法目的永遠優先於言論
+自由的見解，正是對相互影響理論的直接牴觸。簡而言之，與美國
+聯邦最高法院不同，德國聯邦憲法法院在言論自由實務上並未發展
+出降低表意行為保障的趨勢，所以針對語言溝通的夜間音量管制
+（R2）和針對非語言溝通的交通秩序管制（R4），並不會因此適用
+不同標準的審查。
+
+      （四）兩種理性概念的衝突
+      從本節的判決分析可以清楚看到，相對於美國聯邦最高法院，
+
+
+
+247 Vgl. BVerfGE 30, 173 (191 f.); ständige Rechtsprechung.
+248 Vgl. BVerfGE 69, 315 (LS 1.).
+249 參見前文第伍、二、          （三）部分註238所對應本文段落。
+250 參見前文第伍、一、          （三）部分註226所對應本文段落。
+251 Vgl. BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 26.1.2001 – 1 BvQ
+      9/01, Rn. 15（承認人民的道德感情會因為集會時間的象徵意義而受到傷害）
+                                             。
+252 BVerfGE 81, 278 (297 f.)（涉及德國國旗的藝術性變造）
+                                         。
+言論管制的中立性                                        257
+
+
+德國聯邦憲法法院比較願意從外在現實世界的觀點出發，把言論由
+言效果的管制理解為一般法益的保障，而非言論內容的箝制。同
+時，在新近的Wunsiedel判決裡，聯邦憲法法院也採用了實質認定
+並絕對禁止觀點歧視的「一般法律」認知253，去阻絕以法益保障之
+名行觀點歧視之實的木馬立法。
+
+    聯邦憲法法院這種限縮言論內容認定、放寬一般法律定義的立
+場，除了能夠支持法院把由言效果管制定性為一般法律的先例見解
+之外254 ，同時更是體現了對於閱聽人所處社會脈絡的重視。詳言
+之，聯邦憲法法院承認個人的理性能力會受到具體言論情境（如表
+意人與閱聽人間的權力地位）以及社會價值脈絡的影響和侷限255，
+所以由言效果在這種情況之下會轉化為法益侵害，而由言效果的限
+制會轉化為前置的法益保護（vorgelagerter Rechtsgüterschutz）256。
+正是因為對（語言和非語言）言論的（精神性）法益侵害能力採取
+了具體而相對寬鬆的認定，侮辱國旗國歌以及公然展示違憲組織標
+誌的行為才會構成對國家根本價值的攻擊，而特定的表意時間、地
+點甚至是特定的命題宣稱也才可能構成公共秩序或第三人人格權的
+侵害257。
+
+    然而，Wunsiedel判決本身並未貫徹上述的理性概念。德國聯
+邦憲法法院一方面出於社會和言論脈絡的顧慮，放寬認定言論由言
+效果之法益侵害能力，同時卻又使用了抽象的理性概念去限縮一般
+法益的概念，主張情感由言效果（如對法秩序的信任感）、憲法基
+礎價值、人民法意識和意見氛圍等構築具體言論情境和社會價值脈
+絡的因子都不屬於足以證成言論管制的一般法益258。這種趨近於美
+
+253 參見前文第伍、一、          （三）部分註229所對應本文段落。
+254 Vgl. BVerfGE 124, 300 (322 f., 326 f.).
+255 Vgl. BVerfGE 124, 300 (335)（行動、心理門檻、震懾） 。
+256 Vgl. BVerfGE 124, 300 (335).
+257 參見前文第伍、一、          （二）部分援引判決。
+258 Vgl. BVerfGE 124, 300 (334).
+258                   《憲法解釋之理論與實務》第九輯
+
+
+
+國聯邦最高法院，極大化言論由言效果保障的立場259，與聯邦憲法
+法院自己所採行的狹義言論內容認知完全相悖。
+
+      最後，可以用圖表形式把德國一般法律理論的內涵呈現如下：
+和美國的發展相反，德國基本法第5條對於意見自由
+（Meinungsfreiheit）的保障雖然明白涵蓋了內容（意見）、形式（語
+言、文字、圖像等）和範圍（表達並散布）的層次，德國聯邦憲法
+法院在言論管制合憲性要件—亦即一般法律理論—的解釋上，
+卻持續朝向語意學式的言論內容認知前進，主張言論的情感和認知
+溝通效果並非言論的本質內容，而是從內心思維跨越到外在現實、
+把言論轉化成行為的樞鈕。為此，德國聯邦憲法法院提出以「立法
+動機是否歧視特定言論命題」作為區分一般法律和特殊法律的界
+線，從而在各種規範類型之中，文義上明白針對共產言論的R1，將
+會立即落入違憲特殊法律的範疇。另外，由於德國聯邦憲法法院對
+於命題歧視採取個案實質認定，所以規範上未明示觀點歧視，但會
+對反墮胎言論造成適用歧視的墮胎診所集遊禁制區規定R3，也一樣
+會被認定為特殊法律。除此之外，德國聯邦憲法法院並不區分語言
+和非語言的溝通類型，也承認表意時間、地點、方式可能構成言論
+內容的一部分。但是在語意學式的狹義言論內容認知之下，只要尚
+未逾越觀點歧視禁止的絕對界線，所有（非）語言溝通的溝通和非
+溝通效果管制（R2、R4、R5），都可能被認定成與言論內容無關的
+法益前置保護而落入一般法律的概念射程之中，並在法益權衡上向
+一般法益退讓。
+
+
+
+
+259 參見前文第肆、二、
+            （一）和（二）部分。
+言論管制的中立性                       259
+
+
+
+
+ 圖7 一般法律理論：言論內容中立規範的認定與審查
+資料來源：作者自製。
+
+
+
+
+陸、結論
+
+  綜觀近年來的社會抗爭以及政府的管制趨勢，可知言論自由的
+爭議重點已經漸漸從直接明確的觀點歧視（R1）、由言效果的保障
+界線（R5），擴張或轉移到了非語言溝通的語意和語用學內涵
+（R3），以及一般社會活動秩序與言論自由的保障權衡（R2、R4）。
+因此，當代言論自由的理論與實務，也必須感知時空文化的變遷，
+建立一套內部邏輯一貫且能同時涵蓋並解決直接觀點歧視管制、言
+論方式管制、間接觀點歧視管制、附帶言論管制、言論溝通效果管
+制等言論管制類型爭議的論證。
+
+  本文著眼於言論自由憲法保障的表意性和社會性特徵，採取言
+260                                             《憲法解釋之理論與實務》第九輯
+
+
+
+語行為理論去定義「言論」、「內容」、「中立性」等概念，進而對
+「表意行為與單純行為（mere conduct）」、「言論的溝通成分與非溝
+通成分」
+   、「言論溝通成分與法益侵害」等言論自由的重要概念區分
+提出答覆。從言語行為理論的角度觀察，美德兩國言論自由法學關
+於言論管制中立性的詮釋就反映了各自的憲法文義基礎（定言命令
+vs.法律保留）、政治社會背景（反戰和民權運動vs.新納粹興起），
+以及對具體司法個案的路徑依賴：由於高度聚焦於政治異議言論的
+保障260 ，美國聯邦最高法院對觀點歧視和溝通效果的管制極為忌
+憚261，然而，或許正是因為內容管制推定違憲的嚴厲後果，法院同
+時也放鬆了對表意時、地、方式管制的審查，並且在把時、地、方
+式等情境因素「去表意功能化」的傾向之下，大幅弱化表意行為的
+言論自由保障強度262。有別於美國雙軌理論中的語言本位思維，德
+國一般法律理論則顯露出命題本位的傾向：德國聯邦憲法法院儘管
+承認時、地、方式可能具有表意功能263 ，但在永不重蹈極權覆轍
+（Nie Wieder!）的考量之下264，不區分語言和非語言溝通，都盡力
+限縮言論內容的保障範圍，以求擴張一般法律的概念；只要不觸及
+政治或宗教的意識型態觀點，所有—以語言或非語言溝通為對象
+的—言論管制都可以透過法益衡量獲得合憲評價。換言之，美國
+雙軌理論採取了語用學的認知，把言論的命題和（情感、認知）由
+言效果都包含在言論內容的概念和言論自由的保障範圍之中。並且
+出於閱聽人自主決定（幾乎）不受言論情境脈絡影響的抽象理性預
+設，一方面主張命題的單純宣稱享有絕對保障，另一方面則強調，
+
+
+
+260 See Schenck v. United States, 249 U.S. 47 (1919); Brandenburg, 395 U.S.; Johnson,
+      491 U.S.
+261 參見前文第肆、一、         （一）和（二）部分的論述及援引判決。
+262 參見前文第肆、一、         （三）和（四）部分的論述及援引判決。
+263 Vgl. BVerfGE 87, 209; BVerfG, Beschluss der 1. Kammer des Ersten Senats vom
+      26.1.2001 – 1 BvQ 9/01.
+264 Vgl. BVerfGE 7, 198（涉及納粹宣傳片導演的抵制）
+                                    ；90, 241（涉及否認納粹
+           ；124, 300（涉及頌揚納粹政權之言論）
+      屠殺的言論）                    。
+言論管制的中立性                    261
+
+
+言論的情感由言效果不得以保障閱聽人情感不受冒犯為由而加以處
+罰，也只能在保障急迫政府利益免於明顯立即危險時，才能限制言
+論說服的認知由言效果。只不過，這種廣泛而高度的保障並未一體
+適用於必須取用情境因素去構築完整意義內涵的表意行為之上。反
+之，德國一般法律理論則採取語意學的認知，主張言論內容僅限於
+言論命題的層次，而由言效果屬於處於言論和行為之間的灰色地
+帶，未必能享有完整的言論自由保障。再加上聯邦憲法院尊重立法
+者對閱聽人理性侷限以及法益危害程度的具體判斷，所有—語言
+和非語言形式—言論的情感和認知由言效果，都可能在相互影響
+理論的操作之下向現存社會價值判斷和社會活動秩序的保障退讓。
+
+  基於語言本位和命題本位的不同傾向，除了絕對禁止國家對言
+論命題之單純宣稱進行限制（如R1）的共識之外，雙軌理論和一般
+法律理論在言論由言效果和時、地、方式選擇的保障程度上，都有
+相當大的出入：一般法律理論承認言論時、地、方式在個案脈絡中
+所承載的表意內涵，比雙軌理論更能周全保障表意行為（如R3），
+而雙軌理論認定由言效果屬於受保障的言論內容，對言論情感和認
+知溝通效果的保障程度會高過於一般法律理論（如R5）。在當代立
+場極化，社會弱勢者又大幅仰賴「占領」手段以爭奪媒體關注度的
+抗爭社會裡，此種差異會使兩國的言論自由面臨不同的挑戰。美國
+聯邦最高法院從抽象個人觀點出發，極大化溝通效果的立場，忽視
+了弱勢族群在溝通權力上的結構不利地位，而否定言論時、地、方
+式之表意內涵的觀點，則有進一步把異議者和弱勢者逐出公共視野
+之外的危險。另一方面，即便肯定言論時、地、方式的選擇可以傳
+遞特定訊息，也承認言論由言效果介於意義溝通和法益侵害之間的
+過渡性質，德國聯邦憲法法院仍然必須對閱聽人的理性能力建立一
+致性的理解，並且切實認知社會結構以及表意人－閱聽人－第三人
+相對關係的變化，以避免將閱聽人「無力化」以限制極端言論的不
+當後果。
+262                                    《憲法解釋之理論與實務》第九輯
+
+
+
+
+                                 參考文獻
+
+1. 中文部分
+
+林子儀（1997），言論自由的限制與雙軌理論，收於：李鴻禧教授
+      六秩華誕祝賀論文集編輯委員會編，現代國家與憲法—李鴻
+      禧教授六秩華誕祝賀論文集，頁639-708，臺北：月旦。
+—（1988）
+      ，言論自由之理論基礎，臺大法學論叢，18卷1期，
+      頁227-275。
+蘇慧婕（2016），第三帝國陰影下的言論自由保障：論德國聯邦憲
+      法法院在政治極右言論案件中的立場演變，臺大法學論叢，45
+      卷2期，頁395-453。
+
+2. 外文部分
+
+Alexander, Larry A. 1993. Trouble on Track Two: Incidental Regulations
+      of Speech and Free Speech Theory. Hastings Law Journal 44:921-
+      962.
+─. 1996. Banning Hate Speech and the Sticks and Stones Defense.
+      Constitution Commentary 13:71-100.
+Armijo, Enrique. 2016. The “Ample Alternative Channels” Flaw in First
+      Amendment Doctrine. Washington and Lee Law Review 74:1-87.
+Austin, John Langshaw. 1962. How to Do Things with Words. Oxford:
+      Oxford University Press.
+Berckmans, Paul. 1997. The Semantics of Symbolic Speech. Law and
+      Philosophy 16:145-176.
+Bethge, Herbert (2011), in: Sachs (Hrsg.), GG Kommentar, 6 Aufl.,
+      München: C. H. Beck.
+Blocher, Joseph. 2014. Nonsense and the Freedom of Speech: What
+言論管制的中立性                                                            263
+
+
+    Meaning Means for the First Amendment. Duke Law Journal
+    63:1423-1481.
+Brison, Susan J. 1998. Speech, Harm, and the Mind-Body Problem in
+    First Amendment Jurisprudence. Legal Theory 4:39-61.
+Calvert, Clay. 1997. Free Speech and Content-Neutrality: Inconsistent
+    Applications of an Increasingly Malleable Doctrine. McGeorge
+    Law Review 29:69-110.
+Campbell, Wesley J. 2016. Speech-Facilitating Conduct. Stanford Law
+    Review 68:1-65.
+Chemerinsky, Erwin. 2000. Content Neutrality as a Central Problem of
+    Freedom of Speech: Problems in the Supreme Court's Application.
+    Southern California Law Review 74:49-64.
+Danesi, Marcel. 2004. Messages, Signs, and Meanings: A Basic
+    Textbook in Semiotics and Communication. 3d ed. Toronto:
+    Canadian Scholars’ Press Inc.
+Davis, Joshua P., and Joshua D. Rosenberg. 2010. The Inherent Structure
+    of Free Speech Law. William and Mary Bill of Rights Journal
+    19:131-196.
+Editorial Staff. 1989. Note: The Content Distinction in Free Speech
+    Analysis after “Renton”. Harvard Law Review 102:1904-1924.
+Ely, John H. 1975. Flag Desecration: A Case Study in the Roles of
+    Categorization and Balancing in First Amendment Analysis.
+    Harvard Law Review 88:1482-1508.
+Emerson, Thomas I. 1970. The System of Freedom of Expression. New
+    York, NY: Vintage Books.
+Fee, John. 2005. Speech Discrimination. Boston University Law Review
+    85:1103-1170.
+Greenman, John. 2008. On Communication. Michigan Law Review
+    106:1337-1378.
+264                                       《憲法解釋之理論與實務》第九輯
+
+
+
+Greenawalt, Kent. 1989. Free Speech Justifications. Columbia Law
+      Review 89:119-155.
+─. 1989. The Boundaries of Speech: What Actions and Restraints
+      Are Significantly Reached by Justifications for Free Speech?. Pp.
+      40-78 in Speech, Crime, and the Uses of Language, edited by Kent
+      Greenawalt. New York, NY: Oxford University Press.
+Grice, H. P. 1957. Meaning. Philosophical Review 66:377-388.
+Günther, Klaus. 1996. Communicative Freedom, Communicative Power,
+      and Jurisgenesis. Cardozo Law Review 17:1035-1058.
+Heyman, Steven J. 2002. Spheres of Autonomy: Reforming the Content
+      Neutrality Doctrine in First Amendment Jurisprudence. William and
+      Mary Bill of Rights Journal 10:647-717.
+Herzog, Roman (2009), in: Maunz/Dürig (Hrsg.), GG Kommentar, Bd. I.,
+      69. Aufl., München: C.H. Beck.
+Hoffmann-Riem,        Wolfgang      (2002),     Kommunikationsfreiheiten:
+      Kommentierungen zu Art. 5 Abs. 1 und 2 sowie Art. 8 GG, Baden-
+      Baden: Nomos.
+Huhn, Wilson R. 2004. Assessing the Constitutionality of Laws That Are
+      Both   Content-Based    and     Content-Neutral:    The   Emerging
+      Constitutional Calculus. Indiana Law Journal 79:801-861.
+Jarass, Hans Dieter (2011), in: Jarass/Pieroth (Hrsg.), Grundgesetz für
+      die Bundesrepublik Deutschland, 11. Aufl., München: Beck, Art. 5.
+Kagan, Elena. 1996. Private Speech, Public Purpose: The Role of
+      Governmental Motive in First Amendment Doctrine. University of
+      Chicago Law Review 63:413-517.
+Kalven, Harry, Jr. 1965. The Concept of the Public Forum: Cox v.
+      Louisiana. The Supreme Court Review 1965:1-32.
+Kendrick, Leslie. 2012. Content Discrimination Revisited. Virginia Law
+      Review 98:231-300.
+言論管制的中立性                                                            265
+
+
+Kreimer, Seth F. 2014. Good Enough for Government Work: Two
+    Cheers for Content Neutrality. University of Pennsylvania Journal
+    of Constitutional Law 16:1261-1351.
+Lee, William E. 1991. Speaking Without Words: The First Amendment
+    Doctrine of Symbolic Speech and the Supreme Court. Columbia-
+    VLA Journal of Law and Arts 15:495-542.
+─. 2005. Modernizing the Law of Open-Air Speech: The Hughes
+    Court and the Birth of Content-Neutral Balancing. William and
+    Mary Bill of Rights Journal 13:1219-1265.
+Lycan, William G. 2008. Philosophy of Language: A Contemporary
+    Introduction. 2d ed. New York, NY: Routledge.
+Masing,   Johannes    (2012),   Meinungsfreiheit    und   Schutz   der
+    verfassungsrechtlichen Ordnung, JZ 67, S. 585-592.
+McDonald, Barry P. 2006. Speech and Distrust: Rethinking the Content
+    Approach to Protecting the Freedom of Expression. Notre Dame
+    Law Review 81:1347-1430.
+Merrell, Floyd. 2001. Charles Sanders Peirce’s Concept of the Sign. Pp.
+    28-39 in The Routledge Companion to Semiotics and Linguistics,
+    edited by Paul Cobley. London: Routledge.
+Messenger, Ashley. 2012. The Problem with New York Times Co. v.
+    Sullivan: An Argument for Moving From a “Falsity Model” of
+    Libel Law to a “Speech Act Model”. First Amendment Law Review
+    11:172-235.
+Nimmer, Melville B. 1973. The Meaning of Symbolic Speech under the
+    First Amendment. UCLA Law Review 21:29-62.
+Pillai, K.G. Jan. 1999. Neutrality of the Equal Protection Clause.
+    Hastings Constitution Law Quarterly 27:89-154.
+Redish, Martin H. 1981. The Content Distinction in First Amendment
+    Analysis. Stanford Law Review 34:113-151.
+266                                          《憲法解釋之理論與實務》第九輯
+
+
+
+Rienzi, Mark, and Stuart Buck. 2013. Neutral No More: Secondary
+      Effects Analysis and the Quiet Demise of the Content-Neutrality
+      Test. Fordham Law Review 82:1187-1235.
+Rubenfeld, Jed. 2001. The First Amendment’s Purpose. Stanford Law
+      Review 53:767-832.
+Sadurski, Wojciech. 1999. Freedom of Speech and Its Limits. Dordrecht:
+      Kluwer Academic Publishers.
+Scanlon, Thomas M. 2003. A Theory of Freedom of Expression. Pp. 6-
+      25 in The Difficulty of Tolerance: Essays in Political Philosophy,
+      edited by Thomas M. Scanlon. Cambridge: Cambridge University
+      Press.
+─. 2003. Freedom of Expression and Categories of Expression.
+      Cambridge: Cambridge University Press.
+Schauer, Frederick. 1981. Categories and the First Amendment: A Play
+      in Three Acts. Vanderbilt Law Review 34:265-307.
+─. 1982. Free Speech: A Philosophical Enquiry. Cambridge:
+      Cambridge University Press.
+─ . 1993. The Phenomenology of Speech and Harm. Ethics
+      103:635-653.
+─. 2015. The Politics and Incentives of First Amendment Coverage.
+      William and Mary Law Review 56:1613-1636.
+Searle, John. 1969. Speech Acts: An Essay in the Philosophy of
+      Language. Cambridge: Cambridge University Press.
+Schulze-Fielitz, Helmuth (2006), in: Dreier (Hrsg.), GG Kommentar, Bd.
+      I. 2. Aufl., Tübingen: Mohr Siebeck.
+Solum, Lawrence B. 1988. Freedom of Communicative Action: A
+      Theory of the First Amendment Freedom of Speech. Northwestern
+      University Law Review 83:54-135.
+Stone, Geoffrey R. 1983. Content Regulation and the First Amendment.
+言論管制的中立性                                                         267
+
+
+    William and Mary Law Review 25:189-252.
+─. 1987. Content-Neutral Restrictions. University of Chicago Law
+    Review 54:46-118.
+Sunstein, Cass R. 1992. Free Speech Now. University of Chicago Law
+    Review 59:255-316.
+Taylor, Charles. 1985. Theories of Meaning. Pp. 248-292 in Human
+    Agency and Language: Philosophical Papers, edited by Charles
+    Taylor. Cambridge: Cambridge University Press.
+Tiersma, Peter M. 1993. Nonverbal Communication and the Freedom of
+    “Speech”. Wisconsin Law Review 1993:1525-1590.
+Tribe, Laurence H. 1988. American Constitution Law. Mineola, NY:
+    Foundation Press.
+Verschueren, Jef. 2001. Pragmatics. Pp. 83-94 in The Routledge
+    Companion to Semiotics and Linguistics, edited by Paul Cobley.
+    London: Routledge.
+Volokh, Eugene. 2005. Speech as Conduct: Generally Applicable Laws,
+    Illegal Courses of Conduct, “Situation-Altering Utterances,” and
+    the Uncharted Zones. Cornell Law Review 90:1277-1348.
+Williams, Susan H. 1991. Content Discrimination and the First
+    Amendment. University of Pennsylvania Law Review 139:615-730.
+Zick, Timothy. 2004. Cross Burning, Cockfighting, and Symbolic
+    Meaning: Toward a First Amendment Ethnography. William and
+    Mary Law Review 45: 2261-2398.
+268                                           《憲法解釋之理論與實務》第九輯
+
+
+
+
+      On the Content Neutrality of the State:
+ A Speech-Act Analysis of American Two-Track Theory and
+              German General-Law Theory
+
+
+                              Hui-Chieh Su＊
+
+                                  Abstract
+      All freedom-of-speech theories, despite differences in levels of
+protection, have at least one argument in common: Speech is not to be
+discriminated against on the basis of viewpoint. This seemingly
+unequivocal requirement, however, has spawned contradictory
+interpretations under different constitutional practices. These
+interpretations are deeply troubled by challenges from social realities,
+such as radicalized opinions and constantly changing modes of social
+protest and governmental regulation, to mention just a few. In order to
+explain and eventually solve the theoretical and practical controversies,
+this article tries to find a proper constitutional definition of “speech” and
+articulate the concepts of “speech content” and “content-neutral
+regulation”.
+      In light of its essential feature as social communication, the current
+essay defines constitutionally protected “speech” not in the semantic
+sense of transited viewpoint or proposition as such, but in the pragmatic
+sense of speech act. By virtue of the speech-act theory’s significant
+differentiation of locutional, illocutional and perlocutional acts, this
+article further clarifies the distinction between expressive and mere
+conducts, communicative and non-communicative elements, as well as
+communicative impacts and interest infringements, so that the content
+
+
+＊ Assistant Research Fellow, Institute of European and American Studies, Academia
+   Sinica.
+言論管制的中立性                                                                269
+
+
+neutrality of speech regulations will be consistently identified. Through
+this lens, this article analyzes the American Two-Track Theory and
+German General-Law Theory. In the latter part, I highlight the different
+value preferences of both theories, as well as their logical inconsistencies
+and future challenges.
+KEYWORDS: content neutrality of the state, speech-conduct distinction,
+          speech act theory, two-tracks theory, theory of general law
+          (allgemeine Gesetze).
+

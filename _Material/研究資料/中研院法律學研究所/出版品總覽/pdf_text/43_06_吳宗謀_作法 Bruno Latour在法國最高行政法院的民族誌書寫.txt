@@ -1,0 +1,1006 @@
+作法                                        341
+
+
+
+
+                   文獻評論
+
+                        ＊
+                    作法
+    — Bruno Latour 在法國最高行政法院的民族誌書寫
+
+
+
+                   吳宗謀＊＊
+
+
+                    目 次
+壹、引言
+貳、內容介紹
+參、評價
+
+
+
+
+＊   投稿日：2012年3月5日；接受刊登日：2012年7月12日。
+                                  ［責任校對：簡蔓婷］
+                                           。
+    本文初稿曾於2011年10月11日舉行之個人學術研討會中發表。作者感謝多位與會
+    先進與兩位匿名審稿人惠賜的寶貴指正與意見。一切疏漏與錯誤，仍完全由作者
+    負責。
+＊＊ 中央研究院法律學研究所助研究員。
+342              《中研院法學期刊》第11期（2012年9月）
+
+
+               摘 要
+  以實驗室研究聞名的 Bruno Latour將他透過科技研究而提出的
+行動者網絡理論應用在法國最高行政法院的參與觀察中。這位未曾
+受過法學訓練的觀察者以同時具有審判與供政府諮詢等雙重功能、
+由大量的國立行政學校畢業生組成的法國最高行政法院為其田野，
+關注法律運作中的有形載體配置，與其語言使用的特色。在 Latour
+眼中，不同於科學家們的客觀性來自於研究對象／客體遵循一套不
+受科學家們內在狀態影響的法則這個特色，確保法律工作之客觀性
+的條件是參與者超然的主觀態度。Latour反對將法律化約為語言行
+動、社會與／或經濟結構的工具或自我指涉的系統，主張法律的存
+有是一張由將言語歸屬於某人的細線編織而成、包覆整個社會的網
+絡。
+
+
+
+關鍵詞：法國、最高行政法院、實驗室研究、行動者網絡理論、法
+    概念、客觀性、司法裁判、法律關係之牽連。
+作法                                                                                343
+
+
+
+
+                                    Review
+
+LATOUR, B. (2010). THE MAKING OF LAW: ＊
+         AN ETHNOGRAPHY OF THE CONSEIL D’ETAT
+    (M. Brilman & A. Pottage, Trans.). Cambridge: Polity.
+
+
+                              Tzung-Mou Wu＊＊
+
+                                    Abstract
+     Known for his laboratory studies, B. Latour applies the Actor
+Network Theory which he adapted from his previous works on
+science and technology to apply to his participant observation of the
+French Conseil d’Etat. Without any legal background, the observer
+conducts his fieldwork in France’s supreme administrative court,
+which, composed mostly of National School of Administration
+(ENA) graduates, not only adjudicates, but also advises the
+government. He focuses on the allocation of legal operation’s
+physical substrates, as well as on features of its language use. In his
+sense, the condition which guarantees the objectivity of legal
+operation is the subjective attitude of “detachment”, while that of
+scientists stems from the characteristic that the research object
+follows a set of rules free from researchers’ inner status. Latour
+refuses to reduce the Law to speech acts, instruments of social and/
+or economic structures, or a self-referential system. Instead, he
+argues that the ontology of the Law is a web that is made of thin
+lines attributing words to someone and that covers the whole society.
+
+
+＊  The first draft of this book review was presented in the personal research
+   conference held on Oct. 11, 2011. I acknowledge the participants’ useful discussion
+   as well as the productive criticisms and comments of the two anonymous reviewers.
+   All remaining errors are mine.
+＊＊ Assistant Research Professor, Institutum Iurisprudentiae, Academia Sinica.
+344                               《中研院法學期刊》第11期（2012年9月）
+
+
+
+
+KEYWORDS: France, Conseil d’Etat, laboratory studies, actor network
+          theory, concept of law, objectivity, judicial decision, chain
+          of obligations.
+作法                                                 345
+
+
+
+
+壹、引言
+
+     創建至今有212年歷史的最高行政法院是法國體制的特色之
+一。這個字面意義為「國務院」但既非內閣亦非外交部、具有審判
+職能但卻並非由司法官組成的機關向來引發各國法政學者─與一般
+法國大眾─的好奇與困惑。科學人類學者Latour透過田野調查方式
+極為生動活潑地呈現了法國最高行政法院「作法」的環境、人力、
+技術與流程。
+
+     出身法國勃艮地的作者Latour生於1947年。與其他（透過英語
+學界而聞名的）法國學者不同，Latour並非自巴黎高等師範學院出
+身，而是在勃艮地大學攻讀哲學與神學，並於畢業後考取哲學教師
+資格(agrégation)。1975年，Latour於法國中部的圖爾大學取得博士
+學位。於論文撰寫期間，Latour在西非的象牙海岸服兵役，並受當
+時在法國官方設在西非之技術合作機構、原名「海外科技研究廳」
+的「發展研究所」委託，對於在象牙海岸大城阿必讓進行的法式技
+職教育現況進行民族誌研究。透過這項田野工作，Latour轉向人類
+學工作。並接受日後諾貝爾生理醫學獎得主之一的Roger Guillemin
+邀請，於1975至1977年間前往吉氏在美國聖地牙哥附近的沙克生物
+研究所(Salk Institute for Biological Studies)觀察吉氏團隊的日常工作
+狀況。這段經驗由Latour與英國科學社會學家Steve Woolgar聯名發
+表為《實驗室生活：科學事實的社會建構》一書。本書不僅打響
+Latour的名號，並成為實驗室研究與更廣泛的「科技與社會研究」、
+「科學技術研究」（兩者皆縮寫為STS）或台灣學界簡稱為「科學研
+究」的開山之作。
+
+     自此之後至本文所討論的《作法》法文版於2002年9月問世為
+止，僅單行本部分，Latour的著作依其個人網站的排序陸續為：
+1984年針對Louis Pasteur與19世紀末法國社會間的互動以法文發表
+的《微生物的戰爭與和平》（英譯作《巴斯德主義的勝利》）；1987
+346                                    《中研院法學期刊》第11期（2012年9月）
+
+
+
+年以英文發表的《科學在行動：怎樣在社會中跟隨科學家和工程
+師？》；1991年以法文發表的知名論戰作品《我們未曾現代過：對
+稱人類學試論》
+      ；1992年以法文發表的《阿拉米計畫或科技之愛》
+                             ；
+1993年出版文集《柏林鑰匙與一個科學迷的其他演講》；1999年以
+英文改寫先前全部或一部發表過的論文而結集的《潘朵拉的希望：
+科學研究實相論文集》（2001年法譯副標題為《為一種科學活動的
+唯實論主張辯護》）；1998年以法文出版的《巴黎：看不見的城
+市》；1999年以法文出版《自然的政治：如何將科學帶進民主》；以
+及2002年3月以法文出版《法喜充滿或宗教話語的折磨》。其餘主
+編、合編書籍與專文不及備載。
+
+      以工程與生命科學為研究對象的Latour不僅至2006年為止任教
+於工程學校，也被捲入1996年源於美國學術界、再延燒至大西洋彼
+岸的「科學戰爭」(Science Wars)1。遭到某些自然科學研究者攻擊
+的Latour或許正是因此受到台灣學界注目。目前台灣學界對Latour
+的介紹主要來自由哲學與社會學兩領域之學者為主的STS研究圈。
+自1998年《當代》雜誌刊出其所著兩則短文後 2 ，Latour本人亦於
+2000年4月應清華大學傅大為教授邀請來台訪問演講。2004年並刊
+行Latour在1983年發表的重要專文中譯3。STS研究圈的名聲亦引起
+
+
+1 Latour 先任教於國立工藝院(Conservatoire national des arts et métiers)，1982至
+  2006年間則任教於1783年創立的老牌名校巴黎高等礦業學院(Ecole nationale
+  supérieure des Mines de Paris)，隸屬於創新社會學研究中心(Centre de sociologie
+  de l’innovation)。2006年起至今任教於巴黎政治學院（Institut d’études politiques
+  de Paris）。關於「科學戰爭」的概況，參見陳瑞麟，科學的戰爭與和平—
+  「科學如何運作」的建構論與實在論之爭，歐美研究，35卷1期，頁141（2005
+  年）  。
+2 參見 Bruno Latour 著，張曉娃譯，是不是有冷戰之後的科學？當代，126期，
+  頁48（1998年）      ；Bruno Latour 著，王秀雲譯，懷斯事件，當代，126期，頁52
+  （1998年）    。
+3 參見 Bruno Latour 著，林宗德譯，給我一個實驗室，我將舉起全世界，收於：
+  吳嘉苓、傅大為、雷祥麟編，科技渴望社會，頁216-263（2004年）                               。See Bruno
+  Latour, Give Me a Laboratory and I Will Raise the World, in SCIENCE OBSERVED:
+  PERSPECTIVES ON THE SOCIAL STUDY OF SCIENCE 141, 141-70 (Karin D. Knorr-Cetina
+作法                                                                                 347
+
+
+
+
+法學界的關注。2006年底本所首次舉辦之科技發展與法律規範研討
+會中，Michael Lynch已在其專題演講中提及Latour的《科學在行
+動》4。2008年底第二屆雙年會中，邱文聰則引入Latour於前揭《我
+們未曾現代過》與《自然的政治》兩書所提出的觀點探討政治憲法
+與知識憲法的關連與衝突問題5。
+
+     本文將介紹的《作法》一書初版在2002年9月由巴黎Découverte
+出版社以法文刊行6。惟受國內各大圖書館館藏所限，本文標記頁
+數均以2010年Polity出版社刊行的英譯本為準。專有名詞於行文中
+以中文楷體字型標示，另於文末列表註明外文。本書主標題
+《Fabrique du droit》可同時指涉法的「製造」
+                             、「製造方式」
+                                   、或甚至
+「捏造」。副標題則點明本書為法國最高行政法院的民族誌。這也正
+是Latour自1970年代以來透過實際操作而逐漸熟稔的研究取徑。至
+於本文將主標題中譯為《作法》，希望同時表達三種意義。在字面
+上「創作」法律（如成語「
+           『作法』自斃」
+                 ）的意義之外，同時也希
+望涵括最高行政法院各種言行的儀式性與實踐性（如宗教活動中的
+「作法」）。若跳出中文語境外，「作法」的漢字也可指涉空間、座
+次、設備配置乃至於發言方式與沉默時機等不成文慣例的成規性
+(conventionality)（如日語「禮儀『作法』
+                           」的意義）
+                               。
+
+     就本書的理論特色而言，Latour頗受法國社會學家Gabriel Tarde
+(1843-1904)與甫於2011年4月辭世的美國社會學家Harold Garfinkel
+
+
+  & Michael Mulkay eds., 1983), available at http://www.bruno-latour.fr/sites/default/
+  files/12-GIVE-ME-A-LAB-GB.pdf.
+4 See Michael Lynch, Law, Science, and Society: Expert Knowledge in Legal Disputes,
+  in BIENNIAL REVIEW OF LAW, SCIENCE AND TECHNOLOGY: LEGAL CONSTRUCTION OF
+  PUBLIC HEALTH RISKS 2007, at 1, 16, 21 (Wen-Tsong Chiou ed., 2008).
+5 參見邱文聰，科學硏究自由與第三波科學民主化的挑戰—對「知識憲法」與
+  「政治憲法」二分的一個批判考察，收於：邱文聰編，2009科技發展與法律規
+  範雙年刊：科學管制、學術硏究自由與多元民主價值，頁97-100（2010年）                                        。
+6 Voir LATOUR (B.), La Fabrique du droit: une ethnographie du Conseil d’Etat, Paris:
+  Découverte, 2002.
+348                  《中研院法學期刊》第11期（2012年9月）
+
+
+
+(1917-2011)影響，採取由「小我」了解「大我」的途徑。Tarde除
+了以社會學與對群眾心理的研究聞名之外，並終生擔任法國西南部
+薩拉(Sarlat)一地的法官。知名著作為1890年出版的「模仿律」(Lois
+de l’imitation)。其理論的主要特色之一是著重偶發、不穩定與稍縱
+即逝的小規模人群或Latour所稱之社會聚集。Latour稱此為結合的
+社會學或轉譯社會學。與其相對立的是比Tarde更知名的Emile
+Durkheim (1858-1917)所代表的取徑，亦即以超個體層次來解釋個
+體層次的現象、亦即以「社會事實」(fait social)或「社會面」(le
+social)解釋個體行為的取徑。Latour稱此為「社會面的社會學」。至
+於Garfinkel則以俗民方法論(ethnomethodology)知名。此路徑重視人
+們如何在小規模的群體中形成可感知的有序世界。有趣的是這兩位
+啟發Latour的作者都曾在學術工作中直接處理重要的法律制度。Tarde
+與犯罪學者Cesare Lombroso (1835-1909)魚雁往返，但拒絕後者生
+理實證主義的解釋途徑，而強調社會與心理面向。Garfinkel則是在
+研究互不相識的陪審員如何進行評議時提出俗民方法論這個新詞。
+
+      在這兩位前輩學者的影響下，Latour採取的「見微知著」策略
+為其與同事Michel Callon提出的行動者網絡理論（通常縮寫為
+ANT）。此理論的特色在於同時注意人類與例如微生物、紀錄儀
+器、案卷等非人類行動者。這使Latour的策略有別於方法論的個人
+主義。而書名副標題所示的「民族誌」取徑則不具操作性意義，而
+是指實地參與並觀察各行動者間的關係、互動、獲致科學事實、以
+及網絡的重組和瓦解等面向。Latour早期的實驗室與巴斯德研究經
+驗顯示，其ANT取向反對以個別知名科學家的英雄主義或技術決定
+論解釋科學對社會的影響，反對認識論研究者將重點擺在科學研究
+者的特殊世界觀或認知構造等精神面，也反對其之前的科學社會學
+          、
+中遵奉的「個體—總體」「微觀—巨觀」二元論；他將重點擺
+在實驗室的「陳設」(setting)，強調例如追求研究紀錄極簡化的器
+材、方式與指標，以及科學家們如何在各地複製其實驗室以扭轉與
+作法                                 349
+
+
+
+
+其他網絡（例如重視法則性知識的流行病學，或重視個別特色的獸
+醫學，乃至於透過傳統延續的農牧技術等）之間的權力關係7。
+
+     Latour對法國最高行政法院的參與觀察所得將如何透過行動者
+網絡理論呈現？對司法機關與其活動的觀察，如何與產生自科技研
+究的概念框架對話？這樣的對話又將帶給法律學門何種啟發？以下
+本文採取儘量摘述內容、適度插入註解的方式呈現本書，接著再以
+一法學者的觀點提出評論。
+
+
+
+貳、內容介紹
+
+     英文版未收錄的法文版前言〈如何維持國家的秘密？〉介紹了
+本書的緣起與撰寫過程中作者遭遇的若干技術性障礙。Latour自
+1994年首度受若干最高行政法院顧問邀請進入最高行政法院以
+來 8，陸續有兩次各半年機會密集參與法國最高行政法院除判決評
+議外的各項會議與業務，之後仍定期前往旁聽會議與進行訪談。此
+外，Latour也參加了為期兩個月的行政法院法官養成課程。至2000
+年，整個田野工作已歷時約4年。為避免使個別法官與特定案件間
+的連結曝光，並顧及訴訟當事人的隱私，Latour不得不更動所有案
+件的編號與涉及人員的姓名，犧牲如實呈現觀察所得的學術要求，
+而以「合理虛構」的方式書寫。
+
+     在專為英文版撰寫的前言中，Latour則解釋為何要研究不如科
+技知識一樣具普世性的法律，特別是法國行政法（頁vi）。第一個
+原因是法國行政法是歐陸法系中與普通法的論證特色最相似的分
+
+
+7 參見 Bruno Latour 著，林宗德譯（註3）
+                           。
+8 本書將最高行政法院各級從事法律工作的人員皆稱為顧問，並建議讀者參考第
+ 3章對人事的描寫（頁13，註19）
+                 。為保留原文特色，本文不稱擔任審判工作的
+ 顧問為「法官」。
+350                              《中研院法學期刊》第11期（2012年9月）
+
+
+
+支；其次，即使法國大眾自己也不熟悉其本國的最高行政法院；況
+且除了在開放旁聽的場合外，能深入如預審等不公開程序的機會更
+是千載難逢（頁vii-viii）。更重要的是，對法律的研究是Latour對現
+代人的人類學研究中不可或缺的一環。Latour自我引用，認為現代
+人未曾現代，作此論斷的依據則是他對科學、宗教、法律與政治等
+「現代」社會不同的真實生產制度中特有的發語體制進行過的研究
+（頁viii-ix）。他認為法律有其特殊論理方式、公認的語句適切與不
+適切條件9、以及特有的真偽辨別方式；相較於科學深受現代性影
+響，法律仍保有西方社會某些核心特質（頁ix-x）。Latour借用形上
+學術語，表明他聚焦於法律的本質（essence，英法語皆同）—亦
+即表現在實踐中的存在方式—這個問題上。這也就是法國法中，
+原意為「中央」
+      、「中等」
+          ，在法律實務脈絡中有「論據」
+                       、「理由」
+                           、
+或本文採取的「（法律）手段」等不同譯法、但卻無任何定義的常
+用術語moyen簡明扼要地體現的問題。Latour關注的實踐並非法律
+實務上重視的判決先例見解與慣例，而是「通道」（passage，英法
+語皆同）
+   。「法律手段」正是「法治」(rule of law)在這個通道中的載
+具（頁viii, ix）
+           。
+
+       第1章〈在波拿巴的影子下〉（頁1-69）描述最高行政法院這個
+田野給觀察者的初步印象，以及其中各種重要業務的概況。Latour
+從一宗農民控訴地方政府未有效使野鴿絕育、導致作物毀損的案件
+出發，介紹分有10庭的訴訟部中，一位職務名稱易招誤會的政府專
+員，正以彷彿對著過去200年來的法官們發言般的語氣闡述其法律
+意見。政府專員語畢復位，在場其他最高行政法院人員既未鼓掌、
+亦未提問或辯論。
+
+
+
+
+9 「適切條件」的概念來自 John L. Austin，指從語用學角度分析時，使一語言行
+      為被認為妥當有效的條件。See JOHN L. AUSTIN, HOW TO DO THINGS WITH WORDS
+      64 (1962).
+作法                                                                      351
+
+
+
+
+     此外，讀者同時獲知最高行政法院另有供內閣草擬法案諮詢、
+並審視行政部門所制定之規範的5個「事務部」（英譯作顧問部），
+其中的政府專員與訴訟部的職務同名異義，是不折不扣的政府代
+表。這些代表來自各部會，任務是向最高行政法院解釋各單位草擬
+的法律或命令草案。與訴訟部的政府專員相比，政府代表的地位較
+低，僅能仰賴事務部的受命顧問或報告人發言支持。這些政府代表
+面對的最高行政法院顧問們儘管同具文官身分，也願意配合政府部
+門的需要而調整規範措辭，但正如Latour的雙重用典所示，最高行
+政法院的顧問們深知「軟法亦法」的道理，亦即法律能伸縮
+（flexible，英法語皆同），但仍不失為法律（頁44、58），牽一髮動
+全身10。
+
+     在訴訟與事務兩部之外，最高行政法院還設有總會，由字面上
+是vice-président的副院長主持，成員則是在法語同樣稱為président
+的各庭庭長與各部部長。這種「副」président領導「正」présidents
+們的奇特景象是由於最高行政法院名義上由內閣總理擔任院長所
+致。Latour觀察到的總會是一個奇特的集體寫作場合；副院長向列
+席人員強調其同儕的任務是「作法」，挑剔政府方面藉「契約」一
+語傳達政治協商結果的手法，認為某法案不宜易引人誤解為是行政
+契約的表達方式。
+
+     最高行政法院的廳舍「王宮」(Palais-Royal)東廂則設置著解決
+普通（民、刑法）與行政審判權彼此間爭議的權限衝突法院。由4
+位廢棄法院法官與4位最高行政法院顧問組成。司法部長平時僅為
+
+
+10 Latour 使用了兩個典故。其一是有時被譯作「惡法亦法」的拉丁法諺“Dura lex,
+  sed lex”。“Dura lex”意為「嚴法」            ，形容詞 durus（陰性變化 dura）原意為「堅
+  硬」  。Latour 在此則刻意使用其反義語 mollis。              「伸縮」或「彈性」則來自法國
+  第五共和期間在立法與學術兩方面皆具極大影響力的 Jean Carbonnier (1908-
+  2003)教授名著書名《彈性法：為不嚴謹法律的社會學進一言》。本書初版刊行
+  於1969年。CARBONNIER (J.), Flexible droit. Pour une sociologie du droit sans
+  rigueur, 10e éd., Paris, LGDJ, 2001.
+352                                        《中研院法學期刊》第11期（2012年9月）
+
+
+
+名義上的院長，但在Latour參與觀察期間，出現這位政治任命的名
+義上院長必須親自出席投票表決的特殊狀況。這使人不得不聯想到
+最高行政法院的前身資政院在王政時期享有的權力11。
+
+      第2章〈如何催熟案件〉（頁70-106）聚焦於訴訟案卷的構成與
+當事人遞狀後到進入Lebon裁判彙編而「永垂不朽」為止的處理過
+程。不同於法律人僅注重文本，也不同於各種從語言和符號角度研
+究法律的嘗試，Latour認為文本的物質面也值得注意（頁71）
+                              ，因而
+在此不厭其煩地介紹案卷的各個細節，以追蹤外表看來不過是由紙
+質資料夾與橡皮筋綁起的案卷如何逐漸取得法律上的意義。依照
+Latour的計算，在本書出版時法國的6千萬人口每年約提起15萬件行
+政爭訟案件（頁73）12。每件爭訟都始於書記官室標記案號，經過
+當事人舉證13，才能達到適合裁判的「熟成」狀態。Latour以一位
+悲痛的父親因獨子在因滑雪時遭遇雪崩喪生而請求事故發生地地方
+政府負國家賠償責任的案件為例，呈現舉證的具體內容。Latour強
+調，這位當事人必須訴諸於那些既能指涉訴狀「外」的事態、又能
+「取信於人」的文件，亦即這些文件必須能「承載具有準法律形式
+的信任」
+   （頁75）
+       。固然訴狀需要外來、非法律文件的支持，但若沒
+有這張訴狀，這些文件個別看來都沒有法律上的意義。賦予它們法
+
+
+11 制度沿革細節並非 Latour 關心重點。華語文獻部分，參見李建良，行政法：第
+   八講—近代行政法要略—西洋近代前期篇，月旦法學教室，38期，頁44
+   （2005年）      。惟該文關於樞密院(conseil privé)與王室顧問會議(conseil des parties)
+   的敘述易招誤會。按兩者指涉同一機關。後者字面上為「訴訟當事人會議」。
+   See ALBERT N. HAMSCHER, THE CONSEIL PRIVÉ AND THE PARLEMENTS IN THE AGE OF
+   LOUIS XIV: A STUDY IN FRENCH ABSOLUTISM 9-10 (1987).
+12 筆者自行加總官方網站統計結果，2010年各級行政法院新收案件總計212,157
+   宗，其中最高行政法院占9,374宗。CONSEIL D’ETAT (France), Le Conseil d’Etat
+   et la justice administrative en 2010 [en ligne], pp. 30-32 (2010), http://www.conseil-
+   etat.fr/media/document/RAPPORT%20ETUDES/bilan_activite_2010_vf.pdf (last visited
+   Aug. 17, 2012).
+13 名詞「舉證」         （production，法、英語皆同）來自動詞 produire（法）與 produce
+   （英）在此可譯作及物動詞「提出」（書狀）。亦可依 Latour 所言（頁24、頁
+   79、146）    ，譯作不及物動詞「舉證」                。
+作法                                                  353
+
+
+
+
+律意義的是該起事故與使用這些文件的起訴行為，而這種意義賦予
+必然是以溯及既往的方式發生（頁77）
+                 。
+
+     在案卷被送到顧問們手上之前，還會由超過300位的行政人員
+分別處理與保管。離開書記官室後，它們會被分類，依照案件性質
+被裝入不同顏色卷宗夾，上頭貼一張標記審級、緊急程度與相關判
+決先例的電腦列印表單14。隨著兩造的書狀往來，案卷在法律上與
+事實上份量也越來越重。真正的法律工作，從各庭內資歷最淺的審
+議官在卷宗夾上空白表單內手寫填入預審時程開始。採書面審理的
+最高行政法院必須時時遵守辯論主義15。具體而言即是將起訴或上
+訴的訊息發給可能是各級政府、機關或個人的被告或被上訴人，將
+一造提出的卷證送達給對造，由兩造相互回應對方的法律手段或主
+張。除了兩造的卷證與答辯的往返之外，不會也不得在案卷上增加
+任何其他東西（頁79-80）。到目前為止，Latour介紹的可說是自動
+或例行性的流程。而從此之後，案卷已深入了法律的領域，由無爭
+議性變成任何一點變動（或逾時不告知、不舉證、不提出書狀）都
+可能引起爭議，由例行公事變成當事人進行程序。這一點表現在所
+有郵件都必須以雙掛號寄出、並保留回執這個手續上（頁80-81）。
+案卷會依進度被放置在不同高度的檔案架上，各庭庭長考慮到顧問
+們30%的薪俸仍是按件計酬，將依辦案量與專長指派一位報告人負
+責每宗案件。隨後案卷上會有「可供報告人使用」的標記，而報告
+
+
+
+14 最高行政法院是一般行政爭訟事件的第三審法院，縣市級選舉爭訟與闡明合法
+   性之訴的第二審法院，以及針對行政命令的爭訟、省級與歐洲議會選舉訴訟的
+   第一審法院。Latour 僅提及最高行政法院會受理三種不同審級的案件。參見本
+   書頁10（註11）   、78（註10）    。
+15 本文將 principe du contradictoire 譯作辯論主義，如後續說明所示，讀者會發現
+   此原則同時適用於言詞與書面。或許為了避免產生此用語僅限定在言詞辯論的
+   誤解，華語文獻另有對審、對辯原則等譯法。參見陳淳文，現行行政命令合法
+   性審查之檢討—以不利益處分所引發之司法審查為中心，收於：黃舒芃編，
+   2007行政管制與行政爭訟，頁160（2008年）           。王必芳，判例在法國行政法上的
+   地位，中研院法學期刊，5期，頁309（2009年）            。
+354                                    《中研院法學期刊》第11期（2012年9月）
+
+
+
+人就可以在檔案架最上層「收割」已經「成熟」的案卷（頁82）
+                            。
+
+        案件「成熟」後，最高行政法院的顧問們在無分年齡與資歷的
+工作環境中集體進行文本的連結。首先由從複雜的案卷中抽取出法
+律手段，再將這些法律手段連往其他文本。以本章的圖像方式描述
+的話，是在當事人提出的個案書狀、證物與答辯等「水平」文本，
+以及經印刷、授權、議決、裝訂並依序排列在圖書館中的「垂直」
+文本之間往返並建立被稱為註記的連結（頁85-86）。註記伴隨有法
+令條文或判決先例案號與案名等出處。連結出處與案卷內法律手段
+的論據如同工程意義上橋梁的橋面。接著報告人會在某個點上「切
+斷」連結，作成擬判。擬判被提交給同庭的顧問們評議時，眾人開
+始集體斟酌。最有趣的是顧問們在辯論主義的限制下做的各種職權
+主義性質、亦即在當事人未明白提出論據時由顧問們主動補充的
+「努力」。Latour提醒讀者，他一再以類似「慢動作」放映影像的筆
+法敘事，正是因為法律和鍊條一樣，其力量的極限就是最弱的鏈結
+能負荷的極限；唯有一環一環地檢視，才能找出這個弱點（頁
+90）
+  。
+
+        第3章〈宮殿裡的精英集團〉（頁107-126）介紹最高行政法院
+編制內約300個員額的高級公務員集團。集團成員有80%以上是國
+立行政學校成績最優秀的畢業生16。少數外來成員則有不少具政務
+官、民意代表、律師甚至記者等經歷。對東亞讀者而言類似漢藥鋪
+藥櫃的信箱牆，象徵著集團中極為穩定的年資秩序。儘管來源相對
+單純，進入集團的成員大多會在任職數年後轉往其他公、私部門的
+工作單位，一段時間後又轉回院內。這種被顧問們戲稱為人力「進
+出口業」的生態使得最高行政法院的審判與諮詢業務均由經驗值極
+
+
+
+16 該校畢業生的優厚待遇、身分保障、龐大的網絡與影響力使其成為 Pierre
+      Bourdieu 所謂共和國的貴族之一。Voir BOURDIEU (P.), La noblesse d’Etat:
+      grandes écoles et esprit de corps, Paris, Minuit, Le sens commun, 1989.
+作法                                                                              355
+
+
+
+
+高的團隊執行。Latour以「人年」為單位，計算出事務部之一的公
+共工程部起草每件命令時動用的經驗值達800人年。值得注意的是
+其中含院外經驗88人年，而資深成員合計達121人年，其中2人在院
+任職14年以上。
+
+     第4章〈法律的穿梭〉（頁127-197）在全書各章中篇幅最多。
+Latour為了追蹤不可見推論過程，因此將目光擺在顧問們話語中的
+10個「價值對象」，藉以觀察顧問們的法律語言行為中特有的適切
+與不適切條件（頁129）
+           。Latour初步列出了6個，分別是：1. 法庭各
+成員的權威，2. 案件的討論進度，3.（頗受重視的）積案控管，4.
+「法律上的趣味」，5. 判決先例的重要性，以及6. 討論過程中的品質
+控管（頁140）。在討論一宗伊拉克籍毒販遣返爭議時，Latour強調
+掙脫法律拘束的能力在案件審理中的重要性（頁150-151）。反覆掙
+脫之後再重新接受法律拘束的過程被概括為顧問們的「斟酌」，亦
+即第7個價值對象。第8個也是最常見的價值對象是前已提及的法律
+手段。最後兩個價值對象則是在討論過程中逐漸形成的一致性（頁
+170），以及法律內部與外部的種種限制（頁180）。這10個價值對象
+在顧問們的言詞交鋒中不斷發生變化。例如個別人員的權威時高時
+低，案件爭點的法律上趣味影響參與的顧問設想新論點或額外「努
+力」的意願，以及判決先例的重要性有高低起伏等等。
+
+     第5章〈科學的對象，法的客觀性〉（頁198-243）先前已有英
+譯文刊行17。新譯內容略有更動。本章對比最高行政法院與某一生
+命科學領域實驗室的空間、人員作風、文本與設備的同質性與異質
+性、以及人員工作的態度。讀者可與2004年Latour的中譯專文相互
+
+
+17 See Bruno Latour, Scientific Objects and Legal Objectivity, in LAW, ANTHROPOLOGY
+   AND THE CONSTITUTION OF THE SOCIAL: MAKING PERSONS AND THINGS 73, 73-114
+   (Alain Pottage & Martha Mundy eds., 2004), available at http://www.bruno-
+   latour.fr/sites/default/files/88-SCIENCE-LAW-GB.pdf. 網站版本與印刷本內容相
+   同但重新編頁。
+356                             《中研院法學期刊》第11期（2012年9月）
+
+
+
+對照18。為彰顯其理論價值，以下用較多篇幅介紹。
+
+      首先，Latour指出，相較於充滿求知慾的實驗室，法院特有的
+「判斷慾」則表現為與案件保持距離。這種超然態度的特性是在案
+卷的旅行中逐步形成的：從對案件仍有高度興趣的報告人或受命顧
+問，到僅負責提出獨立法律意見、不關心案件事實部分的政府專員
+等不同職務的參與才逐步形成。其中政府專員—Latour再度以看
+似文字遊戲的風格指出其特性—因不參加判決評議，在提出反對
+意見的同時，也提供客觀性（頁219）。換言之，這是臺灣訴訟程序
+中不存在的、雙方當事人主張之外的第三個聲音。由關心到超然的
+漫長過程是為了確保參與審議的顧問們已經充分懷疑。或者，一如
+Latour有趣的譬喻，正義女神手持天平，不是因為她量得準確，而
+是因為天平搖晃得還不夠久（頁220）。然而，天平不能一直晃個不
+停。不同於提出了研究成果後將評價工作留給學術社群的實驗室，
+法院必須在反覆斟酌後做出判斷。
+
+      Latour並不滿足於對比實驗室的投入與法院的超然，他進一步
+從語言行為的觀點指出，自然科學與法律的活動分別有其獨特發語
+模式。他稱前者為參照鏈，後者則或許可稱為法律關係的「牽連」
+（頁222）19。這兩種模式系出同源，都奠基於對權威文本的章句註
+釋。但兩者的差異如下：由實驗室的研究形成的文本，不僅是資
+訊，同時更是一系列的轉變（transformation，英法語皆同）；或者
+人們應該形象地理解華語譯作資訊的in-formation一語，也就是將事
+物「放進某形狀之中」20（頁225）。科學文本總是同時動用許多層
+
+
+18 參見 Bruno Latour 著，林宗德譯（註3）
+                            。
+19 「參照鏈」在英譯本中有 chain of reference（頁222、229、243）與 referential
+   chain（頁149、226、228、231、232、234、240、267）兩譯。而 obligation 可
+   簡潔地譯為法律上的「債」。王伯琦，王伯琦法學論著集，頁141-142（1999
+   年） 。雖然「債」的譯法似乎更貼近 Latour 的本意。但如此也難免對不熟悉法
+   學術語的讀者造成誤會。本文不採。
+20 法 文 版 頁 238 更 提 醒 讀 者 「 形 狀 」（ 法 forme ） 也 是 「 乳 酪 」（ fourme 與
+作法                                                        357
+
+
+
+
+次的資訊與轉變，將無法直接用感官體驗的間接知識層層重疊後提
+出主張，由學界整體決定是否溯及地承認這些主張為真。而在法律
+活動中，資訊必須儘量保持原狀且避免重疊，若資訊不足，法院會
+遵守辯論主義的要求，以「當事人不爭執」為由，接受案卷內的證
+據能呈現與因而可得推知的事實，放棄一個鏈結，另尋其他鏈結
+（頁228），以免訴外裁判與裁判不足（亦即法院為當事人說出他們
+沒有在卷證中明白提出的部分、與漏未對他們明白提出的部分作出
+判斷）等兩種缺失（頁229）21 。法律工作中會很快建立不可爭議
+的事實，接著進行重要的定性工作；科學中的類似手續僅是分類意
+義的涵攝（評論者按：例如生物的林奈分類法），法律意義的定性
+與依照條文與判決先例的意義進行，僅有表面上看來具分類性（頁
+229-232）。此外，Latour並列出17項參照鏈與法律關係牽連的差異
+點（頁235）
+      。
+
+     特別值得細述的是，本章最後Latour暫時跳出民族誌的文脈，
+在頁236以降所作的哲學分析。依他的看法，諸如「客觀」、「超
+然」等大眾眼中的科學家特質其實不符合實驗室的實況，反而更適
+合用來描述法官。Latour區分客觀性與他所謂的「客體性」
+                            ：前者指
+稱對判決結果的超然、冷靜等情緒狀態，後者則指科學家的「試
+煉」，在此過程中科學家自身與其言論的命運都繫於實驗中觀察到
+的現象。Latour使用原意為西歐中世紀前期「神判」的試煉一語，
+同時隱喻著科學家和實驗結果的關係有如神判中被要求接受試煉
+（例如浸水或觸摸灼熱金屬）的被告、與其在接受試煉後能否存活
+或康復的結果之間的關係；決定神判結果的可說是某種偶然，而決
+
+
+ fromage）的字源。英譯無。
+21 Latour 在本次新譯中增加了註腳42（頁233）
+                            ，將法律上的變動都以連續性的方
+ 式呈現這一點與 Ronald Dworkin 的法哲學以及輝格史觀(Whiggish history)一起
+ 討論。同時刪除了舊譯中引用的法國俗諺「越變越像」(Plus ça change, plus
+ c’est pareil)。LATOUR, supra note 17, at 105；網站版，頁34。此諺語與同時有
+ 「變易」與「不易」兩個矛盾涵義的易經之「易」有異曲同工之妙。
+358                  《中研院法學期刊》第11期（2012年9月）
+
+
+
+定實驗結果的則是實驗對象本身遵循的法則，在兩種狀況下都與接
+受神判與進行實驗的「主體」無關。Latour指出，一般所謂的「客
+觀性」其實僅關係到主體與其內在狀態，相反地「客體性」才關係
+到客體與其特異的司法者角色。因而說某人「客觀」可同時指稱兩
+種很不一樣的美德：一個是一種特定的主觀性形式，另一個則是
+「研究者讓自己屈從於實驗對象」的從屬化（頁236）
+                        。Latour點出，
+法律客觀性的特色恰恰在於它沒有客體、無法仰賴任何無可爭議的
+事實、而必須完全仰賴前述超然的心智狀態生成過程。自然科學的
+客觀性與此相反，特色是沒有主體，而由客體作最後仲裁（頁236-
+237）。上述區分使Latour觀察到，當能下最後定論的「專家」角色
+被發明出來、並被加諸科學家身上時，一方面後者被迫擔任裁判
+者，另一方面原本在司法情境中法院的既判力對終局判決與真實的
+區分被忽視（按：確定判決僅被「視為」真實，亦即並非真實），
+這導致人們把科學當作看似無所不能的建構論。字源相同的裁決與
+恣意於是遭到混淆（頁240）。Latour反對把科學與法律的對比簡化
+為：前者面對不可操弄與扭曲的無形真實，另一個則是「彈性
+法」
+ ，只要有權力就可以任意咬文嚼字。Latour強調，科學求真而法
+律求善，各自有其實證性與客觀性，並非事物與符號、硬與軟、無
+可置疑與恣意妄為的對比（頁240-241）。此外，Latour也反對傳統
+的事實判斷與價值判斷的區分，認為這是17世紀英格蘭與蘇格蘭哲
+學家們在實驗室科學誕生期基於政治理由提出的主張；此一不當區
+分導致「現成物」與「單純事實」的概念引起爭議（頁241）。根據
+Latour的實驗室研究與法院參與觀察，一度被二分的「事物」重拾
+科學與法律共同根源的特性，亦即所有的「事物」同時也是訴求、
+主張，這顯示現代主義的計畫走到了窮途末路（頁242）22。
+
+      第6章也是最終章〈談論法律？〉
+                    （頁244-277）中Latour回到其
+
+
+
+22 此部分亦可參照邱文聰（註5）
+                ，頁94-97。
+作法                                                   359
+
+
+
+
+「現代人人類學」立場，嘗試提出一個不同於兩種既有理論的法概
+念。他首先指出，為避免過去的西方主義與東方主義等各種獵奇觀
+點的錯誤，人類學必須重新自我裝備，才能研究現代社會。原因在
+於：原本用來比較各種文化的共通背景「自然」，在現代社會中以
+科學的客觀性、技術的有效性與經濟的獲利能力這三種形式生成，
+而科學、技術與市場的人類學已經揭示這三者皆非理所當然（頁
+246）。研究法律的目的正是為了在跳出了單一的自然與複數的文化
+這個區分後，尋求比較現代西方社會與其他人類生活形式的切入
+點。Latour借用最高行政法院的預審會議，觀察經驗研究方法如何
+能對法律領域這個個案中西方「說真話」23形式的人類學研究作出
+貢獻（頁252-253）
+           。
+
+     Latour首先指出，最高行政法院的顧問們絕少討論法律的本質
+是什麼，相反地，一如符號學家所言，顧問們談的是首字大寫的抽
+象「法律」
+    ，這才是他們所有語言行動的發語人（頁253）
+                         。Latour在
+此借用Tarde引自羅馬法的詞彙，認為此時應著眼於法律鏈結24，亦
+即法律這頭巨獸的特質之一：作法、說法，同時又待在法律的界限
+內（頁253-254）。從法律的同義反覆特徵出發，Latour點出法律與
+「全體性」的密切關係：不僅個案事實會與全體規範文本間相關
+聯，規範文本也包括古往今來仍然有效的一切法令，而個案的結果
+又會改變其他類似個案的處境。簡言之，談論法律即是談論法律全
+體（頁256-258）
+          。這是法律特有的自律形式。
+
+     在此Latour批評以知名已故社會學家Pierre Bourdieu與系統論大
+師Niklas Luhmann為代表的兩種法理論未正視全體性與自律的特
+性。Bourdieu代表的理論將全體性的部分當成社會面，從外部觀點
+
+
+23 本書的「說真話」(véridiction)一語來自語言學家 Eric Landowski。頁253中出現
+  兩次，分別被英譯為 telling truth 與 veracity。
+24 即是優帝《法學階梯》中「債」(obligation)的定義。Inst. 3, 13, pr. 參見王伯琦
+  （註19）
+      ，頁142。
+360                 《中研院法學期刊》第11期（2012年9月）
+
+
+
+看法律，反對以內部觀點來看法律的自律（頁258-259）。若是更化
+約地說，Latour反對包括Bourdieu在內所有受馬克思主義影響的
+「法律作為上層建築的一部分或支配階級的工具」這種看法。至於
+Luhmann著名的系統理論，Latour認為非僅不足以解釋科學，更不
+足以解釋沒有圍牆、白袍、與分殊化的實驗器材來區隔內外的法律
+活動。Latour基於對科學與法律活動的研究所得，認為Luhmann理
+論的錯誤在於只把子系統的自律當成唯一的自律形式（頁263）。法
+律總是先於並外於人們，但並不形成自己的領域，不是由「法律」
+組成，而是一方面依附許多其他事物，一方面又維繫住另一些事
+物，如同瓦斯需要瓦斯管線、鋼材、氣閥與量表來流通並供人利
+用，但它並非由這些事物構成一樣（頁264）
+                    。
+
+      Latour認為從外部觀點研究法與科學都有不足之處，難以和內
+部觀點較量。尤其法律是其自身的後設語言。沒有比法律語言更好
+的後設語言可以解釋法律（頁260）。也就是說，諸如Bourdieu和
+Luhmann等試圖用非法律的概念與觀點分析法律的嘗試，無法真正
+掌握法律的特性（同時也難以掌握科學的實態）
+                    。Latour想呈現的研
+究難題應該在於：如何用法律語言來解釋法律，同時又能與實務工
+作者的角色保持距離。在此Latour引入其科學社會學的研究經驗，
+認為應該放棄社會面的社會學，改採結合的社會學。換言之，從
+「社會」出發無法理解法律，反而應該有如同樣身為法律人的Tarde
+所示，理解法律以自己特異的方式，將社會法律化，將社會當成一
+個全體而把握（頁262）。法律沒有深度，沒有內容，表面性是其一
+大特徵。要捉摸輕薄短小的法律「真理」，首先要卸下人們（包括
+自然法、政治哲學與精神分析等領域在內）加諸法律的許多重責大
+任（頁264-265）
+          。
+
+      Latour在本書最後提出他的法概念。其特色是在否定（頁255）
+作法                                                       361
+
+
+
+
+之餘，提出「法律以話語束縛發語者」、或「人縛以言」這個特
+徵25。法律既不能像科學一樣傳遞資訊，也不能負載來自各方的任
+務，不能替代任何其他事物，不是能如同其他機械一樣「摺疊時間
+與空間」的技術（頁272），不是虛構，更不是François Cooren等論
+者所謂的「組織」。雖然法律是與「虛構」一字同形異義的「擬
+制」，但與虛構不同的是，法律擬制不將人們帶往遙遠的時空，而
+是修補與壓縮時空（頁273），扣合話語與發語者，確保法律鏈結不
+脫落。Latour借用符號學家們的汽車換檔譬喻，認為「虛構」有如
+踩離合器，使行動者被「換檔」到不同的時、空與人、事，法律擬
+制卻以透過定性將話語「歸屬」到言語者的細線，使行動者被不斷
+「排入」新檔位（頁273-274）。法律即是以這樣的細線構成的一片
+稀疏大網包覆整個社會，有其獨特的存在方式（頁276）
+                         。
+
+
+
+參、評價
+
+     本書在題材、研究手法與比較觀點上都極具特色，摘述至此已
+毋庸贅言。作者筆調詼諧，行文流暢，可讀性高。無論讀者是否具
+備法學或STS領域相關知識背景，皆能大致理解本書內容。英譯本
+雖然仍有若干未盡完善處，但同時亦更正了法文本的幾處疏漏，整
+體而言瑕不掩瑜。唯一可惜的是英譯本的目錄不如法文本完整，僅
+保留章名，各節名一概省略。尤其是法文本第5章中以不同大小字
+體標示的層次亦全遭忽略，有礙理解。讀者可藉法文本出版商於網
+路上提供的公開目次資訊補此不足。必須再次強調的是，本書並非
+從制度面了解法國最高行政法院實務運作的最佳媒介，但其獨特的
+
+
+
+25 本書最後一節的節名“Cornu bos capitur, voce ligatur homo”為一古老諺語。王伯
+  琦先生曾將其譯作「牛縛以角，人縛以話」，認為接近成語「一言既出，駟馬
+  難追」
+    。王伯琦（註19）
+            ，頁192-193。
+362                                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+觀察心得使得該機構也將這本作品列為供外界了解他們的重要書
+籍。此外值得一提的是，本書的取徑有別於同樣為STS學界熟知、
+Latour本人亦多次引用（頁206、237）的法學者Sheila Jasanoff的作
+品 26。Latour並不關注法律與科學間的互動關係。本文認為，他的
+實驗室研究在本書中扮演的角色有二：一方面是襯托法律語言行動
+的妥當性不是受對象（爭議的標的或人物）左右，而是在逐漸抽離
+個人關懷的過程中形成；另一方面則是讓Latour超越語言哲學與語
+言學的限制，不僅關注法律的符號和語言面，還要關注這些符號和
+語言流動的特定管道。
+
+        對法概念的研究而言，本書的理論特色可說是在「語言學的轉
+向」(linguistic turn)與「知識論的轉向」(epistemological turn)之外的
+「 存 有 論 的 轉 向 」 (ontological turn) 。 在 此 並 非 影 射 包 含 Martin
+Heidegger在內任何其他哲學家的影響，而是如Latour在本書最終兩
+節所強調的，必須認真看待法律的技術與其使用方式，避免輕易以
+諸如「象徵」、「暴力」、「系統」、「組織」等其他後設語言代換法
+律—Latour並未討論法律經濟分析的觀點，但這或許也在其批判
+的射程中。正因為直接進入司法機關參與觀察相對於法律文本（包
+括法條、判決與行政文書）的研究更能呈現原汁原味的法律技術運
+作過程，而具有其不可替代的價值。此一「存有論的轉向」同時也
+刺激人類學家改變由法律外的事物解釋法律的取徑，回頭重視法律
+（尤其是古代法律）中呈現的人類社會27。此外，Latour對自然法概
+念的評論以及看似基礎主義(foundationism)的見解可能使法理學界
+感興趣。鑑於他山之石，在此也不禁期盼我國的司法院大法官會
+
+
+26 See SHEILA JASANOFF, SCIENCE AT THE BAR: LAW, SCIENCE, AND TECHNOLOGY IN
+      AMERICA (1995).
+27 參見英譯者之一的 Alain Pottage 在2004年收錄本書第5章的合輯中撰寫的導
+      論。Alain Pottage, Introduction: The fabrication of persons and things, in LAW,
+      ANTHROPOLOGY AND THE CONSTITUTION OF THE SOCIAL: MAKING PERSONS AND
+      THINGS 1, 1-39 (Alain Pottage & Martha Mundy eds., 2004).
+作法                                                 363
+
+
+
+
+議、最高法院與最高行政法院能早日對研究者敞開大門，接受參與
+觀察。
+
+     由於Latour獨特的學術生涯，加上他長期與美、英學界保持密
+切往來，本書未必適合作為法語學界的法理論、法律社會學或法律
+人類學領域的代表性著作。其理論立場與法國的人類學、社會學傳
+統也有相當距離。的確，除了H.L.A. Hart、Hans Kelsen、Luhmann
+與Dworkin等經典作者的著述外，Latour參考的文獻主要仍來自法
+語學圈的作者，但這些作者中除了社會學家Bourdieu，幾乎皆是法
+學者，其中更不乏具法官或律師身分者。其中被反覆引用者包括羅
+馬 法 學 者 Yan Thomas 、 生 命 科 技 與 環 境 法 學 者 Marie-Angèle
+Hermitte、公法學者Denys de Béchillon等人。儘管Latour將部份作者
+的看法與Tarde相連結，但就筆者所知，他所引用的法學者著作中
+未曾提及Tarde的任何社會學見解。至於這些被引用作者的理論特
+色、彼此間的關聯、互動與衝突，無關本文主旨，宥於篇幅所限，
+當於另文介紹。
+    364                                   《中研院法學期刊》第11期（2012年9月）
+
+
+
+
+                                外語詞彙對照表
+
+      華語                        法語                          英語           頁數
+民族誌            ethnographie                   ethnography                347
+社會聚集           agrégat social                 social aggregate           348
+結合的社會學         sociologie des associations    sociology of association   348
+轉譯社會學          sociologie de la traduction    sociology of translation   348
+社會面的社會學        sociologie du social           sociology of the social    348
+行動者網絡理論        Théorie de l’acteur-réseau     Actor Network Theory       348
+顧問             conseiller                     counsellor                 349
+合理虛構           fiction vraisemblable          出處段落未英譯                    349
+預審             instruction                    review                     350
+發語體制           régime d’énonciation           enunciation regime         350
+適切／不適切條件 condition de félicité                felicity condition         350
+庭              sous-section                   subsection                 350
+訴訟部            section du contentieux         litigation section         350
+政府專員           commissaire du gouvernement    commissioner of the law    350
+事務部（英譯作顧
+               sections administratives       counsel sections           351
+問部）
+                                              英譯本在此脈絡譯作
+政府代表           commissaire du gouvernement    government                 351
+                                              envoy
+受命顧問／報告人 rapporteur                           reporter                   351
+總會             assemblée générale             general assembly           351
+權限衝突法院         Tribunal des conflits          Tribunal of Conflicts      351
+廢棄法院           Cour de cassation              Cassation court            351
+資政院            Conseil du roi                 King’s Council             352
+     作法                                                              365
+
+
+
+
+      華語                   法語                           英語             頁數
+舉證         名詞production；動詞produire 名詞production；動詞produce 352
+審議官        auditeur                     auditor                        353
+                                        英譯本以due process相比擬，
+辯論主義       principe du contradictoire                                  353
+                                        頁79
+註記         note                         note                           354
+出處         visa                         英譯版加註未翻譯                       354
+                                        英譯版使用法文未翻譯，原
+論據         dispositif                                                  354
+                                        意為「裝置」
+斟酌         hésiter                      hesitate                       354
+           Ecole nationale              National School of
+國立行政學校                                                                 354
+           d’administration, ENA        Administration
+價值對象       objets de valeur             value objects                  355
+掙脫法律拘束     délier                       unbind                         355
+一致性        cohérence                    coherence                      355
+求知慾        拉丁語 libido sciendi           同法文版                           356
+判斷慾        拉丁語 libido judicandi         同法文版                           356
+超然         détachement                  detachment                     356
+反對意見       objection                    objection                      356
+客觀性        objectivité                  objectivity                    356
+參照鏈        chaîne référentielle         referential chain              356
+法律關係       obligation                   obligation                     356
+                                        英譯本未翻譯，以chains of
+牽連         enchaînement                                                356
+                                        obligations與legal chains替代
+間接         médiat                       mediated                       357
+重疊         superposition                superposition                  357
+訴外裁判       拉丁語 ultra petita             同法文版                           357
+裁判不足       拉丁語 infra petita             同法文版                           357
+ 366                                《中研院法學期刊》第11期（2012年9月）
+
+
+
+      華語                    法語                           英語         頁數
+客體性        objectité                    objectity                   357
+主觀性        subjectivité                 subjectivity                358
+從屬化        subjectivation               subjectification            358
+既判力        autorité de la chose jugée   authority of res judicata   358
+裁決         arbitrage                    adjudication                358
+恣意         arbitraire                   arbitrary                   358
+現成物        未法譯                          matter of fact              358
+單純事實       fait brut                    brute fact                  358
+獵奇觀點       exoticisme                   exoticism                   359
+說真話        véridiction                  veracity                    359
+法律鏈結       拉丁語 vinculum juris           同法文版                        359
+全體性        totalité                     totality                    359
+後設語言       métalangage                  metalanguage                360
+表面性        superficialité               superficiality              360
+否定         apophatique                  apophatic                   360
+虛構         fiction                      fiction                     361
+法律擬制       拉丁語 fictio legis             同法文版                        361
+歸屬         imputer                      attribute                   361
+存在方式       ontologie                    ontology                    361
+作法                                                                367
+
+
+
+
+                              參考文獻
+
+1. 中文部分
+
+Bruno Latour著，張曉娃譯（1998）
+                       ，是不是有冷戰之後的科學？，
+     當代，126期，頁48-51。[Latour, Bruno (1997), Yat-il une science
+     après la guerre froide ?, Le Monde, 18, janvier 1997.]
+Bruno Latour著，林宗德譯（2004）
+                       ，給我一個實驗室，我將舉起全
+     世界，收於：吳嘉苓、傅大為、雷祥麟編，科技渴望社會，頁
+     219-264 ， 台 北 ： 群 學 。 [Latour, Bruno. 1983. Give Me a
+     Laboratory and I Will Raise the World. Pp. 141-170 in Science
+     Observed: Perspectives on the Social Study of Science, edited by
+     Karin D. Knorr-Cetina and Michael Mulkay. London: Sage.]
+Bruno Latour著，王秀雲譯（1998），懷斯事件，當代，126期，頁
+     52-53。
+李建良（2005），行政法：第八講—近代行政法要略—西洋近
+     代前期篇，月旦法學教室，38期，頁34-45。
+王伯琦（1999）
+        ，王伯琦法學論著集，台北：三民。
+王必芳（2009）
+        ，判例在法國行政法上的地位，中研院法學期刊，5
+     期，頁291-360。
+邱文聰（2010），科學研究自由與第三波科學民主化的挑戰—對
+  「知識憲法」與「政治憲法」二分的一個批判考察，收於：邱
+     文聰編，2009科技發展與法律規範雙年刊：科學管制、學術硏
+     究自由與多元民主價值，頁61-115，台北：中央研究院法律學
+     研究所籌備處。
+陳淳文（2008），現行行政命令合法性審查之檢討—以不利益處
+     分所引發之司法審查為中心，收於：黃舒芃編，2007行政管制
+     與行政爭訟，頁105-167，台北：中央研究院法律學研究所籌
+368                                  《中研院法學期刊》第11期（2012年9月）
+
+
+
+      備處。
+陳瑞麟（2005），科學的戰爭與和平—「科學如何運作」的建構
+      論與實在論之爭，歐美研究，35卷1期，頁141-223。
+
+2. 西文部分
+
+Austin, John L. 1962. How to Do Things with Words. Cambridge, M.A.:
+      Harvard University Press.
+Bourdieu, Pierre (1989), La noblesse d’Etat: grandes écoles et esprit de
+      corps, Paris: Minuit, coll. Le sens commun.
+Carbonnier, Jean (2001), Flexible droit. Pour une sociologie du droit
+      sans rigueur, 10e éd., Paris: LGDJ.
+Conseil d’Etat (France) (2010), Le Conseil d’Etat et la justice
+      administrative en 2010 [en ligne]. Available at http://www.conseil-
+      etat.fr/ media/document/RAPPORT%20ETUDES/bilan_activite_2010_
+      vf.pdf.
+Hamscher, Albert N. 1987. The Conseil Privé and the Parlements in the
+      Age of Louis XIV: A Study in French Absolutism. Philadelphia, P.A.:
+      American Philosophical Society.
+Jasanoff, Sheila. 1995. Science at the Bar: Law, Science, and Technology
+      in America. Cambridge, M.A.: Harvard University Press.
+Latour, Bruno. 1983. Give Me a Laboratory and I Will Raise the World.
+      Pp. 141-170 in Science Observed: Perspectives on the Social Study
+      of Science, edited by Karin D. Knorr-Cetina and Michael Mulkay.
+      London: Sage. Available at http://www.bruno-latour.fr/sites/default/
+      files/12-GIVE-ME-A-LAB-GB.pdf.
+Latour, Bruno (2002), La Fabrique du droit: une éthnographie du
+      Conseil d’Etat, Paris: Découverte.
+Latour, Bruno. 2004. Scientific Objects and Legal Objectivity. Pp. 73-
+      114 in Law, Anthropology and the Constitution of the Social:
+作法                                                                 369
+
+
+
+
+     Making Persons and Things, edited by Alain Pottage and Martha
+     Mundy, translated by Alain Pottage. Cambridge, M.A.: Cambridge
+     University Press. Available at http://www.bruno-latour.fr/sites/
+     default/files/88-SCIENCE-LAW-GB.pdf.
+Lynch, Michael. 2008. Law, Science, and Society: Expert Knowledge in
+     Legal Disputes. Pp. 1-23 in Biennial Review of Law, Science and
+     Technology: Legal Construction of Public Health Risks 2007,
+     edited by Wen-Tsong Chiou. Taipei: Institutum Iurisprudentiae,
+     Academia Sinica (Preparatory Office).
+Pottage, Alain. 2004. Introduction: The Fabrication of Persons and
+     Things. Pp. 1-39 in Law, Anthropology and the Constitution of the
+     Social: Making Persons and Things, edited by Alain Pottage and
+     Martha Mundy. Cambridge, M.A.: Cambridge University Press.
+

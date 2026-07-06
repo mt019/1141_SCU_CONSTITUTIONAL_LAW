@@ -1,0 +1,1972 @@
+《2011 科技發展與法律規範雙年刊》 吳全峰主編
+ Keynote Address: Out of Obscurity                                                 1
+臺北 中央研究院法律學研究所 專書（15）
+民國 101 年 12 月，頁 1-55
+
+
+
+
+                       Out of Obscurity:
+    The Right to Benefit from Advances in Science and
+    Technology and Its Implications for Global Health
+
+                            Keynote Address
+
+                       (Delivered on December 18, 2010)
+
+                            Stephen P. Marks＊
+
+
+                                   Contents
+ Introduction                                 C. Consideration of Human
+ I. Prologue: Early Concern with                  Rights and Scientific and
+     Science and Human Rights                     Technological
+     A. Merging of Science and                    Developments in the Early
+        Human Rights in the                       Years of the United Nations
+        Enlightenment                     II. International Standards Associated
+     B. Emergence of Bioethics from           with the Right to Enjoy the
+        the Criminalization of the            Benefits of Scientific Progress
+        Abuse of Science during               and Its Applications
+        World War Two
+
+
+
+
+＊ Docteur d’État, Dipl. IHEIFrançois-Xavier Bagnoud Professor of Health and Human
+  Rights Department of Global Health and Population Director, Program on Human
+  Rights in Development Harvard School of Public Health. Keynote address delivered
+  on December 18, 2010, to the 3rd Conference on Law, Science, and Technology:
+  Health, Science, and Human Rights, organized by the Institutum Iurisprudentiae,
+  Academia Sinica, in Taipei, Taiwan. The research assistance of Rebecca Wolf is
+  gratefully acknowledged.
+2                                                2011 科技發展與法律規範雙年刊
+
+
+
+         A. The Recognition of the              A. Duty to Respect
+            Right to Enjoy the Benefits         B. Duty to Protect
+            of Scientific Progress and          C. Duty to Fulfill
+            Its Applications in Human       IV. Emerging Issues of the Right to
+            Rights Instruments                  Enjoy the Benefit of Scientific
+         B. Venice Statement on the             Progress and Its Applications
+            Right to Enjoy the Benefits         A. Information and Communica-
+            of Scientific Progress and             tions Technology
+            Its Applications                    B. Medicine
+    III. Normative Content and State            C. Green Technologies, Food
+         Obligations to Realize Right to           Security     and     Climate
+         Enjoy the Benefits of Scientific          Change
+         Progress and Its Applications      V. Conclusion
+Keynote Address: Out of Obscurity                                        3
+
+
+
+
+Introduction
+
+     Professor Te-Chung Tang, Professor Chuan-Feng Wu, distinguished
+members of the Institutum Iurisprudentiae, honored guests, ladies and
+gentlemen.
+
+     The sense of humility I feel in taking the floor at this the 3rd
+conference on law, science and technology is only heightened by the
+overly generous welcome I have received here, on my first visit to the
+island of Taiwan. It is a great honor for me to find myself among such
+outstanding scholars but daunting indeed to find myself addressing the
+topic of “Health and Science: Human Rights and Legal Issues” in front
+of so many much more qualified than I to address this issue.
+
+      My aim is to explore science not as an industry or broad academic
+endeavour but rather as a source of innovation of value to human well-
+being. I will set this understanding of science in the context of two
+interrelated human rights, the first being the very neglected right to
+benefit from scientific progress and the second being the right to health.
+
+     This conference comes at a significant moment since, as I will
+attempt to demonstrate, telemedicine and e-health, green technology,
+access to essential medicines, open software and other urgent issues
+involving science and technology are hotly debated without much
+reference to the health and human rights, although in an earlier period
+they were front and center in the human rights debate, especially in the
+early years of the UN. Let me begin, therefore, by recalling some of that
+history before proposing elements of the content and applications of the
+right to benefit from scientific progress.
+4                                              2011 科技發展與法律規範雙年刊
+
+
+
+I. Prologue: Early Concern with Science and
+   Human Rights
+
+     The juxtaposition of science and human rights appears to be a novel
+undertaking of this conference and the organizers deserve enormous
+credit for brining into focus the theme of Health, Science, and Human
+Rights. However, the concern with benefits for the people from advances
+in science is ancient, going back to the Greeks, the Indians, and of
+course the Chinese. One need only recall the Four Great Inventions of
+ancient China’ (Chinese: 四大發明; Pinyin: Sì dà fā míng), namely, the
+compass, gunpowder, papermaking, and printing, which are generally
+regarded as among the most influential to the human race through
+navigation, warfare, and transmission of knowledge and literature.
+English philosopher Francis Bacon even said that these discoveries
+“have changed the whole face and state of things throughout the
+world … so much that no empire, no sect, no star seems to have exerted
+greater power and influence in human affairs than these mechanical
+discoveries.”1 Similar references to the history of science recall that
+advances in science have become part of the common heritage of human
+rights.
+
+     What is novel in what I am addressing is the claim that enjoying
+these benefits is a human right of everyone. Is that a pious hope? A
+dangerous exaggeration? A meaningless statement? I will attempt to
+demonstrate that it is firmly part of formally recognized human rights,
+that it has been generally neglected throughout the latter half of the last
+century; that it is relevant to some of the most urgent issues of our day,
+
+1   FRANCIS BACON, NOVUM ORGANUM, BOOK I, at CXXIX (1620), available at
+    http://www. constitution.org/bacon/nov_org.htm (last visited July 23, 2012).
+Keynote Address: Out of Obscurity                                          5
+
+
+
+
+and, finally, that there are some useful ways to make it of practical use to
+both the realization of human rights and the application of scientific
+advances. Before doing so, let me refer to the ways that the relationship
+between science and technology and human rights was considered in the
+beginning of the modern era of international protection of human rights.
+
+     This is a story in three chapters. The first is the merging of science
+and human rights in the Enlightenment; the second is the emergence of
+bioethics from the criminalization of the abuse of science during World
+War Two; and the third is the focus on science and technology in the
+early years of the United Nations.
+
+A. Merging of science and human rights in the Enlightenment
+
+     In the West, the theories of human rights that emerged in the 16th
+and 17th centuries and that took the form of revolutionary movements
+based on declarations of rights is inseparable from the scientific
+revolution and the concept of natural philosophy, which meant the
+scientific study of the physical and natural world. We are astounded
+today by the intellectual breadth of Diderot and Voltaire or Franklin and
+Jefferson, but their concern with astronomy, mathematics, chemistry,
+mechanics, and the diversity of human experience across the globe was
+integrated into their arguments for the Rights of Man. Through natural
+philosophy and natural rights, science and human rights were born in the
+same spirit of empiricism and progress, which characterized the
+Enlightenment. The bifurcation of human rights into political and legal
+sciences, administration of justice, and theories of the state, on the one
+hand, and Natural Philosophy into evolutionary biology, brain research,
+neuroscience, behavioral psychology, on the other, is a trend that can be
+described as a separation at birth of these twins who developed in
+6                                           2011 科技發展與法律規範雙年刊
+
+
+
+separate continents, one in the world of hard sciences, sociology,
+experimental sciences and the like, with applications in engineering,
+medicine and theoretical physics and cosmology, and the other in the
+world of moral reasoning, philosophical and political thought and legal
+theory and practice, with applications in the laws and institutions of
+human governance.
+
+     The Enlightenment was indeed the critical period for science,
+medicine, and human rights. Referring to the scientific and democratic
+revolutions, the author of The Science of Liberty begins his study of this
+convergence by affirming, “These two transformations were linked, and
+remain so today: Every scientific nations in the world at the close of the
+twentieth century was a liberal, or at least partly liberal, democracy
+(meaning a state which guarantees human rights to its citizens, who elect
+their leaders.)”2 He argues that these revolutions were not a coincidence,
+but science sparked the democratic revolution and “that science
+continues to foster political freedom today.”3
+
+     Separately from the possible fostering of political freedom by
+scientific advance, the Enlightenment represents for the West both the
+affirmation of the scientific method with the related faith of human
+progress and the formulation of the human rights which define the
+freedom and equality on which the legitimacy of modern governments
+have henceforth been judged. Both concepts advanced in the 19th century,
+when science applied to industry revolutionized the global economy and
+generated immense wealth at the expense of colonized peoples and
+oppressed workers. Both phenomena continue today to challenge us to
+
+2 TIMOTHY FERRIS, THE SCIENCE OF LIBERTY, DEMOCRACY, REASON, AND THE LAW OF
+  NATURE 1 (2010).
+3 Id. at 2.
+Keynote Address: Out of Obscurity                                         7
+
+
+
+
+reflect, in the context of globalization, on the human rights implications
+of scientific progress. Certainly, in the mid-twentieth century the misuse
+of science resulted in some of the most egregious denials of human
+rights in human history.
+
+B. Emergence of bioethics from the criminalization of the abuse of
+   science during World War Two
+
+     The second phase of this narrative is the lessons of World War II
+two centuries later, when the abuse of science was the subject of an
+international war crimes tribunal, which launched the Nuremburg Code
+and modern bioethics, on a parallel with the rise of global human rights.
+In response to the atrocities committed during the Second World War,
+the organized international community began in the 1940s to define
+norms of behavior relating to both human rights — exemplified in the
+Universal Declaration of Human Rights of 1948 — and the specific field
+of medical experimentation and responsibilities of health practitioners —
+exemplified by the Nuremburg Code, which was included in the trials
+and judgment of the Nazi doctors in 1947. The progeny of the
+Nuremburg Code includes codes of ethics for doctors and nurses, as well
+as detailed principles relating to research and experimentation. Many of
+these texts are of a technical nature and are not strictly speaking human
+rights texts although some basic norms that are included among
+internationally recognized human rights, such as the prohibition of
+medical or scientific experimentation without the free consent of the
+subjects. Others relate to the responsibilities of health practitioners and
+explicitly invoke human rights, such as the declaration on nurses and
+human rights and many related texts focus on the role of health
+practitioners in executions, torture, and related practices. As a leading
+authority on the subject, George J. Annas, put it, the Nuremberg Code
+8                                               2011 科技發展與法律規範雙年刊
+
+
+
+“was based on what the American judges had heard at trial, including the
+arguments of American prosecutors and the American physicians who
+served in the roles of consultant (Leo Alexander) and expert witness
+(Andrew Ivy) for the prosecution.” 4 In sum, “modern bioethics was
+born at the Nuremberg Doctors’ Trial, a health law trial that produced
+one of the first major human rights documents: the Nuremberg Code.” 5
+Writing a quarter century after the trials a UN expert explained that the
+misuse of science by the Axis Powers during WWII was one of the most
+glaring examples of the way in which science and technology can be
+misused to inflict great suffering.6
+
+     Other Nuremburg trials of major Axis war criminals led to the
+adoption of the Nuremberg Principles of accountability for aggression,
+war crimes, and crimes against humanity, which constituted one
+dimension of what, along with the Charter of the United Nations and the
+Universal Declaration, the affirmation of the human rights and
+fundamental freedoms of all and the foundation for current human rights
+and humanitarian law.
+
+     In 1947 UNESCO convened the Committee on the Theoretical
+Bases of Human Rights, which sought to clarify the underlying concepts
+of the draft Universal Declaration. The Committee considered matters of
+science and technology presented by several of the leading thinkers of
+the day. J. M. Burgers, Professor at the Technical College of Delft, the
+Netherlands, for example, underscored that “the part played by science
+
+
+4 George J. Annas, The Legacy of the Nuremberg Doctors’ Trial to American Bioethics
+  and Human Rights, 10 MINN. J.L. SCI. & TECH. 19, 22 (2009).
+5 Id. at 19.
+6 George Brand, Human Rights and Scientific and Technological Developments, 4
+  HUM. RTS. J. 351, 351 (1971).
+Keynote Address: Out of Obscurity                                                9
+
+
+
+
+in modern society makes possible and at the same time puts upon us the
+obligation of international co-operation, as well as of looking into the
+future in the interest of coming generations.” He articulated a duty of the
+community “of setting aside from its funds means for elaborate scientific
+research, as a means for alleviating wants of mankind, for the
+development of mankind, and for the pursuit of truth” and proposed that
+“When scientific work leads to the possibility of technological
+applications or of other measures of importance for, or affecting in any
+way, the whole of mankind, such applications or measures should come
+under the sponsorship of international bodies, deriving their status and
+power from international authority.”7
+
+     A. W. Noyes, Professor of Chemistry at the University of Rochester,
+NY, for his part, felt that “the first duty of the scientist is to ensure that
+the black spots in the world, where poverty and disease are all too
+common, are alleviated.” 8 Aldous Huxley bemoaned the fact that
+applied science had been in the service of big business first and then of
+war departments and foreign offices where it “has begotten the flame
+thrower, the rocket, saturation bombing and the gas chamber, and is now
+in process of perfecting methods for roasting whole populations by
+atomic explosions and for killing the survivors by means of man-made
+leukemia and artificially disseminated plague.”9 There is “nothing in the
+nature of science or technology,” he continues, “which makes it
+inevitable for the scientific worker to be at the service of monopoly,
+
+7 J. M. Burgers, Rights and Duties Concerning Creative Expression in Particular in
+  Science, in HUMAN RIGHTS: COMMENTS AND INTERPRETATIONS 215, 216 (UNESCO
+  ed., 1948).
+8 W. A. Noyes, Science and the Rights of Man, in HUMAN RIGHTS: COMMENTS AND
+  INTERPRETATIONS 221, 222 (UNESCO ed., 1948).
+9 Aldous Huxley, The Rights of Man and the Facts of the Human Situation, in HUMAN
+  RIGHTS: COMMENTS AND INTERPRETATIONS 203, 203 (UNESCO ed., 1948).
+10                                               2011 科技發展與法律規範雙年刊
+
+
+
+oligarchy and nationalisms” since “professionally speaking, it would be
+just as easy for the scientific worker to serve the cause of peace as of war,
+of personal liberty, voluntary co-operation and self-government as of
+monopolistic statism or capitalism, universal regimentation and
+dictatorship.”10
+
+      In its statement on the “Grounds of an International Declaration of
+Human Rights” of July 1947, the Committee included a “Right to Share
+in Progress” according to which “Every man has the right to full access
+the enjoyment of the technical and cultural achievements of
+civilization.” 11 The Committee was particularly concerned “to
+emphasize the dynamic character of the interrelations of human rights
+and the need, therefore, to explore and control the basic ideas which are
+in progress of being fitted to new industrial and technological means for
+the achievement of human good.”12 This spirit may have contributed to
+the inclusion of this right in the Universal Declaration and other
+normative text to be discussed later.
+
+C. Consideration of human rights and scientific and technological
+     developments in the early years of the United Nations
+
+      The third phase is the early work of the United Nations
+Commission on Human Rights focusing its attention on Science and
+Human Rights.
+
+      In the halcyon days when the United Nations was attempting to find
+
+
+10 Id.
+11 The Unesco Committee on the theoretical bases of Human Rights, The grounds of an
+   international declaration of Human Rights, in HUMAN RIGHTS: COMMENTS AND
+   INTERPRETATIONS Appendix II 14 (UNESCO ed., 1948).
+12 Id. at 15.
+Keynote Address: Out of Obscurity                                        11
+
+
+
+
+its human rights legs and flesh out the agenda of the newly establish
+Commission on Human Rights, the memory of the horrendous misuse of
+science by the Axis Powers was fresh in the minds of the victorious
+powers. George Brand, a witness to those early discussions, described
+them as follows: “There is no space in the present expose to recall the
+various individuals, including some scientists and non-governmental
+groups who have drawn attention to the above-mentioned threats to
+human rights posed by recent scientific and technological developments.
+In course of time, their concerns reached the agenda and work [programs]
+of inter-governmental bodies ... All the while, the feeling has been
+developing that an overall study of the impact upon human rights of
+recent scientific and technological developments should be undertaken
+on an inter-disciplinary basis.”13 With remarkable perceptiveness, Brand
+anticipated many of the developments were are witnessing today and
+understood thirty years ago their human rights implications, including
+those of human genetic manipulation, and more specifically “artificial
+inovulation; in vitro fertilization [IVF]; partheno-genesis; choice of sex
+of offspring; creation of human beings by an asexual process called
+cloning; manipulation of the DNA molecule so as to interfere with the
+processes of heredity (‘genetic surgery’); the improvement, by
+procedures adopted before birth, of the future intelligence of a child; and
+the creation of part-human chimeras.”14 That is not a quotation from
+2001 but from 1971! “It is easy,” Brand warned, “but dangerous, to
+dismiss all of these possibilities as science fiction.”15
+
+     Following the adoption of the Universal Declaration, which
+
+
+13 Brand, supra note 6.
+14 Id. at 354.
+15 Id.
+12                                                  2011 科技發展與法律規範雙年刊
+
+
+
+explicitly affirmed the right to benefit from scientific progress, the
+Commission on Human Rights worked from 1949 to 1966 on the
+International Covenant on Economic, Social and Cultural Rights
+(ICESCR), which the U.N. General Assembly adopted the on 15
+December 1966. Article 15 specifies that States Parties “recognize the
+right of everyone” both “to enjoy the benefits of scientific progress and
+its applications”16 and “to benefit from the protection of the moral and
+material interests resulting from any scientific, literary or artistic
+production of which he is the author.” 17 Soon thereafter, the
+International Conference on Human Rights met in Teheran, Iran, from
+22 April to 13 May 1968, where, a group of government leaders met to
+discuss issues related to human rights and technology and to seek a
+common understanding of the way in which scientific and technological
+developments affect human rights, which was reflected in Resolution XI
+of 12 May 1968. Basing itself on those deliberations, the Conference
+adopted the Proclamation of Teheran stating, “[w]hile recent scientific
+discoveries and technological advances have opened vast prospects for
+economic, social and cultural progress, such developments may
+nevertheless endanger the rights and freedoms of individuals and will
+require continuing attention.”18
+
+      Following the Teheran Conference, the United Nations General
+Assembly adopted Resolution 2450 (XXIII) on 19 December 1968,
+
+16 International Covenant on Economic, Social and Cultural Rights art. 15(1)(b), opened
+   for signature Dec. 16, 1966, U.N. Doc. A/6316 993 U.N.T.S. 3 (entered into force Jan.
+   3, 1976) [hereinafter ICESCR].
+17 ICESCR art. 15(1)(c).
+18 PROCLAMATION OF TEHERAN, FINAL ACT OF THE INTERNATIONAL CONFERENCE ON
+   HUMAN RIGHTS, para. 18, U.N. Doc. A/CONF.32/41, U.N. Sales No. pub. E.68.XIV.2
+   (1968). See also U.N. CENTRE FOR HUMAN RIGHTS, UNITED NATIONS ACTION IN THE
+   FIELD OF HUMAN RIGHTS, at 302-06, U.N. Doc. ST/HR/2 Rev.3, U.N. Sales No. Pub.
+   E.88.XIV.2 (1988).
+Keynote Address: Out of Obscurity                                          13
+
+
+
+
+requesting the Secretary-General to create the Advisory Committee on
+the Application of Science and Technology to Development. 19 The
+General Assembly shared “the concern expressed by the Teheran
+Conference that recent scientific discoveries and technological advances,
+although they open up vast prospects for economic, social and cultural
+progress, may nevertheless endanger the rights and freedoms of
+individuals and peoples and consequently call of constant attention.” It
+tasked the Secretariat, with the assistance of the Advisory Committee,
+with addressing the following issues of concern with regard to human
+rights arising out of science and technological advancement: (1)
+technological advancement – individual privacy and national sovereignty;
+(2) advances in biology, medicine and biochemistry – protection of
+physical and intellectual integrity; (3) electronics – limits should be
+placed on use of such technology in order to protect the rights of
+individuals; (4) generally, nations should be concerned with balancing
+scientific and technological progress with human rights and the
+advancement of humanity. Accordingly the Commission on Human
+Rights transmitted a preliminary report to the General Assembly at its
+twenty-fifth session in 197020 (along with a preliminary memorandum
+by the World Health Organization dealing with health and human
+rights21) announcing that the Secretariat study would “take into account,
+as far as possible and in an appropriate manner, the benefits of scientific
+and technological developments, so as to be able to assess their
+advantages and disadvantages in the light of the intellectual, spiritual,
+
+
+
+19 G.A. Res. 2450, ¶ 1, U.N. Doc. A/RES/2450 (Dec. 19, 1968).
+20 UNITED NATIONS, HUMAN RIGHTS AND SCIENTIFIC AND TECHNOLOGICAL DEVELOPMENTS
+   U.N. Sales No. E.90.III.A.3, (C. G. Weeramantry ed., 1990).
+21 U.N. G.A. Doc. A/8055/Add.1 (1970).
+14                                           2011 科技發展與法律規範雙年刊
+
+
+
+cultural and moral advancement of mankind.”22 The interim report was
+issued in February 1970 outlining how the Secretariat proposed to deal
+with the issues of the privacy of individuals and the sovereignty of
+nations with regard to recordings and other techniques, the “protection of
+the human personality and its physical and intellectual integrity in the
+light of advances in biology, medicine and biochemistry,” and the “use
+of electronics which may affect the rights of the person and the limits
+which should be placed or such uses in a democratic society.” 23
+Following and update issued in September 1970,24 the final report was
+issued at the end of December 1970, coving all the issues assigned,
+namely, privacy threatened by use of recording and other technologies;
+threats to integrity from advances in biology, medicine and biochemistry;
+and the uses of electronics, as well as the hazards arising from atomic
+radiation. 25 These efforts focused almost exclusively on threats to
+human rights raised by advances in science and technology.
+
+       The Advisory Committee on the Application of Science and
+Technology to Development, however, did include the promise of these
+advances in its work, culminating in the adoption in 1975 of the
+Declaration on the Use of Scientific and Technological Progress in the
+Interest of Peace and for the Benefit of Mankind. 26 In this brief
+proclamation, the General Assembly raised both the dangers and the
+promise of science and technology for human rights. It considered “that,
+while scientific and technological developments provide ever increasing
+
+
+22 U.N. Doc. E.CN.4/1028/Add.4 (Feb. 26, 1970).
+23 Id.
+24 U.N. Doc. E.CN.4/1028/Add.5 (Sep. 3, 1970).
+25 U.N. Doc. E.CN.4/1028/Add.6 (Dec. 29, 1970), and A/8055.
+26 G.A. Res. 3384 (XXX), 30 U.N. GAOR, Supp. No. 34, U.N. Doc. A/10034, at 86
+     (1975).
+Keynote Address: Out of Obscurity                                        15
+
+
+
+
+opportunities to better the conditions of life of peoples and nations, in a
+number of instances they can give rise to social problems, as well as
+threaten the human rights and fundamental freedoms of the individual,”
+and noted “with concern that scientific and technological achievements
+can be used to … deprive individuals and peoples of their human rights
+and fundamental freedoms,” and “that scientific and technological
+achievements can entail dangers for the civil and political rights of the
+individual or of the group and for human dignity.”27 It “reaffirmed …
+the need to respect human rights and freedoms and the dignity of the
+human person in the conditions of scientific and technological progress”
+and solemnly proclaimed that “All States shall promote international co-
+operation to ensure that the results of scientific and technological
+developments are used … for the purpose of the economic and social
+development of peoples and the realization of human rights and
+freedoms in accordance with the Charter of the United Nations” and
+“shall take appropriate measures to prevent the use of scientific and
+technological developments, particularly by the State organs, to limit or
+interfere with the enjoyment of the human rights and fundamental
+freedoms of the individual.”28
+
+     Coming closer to the notion of a right to benefit from scientific
+progress, the Declaration proclaimed that “All States shall co-operate in
+the establishment, strengthening and development of the scientific and
+technological capacity of developing countries with a view to
+accelerating the realization of the social and economic rights of the
+peoples of those countries” and “take measures to extend the benefits of
+science and technology to all strata of the population and to protect them,
+
+27 Id. at Preamble.
+28 Id. ¶¶ 1, 2.
+16                                                2011 科技發展與法律規範雙年刊
+
+
+
+both socially and materially, from possible harmful effects of the misuse
+of scientific and technological developments, including their misuse to
+infringe upon the rights of the individual or of the group, particularly
+with regard to respect for privacy and the protection of the human
+personality and its physical and intellectual integrity.”29
+
+     However, the work of the United Nations following the 1975
+Declaration, focused on such issues of the misuse of psychiatric
+treatment of detained dissidents and guidelines on personalized
+computer files as they affect the privacy of the individual.30 The Sub-
+Commission carried out studies on such issues as unlawful human
+experimentation and recent advances in computer and microcomputer
+technology.31 UNESCO, of course, was programmatically engaged in
+science policy and applications of science and technology to
+development but not as a human right. In that period it developed and
+adopted in 1974 the Recommendation on the Status of Scientific
+Researchers,32 a normative instrument relating to science but which
+does not address the right to benefit from scientific progress.
+
+     Two decades later, the World Conference on Human Rights (1993),
+convened on the 45th anniversary of the adoption of the UDHR,
+reaffirmed the right but once again emphasized the negative dimensions
+of threats to human rights from scientific advances rather than the
+
+29 Id. ¶¶ 5, 6.
+30 These matters were entrusted in the later 1970s by the Commission on Human Rights
+   to the Sub-commission on Prevention of Discrimination and Protection of Minorities,
+   which commissioned special rapporteurs Erica-Irene Daes and Louis Joinet
+   respectively to study them.
+31 See, e.g., Commission on Human Rights resolutions 1982/4 of 19 February 1982 and
+   1984/29 of 12 March 1984, G.A. Res. 40/112 (Dec. 13, 1985).
+32 General Conference, Recommendation on the Status of Scientific Researchers, at 169,
+   UNESCO Doc. 18C/Res. (1975).
+Keynote Address: Out of Obscurity                                                    17
+
+
+
+
+positive right to share the benefits of progress:
+
+     Everyone has the right to enjoy the benefits of scientific progress
+     and its applications. The World Conference on Human Rights notes
+     that certain advances, notably in the biomedical and life sciences as
+     well as in information technology, may have potentially adverse
+     consequences for the integrity, dignity and human rights of the
+     individual, and calls for international cooperation to ensure that
+     human rights and dignity are fully respected in this area of
+     universal concern.33
+
+     The theme of access to science and technology was taken up
+indirectly a few years later by UNESCO’s Intergovernmental Bioethics
+Committee (IGBC) and the International Bioethics Committee (IBC).34
+Three normative instruments have emerged from that effort: the
+Universal Declaration on the Human Genome and Human Rights (1997),
+the International Declaration on Human Genetic Data (2003), and the
+Universal Declaration on Bioethics and Human Rights (2005). The
+proposition that human rights should constrain advances in science and
+
+
+33 Vienna Declaration and Program of Action, ¶ 11, U.N. Doc. A/CONF.157/23 (July 12,
+   1993).
+34 The IGBC was created in 1998, under Article 11 of the Statutes of the International
+   Bioethics Committee (IBC) and consists of 36 Member States. It meets at least once
+   every two years to examine the advice and recommendations of the IBC and submit
+   proposals for follow-up of the IBC’s work to UNESCO’s Director-General for
+   transmission to Member States, the Executive Board and the General Conference.
+   However, the World Commission on the Ethics of Scientific Knowledge and
+   Technology (COMEST), which is “an advisory body and forum of reflection
+   composed of 18 independent experts, … mandated to formulate ethical principles that
+   could provide decision-makers with criteria that extend beyond purely economic
+   considerations,” has not examined the right to benefit from scientific progress. See
+   World Commission on the Ethics of Scientific Knowledge and Technology
+   (COMEST), http://www.unesco.org/new/en/social-and-human-sciences/themes/science-
+   and-technology/comest/ (last visited Mar. 1, 2012).
+18                                                    2011 科技發展與法律規範雙年刊
+
+
+
+technology affecting human nature is reflected in UNESCO’s
+Declarations of 1997 and 2005. The 1997 Declaration acknowledges in
+that “states should seek to encourage measures enabling … developing
+countries to benefit from the achievements of scientific and
+technological research so that their use in favor of economic and social
+progress can be to the benefit of all.”35 The 2005 Declaration is more
+explicit when it includes among its purposes “to recognize the
+importance of freedom of scientific research and the benefits derived
+from scientific and technological developments, while stressing the need
+for such research and developments to occur within the framework of
+ethical principles set out in this Declaration and to respect human dignity,
+human rights and fundamental freedoms; … [and] (f) to promote
+equitable access to medical, scientific and technological developments
+as well as the greatest possible flow and the rapid sharing of knowledge
+concerning those developments and the sharing of benefits, with
+particular attention to the needs of developing countries.”36 Even more
+explicit is Article 15 on sharing of benefits, in which the General
+Conference of UNESCO affirms that “Benefits resulting from any
+scientific research and its applications should be shared with society as a
+whole and within the international community, in particular with
+developing countries” and enumerates seven forms to give effect to this
+principle, benefits.37
+
+35 Universal Declaration on the Human Genome and Human Rights art. 19(a)(iii),
+     UNESCO 29 C/Res. 3l (Nov. 11, 1997).
+36 Universal Declaration on Bioethics and Human Rights arts. 2(d), (f), UNESCO
+     SHS/EST/BIO/06/1 (Oct. 19, 2005).
+37 The seven non-exhaustive forms are “(a) special and sustainable assistance to, and
+     acknowledgement of, the persons and groups that have taken part in the research; (b)
+     access to quality health care; (c) provision of new diagnostic and therapeutic
+     modalities or products stemming from research; (d) support for health services; (e)
+     access to scientific and technological knowledge; (f) capacity-building facilities for
+Keynote Address: Out of Obscurity                                                        19
+
+
+
+
+      The United Nations University Press published in 1990 Human
+Rights and Scientific and Technological Development, edited by C.G.
+Weeramantry,38 followed in 1993 by a sequel including a philosophical
+overview and case studies relating to Western Europe, Eastern Europe
+(with special reference to Poland), Latin America (Venezuela), South-
+East Asia (Thailand), and Africa (Ethiopia).39
+
+      Occasionally treaty bodies have considered state compliance with
+the right to benefit from scientific progress. For example, the Committee
+on Economic, Social and Cultural Rights, after examining the initial
+report of the People’s Republic of China (including Hong Kong and
+Macao) on the implementation of the International Covenant on
+Economic, Social and Cultural Rights, urged the government “to remove
+restrictions on freedom of information and expression in the State party,
+to enable all persons under its jurisdiction to take part in cultural life,
+enjoy the benefits of scientific progress and its applications, and benefit
+from the protection of the moral and material interests resulting from any
+scientific, literary or artistic production of which he or she is the
+
+
+   research purposes; (g) other forms of benefit consistent with the principles set out in
+   this Declaration.” Id. art. 15.
+38 UNITED NATIONS, supra note 21, containing chapters on (1) the ways in which both
+   specific human rights and general human rights principles are being undermined by
+   advances in science and technology; (2) a prospective view of science, technology,
+   and human rights; (3) technological self-reliance and cultural freedom; (4) a Western
+   perspective on human rights and scientific and technological progress; (5) normative
+   response of the international community with regard to impacts of scientific and
+   technological progress on human rights; (6) the institutional response; (7) human
+   rights and the structure of the scientific enterprise; (8) human rights, technology, and
+   development; (9) human rights and environmental issues.
+39 U.N. THE IMPACT OF TECHNOLOGY ON HUMAN RIGHTS: GLOBAL CASE-STUDIES, U.N.
+   Sales No. E92.III.A.7 (C. G. Weeramantry ed., 1993), containing case studies of
+   Venezuela, Thailand, Eastern Europe and Poland, and Ethiopia of the way in which
+   science and technology impact human rights issues in these countries.
+20                                               2011 科技發展與法律規範雙年刊
+
+
+
+author.”40 It made a similar observation concerning Libya, expressing
+its concern “about reports that freedom of access to the Internet is
+severely restricted in” Libya and calling on the government “to respect
+and protect freedom of information and expression …, including on the
+Internet, to enable all persons under its jurisdiction to take part in
+cultural life and enjoy the benefits of scientific progress and its
+applications.”41
+
+      These concerns of the United Nations with certain aspects of
+science and technology as they relate primarily in a negative way to
+human rights devote almost no attention to the right to benefit from
+scientific progress, which could well be the most neglected right of the
+international bill of rights. Recently this right has been brought out of
+obscurity.
+
+
+
+II. International Standards Associated with the Right
+    to Enjoy the Benefits of Scientific Progress and Its
+    Applications
+
+A. The recognition of the Right to Enjoy the Benefits of Scientific
+     Progress and its Applications in human rights instruments
+
+      The Universal Declaration of Human Rights, in Article 27, affirms
+
+
+40 U.N. Committee on Economic, Social and Cultural Rights (CESCR), Concluding
+   observations of the Committee on Economic, Social and Cultural Rights People’s
+   Republic of China (including Hong Kong and Macao), ¶ 63, E/C.12/1/Add.107 (May
+   13, 2005).
+41 U.N. Committee on Economic, Social and Cultural Rights (CESCR), Concluding
+   observations of the Committee on Economic, Social and Cultural Rights, ¶¶ 21, 39,
+   E/C.12/LYB/CO/2 (Jan. 25, 2006).
+Keynote Address: Out of Obscurity                                                        21
+
+
+
+
+that “Everyone has the right freely … to share in scientific advancement
+and its benefits,” which Article 15(1)(b) of the International Covenant on
+Economic, Social and Cultural Rights (ICESCR) expresses at the right
+“To enjoy the benefits of scientific progress and its applications.” In fact,
+it was first formulated in the American Declaration of the Rights and
+Duties of Man (1948) as the right of every person “to participate in the
+benefits that result from intellectual progress, especially scientific
+discoveries.” 42 Similar rights are expressed in the Arab Charter of
+200443, the Protocol of San Salvador to the American Convention on
+Human Rights of 198844, although the African Charter of Human and
+Peoples Rights overlooks this right.45 The Charter of fundamental rights
+of the European Union of 2000 takes a different approach to scientific
+advancement, considering it a threat calling for a reinforcement of
+fundamental freedoms.46
+
+
+42 American Declaration of the Rights and Duties of Man art. 13, AG/RES. 1591
+   (XXVIII-O/98) (Resolution adopted at the third plenary session, held on June 2,
+   1998).
+43 Arab Charter on Human Rights, League of Arab States, May 22, 2004, 12 Int’l Hum.
+   Rts. Rep. 893 (2005) (entered into force March 15, 2008). Article 42 reads, “Every
+   person has the right … and to enjoy the benefits of scientific progress and its
+   application.”
+44 Additional Protocol to The American Convention on Human Rights in the Area of
+   Economic, Social and Cultural Rights “Protocol Of San Salvador” (Adopted at San
+   Salvador, El Salvador on November 17, 1988, at the eighteenth regular session of the
+   General Assembly). Article 14 recognizes “the right of everyone … To enjoy the
+   benefits of scientific and technological progress” as well as …the benefits to be
+   derived from the encouragement and development of international cooperation and
+   relations in the fields of science, arts and culture… .”
+45 Unless one considers that elements of this right may be implied from Article 22’s
+   reference to the right of all peoples “to their economic, social and cultural
+   development … and in the equal enjoyment of the common heritage of mankind” and
+   “to ensure the exercise of the right to development” and the right of peoples in Article
+   24 “to a general satisfactory environment favorable to their development.”
+46 The Preamble to the European Charter of Fundamental Rights it is necessary to
+   strengthen the protection of fundamental rights in the light of changes in society,
+22                                                 2011 科技發展與法律規範雙年刊
+
+
+
+      Little thought seems to have gone into the formulation of this right
+and into its interpretation, until UNESCO took it up again in the twenty-
+first century.
+
+B. Venice Statement on the Right to Enjoy the Benefits of Scientific
+     Progress and its Applications
+
+      Although human rights issues related to science and technologies
+continued to be on the international human rights agenda around such
+issues as cloning, genetic information, and access to medicines, which
+have been taken up by the IBC and by the Commission on Human
+Rights (now Human Rights Council), they were not usually expressed in
+relation to the right to share the benefits of scientific progress.
+
+      UNESCO did take up the issue in those terms in 2007 when it
+convened an expert meeting in Amsterdam, the Netherlands (June 2007),
+organized with the Amsterdam Centre for International Law of the
+University of Amsterdam, followed the next year by a second meeting in
+Galway, Ireland (November 2008), organized and the Irish Centre for
+Human Rights, National University of Ireland (NUI). According to
+UNESCO the aim of Amsterdam meeting was “to elucidate the content
+of a right, which despite its significance on all spheres of human life and
+its early normative entrenchment has received over the years very little
+attention.”47The third experts’ meeting on the right to enjoy the benefits
+of scientific progress and its applications was organized by UNESCO
+and the European Inter-University Centre for Human Rights and
+
+
+
+   social progress and scientific and technological developments by making those rights
+   more visible in a Charter.
+47 UNESCO, Report on the Experts’ Meeting on the Right to Enjoy the Benefits of
+   Scientific Progress and its Applications, at 3 (June 7-8, 2007).
+Keynote Address: Out of Obscurity                                                          23
+
+
+
+
+Democratisation (EIUC) in Venice, Italy, 16-17 July 2009. The Office of
+the UN High Commissioner for Human Rights (OHCHR), the
+Committee on Economic, Social and Cultural Rights (CESCR or the
+Committee) also participated in the meeting,48 as did I and a number of
+specialists from the scientific and human rights communities. The
+Venice Statement noted but did not entirely settle the matter of the
+compatibility of the right with the need for incentives in developments in
+science and technology and the protection of the rights of the intellectual
+property of inventors, which itself is protected by Article 15(1)(c) of
+ICESCR.49
+
+     The initiative in Venice has had some reverberations. For example,
+the American Association for the Advancement of Science (AAAS) took
+up the issue and in April 2010, the AAAS Board of Directors adopted a
+statement emphasizing the vital connection between Article 15 and the
+mission of the organization. The AAAS has been coordinating the
+involvement of the U.S. scientific community in the process of defining
+and promoting the right. Specifically the Science and Human Rights
+Coalition, a network of over 45 scientific membership organizations, has
+undertaken the following four initiatives.
+
+     (1) The Welfare of Scientists working group is developing an
+awareness raising piece aimed at putting scientific freedom on the
+agenda of the UN human rights mechanisms and human rights
+organizations more broadly;
+
+48 Id.
+49 International Covenant on Economic, Social and Cultural Rights, U.N. Doc. A/6316
+   (1966), 993 U.N.T.S. 3 (entered into force Jan. 3, 1976) [hereinafter ICESCR].
+   ICESCR art. 15(1)(c): “The States Parties to the present Covenant recognize … the
+   right of everyone: To benefit from the protection of the moral and material interests
+   resulting from any scientific, literary or artistic production of which he is the author.”
+24                                             2011 科技發展與法律規範雙年刊
+
+
+
+      (2) The Service to the Scientific Community working group is
+engaging individual disciplinary societies in the exercise of defining the
+right for the purposes of their discipline;
+
+      (3) The Service to the Human Rights Community working group is
+developing indicators by which to measure compliance with the right;
+and
+
+      (4) The Education and Information Resources working group is
+developing      an   online   training   module,     including    multi-media
+components, on Article 15.50
+
+      The engagement of scientists in finding ways within their
+professional activities, to advance this right is essential to lifting it out of
+the obscurity where it now is consigned. The tough question, to which I
+will return in the conclusion, is whether the free functioning of the
+market with patent protection for inventors, including for corporations
+that manufacture and market products that are the result of advances in
+science and technology, is a necessary conditions for scientific progress,
+even if it means that those who lack resources will not benefit and
+therefore the right to share in the benefits of scientific progress does not
+really belong to “everyone.” The alternative view, echoing the 1947
+Committee on the Theoretical Bases of Human Rights, is that of
+scientific advances as a public good. The Venice meeting was divided on
+the matter.51 The statement adopted by the meeting acknowledged, “the
+right to enjoy the benefits of scientific progress and its applications may
+create tensions with the intellectual property regime, which is a
+
+
+50 Information provided by Jessica Wyndham of the AAAS Science and Human Rights
+     Program.
+51 UNESCO, supra note 48, at 7.
+Keynote Address: Out of Obscurity                                         25
+
+
+
+
+temporary monopoly with a valuable social function that should be
+managed in accordance with a common responsibility to prevent the
+unacceptable prioritization of profit for some over benefit for all.”52
+
+
+
+III. Normative Content and State Obligations to
+     Realize Right to Enjoy the Benefits of Scientific
+     Progress and Its Applications
+
+      The Venice expert meeting on the Right to Enjoy the Benefits of
+Scientific Progress and its Applications elucidated the core content of the
+right and defined State obligations and recommendations for
+international cooperation. In the final statement the participants
+suggested ways to move forward with the interpretation and the
+implementation of the right. The normative content followed the
+approach of the Committee on Economic Social and Cultural Rights by
+defining the normative content and distinguishing duties of states to
+respect, to protect, and to fulfill.
+
+      There were four elements of the normative content highlighted by
+the experts. The first had to do with creating “an enabling and
+participatory environment for the conservation, development and
+diffusion of science and technology” through academic and scientific
+freedom, equal access and participation, and education. The second is
+“Enjoyment of the applications of the benefits of scientific progress,”
+which includes technology transfer and capacity-building. The third
+element of normative content is “protection from abuse and adverse
+
+
+52 Id. at 15.
+26                                            2011 科技發展與法律規範雙年刊
+
+
+
+effects of science and its applications,” such as stem cell research, and
+climate change.53
+
+      The obligations of the state regarding this right were expressed as
+follows and I will quote in full as this represents the first effort to set out
+the specific obligations beyond it very general formulation in the core
+instruments quoted.
+
+      A. Duty to Respect
+
+            a) to respect the freedoms indispensable for scientific
+     research and creative activity, such as freedom of thought, to
+     hold opinions without interference, and to seek, receive, and
+     impart information and ideas of all kinds;
+            b) to respect the right of scientists to form and join
+     professional societies and associations, as well as academic
+     autonomy;
+            c) to respect the freedom of the scientific community and
+     its individual members to collaborate with others both within
+     and across the country’s borders, including the freed exchange
+     of information, research ideas and results;
+            d) to take appropriate measures to prevent the use of
+     science and technology in a manner that could limit or interfere
+     with the enjoyment of the human rights and fundamental
+     freedoms.”
+
+      B. Duty to Protect
+
+            a) to take measures, including legislative measures, to
+
+
+53 Id. at 16.
+Keynote Address: Out of Obscurity                                        27
+
+
+
+
+     prevent and preclude the utilization by third parties of science
+     and technologies to the detriment of human rights and
+     fundamental freedoms and the dignity of the human person by
+     third parties;
+          b) to take measures to ensure the protection of the human
+     rights of people subject to research activities by entities,
+     whether public or private, in particular the right to information
+     and free and informed consent.
+
+     C. Duty to Fulfill
+
+          a) to adopt a legal and policy framework and to establish
+     institutions to pro- mote the development and diffusion of
+     science and technology in a manner consistent with
+     fundamental human rights. The relevant policies should be
+     periodically reviewed on the basis of a participatory and
+     transparent process, with particular attention to the status and
+     needs of disadvantaged and marginalized groups;
+          b) to promote access to the benefits of science and its
+     applications on a non- discriminatory basis including measures
+     necessary to address the needs of disadvantaged and
+     marginalized groups;
+          c) to monitor the potential harmful effects of science and
+     technology, to effectively react to the findings and inform the
+     public in a transparent way;
+          d) to take measures to encourage and strengthen
+     international cooperation and assistance in science and
+     technology to the benefit of all people and to comply in this
+     regard with the States’ obligations under international law;
+          e) to provide opportunities for public engagement in
+28                                              2011 科技發展與法律規範雙年刊
+
+
+
+     decision-making about science and technology and their
+     development;
+            f) to institute effective science curricula at all levels of the
+     educational system, particularly in the State-sponsored schools,
+     leading to development of the skills necessary to engage in
+     scientific research.54
+
+
+
+IV. Emerging Issues of the Right to Enjoy the Benefit
+    of Scientific Progress and Its Applications
+
+      The right to enjoy the benefits of scientific progress and its
+applications is indeed a neglected right. And yet there are several
+burning issues facing the international community with respect to which
+it takes on special salience. Let me examine four such areas of scientific
+progress the benefits of which are not equally shared, namely,
+information      and    communication        technology,    medicine,     green
+technologies, and food production.
+
+A. Information and Communications Technology
+
+      Science and technology has made it possible to collect and assess
+vast amounts of data, report the news instantaneously from anywhere
+through satellite feeds, store the books of the world’s great libraries in
+digital form, transfer small and vast sums of money across the world,
+conference face-to-face among numerous people located on all
+continents, carry out intricate surgical operations remotely and thousands
+of other applications that improve live in ways that science fiction barely
+
+
+54 Id. at 17.
+Keynote Address: Out of Obscurity                                              29
+
+
+
+
+imagined a half century ago. The global economy is the 21st century is
+characterized in large part by the exponential growth of information and
+communication technology. The World Summit on the Information
+Society (WSIS) addressed some of the issues but not adequately the
+human rights claims.
+
+     We can agree that the World Wide Web is too expensive for
+millions of people in developing countries, partly because of the cost of
+computers and partly because of government restrictions on free access
+to information and of the trends in the global economy to capture and
+market information, contrary to the human rights to enjoy cultural
+products and to benefit form advances in science and technology.
+
+     As we said to the World Summit on the Information Society, “The
+massive disparities in access to information and to the means of
+communication—known as “the digital divide”—are a result of the
+unequal distribution of wealth among and within countries. The digital
+divide is at the same time a cause and a consequence of the unequal
+distribution of wealth in the world and within countries Like poverty,
+with which it is closely connected, it severely diminishes the capabilities
+of people to enjoy their human rights. Information and communication
+technologies (ICTs) enable and empower individuals and groups,
+particularly those who are exposed, marginalized and vulnerable. Unless
+ICTs are made available on a vast scale to those who are at the losing
+end of the digital divide, the information and communication society
+will remain a force of relative impoverishment of large swaths of the
+world’s population and consequently a source of instability and
+deprivation.”55
+
+
+55 The World Summit on the Information Society (WSIS), Statement on Human Rights,
+30                                                  2011 科技發展與法律規範雙年刊
+
+
+
+       India and China are significant testing grounds for the proposition
+that human rights can serve as positive guidelines for placing the
+information society in the service of people rather than a source of
+economic advantage for those who dominate the world economy. India
+offers the technological edge to breaking barriers to Internet access
+through the efforts of academics at the Indian Institute of Science and
+engineers at the Bangalore-based design company Encore Software, who
+have designed innovative devices, the intellectual property rights to
+which have been transferred for free to the non-profit Simputer Trust,
+which is licensing the technology to manufacturers at a nominal fee.56
+China is grappling with the need to expand access to ICT as it seeks to
+reduce inequalities produced by its rapid growth, with its habits as a
+Communist Party State to control citizens’ access to information. How it
+handles this issue will have tremendous repercussions on human rights
+in the global economy.
+
+       On October 5, 2009, the International Telecommunication Union
+(ITU) hosted a Telecom World Forum in Geneva, at which leaders
+discussed issues such as “development; ICTs and climate change; and
+cyber security; as well as technology foresight and access; empowering
+development through communications; and business models and policy
+developments.”57 This forum brought together leaders who represented
+governments, international organizations, and the business industry in
+order to discuss the way in which information communication
+
+
+     Human Dignity and the Information Society, ¶ 7 (Nov. 4, 2003).
+56 Human Development Report 2001, PC World 2000; Simputer Trust 2000; Kirkman
+     2001.
+57 International Telecommunication Union (ITU), Importance of ICT in Development,
+     Human Rights Highlighted at ITU Telecom World 2009 (Oct. 5, 2009), http://www.
+     un-ngls.org/spip.php?page=article_s&id_article=1641.
+Keynote Address: Out of Obscurity                                      31
+
+
+
+
+technology (ICT) can bring positive change on a global level.
+
+     UN Secretary General Ban Ki-moon and the ITU Secretary General
+Touré gave opening remarks. Mr. Ban Ki-moon emphasized that the
+United Nations should use ICT to address related to peace, human rights,
+developments and climate change. He urged governments and
+businesses to develop “more creative ways to use ICTs to usher in a new
+green economy” and added, “Let us work together to find new ways to
+cut waste, reduce emissions, create jobs, protect against disasters and
+promote better standards of living.”58
+
+     Similarly, Mr. Touré emphasized that there is a strong relationship
+between ICTs and human rights. He stated that “[c]ommunication is a
+basic human right”, and that “if we are to meet the Millennium
+Development Goals for ICTs then we will need to work in partnership.
+And we will need to innovate. And we will need to develop new
+technologies which will help us deliver on our promise to connect the
+world.”59
+
+     Probably the most visible advance in technology in the ICT field is
+broadband, which is transforming societies through use of the Internet in
+developed countries. The failure to realize the right to advances in
+technology is reflected in the persistent broadband divide. In 2009,
+broadband penetration was 27 per cent in developed countries and only
+3.5 per cent in developing countries. As the MDG Gap report noted,
+“fixed broadband subscriptions in the developing world are heavily
+concentrated in a few countries, with China accounting for half of the
+200 million fixed broadband subscriptions, having overtaken the United
+
+
+58 Id.
+59 Id.
+32                                            2011 科技發展與法律規範雙年刊
+
+
+
+States of America as the largest fixed broadband market in the world in
+2008.”60 The worst off is Oceania, South Asia and sub-Saharan Africa,
+where penetration rates are less than 1 per cent.
+
+     Similar observations can be made regarding increasing usage of
+mobile cellular telephones another issue debated at the forum was new
+mobile technologies that can revolutionize ICT in developing countries.
+In recent years, the number of subscribers of mobiles phones has
+increased tremendously. However, there are still regional disparities in
+the use of mobile technologies and internet connections. As pointed out
+in the latest MDG GAP Report, “The steady growth of the number of
+mobile cellular subscriptions is striking, reaching an estimated 4.6
+billion by the end of 2009 and a penetration level of 68 per 100
+inhabitants globally. In contrast, fixed telephone lines continued to lose
+their share in the market with a penetration of less than 18 per 100
+inhabitants globally.”61 The problem of access to the benefits of these
+advances in technology is again cost, especially to reach remote areas:
+Although prices are continuing decline, the price of fixed broadband
+services exceeds monthly gross national income (GNI) per capita in 28
+LDCs. The monthly average prices of ICT services by region, in 2009,
+was US$28 (in purchasing power parity dollars) in developed countries
+and US$190 in developing countries, of which Africa was paying
+US$426 or 15 times as much.62
+
+     The more controversial issue regarding any purported right to
+
+
+60 UNITED NATIONS U.N. MILLENNIUM DEVELOPMENT GOAL 8, THE GLOBAL
+   PARTNERSHIP FOR DEVELOPMENT AT A CRITICAL JUNCTURE, at 71, U.N. Sales No. E.
+   10.1.12 (2010).
+61 Id. at 70.
+62 Id. at 73.
+Keynote Address: Out of Obscurity                                        33
+
+
+
+
+benefit from advances in ICT is whether the broadband spectrum and the
+Internet can be part of the “commons,” that is resources that are free for
+the use of all. Lawrence Lessig argues that commercial and government
+interests should not interfere with the freedom to innovate and create
+over the Internet. He is a founder of the Creative Commons, which
+issues licenses so that creators can communicate which rights they
+reserve, and which rights they waive for the benefit of recipients or other
+creators. Such a stance only goes part way to overcoming the obstacles
+of a right for all to benefit from ICT.
+
+     Clearly the right to benefit from advances in ICT has a long way to
+go. What about medicine?
+
+B. Medicine
+
+     The AIDS pandemic has forced the international community to face
+head-on the greatest challenge for the right to benefit from scientific
+progress, namely, the protection of intellectual property of patent-holders
+when millions face death due to the unavailability of life-saving
+medicines. From a legal perspective, we are dealing here with the
+confrontation—dare I say a struggle for life and death—between two
+human rights: the right “to the protection of the moral and material
+interests resulting from any scientific, literary or artistic production”
+(Article 15(1)(c) of the ICESCR) and the right “to share in scientific
+advancement and its benefits” (Article 15(1)(b)). The former is the
+human rights basis for intellectual property protection, according to
+which creative ideas and expressions of the human mind that possess
+commercial value receive the legal protection of property rights called
+“intellectual property rights (IPRs)”. The major legal mechanisms for
+protecting IPRs are copyrights, patents, and trademarks. IPRs enable
+owners to select who may access and use their property, and to protect it
+34                                                2011 科技發展與法律規範雙年刊
+
+
+
+from unauthorized use. There is an apparent contradiction between these
+two rights when applied to access to medicines: article 15(1)(c) seems to
+protect the “right” of pharmaceutical companies to earn a profit from the
+drugs they develop, by setting prices that render medicines inaccessible
+to the destitute sick, while article 15(1)(b) seems to protect the “right” of
+those destitute sick to benefit from the development of new drugs.
+
+       The way out of this dilemma is to distinguish intellectual property
+rights from human rights and consider them a temporary monopoly
+established for the valid social purpose of encouraging scientific
+invention and artistic creation. In other words, an IPR is a legally
+protected interest of a lower order than a human right, which implies a
+superior moral and legal claim. This distinction should not be interpreted
+to imply that IPRs do not have social value for indeed they have a very
+high value, justifying limiting article 15 rights reasonably to promote
+innovation and creativity.
+
+       Human rights organs have progressively addressed this dilemma,
+articulating in different stages the human right to essential medicines.
+The Commission on Human Rights adopted a resolution in 2001, in
+which it recognized “that access to medication in the context of
+pandemics such as HIV/AIDS is one fundamental element for achieving
+progressively the full realization of the right of everyone to the
+enjoyment of the highest attainable standard of physical and mental
+health.”63 Among a list of measures, it called on States, “to refrain from
+taking measures which would deny or limit equal access for all persons
+to preventive, curative or palliative pharmaceuticals or medical
+
+
+63 U.N. Commission on Human Rights, Access to Medication in the Context of
+     Pandemics such as HIV/AIDS, ¶ 1, U.N. Doc. E/CN.4/RES/2001/33 (Apr. 20, 2001).
+Keynote Address: Out of Obscurity                                                  35
+
+
+
+
+technologies used to treat pandemics such as HIV/AIDS or the most
+common opportunistic infections that accompany them”64 and, clearly
+with TRIPS in mind, “to ensure that their actions as members of
+international organizations take due account of the right of everyone to
+the enjoyment of the highest attainable standard of physical and mental
+health and that the application of international agreements is supportive
+of public health policies which promote broad access to safe, effective
+and affordable preventive, curative or palliative pharmaceuticals and
+medical technologies.”65 The United States was the only government to
+abstain from this resolution, which was adopted on 23 April 2001 by 52
+votes with no votes against.
+
+     The Office of the High Commissioner prepared a report in 2001 on
+the impact of the TRIPS Agreement on human rights;66 and the Sub-
+Commission on the Promotion and Protection of Human Rights took this
+up in its resolution the same year on “Intellectual Property Rights and
+Human Rights.”67 The resolution, adopted by consensus, referred to the
+“actual or potential conflict … between the implementation of the
+TRIPS Agreement and the realization of economic, social and cultural
+rights.”68 In the context of the upcoming Doha Ministerial meeting of
+the WTO, the Sub-Commission alluded to the “need to clarify the scope
+and meaning of several provisions of the TRIPS Agreement, in particular
+
+
+64 Id. at ¶ 3(a).
+65 Id. at ¶ 4(b).
+66 U.N. High Commissioner for Human Rights, The Impact of the Agreement on Trade
+   Related Aspects of Intellectual Property Rights on Human Rights, U.N. Doc. E/CN.4/
+   Sub.2/2001/13 (June 27, 2001).
+67 U.N. Sub-Commission on the Promotion and Protection of Human Rights,
+   Intellectual property and human rights, Res. 2001/21, U.N. Doc. E/ CN.4/SUB.2/
+   RES/2001/21 (Aug. 16, 2001).
+68 Id. at preamble.
+36                                                 2011 科技發展與法律規範雙年刊
+
+
+
+of articles 7 and 8 on the objectives and principles underlying the
+Agreement in order to ensure that States’ obligations under the
+Agreement do not contradict their binding human rights obligations.”69
+It reminded “all Governments of the primacy of human rights
+obligations under international law over economic policies and
+agreements, and request[ed] them, in national, regional and international
+economic policy forums, to take international human rights obligations
+and principles fully into account in international economic policy
+formulation.”70 Significantly, it urged “all Governments to ensure that
+the implementation of the TRIPS Agreement does not negatively impact
+on the enjoyment of human rights as provided for in international human
+rights instruments by which they are bound.”71
+
+       A similar view was expressed by the Committee on Economic,
+Social and Cultural Rights, which “urged WTO members to ensure that
+their international human rights obligations are considered as a matter of
+priority in their negotiations which will be an important testing ground
+for the commitment of States to the full range of their international
+obligations.”72 Two years later, on 26 November 2001, the Committee
+held a “day of general discussion” on article 15(1)(c), following which it
+issued a “Statement on Human Rights and Intellectual Property,” in
+which it considered that “intellectual property rights must be balanced
+with the right ... to enjoy the benefits of scientific progress and its
+
+
+
+69 Id.
+70 Id. at ¶ 3.
+71 Id. at ¶ 5.
+72 U.N. CESCR, Statement of the United Nations Committee on Economic, Social and
+     Cultural Rights to the Third Ministerial Ministerial Conference of the World Trade
+     Organization (Seattle, 30 November to 3 December 1999), ¶ 8, U.N. Doc.
+     E/C.12/1999/9 (Nov. 26, 1999).
+Keynote Address: Out of Obscurity                                                   37
+
+
+
+
+applications.”73 It made explicit reference to the development of new
+medicines in the context of the Doha Declaration on the TRIPS
+Agreement and Public Health as an example of the need to strike a
+balance between the right to enjoy the benefits of scientific progress and
+its applications under article 15(1)(b) and the right to benefit from the
+protection of the moral and material interests under article 15(1)(c).74
+The Committee concluded by calling for “a mechanism for a human
+rights review of intellectual property systems.”75
+
+     The Committee clarified further the human right to essential
+medicines in two of its General Comments, an earlier one on the right to
+health, and one based on the 2001 Statement. Indeed, in 2000, the
+Committee, in its General Comment 14, had interpreted the obligation
+under Covenant article 12(2)(d) of the Covenant (“The creation of
+conditions which would assure to all medical service and medical
+attention in the event of sickness”) to include “the provision of essential
+drugs.”76
+
+     But it was in General Comment 17, adopted in 2006, that the
+Committee challenged head-on the assumption of the international trade
+regime that the rights of companies holding patents over essential drugs
+were of the same order as the rights of those who need the drugs, by
+treating the former as a temporary, revocable monopoly, and the latter as
+
+
+73 U.N. CESCR, Human rights and intellectual property: Statement by the Committee
+   on Economic Social and Cultural Rights, ¶ 4, U.N. Doc. E/C.12/2001/15 (Dec. 14,
+   2001).
+74 Id. at ¶ 17.
+75 Id. at ¶ 18.
+76 U.N. CESCR, The Right to the Highest Attainable Standard of Health (Article 12 of
+   the International Covenant on Economic, Social and Cultural Rights), ¶ 17, U.N. Doc.
+   E/C.12/2000/4 (Aug. 11, 2000).
+38                                                  2011 科技發展與法律規範雙年刊
+
+
+
+human rights. Indeed, the Committee affirmed,
+
+            “In contrast with human rights, intellectual property rights are
+      generally of a temporary nature, and can be revoked, licensed or
+      assigned to someone else. While under most intellectual property
+      systems, intellectual property rights, with the exception of moral
+      rights, may be allocated, limited in time and scope, traded, amended
+      and even forfeited, human rights are timeless expressions of
+      fundamental entitlements of the human person….”77
+
+“States parties should,” the Committee continued,
+
+            “ensure that their intellectual property regimes constitute no
+      impediment of their ability to comply with their core obligations in
+      relation to the right to health ... States thus have a duty to prevent
+      that unreasonably high license fees or royalties for access to
+      essential medicines … undermine the right ... of large segments of
+      the population to health ....”78
+
+      One of the most significant events, legally and politically, for the
+right to essential medicines was indeed the Doha Ministerial meeting of
+the WTO, which adopted the Doha Declaration on the TRIPS Agreement
+and Public Health. In an unusually direct statement emanating from the
+WTO, better known for highly technical and legally complex sentences,
+the meeting declared: “The TRIPS agreement does not and should not
+prevent Members from taking measures to protect public health … in
+
+
+77 U.N. CESCR, The Right of Everyone to Benefit from the Protection of the Moral and
+   Material Interests Resulting from Any Scientific, Literary or Artistic Production of
+   Which He or She Is the Author (article 15, paragraph 1(c), of the Covenant), ¶ 2, U.N.
+   Doc. E/C.12/GC/17 (Jan. 12, 2006).
+78 Id. at ¶ 35.
+Keynote Address: Out of Obscurity                                                  39
+
+
+
+
+particular to promote access to medicines for all.”79 To be perfectly clear,
+the declaration added, “In this connection, we reaffirm the right of WTO
+members to use, to the full, the provisions in the TRIPS Agreement,
+which provide flexibility for this purpose,” meaning parallel importing
+and compulsory licensing. The text acknowledges that “[e]ach member
+has the right to grant compulsory licences and the freedom to determine
+the grounds upon which such licences are granted…[and] the right to
+determine what constitutes a national emergency or other circumstances
+of extreme urgency, it being understood that public health crises,
+including those relating to HIV/AIDS, tuberculosis, malaria and other
+epidemics, can represent a national emergency or other circumstances of
+extreme urgency.”80
+
+     The problem is that these flexibilities are almost never applied.
+They are nevertheless a significant step to put the right to share in the
+benefits of scientific progress into practice. It should be noted that
+TRIPS agreement itself states that “the protection and enforcement of
+intellectual property rights should contribute to the promotion of
+technological innovation into the transfer and dissemination of
+technology, to the mutual advantage of producers and users of
+technological knowledge and in a manner conducive to social and
+economic welfare, and to a balance of rights and obligations.”81 At the
+intergovernmental level, the Global Strategy and Plan of Action on
+Public Health, Innovation and Intellectual Property defined as one of the
+
+79 World Trade Organization, Doha Declaration on the TRIPS Agreement and Public
+   Health, Ministerial Declaration of 14 November 2001, ¶ 4, WT/MIN(01)/DEC/2
+   (Nov. 14, 2001).
+80 Id. at ¶ 5.
+81 Marrakesh Agreement Establishing the World Trade Organization, Annex 1C
+   Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) art. 7,
+   Apr. 15, 1994. 1867 U.N.T.S. 3 (entered into force Jan. 1, 1995).
+40                                                   2011 科技發展與法律規範雙年刊
+
+
+
+elements of the strategy to “improve, promote and accelerate transfer of
+technology between developed and developing countries as well as
+among developing countries.”82 In fact, Element 4 of the Plan of Acton
+is devoted to transfer of technology.83 However, the related government
+commitments use the language of “promote,” “encourage,” “facilitate,”
+and “examine the feasibility of….” For example, among that actions to
+be taken are to “explore and, if feasible, develop possible new
+mechanisms to promote transfer of and access to key health-related
+technologies of relevance to public health needs of developing
+countries.”84
+
+       As part of his mandate as UN Special Rapporteur on the right of
+everyone to the enjoyment of the highest attainable standard of physical
+and mental health, Paul Hunt, presented the Guidelines to the General
+Assembly in 2008, explaining that “the central objective of the
+Guidelines is to provide practical, constructive and specific guidance to
+pharmaceutical companies and other interested parties, including those
+who wish to monitor companies and hold them to account.”85 These
+forty-seven Guidelines deal with general policy; the disadvantaged;
+transparency; management, monitoring and accountability; corruption;
+public policy influence, advocacy and lobbying; quality; clinical trials;
+neglected diseases; patents and licensing; pricing, discounting and
+donations; ethical promotion and marketing; public-private partnerships;
+
+
+82 WHO Sixty-First World Health Assembly, Global Strategy and Plan of Action on
+     Public Health, ¶ 14, A61/VR/8 (May 24, 2008).
+83 Id. at ¶¶ 33–34.
+84 Id. at ¶ 34.
+85 U.N. Secretary-General, Report of the Special Rapporteur on the Right of Everyone to
+     the Enjoyment of the Highest Attainable Standard of Physical and Mental Health, ¶
+     46, U.N. Doc. A/63/263 (Aug. 11, 2008) (Quotations from the Guidelines are from
+     the version in the annex to that document).
+Keynote Address: Out of Obscurity                                            41
+
+
+
+
+and associations of pharmaceutical companies. They call upon
+companies to recognize the importance of human rights in their
+corporate    mission     and    provide      board-level   responsibility   and
+accountability for its access to medicines strategy, with a public
+commitment to contribute to research and development for neglected
+diseases, and respect the right of countries to use TRIPS flexibilities.
+The Guidelines then address questions of management, including “an
+effective, transparent, accessible and independent monitoring and
+accountability mechanism,” both internal and external, as well as
+participation from a human rights perspective. Other Guidelines would
+have companies comply with various international standards on
+corruption, good manufacturing practice, human subject research, and
+other areas. Special provision relate to promoting research and
+development on neglected diseases. Regarding patents and licensing, the
+Guidelines call on drug companies to “respect the right of countries to
+use, to the full, the provisions …TRIPS…, which allow flexibility for
+the purpose of promoting access to medicines, including the provisions
+relating to compulsory licensing and parallel imports” and “respect the
+letter and spirit of the Doha Declaration….”
+
+     The Human Rights Council recognized “that access to medicine is
+one of the fundamental elements in achieving progressively the full
+realization of the right of everyone to the enjoyment of the highest
+attainable standard of physical and mental health.”86
+
+     A final example of scientific progress in the medical field is that of
+gene therapy. Although a National Institutes of Health (NIH) study has
+stated, “With one notable exception [a French study in which a
+
+
+86 Human Rights Council, Resolution 12/24.
+42                                                2011 科技發展與法律規範雙年刊
+
+
+
+therapeutic transgene was introduced into the bone marrow cells of
+children], no therapeutic effects have been achieved in gene therapy
+trials to date,” somatic gene therapy has been studied intensively, with a
+few successful outcomes.87
+
+       The potential danger of this type of genetic engineering—and even
+the inheritability of transgenes—is highly speculative, though “it is not
+outside the expertise of existing IVF clinics.”88 A partner in a biotech
+investment firm has said, “I suspect there are more groups than we know
+who are actually working on therapeutic cloning.”89
+
+       Those who would ban human experimentation in cloning and
+germline gene therapy—applying a restrictive approach—fear that such
+technology threatens human existence as we know it because the
+genome of future generations will undergo unpredictable mutations and
+thus alter human nature itself. The more permissive approach favors
+improving human well-being by eliminating life-threatening diseases
+and enhancing the quality of life and the capacities of human beings. The
+tension between hope for and fear of advances in biotechnology and
+genetics      has   profound     philosophical,      political,    and    economic
+ramifications. This tension is fueled by divergent and partial responses
+offered by international trade and intellectual property law, human rights
+law, and specific instruments on biomedicine.90 The interpretation of the
+
+87 WORLD HEATH ORGANIZATION, ADVISORY COMMITTEE ON HEALTH RESEARCH,
+     GENOMICS AND WORLD HEALTH 63-65 (2002).
+88 NATIONAL INSTITUTES OF HEALTH, STEM CELLS: SCIENTIFIC PROGRESS AND FUTURE
+     RESEARCH DIRECTIONS 33 (2001).
+89 Raja Mishra, Clone Research Quietly Builds in World’s Labs, Boston Globe, June 21,
+     2002, at A1.
+90 The principal biomedicine instruments are the Council of Europe, Convention for the
+     Protection of Human Rights and Dignity of the Human Being with Regard to the
+     Application of Biology and Medicine: Convention on Human Rights and
+Keynote Address: Out of Obscurity                                                       43
+
+
+
+
+human rights implications of cloning and germline therapy is colored by
+those assumptions, with the consequence that reference to existing
+instruments of human rights law results at best in ambiguous
+applications of these standards and more commonly in radically
+contradictory interpretations. I have proposed a framework for assessing
+the human rights implications of this technology elsewhere.91
+
+      From the perspective of the right to enjoy the benefits of scientific
+progress, the issue of altering the human genome generates positions that
+are the opposite of those relating to ICT or medicine. In the latter areas,
+the politically progressive approach and the policy option that is the
+most egalitarian would ensure that people unable to pay market prices
+have the related goods and services such a Position is based on their
+right to enjoy the benefits of scientific progress. The progressive position
+on genetic alteration and the argument most protective of the human
+person would oppose favoring or even allowing the development of this
+technology and thereby would not support anyone sharing in the benefits
+of these advances. The ambiguity of this position is quite explicit in the
+UNESCO Declaration on the Human Genome and Human Rights. In the
+same sentence it recognizes “that research on the human genome and the
+resulting applications open up vast prospects for progress in improving
+the health of individuals and of humankind as a whole,” and
+
+
+   Biomedicine art. 21, Apr. 4, 1997, E.T.S. No. 164 (entered into force in Dec. 1, 1999);
+   the Council of Europe, Additional Protocol to the Convention for the Protection of
+   Human Rights and the Dignity of the Human Being with Regard to the Application of
+   Biology and Medicine, Jan. 12, 1998, E.T.S. No. 164 (entered into force Mar. 1,
+   2001); and the Universal Declaration on the Human Genome and Human Rights
+   (UDHGHR), reprinted in Records of the General Conference, UNESCO, 29th Sess.,
+   29 C/Res. 19, at 1 (1997).
+91 Stephen P. Marks, Tying Prometheus Down: The International Law of Human Genetic
+   Manipulation, 3 CHI. J. INT’L L. 115, 121-36 (2002).
+44                                           2011 科技發展與法律規範雙年刊
+
+
+
+immediately emphasizes “that such research should fully respect human
+dignity, freedom and human rights, as well as the prohibition of all forms
+of discrimination based on genetic characteristics.”92 Special precautions
+are set out for any research on the human genome. For example,
+“Research which does not have an expected direct health benefit may
+only be undertaken by way of exception, with the utmost restraint,
+exposing the person only to a minimal risk and minimal burden and if
+the research is intended to contribute to the health benefit of other
+persons in the same age category or with the same genetic condition,
+subject to the conditions prescribed by law, and provided such research
+is compatible with the protection of the individual's human rights.”93
+The principle of the right to share in benefits of scientific progress creeps
+back when the Declaration affirms, “Benefits from advances in biology,
+genetics and medicine, concerning the human genome, shall be made
+available to all, with due regard for the dignity and human rights of each
+individual.” 94 However, the Declaration draws the line at cloning:
+“Practices which are contrary to human dignity, such as reproductive
+cloning of human beings, shall not be permitted.”95 The UNESCO text,
+like the European Protocol to the Convention for the Protection of
+Human Rights and the Dignity of the Human Being with Regard to the
+Application of Biology and Medicine, assume that reproductive cloning
+is not an advance in science but an affront to human dignity. A survey on
+attitudes on this issue in Taiwan found that professionals in healthcare or
+law as well as younger professionals as an age group demonstrated less
+opposition to human cloning than religious professionals were more
+
+92 UNESCO, Declaration on the Human Genome and Human Rights, preamble (Nov.
+     11, 1997).
+93 Id. art. 5(e).
+94 Id. art. 12(a).
+95 Id. art. 11.
+Keynote Address: Out of Obscurity                                               45
+
+
+
+
+strongly opposed to human cloning.96 Attitudes will remain divided
+everywhere on whether such advances in science should be shared. The
+consensus is must easier to reach on sharing green technology.
+
+C. Green technologies, food security and climate change
+
+     Enormous advances are beginning in response to the negative
+effects of runaway technology and industrial production, in particular the
+use of fossil fuels and other non-renewable sources of energy and the
+emission of polluting agents that have spread disease and threatened the
+protective ozone layer and especially that have contributed to the process
+of the warming of the planet. The consequence from rising sea levels,
+flooding of interior rivers and landslides from heavy rain, with deaths
+and injuries, water contamination, infectious diseases, and indirect
+effects from loss of shelter, displacement, disruption of livelihoods and
+networks of social support. Each of these consequences represents clear
+deprivations of the human rights to life, adequate standard of living,
+water and sanitation, health, adequate food and adequate housing.
+
+     The dilemma here is evident: non-industrialized countries
+justifiably want to benefit from the advance in technology that have
+generated the wealth of the rich countries but sharing in this technology
+means more pollution and global warming. Part of the answer has been
+to shift the sharing of advances in technology to making green
+technologies available to poor countries. That is easier said than done.
+
+     Although no reference is made to the right to benefit from scientific
+progress, it is clear that any action to mitigate or adapt to climate change
+
+96 Che-Ming Yang, Chun-Chih Chung, Meei-Shiow Lu, Chiou-Fen Lin, Ethical Attitudes
+   on Human Cloning among Professionals in Taiwan and the Policy Implications for
+   Regulation, 21 ISSUES L. MED. 35, 35-44 (2005).
+46                                              2011 科技發展與法律規範雙年刊
+
+
+
+effectively requires a sharing of the relevant technologies with the
+countries lacking the capacity to apply them without coordinated
+international action. Indeed the United Nations Framework Convention
+on Climate Change (UNFCCC)97 requires all parties to “promote and
+cooperate in the development, application and diffusion, including
+transfer, of technologies, practices and processes that control, reduce or
+prevent anthropogenic emissions of greenhouse gases.”98 The transfer of
+technologies is central to the UNFCCC. Wealthier countries recognize
+that they contributed more to the climate change problem than
+developing countries and have greater capacity to deal with it. Under the
+UNFCCC they agreed to make technologies available to developing
+countries to assist both in managing the impacts of climate change and in
+transiting to low-carbon economies. However, technology transfer had
+not advance until the Bali Conference of the Parties in 2007. One
+program under the auspices of the UNFCCC that addresses directly the
+need for the transfer of green technology is the Clean Development
+Mechanism by which developed countries can meet their reduction
+commitments by investing in greenhouse gas emission reduction and
+sustainable development projects in developing countries. The Clean
+Development Mechanism has two goals: to provide developed countries
+with some flexibility in how they meet their emissions reduction
+commitments, and to assist developing countries to achieve sustainable
+economic development.
+
+     As pointed out by the United Nations Development Programme, the
+
+
+
+97 U.N. Framework Convention on Climate Change (UNFCCC), opened for signature
+   May 9, 1992, U.N. Doc. A/AC.237/18 (Part II)/Add.1 (entered into force Mar. 21,
+   1994).
+98 Id. art. 4(1)(c).
+Keynote Address: Out of Obscurity                                       47
+
+
+
+
+Clean Development Mechanism is the only greenhouse gas emissions
+reduction mechanism that involves developing countries. Since these
+countries are likely to be the most severely affected by the impacts of
+climate change, the mechanism is intended to provide flows of
+technology and capital to help them achieve a more sustainable
+development that is less intensive in greenhouse gas emissions.
+
+      The 15th Conference of the Parties to the Framework Convention
+on Climate Change, meeting in Copenhagen in 2009, failed to produce
+tangible results for either adaptation or mitigation. However, and 16th
+COP, meeting in Cancún, Mexico, which just ended on 11 December in
+2010,99 reached agreement on some important issues, which imply some
+advance in sharing in scientific progress to reduce global warming
+emissions (mitigation) and prepare countries to lessen the impacts of
+climate change (adaptation). Many rejoiced in the fact that China and the
+US accepted The “Cancun Agreement” locking in emissions reductions
+targets for 80% of global emissions, establishmenting of the Green
+Climate Fund, to serve as a mechanism to deliver support for urgent
+climate actions such as protecting forests, and shifting to greener energy
+technologies. The fund will also deliver resources to the newly
+established technology centers, which will over research, scientific
+exchange and technical support for countries looking to improve
+efficiency and reduce emissions from sectors like energy production,
+transportation, and buildings. Most of the attention of the COP was on
+financing and less on sharing in scientific progress. The matter of a
+binding climate treaty was deferred until the 17th COP, which took place
+in Durban, South Africa in 2011. There the FCCC states parties agreed to
+
+99   U.N. Climate Change Conference Cancun, COP 16/ CMP 6, November 29–
+     December 10, 2010.
+48                                                2011 科技發展與法律規範雙年刊
+
+
+
+adopt a universal legal agreement on climate change as soon as possible,
+and no later than 2015, as well as to establish a second commitment
+period under the Kyoto Protocol, and to launch the Green Climate
+Fund. 100 The various mechanisms established under the FCCC
+contribute to the sharing of scientific progress, but without explicit
+reference to the human right to such sharing.
+
+     The International Council on Human Rights policy has noted that
+“more than most topics in the climate change arena, actions and
+decisions on technology will have significant human rights implications”
+and goes on to note, “For developed and developing countries alike – but
+especially for the latter where, in many cases, basic human rights still
+remain unfulfilled and development is therefore pressing – development
+in the future will increasingly rely on access to efficient, clean and
+renewable technologies. Indeed, it will require restructuring of entire
+economies. The imperative to establish security for human rights over
+the long-term in conditions of climate change will require the
+dissemination (and transfer) of technologies for energy generation and
+distribution, for transport, housing, water generation and so forth.”101
+
+     The ICHRP proposes “a human rights optic,” which “can help
+ensure equitable access to new technologies in recipient countries
+through sensitivity to the possibility of inequalities of access and
+participation that mutually reinforce privilege and vulnerability.” Its
+study also notes, “Although social and economic rights are clearly
+
+100 Report of the Conference of the Parties on its seventeenth Session, held in Durban
+    from 28 November to 11 December 2011, U.N. Doc. FCCC/CP/2011/9, http://unfccc.
+    int/resource/docs/2011/cop17/eng/09.pdf.
+101 INTERNATIONAL COUNCIL ON HUMAN RIGHTS POLICY, CLIMATE CHANGE: TECHNOLOGY
+    POLICY AND HUMAN RIGHTS (2011), http://www.ichrp.org/en/projects/138 (last
+    visited Apr. 2, 2012).
+Keynote Address: Out of Obscurity                                                   49
+
+
+
+
+relevant to economic development in ‘developing countries,’ the
+language of rights has only been partially integrated in development
+discourse.”102 After examining the obligations of the ICESCR, the study
+concludes “However, while the ICESCR … encourages wealthier states
+to provide assistance to other states to fulfil social and economic rights,
+there is no binding obligation upon them to do so.”103 It does not discuss,
+however, the ICESCR obligation to ensure that every one enjoys the
+benefits of scientific progress, under article 15(1)(b).
+
+     At the regional level an interesting OAS case is worth recalling. In
+December 2005, a petition on behalf of Inuit native people from Canada
+and the United States was filed with the Inter-American Commission of
+Human Rights, alleging human rights violations due in large part to the
+failure of the United States to curb its greenhouse gas emissions. Among
+the rights alleged to be violated is rights “to enjoy the benefits of their
+culture.”104 It is interesting that this right is normally read with the
+righty to enjoy the benefits of scientific progress but the petitioners in
+this case focused more on the harm to culture than on their right to
+benefit, in this case, from non-greenhouse gas emitting technology. The
+IACHR dismissed the petition in November 2006 on the basis that the
+petition failed to establish “whether the alleged facts would tend to
+characterize a violation of rights protected by the American
+
+
+
+102 INTERNATIONAL COUNCIL ON HUMAN RIGHTS POLICY, CLIMATE CHANGE AND HUMAN
+    RIGHTS: A ROUGH GUIDE 14 (2008).
+103 Id.
+104 Petition to the Inter-American Commission on Human Rights Seeking Relief from
+    Violations Resulting from Global Warming Caused by Acts and Omissions of the
+    United States, Submitted by Sheila Watt-Cloutier, with the Support of the Inuit
+    Circumpolar Conference, on Behalf of All Inuit of the Arctic Regions of the United
+    States and Canada (Dec. 7, 2005).
+50                                                  2011 科技發展與法律規範雙年刊
+
+
+
+Declaration.”105 The Petition has nonetheless been praised as one of the
+first climate change cases linking global warming with the violation of
+human rights.
+
+      The IACHR separately deliberated on the issue in 2011 urged
+“States to keep human rights at the forefront of climate change
+negotiations, including in designing and implementing measures of
+mitigation and adaptation.” 106
+
+      A special mention should be made about China. China has been one
+of the strongest voices against industrialized countries calling on
+developing countries to bear the burden of mitigation in ways that will
+slow their development, even if CO2 emissions result from such
+development. At the same time, China has shown leadership in
+developing green technologies. For example on April 2008, the Ministry
+of Science and Technology (MOST), along with five other government
+agencies and four UN agencies, hosted a high-level International Forum
+on Climate Change Science & Technology Innovation in Beijing. The
+world leaders and experts in the area of green technology discussed the
+challenge of climate change and the opportunities for innovative
+solutions for two days with more than 600 participants from 30 countries
+and over 10 international organizations. By its own description “The
+forum was aimed to leverage global knowledge and expertise in the fight
+against climate change by exploring the role of new technologies for
+increasing energy efficiency, alternative and renewable energy and
+
+
+105 Letter from the IACHR to the petitioner (Nov. 16, 2006), available at http://
+    graphics8.nytimes.com/packages/pdf/science/16commissionletter.pdf (last visited July
+    24, 2012).
+106 The Inter-American Commission on Human Rights (IACHR), Press release, IACHR
+    Concludes its 141st Regular Session No. 28/11, Apr. 28, 2011, http://www.oas.org/
+    en/iachr/media_center/PReleases/2011/028.asp (last visited July 24, 2012).
+Keynote Address: Out of Obscurity                                                   51
+
+
+
+
+adapting to climate change.”107
+
+     As the UNDP Resident Coordinator notes, “The role of China will
+be critical. China has shown great leadership in applying innovation to
+development challenges. Given the size and scale of the opportunity for
+green technology applications in China, there is tremendous room to
+cooperate in areas such as carbon capture and sequestration, low-carbon
+material production, and design of eco-cities. Such successes will benefit
+both China and the world.”108 Among the announced outcomes was a
+new UN Climate Change Partnership Framework to be launched by
+China involving nine UN agencies and over a dozen national partners to
+establish a common framework for policy and action.
+
+     At the global level, the United Nations Human Rights Council has
+considered the matter for several years. In its resolution on “human
+rights and climate change,” adopted by consensus on 25 March 2009, it
+affirmed “that human rights obligations and commitments have the
+potential to inform and strengthen international and national policy-
+making in the area of climate change, promoting policy coherence,
+legitimacy and sustainable outcomes.”109 The panel discussion, which
+took place in June 2009 in response to resolution 10/4, did not raise
+explicitly the right to share in scientific progress although, in introducing
+the panel the Ms. Kyung-wha Kang, Deputy High Commissioner for
+Human Rights, noted, “The human rights perspective underlined the
+
+
+107 UNDP China, Green technology—innovative solutions for climate change High-
+    level Forum held to discuss future actions to combat climate change through
+    technology innovation (Apr. 25, 2008), available at http://www.undp.org.cn/modules.
+    php?op=modload&name=News&file=article&catid=14&topic=6&sid=4291&mode
+    =thread&order=0&thold=0.
+108 Id.
+109 U.N. HRC. Res. 10/4, preamble (Mar. 25, 2009).
+52                                               2011 科技發展與法律規範雙年刊
+
+
+
+need for international assistance and cooperation to address the unequal
+burden falling on those who are least able to carry its weight. This
+perspective also brought into focus how the adverse effects of climate
+change were not only felt by countries and economies, but also - and
+more fundamentally - by individuals and communities.”110 The burden
+is on individuals and communities, who in fact are the beneficiaries of
+the right in article 15(1)(b), the implementation of which requires the
+assistance to which Ms. Kyung-wha refers. One of those obligations and
+commitments is the sharing of scientific progress, which so far has not
+been part of the deliberations.
+
+
+
+V. Conclusion
+
+      The right to share the benefits of science and technological
+advances sounded like a reasonable proposition to the great minds
+assembled in 1947 to reflect on what should go into the Universal
+Declaration of Human Rights. Basically, little has changed since Aldous
+Huxley and the other members of the UNESCO panel warned of the
+obstacles business and governments placed in the path of making
+scientific advances available to those who need to share in their benefits.
+Nevertheless, their voice was heard and this right has found its way in to
+the principal aspirational and legally binding human rights instruments
+adopted at the global and regional levels. However, it has been left there
+to languish as what is perhaps the most neglected right in the corpus of
+internationally recognized human rights.
+
+110 Human Rights Council Panel Discussion on the Relationship between Climate
+     Change and Human Rights, Summary of Discussions 1 (June 15, 2009), available at
+     http://www2.ohchr.org/english/issues/climatechange/consultation.htm.
+Keynote Address: Out of Obscurity                                        53
+
+
+
+
+     Reasons why it is neglected are not hard to find. If you scratch
+beneath the surface, it turns out that the proposition of sharing in these
+benefits as a human right of all is a rather revolutionary proposition,
+challenging the financial interests of major countries and corporations
+for whom access to these benefits should be submitted either to market
+forces or to the discretionary authority of states to provide concessionary
+support to technologically deprive countries at whatever level and
+whenever they wish. The concept of a human right suggests that the
+benefits should be available as soon as feasible in accordance with
+available resources and in preference to other legally protected interest,
+such as ownership in intellectual property.
+
+     Does this mean that inventions should not be protected by patents?
+The free functioning of the market with patent protection for inventors,
+including for corporations that manufacture and market products that are
+the result of advances in science and technology, is a necessary condition
+for scientific progress, even if it means that those who lack resources
+will not benefit and therefore the right to share in the benefits of
+scientific progress does not really belong to “everyone.” For this reason,
+politicians have tended to avoid the human rights perspective when
+dealing with transfer of technology. However, just like the right to health
+requires that rules protecting patents give way to the urgent needs of
+developing countries to respond to health emergencies, transfer of
+technology more broadly must be based on the right of people
+everywhere to benefit from scientific progress.
+
+     The experience with access to essential medicines has taught us that
+the pendulum can shift direction if and when social mobilization
+overrides business as usual and the HIV/AIDS crisis provided that
+momentum. The shift has been limited in the drugs field and TRIPS
+54                                           2011 科技發展與法律規範雙年刊
+
+
+
+flexibilities are available in theory but rarely used in practice. Similarly,
+the current crisis on climate change has mobilized resources for
+mitigation and adaptation, including significant commitments to transfer
+of technology. However, it is treated as enlightened self-interest or
+charity on the part of developed countries, or both, but not as a mater of
+a human right of the most vulnerable to climate change to benefit from
+green technologies in their own economies and from the duty of those
+who caused the problem in the first place to apply technology to clean it
+up. When hundreds of billions of dollars are at stake, governments are
+not going to acknowledge a formal and legally binding obligations. They
+will, however, engage in programs that effectively bring the benefits of
+scientific progress to those who lack the capacity to invent and apply
+scientific and technical knowledge to the problems they face.
+
+     Innovation in science and medicine depends on the creation of
+incentives to invest and to reap benefits from such investment. A
+distinction is needed between these legitimate interests and the equally
+legitimate moral claim that science and technology are part of the
+common heritage of humankind. The gains from commercial activity
+based on innovation in developed countries has proved to be more than
+adequate to allow the means to be put in place to give meaning to right
+to share the benefits of science and technological advances.
+
+     If the right to benefit from scientific progress is to be lifted out of
+obscurity it needs to fit the policy objectives of the major players. In the
+scientific community, the dissemination of results of research and
+education in science and technology are highly desirable. The problem is
+that the pressures on scientists to publish in peer reviewed publications,
+to obtain funding for research, and to be on panels of the most
+prestigious organizations, does not provide many inducements to involve
+Keynote Address: Out of Obscurity                                        55
+
+
+
+
+people in developing countries. Nor are there many incentives to bridge
+the gap between Finland, at the top, and the LDCs at the bottom of
+performance in science testing or even enrollment in science classes.
+
+     Therefore, the principle of a human right to benefit from scientific
+progress is easy to accept; allocating the resources and directing
+programs toward massive science education and transfer of technology
+have failed miserably to alter the current disparities. Until and unless
+these obstacles are overcome, the words of the Universal Declaration
+that “[e] veryone has the right freely … to share in scientific advancement
+and its benefits” will remain hollow.
+

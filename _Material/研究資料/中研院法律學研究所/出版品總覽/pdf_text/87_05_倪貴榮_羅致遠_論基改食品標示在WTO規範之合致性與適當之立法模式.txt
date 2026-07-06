@@ -1,0 +1,1827 @@
+《2015 行政管制與行政爭訟》 李建良主編
+身心障礙行不行                                                  191
+臺北 中央研究院法律學研究所 專書 (22)
+民國 107 年 12 月，頁 191-238
+
+
+
+
+    論基改食品標示在WTO規範之合致性
+        與適當之立法模式＊
+
+                  倪貴榮＊＊、羅致遠＊＊＊
+
+
+                         摘 要
+  現今科學上雖然無法證明基因改造食品對人體之實害性，然基
+改食品標示在國際上始終具高度爭議。許多國家亦立法要求強制標
+示。我國業已制定類似規範，行政規則亦已施行。儘管這些措施並
+不直接限制進口，但仍引發是否違反貿易規則之疑慮；建立適當之
+基改食品標示法規仍應考慮與國際規範之合致性。在基改食品問題
+上，各國所應符合的國際貿易規範，主要為世界貿易組織（WTO）
+下的「食品安全檢驗與動植物防疫檢疫措施協定」（SPS協定）及
+「技術性貿易障礙協定」（TBT協定）。本文分析基改食品標示現況
+及其與WTO規範的合致性，並由此探討臺灣之新食安法規範是否
+為適當之立法策略，期對立法選擇及策略有所助益。
+
+關鍵詞：基改食品、標示、世界貿易組織、SPS協定、TBT協定、
+    食品安全衛生管理法。
+
+
+
+
+＊   投稿日：2017年5月3日；接受刊登日：2017年11月8日。［責任校對：林庭
+    伊］
+     。
+    作者感謝兩位匿名審查人寶貴的審查意見；對中央研究院法律學研究所提供
+    的編輯協助也致謝忱。
+＊＊ 國立交通大學科技法律學院教授。
+＊＊＊ 國立交通大學科技法律研究所碩士。
+    穩定網址：http://publication.iias.sinica.edu.tw/12504181.pdf。
+192                                                    2015 行政管制與行政爭訟
+
+
+
+                                    目 次
+
+    壹、前言                                    三、臺灣
+    貳、基改食品標示之概念與功能                         肆、基改食品標示之立法應有之
+     一、保障健康自由權及消費者                           國際貿易規範考量
+       知的權利                                 一、WTO/SPS及TBT協定對基
+     二、強制性與自願性標示                              改食品標示的適用
+    參、主要基改食品標示規範之立                          二、基改食品標示規範與SPS
+      法例                                      及TBT協定之合致性
+     一、美國                                  伍、代結論：臺灣基改食品標示
+     二、歐盟                                    之適當立法模式
+
+
+
+
+壹、前言
+
+      自1994年第一個基因改造食品（簡稱基改食品）為美國食品及
+藥物管理署（U.S. Food and Drug Administration，簡稱FDA）核准
+上市至今，已逾二十年1。隨著食物、農業及經濟需求的改變以及
+生化科技的進步，不斷有各種新型態及品種之基改食品被研發出
+來。如何對愈來愈多的基改食品加以規範，自為重要問題。要求基
+改食品標示（labeling requirement）為各國普遍使用的政策工具；
+然基改標示是否有其必要，以及如何規範此種標示始為適當，仍屬
+爭論性的議題。
+
+      建立適當之基改食品標示規範，應考量以下兩項因素：第一為
+國際因素。政府所制訂之規範須符合相關國際規範；在基改食品標
+
+
+1   Warren E. Leary, F.D.A. Approves Altered Tomato That Will Remain Fresh Longer,
+    N.Y. TIMES (May 19, 1994), https://www.nytimes.com/1994/05/19/us/fda-approves-
+    altered-tomato-that-will-remain-fresh-longer.html.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                      193
+
+
+示問題上，各國所應符合的國際規範，主要為世界貿易組織
+（World Trade Organization，簡稱WTO）下的「食品安全檢驗與動
+          （Agreement on the Application of Sanitary
+植物防疫檢疫措施協定」
+and Phytosanitary Measures，簡稱SPS協定）及「技術性貿易障礙協
+ （Agreement on Technical Barriers to Trade，簡稱TBT協定）
+定」                                                。基
+改食品之標示，依其規範之目的，可能適用不同之協定，並須符合
+不同之要求2。第二為國內因素。政府須向人民負責，且基改食品
+標示之主要目的本為維護人民或消費者知的權利（right to know）。
+在制定基改標示規範時，除應顧及到宗教、道德倫理等因素外，亦
+應調查消費者到底重視何種資訊，或其做出購買決定時會有何種考
+慮 3 。舉例而言，如係消費者並不在意的資訊，卻規範地特別嚴
+格，並因此而增加業者成本或反而限制了消費者的選擇，則其即非
+適當規範4。本文之討論將著重於第一項因素，惟因國內因素對國
+際規範之適用亦有重要性（例如國內消費者態度，對標示必要性的
+認定可能產生影響）
+        ，故本文亦將對相關的國內因素附帶探討。
+
+    臺灣目前的基改食品標示規範，部分係參照歐盟的規定；而歐
+盟有關基改食品之相關規範非常嚴格。本文將透過標示規範與國際
+貿易規範之關係，評論引進此高度規範於我國的適合性，並分析我
+國基改食品標示現況。
+
+    本文第貳部分將說明標示之概念與功能；第參部分則將分別討
+論美國、歐盟及臺灣之基改食品標示規範現況及立法例；第肆部分
+
+2 除了國際規則外，亦須考量與他國之貿易關係及簽訂之雙邊協定等；惟此非本
+  文重點。
+3 各國人民可能因其背景的不同，而對基改食品的議題看法不一；此便是為何設
+  立一個統一的國際標準並不可取之原因。各國政府應考量自己國內因素，去訂
+  定適合自己國家之規範。
+4 除了消費者態度，應考量者可能亦包括產業之情形等其它國內因素；惟此並非
+  本文重點。已通過風險評估之基改食品，應可推定已無對人體造成危險之風
+  險。故關於基改食品之安全問題，則係屬風險評估階段處理之事，而非基改標
+  示應考量之因素。
+194                                                        2015 行政管制與行政爭訟
+
+
+
+將藉由國際規範及消費者態度兩個因素，分析該標示規定與WTO
+相關協定之合致性；第伍部分為結論與適當立法之建議。
+
+
+
+貳、基改食品標示之概念與功能
+
+一、保障健康自由權及消費者知的權利
+      食品標示主要功能無非為提供資訊，而提供資訊之目的可有多
+種；在基改食品標示方面，最常被引用的兩種目的即為保障健康或
+健康自由權及維護消費者知的權利，以下就此分別進一步論述。
+
+      健康自由權適用在基改標示上確實存有爭議，因基改食品對人
+體是否具有健康風險的問題，科學界迄今並未達成共識。反對基改
+食品者認為其可能造成遺傳漂變（genetic drift）、產生新的過敏原
+或其對人體可能有長遠的影響等5。反對者之疑慮可以理解，然而
+經核准在市場上流通的基改食品當中，並無任何實例或證據指向基
+改食品對人體有害6。惟無證據足以證明基改食品有風險，並不代
+表其為零風險；故仍有民眾對基改食品抱有疑慮，而寧願避免基改
+食品7。基改標示讓消費者得依其對個人對健康風險的接受程度，
+
+
+5  Valery Federici, Genetically Modified Food and Informed Consumer Choice:
+   Comparing U.S. and E.U. Labeling Laws, 35 BROOK. J. INT’L L. 515, 516 (2010).
+6 Statement by the AAAS Board of Directors on Labeling of Genetically Modified Foods,
+   AM. ASS’N FOR THE ADVANCEMENT OF SCI. (Oct. 20, 2012), http://www.aaas.org/sites/
+   default/files/AAAS_GM_statement.pdf; NATIONAL ACADEMY OF SCIENCES, SAFETY
+   OF GENETICALLY ENGINEERED FOODS: APPROACHES TO ASSESSING UNINTENDED
+   HEALTH EFFECTS 180 (2004); EUROPEAN COMMISSION, A DECADE OF EU-FUNDED
+   GMO RESEARCH (2001-2010) 16 (2010); Frequently Asked Questions on Genetically
+   Modified Foods, WORLD HEALTH ORG., http://www.who.int/foodsafety/areas_work/
+   food-technology/faq-geneically-modified-food/en/ (last visited Sept. 21, 2015); Suzie
+   Key, Julian K-C Ma & Pascal MW Drake, Genetically Modified Plants and Human
+   Health, 101 J. R. SOC. MED. 290, 292 (2008).
+7 See Chantal Pohl Nielsen & Kym Anderson, Genetically Modified Foods, Trade, and
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                         195
+
+
+選擇是否食用基改食品。
+
+      維護消費者知的權利係近年來許多學者或消費者組織主張應採
+基改標示之理由8。消費者知的權利之核心內容，即為使消費者獲
+得資訊，並為知情選擇提供前提；消費者知道自己所欲購買之食品
+的相關資訊後，始可依其宗教信仰、健康因素、經濟條件及其他考
+量，選擇是否食用該食品9。食品之資訊，常存在資訊不對稱之問
+題，因消費者較為弱勢，可能無法準確辨識品質、功能、製程及內
+容10，而這使得業者容易利用此弱勢，從事欺詐。如此，除可能造
+成健康問題外，亦將降低消費者信心，並影響該市場及經濟，損害
+公共利益11。因此，法律規範除必須確保必要之資訊揭露，亦須避
+免資訊誤導消費者。
+
+      惟消費者知的權利在各地區之法律地位及於食品標示上的適用
+並不相同，以下以歐盟及美國為例。在歐盟，消費者權利具憲法性
+
+
+
+   Developing Countries: Is Golden Rice Special?, AGBIOWORLD, http://www.agbioworld.
+   org/biotech-info/topics/goldenrice/specialgoldrice.html (last visited Sept. 21, 2015).
+   另參孫智麗，消費者對於基改食品認知與態度之跨國比較，農業生技產業季
+   刊，36期，頁29（2013年）；牛惠之、劉亮亨、楊一晴，WTO「歐體生技產品
+   案」關於SPS協定之爭議與初步評析，貿易政策論叢，2期，頁124-126（2004
+   年）  。
+8 Lawrence O. Gostin, Genetically Modified Food Labeling: A “Right to Know”?, THE
+   JAMA NETWORK (Dec. 13, 2016), http://jamanetwork.com/journals/jama/fullarticle/
+   2592487; Frederick H. Degnan, The Food Label and the Right-to-Know, 52 FOOD &
+   DRUG L.J. 49, 55 (1997).
+9 See Steve Keane, Can a Consumer’s Right to Know Survive the WTO?: The Case of
+   Food Labeling, 16 TRANSNAT’L L. & CONTEMP. PROBS. 291, 302 (2006). 由此可
+   見，保障消費者知的權利於某種程度上亦可能幫助消費者其他各種權益（如健
+   康自由權、受教育權等等）得以實現。
+10 洪德欽，歐盟食品安全制度對臺灣食安改革的啟示，臺大法學論叢，44卷特
+   刊，頁1214（2015年）          （以下簡稱：洪德欽，歐盟食品安全）                          ；洪德欽，消費者
+   權利在歐盟基改食品標示之規定與實踐，歐美研究，38卷4期，頁542（2008
+   年）  （以下簡稱：洪德欽，消費者權利）                       。
+11 洪德欽，歐盟食品安全（註10）                     ，頁1212；洪德欽，消費者權利（註10），頁
+   545。
+196                                                       2015 行政管制與行政爭訟
+
+
+
+地位，其中即包括消費者知的權利12。在食品方面，178/2002規則
+所規定的食品法目的包含確保消費者獲得足夠資訊、防範詐欺、摻
+假及誤導性行為13。再者，1169/2011規則規範了消費者食品資訊，
+其前言第三段表示：「為了達到對消費者有高標準的健康保護，並
+保障其資訊權，應確保消費者對其購買之食物，獲得適當資訊」14。
+而標示顯然被視為保障資訊權之重要方法之一15 。於1829/2003及
+1830/2003基改標示規則之前言中，同樣有明確表示其規範目的之
+一為保護消費者利益，並讓消費者獲得充分資訊16。
+
+      在美國，消費者知的權利具有相當的法律基礎17，惟並不具憲
+
+
+12 1975年「消費者保護與資訊政策前置方案」所建立之消費者政策即已將獲得資
+   訊權列為消費者基本權利之一，而1986年之單一歐洲法積極推動消費者政策，
+   並於1992年歐洲聯盟條約正式明確消費者權利之憲法地位。此後，1997年阿姆
+   斯特丹條約及2001年尼斯條約相續鞏固消費者之地位及其獲得適當資訊之權
+   利。洪德欽，消費者權利（註10）                      ，頁512-522。
+13 洪德欽，歐盟食品安全（註10）                     ，頁1215；Regulation (EC) No 178/2002 of the
+   European Parliament and of the Council of 28 January 2002 laying down the general
+   principles and requirements of food law, establishing the European Food Safety
+   Authority and laying down procedures in matters of food safety, Regulation 178/2002,
+   2002 O.J. (L 31) 1.
+14 英文原文為：“In order to achieve a high level of health protection for consumers
+   and to guarantee their right to information, it should be ensured that consumers are
+   appropriately informed as regards the food they consume.” Regulation 1169/2011,
+   2011 O.J. (L 304) 18.
+15 Id. at 19 (“nutrition labelling is one important method of informing consumers about
+   the composition of foods and of helping them to make an informed choice”).
+16 Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22
+   September 2003 on genetically modified food and feed (Text with EEA relevance),
+   Regulation 1829/2003, 2003 O.J. (L 268) 1 [hereinafter Regulation 1829/2003];
+   Regulation (EC) No 1830/2003 of the European Parliament and of the Council of 22
+   September 2003 concerning the traceability and labelling of genetically modified
+   organisms and the traceability of food and feed products produced from genetically
+   modified organisms and amending Directive 2001/18/EC, Regulation 1830/2003,
+   2003 O.J. (L 268) 24 [hereinafter Regulation 1830/2003].
+17 消費者知的權利之概念，在美國始於1962年甘乃迪總統給國會的「關於保護消
+   費 者 利 益 之 特 別 信 息 」（ “A Special Message on Protecting the Consumer
+   Interest”）。該信息中提到四項權利：安全權、獲得資訊權、選擇權及發表意見
+   權。自此，知的權利在許多法規中被納入，惟在食品標示方面，消費者知的權
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                   197
+
+
+法性地位18。相反的，以保護消費者知的權利為由規範標示，受限
+於美國憲法第一增修條文之言論自由及禁止建立國教條款19。而消
+費者知的權利適用到食品標示上亦受限制。1938年的「聯邦食品、
+       （Federal Food, Drug, and Cosmetic Act）規定，食
+藥品及化妝品法」
+品標示須提供該條所列之必要資訊（主要涵蓋食品本身性質及涉及
+健康之資訊），並不得有虛假或誤導消費者20 。若FDA認為，根據
+業者對自己產品的主張，若其不提供某些「重要」資訊，將可能誤
+導消費者，則FDA可要求其在標示上提供此種資訊21。惟FDA及法
+院對「重要」資訊之適用非常限縮，認為不應單純以消費者知的權
+利為由，即強制業者在標示上提供資訊，因一方面有憲法第一增修
+條文之限制，而另一方面，若提供太多資訊，則原本真正重要之資
+訊將被消費者忽略22。故仍有許多資訊係採自願性標示，食品之基
+改資訊即為如此。
+
+     標示之目的屬保護健康自由或消費者知的權利除可能影響規範
+之設計（嚴格程度）外，更可能決定規範係適用WTO下的SPS或
+TBT協定。因該兩個協定對標示規範之要求不同，故系爭規範是否
+
+
+   利仍被認為尚不足以單獨作為支持強制標示之理由。Keane, supra note 9, at 301-
+   02.
+18 Josh Glasgow, Genetically Modified Organisms, Religiously Motivated Concerns:
+   The Role of the “Right to Know” in the GM Food Labeling Debate, 20 DRAKE J.
+   AGRIC. L. 115, 131 (2015).
+19 美國憲法第一增修條文（U.S. CONST. amend. I）規定：                       「國會不得制定有關下列
+   事項的法律：確立一種宗教或禁止信教自由：剝奪言論自由或出版自由：或剝
+   奪人民和平集會及向政府要求伸冤的權利。」；權利法案，美國在台協會網
+   站 ， https://web-archive-2017.ait.org.tw/zh/the-bill-of-rights.html （ 最 後 瀏覽 日 ：
+   2017年11月1日）。法律規範標示時，涉及言論自由（商業性言論），需通過四
+   個要件（即最高法院所設的Central Hudson test）                    ： （1）該言論為虛假、具誤導
+   性或違法；（2）政府追求之利益為具實質性；（3）規範得直接增進該利益；
+  （4）規範未逾越必要程度。若規定基改標示之目的為保護特定宗教信仰，則可
+   能涉及建立條款。Glasgow, supra note 18, at 128-31.
+20 21 U.S.C. § 343 (2006); Degnan, supra note 8, at 50-53.
+21 21 U.S.C. § 321(n) (2006); Degnan, supra note 8, at 50-53.
+22 Degnan, supra note 8, at 60; Glasgow, supra note 18, at 132.
+198                                                      2015 行政管制與行政爭訟
+
+
+
+與WTO規則合致，其目的為重要決定因素。此問題將在第肆部分
+進一步討論。
+
+二、強制性與自願性標示
+      基改食品標示現已成為國際上基改規範的主要潮流23，而其可
+分為強制性及自願性標示，兩者各有利弊24。支持強制標示者，主
+張其除有助於強化食品安全管理，並協助管理單位對基改食品的流
+向長期監控之外，亦能維護「消費者知的權利」，使消費者得進行
+知情選擇25。尤其因基改食品涉及宗教信仰及倫理問題26，故確保
+該資訊揭露顯得特別重要。惟強制標示並非沒有缺點。基改食品業
+者擔心，強制標示給人民的錯誤印象；因為基改標示為一種具警告
+性質之負面標示，使民眾誤以為基改食品比非基改食品危險27。在
+這種情況下，許多公司可能會選擇不再使用基改原料28。因此，強
+制標示的要求，可能非但未能達到給消費者選擇權，反而係限制了
+
+
+
+23 See Hudson B. Kingston, 64 Countries Around the World Label GE Food, PCC
+   COMMUNITY MARKETS (May, 2013), http://www.pccnaturalmarkets.com/sc/1305/
+   countries_label_ge.html; Tom Mckay, 64 Countries That Have GMO Labeling Laws,
+   GENETIC LITERACY PROJECT (May 14, 2014), http://www.geneticliteracyproject.org/
+   2014/05/14/64-countries-that-have-gmo-labeling-laws/.
+24 強制性標示又可分為強制基改食品標示及強制非基改食品標示，Julie A.
+   Caswell, Labeling Policy for GMOs: To Each His Own?, 3 J. AGROBIOTECHNOLOGY
+   MGMT. & ECON. 53, 55 (2000)。惟本文探討的主要係強制基改食品標示。
+25 Id. at 56; 另參牛惠之、勝沛倫、高千雅，WTO時代基因改造食品標示規範之研
+   究，行政院衛生署95年度科技研究計劃，頁36（2006年）                               ；林彩瑜，論WTO架
+   構下基因改良食品標示之貿易法問題，收於：楊光華編，臺灣在WTO規範下之
+   經貿新頁，頁127（2001年）              。
+26 在美國，調查顯示大約1/3人認為其對基改食品之看法，受倫理或宗教信仰影
+   響。Glasglow, supra note 18, at 123.
+27 Jagadeesan Premanandh, Global Consensus — Need of the Hour for Genetically
+   Modified Organisms (GMO) Labeling, 17 J. COM. BIOTECHNOLOGY 37, 39 (2011). 參
+   林彩瑜（註25）        ，頁129。
+28 Caswell, supra note 24, at 55-56; Colin A. Carter & Guillaume P. Gruere, Mandatory
+   Labeling of Genetically Modified Foods: Does It Really Provide Consumer Choice?,
+   6 J. AGROBIOTECHNOLOGY MGMT. & ECON. 68, 68 (2003).
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                     199
+
+
+消費者的選擇29。再者，強制標示對業者及消費者之經濟上影響頗
+大（業者須採取額外措施避免非基改食品摻雜基改原料，消費者亦
+因而將承擔部分成本）；故強制性的基改標示，可能對基改食品造
+成差別待遇，並因而使其與WTO主要原則相牴觸30。
+
+     自願性的基改標示雖不如強制標示帶給業者及消費者經濟上之
+負擔，惟其仍可能誤導消費者；在有些業者基於自願予以標示而另
+有些業者沒有採行基改標示的情況下，對規定不清楚之消費者可能
+會認為，沒有標示之食品均係非基改產品；惟在自願性標示制度
+下，沒有標示之產品亦可能為基改食品31。
+
+     立法者在決定應採自願性標示或強制性表示時，應考慮之因素
+繁多。例如，強制標示帶來的利益是否超過其可能造成之成本32。
+若僅一小部分消費者對產品之基改資訊有興趣，則或許強制標示帶
+來的利益將少於其造成之成本33。反之，若大多數消費者希望知道
+此訊息，則其帶來的利益則超過其造成之成本34。又例如，強制標
+示較常被質疑構成貿易障礙，且對進口食品有較大影響，故可能須
+花時間與他國談判或甚至進行爭端解決程序；此時立法者即須考慮
+此成本是否值得。
+
+     在決定採自願標示或強制標示後，立法者則須考慮標示訊息詳
+
+
+29 GARY E. MERCHANT ET AL. EDS., THWARTING CONSUMER CHOICE: THE CASE AGAINST
+   MANDATORY LABELING FOR GENETICALLY MODIFIED FOODS 32 (2010). See also
+   Carter & Gruere, supra note 28, at 70.
+30 余祁暐、孫智麗，基改食品標示制度對經濟及產業之影響評估，農業生技產業
+   期刊，40期，頁66-69（2014年）               ；牛惠之、勝沛倫、高千雅（註25）                  ，頁36。
+31 Jeff Gelski, Bill Includes Process for National Non-G.M.O Labeling, FOOD BUSINESS
+   NEWS (Mar. 26, 2015), http://www.foodbusinessnews.net/articles/news_home/Regu
+   latory_News/2015/03/Bill_includes_process_for_nati.aspx?ID=%7BA91E1D69-4141-
+   4F36-9CD9-BE71772594F8%7D&cck=1.
+32 Caswell, supra note 24, at 56.
+33 Id.
+34 Id.
+200                                                         2015 行政管制與行政爭訟
+
+
+
+細的程度，是否均為消費者需要知道的資訊35、該資訊應如何呈現
+以及是否會造成誤解等因素（若係採強制標示，則須決定摻雜率標
+準該設多低）。當然，標示之詳細程度亦會影響其規範與國際貿易
+規範之合致性。
+
+
+
+參、主要基改食品標示規範之立法例
+
+一、美國
+      美國為基因改造食品的生產大國，由於FDA認為大部分基改食
+品與非基改食品實質等同36，故其並未對基改食品特別設置強制性
+標示或追蹤追溯規範；僅設立一些自願性標示指引37。民間團體曾
+為美國FDA之自願性標示政策的適當性，在聯邦法院發動訴訟程序
+予以質疑。在美國聯邦法院Alliance for Bio-Integrity v. Shalala一案
+中，許多科學家、廚師、社會運動參與者及宗教領導人等，提出基
+改作物可能對人體健康及環境帶來危險，或在不知情之情形下食用
+基改食品屬侵犯個人宗教信仰等疑慮，進而主張應讓消費者有知的
+權利。惟美國地方法院認為，消費者知的權利不得為規範食品標示
+之唯一理由。僅在基改食品顯示與相對之非基改食品有實質上不同
+
+
+35 Id.
+36 Guidance for Industry: Voluntary Labeling Indicating Whether Foods Have or Have Not
+   Been Developed Using Bioengineering, U.S. FOOD & DRUG ADMINISTRATION (FDA)
+   (last updated Jan. 23, 2018), https://www.fda.gov/Food/GuidanceRegulation/Guidan
+   ceDocumentsRegulatoryInformation/LabelingNutrition/ucm059098.htm [hereinafter
+   FDA, Guidance for Industry]; U.S. Regulation of Genetically Modified Crops, FED’N
+   OF AM. SCIENTISTS, http://fas.org/biosecurity/education/dualuse-agriculture/2.-agricul
+   tural-biotechnology/us-regulation-of-genetically-engineered-crops.html (last visited
+   Sept. 22, 2015).
+37 包 括 FDA, Guidance for Industry, supra note 36 及 U.S. Food & Drug
+   Administration (FDA), Statement of Policy: Foods Derived from New Plant Varieties
+   57 Fed. Reg. 22,984 (May 29, 1992) [hereinafter FDA, Statement of Policy].
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                         201
+
+
+時，始得考量消費者知的權利，而FDA已認定兩者為實質等同38。
+
+      雖美國聯邦法並未規範基因改造食品，然許多州卻已逐漸開始
+推基改食品標示法案。目前美國已有將近二十州在州議會提出基改
+強制標示之法案39 。已通過基改「強制標示」法案的州包括緬因
+州、康乃狄克州和佛蒙特州。這三州通過的強制基改食品標示規範
+基本上大同小異，且均未開始實施（康乃狄克州與緬因州均有設一
+日出條款，而佛蒙特州則係從2016年7月開始實施）40 。惟各州之
+
+
+38 Alliance for Bio-Integrity v. Shalala, 116 F.2d 166, 170, 178-79 (D.C. Cir. 2000); Li
+   Du, GMO Labelling and the Consumer’s Right to Know: A Comparative Review of
+   the Legal Bases for the Consumer’s Right to Genetically Modified Food Labelling, 8
+   MCGILL J. L. & HEALTH 1, 12-13 (2014).
+39 State Labeling Legislation Map, CENTER FOR FOOD SAFETY, http://salsa3.salsalabs.com/
+   o/1881/p/salsa/web/common/public/content?content_item_KEY=13981 (last visited
+   Sept. 22, 2015).
+40 康乃狄克州是美國第一個通過基改食品強制標示法律的州。該法律規定除了僅
+   用基改加工助劑及基改酶生產之加工食品外，所有基改之人類食品或用以生產
+   人類食品之種子及苗種，不論是全部、部分或是僅材料含基改成分，均須有基
+   改標示。惟食品不包括含酒精之飲料、非為零售而包裝並且將即時食用之加工
+   食品、非為零售而包裝並且將在餐廳或類似場所賣出的即時食用之食品及供食
+   用或被注入基改飼料之非基改牲畜；亦不包括在路邊攤、「自摘農產」                                           、農場裡
+   的 商 店 、 或 農 貿 市 場 裡 所 賣 的 農 產 品 。 An Act Concerning Genetically-
+   Engineered Food, CONN. GEN. STAT. § 6527 (2013).
+   緬因州之基改食品標示規範規定業者標示任何零售之基改食品或苗種，並且禁
+   止業者標示基改食品或苗種為天然產品，惟以下情形不在此限：生產該產品之
+   業者不知其產品或其材料為基改產品、被餵食基改飼料之非基改牲畜、餐廳、
+   含酒精之飲料及醫療用食品。再者，於2019年7月1日前，包裝過之加工食品如
+   基改成分低於其總重量之0.9%，則無需標示。An Act to Protect Maine Food
+   Consumers’ Right to Know About Genetically Engineered Food and Seed Stock,
+   2013 Me. Laws 718 [hereinafter Maine Labeling Act].
+   佛蒙特州之基改食品標示法律釋明其立法目的為公共健康與食品安全、讓關心
+   環境之消費者知道購買之食品是否為基改產品、保護消費者不被混淆或受騙及
+   保護宗教信仰。該法律規定任何在佛蒙特州零售之基改食品，無論是全部或部
+   分為基改，均須標示為基改食品，且不得標示為天然食品。但以下情形不在此
+   限：被餵食或注射基改飼料之非基改牲畜、生產該產品之業者不知或非故意用
+   含基改成分之食品或種子、僅用基改加工助劑及基改酶生產的加工食品、基改
+   成分低於其總重量之0.9%之加工食品、非為零售而包裝並且將即時食用之加工
+   食品、非為零售而包裝並且將在餐廳或類似場所賣出的即時食用之食品、經獨
+   立組織驗證為非故意或有意識之情況下與基改種子或食品混同之食品、含酒精
+202                                                 2015 行政管制與行政爭訟
+
+
+
+立法目的不一，如緬因州之立法目的為保護消費者知的權利，而佛
+蒙特州之立法目的則係維護食品安全41。
+
+      該三州之基改食品標示規範相較於歐盟之基改食品標示規範，
+雖仍較為寬鬆，惟其與美國FDA所採之自願性標示已有天壤之別。
+然而，美國眾議院於2015年7月通過「安全與準確食品標示法」
+（Safe and Accurate Food Labeling Act of 2015）
+                                            ，以修正原「聯邦食
+品、藥品和化妝品法」關於基改食品之部分42。
+
+      「安全與準確食品標示法」規定基改食品（或將用於食品之基
+改生物）之研發者，於產品上市前須先通報FDA；該通報須含研發
+者認定該基改食品與其相對應之非基改食品同樣安全。若FDA未提
+出異議，則該食品將可上市；若FDA認定該基改食品與其相對應之
+非基改食品有著實質、用途、營養值、特性、過敏原上之差異，並
+且須標示始足以保護公共健康及安全，或始可避免錯誤或誤導性資
+訊，則FDA得要求其標示讓消費者得知該差異 43 。而依該法案第
+291C(a)條規定，標示不得暗示或明示基改食品較非基改食品為安
+全，或呈現任何其它錯誤或容易誤導之資訊；並須符合同條(b)之要
+件44 。又依第291C(b)條規定，欲標示之業者應提交基改食品計畫
+（genetically engineered food plan）至認證單位；該計畫應包含確保
+業者符合該條規定之程序的描述、會留下的監測紀錄之描述及假如
+偏離計畫所會採取之糾正性措施 45 。再者，FDA應允許（但非強
+制）業者自行決定是否為基改食品之標示46。
+
+   成分之飲料及醫療用食品。An Act Relating to The Labeling of Food Produced
+   with Genetic Engineering, 2014 Vt. Acts & Resolves 120 [hereinafter Vermont
+   Labeling Act].
+41 Maine Labeling Act, § 2591; Vermont Labeling Act, § 1.
+42 Safe and Accurate Food Labeling Act of 2015, H.R. 1599, 114th Cong.
+43 Id. § 424.
+44 Id. § 291C.
+45 Id.
+46 Id.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                   203
+
+
+     此法案與原先FDA之基改食品標示制度並無多大之差別，基本
+上仍係採用自願性標示。不同之處在於，新法案規定強制業者須於
+上市前通報，而FDA若認為系爭基改食品與相對之非基改食品有物
+質上之不同，則得要求業者標示該不同之部分。惟根據FDA於1992
+年出版之政策聲明（Statement of Policy: Foods Derived from New
+Plant Varieties），若基改食品有與其相對應之非基改食品有顯著不
+同，該產品名稱或標示本來便須讓消費者知道（或更改為能正確描
+述產品之名稱）47 ；故新安全與準確標示法案，似無有意義之改
+善，仍屬寬鬆之標示規範。惟該法仍停留在由眾議院通過的階段，
+未送入參議院審議。
+
+     近年美國各州風起雲湧的基改食品強制標示運動也促使國會兩
+院必須認真思考建立全國一致性的標示規範。食品業者強調基改食
+品安全無虞，聯邦法律仍應以自願性標示為準；相對的，為回應各
+州及消費者訴求，設立更為強制性的標示，似乎難以阻擋。在兩黨
+妥協下，2016年7月由民主黨參議員Debbie Stabenow和共和黨參議
+員Pat Roberts領銜修改的1946年農業行銷法48，終於由參眾兩院通
+過，正式要求農業部建立全國性基改食品揭露標準49；一般也通稱
+為「國家生物工程食品揭露法」（The National Bioengineered Food
+Disclosure Law）50。該法既已規定揭露規範，將取代「安全與準確
+食品標示法」
+     。
+
+     首先，該聯邦法律確立基改食品業者強制揭露義務；然而卻與
+傳統強制標示的要求有別，嚴謹性獲得舒緩；主要包括：
+
+
+47 FDA, Statement of Policy, supra note 37（該聲明VI. Labeling有關於 § 201(n)的部
+   分）.
+48 An Amendment to the Agricultural Marketing Act of 1946, 114 Cong. (7 U.S.C. §
+   1621 et seq.).
+49 Id. Subtitle E—National Bioengineered Food Disclosure Standard, sec. 293(a)(1).
+50 參見美國農業部官網，https://www.ams.usda.gov/rules-regulations/gmo（最後瀏
+   覽日：2017年11月1日）
+                。
+204                                                         2015 行政管制與行政爭訟
+
+
+
+      第一，用語及內容更具彈性：未使用慣用的「標示」用語，而
+使用「揭露」一詞，換言之，基改資訊的公布不限於一般所認知的
+標示一途，生產者可選擇使用文字、符號，或電子或數位連結如
+QR Code等方式51；第二，限縮揭露的範圍：依其文義，限含基改
+原料的食品52；對於使用基改原料的食品，在經過高層次加工後，
+因已不含基因片段，對照下文歐盟法規，依文義的嚴格解釋，即無
+需揭露；第三，限縮揭露主體範圍：以基改食品生產者為主，而餐
+廳和零售業，以及非常小型的食品製造者被排除在揭露之義務人之
+外53。由於該法律已是全國性的標準，則其將排除各州自行規定之
+基改「強制標示」54；而2016年佛蒙特州通過之強制基改食品標示
+規範亦將無法實施。
+
+二、歐盟
+      歐盟之基改標示規範以嚴謹出名，其於1997年即於97/35/EC指
+令規定最終產品之基改成分達1%之食品須標示55，而此指令於2003
+年被更嚴格的1829/2003及1830/2003規則所取代56。依1829/2003規
+
+
+
+51 Supra note 48, sec. 293 (b)(2)(D). 許多民主黨人認為提供業者寬鬆的選擇，將減
+   損保護消費者知之權利，因為並非每人都配有智慧型手機。Lydia Wheeler,
+   House passes GMO labeling bill (July 14, 2016), http://thehill.com/regulation/
+   legislation/287743-house-passes-gmo-labeling-bill.
+52 Supra note 48, Subtitle E—National Bioengineered Food Disclosure Standard, secs.
+   291(1)(A), 293(a)(1).
+53 Id. sec. 293(b)(2)(G).
+54 Id. sec. 293(e) State Food Labeling Standards, which reads: Not withstanding section
+   295, no State or political subdivision of a State may directly or indirectly establish
+   under any authority or continue in effect as to any food in interstate commerce any
+   requirement relating to the labeling or dis-closure of whether a food is bioengineered
+   or was developed or produced using bioengineering for a food that is the subject of
+   the national bioengineered food disclosure standard under this section that is not
+   identical to the mandatory disclosure requirement under that standard.
+55 Commission Directive 97/35/EC, 1997 O.J. (L 169) 72; MERCHANT ET AL., supra note
+   29, at 15-16.
+56 Regulation 1829/2003 and Regulation 1830/2003.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                           205
+
+
+則第12條第1項規定，其標示規定適用於提供給最終消費者或餐飲
+服務商之食品，並包括含有基改成分之食品及從基改生物或有基改
+成分之材料生產出之食品57；亦即，即使最終產品已無基改片段，
+若食品係從基改材料製成出來，則仍須標示58。
+
+      第12條第2項則規定，僅在最終產品基改成分低於0.9%，且該
+成分為非故意摻雜或技術上不可避免（“adventitious or technically
+unavoidable”；以下稱「非故意摻雜率」），始例外不適用標示規
+範。故若係故意讓產品含基改成分，則無論產品基改成分多低，均
+須標示59。同條第三項規定，對於非故意及不可避免之舉證責任由
+業者承擔60。
+
+      關於標示之要求，1829/2003規則第13條規定，最終之基改產
+品須於成分列表（或其註腳）中，標示「基因改造」
+                      、「由基改（成
+分名稱）製成」、「含基改（作物名稱）」或「含由基改（作物名
+稱）製成之（成分名稱）」61 等字樣（若無成分列表，則應清楚標
+示「基因改造」或「由基改（作物名稱）製成」等字樣於產品上；
+
+
+57 Regulation 1829/2003, art. 12. 前言第16段亦表示，本規則適用於「從」基改生
+   物生產出之食品及飼料，惟不適用於僅係在生產過程中有運用基改生物幫助生
+   產之情形。故亦不適用於在生產過程中使用含基改之加工助劑（如基改酶）之
+   食品及餵食基改飼料之牲畜所產出之食品。英文原文為：“This Regulation
+   should cover food and feed produced ‘from’ a GMO but not food and feed ‘with’ a
+   GMO. The determining criterion is whether or not material derived from the
+   genetically modified source material is present in the food or in the feed. Processing
+   aids which are only used during the food or feed production process are not covered
+   by the definition of food or feed and, therefore, are not included in the scope of this
+   Regulation. Nor are food and feed which are manufactured with the help of a
+   genetically modified processing aid included in the scope of this Regulation.” Id.
+   preamble para. 16.
+58 MERCHANT ET AL., supra note 29, at 16.
+59 Regulation 1829/2003, art. 12.
+60 Id.
+61 英文原文為：the words ‘contains genetically modified (name of organism)’ or
+   ‘contains (name of ingredient) produced from genetically modified (name of
+   organism)’ shall appear in the list of ingredients, id. art. 13(1)(b).
+206                         2015 行政管制與行政爭訟
+
+
+
+字體大小應與成分列表之字體大小相同）。若基改食品與其相對應
+之傳統食品於構造、營養值、用途或對特定群體之健康影響有所不
+同，或該基改食品可能造成倫理及宗教信仰方面之疑慮者，應於食
+品上表明。若該基改食品不存在相對應之傳統食品，則應提供其性
+質及特徵於食品上62。
+
+      另依1830/2003規則第4條第6項規定，於每一個生產階段，預
+先包裝好之含基改作物之產品均應標示「此產品含基因改造」或
+「此產品含基改（作物名稱）」；未預先包裝好之含基改作物之產品
+則亦應附上相同字樣於旁63。
+
+三、臺灣
+      我國關於基改食品強制標示規範列於「食品安全衛生管理法」
+第22條、第24條及第25條等規定64。而衛生福利部食品藥物管理署
+（簡稱食藥署）依該3條規定所訂定之規則分別為「包裝食品含基因
+改造食品原料標示應遵行事項」
+             、「食品添加物含基因改造食品原料
+標示應遵行事項」及「散裝食品含基因改造食品原料標示應遵行事
+項」
+ 。
+
+      我國基改食品標示之規範目的，除食品安全衛生管理法提及之
+
+
+
+62 Regulation 1829/2003, art. 13(2) & (3).
+63 Id. art. 4.
+64 食品安全衛生管理法第22條第1項第9款規定食品及食品原料之容器或外包裝應
+  標示含基因改造食品原料；第24條第1項第9款規定食品添加物及其原料之容器
+  或外包裝應標示「含基因改造食品添加物之原料」；第25條第1項及第2項規
+  定：「中央主管機關得對直接供應飲食之場所，就其供應之特定食品，要求以
+  中文標示原產地及其他應標示事項；對特定散裝食品販賣者，得就其販賣之地
+  點、方式予以限制，或要求以中文標示品名、原產地（國）、含基因改造食品
+  原料、製造日期或有效日期及其他應標示事項。國內通過農產品生產驗證者，
+  應標示可追溯之來源；有中央農業主管機關公告之生產系統者，應標示生產系
+  統。」、「前項特定食品品項、應標示事項、方法及範圍；與特定散裝食品品
+  項、限制方式及應標示事項，由中央主管機關公告之。」
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                              207
+
+
+管理衛生、安全、品質及維護國民健康外65，亦包括基改食品標示
+應遵行事項之修正理由所提及之為符合消費者期待及維護消費者知
+的權利66。現行規定之「非故意摻雜容許量」，與許多國家比較，
+僅比歐盟高，為3%。關於含基改原料之包裝食品及添加物，應標
+示「基因改造」或「含基因改造」。若產品係由基改生物或含基改
+成分之原料加工製成，即使最終產品已不含基因片段，應遵行事項
+規定仍須標示以下字樣之一：1.「基因改造」、「含基因改造」或
+「使用基因改造○○」
+         ；2.「本產品為基因改造○○加工製成，但已
+不再含基因改造成分」或「本產品加工原料中有基因改造○○，但
+已不再含有基因改造成分」；或3.「本產品不含基因改造成分，但
+為基因改造○○加工製成」或「本產品不含基因改造成分，但加工
+原料中有基因改造○○」。產品標示位置，須標示於品名、原料名
+稱或其他明顯位置67。
+
+     而關於含基改原料之散裝食品則應於販售之處，以卡片、標記
+或標示牌等型式，採懸掛、立牌、黏貼或其他足以明顯辨明之方式
+為之68。以上標示字樣大小不得小於2毫米；惟「基因改造」、「含
+基因改造」或「使用基因改造○○」等字樣應與其他文字明顯區
+別69。再者，針對業者須提供額外資訊之情形（例如，基改食品與
+其相對應之傳統食品於構造、營養值、用途或對特定群體之健康影
+響有所不同，或該基改食品可能造成倫理及宗教信仰方面之疑慮
+
+
+65 食品安全衛生管理法第1條規定：「為管理食品衛生安全及品質，維護國民健
+   康，特制定本法」
+          。
+66 包裝食品含基因改造食品原料標示應遵行事項修正說明；食品添加物含基因改
+   造食品原料標示應遵行事項修正說明；散裝食品含基因改造食品原料標示應遵
+   行事項修正說明（以下合稱應遵行事項之修正理由）                           。
+67 基因改造食品標示新制，預計7月1日上路!，衛生福利部食品藥物管理署網站，
+   http://www.fda.gov.tw/TC/newsContent.aspx?id=13552&chk=31515040-fe81-4e63-
+   a92e-b493f915051f#.VgLXRfm__sM（最後瀏覽日：2017年9月24日）（以下簡
+   稱：基因改造食品標示新制）               。
+68 散裝食品含基因改造食品原料標示應遵行事項。
+69 基因改造食品標示新制（註67）               。
+208                                          2015 行政管制與行政爭訟
+
+
+
+                  ，前述歐盟法有規定70，
+者，或基改食品不存在相對應之傳統食品）
+而我國法則未規定（臺灣、美國及歐盟基改規範之比較請參表1）
+                            。
+
+       表1 臺灣、美國及歐盟現行基改標示立法之比較
+             性質             明文規定之目的         適用範圍     例外不適用
+                                           最終食品含
+                           食品安全衛生管理        基改成分
+                           法：管理衛生、安     +    非故意摻雜
+臺灣        強制標示
+                           全、品質及維護國民 食品由基改生物 率3%以下
+                           健康        或含基改成分之
+                                      原料製成
+                           1829/2003：保護人類
+                           及動物健康、環境、
+                                               最終食品含
+                           消費者利益，並確保
+                                               基改成分
+                           內部市場的有效運作
+                                                 +    非故意摻雜
+歐盟        強制標示             1830/2003: 建 立 追 蹤
+                                              食品由基改生物 率0.9%以下
+                           機制以促進準確標
+                                              或含基改成分之
+                           示，確保消費者可行
+                                               原料製成
+                           使自由選擇；監測對
+                           環境及健康的影響
+        強制「揭露」
+                                           最終食品含
+美國      無須透過標示                   無                      無
+                                           基改成分
+          揭露
+資料來源：本文製表。
+
+
+
+
+肆、基改食品標示之立法應有之國際貿易規範考量
+
+      如前所述，在訂定基改食品標示規範時，應考量國際貿易規
+範，蓋因如果國內措施被質疑與國際貿易規範不合致而受他國控
+
+
+70 Regulation 1829/2003.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                   209
+
+
+告，則可能除了必須負擔大的訴訟成本及耗費資源外，最後仍須修
+改相關規範，以符合國際貿易規範。與基改食品標示相關之國際規
+範為WTO下之SPS及TBT協定。SPS協定規定關於食品安全及動植
+物健康標準之基本國際貿易規則 71 ，而TBT協定則為針對技術法
+規、標準及符合性評估程序所訂立之基本國際貿易規則。標示規範
+與該兩個協定之合致性分析可分為兩個層次：首先，須探討標示規
+範係適用SPS協定或是TBT協定；其次，再檢視標示規範是否符合
+各該協定之規定。
+
+一、WTO/SPS及TBT協定對基改食品標示的適用
+     SPS及TBT協定均規範非關稅貿易障礙，惟兩個協定的適用認
+定方法不同。TBT之適用認定係以措施性質為基準，即適用TBT協
+定之措施須符合TBT附件一所設之三項措施類型其中之一（技術規
+範、標準及合格評定程序）72。該附件一第一段已直接將標示列為
+技術法規，故標示規範通常應適用TBT協定73。SPS之適用認定則
+
+
+71 WORLD TRADE ORGANIZATION, https://www.wto.org/english/thewto_e/whatis_e/tif_e/
+   agrm4_e.htm (last visited Nov. 1, 2017).
+72 LUKASZ GRUSZCZYNSKI, REGULATING HEALTH AND ENVIRONMENTAL RISKS UNDER
+   WTO LAW: A CRITICAL ANALYSIS OF THE SPS AGREEMENT 63 (2010).
+73 TBT Annex 1.1定義技術規範為「規定產品特性或其相關製程及產製方法，包括
+  適用具強制性之管理規定之文件。該文件亦得包括或僅規定適用於產品、製程
+  或產製方法之專門術語、符號、包裝、標記或標示之規定。」技術性貿易障礙
+  協定，經濟部標準檢驗局臺中分局網站，http://www.bsmi.gov.tw/bsmiGIP/wSite/
+  fp?xItem=3533&ctNode=4193&mp=5 （ 最 後 瀏 覽 日 ： 2015 年 9 月 22 日 ）；
+  Agreement on Technical Barriers to Trade annex 1.1, Apr. 15, 1994, 1868 U.N.T.S.
+  120 [hereinafter TBT Agreement]。依WTO上訴機構於EC－Asbestos中之見解，
+  認定措施是否為技術規範有三個要件。第一，規範須針對可識別之產品或種類
+  （不須明確於規範中指出）              。第二，規範須制定至少一個產品之特徵（得為內在
+  或相關之特徵，並包括產品標示及包裝等）。第三，規範須具強制性，要求產
+  品符合第二個步驟所制定之特徵，若符合以上三個要件，則為技術規範。
+  Appellate Body Report, European Communities – Measures Affecting Asbestos and
+  Products Containing Asbestos, ¶¶ 66-70, WT/DS135/AB/R (Mar. 12, 2001)
+  [hereinafter Asbestos AB Report]。於US – Tuna II一案，上訴機構更指出，除了
+  強制標示外，自願標示之規定亦可能爲技術規範，因如該自願標示規定要求所
+210                                                       2015 行政管制與行政爭訟
+
+
+
+主要係以措施目的為準，即措施目的須為保護人類、動植物生命及
+健康，始為SPS措施74。據此，標示規範目的若為保護人類健康，
+則亦可適用SPS協定。
+
+      從以上論述可見，基改標示之目的包含保護人類健康時，將產
+生TBT及SPS協定中所各自訂定之措施定義的重疊問題。關於如何
+處理兩協定之措施定義的重疊，TBT協定第1.5條規定，若系爭措施
+之目的符合SPS協定附件A之定義，則不適用TBT協定75；亦即在分
+析基改標示適用問題時，首先應探討系爭規範目的是否符合SPS協
+定附件A之定義，若符合則優先認定為SPS措施並適用該協定，否
+則適用TBT協定。此處理方法看似簡單，惟其運用在事務上時並非
+如此。本節將先探討規範目的之認定方法，再分析措施目的重疊時
+之處理方式。
+
+      （一）SPS措施之定義及認定措施目的之方法
+      判斷基改標示措施是否適用SPS協定，須行兩段式之論證。第
+一，須視其措施之目的是否符合SPS 協定附件 A(1)第一段所設之
+四項定義之一，即是否屬「SPS目的」
+                 ；第二，須視該措施是否屬法
+律、命令、規定要件或程序等（行政命令屬之）76。第二段論證較
+簡單直接，且通常標示規範均可符合，故在此不做進一步敘述。
+
+      第一段之四項定義：「（a）保護會員境內動物或植物生命或健
+康，以防範因害蟲、疫病、帶病體或病原體的入侵、立足或傳播而
+
+
+   有欲標示之業者符合特定要件，則具強制性。Appellate Body Report, United
+   States – Measures Concerning the Importation, Marketing and Sale of Tuna and Tuna
+   Products, ¶¶ 183-199, WT/DS381/AB/R (May 16, 2012) [hereinafter Tuna II AB
+   Report].
+74 See GRUSZCZYNSKI, supra note 72.
+75 TBT Agreement, supra note 73, art. 1.5.
+76 Agreement on the Application of Sanitary and Phytosanitary Measures art. annex A(1),
+   Apr. 15, 1994, 1867 U.N.T.S. 493 [hereinafter SPS Agreement].
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                              211
+
+
+導致的風險；
+     （b）保護會員境內人類或動物生命或健康，以防範因
+食品、飲料或飼料中的添加物、污染物、毒素、或病原體而導致的
+風險；（c）保護會員境內人類生命或健康，以防範因動物、植物或
+動植物產品所攜帶的疾病或因疫病害蟲入侵、立足或傳播所導致的
+風險;；或（d）防範或限制在會員境內因疫病害蟲入侵、立足或傳
+播而造成的其它損害」77。認定基改措施目的是否符合此定義時，
+可能會遇到以下兩個問題：
+
+     第一個問題為基因改造生物是否屬於A(1)第一段中所列之風險
+類型之一。對此，學者有不同意見，因於傳統認知上，基因改造生
+物不屬害蟲、毒素或添加物。在SPS協定制定時，尚未設想到基改
+食品之問題，而修改SPS協定非常困難，故爭端解決小組較可能傾
+向用廣義解釋將基改生物涵蓋在定義範圍內。確實，在歐盟生技案
+(EC－Biotech)中爭端解決小組即採廣義解釋，認為在特定情形時，
+第一段之定義應可包含基因改造生物78。
+
+     第二個問題為如何認定系爭措施之目的。對此，SPS協定本身
+並無規定，早期案件亦未處理，直至EC－Biotech爭端解決小組始
+建立了一些概念79。該案中，爭端解決小組指出，SPS協定並未要
+求其必須按照會員國的主張去認定措施目的，若證據顯示會員國主
+張之目的不盡合理，則小組應自行客觀認定80。所謂客觀認定係指
+先視法律本身有無明確載明目的；明文規定之目的基本上被推定為
+真實，但若規定之措施與該目的無合理之聯繫，或法律有足夠證據
+
+77 行政院農業委員會動植物防疫檢疫局，食品安全檢驗與動植物防疫檢驗疫措施
+               ；SPS Agreement, supra note 76, at annex A(1)。
+   協定，頁43（2001年）
+78 此部分之更進一步分析及討論，詳見林彩瑜，從歐體生技產品爭端之裁決論
+   SPS協定對GMO規範之影響，臺大法學論叢，36卷4期，頁268-273、280-283
+  （2007年）    ；牛惠之、劉亮亨、楊一晴（註7）                ，頁125-129。
+79 Panel Report, European Communities – Measures Affecting the Approval and
+   Marketing of Biotech Products, ¶¶ 7.189-7.190, WT/DS291/R (Sept. 29, 2006)
+   [hereinafter Biotech Panel Report].
+80 Id.; GRUSZCZYNSKI, supra note 72, at 65.
+212                                                      2015 行政管制與行政爭訟
+
+
+
+顯示不同或額外的目的，則可推翻明文規定之目的81。如法律本身
+未明文規定目的，則應檢視條文文字、規範性質、法條結構及設計
+去認定目的82。
+
+      EC – Biotech中系爭措施為歐盟2001/18指令與258/97規則83。
+2001/18指令第一條規定其目的為保護人類健康及環境（雖然其於
+前言中亦稍為提到倫理、資訊等考慮84，但並未被列為目的），故
+爭端解決小組認為可初步認定指令落入SPS協定管轄範圍內。針對
+2001/18指令之標示規定，爭端解決小組分析了其與指令目的是否
+有合理聯繫。小組指出指令第20條規定，在許可某含基改成分之產
+品後，若發現該基改成分可能危機人類健康或環境，則該許可得被
+撤銷。小組認為於此情形標示規定可保護人類，因如意外發現市場
+上有基改產品有害於人類健康，「標示」可以讓使用者有所警戒，
+亦可在發生食安問題時讓使用者更快將基改成分的負面影響稟報業
+者及主管機關。再者，並無其他證據得以證明該標示規定非基於食
+品安全目的，故標示之規定與指令明文之目的有合理聯繫85。
+
+      258/97規則第3條規定，該規則所規範之食物不得使消費者招
+致危險、誤導消費者、於營養方面較欲取代之食物仍不足86。就此
+條規定，爭端解決小組認為，258/97規則總共存有三個立法目的：
+
+
+
+
+81 原告負推翻之舉證責任，惟爭端解決小組仍可自行認定措施與目的之間是否有
+   合理聯繫。See Biotech Panel Report, supra note 79, ¶¶ 7.385-7.386; GRUSZCZYNSKI,
+   supra note 72, at 65.
+82 See GRUSZCZYNSKI, supra note 72, at 66.
+83 本案亦涉及90/220指令，但其已被2001/18指令取代，且因兩個指令之目的雷
+   同，而2001/18指令之規定較為詳細，故爭端解決小組主要係以2001/18指令去
+   認定。Biotech Panel Report, supra note 79, ¶ 7.193.
+84 Daniel Schramm, The Race to Geneva: Resisting the Gravitational Pull of the WTO in
+   the GMO Labeling Controversy, 9 VT. J. ENVTL. L. 93, 114 (2007).
+85 Id. at 113-14; Biotech Panel Report, supra note 79, ¶ 7.391.
+86 Biotech Panel Report, supra note 79, ¶ 7.395.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                        213
+
+
+                       ，屬SPS目的87。
+    （1）第一個目的為保護消費者安全（健康）
+
+    （2）第二個目的為防止誤導消費者；爭端解決小組認為，因為
+第一個目的已為保護消費者安全，故可認定第二個目的所謂避免誤
+導消費者，不涵蓋避免誤導消費者以保護其安全。亦即，第二個目
+的純粹係確保消費者選擇權，非SPS目的88。
+
+    （3）第三個目的為避免新品種食品於營養方面劣於欲取代之食
+品。爭端解決小組依同樣推理方式，認為避免新食品之營養比欲取
+代食品之營養較不足以保護消費者安全，已被第一個目的涵蓋。亦
+即，第三個目的僅係避免營養不足，而其非屬SPS目的89。
+
+     綜上，該規則裡的措施係基於第一個目的所設者，應適用SPS
+協定，而基於第二個目的及第三個目的所設之措施，不適用SPS協
+定。認定哪一個措施係基於何種目的可按條文規定或按合理聯繫分
+析之。
+
+   （二）SPS與TBT協定之重疊：如何處理一個措施存有多數目的
+      之情形
+     如上述，一個法律可有多數目的，而該法律下的各個「措施」
+可被認定為基於不同目的而分別適用SPS及TBT協定（或其他協
+定）。惟當一個措施係同時基於保護人類健康及其他不同目的而設
+時，該如何處理，即生疑問。再者，該如何認定措施個數（即何謂
+「一個」措施）亦可能成為問題。
+
+     關於措施個數之認定，在WTO案件中並未提及，以下有幾種
+
+
+87 Biotech Panel Report, supra note 79, ¶ 7.407; Schramm, supra note 84, at 115; 林彩
+   瑜（註78）
+        ，頁274。
+88 Biotech Panel Report, supra note 79, ¶ 7.411; Schramm, supra note 84, at 115; 林彩
+   瑜（註78）
+        ，頁274。
+89 Biotech Panel Report, supra note 79, ¶ 7.412; Schramm, supra note 84, at 116.
+214                                                    2015 行政管制與行政爭訟
+
+
+
+方法可採。一種方法為將整個法律（或指令、規則等）視為一個措
+施，此方法在法律內容單一或可適用。另一種方法為將一個法律下
+的規範以性質區分。以2001/18指令為列，其中標示、核准程序、
+防衛措施等均可各視為一個措施。EC – Biotech爭端解決小組即採
+此種方法，直接將2001/18指令中核准程序、標示規範各當作為一
+個措施討論90。又一種方法為將以上依性質區分之措施再分成更細
+的「子措施」91。例如，核准程序之各環節或步驟可分為不同的子
+措施。該採何種方法主要應係按法律設計及當事國主張。
+
+      認定完措施個數後，若有措施係同時基於不同目的，亦有幾種
+可能的處理方式。若嚴格解釋TBT協定第1.5條規定，可得出應一律
+適用SPS協定之結論。有學者則指出，可視措施之主要目的而認定
+該適用哪一個協定92。惟爭端解決小組在EC – Biotech中認為，在此
+情形，該措施可被視為係兩個措施，亦即同時為SPS及非SPS措施
+（在該措施符合SPS措施定義之目的範圍內，該措施為SPS措施；而
+在該措施不符合SPS措施定義之目的範圍，其屬於TBT措施或其它
+協定之措施）93。爭端解決小組認為此解釋給予被控訴之會員國在
+不同協定下作防禦之機會；若一律將措施認定為SPS措施，則等於
+係迫使會員國必須為減少法律風險而訂立兩個相同內容但不同目的
+之法律，並不合理。據此，小組似暗示，當系爭措施有兩個目的
+
+
+90 See Biotech Panel Report, supra note 79, ¶¶ 7.147-7.416.
+91 See GRUSZCZYNSKI, supra note 72, at 67.
+92 GRUSZCZYNSKI, supra note 72, at 66.
+93 英文原文為：“to the extent the requirement in the consolidated law is applied for
+   one of the purposes enumerated in Annex A(1), it may be properly viewed as a
+   measure which falls to be assessed under the SPS Agreement; to the extent it is
+   applied for a purpose which is not covered by Annex A(1), it may be viewed as a
+   separate measure which falls to be assessed under a WTO agreement other than the
+   SPS Agreement.” Biotech Panel Report, supra note 79, ¶ 7.165；爭端解決小組認
+   為，此解釋符合TBT協定第1.5條規定，因為其把系爭措施分為二個相同內容但
+   不同目的之措施，而兩個措施中有SPS措施目的者，即適用SPS協定。Biotech
+   Panel Report, supra note 79, ¶ 7.169；牛惠之、劉亮亨、楊一晴（註7）                ，頁29。
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                215
+
+
+時，該措施可被視為係兩個措施，故在其中一個措施違反SPS協定
+時，另一個措施仍得繼續維持。該小組之判斷，雖因未上訴而欠缺
+上訴機構審視的機會，惟仍是目前WTO處理適用SPS協定或TBT協
+定重要之參考。
+
+   （三）SPS及TBT協定對美國、歐盟與臺灣之基改標示的適用分析
+     原美國之「安全與準確食品標示法案」已為「國家生物工程食
+品揭露法」取代，後法特別就安全性議題規定為：「為所制定之規
+則目的而言，已成功完成上市前審查程序的生物工程食品，不應被
+認為比相對應之非生物工程食品更安全或非一樣安全」94。此對其
+安全性模糊的敘述或可解釋該法不在處理基改食品安全問題，因此
+該法所要求的揭露即與食品安全無關，而可免落入SPS協定所管
+轄。
+
+     關於歐盟之標示規範，依1829/2003規則第1條第a款規定，其
+規則之目的為保護人類生命及健康、動物健康及福利、環境、消費
+者利益及市場之有效運作 95 。該條文明顯列消費者利益為目的之
+一。又其前言第17段更進一步解釋，本規則之標示規定確保消費者
+選擇之權益，並同時促使銷售者與買受者之間的公平交易 96 。再
+者，依體系解釋，可確定消費者知的權利為1829/2003之重要目
+的。178/2002規則所規定的食品法目的及1169/2011消費者食品資訊
+規則均強調消費者資訊權。1169/2011規則前言更已提到標示為提
+供資訊之重要方式。而1830/2003規則前言第四段表示，其追蹤規
+範係為了促進符合1829/2003規則之準確標示，以確保消費者獲得
+準確資訊而得行使其自由選擇權97。準此，1829/2003之標示規定可
+
+94 An Amendment to the Agriculture Marketing Act of 1946, 114 Cong. (7 U.S.C. §
+   1621 et seq.), sec. 293(b)(3).
+95 Regulation 1829/2003, art. 1.
+96 Id. preamble para. 17.
+97 Regulation 1830/2003, preamble para. 4.
+216                                                      2015 行政管制與行政爭訟
+
+
+
+為TBT措施（技術規範）。然而，因規則第1條規定有提及保護人類
+生命健康，該標示規範亦為SPS措施。
+
+      1830/2003規則第一條即規定目的為提供一個追蹤系統架構促
+進準確標示，並監視基改生物對環境及健康之影響。而如上述，前
+言亦明確表示須確保消費者獲得關於GMO及相關食品的完全且可
+靠之資訊，以讓其可知情選擇98。故可認定1830/2003之標示規範同
+屬TBT措施及SPS措施。
+
+      關於臺灣之標示規範，依「食品安全衛生管理法」（以下稱食
+品安全衛生管理法）第1條規定：「為管理食品衛生安全及品質，維
+護國民健康，特制定本法」。惟2014年「食品含基因改造食品原料
+應遵行事項」中，修正規定第二點之關於已不含基因片段之終產品
+標示規定之理由，「為符合消費者期待，更加維護消費者知的權
+利」99。再者，關於基改食品標示方法及基改食品標示規範適用範
+圍所做之修正，均有「符合消費者期待」及「以利消費者購買產品
+之辨識」之理由100，故我國有關基改食品標示之目的，從法條及應
+遵行事項看來，亦可能包含一個SPS措施及一個TBT措施。
+
+      本文雖認為基改食品標示之立法應考量之因素不包括食品安全
+（因食品安全屬風險評估之部分）
+              ，惟因從以上論述，歐盟及我國之
+基改食品標示規範在體系下均不免涉及到食品安全，故均有可能被
+認定為SPS措施及TBT措施；美國可能僅落入TBT協定規範之列。
+以下將探討相關基改食品標示規範與SPS及TBT協定之合致性問
+
+
+
+
+98  英文原文：“It is necessary to ensure that consumers are fully and reliably informed
+    about GMOs and the products, foods and feed produced therefrom, so as to allow
+    them to make an informed choice of product.” Regulation 1830/2003, preamble para.
+    11.
+99 應遵行事項之修正理由，參見前註66。
+100 同前註。
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                      217
+
+
+題101。
+
+二、基改食品標示規範與SPS及TBT協定之合致性
+
+   （一）標示規範與SPS協定之合致性
+     SPS協定雖允許各會員國訂定自己的措施，惟仍設有許多限
+制，最重要的幾項規定於第2.2條、第2.3條及第5.1條規定。第2.2條
+規定：「檢驗或防檢疫措施之實施須以保護人類、動物或植物的生
+命或健康之必要程度為限，且應基於科學原理，若無充分的科學證
+據即不應維持該措施」102。所謂「基於科學原理」，係指SPS措施
+應以第5.1條所規定之風險評估為基礎103，並與科學證據具客觀合
+理之關係104 ，未經評估證實之假設不得為採取措施之依據105 。第
+
+
+
+101 關於基改食品標示之合致性問題，WTO並無案例。EC – Biotech中雖有提到基
+    改標示是否適用SPS協定，惟爭端解決小組僅係順帶一提（因雙方未爭執此部
+    分），並未進一步分析。該案原告雖有主張歐盟之基改規範部分違反TBT協
+    定，惟因小組已認定該部分屬SPS措施且已判其違反協定，故無須檢視TBT協
+    定。該案亦未涉及1829/2003及1830/2003規則，因在訴訟程序啟動時，該規則
+    並未實施。故本文僅得做是否可能違反SPS協定或TBT協定之推測。
+102 農委會動植物防疫檢疫局（註77）                  ，頁11。SPS Agreement, supra note 76, art.
+    2.2。此條規範目的係為避免SPS措施對貿易造成過多的負面影響，Appellate
+    Body Report, Australia – Measures Affecting Importation of Salmon, ¶ 138,
+    WT/DS18/AB/R (Oct. 20, 1998) [hereinafter Australia Salmon AB Report]。上訴
+    機構亦曾指出「充分科學證據」係在平衡「促進國際貿易」與「保護人類生
+    命 與 健 康 」 兩 項 利 益 的 基 本 要 素 ， Appellate Body Report, European
+    Communities – Measures Concerning Meat and Meat Products (Hormones), ¶ 177,
+    WT/DS26/AB/R (Jan. 16, 1998)。
+103 SPS協定第5.1條規定：         「會員應保證其檢驗或防檢疫措施，係在適合狀況下依
+    據對人類、動物或植物生命或健康的風險所做評估而制定，並將相關國際組
+    織所研訂的風險評估技術納入考量。」；農委會動植物防疫檢疫局（註77），
+    頁19。在Australia-Salmon案，上訴機構認為，若SPS措施非以同協定5.1條所
+    規定之風險評估為基礎，則意味該SPS措施非基於科學原理。Australia Salmon
+    AB Report, supra note 102, ¶ 138.
+104 Appellate Body Report, Japan – Measures Affecting Agricultural Products, ¶ 84,
+    WT/DS76/AB/R (Feb. 22, 1999).
+105 Panel Report, Japan – Measures Affecting the Importation of Apples, ¶¶ 8.92-8.93,
+    8.98, WT/DS245/R (July 15, 2003).
+218                                                     2015 行政管制與行政爭訟
+
+
+
+2.3條則規定：「不得在有相同或類似情況之會員間，包括其境內及
+其他會員境內之間，造成恣意或無正當理由的歧視」106。
+
+       歐盟及臺灣之標示規範較有疑問者，為其是否符合SPS協定第
+2.2條規定之科學證據原則。因歐盟與臺灣可能違反SPS協定之部分
+雷同，故合併討論。其中有三個部分值得特別關注：
+
+      （1）歐盟與臺灣均強制已核准上市之基改食品標示；惟得於歐
+盟各國上市之食品，均已經歐洲食品安全局（European Food Safety
+Authority，簡稱EFSA）評估為安全107，而我國基改原料亦必係經
+過風險評估及查驗登記等安全檢驗後始得於市場上流通108。故如歐
+盟及臺灣之基改食品標示規範目的為保護人類健康，則邏輯上，歐
+盟及我國基改強制標示之措施非基於其風險評估結果；依澳洲鮭魚
+(Australia－Salmon)一案中上訴機構之見解，其意味該措施並非基
+於科學原理109。
+
+      （2）歐盟規定「非故意基改成分摻雜率」為0.9%110 。惟此摻
+雜率欠缺科學原理支持 111 ，且並無任何科學證據證明基改成分
+0.9%以上之食品對人體有危險112 ；故是否有必要將摻雜率設如此
+之低仍有討論空間。根據過去對歐洲及日本之研究指出，將摻雜率
+
+
+106 行政院農業委員會動植物防疫檢疫局（註77），頁13；SPS Agreement, supra
+      note 76, art. 2.3.
+107 Genetically Modified Organisms, EFSA, http://www.efsa.europa.eu/en/topics/topic/
+      gmo.htm (last visited June 18, 2015).
+108 基因改造食品，衛生福利部食品藥物管理署網站，http://www.fda.gov.tw/TC/
+      site.aspx?sid=1510（最後瀏覽日：2015年9月24日）
+                                         。
+109 Australia Salmon AB Report, supra note 102, ¶ 138。須注意此處所指的科學原理
+    並非單純之學理上風險，需爲可確定且明確之風險。此要件對採強制標示之
+    國家較爲不利。參林彩瑜（註25）                 ，頁147。
+110 Regulation 1829/2003, art. 12.
+111 Zen Makuch, TBT or Not TBT, That Is the Question: The International Trade Law
+    Implications of European Community GM Traceability and Labelling Legislation, 13
+    EUR. ENERGY & ENVTL. L. REV. 226, 243 (2004).
+112 請參見註6與其相應之本文。
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                         219
+
+
+設為0.9%可能使食品價格增加12%113。此外，廠商將須採取許多隔
+離措施防止非基改作物混雜基改成分，並可能須自行檢驗是否符合
+標準114。若風險評估結果認為某基改食品大致上並無風險，則將摻
+雜率標準提高至2%或者3%亦可達到保護人類健康之目的，而同時
+對貿易之影響將減少，該現行摻雜率門檻或許無法符合必要性原
+則。
+
+      我國之「非故意摻雜率」從過去的5%調低為3%115，雖仍較歐
+盟要寬鬆，惟其亦係未依據任何科學原理而制定之標準；如基改食
+品以經風險評估為安全，則先前5%之門檻所達到之保護人類健康
+之程度與現在3%門檻所能達到之程度則完全一樣；而其調低「非
+故意摻雜率」之政策，卻無疑增加產業之成本，可能帶來不必要之
+貿易障礙；故有違反必要性原則之虞。
+
+    （3）歐盟認定基改食品是否應受規範，從過去採的「生產結
+果」認定方式，轉為「生產過程」認定方式116；亦即，本來係僅視
+最終產品有無基改成分，而現在係縱使最終產品已無基改成分，若
+於生產過程中有使用基改原料，則仍須標示「由基改（成分名稱）
+製成」等字樣。而我國效仿歐盟之規範制度，於2014年12月擬定之
+食品含基因改造食品原料標示應遵行事項時，將已不含轉殖基因片
+段或轉殖蛋白質之終產品由「非本規定之規範對象」，修正為應標
+
+113 余祁暐、孫智麗（註30）
+               ，頁68。
+114 余祁暐、孫智麗（註30）
+               ，頁63。
+115 包裝食品含基因改造食品原料標示應遵行事項第三點；食品添加物含基因改
+    造食品原料標示應遵行事項第三點、散裝食品含基因改造食品原料標示應遵
+    行事項第三點。
+116 Miroslav Šuška, GMO Labeling Legislation in Europe, QUALIFOOD ACADEMY,
+    http://qualifoodacademy.com/posts/gmo-labeling-legislations-in-europe# (last visited
+    May 19, 2018). See Gary E. Marchant & Yvonne A. Stevens, A New Window of
+    Opportunity to Reject Process-Based Biotechnology Regulation, 6 GM CROPS &
+    FOOD 233, 234 (2015); Joachim Scholderer, The GM Foods Debate in Europe:
+    History, Regulatory Solutions, and Consumer Response Research, 5 J. PUB. AFFAIRS
+    263, 264 (2005).
+220                                                      2015 行政管制與行政爭訟
+
+
+
+示「本產品為基因改造加工製成，但本產品已不再含基因改造成
+分」等字樣；亦開始採「生產過程」認定方式117。兩國可能面臨相
+同之問題：即既然終產品已無基改成分，且科學上亦無法證明已不
+含基因成分之食品對人體有害，如仍要求標示，則有可能違反SPS
+第2.2條規定。
+
+      （二）標示規範與TBT協定之合致性
+      TBT協定之目的在於確保以上三種措施對國際貿易不會造成不
+必要之障礙，並且對任何會員國之同類產品施以平等待遇。以上兩
+個規則分別規定於TBT協定第2.1條及第2.2條規定。以下提供進一
+步解釋。
+
+      依TBT協定第2.1條規定，關於技術規範，會員國應對於從他會
+員國進口之產品，賦予與本國或任何其他會員國之「同類產品」平
+等之待遇118。上訴機構於美國丁香菸品案（US－Clove Cigarettes）
+一案中表示，系爭措施須符合以下要件始違反第2.1條規定：（1）
+系爭措施須為技術規範；
+          （2）系爭產品須為同類產品；
+                       （3）系爭產
+品間須有不平等待遇。故探討產品間是否有受不平等待遇（歧視）
+前，須先認定系爭產品是否為同類產品。同類產品之認定方法有甚
+多爭議，涉及主觀及客觀之判斷119。對於基改食品標示規範是否符
+合TBT協定而言，首先須考慮之問題為「非基改食品」與「基改食
+品」是否為同類產品。
+
+      TBT協定第2.1條規定裡提及之「同類產品」與關稅暨貿易總協
+
+
+117 基因改造食品標示新制（註67）。所謂「生產過程」認定方式，即認定是否應
+    標示時，係看生產過程中是否有用過基改生物，而非看最終食品是否含基改
+    成分。
+118 TBT Agreement, supra note 73, art. 2.1.
+119 Appellate Body Report, United States – Measures Affecting the Production and Sale
+    of Clove Cigarettes, ¶ 87, WT/DS406/AB/R (Apr. 4, 2012) [hereinafter Clove
+    Cigarettes AB Report].
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                      221
+
+
+定（General Agreement on Tariffs and Trade，簡稱GATT）第3條第4
+項規定所提及之「同類產品」是否應予以同樣之解釋，於歷年案例
+中出現不同見解。於US－Clove Cigarettes中，爭端解決小組認為，
+認定系爭產品是否為同類，主要應參照規範目的，並依照該目的，
+去檢視系爭產品之特徵、用途及消費者認知，以綜合判斷；而非依
+GATT第3條第4項規定，主要以系爭產品之競爭關係去認定120。惟
+於同案中，上訴機構推翻此見解，並認為同類產品之認定方法應根
+據產品間之競爭關係之性質及強弱而定（亦即採與GATT第3條第4
+項規定相同之解釋）121。
+
+     US－Clove Cigarettes一案中，上訴機構提到過去案例中已設有
+四個認定產品競爭關係（亦即認定是否為同類產品）之因素：
+                          （1）
+產品物理特性；
+      （2）產品之用途；
+              （3）消費者品味及習慣；
+                         （4）產
+品之關稅類別。此認定方法被稱為邊境稅調整測試（border tax
+adjustments test，簡稱BTA）122。
+
+     而如認定系爭產品為同類產品，則應檢視政府之措施是否對同
+類產品有不平等待遇。其測試步驟包括認定是否有「不利影響
+（detrimental impact）」及該影響是否完全係基於「正當管制區別
+（legitimate regulatory distinction）」。此正當管制區別之概念並未出
+現在TBT協定之條文中，而係由上訴機構所創123。上訴機構認為，
+TBT協定與GATT不同，TBT協定並未規定可違反義務之例外；故
+為了平衡WTO會員國之規範自由裁量權及其不歧視之義務，不平
+
+
+120 Panel Report, United States – Measures Affecting the Production and Sale of Clove
+    Cigarettes, ¶ 7.119, WT/DS406/R (Sept. 2, 2011).
+121 Clove Cigarettes AB Report, supra note 119, ¶¶ 112-120. See also Asbestos AB
+    Report, supra note 73, ¶¶ 113-114, 122.
+122 Clove Cigarettes AB Report, supra note 119, ¶¶ 112-120. See also Asbestos AB
+    Report, supra note 73, ¶¶ 113-114, 122.
+123 Jonathan Carlone, An Added Exception to the TBT Agreement After Clove, Tuna II,
+    and Cool, 37 B.C. INT’L & COMP. L. REV. 103, 114, 117 (2014).
+222                                                      2015 行政管制與行政爭訟
+
+
+
+等待遇之測試並非僅看是否有影響進口，亦須根據系爭措施之設
+計、結構、及實務運作等因素而判斷該不平等待遇是否係完全基於
+正當管制區別124。
+
+      又依TBT協定第2.2條規定，技術規範不得對國際貿易造成不必
+要之障礙，且該規範不應超過達成合法（正當）目的所必要之貿易
+限制125。於美國鮪魚案（US－Tuna II）中，爭端解決小組認為第
+2.2條規定有兩個分析階段。第一，技術規範所欲達成之目的之正
+當性；第二，該規範之必要性，亦即是否過度地限制國際貿易126。
+
+      而關於規範是否過度地限制國際貿易，上訴機構於該案中認為
+應考慮之因素有：
+       （1）該規範對其目的之貢獻；
+                    （2）該規範限制國
+際貿易之程度；及（3）系爭風險之性質及無法達成目的之後果127。
+
+      美國、歐盟及臺灣之基改食品標示規範可能涉及TBT第2.1條規
+定之不歧視原則之問題。三者均對所有基改食品採相同之標示規
+範，並未因各進口國而有不同要求；故於「各進口國之基改食品之
+間」，在法律上並無不平等待遇。惟如基改產品與非基改產品為同
+類產品，則可能有歧視之問題（例如由一個國家進口基因改造黃
+豆，而由另一個國家進口非基因改造黃豆，如兩者為同類產品，則
+僅要求前者標示有可能會有歧視問題）
+                。
+
+      關於基改食品與非基改食品是否為同類產品，學者有不同見
+  128
+解     。本文認為，基改與非基改是否為同類產品，關鍵可能在於各
+
+124 Id. at 117.
+125 TBT Agreement, supra note 73, art. 2.2.
+126 Panel Report, United States – Measures Concerning the Importation, Marketing and
+    Sale of Tuna and Tuna Products, ¶ 7.388, WT/DS381/R (Sept. 15, 2011) [hereinafter
+    Tuna II Panel Report].
+127 Tuna II AB Report, supra note 73, ¶ 318.
+128 認為基改食品為同類產品之學者主張基改食品之基因（DNA及蛋白質）不
+    同，故實體特徵不同。再者，消費者亦可能對基改食品與非基改食品的態度
+    不同。Matthew Stilwell, Protecting GMO Labeling from a WTO Challenge, INST.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                          223
+
+
+國家人民是否對兩者有不同之品味及習慣。以下將依BTA測試進一
+步解說（BTA測試包括四個因素：產品物理特性；產品之用途；消
+費者品味及習慣；及產品之關稅類別129。惟因基改與非基改食品之
+用途基本上一樣，而兩者之關稅類別亦不會有差別，故僅就產品特
+質及消費者品味分析）
+         。
+
+      關於產品物理特性，基改產品與其相對應之非基改食品可能於
+物理特性（physical properties）上有所差別。於WTO歐體石綿案
+（EC-Asbestos）
+            ，上訴機構表示「分子結構」可為認定產品特性差別
+之因素130。標示實施國在此問題上可能主張，因前者之基因經生物
+科技技術改變或經注入新的基因而與後者不同（例如基因改造有新
+的基因組合）131 ，且傳統植物育種無法達到像生化科技般操作基
+因132。惟其實不須所有特性均須完全相同始為同類產品；縱使是同
+種植物，仍有可能存有不同基因變異。舉例而言，青蘋果與紅蘋果
+可能仍存有稍微不同之基因組，惟其並不代表兩者於法律上為非
+「同類產品」133。故若僅係以部分基因不同而認定為非同類產品，
+
+    FOR AGRIC. & TRADE POLICY, https://www.iatp.org/sites/default/files/Protecting_
+    GMO_Labeling_from_a_WTO_Challenge.htm (last visited Sept. 24, 2015)。認為
+    基改食品為不同類產品之學者則主張基改食品雖然有不同之基因，惟即便是
+    同一個種類的生物仍可能有細微的基因變異。而消費者對基改食品的態度亦
+    可能係因為政府之措施所致。再者，基改食品與非基改食品之最終用途及關
+    稅分類均為一樣。Julian Wong, Are Biotech Crops and Convention Crops Like
+    Products? An Analysis under GATT 14 (2003) (unpublished manuscript) (on file
+    with Duke University), http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=
+    1096&context=dltr; Makuch, supra note 111, at 239.
+129 Clove Cigarettes AB Report, supra note 119, ¶¶ 112-120. See also Asbestos AB
+    Report, supra note 73, ¶¶ 113-114, 122.
+130 Asbestos AB Report, supra note 73, ¶ 102; Wong, supra note 128, at 10.
+131 Mae-Wan Ho, FAQ on Genetic Engineering, INST. OF SCIENCE IN SOCIETY,
+    http://www.i-sis.org.uk/FAQ.php (last visited Sept. 24, 2015).
+132 Id.
+133 Wong, supra note 128, at 12; Donald Regan, Regulatory Purpose and “Like
+    Products” in Article III:4 of the GATT (With Additional Remakes on Article III:2), 36
+    J. WORLD TRADE 443, (2002)（應檢視的是系爭產品間是否具有在GATT下有意
+    義之差異）.
+224                                                      2015 行政管制與行政爭訟
+
+
+
+則理由可能顯得過於薄弱。
+
+       關於消費者品味是否有所不同。依歐盟之官方民意調查機構
+Eurobarometer於2010年所做之調查之結果，70%受調者認為基改食
+品根本不自然；61%受調者認為基改食品讓其感到不安；59%民眾
+認為基改食品不安全134。而美國的紐約時報曾於2013年調查，發現
+有93%之受調者認為應對基改食品強制標示、大約一半的受調者不
+願意吃基改蔬菜水果、大約75%受調者不願意吃基改魚、大約60%
+以上受調者不願意吃基改肉135。再者，依2012年臺灣消費者對於基
+改食品之認知與態度調查，願意為非基改食品付較高價格之受調者
+佔58%136。故我國及歐洲之消費者對於基改食品及非基改食品，品
+味上可能確實有差別（此數據已經超過六年，是否準確反映現況，
+存有疑問，管理單位應持續做調查問卷）。然而，反對標示之國家
+可主張消費者之品味可能會被政府之規範所直接影響而不準確（若
+政府規範嚴格，則消費者可能會被誤導而認為食品有問題而更希望
+標示）137。
+
+       認定二產品是否為同類，應綜合判斷，並權衡以上四個因素。
+上訴機構認為，系爭產品間之競爭關係及替代性，對認定是否為同
+類產品極為重要138；而產品間之競爭關係最容易反映在消費者品味
+及產品用途139 。基改食品與相對之非基改產品用途，雖基本上相
+
+
+134 EUROBAROMETER, SPECIAL EUROBAROMETER 341: BIOTECHNOLOGY REPORT 18
+      (2010).
+135 Allison Kopicki, Strong Support for Labeling Modified Foods, N.Y. TIMES (July 27,
+    2013), www.nytimes.com/2013/07/28/science/strong-support-for-labeling-modified-
+    foods.html?_r=1; 亦有其他調查顯示消費者對基改食品與普通食品看法不同，
+    參見Glasgow, supra note 18, at 116, 123。
+136 孫智麗（註7）        ，頁15、18。
+137 Wong, supra note 128, at 11.
+138 Clove Cigarettes AB Report, supra note 119, ¶¶ 112-120. See also Asbestos AB
+    Report, supra note 73, ¶¶ 113-114, 122.
+139 Wong, supra note 128, at 10.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                     225
+
+
+同，美國、歐盟及臺灣之消費者對於傳統食品與基改食品之觀感卻
+大不相同。因此，其可主張，消費者均不會接受基改產品可替代非
+基改產品。惟儘管無法完全替代，其替代性及競爭關係仍非常高；
+畢竟對消費者而言，其外表、用途及味道等均相同。故本文認為，
+基改產品與非基改產品較有可能會被爭端解決小組認定為同類產
+品。
+
+     如爭端解決小組認定基改食品與非基改食品為同類產品，則接
+下來應認定基改食品是否因系爭措施而受到不利影響。上訴機構於
+韓國牛肉案（Korea－Beef）曾認為，當一個措施使私營部門系統
+性的選擇國內同類產品，並造成對進口之同類產品之不利情形，該
+措施則可被認為係對進口之同類產品的不平等待遇140。許多國家及
+業者認為，基改食品強制標示將誤導消費者，使其以為該食品有風
+險，因此避而遠之141；故進口業者可能亦會較排斥販售基改食品。
+實際上，在歐盟許多基改食品業者於基改強制標示開始實施後，即
+因消費者對基改食品不支持之原因，而陸續停止在歐盟地區販售基
+改食品142；故確實造成不利影響。惟臺灣之新基改食品標示規則剛
+開始實行，而美國農業部尚未公告有關揭露之具體規則，是否真會
+造成基改食品之不利影響，仍有待觀察。
+
+     縱使有不利影響，在WTO訴訟時，控訴者仍須負舉證責任證
+明。如控訴者可以證明基改食品因政府之強制標示措施而受到不利
+影響，爭端解決小組仍應認定該管制之區別是否具有正當性。上訴
+機構指出，如系爭措施之設計或於實務運作上具有恣意或或無正當
+
+
+
+140 Appellate Body Report, Korea – Measures Affecting Imports of Fresh, Chilled, and
+    Frozen Beef, ¶ 145, WT/DS161/AB/R, WT/DS169/AB/R (Dec. 11, 2000); Carlone,
+    supra note 123, at 123.
+141 Premanandh, supra note 27, at 39.
+142 Labels for GMO Foods are a Bad Idea, SCIENTIFIC AM. (Aug. 20, 2013), http://
+    www.scientificamerican.com/article/labels-for-gmo-foods-are-a-bad-idea/.
+226                                                      2015 行政管制與行政爭訟
+
+
+
+理由之歧視，則不屬正當之管制區別143。基改食品出口國可能會主
+張，歐盟及臺灣之強制標示措施部分設計有恣意及無正當理由之歧
+視。例如，「非故意摻雜率」設於3%或0.9%完全無任何科學或研究
+基礎144；除了對於國外之基改食品及非基改食品之製造過程增加成
+本145，亦可能將使基改食品在國內被消費者排斥。再者，歐盟及臺
+灣將基改食品標示措施之設計從以最終產品為規範基礎，改至以生
+產過程為規範基礎146；惟消費者在乎的可能係最終產品是否含有基
+改食品，而非生產過程是否有使用基改作物加工；故該措施較為多
+餘，為恣意或無正當理由。這兩個主張並非無理由，尤其對於臺
+灣，其消費者對基改食品之認知與態度似並不如歐盟各國消費者強
+烈147，故更可能顯得以上規範並非正當。
+
+      對此，歐盟及臺灣可能主張，上訴機構創造正當之管制區別此
+一概念之理念，係在效仿GATT第20條規定之例外（因TBT協定無
+類似GATT第20條例外之規定）
+               ，意在使會員國可以合法化以正當目
+的為基礎之措施；而該規範之設計並未針對任何基改生產國家，僅
+係貫徹維護消費者知的權利此一正當目的。蓋如摻雜率設太高，則
+
+
+143 Appellate Body Report, United States – Certain Country of Origin Labelling (COOL)
+    Requirements, ¶ 271, WT/DS386/AB/R (June 29, 2012) [hereinafter COOL AB
+    Report].
+144 Makuch, supra note 111, at 243.
+145 余祁暐、孫智麗（註30）             ，頁68。
+146 參見前註116。
+147 根據歐盟之官方民意調查機構Eurobarometer於2010年所做之食品安全民意調
+    查之結果，66%之受調者表示對基改食品非常或相當擔心；59%認爲基改食品
+    不安全。EUROBAROMETER, SPECIAL EUROBAROMETER 354: FOOD-RELATED RISKS
+    REPORT 18, 21 (2010); EUROBAROMETER, supra note 134, at 18. 相較之下，在2012
+    年度臺灣消費者調查顯示，相對其它食品安全議題，基改食品並非特別重
+    要；32.6%之受調者表示在購買基改食品時會注意基改標示；42.3%認爲基改
+    食品不安全或非常不安全。臺灣經濟研究院生物科技產業研究中心，消費者
+    對於「食品安全」認知與態度調查問卷，頁14-19（2012年）（共605問卷；調
+    查採定額抽樣，於臺灣北中南之住宅區、街道、商店等地點，進行現地問卷
+    調查）。以上數據雖非最新，惟臺灣基改食品上市核准之狀態並未改變，作者
+    認爲消費者態度並不會有太大改變，可作參考。
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                                    227
+
+
+強制標示即失去意義，故為正當管制區別；且該不利影響完全係由
+此管制區別所造成，故應符合TBT協定第2.1條規定之平等待遇要
+求。惟臺灣及歐盟始終會有困難解釋摻雜率之數字是從何處而來，
+且無法具體說明為何如將摻雜率設於3%或0.9%以上，便達不到目
+的。故最後是否能符合第2.1條規定仍係未知數。
+
+     基改食品標示規範亦可能涉及TBT第2.2條之規定：基改食品標
+示規範目的主要為保護消費者選擇及知的權利148。依US－Tuna II
+一案之爭端解決小組見解，提供消費者資訊以避免其被誤導之目的
+應可落入TBT協定第2.2條規定所列舉之預防欺詐手法之含義149 。
+而歐盟於1829/2003規則之前言亦明確表示標示之規定將避免消費
+者被誤導150；故該目的應可認為具正當理由。
+
+     標示規範通常屬對貿易限制相對影響較低之措施。惟如上所
+述，歐盟設基改食品標示之門檻為0.9%摻雜率對於成本之影響可能
+相當大之影響151，與通常其他標示規範對生產鏈之影響程度不同。
+將「非故意摻雜率」門檻提高至3%或5%，不一定無法達成預防業
+者詐欺手法之目的；且可減少對貿易限制之程度。再者，是否須強
+制「已無基改成分之終產品須標示」始得達成其目的，亦值得檢
+討。故本文認為，歐盟基改食品標示規範存有對限制貿易程度較少
+之替代措施；因此歐盟標示規範仍有違反TBT協定第2.2條規定之可
+能。
+
+     而臺灣之標示規範，依2014年新修正之基因改造食品標示應遵
+行事項中，諸多修正理由與保護消費者知的權利相關152；故依前述
+
+
+148 Regulation 1829/2003, preamble ¶ 17.
+149 Tuna II Panel Report, supra note 126, ¶¶ 7.436-7.437; TBT Agreement, supra note
+    73, art. 2.2.
+150 Regulation 1829/2003.
+151 孫智麗（註7）       ，頁15、18。
+152 應遵行事項之修正理由，參見前註66。
+228                                                      2015 行政管制與行政爭訟
+
+
+
+理由，亦應得為TBT協定下之正當目的。此時，我國須面對的問
+題，將與前述歐盟可能涉及必要性原則爭議的原因相似；亦即該即
+將要實施之3%「非故意摻雜率」，及縱使最終產品已不含基因片段
+仍要標示之要求，是否為達到目的所必要之規定，有遭質疑的可
+能。再者，我國對於包裝基改食品，雖將基改食品標示字體寬長度
+維持在2毫米以上，惟其卻要求該標示須與其他文字做明顯區別。
+此讓人懷疑，為何在產品上其它同樣係為了消費者知的權利而標示
+之資訊，無須做明顯區別，而基改食品標示卻需如此。2毫米顯然
+已足夠消費者辨識，並無再做明顯區別之必要，故可能違反TBT協
+定第2.2條之必要性原則。
+
+      根據我國對於實施之基改食品標示應遵行事項向WTO所做之
+通報，各國曾表示意見。其中美國即有對以上三個問題提出質疑，
+認為要求已不含基因片段之產品亦須標示將增加許多產業之成本；
+且臺灣亦無法檢驗已不含基因片段之終產品，其原料過去是否含基
+改成分153。再者，設置「非故意摻雜率」，不論其標準為何，均不
+符合TBT協定第2.2條規定154。過去5%摻雜率之規定至少係較可接
+受或可行的要求；惟若調低至3%，則可能對貿易造成過多障礙155。
+關於「非故意摻雜率」設於5%，是否無法達到3%可達到之效果，
+實取決於在WTO爭端解決程序的控方是否可以舉證為過度之措
+施。惟我國仍必須做充分說明之準備。
+
+      而關於已無改造基因片段之終產品須標示，因其修正理由為保
+
+153 U.S. Comments on the Chinese Taipei’s Notification on GMO Labelling,
+    G/TBT/N/TPKM/168/Rev.1, Minutes of the Meeting of 4-6 November 2015, WTO
+    Committee on Technical Barriers to Trade, G/TBT/M/67, Feb. 3 2016, ¶ 2.244-2.246,
+    https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S009-DP.aspx?language=E&Cat
+    alogueIdList=243629,243577,238944,236707,234546,231304,230729,228723,2266
+    71,134466&CurrentCatalogueIdIndex=8&FullTextHash=&HasEnglishRecord=True
+    &HasFrenchRecord=True&HasSpanishRecord=True.
+154 Id.
+155 Id.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式              229
+
+
+護消費者知的權利，故應以消費者認為有標示已無改造基因片段之
+產品之必要。惟我國並未有任何調查顯示，民眾是否在乎此類產品
+的標示。如無法說明為何已無基因片段之產品仍須標示，則似難主
+張該規範為必要。
+
+   美國法律未如歐盟和臺灣設有非故意摻雜率的揭露要求，亦以
+產品本身含基因片段為揭露對象，不包括高層次加工後已不含基因
+之物質，且嚴格來說並非強制「標示」，故對貿易的限制較緩和，
+有較大可能符合必要性要求。
+
+
+
+伍、代結論：臺灣基改食品標示之適當立法模式
+
+   食品管制之原理源自政府管制之公共利益論，而食品所涉及之
+公共利益不僅包括人民健康，亦應涵蓋其他消費者權益（例如消費
+者知的權利、選擇權）及市場有效運作等156。歐盟對於強調消費者
+保護之部分，作法相當完善，除將消費者認定為權利主體外，並於
+歐體條約中列舉各種消費者權利（如資訊權、教育權、經濟利益
+權、健康權等） 157 。而其於178/2002規則所規定的食品法目的、
+1169/2011消費者食品資訊規則及1829/2003、1830/2003規則所規定
+的基改食品標示目的中，均包含消費者權益及確保消費者獲得足夠
+資訊。可見，歐盟為消費者權益納入各個環節，為其提供完備體系
+及明確法律基礎，值得參考。相較之下，臺灣之食品安全衛生管理
+法之目較為狹窄，僅提到安全、品質及健康，故保護消費者權益之
+色彩相對薄弱。此種規定方式，對於認定應適用哪一個WTO協定
+之問題，亦可能造成影響。
+
+
+
+156 洪德欽，歐盟食品安全（註10），頁1213。
+157 洪德欽，消費者權利（註10）
+                 ，頁520。
+230                                                 2015 行政管制與行政爭訟
+
+
+
+      惟歐盟之基改標示規範並非完美，因依前述，其規範較可能與
+WTO規則相牴觸。臺灣之規範仿造歐盟，故亦有類似問題。在此
+方面，美國之規範方式較無此憂慮，惟美國之規範嚴格來說，仍屬
+自願性標示；因業者可選擇用其他方式揭露資訊，故無法妥當保障
+消費者權益。根據以上考量及分析，本文建議以下方法改進現在之
+基改食品規範：
+
+      一、基於前述有關基改食品之規範及SPS與TBT協定之要件分
+析可知，基改規範制度最難符合者，為SPS協定第2.2條所要求之科
+學證據原則。相對而言，TBT協定第2.1條及2.2條規定較有解釋空
+間，且基改食品規範較容易符合該等規定。如前所述，儘管我國基
+改標示應遵行事項之修正理由中表示基改食品標示係針對消費者知
+的權利，惟其並未於法條明文規定，且整個食品安全衛生管理法之
+體系，保護食品安全之色彩較濃（食品安全衛生管理法目標設定為
+保護安全、衛生等，且名稱亦含食品安全），故該規範體系可能同
+時被視為SPS措施及TBT措施。雖爭端解決小組於EC – Biotech中並
+未表示，一個存有兩個措施（分別適用SPS及TBT協定）之規範，
+當其中一個措施違反SPS協定而另一個符合TBT協定時，該如何處
+理；惟爭端解決小組認為，當一個措施違反SPS協定，被控訴者會
+希望針對其規範適用TBT協定之部分作防禦之機會158。以此推理，
+似乎當一個措施違反SPS協定時，倘另一個措施符合TBT協定，則
+該規範適用TBT協定之部分，推斷爭端解決小組之意思，或許仍得
+被維持。
+
+      目前，臺灣食品安全衛生管理法之維護消費者知的權利之色彩
+過於薄弱；而如以上分析，基改食品標示規範並無法排除較難符合
+之SPS協定的適用。我國應可進一步將食品安全衛生管理法中「消
+費者知的權利」予以明文化，以便我國於萬一受質疑而必須進行爭
+
+
+158 Biotech Panel Report, supra note 79, ¶ 7.169.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式             231
+
+
+端解決程序時，容易舉證，並確保該規範得適用TBT協定。
+
+  基此，本文建議將食品安全衛生管理法第1條規定從「為管理
+食品衛生安全及品質，維護國民健康，特制定本法」改為「為管理
+食品衛生安全及品質，維護國民健康及知的權利，特制定本法」。
+並且修正理由應說明食品安全衛生管理法中之規定有些係為了維護
+國民健康；惟有些（如基改食品標示）僅為保護消費者知的權利。
+亦或可同時將「食品安全衛生管理法」之名稱稍加修正，如改為
+      ，為多元規範目的預留空間159。再者，應將「促進準
+「食品管理法」
+確標示」之目的規定於食品安全衛生管理法第9條第1項規定中，使
+追蹤追溯規範得被視為標示規範之一環，而有可能適用TBT協定。
+
+  將國民知的權利於法律規定中予以明文化，可提升該法之TBT
+色彩；若可再於該法第22條、第24條及第25條之基改食品標示規範
+文字中，明示消費者知的權利則效果可能更佳。
+
+  二、在基改食品與安全無涉的前提下，我國似不宜仿造歐盟有
+關強制標示已不含轉殖基因片段或轉殖蛋白質之終產品之規範；惟
+亦不適合仿美國較寬鬆之規範；故立法者應在兩個極端之間，為我
+國量身訂作一個既可滿足民眾之需求，又較可能符合國際貿易規則
+之規範制度。基改食品標示之目的應為維護消費者知的權利；而所
+謂消費者知的權利，應係包括一切可幫助消費者做出購買決定之資
+
+
+159 此項完全係依據EC－Biotech中爭端解決小組處理多重目的之規範之方式，所
+  提出的建議。爭端解決小組主要係從法條明文之「規範之目的」去判斷規範
+  適用那一個協定，並將一個存有兩個目的之規範，在法律上分成兩個措施。
+  惟爭端解決小組之見解似忽略TBT協定1.5條規定（SPS措施不適用TBT協定）
+  之意旨，其見解適當與否仍有討論空間，將來是否能繼續被維持，也仍待觀
+  察（在未來，小組亦可能採「主要目的」認定方式）。故為求周全，我國應思
+  考，除了將單純在規範目的文字設計成適用TBT協定外，是否有其他方法使我
+  國得有效主張，標示規範在性質上並不具SPS色彩。欲如此主張，我國標示規
+  範必不得過度嚴謹，否則很難有說服力（例如，如要求將基改標示大小調
+  高，比其他標示都還大，此時很難讓他國相信規範在性質上已經跟安全無
+  關）
+   。
+232                                2015 行政管制與行政爭訟
+
+
+
+訊。如前所述，消費者因處於弱勢，常無法辨識食品之安全及品
+質，故必要時，應由政府介入規範標示，避免業者誤導消費者160。
+惟若政府規定之標示本身即可能誤導消費者，使其對食品之安全性
+有所誤會，則造成反效果，因而並不符合公共利益。若造成某些業
+者可能因此退出基改市場，則更反而係限制了消費者的選擇161。
+
+       我國相當比例的民眾已表示，如基改食品被政府驗證為安全，
+或有其他優點，則可能願意購買基改食品162。故如強制規定基改食
+品僅得標示「本產品含基改成分」等字眼，似乎過於嚴格，且可能
+成為一個「負面標示」，而有嚇阻消費者購買之性質，並不符合原
+本欲達到之目的。再者，民眾是否把基改食品當作是重要的議題，
+仍有疑問；立法者應研究並考量到底民眾究竟願意增加多少經濟上
+的負擔，以決定要求強制標示應嚴格到什麼程度。
+
+       本文建議，我國應將新修之無基因片段之終產品標示規範刪
+除；或立法者至少應確認民眾希望得知關於無轉殖基因片段之終產
+品的生產過程資訊，以便將來有需要時，在WTO爭端解決程序
+中，得以舉證證明該規範對消費者知的權利之目的有貢獻，而為必
+要之措施。又「非故意摻雜率」為整個強制標示規範中最難解釋之
+
+
+160 洪德欽，歐盟食品安全（註10），頁1214；洪德欽，消費者權利（註10），頁
+      542。
+161 故採像歐盟如此嚴格之基改標示規範，是否妥當，仍有待商榷。MERCHANT ET
+      AL., supra note 29, at 32.
+162 臺灣經濟研究院生物科技產業研究中心，消費者對於「食品安全」認知與態
+      度調查問卷，頁1、14-19（2012年）
+                          。如註136所相應之本文所述，歐盟各國民
+      眾與我國民眾在對基改食品之態度上存有差異。且我國根據以上2012年之消
+      費者調查顯示，相對其它食品安全議題，基改食品並非特別重要；僅32.6%之
+      受調者表示在購買基改食品時會注意基改標示；有42.3%之受調者表示認為基
+      改食品不安全或非常不安全。雖有84%之受調者表示基改食品應強制標示，惟
+      問卷調查發現，52.7%受調者表示如長期實驗驗證對人體健康無害、40.3%受
+      調者表示如經由政府認證為安全、36.5%受調者表示如有較少化學物質或農藥
+      及抗生素之使用或殘留、32.6%表示如有較高營養價值之情況，則可考慮購買
+      基改食品。兩地區之消費者對基改之態度差別亦意味我國無須繼續將標示往
+      歐盟所採之最嚴格方向靠近。
+論基改食品標示在 WTO 規範之合致性與適當之立法模式          233
+
+
+部分；且亦可能係對業者或消費者經濟上負擔影響最大之部分。故
+應避免繼續調低至0.9%（將非故意摻雜率標準設定在3%或5%，並
+不代表就一定可以符合國際規範，惟至少不會再增加他國出口之成
+本，並降低他國與我國發生爭端之可能）163。
+
+  再者，為貫徹保護消費者知的權利，立法者應規定基改食品除
+須標示「含基改成分」等字樣外，亦得自願性標示「此產品已通過
+本國主管機關風險評估」等字樣，使基改食品標示呈現較為中立之
+形象及更平衡的意涵，消費者因此獲得更完整之資訊。又基改食品
+標示無須與其它文字有明顯區別；此規定已逾越必要程度，而刪除
+此規定亦可有助於避免誤導消費者。如此，對符合國際貿易規範應
+有所助益。
+
+
+
+
+163 或可考量將非故意摻雜率標準設爲5%。高於5%摻雜率之食品仍須標示，而非
+  故意摻雜率低於5%但高於0.9%之食品則僅須標示「此產品之製造工廠有處理
+  基改生物」等類似字樣。此類標示在美國常用在食品本身不含有過敏原，惟
+  卻與含有過敏原之食品使用同一個工廠製造之情形，其足以保護消費者知的
+  權利，卻不會太過於嚴謹。
+234                                            2015 行政管制與行政爭訟
+
+
+
+
+                             參考文獻
+
+1. 中文部分
+
+牛惠之、劉亮亨、楊一晴（2004），WTO「歐體生技產品案」關於
+      SPS協定之爭議與初步評析，貿易政策論叢，2期，頁121-
+      170。
+牛惠之、勝沛倫、高千雅（2006），WTO時代基因改造食品標示規
+      範之研究，行政院衛生署95年度科技研究計劃。
+余祁暐、孫智麗（2014），基改食品標示制度對經濟及產業之影響
+      評估，農業生技產業季刊，40期，頁62-71。
+林彩瑜（2001），論WTO架構下基因改良食品標示之貿易法問題，
+      收於：楊光華編，臺灣在WTO規範下之經貿新頁，頁113-
+      159，臺北：元照。
+─（2007），從歐體生技產品爭端之裁決論SPS協定對GMO規
+      範之影響，臺大法學論叢，36卷4期，頁257-323。
+洪德欽（2008），消費者權利在歐盟基改食品標示之規定與實踐，
+      歐美研究，38卷4期，頁509-578。
+─（2015），歐盟食品安全制度對臺灣食安改革的啟示，臺大
+      法學論叢，44卷特刊，頁1163-1236。
+孫智麗（2013），消費者對於基改食品認知與態度之跨國比較，農
+      業生技產業季刊，36期，頁15-29。
+
+2. 外文部分
+
+Carlone, Jonathan. 2014. An Added Exception to the TBT Agreement
+      After Clove, Tuna II, and Cool. Boston College International and
+      Comparative Law Review 37:103-138.
+Carter, Colin A., and Guillaume P. Gruere. 2003. Mandatory Labeling of
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                       235
+
+
+    Genetically Modified Foods: Does It Really Provide Consumer
+    Choice?.   Journal   of   Agrobiotechnology   Management     and
+    Economics 6:68-70.
+Caswell, Julie A. 2000. Labeling Policy for GMOs: To Each His Own?.
+    Journal of Agrobiotechnology Management and Economics 3:53-57.
+Degnan, Frederick H. 1997. The Food Label and the Right-to-Know.
+    Food and Drug Law Journal 52:49-60.
+Du, Li. 2014. GMO Labelling and the Consumer’s Right to Know: A
+    Comparative Review of the Legal Bases for the Consumer’s Right
+    to Genetically Modified Food Labelling. McGill Journal of Law
+    and Health 8:1-42.
+Federici, Valery. 2010. Genetically Modified Food and Informed
+    Consumer Choice: Comparing U.S. and E.U. Labeling Laws.
+    Brooklyn Journal of International Law 35:515-561.
+Glasgow, Josh. 2015. Genetically Modified Organisms, Religiously
+    Motivated Concerns: The Role of the “Right to Know” in the GM
+    Food Labeling Debate. Drake Journal of Agricultural Law 20:115-
+    136.
+Gruszczynski, Lukasz. 2010. Regulating Health and Environmental
+    Risks under WTO Law: A Critical Analysis of the SPS Agreement.
+    New York, NY: Oxford University Press.
+Keane, Steve. 2006. Can a Consumer’s Right to Know Survive the
+    WTO?: The Case of Food Labeling. Transnational law and
+    Contemporary Problems 16:291-332.
+Key, Suzie, Julian K-C Ma, and Pascal MW Drake. 2008. Genetically
+    Modified Plants and Human Health. Journal of the Royal Society of
+    Medicine 101:290-298.
+Makuch, Zen. 2004. TBT or Not TBT, That Is the Question: The
+    International Trade Law Implications of European Community GM
+236                                                2015 行政管制與行政爭訟
+
+
+
+      Traceability and Labelling Legislation. European Energy and
+      Environmental Law Review 13:226-252.
+Marchant, Gary E. and Yvonne A. Stevens. 2015. A New Window of
+      Opportunity to Reject Process-Based Biotechnology Regulation.
+      GM Crops & Food 6:233-242.
+Merchant, Gary E., Guy A. Cardineau, and Thomas P. Redick. 2010.
+      Thwarting Consumer Choice: The Case Against Mandatory
+      Labeling for Genetically Modified Foods. Washington, D.C.:
+      American Enterprise Institute for Public Policy Research.
+National Academy of Sciences. 2004. Safety of Genetically Engineered
+      Foods: Approaches to Assessing Unintended Health Effects.
+      Washington, D.C.: National Academies Press.
+Nielsen, Chantal Pohl, and Kym Anderson. 2011. Genetically Modified
+      Foods, Trade, and Developing Countries: Is Golden Rice Special?,
+      AgBioWorld, http://www.agbioworld.org/biotech-info/topics/golden
+      rice/specialgoldrice.html.
+Premanandh, Jagadeesan. 2011. Global Consensus – Need of the Hour
+      for Genetically Modified Organisms (GMO) Labeling. Journal of
+      Commercial Biotechnology 17:37-44.
+Regan, Donald. 2002. Regulatory Purpose and “Like Products” in
+      Article III:4 of the GATT (With Additional Remakes on Article
+      III:2). Journal of World Trade 36:443-478.
+Scholderer, Joachim. 2005. The GM Foods Debate in Europe: History,
+      Regulatory Solutions, and Consumer Response Research. Journal
+      of Public Affairs 5:263-274.
+Schramm, Daniel. 2007. The Race to Geneva: Resisting the
+      Gravitational Pull of the WTO in the GMO Labeling Controversy.
+      Vermont Journal of Environmental Law 9:93-129.
+Stilwell, Matthew. Protecting GMO Labeling from a WTO Challenge.
+論基改食品標示在 WTO 規範之合致性與適當之立法模式                                            237
+
+
+    Institute for Agriculture and Trade Policy, https://www.iatp.org/sites/
+    default/files/Protecting_GMO_Labeling_from_a_WTO_Challenge.
+    htm.
+Wong, Julian. 2003. Are Biotech Crops and Convention Crops Like
+    Products? An Analysis Under GATT. Unpublished manuscript.
+    Duke University. Available at http://scholarship.law.duke.edu/cgi/
+    viewcontent.cgi?article=1096&context=dltr.
+238                                                     2015 行政管制與行政爭訟
+
+
+
+
+      Formulating a WTO-Consistent GMO
+       Labeling Requirement for Taiwan:＊
+            An Analysis of Current Labeling Laws
+                  and Legislative Strategy
+
+
+                Kuei-Jung Ni＊＊ & Chih-Yuan Lo＊＊＊
+
+                                   Abstract
+     GMO labeling laws have proven to be a controversial issue. While
+there is no conclusive scientific evidence that GM foods on the market
+pose any food safety risk, many countries still impose mandatory GMO
+labeling requirements due to concerns from consumers. Taiwan is one of
+those countries. However, because these labeling requirements may
+increase the cost of trade, they risk violating the WTO’s SPS Agreement
+and/or TBT Agreement. Thus, when formulating GMO labeling laws,
+governments must take into account both the consumer rights and their
+countries’ obligations under the WTO. This article analyzes Taiwan’s
+current GMO labeling laws to make comparisons with the US and EU,
+and examines whether the measures comply with the rules set out in the
+TBT/SPS Agreements. The article then provides some suggestions on
+how to improve the current labeling laws to decrease its chances of
+violating the WTO Agreements while maintaining adequate protection
+for consumer rights.
+KEYWORDS: GMO, Labeling, WTO, SPS Agreement, TBT Agreement,
+          Act Governing Food Safety and Sanitation.
+
+
+＊   The authors would like to express gratitude to two anonymous referees for their
+    helpful comments and suggestions.
+＊＊ Professor of Law, School of Law, National Chiao Tung University.
+＊＊＊ LL.M., School of Law, National Chiao Tung University.
+

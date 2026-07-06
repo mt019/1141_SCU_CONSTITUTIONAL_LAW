@@ -1,0 +1,1738 @@
+《憲法解釋之理論與實務》第八輯
+主題演說：司法改革十週年的回顧與展望  廖福特主編                                                         1
+ 臺北 中央研究院法律學研究所 專書（18）
+民國 103 年 7 月，頁 1-47
+
+
+
+
+Legislating Responses to Security Threats:
+          The Requirement of Legislative Authority to
+                Take Anti-Terrorist Measures
+
+                            Keynote Address
+
+                        (Delivered on December 9, 2011)
+
+                               Barak Medina＊
+
+                                    Contents
+ Introduction
+ I. Legislating Anti-terrorist Measures: An International Comparison
+      1. Targeted Killings and Other “Military” Measures
+      2. Detentions and Criminal Trials
+      3. Interrogations and Information Gathering
+      4. Summary
+ II. Positive Evaluation of the Decision whether to Legislate: Legal and
+      Political Considerations
+      1. The Requirement of Explicit Legislative Authorization
+      2. The Decision whether to Legislate: Political Considerations
+ III. The Appropriate Role of the Legislature
+      1. The Benefits of Requiring Legislated Authorization
+      2. Symbolic Costs of Legitimizing Human Rights Infringements in
+          Legislation
+ IV. Concluding Remarks
+
+
+＊ Lawrence D. Biele Professor of Law and Dean, Faculty of Law, Hebrew University of
+  Jerusalem, Israel.
+  ［責任校對：楊承燁、王文咨］              。
+  穩定網址：http://publication.iias.sinica.edu.tw/51601141.pdf。
+2                                              《憲法解釋之理論與實務》第八輯
+
+
+
+       Introduction
+
+      In Hamdan (2006), in which the U.S. Supreme Court ruled that a
+suspected terrorist cannot be tried by a military commission, Justice
+Breyer pointed-out that the Court’s holding “rests upon a single ground:
+Congress has not issued the Executive a ‘blank check.’ ” According to
+this position, “[w]here …no emergency prevents consultation with
+Congress”, the Court would “insist” requiring “the President [to return]
+to Congress to seek the authority he believes necessary.”1 This doctrine
+is of high importance in every democracy, but its scope is quite vague.
+For one thing, it is debated whether the proposition “Congress has not
+issued the Executive a ‘blank check’” is merely an interpretation of
+some specific legislation or rather a constitutional rule, resembling the
+Non-Delegation doctrine. Moreover, it is not settled whether this
+requirement of legislative authority applies to all anti-terrorist measures.
+For instance, does it apply to targeted killings or restrictions like curfew
+or closure imposed on the population at an occupied territory, which are
+typically not authorized in legislation? An additional aspect is the status
+of the laws of war (mainly the Geneva Conventions) in this respect: does
+the conclusion that international law does not prohibit taking a certain
+measure exempt the Executive Branch from the requirement to seek
+explicit legislative authority? Finally, as a matter of policy, what are the
+expected consequences of insisting on legislative authorization—would
+it limit (for better or for worse) the arsenal of actions the government can
+take in its fight against terrorism?
+
+      The first step in the attempt to answer at least some of these
+
+1 Hamdan v. Rumsfeld, 548 U.S. 557, 636 (2006) (joined by Justices Kennedy, Souter,
+    and Ginsburg).
+Keynote Address: Legislating Responses to Security Threats                3
+
+
+questions is to understand the current practices in the democratic world
+regarding legislating responses to security threats. The comparative
+analysis presents a mixed picture. Under the prevailing constitutional
+norms, the requirement of legislative authorization is limited mainly to
+instances of measures taken in the territory against citizens, and to
+activities aimed at retribution rather than preemption. Accordingly, while
+the last decade has witnessed a growing involvement of legislatures in
+delineating what measures can legitimately be employed and in what
+circumstances, this legislation is limited mostly to authorizing measures
+employed within the territory and target citizens, and only scarcely one
+can find legislation authorizing “military” anti-terrorist activities taken
+abroad. Moreover, while such legislation does impose some restrictions
+on the use of force, reflecting an interest in achieving appropriate
+“balancing” between security and liberty, its more dominant purpose is
+precisely in the opposite direction, aiming at legitimizing the use of
+certain measures that were otherwise considered prohibited.
+
+     Not surprisingly, legislators are reluctant to initiate legislation
+which restricts or otherwise delineates the powers of the Executive
+Branch in its fight against terrorism. The stakes are high, and imposing
+restraints on the use of certain types of military force is typically
+perceived as a politically unrewarding activity, especially when the
+measures are directed against foreigners. Thus, if legislating what
+measures can be employed is desirable, it is probably inevitable to
+expand the relevant constitutional doctrine and in appropriate cases to
+judicially enforce the requirement of explicit legislative authorization to
+take certain measures. The debate is whether such requirement is indeed
+desirable. I suggest that legislatures should play a greater role in
+delineating the powers governments may employ in their fight against
+terrorism.
+4                                                 《憲法解釋之理論與實務》第八輯
+
+
+
+     The requirement of legislative authorization is based on several
+arguments. A well known one is that of democratic self-government. The
+requirement of explicit legislative authorization to take certain measures
+is essential to induce democratic deliberation.2 It may seem that the
+quite poor record of legislation in the democratic world, which primarily
+enables, rather than restricts governmental activities, should serve as a
+strong indication that insisting on legislated authorization is futile. Even
+worse, the enactment may be detrimental to the protection of basic
+liberties, due to the symbolic and other indirect adverse effects of
+authorizing in legislation human rights infringements. I find these
+concerns unfounded. The duty to openly justify holding certain powers,
+while approaching the tragic choices involved in responding to security
+threats under a Rawlsian constraint of “public reason,”3 substantially
+restrains the powers the Executive is authorize to take. The concern of
+the symbolic adverse effects of authorizing human rights infringements
+is limited. Once it is accepted that basic liberties may justifiably be
+infringed under certain circumstances, there is no escape from
+delineating those circumstances.
+
+     According to an opposite concern, if enforcing the requirement
+does prevent the government from applying certain measures, it will
+endanger the national security. This concern too is unpersuasive. The
+
+
+2 As suggested by Justice Scalia in Hamdi, “[i]f civil rights are to be curtailed during
+  wartime, it must be done openly and democratically, as the Constitution requires…”.
+  Hamdi v. Rumsfeld, 542 U.S. 507, 578 (2004). In his concurring opinion in Hamdan,
+  Justice Breyer referred to this reasoning: “judicial insistence upon … consultation
+  [with Congress] does not weaken our Nation’s ability to deal with danger. To the
+  contrary, that insistence strengthens the Nation’s ability to determine—through
+  democratic means—how best to do so. The Constitution places its faith in those
+  democratic means.” Hamdan, 548 U.S. at 636.
+3 JOHN RAWLS, POLITICAL LIBERALISM 223 (1993).
+Keynote Address: Legislating Responses to Security Threats                         5
+
+
+doctrine under consideration does not require the government to obtain
+the legislature’s approval to employ certain measures (or, for that
+purpose, to declare “war” or a state of emergency). It merely imposes the
+Executive Branch to convince the legislature that certain measures
+should be included in the arsenal of actions that can be used, in a given
+set of circumstances, in the fight against terrorism. Indeed, when the
+circumstances are exigent, the Executive Branch may employ its
+emergency powers and take actions even without legislative authority. It
+may also take immediate measures as needed in cases of necessity. The
+government is required, however, to establish that the circumstances are
+indeed exigent. The fight against terrorism should not be regarded as
+constituting a state of emergency, as the measures that governments
+consider as essential to purse this fight are well known. It is the
+Executive Branch’s responsibility to initiate legislative proceedings to
+obtain the authority it deems necessary.
+
+     Legislation provides the required authority only when it explicitly
+addresses specific measures and details the circumstances in which each
+of them can be employed. Thus, decisions such as the U.S. Congress
+Authorization for the Use of Military Force (AUMF), which authorizes
+the President “to use all necessary and appropriate force” against those
+involved in the 9/11 terror attack, “in order to prevent any future acts of
+international terrorism against the United States,” are insufficient. Such
+an authorization may fulfill the requirement of the War Powers
+Resolution, by providing “[a]uthority to introduce United States Armed
+Forces into hostilities.”4 But this is an authority to use, in a specific
+
+4 The AUMF provision that “Congress declares that this section is intended to
+   constitute specific statutory authorization…” refers to the War Powers Resolution
+   requirement of a “provision [which] specifically …states that it is intended to
+   constitute specific statutory authorization” to use force (section 8(a)(1)).
+6                                           《憲法解釋之理論與實務》第八輯
+
+
+
+context, only those measures that the President finds as “necessary and
+appropriate” which the Executive Branch is empowered to take
+according to existing legislation. Resolutions such as the AUMF do not
+trump the requirement of legislative authorization to take specific anti-
+terrorist measures.
+
+     The essay proceeds as follows: Part I provides an overview of the
+scope of legislation in several Western democracies in determining the
+legitimacy of specific responses to security threats. Part II discusses
+legal and political considerations that affect the decision whether to
+legislate in this context. Part III presents the case in favor of a greater
+involvement of the legislature in determining what measures are
+legitimate in response to threats of terror, by evaluating the benefits and
+the costs of legislation in this area.
+
+
+
+I. Legislating Anti-terrorist Measures:
+   An International Comparison
+
+     Countries vary in the intensity of their fight against terrorism, and it
+is thus difficult to compare the various legal systems’ tendency to
+legislate in this area. A state that does not use measures such as targeted
+killings or administrative detentions of suspected terrorists can hardly be
+expected to authorize in legislation employing such powers. With this
+caveat in mind, this Part aims at providing a brief overview of the
+current practice in this area in several democratic states. Democracies
+take numerous anti-terrorist measures, and instead of detailing all the
+nuances of specific statues in each country, the discussion here presents
+only the main patterns. It addresses the following anti-terrorist measures:
+Keynote Address: Legislating Responses to Security Threats                          7
+
+
+
+targeted killings and other “military” measures, administrative detention,
+and information gathering.5
+
+     The comparative study addresses two main aspects: First, in this
+Part, to what extent the power to employ specific anti-terrorist measures
+is explicitly authorized in (domestic) legislation; and when such
+legislation is missing, what is the alternative legal basis of taking such
+measures? Second, in Part II below, when such legislation exists, what
+are the prevailing reasons for the enactment?
+
+1. Targeted Killings and Other “Military” Measures
+
+     Several countries, including the United States and Israel, have made
+targeted killing—the deliberate assassination, usually by an airstrike, of
+a person who is involved in terrorist activities, as a preemptive
+measure—a central part of their fight against terrorism. As a general
+matter, democracies do not authorize in legislation taking such actions.
+The prevailing view is that as long as this policy is applied as a
+preemptive measure, rather than for pecuniary purposes or deterrence, an
+explicit legislative authorization is not required. In some countries, such
+as the U.S., the policy of targeted killings is authorized in Presidential
+Executive Orders; 6 while in others even such an explicit statement
+
+
+5 For a related typology, see Daphne Barak-Erez, Terrorism Law between the
+  Executive and Legislative Models, 57 AM. J. COMP. L. 877 (2009) (evaluating the
+  choice between promulgating anti-terrorism measures through the executive (“the
+  executive model of terrorism law”) as opposed to doing so through the legislative
+  branch (“the legislative model of terrorism law.”)); John Ferejohn & Pasquale
+  Pasquino, The Law of the Exception: A Typology of Emergency Powers, 2 INT’L J.
+  CONST. L. 210, 216-18 (2004) (referring to “the legislative model” as one which
+  “handles emergencies by enacting ordinary statutes that delegate special and
+  temporary powers to the executive.”).
+6 Executive Order 12333 (1981) bans covert acts of murder for political reasons, but
+  in 1998 President Clinton issued a presidential finding (equivalent to an executive
+8                                                  《憲法解釋之理論與實務》第八輯
+
+
+
+endorsing this policy is missing. This approach enables legislatures to
+refrain from taking part in resolving the difficult dilemmas about the
+conditions in which it is justified to use such measures.
+
+     In the absence of explicit legislation, the arguable legal authority to
+employ this policy is typically based on international law. The main
+source is the customary international law and Article 51 of the United
+Nations Charter, which allows countries to use force in self-defense after
+suffering an “armed attack.”7 The prevailing view is that if there is no
+explicit domestic law that prohibits the state from applying this measure,
+no explicit authorization is needed. Courts and scholars find two types of
+general norms as sufficient domestic authorization. One type is
+legislation which grants the Executive Branch with general authority to
+use force. This is the case in the U.S., in which the government and
+some scholars refer in this respect to the broad language of the AUMF,
+which authorizes the President “to use all necessary and appropriate
+force against those nations, organizations, or persons he determines
+planned, authorized, committed, or aided the terrorist attacks that
+occurred on September 11, 2001, or harbored such organizations or
+persons, in order to prevent any future acts of international terrorism
+against the United States by such nations, organizations or persons.”8
+
+
+  order) authorizing the use of lethal force in self-defense against Al-Qaeda in
+  Afghanistan. Following the attacks of September 11, 2001, President Bush reportedly
+  made another finding that broadened the class of potential targets, authorizing to kill
+  even U.S. citizens abroad if there was strong evidence that they are involved in
+  organizing or carrying out acts of terrorism against the United States. See, e.g.,
+  Gabriella Blum & Philip Heymann, Law and Policy of Targeted Killing, 1 HARV.
+  NAT’L SEC. J. 145, 149-51 (2010); NILS MELZER, TARGETED KILLING IN
+  INTERNATIONAL LAW 37-44 (2008).
+7 Abraham D. Sofaer, Terrorism, the Law, and the National Defense, 126 MIL. L. REV.
+  89, 119 (1989).
+8 FINDLAW, Authorization for Use of Military Force (Enrolled Bill), available at
+Keynote Address: Legislating Responses to Security Threats                              9
+
+
+
+Similarly, the Israeli Supreme ruled that the requirement of domestic
+authorization to deliberately kill persons who take “direct part in
+hostilities” is fulfilled by the general authority granted in legislation to
+the armed forces, “to do all acts necessary and legal, in order to defend
+the State and in order to attain its security-national goals.”9
+
+      Another type of legislation which is often mentioned as a possible
+formal source of authority is domestic legislation which provides law
+enforcement officers with the power to use, in appropriate circumstances,
+all the necessary means to effect the arrest.10 A related argument is that
+the authorization can be found in the general concept of necessity; or, as
+in the Israeli case, by reference to the criminal law defense of lawful
+capacity of office.11 The Israeli Supreme Court ruled, in response to the
+claim about the lack of legislated authorization, that “when soldiers of
+the Israel Defense Forces act pursuant to the laws of armed conflict, they
+
+
+   http://news.findlaw.com/hdocs/docs/terrorism/sjres23.enr.html (last visited May 15,
+   2012).
+ 9 Article 1 of Basic-Law: the Army; article 18 of the Administration of Rule and
+   Justice Ordinance, 1948; article 40(b) of Basic-Law: the Government, which
+   recognizes the government’s powers to take “any military acts needed in order to
+   defend the State and public security.”; HCJ 769/02 Public Committee Against
+   Torture in Israel v. Government of Israel, 62 (1) PD 507, para. 19 [2006] (Isr.),
+   English translation available at http://elyon1.court.gov.il/files_eng/02/690/007/A34/
+   02007690.a34.pdf.; The Israeli Court ruled there that the state may deliberately kill
+   persons on the basis of article 51(3) of the First additional Protocol to the Geneva
+   Convention, which provides that “civilians shall enjoy the protection afforded by this
+   section, unless and for such time as they take a direct part in hostilities.”
+10 For a discussion of the legitimate scope of such legislation, see, e.g., Tennessee v.
+   Garner, 471 U.S. 1 (1985) (holding that such statutes are constitutional insofar as
+   they authorize the use of deadly force against only if the use of such force is
+   necessary to prevent a person’s escape from arrest and the officer has probable cause
+   to believe that the suspect poses a significant threat of death or serious physical
+   injury to the officer or others).
+11 According to article 34(m)(1) of the Israeli Penal Code, a person shall not be
+   criminally liable for an act which he “has a duty, or is authorized, by law, to do”.
+10                                                《憲法解釋之理論與實務》第八輯
+
+
+
+are acting ‘by law,’ and they have a good justification defense.”12 The
+prevailing view in the U.K. is that targeted killings are authorized by
+Section 3(1) of the Criminal Law Act, 1967, which states that “a person
+may use such force as is reasonable in the circumstances in the
+prevention of crime…,” and by the common law norms of self-defense.13
+Similarly, in Germany a reference is made to legislation which
+empowers law enforcement officers to kill a person in order to protect
+others from serious bodily harm or unlawful violence to their lives.14
+
+       However, it is doubtful whether the last type of legislation is indeed
+sufficient here. First, a criminal law defense, of either excuse or
+justification, is not tantamount to explicit, ex-ante authorization to use
+force. When a criminal law justification applies, the underlying
+assumption is that a criminal prohibition was violated, but that in the
+relevant circumstances there was a justified reason for doing that. In
+contrast, a statute which authorizes a state official to employ a policy of
+targeted killings presents the view that this policy is a justified one.15
+The aim of the requirement of statutory authorization is to call the
+legislature to determine whether the action is justified, not whether state-
+
+
+12 HCJ 769/02 Public Committee Against Torture in Israel v. Government of Israel, 62 (1)
+     PD 507, para. 19 [2006] (Isr.).
+13 MELZER, supra note 6, at 22-27.
+14 Id. at 12-13. For such “final rescue shot” acts, see, e.g., Section 54(2) PolGBW
+   (Baden-Württemberg); Art. 66(2)(2) BayPAG (Bayern); § 66(2)(2) BbgPolG
+   (Brandenburg); § 60(2)2) HSOG (Hessen); § 76(2)(2) Nds.SOG (Niedersachsen); §
+   63(2)(2) POG RP (Rheinland-Pfalz); § 57(1)(2) SPolG (Saarland); § 34(2)
+   SächsPolG (Sachsen); § 65(2)(2) SOGLSA (Sachsen-Anhalt); § 64(2)(2) ThürPAG
+   (Thüringen).
+15 For a discussion on this issue, see Miriam Gur-Arye, Can the War against Terror
+   Justify the Use of Force in Interrogations? Reflections in Light of the Israeli
+   Experience, in TORTURE: A COLLECTION 183 (Sanford Levinson ed., 2004); Miriam
+   Gur-Arye, Justifying the Distinction between Justification and Power (Justifications
+   vs. Power), 5 CRIM. L. & PHIL. 293 (2011).
+Keynote Address: Legislating Responses to Security Threats                           11
+
+
+
+actors should be exempted from criminal liability if taking such measure.
+Second, criminal law defenses and the legislation which provides law
+enforcement officers with the power to use force to effect an arrest refer
+to instances in which the use of lethal force is not a premeditated plan to
+kill someone. The typical case is that of a failed attempt of arrest of a
+person imposing an immediate threat. In contrast, targeted killing is a
+policy in which armed forces deliberately aim to kill a person, often
+without attempting to capture him (presumably based on the view that
+such an attempt is impractical). It is a policy that according to the
+prevailing view can be employed even when the targeted person does
+not impose an immediate threat, as it is sufficient that he takes a direct
+part in hostilities. This distinction was at the heart of the European Court
+of Human Rights decision in the case of McCann, which evaluated the
+killing of three persons, suspected as IRA terrorists, by the U.K.
+government. The U.K. denied a premeditated plan to kill these persons,
+possibly due to its recognition of a lack of sufficient legislative
+authorization to carry out such a policy, and the Court thus employed the
+norms relevant to the use force to effect an arrest, and found the action
+unlawful.16
+
+     Interestingly, international human rights treaties too mostly exclude
+the requirement of explicit authorization in law as one of the conditions
+of justified infringement of the right to life. The International Covenant
+on Civil and Political Rights (ICCPR), the American Convention on
+
+16 The Court ruled that due to the failure of the authorities to make sufficient
+   allowances for the possibility that their intelligence assessments might be erroneous
+   and to the automatic recourse to lethal force when the soldiers opened fire, the
+   killing did not constituted the use of force which was no more than absolutely
+   necessary in defense of persons from unlawful violence, within the meaning of
+   article 2(2)(a) of the European Convention. McCann and Others v. the United
+   Kingdom, 21 Eur. Ct. H.R. 97, para. 148-50 (1995).
+12                                                 《憲法解釋之理論與實務》第八輯
+
+
+
+Human Rights, and the African Charter of Human and People’s Rights
+prohibit arbitrary deprivation of life.17 Similarly, Article 2(2) of the
+European Convention on Human Rights, allows for killing a person
+“when it is… absolutely necessary, in defence of any person from
+unlawful violence; in order to effect a lawful arrest or to prevent escape
+of a person lawfully detained; [or] in action lawfully taken for the
+purpose of quelling a riot or insurrection.” Here too the standard
+prerequisite for justified infringement of other right, that the action
+would be “as proscribed by law,” is missing. Possibly, the implicit
+assumption is that legitimate infringements of the right to life are those
+that are not premeditated, that is that can be justified in terms of
+immediate necessity, and these do not require an explicit ex-ante
+authorization; whereas deliberate killings can be justified only under the
+laws of war, outside the scope of human rights law.
+
+       Explicit legislated authorization is also missing regarding the
+various military anti-terrorist measures taken by governments within
+occupied territories. The international law of Belligerent Occupation
+authorizes the occupying state to “take all the measures in [its] power to
+restore, and ensure, as far as possible, public order and safety, while
+respecting, unless absolutely prevented, the laws in force in the country”
+(Article 43 of the Annex to the Hague IV Regulations Respecting the
+Laws and Customs of War on Land, 1907). These norms provide the
+occupying state with extensive powers, making legislation, under the
+conventional view, unnecessary. Thus, for instance, the Israeli Supreme
+
+
+17 See International Covenant on Civil and Political Rights, art. 6(1), Dec. 16, 1966, 99
+     U.N.T.S. 171 (entered into force Mar. 23, 1976); American Convention on Human
+     Rights, art. 4, Nov. 22, 1969, 1144 U.N.T.S. 123 (entered into force July 18, 1978);
+     African Charter on Human and Peoples’ Rights, art. 4, June 27, 1981, 1520 U.N.T.S.
+     217 (1982).
+Keynote Address: Legislating Responses to Security Threats                            13
+
+
+
+court ruled that the government is authorized, notwithstanding the lack
+of authorizing domestic legislation, to take within occupied territories
+anti-terrorist measures such as demolitions of houses in which suicide-
+bombers lived, and to employ mass curtailments of freedom of
+movement, including imposing curfews and closures on the residents in
+certain areas, and the construction of a separation barrier within the
+occupied territory.
+
+2. Detentions and Criminal Trials
+
+      The central measure taken against suspected terrorists is
+apprehension. Democracies use three different means is this respect:
+indicting suspects through the “regular” criminal justice system,
+sentencing them in military commissions, and holding such persons in
+military (or “administrative”) detention. The first option is always based
+on explicit legislation, as it is essential in determining offences.
+
+      An important element here is the quite broadly-defined crime of
+“membership” in a terror organization, and providing it material support.
+Such legislation can be found in practically all democracies. Examples
+include, in the U.S., 18 U.S.C. § 2339B, a statute making it a felony to
+provide “material support or resources” to a designated foreign terrorist
+organization;18 and in the U.K., sections 11 of the Terrorism Act 2000,
+prohibits belonging or professing to belong to a proscribed
+organization.19 Similar Acts were enacted in Germany, Israel, Australia,
+
+18 In addition, 18 U.S.C. § 2339(A) (2000) makes it an offence to provide material
+   support or resources, knowing or intending that they be used in preparation for, or in
+   carrying out, a violation of various criminal prohibitions associated with terrorism.
+19 For a discussion of the compatibility of this Act with the Human Rights Act 1998,
+   see, e.g., R (On the Application of the Kurdistan Workers’ Party and Others) v.
+   Secretary of State for the Home Department, [2002] EWHC 644 (Admin.) (Eng.);
+   and R v. Sheldrake and AG’s Reference (No. 4 of 2002), [2004] UKHL 43, [2005] 1
+14                                                   《憲法解釋之理論與實務》第八輯
+
+
+
+Canada, and more. 20 Legislation is also prevalent regarding other
+prohibitions on supporting terror, including norms prohibiting financing
+terror organizations and incitement to terrorism.
+
+       In addition to legislating crimes of supporting terror organizations,
+several democracies enacted special rules regarding criminal procedures
+against suspected terrorists. A notable example is the U.S. enactment of
+the Classified Information Procedures Act (CIPA), which allows judges
+to approve the use of redaction, substitution and other methods meant to
+reconcile a defendant’s rights with the government’s obligation to
+preserve the secrecy of sensitive information. Israel is another notable
+example in this respect. The Israeli legislature has enacted statutes which
+derogate several procedural rights of suspected terrorists.21 In many
+democracies explicit legislation empowers holding suspected terrorists
+in a civil detention for periods that exceed the generally applicable
+
+
+     A.C. 264.
+20 For a review, see Liat Levanon, Criminal Prohibitions on Membership in Terrorist
+     Organisations, 15 NEW CRIM. L. REV. 224 (2012).
+21 For instance, the Criminal Procedure (Enforcement Powers-Detentions) Law, 1996,
+     compels investigation authorities to inform a relative of a person detained and a
+     lawyer of his or her choice about the detention; but according to this law, in the case
+     of persons suspect of terrorist activities the Court may exempt security agencies
+     from the requirement to inform someone about the detention for up to 15 days,
+     “whenever the Minister of Defense approved that the State’s security compels
+     keeping the detention secret” (sections 33 and 36). The same is true in respect to the
+     right to counsel. The Criminal Procedure (Enforcement Powers-Detentions) Law,
+     1996, compels investigation authorities to enable a detainee to counsel with a lawyer.
+     However, this law authorizes infringing this right for up to 10 days whenever the
+     detainee is accused in “security” offenses (sections 34 and 35). Additional legislation
+     include the Criminal Procedure Act (A Detainee Accused in a Security Offence)
+     (Temporary Provision), 2006, which empowers the government to infringe other
+     basic liberties of persons who are suspected terrorists, and the Criminal Procedures
+     Act (Criminal Investigations), 2002, which provides a general exemption from the
+     duty of written or video documentation of interrogations in the case of investigating
+     a person accused of terror related offenses (section 17).
+Keynote Address: Legislating Responses to Security Threats                          15
+
+
+
+norms.22
+
+     The same is true with respect to military commissions. As this
+measure is not aimed at preemption but primarily at retribution and
+deterrence, the powers of military commissions to try suspected
+terrorists is regulated in legislation. In the U.S., such legislation, the
+Military Commissions Act of 2006, was enacted only following a
+judicial decision (in the Hamdan case) that such legislation is required to
+try suspected terrorists in such tribunals, at least for crimes which do not
+amount to war crimes.23 In other countries such legislation was enacted
+without judicial intervention.
+
+     Military or administrative detentions are not always authorized in
+legislation. However, it seems that there is a pattern of a growing
+involvement of the legislature in authorizing and regulating employing
+the power to hold suspected terrorists in a military detention. The debate
+in this respect is whether administrative detention should be viewed, at
+least for the purpose of the requirement of legislation, similar to the
+power to hold enemy combatants as prisoners-of-war (POW). This latter
+power is conceived as invested in the powers of the Executive Branch,
+making domestic legislation unnecessary. While suspected-terrorists do
+not enjoy the status of POW’s under the laws of war, one may argue that
+the power to detain them, for preventive purposes, should be similarly
+part of the powers of the government. Following this view, the U.S.
+Congress has declined to address this issue of military detention without
+
+22 For instance, the USA Patriot Act of 2001 allows the U.S. attorney general to detain
+   alien without charge for seven days; in the UK, Schedule 8 of the Terrorism Act of
+   2000 regulates terrorists pre-charge detention; in Australia, Section 23DA Crimes
+   Act 1914; and in Israel, the Criminal Procedure Act (A Detainee Accused in a
+   Security Offence) (Temporary Provision), 2006.
+23 Hamdan, 548 U.S. at 636.
+16                                                  《憲法解釋之理論與實務》第八輯
+
+
+
+trial in any detail. The prevailing view is that since military detention
+aims to incapacitate in order to prevent future harm in battle, this
+measure is part of the President’s War Powers. Thus, in the Hamdi case
+(2004) the U.S. Supreme Court ruled that the government can hold even
+an American citizen in detention without explicit legislative
+authorization. It ruled that the general authorization provided by the
+AUMF is sufficient for this purpose.24
+
+      This view is doubtful. According to the laws of war, a person can be
+detained only if he is a member of enemy armed forces.25 The affiliation
+of suspected terrorists, mainly those who are not detained in the battle
+field, is typically questionable. In this respect the U.S. Supreme Court
+insisted in Hamdi (regarding U.S. citizens) and in Rasul (regarding
+aliens) that the power to hold a person in detention exists only once it is
+sufficiently clear that the individual is, in fact, an enemy combatant; and
+absent explicit legislation stating otherwise, the detainee is entitled that
+this issue will be reviewed through a judicial process. 26 The U.S.
+Congress reacted by enacting the Detainee Treatment Act of 2005 (and
+then again the Military Commissions Act of 2006) which explicitly
+eliminated statutory habeas jurisdiction for Guantanamo detainees,
+
+24 Hamdi, 542 U.S. at 519 (“…it is of no moment that the AUMF does not use specific
+   language of detention. Because detention to prevent a combatant’s return to the
+   battlefield is a fundamental incident of waging war, in permitting the use of
+   ‘necessary and appropriate force,’ Congress has clearly and unmistakably authorized
+   detention in the narrow circumstances considered here.”).
+25 Article 21 of the Third Geneva Convention authorizes parties international armed
+   conflicts to detain during hostilities any individual who qualifies as a prisoner of war,
+   and article 4(A) in turn specifies six categories of persons who fall under that
+   heading, including: membership in enemy armed forces, membership in an armed
+   force that professes allegiance to an unrecognized government, persons authorized to
+   accompany such forces, and those who crew merchant marine vessels or civilian
+   aircraft.
+26 Hamdi, 542 U.S. at 532-36; Rasul v. Bush, 542 U.S. 466, 480-85 (2004).
+Keynote Address: Legislating Responses to Security Threats                               17
+
+
+
+replacing it with another framework of judicial review.
+
+      In Israel, the power of administrative detention is authorized in a
+detailed legislation. The central provision is the Emergency Powers
+(Detentions) Law, 1979. The Israeli Supreme Court ruled that this power
+can only be used as a forward-looking preventive measure, against a
+person who poses an individual threat, and may not be used as
+punishment for past acts.27 The Court held that “a person should not be
+detained merely because he has been detained during warfare. …The
+circumstances of his detention must be such that they raise the suspicion
+that he—he individually and no one else—presents a danger to
+security.”28 In response, the Israeli legislature enacted a new legislation
+(without revoking the earlier one)—the Internment of Unlawful
+Combatants Law, 2002, which authorizes the state to intern persons who
+are classified as “unlawful combatants,” to bypass the requirement of
+proving the detainee’s individual dangerousness.29
+
+      In the U.K., the Prevention of Terrorism Act of 2005 empowers
+placing “control orders” (including detention) on “dangerous”
+
+
+27 See, e.g., HCJ 5784/03 Salama v. Israel Defence Forces Commander in Judea and
+   Samaria 57(6) PD 721, para. 7 [2003] (President Barak) (Isr.): “The basic premise is
+   that administrative detention is meant to prevent future danger to the security of the
+   state or to the public safety. Administrative detention is not meant to be a tool used to
+   punish previous acts, or to be used in place of criminal proceedings.” English
+   translation available at: http://elyon1.court.gov.il/Files_ENG/03/840/057/A05/0305
+   7840.A05.HTM.
+28 HCJ 3239/02 Marab v. IDF Commander in the West Bank 57(2) PD 349, para. 23
+   [2003] (President Barak) (Isr.). The Court added in this respect that the army is not
+   authorized to make “mass detentions.” Id. English translation available at http://
+   elyon1.court.gov.il/Files_ENG/02/390/032/A04/02032390.A04.pdf.
+29 However, the Israeli Supreme Court ruled that this law should be interpreted such
+   that the individual dangerousness requirement is applied. See CrimA 6659/06 A v.
+   The State of Israel [2008]. English Translation available at http://elyon1.court.gov.il/
+   Files_ENG/06/590/066/n04/06066590.n04.htm.
+18                                                《憲法解釋之理論與實務》第八輯
+
+
+
+individuals. In Canada, detention of suspected terrorists is made under
+the Immigration and Refugee Protection Act.30 Other countries did not
+enact specific legislation of this kind. In Germany, for instance, laws
+enable a detention for public safety reasons, but for very limited periods
+of several days.
+
+3. Interrogations and Information Gathering
+
+       Democracies tend to authorize in legislation powers related to
+interrogations and information gathering, but in the context of the fight
+against terrorism such legislation is often quite lax. On the one hand,
+legislation prohibiting the use of force in interrogations, and certainly
+torture is prevalent. For instance, in the U.S. both Federal and State
+legislation forbids torture or other like-torture methods by security
+forces.31 In Germany, in addition to explicit legislation, such probation
+is entrenched in the Basic-Law.32 In Australia various legislated norms
+prohibit torture.33 And in the U.K., the Human Rights Act incorporates
+
+
+30 This Act was reviewed in Charkaoui v. Canada (Citizenship and Immigration) [2007]
+     1 S.C.R. 350 (Can.).
+31 The Federal Torture Statute, 18 U.S.C. §§ 2340-2340(A). This issue is determined in
+   a more elaborated way in non-legislative norms, such as the Army Field Manual 2
+   22.3, and Executive Order No. 13440, and No. 13491, “Ensuring lawful
+   interrogations.” See WHITE HOUSE, http://www.whitehouse.gov/the_press_office/
+   EnsuringLawfulInterrogations/ (last visited May15, 2012).
+32 Article 104(I) of the Basic-Law states that “persons in custody may not be subjected
+   to mental or physical mistreatment.” See also Section 136(a) to the German Criminal
+   Procedure Code, which sets additional ground rules to police officers in regards to
+   interrogation.
+33 See Commonwealth Criminal Code (Cth) § 268.13, § 268.25, and § 268.73. Torture
+   is also made criminal by the Human Rights Act of 2004 § 10(1). See also
+   Australian Security and Intelligence Organisation Act 1979 (Cth) § 34T, which states
+   that a person questioned should “be treated with humanity and with respect for
+   human dignity, and must not be subjected to cruel, inhuman or degrading treatment
+   by anyone exercising authority under the warrant or implementing or enforcing the
+   direction.”
+Keynote Address: Legislating Responses to Security Threats                        19
+
+
+
+the European Convention on Human Rights, and thus sets forth the
+prohibition on torture.34
+
+     On the other hand, legislation often provides extensive powers to
+gather information. For instance, the USA Patriot Act (Sections 215, 206)
+and the Intelligence Reform and Terrorism Act of 2004 (Section 6001),
+implement extensive measures for wiretap, tracing persons and
+collecting data on U.S. citizens, and permit secret intelligence
+surveillance on non-U.S. citizens. In Germany, the Federal Intelligence
+Service Law 1990 authorizes the Federal Intelligence Service to “gather
+intelligence... about foreign countries” and “gather all the necessary
+information.” Similarly, in the U.K. the Security Service Act 1989 and
+the Intelligence Services Act 1994, which provides the legal framework
+of the British intelligence agencies, do not detail any limitation on
+information gathering methods by the relevant agencies. In Australia too,
+the Intelligence Services Act 2001 only determines the functions of
+Australia’s intelligence agencies, without specifying the actions allowed
+in obtaining information about non-Australian citizens, whereas the
+Telecommunication (Interception) Act 1979 and its amendments
+imposes several restrictions regarding wiretapping Australian citizens. In
+Israel, the Wiretap Law, 1979 prohibits investigation authorities to
+engage in wiretaps, unless authorized to do so, for the purpose of
+preventing high crimes, by a court order. However, the law exempts
+security agencies from this requirement, and authorizes them to wiretap
+“whenever needed for security reasons,” subject only to the approval of
+
+
+34 However, the Anti-terrorism, Crime and Security Act of 2001, and mainly the Code
+   of Practice for the Detention, Treatment and Questioning of Persons by Police
+   Officers (Code C), which was instituted under authority of the Police and Criminal
+   Evidence Act of 1984, elaborates the scope of legitimate forms of questioning and
+   interrogations.
+20                                          《憲法解釋之理論與實務》第八輯
+
+
+
+the Minister of Defense (Section 4).
+
+4. Summary
+
+     The comparative analysis presents a mixed picture. While the last
+decade has witnessed a growing involvement of legislatures in
+delineating what measures can legitimately be employed and in what
+circumstances, this legislation is limited mostly to authorizing measures
+employed within the territory and target citizens, and only scarcely one
+can find legislation authorizing “military” anti-terrorist activities taken
+abroad. Moreover, while such legislation does impose some restrictions
+on the use of force, reflecting an interest in achieving appropriate
+“balancing” between security and liberty, the more dominant purpose is
+to legitimize the use of certain measures that were otherwise considered
+prohibited.
+
+
+
+II. Positive Evaluation of the Decision whether to
+    Legislate: Legal and Political Considerations
+
+     The preceding discussion shows that legislatures often take a rather
+minimalist approach in determining the legitimacy of decisions taken by
+the Executive Branch in the fight on terror. The following discussion
+briefly outlines the underlying reasons of the decision to legislate certain
+aspects of this fight and to avoid it in others. The discussion refers to two
+main types of considerations in deciding whether or not to enact—legal
+and political ones. It aims at explaining the current legal doctrine
+regarding the requirement to provide explicit legislative authorization,
+and the reluctance of legislatures when such a requirement does not
+apply.
+Keynote Address: Legislating Responses to Security Threats                      21
+
+
+
+1. The Requirement of Explicit Legislative Authorization
+
+     The Legal doctrine regarding the requirement of explicit legislative
+authorization is somewhat ambiguous, but it can be summarized
+according to the following main elements. One aspect, which is relevant
+only in Presidential regimes, is whether the legislature has the power to
+legislate in these areas. The doctrine known in the U.S. as “War
+Powers,” suggests that decisions of the president related to a war or
+national crisis are beyond the reach of statutory law. According to one
+view, as long as a country is at war with terrorist organizations, “the full
+panoply of presidential power in time of war comes into play.”35 The
+result is that the legislature is not authorized to restrain the President, as
+the Commander-in-Chief, to employ certain anti-terrorist measures.
+However, this view is generally rejected. The fight on terror is made
+“within the law,” and legislated and court-made law bind the Executive
+Branch.36
+
+     One type of cases in which legislated authorization is required is
+when specific legislation prohibits the use of a certain measure. The
+authorization is then required to override the legislated prohibition. An
+example is the U.S. case of Hamdi (2004). The Court there was split on
+whether the AUMF provides sufficient legislated authority to hold a U.S.
+citizen in military detention.37 The important point is, however, that all
+Justices based their view that such an authorization is required on an
+
+35 John C. Eastman, Listening to the Enemy: The President’s Power to Conduct
+   Surveillance of Enemy Communications During Time of War, 13 ILSA J. INT’L &
+   COMP. L. 1, 5 (2006). For a similar view, see, e.g., JOHN YOO, THE POWERS OF WAR
+   AND PEACE: THE CONSTITUTION AND FOREIGN AFFAIRS AFTER 9/11, at 8-20 (2006).
+36 VICTOR M. HANSEN & LAWRENCE FRIEDMAN, THE CASE FOR CONGRESS: SEPARATION
+   OF POWERS AND THE WAR ON TERROR 2 (2009).
+37 Hamdi, 542 U.S. at 517.
+22                                          《憲法解釋之理論與實務》第八輯
+
+
+
+existing legislation—the Non-Detention Act of 1971. This Act states that
+“[n]o citizen shall be imprisoned or otherwise detained by the United
+States except pursuant to an Act of Congress.” Similarly, in the case of
+Hamdan (2006) the Court ruled that an explicit legislated authority is
+required, and it based this position on its ruling that an existing
+legislation, the Uniform Code of Military Justice, prohibits trying
+suspected terrorists in military commissions for crimes which do not
+amount to war crimes.38 In such instances the requirement of legislation
+is thus based on concrete existing norms.
+
+     Anti-terrorist    measures    that   typically   require    legislative
+authorization on this basis are those that involve trying a suspect at the
+criminal justice system. The norms of criminal procedure and criminal
+law are of general applicability, and to implement more stringent rules in
+trying suspected terrorists, an explicit overriding legislation is required.
+Existing legislation that prohibits the government from taking certain
+measures can also be expected regarding powers that may infringe basic
+liberties of the general public, such as privacy infringing surveillance
+measures, as well as measures that were inappropriately employed in the
+past in the relevant country.
+
+     An interesting issue in this category of cases is whether the finding
+that a certain measure is incompatible with the relevant norms of
+international law would serve as a basis for requiring an explicit
+authorization in law as a prerequisite to justifying taking such measure.
+This is clearly the case when the relevant international law norm is part
+of the domestic law. This is also true when an existing legislation is
+interpreted as excluding a prohibition to take a certain measure only if
+
+
+38 Hamdan, 548 U.S. at 636.
+Keynote Address: Legislating Responses to Security Threats                          23
+
+
+
+employing this measure is permitted according to international law. This
+was the case, for instance, in Hamdan, where Article 21 of the Uniform
+Code of Military Justice permitted trying a person by a military
+commission only “with respect to offenders or offenses that by …the law
+of war may be tried by military commissions;”39 and this was the case
+in Hamdi, where the AUMF, which was viewed as permitting the
+government to override the prohibition set forth by the Non-Detention
+Act only as long as the measures violating this Act are permitted
+according to the laws of war.40 Another example is the Israeli Supreme
+Court decisions that invalidated certain anti-terrorist measures taken by
+the government on the basis of their incompatibility with relevant
+international law norms. Here too, to override such rulings an explicit
+legislation is inevitable.
+
+     Legislation may also be required based on constitutional doctrines.
+It is generally accepted that a measure which infringes upon entrenched
+constitutional rights must be authorized in legislation. This norm
+expands the criminal law principle of legality (nullum crimen sine lege).
+In many democracies this doctrine is explicit in the constitutional text.
+For instance, in Canada, Section 1 of the Canadian Charter of Rights and
+Freedoms guarantees that the rights set out in the Charter may be limited
+as “prescribed by law.”41 In Germany, Article 80(1) of the German
+Basic Law stipulates that “the Federal Government, a Federal Minister,
+or the Land governments may be authorized by a law to issue statutory
+
+39 Id. at 717-18.
+40 Hamdi, 542 U.S. at 541.
+41 Constitution Act, 1982. This requirement was the basis of numerous decisions that
+   invalidated certain measures. For instance, see, e.g., R v. Therens, [1985] 1 S.C.R.
+   613 (Can.); R. v. Simmons, [1988] 2 S.C.R 495 (Can.) (the right to counsel cannot
+   be denied without explicit legislative authorization); R. v. Dersch, [1993] 3 S.C.R.
+   768 (Can.) (access medical records by the police).
+24                                             《憲法解釋之理論與實務》第八輯
+
+
+
+instruments. The content, purpose, and scope of the authority conferred
+shall be specified in the law.” And in Israel, according to Article 8 of the
+Basic-Law: Human Dignity and Liberty, it is impermissible to infringe
+human rights unless the infringement is prescribed by law.
+
+       This principle is accepted in other democracies as well. For
+instance, in the U.S., the Supreme Court ruled in the Youngstown case
+that the President’s War Powers do not trump the requirement of
+legislative authorization whenever he seeks to infringe basic liberties.
+The Court ruled that the framers did not contemplate “that the title
+commander-in-chief of the Army and Navy” would also make the
+President “Commander-in-Chief of the country, its industries and its
+inhabitants.”42 It ruled that notwithstanding the existence of war, to
+pursue the domestic action of seizing steel mills the President would
+have to follow the rules set by Congress. As the Court added in Hamdi,
+“a state of war is not a blank check for the President when it comes to
+the rights of the Nation’s citizens. Whatever power the United States
+Constitution envisions for the Executive in its exchanges with other
+nations or with enemy organizations in times of conflict, it most
+assuredly envisions a role for all three branches when individual liberties
+are at stake.”43
+
+       Several aspects of the scope of this doctrine are contested. One
+aspect is how detailed and precise the authorization should be. Under the
+prevailing approach, following the European Court of Human Rights
+decision in the Sunday Times case, “a norm cannot be regarded as ‘law’
+unless formulated with sufficient precision to enable the citizen to
+
+42 Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 643-44 (1952) (Jackson J.,
+     concurring).
+43 Hamdi, 542 U.S. at 536.
+Keynote Address: Legislating Responses to Security Threats                             25
+
+
+
+regulate his conduct.”44 In practice, courts do not insist on substantial
+involvement of the legislature in authorizing the scope and type of the
+infringement. Often, norms which confer governmental officials with
+wide discretion are recognized as limitations “prescribed by law,”
+notwithstanding the Non Delegation doctrine. Some jurisdictions apply a
+sliding-scale approach, which adjust the level of precision required in
+legislation to the intensity of the infringement. In some instances courts
+ruled that a statute that confers discretion may well be read as to deny
+acts which infringe constitutional rights.45
+
+      The main difficulty is the decision in what instances an
+infringement of basic liberties is recognized. According to the prevailing
+view, human rights law applies only within the territory and not when
+traditional actions of war are taken.46 Instances of international armed
+conflict, and by stipulation also instances of a fight against terrorist
+organizations abroad, are typically subject to the laws of war rather than
+to domestic or international human rights law, at least in the context of
+the requirement that the infringement will be “proscribed by law.” For
+
+44 Sunday Times v. United Kingdom, 2 Eur. Lt. H.R. Rep. 245, 270-73 (1980).
+45 One example is the Canadian Supreme Court decision in Slaight Communications
+   Inc. v. Davidson, [1989] 1 S.C.R. 1038, 1077 (Can.), that “it is impossible to
+   interpret legislation conferring discretion as conferring a power to infringe the
+   Charter, unless, of course, that power is expressly conferred or necessarily
+   implied. …Legislation conferring an imprecise discretion must therefore be
+   interpreted as not allowing the Charter rights to be infringed.” Another example of
+   this approach is the Israeli Supreme Court decision in HCJ 3267/97 Rubinstein v.
+   Minister of Defense 52(5) PD 481 [1998] (Isr.), in which it held that the power to
+   exempt persons from the draft should not be interpreted to include the authority do
+   so on a collective basis, as this would amount to an infringement of the right to
+   equality, which must be explicitly decided by the legislature.
+46 This view somewhat resembles Cass Sunstein’s interpretation of the Hamdan
+   decision as one which requires “clear congressional authorization [whenever] the
+   executive seeks to intrude into the realm of liberty or departs from practices that are
+   historically entrenched.” Cass R. Sunstein, Clear Statement Principles and National
+   Security: Hamdan and Beyond, 2006 SUP. CT. REV. 1, 5 (2007).
+26                                                   《憲法解釋之理論與實務》第八輯
+
+
+
+instance, the Israeli Supreme Court does apply, as a routine, both
+humanitarian international law doctrines and domestic human right law
+in its review of measures taken in Israel’s fight against terror in occupied
+territories; but the provisions of the domestic Basic Law: Human Dignity
+and Liberty are applied only with respect to the evaluation whether
+infringements are justified. The requirement that the measure will be
+proscribed by law is not enforced. In the handful of cases in which the
+Court did refer to this requirement in addressing measures taken within
+the occupied territories it applied a very lenient approach, such that a
+very broad authorization was held sufficient to fulfill this requirement.
+
+       Courts hardly insist on legislative authorization outside the realm of
+human rights law. An interesting exception to this view was offered by
+the Israeli Supreme Court’s 1998 Rubinstein case. The Court ruled there
+that employing contested powers, ones which involve substantive moral
+dilemmas or raise public and political dispute, must be resolved in
+legislation: “The people’s elected representatives must adopt substantive
+decisions regarding State policies. …[T]o the extent that the regulation
+of a particular area requires that fundamental decisions which
+substantially affect the lives of individuals and society be taken, it is
+appropriate that such decisions be made within the confines of the statute
+itself.”47 However, in practice the Court applies this doctrine, to limit
+the government’s powers, only when it recognizes a human right
+infringement.48 Take, for instance, the decision to erect the Separation
+
+
+47 HCJ 3267/97 Rubinstein v. Minister of Defense 52(5) PD 481 [1998] (Isr.).
+48 In 1999 the Court implemented this doctrine by holding that it is impermissible to
+     use coercive interrogation methods, not even in the case of a “ticking bomb,” at least
+     as long as no explicit authorization to do so is promulgated in legislation. HCJ
+     5100/94 Public Committee against Torture in Israel v. Government of Israel 53(4)
+     PD 817 [1999] (Isr.).
+Keynote Address: Legislating Responses to Security Threats                27
+
+
+
+Barrier (“the Wall”), outside the Israeli territory. This is a project of
+unprecedented scale, in terms of its financial costs, its large scale effect
+on Palestinians who live close to it, and the potential political
+consequences of this project. The project, which included confiscating
+land, and denying entry to certain areas, was approved by the Court,
+notwithstanding the lack of legislation authorizing it, based exclusively
+on (expansive) interpretation of norms of humanitarian international law.
+The same is true with respect to the policy of “targeted killings,” and
+other military measures.
+
+2. The Decision whether to Legislate: Political Considerations
+
+     The decision whether to enact norms that relate to governmental
+powers in general, and to the fight against terrorism in particular, may be
+based on three main types of considerations—functional, deliberative
+and symbolic ones. The central element is the functional aspect.
+Legislation may serve to either legitimize an otherwise prohibited
+governmental measure or to prohibit an otherwise legitimate one. This
+consideration is contingent on two background conditions. The first is
+the governing constitutional norms, mainly the scope of judicial review
+of governmental activities, and the enforcement of the requirement of
+explicit legislative authorization as a prerequisite to employ certain
+powers. A second relevant aspect is the legislature’s political motivation
+to restrain the government. Legislation that restrains the government can
+be expected when such intervention is required (mainly since the
+judiciary fails to effectively scrutinize the Executive Branch’s actions),
+and the majority in parliament is willing to confront the government.
+Respectively, a functionally-based permissive legislation is expected in
+response to an activist court, and a parliamentary support of the
+government (based either on the legislature serving as a mere rubber-
+28                                           《憲法解釋之理論與實務》第八輯
+
+
+
+stamp of the government’s policies, or on an ideological position that the
+government should hold the powers under dispute). A related functional
+role of legislation is not only to set policies but also to direct behavior of
+soldiers and other officials. A permissive legislation may serve to shield
+soldiers from the risk of criminal liability, and a prohibitive one may be
+aimed at deterring them from taking certain measures. Here too the
+background rules matters. For instance, if the criminal law defense of
+lawful capacity of office, which provides that a person shall not be
+criminally liable for an act which he has a duty, or is authorized, by law,
+to do, applies when soldiers act pursuant to the laws of armed conflict,
+domestic legislation is not required for this purpose.
+
+     The two other considerations are more nuanced. The deliberative
+aspect refers to the process of legislation, rather than its outcome. This
+process serves as a forum for public deliberation on the disputed issue.
+Thus, the decision whether to legislate is also a result of the prevailing
+political culture regarding the question whether inducing such an open
+deliberation is desirable or not. A strategy of parliamentary deference to
+the Executive Brach may thus be the result of a principled position that
+the proper division of powers between the two branches requires
+assigning the government with limitless discretion in the current context.
+
+     The third consideration, the symbolic one, has to do with the
+outcome of the legislative process, but unlike the functional aspect, the
+current one emphasizes the informal consequences of legislation.
+Typically, the explicit authorization in legislation to hold certain powers
+or to take certain measures, including ones that infringe basic human
+rights or even deontological constraints, may have adverse symbolic and
+(both domestic and international) political consequences. Here too, the
+decision whether to legislate or not can be expected to take these aspects
+Keynote Address: Legislating Responses to Security Threats                               29
+
+
+
+into account, based on an evaluation of their scope and nature in the
+relevant circumstances.
+
+      In general, legislatures do not show an interest, independent of that
+of the government, in restricting or otherwise delineating the powers of
+the Executive Branch. Times of armed conflicts and threats to terror
+activities are characterized by a high level of uncertainty and ambiguity.
+The choice of security measures is based on an integration of
+complicated body of data, some of it confidential, some of it missing or
+indefinite. The stakes are high, and imposing or enforcing restraints by
+the parliament on the use of certain types of military force is typically
+perceived as a politically unrewarding activity.49 It is not surprising then
+that legislatures in liberal democracies employ a rather minimalist
+approach in regulating the fight against terrorism, as discussed above.
+
+      From the government’s perspective, legislation is typically costly,
+in terms of both the requirement of holding extensive deliberations and
+
+
+49 For a similar evaluation of minor rule of Congress in regulating the US war on terror,
+   see, e.g., Jerry L. Mashaw, Due Process of Governance: Terror, the Rule of Law, and
+   the Limits of Institutional Design, 22 GOVERNANCE: INT’L J. POL’Y, ADMIN. & INST.
+   353, 363 (2009) (“Congress has revealed itself to be a weak reed, indeed. …Faced
+   with a direct executive branch challenge to its authority to regulate electronic
+   surveillance, Congress essentially legalized the administration’s extralegal practices.
+   A Congress threatened with political responsibility for making Americans less safe
+   seems to be a Congress determined to maintain that responsibility in the executive
+   branch, even at the cost of delegating the responsibility to protect basic legal and
+   procedural rights to that branch as well.”); Bruce Ackerman & Oona Hathaway,
+   Limited War and the Constitution: Iraq and the Crisis of Presidential Legality, 109
+   MICH. L. REV. 447, 450-51 (2011) (“President Bush put Congress in an untenable
+   position. If it refused funding to enforce its statutory limitations on the war, it would
+   be accused of abandoning the troops in the field. This was too high a political price
+   to pay to force the president to retreat from Iraq, as the initial congressional
+   authorization required. …The strategic use of emergency appropria-tions allowed the
+   president to engage in ‘bait-and-switch’ tactics that undermined effective democratic
+   control over the use of military force.”).
+30                                                 《憲法解釋之理論與實務》第八輯
+
+
+
+the symbolic effects of ex-ante explicit authorization to infringe basic
+liberties. As long as the scope of judicial review is “bearable” in terms of
+the measures it prevents the government from taking, the above costs are
+usually prohibitive. The judicial scrutiny imposes a cost on the
+government, as it prohibits the government from taking the measures it
+deems appropriate and necessary in its fight against terrorism. When the
+gap between the political majority’s views about this issue and the
+activities permitted by the judiciary is large enough, sufficiently high
+cost of the latter type is generated, and the government finds it justified
+initiating legislation and bearing the costs associated with it. Accordingly,
+the higher the above-mentioned costs of legislation that is aimed at
+overriding judicial decisions, the wider the judiciary’s power to impose
+its positions about what measures may be legitimately employed, and
+vice verse.50 Therefore, one can expect permissive legislation mainly
+when this is legally necessary, as discussed above.
+
+      Finally, it should be noted that even when there is a functional
+interest in prescribing a certain measure in law, the political costs of such
+legislation are often prohibitive. Consider in this respect the Israeli
+experience. The Israeli Supreme Court employs a relatively activist
+approach in reviewing the legitimacy of various military activities.51 In
+
+
+50 Cf. Samuel Issacharoff & Richard H. Pildes, Emergency Contexts without
+   Emergency Powers: The United States’ Constitutional Approach to Rights During
+   Wartime, 2 INT’L J. CONST. L. 296 (2004) (suggesting that where both legislature and
+   executive endorse a particular tradeoff of liberty and security, the courts have
+   accepted that judgment; but where the executive has flown in the face of legislative
+   policies or without legislative approval, the courts have invalidated executive action,
+   even during wartime, or scrutinized it more closely).
+51 See, e.g., Yoav Dotan, Legalising the Unlegaliseable: Terrorism, Secret Services and
+   Judicial Review in Israel 1970–2001, in JUDICIAL REVIEW AND BUREAUCRATIC
+   IMPACT: INTERNATIONAL AND INTERDISCIPLINARY PERSPECTIVES 190 (Mark Hertogh
+   & Simon Halliday eds., 2004).
+Keynote Address: Legislating Responses to Security Threats                            31
+
+
+
+a few cases, the Court declared anti-terrorist measures explicitly
+authorized in legislation invalid.52 However, the government, and thus
+the Israeli parliament too, have been reluctant to enact norms that
+override these judicial decisions. In most cases the Court based the
+decision on its interpretation of both the Israeli Constitution and the
+norms of IHL. It thus indicated that a legislation legitimizing the
+prohibited measures would be perceived as overriding not only the
+Court’s ruling but also the dictates of IHL. For these reasons, the Court’s
+greater activism made the process of enacting laws to override it more
+expansive for the government, and consequently only in a handful of
+cases it chose to initiate a legislation process. In the majority of the cases,
+most notable of which is the prohibition against the use of coercive
+measures in interrogation, the government preferred “to bite the bullet,”
+and chose not to ask for legislative approval of such activities.
+
+
+
+III. The Appropriate Role of the Legislature
+
+     The decision what role the legislature should play should be based
+on general, universal considerations, but it clearly has a substantial local
+
+
+
+52 HCJ 8823/07 John Does v. The State of Israel, 10(4) PD 312 [2010] (Isr.), in which
+   the Court invalidated section 5 of the Criminal Procedure Act (A Detainee Accused
+   in a Security Offence) (Temporary Provision), 2006, which authorized the
+   government to ask, and the court to approve to hold the court hearings on extending
+   the period of detention without the detainee’s presence; HCJ 8276/05 Adalah Legal
+   Centre for Arab Minority Rights in Israel v. Minister of Defense, 62(1) PD 1 [2006]
+   (Isr.), in which the Court invalidated a provision denying persons harmed in “conflict
+   zones” in the Occupied Territories from the right to receive compensations. English
+   translation available at http://elyon1.court.gov.il/files_eng/05/760/082/a13/050827
+   60.a13.pdf.
+32                                               《憲法解釋之理論與實務》第八輯
+
+
+
+and contextual dimension.53 For simplicity, the following discussion
+focuses on general aspects.
+
+     Supporters of the view that the Executive Branch should hold
+“inherent” powers to employ all measures it deems necessary in
+response to security threats base their position primarily on the view that
+the benefits of insisting on legislation are marginal. As discussed above,
+the legislature may be expected to mostly legitimize employing certain
+measures rather than to restrain the government, making the requirement
+of ex-ante legislative authorization superfluous. Accordingly, a
+legislation which restricts the executive to act efficiently in response to
+threats is dangerous; whereas legislation such as the one adopted by the
+U.S. Congress almost immediately following the 9/11 attacks (the
+AUMF), which simply authorized the president to use all “necessary and
+appropriate force” to subdue the perpetrators of that attack, their allies,
+and supporters, is meaningless.54 It is also suggested that requiring
+legislation is costly. Arguably, it is difficult, or even impossible to predict
+
+
+53 For an analysis which accentuates the contextual dimension (distinguishing between
+   different types of powers), see, e.g., Barak-Erez, supra note 5, at 886-91. For
+   localized comparisons, see, e.g., Michael J. Glennon, The United States: Democracy,
+   Hegemony, and Accountability, in DEMOCRATIC ACCOUNTABILITY AND THE USE OF
+   FORCE IN INTERNATIONAL LAW 323 (Charlotte Ku & Harold K. Jacobson eds., 2003);
+   Georg Nolte, Germany: Ensuring Political Legitimacy for the Use of Military Forces
+   by Requiring Constitutional Accountability, in DEMOCRATIC ACCOUNTABILITY AND
+   THE USE OF FORCE IN INTERNATIONAL LAW 231 (Charlotte Ku & Harold K. Jacobson
+   eds., 2003); Yves Boyer et al., France: Security Council Legitimacy and Executive
+   Primacy, in DEMOCRATIC ACCOUNTABILITY AND THE USE OF FORCE IN
+   INTERNATIONAL LAW 280 (Charlotte Ku & Harold K. Jacobson eds., 2003); Nigel D.
+   White, The United Kingdom: Increasing Commitment Requires Greater
+   Parliamentary Involvement, in DEMOCRATIC ACCOUNTABILITY AND THE USE OF
+   FORCE IN INTERNATIONAL LAW 300 (Charlotte Ku & Harold K. Jacobson eds., 2003).
+54 See, e.g., Barak-Erez, supra note 5, at 883-84 (“executive orders that are solely
+   based on blank authorization in a statutory text …should be regarded as falling
+   within the scope of the executive model.”).
+Keynote Address: Legislating Responses to Security Threats                          33
+
+
+
+what types of measures will be required in response to possible security
+threats. In addition, as mentioned above, the explicit authorization in
+legislation to hold certain powers may have adverse symbolic
+consequences.
+
+     I find these arguments unpersuasive. To my view, enforcing the
+requirement of legislation is justified. I start by addressing benefits of the
+requirement of explicit statutory authorization. I then move to discuss
+the concerns and suggest the appropriate scope of required legislation.
+
+1. The Benefits of Requiring Legislated Authorization
+
+     Insisting on legislation is expected to induce three main benefits: it
+imposes the representatives to take direct and formal part in a
+deliberation on the relevant aims and means, which may have a
+substantial effect of on actual outcomes; it increases the likelihood that
+the legislature would scrutinize governmental activities; and it requires
+the government to act on the basis of general, predefined norms.
+
+     Deliberative Aspects of Legislation. The democratic principle of
+citizens’ equal participation in delineating the circumstances under
+which infringements of basic liberties should be deemed permissible
+lends support to legislative ordering of this issue, following public
+deliberation.55 It also provides the executive with an explicit expression
+of popular support, which is often needed in order to take extreme
+measures.56 But the most important benefit of requiring legislation is
+
+
+55 See, e.g., JEREMY WALDRON, LAW AND DISAGREEMENT 232-34, 244-49 (1999).
+56 Ferejohn & Pasquino, supra note 5, at 220 (“This need for legitimation is chronic in
+   modern democracies, and that it helps explain the emergence of legislative
+   emergency powers, whereby the legislature provides a measure of democratic
+   support for the executive’s actions.”).
+34                                                   《憲法解釋之理論與實務》第八輯
+
+
+
+probably the public deliberation which the process of legislation
+induces.57
+
+      The process of legislation produces an open discussion, which
+requires the decision-makers to present their empirical evaluations of the
+relevant risks and the expected efficacy of the measures under
+consideration to tackle these risks.58 It also requires them to explicitly
+state their moral positions, including, for instance, what weight should
+be given to the rights of “enemy civilians,” how to address uncertainties,
+and so forth.59 The public debate and deliberation that is part of the
+parliamentary process also serves the vital function of informing
+constituents.
+
+      Essentially, the deliberative process may well shape preferences,
+rather than merely restating attitudes.60 Parliamentary deliberation over
+
+57 Frank Michelman, Relative Constraint and Public Reason: What Is “The Work We
+   Expect of Law”?, 67 BROOK. L. REV. 963, 977 (2002); Barak-Erez, supra note 5, at
+   894-95.
+58 Barak-Erez, supra note 5, at 891 (“Whereas the specifics concerning the
+   implementation of some anti-terrorism measures should remain undisclosed, the
+   basic features of the methods used should be open to public criticism and debate.”).
+59 For a similar view, see, e.g., Craig Martin, Taking War Seriously: A Model for
+   Constitutional Constraints on the Use of Force in Compliance with International
+   Law, 76 BROOK. L. REV. 611 (2011) (advocates enforcing a constitutional
+   requirement that the legislature approve any use of force rising above a de minimus
+   level, since the legislative process results in better decisions due to the attenuation of
+   extreme positions, the canvassing of a wider range of perspectives and sources of
+   information, and the vigorous public interrogation of reasons and motives underlying
+   proposals.); Owen Greene, Democratic Governance and the Internationalisation of
+   Security Policy: The Relevance of Parliaments, in THE “DOUBLE DEMOCRATIC
+   DEFICIT” 28 (Hans Born & Heiner Hänggi eds., 2004).
+60 Paul F. Diehl & Tom Ginsburg, Irrational War and Constitutional Design: A Reply to
+   Professors Nzilebe and Yoo, 27 MICH. J. INT’L L. 1239, 1249-50 (2006) (deliberative
+   process involves the transformation of preferences, rather than merely serving as a
+   means by which society can aggregate preferences); see also AMY GUTMANN &
+   DENNIS THOMPSON, WHY DELIBERATIVE DEMOCRACY? 1-20 (2004); DELIBERATIVE
+   DEMOCRACY (Jon Elster ed., 1998).
+Keynote Address: Legislating Responses to Security Threats                                35
+
+
+
+the constitutionality of the use of force is an essential element of
+democratic decision-making, as it serves to rebut moral disagreements
+by conducting a debate which is based on reason and that can be
+justifiable by everyone.61 More than any other form of deliberation, the
+process of legislation increases the chances that the tragic choices
+involved in responding to security threats are approached under what
+John Rawls calls a “constraint of Public Reason.” According to this
+constraint, “[p]articipants in social decisions must stand ready to explain
+the consonance of their positions with some conception of a complete,
+legitimating constitutional agreement.”62 Recognizing the crucial role in
+a democratic society of the appeal to “public reason” in justifying the
+use of force, and of public deliberation in general, serves as an important
+justification of the requirement of ex ante authorization in legislation.
+
+      This is especially true in the current context, in which the
+conflicting interests are usually not represented. The harms of anti-
+terrorist measures are typically inflicted on non-citizens, such as the
+
+61 Chi-Ting Tsai, Presidential War Power in the Deliberative Moment—An Empirical
+   Study of Congressional Constitutional Deliberation and Balance of War Power
+   (Working Paper, 2010) (demonstrating that a higher level of congressional
+   deliberation over a use of force influences Congress to impose a higher level of
+   control over presidential war power).
+62 See JOHN RAWLS, POLITICAL LIBERALISM 223 (1993); see also id. at 217 (“Our exercise
+   of political power is proper and hence justified only when it is exercised in
+   accordance with a constitution the essentials of which all citizens may reasonably be
+   expected to endorse in the light of principles and ideals acceptable to them as
+   reasonable and rational. This is the liberal principle of legitimacy. And since the
+   exercise of political power itself must be legitimate, the ideals of citizenship impose
+   a moral, not a legal, duty—the duty of civility—to be able to explain to one another
+   on those fundamental questions how the principles and policies they advocate and
+   vote for can be supported by the political values of public reason.”). For a discussion
+   of this concept, see, e.g., Gillian K. Hadfield & Stephen Macedo, Rational
+   Reasonableness: Toward a Positive Theory of Public Reason, 6 Law & ETHICS HUM.
+   RTS. 5, 7 (2012) (pointing at the role that public reason plays in stabilizing a political
+   conception of justice).
+36                                                   《憲法解釋之理論與實務》第八輯
+
+
+
+residents of occupied territories, or members of an ethnic minority which
+bears a heavier burden of certain anti-terrorist measures (through explicit
+or implicit profiling strategies). An appeal to public reason requires the
+decision-makers to present valid justifications for inflicting (unintended)
+harm on enemy civilians, to justify a position which assigns different
+values to people’s lives according to their nationality, and so forth.
+
+       Moreover, the requirement to hold public deliberations may
+contribute to mitigate the concern of the institutional bias of law
+enforcement and security agencies, whose primary goal is to fight crime
+and terror.63 As explained by Justice Souter in the Hamdi case, “[i]n a
+government of separated powers, deciding finally on what is a
+reasonable degree of guaranteed liberty whether in peace or war (or
+some condition in between) is not well entrusted to the Executive
+Branch of Government, whose particular responsibility is to maintain
+security. For reasons of inescapable human nature, the branch of the
+Government asked to counter a serious threat is not the branch on which
+to rest the Nation’s entire reliance in striking the balance between the
+will to win and the cost in liberty on the way to victory; the
+responsibility for security will naturally amplify the claim that security
+legitimately raises.”64 Imposing the government to justify the measures
+which it views as appropriate, by appeal to public reason, may
+substantially mitigate this risk.
+
+       Legislation as an Essential Form of Scrutinizing Governmental
+Activities. An important argument in favor of requiring the involvement
+of the legislature is the concern that in times of crises there is no
+
+63 See, e.g., Thomas P. Crocker, Torture, with Apologies, 86 TEX. L. REV. 569, 585-93
+     (2008).
+64 Hamdi, 542 U.S. at 545 (Souter J., concurring).
+Keynote Address: Legislating Responses to Security Threats                     37
+
+
+
+effective way to appropriately scrutinize the activities of the Executive
+Branch. The lack of adequate information and the high risk which is
+involved in such decisions make the efficacy of the parliament’s
+supervision powers very limited.65 Typically, parliaments do not hold
+formal powers to supervise the use of military measures in specific
+instances. They are empowered to direct the government’s activities only
+through legislation.
+
+     It should be noted that according to one model, the Executive
+Branch is provided with “inherent” powers to take certain anti-terrorist
+measures only as long as the legislature explicitly declares that a security
+threat exists (“a state of emergency,” “a state of war,” and so forth).
+However, this model is not suited to address the current concern. It is
+doubtful whether the parliament is suited to hold a thorough and
+independent review of the government call to declare a state of
+emergency. The Israeli experience demonstrates such a failure:
+according to Israeli law, the government enjoys an almost limitless
+power to enact, in times of national emergency, regulations that curtail,
+and even to derogate basic liberties. The Israeli parliament declared “a
+state of emergency” within four days after the foundation of the country,
+at times in which the state’s existence was indeed in real danger, but it
+has extended this declaration ever since, and Israel is thus in a
+continuous state of emergency for more than sixty years now. More
+generally, declaring a “state of emergency” is typically not as politically
+costly as explicit authorization in legislation to take specific measures,
+and it is thus not as effective as the requirement of legislation in
+
+
+65 See Heiner Hänggi, The Use of Force under International Auspices: Parliamentary
+   Accountability and “Democratic Deficits”, in THE “DOUBLE DEMOCRATIC DEFICIT”
+   3 (Hans Born & Heiner Hänggi eds., 2004).
+38                                                 《憲法解釋之理論與實務》第八輯
+
+
+
+restraining the government. Carl Schmitt has famously argued that it is
+simply impossible to develop effective constitutional constraints on the
+use of armed force, for in moments of crisis such constitutional
+provisions will be simply ignored. 66 It seems that this theory is
+particularly powerful in reference to this model of providing the
+government with unlimited powers whenever a state of emergency is
+declared.67
+
+       It seems that the only effective way to induce the legislature to take
+part in reviewing the executive is by the continued operation of a thick
+substantive notion of the rule of law during the period of emergency.
+Enforcing the requirement of legislation calls upon the parliament to
+share with the government the political responsibility for the use of the
+relevant measures. The prediction that the legislature may take an
+important role in restraining an unjustified use of force is based not only
+on the evaluation of the expected outcome of deliberations in
+parliament. 68 It is the political costs that are involved in formally
+legislating the legitimacy of taking certain measures that serve as the
+main check. Absent an overwhelming or obvious threat, the procedural
+requirements to obtain support of the majority of the legislature would
+
+66 CARL SCHMITT, POLITICAL THEOLOGY, FOUR CHAPTERS ON THE CONCEPT OF
+     SOVEREIGNTY (George Schwab trans., University of Chicago Press 2006) (1922).
+67 See, e.g., Ferejohn & Pasquino, supra note 5, at 216 (“the dangers carried by the
+   exercise of emergency authority are too great to be used in any but the most dire
+   circumstances.”). For a critical analysis of Schmitt’s theory, see, e.g., David
+   Dyzenhaus, Schmitt v. Dicey: Are States of Emergency Inside or Outside the Legal
+   Order?, 27 CARDOZO L. REV. 2005, 2030-37 (2006); Oren Gross, The Normless and
+   the Exceptionless Exception: Carl Schmitt’s Theory of Emergency Powers and the
+   “Norm-Exception” Dichotomy, 21 CARDOZO L. REV. 1825, 1827-29 (2000).
+68 See, e.g., Martin, supra note 59, at 684 (“The risks [of] irrational or sub-optimal
+   decisions to use armed force would be reduced, in the case of each of these particular
+   phenomenon, by spreading the decision-making process more widely through the
+   inclusion of the legislative body.”).
+Keynote Address: Legislating Responses to Security Threats                               39
+
+
+
+impose significant political costs upon the executive, both domestically
+and internationally.69
+
+      The Israeli experience in this respect is again illuminating. Its
+security service, the GSS used force in interrogation for more than a
+decade. This practice was not a secret, and was even approved by a
+public committee appointed to investigate the matter.70 Interestingly,
+this practice violated not only international law but also an explicit
+provision of the Israeli criminal code, which prohibits the use of force in
+interrogation (section 277 of the Criminal code, 1977).71 However, the
+use of force in interrogations of suspected terrorists was considered
+permissible according to the criminal law defense of necessity. The
+Israeli parliament did not scrutinize this practice, and can be assumed to
+implicitly approve it. In 1999, when the Supreme Court held that absent
+explicit authorization such a practice is prohibited,72 one could have
+
+
+69 Lori Fisler Damrosch, The Interface of Using National Constitutional Systems
+   with International Law and Institutions on Military Forces, in DEMOCRATIC
+   ACCOUNTABILITY AND THE USE OF FORCE IN INTERNATIONAL LAW 39, 58-60
+   (Charlotte Ku & Harold K. Jacobson eds., 2003).
+70 COMMISSION OF INQUIRY INTO THE METHODS OF INVESTIGATION OF THE GENERAL
+   SECURITY SERVICE REGARDING HOSTILE TERRORIST ACTIVITY, REPORT (1987) [in
+   Hebrew]. For English translation of excerpts from the Report, see Part I of the
+   Landau Commission Report, 23 ISR. L. REV. 146 (1989). For a critical analysis of the
+   Landau Commission Report, see Mordechai Kremnitzer, The Landau Commission
+   Report – Was the Security Service Subordinated to the Law, or the Law to the
+   “Needs” of the Security Service?, 23 ISR. L. REV. 216 (1989). The Supreme Court of
+   Israel rejected petitions against the GSS practices of interrogation. HCJ 2581/91
+   Salahat v. The Government of Israel, 47(4) PD 837 [1993] (Isr.); HCJ 70/95 Amar v.
+   GSS [1996] (Isr.); HCJ 5395/94 Abu Kwieder v. The Commander of the Military
+   Prison in Hebron [1995] (Isr.).
+71 This provision prohibits officials to use force against a person or to threaten to do so,
+   in order to make this person confess in committing a crime or providing information
+   about a crime.
+72 HCJ 5100/94 Public Committee Against Torture in Israel v. Government of Israel,
+   53(4) PD 817 [1999] (Isr.).
+40                                               《憲法解釋之理論與實務》第八輯
+
+
+
+assumed that the government, who strongly advocated for maintaining it
+by suggesting that the lives of dozens of persons are at risk if the GSS
+cannot use force in interrogating suspected terrorists, could easily
+convince the legislature to legislate a provision authorizing this practice.
+However, after almost three years of deliberations, the government
+preferred not to ask for such authorization. It was clear that even though
+the majority would probably approve such a measure, the political costs
+of such legislation are too high. The mere enforcement of the
+requirement to legislate was sufficient, despite the majority’s support in
+this measure, to change the practice.
+
+     Rulifying the Fight on Terror. Imposing the requirement of explicit
+authorization is also based on the concept of the rule of law, as it
+requires the government to act on the basis of general, overt, predictable
+norms, in accordance with the requirements of formal justice.73
+
+     Refraining from setting guidelines ex ante is unfair to actors who
+are exposed to the risk of bearing civil and criminal liability if it turns
+out that their judgment regarding the permissibility of the infringement
+is different from that of the ex post reviewer. In fact, the absence of an ex
+ante authorization may result in officials refraining from taking justified
+measures. Prior authorization may thus be necessary to encourage risk-
+averse agents,74 who are reluctant to “dirty their hands,” to nevertheless
+promote the overall good when such action involves a justified
+infringement of a moral constraint.75 Thus, even those whose major
+
+73 See, e.g., H.L.A. HART, THE CONCEPT OF LAW (2d ed. 1994).
+74 Nathan A. Sales, Self Restraint and National Security, 6 J. NAT’L SEC. L. & POL’Y
+   227, 269 (2012) (George Mason Law & Economics Research Paper No. 10-41, 2010)
+   (arguing that self restraint might be the result of systematic risk aversion within
+   military and intelligence agencies).
+75 For the “dirty hands” argument, see, e.g., Michael Walzer, Political Action: The
+Keynote Address: Legislating Responses to Security Threats                             41
+
+
+
+concern is inducing the executive to take the necessary measures in
+response to security threats should in fact support the requirement of
+prior authorization in legislation.76 In modern states most emergencies
+can be successfully managed by the operation of the ordinary legal-
+constitutional system, and it can reasonably assumed that the legislature
+will be actually willing to enact statutes conceding new powers to the
+executive in the face of unique circumstances.77 Finally, such legislation
+may also narrow the scope of judicial review of military actions.78
+
+2. Symbolic Costs of Legitimizing Human Rights
+   Infringements in Legislation
+
+      Some scholars object to determining in legislation the permissibility
+of measures taken in the fight against terrorism by pointing at the
+expressive role of such authorization. This objection rests on the notion
+that legal provisions do not only impose duties and convey rights. They
+also express attitudes, shape public perceptions, and may thus inflict
+
+
+   Problem of Dirty Hands, 2 PHIL. & PUB. AFF. 160 (1973) (suggesting that moral
+   public officials are the ones willing to get their hands dirty by choosing to violate a
+   constraint to bring about a sufficiently high social good).
+76 See, e.g., Jide Nzelibe & John Yoo, Rational War and Constitutional Design, 115
+   YALE L.J. 2512, 2530-32 (2006) (suggesting that the increased political costs of
+   obtaining parliamentary approval can help to generate public support and signal the
+   depth of commitment to potential adversaries).
+77 Ferejohn & Pasquino, supra note 5, at 216-18. See also Deborah Pearlstein, Form
+   and Function in the National Security Constitution, 41 CONN. L. REV. 1549 (2009)
+   (arguing that “organization analysis” supports involving the legislature in forming
+   responses to security threats).
+78 Issacharoff & Pildes, supra note 50, at 1-5 (suggesting that where both legislature
+   and executive endorse a particular tradeoff of liberty and security, the courts have
+   accepted that judgment; but where the executive has flown in the face of legislative
+   policies or without legislative approval, the courts have invalidated executive action,
+   even during wartime, or scrutinized it more closely); Barak-Erez, supra note 5, at
+   893 (“when anti-terrorism measures are legislated, the tendency of courts to review
+   them is likely to be more restrained.”).
+42                                                   《憲法解釋之理論與實務》第八輯
+
+
+
+“expressive” harm. For instance, a statute authorizing the torture of a
+suspect terrorist or the killing of an innocent person, even only in very
+rare circumstances, can be considered disrespectful of human dignity.
+According to this objection, agents, including public officials, may act
+extra-legally when necessary in the face of calamity,79 but such acts
+should only be evaluated ex post factum.80 This position is implicit, for
+instance, in the German Constitutional Court’s judgment regarding the
+validity of a statute authorizing officials to shoot down an aircraft that is
+being wielded as a deadly weapon.81 The court held that granting an ex
+ante authorization to inflict such harm is unacceptable, but did not rule
+out the possibility of granting a criminal law defense to officials who
+resort to such measures, if the action is deemed justified ex post.82 At
+the core of this view lies the concern that formal legitimization of
+infringements is objectionable from a deontological perspective and
+undesirable from a consequentialist one.83
+
+       As for deontological concerns, justifiably infringing basic liberties
+or other deontological constraints to attain a desirable outcome is
+
+
+79 See, e.g., RICHARD A. POSNER, NOT A SUICIDE PACT: THE CONSTITUTION IN A TIME OF
+     NATIONAL EMERGENCY 152-58 (2006).
+80 See, e.g., Oren Gross, Are Torture Warrants Warranted? Pragmatic Absolutism and
+   Official Disobedience, 88 MINN. L. REV. 1481, 1526-34 (2004); Alon Harel & Assaf
+   Sharon, “Necessity Knows No Law”: On Extreme Cases and Uncodifiable
+   Necessities, 61 U. TORONTO L.J. 845 (2011).
+81 Bundesverfassungsgericht [BVerfG] [Federal Constitutional Court] Feb. 15, BvR
+   375/05, available at http://www.bundesverfassungs gericht.de/entscheidungen/
+   rs20060215_1bvr035705.html.
+82 Id. at § 128. See also article 8(2)(b)(xxiii) of the Statute of the International Criminal
+   Court; Gross, supra note 80, at 1528 (proposing “an absolute legal ban on torture
+   while, at the same time, recognizing the possibility… of state agents acting
+   extralegally... and seeking ex post ratification of their conduct.”).
+83 The discussion in this subsection is based, in part, on EYAL ZAMIR & BARAK MEDINA,
+   LAW, ECONOMICS, AND MORALITY 117-22 (2010).
+Keynote Address: Legislating Responses to Security Threats                            43
+
+
+
+different from attaining the same outcome without infringing any
+constraint. Arguably, agents who act in accordance with ex ante
+authorization to infringe a constraint may lose sight of this fundamental
+moral distinction. Prior authorization may turn the actor’s decision-
+making process into a rather technical assessment of whether the
+conditions set forth by the legislature are met, without giving sufficient
+attention to the nature of the action as an infringement of a constraint,
+and of the constraint’s underlying rationales.84 A law that expresses,
+even inadvertently, an improper message should arguably be invalidated
+even if its content and expected outcomes are desirable.85 The very
+formulation of rules that determine when it is permissible to kill or
+torture people is disrespectful of human dignity. Extreme emergencies
+may indeed compel one to do horrible things to prevent catastrophic
+outcomes. However, respect for people requires that such acts be
+“unprincipled, context-generated;” they “ought to be performed strictly
+as acts of necessity, not as acts governed by principles.”86
+
+      I find these arguments unpersuasive. For one thing, many anti-
+terrorist measures are deemed permissible under rather “regular”
+circumstances, not merely under extreme ones. Moreover, even if one
+focuses on such extreme measures like killing and torture, if no
+
+
+84 Cf. Elizabeth S. Anderson & Richard H. Pildes, Expressive Theories of Law: A
+   General Restatement, 148 U. PA. L. REV. 1503, 1512 (2000); Sanford H. Kadish,
+   Torture, the State and the Individual, 23 ISR. L. REV. 345, 353 (1989).
+85 Anderson & Pildes, supra note 84, at 1513. For a critique, see Steven D. Smith,
+   Expressivist Jurisprudence and the Depletion of Meaning, 60 MD. L. REV. 506, 520
+   (2001).
+86 Harel & Sharon, supra note 80, at 848. See also CHARLES FRIED, RIGHT AND WRONG
+   10 (1978) (arguing that “the concept of the catastrophic is a distinct concept just
+   because it identifies the extreme situations in which the usual categories of judgment
+   (including the category of right and wrong) no longer apply”); Oren Gross, Torture
+   and an Ethics of Responsibility, 3 LAW, CULTURE & HUMAN. 35, 44 (2007).
+44                                                 《憲法解釋之理論與實務》第八輯
+
+
+
+principles govern the behavior of agents in extreme cases, how would
+agents decide whether the circumstances they face are truly extreme?
+How can one judge, in retrospect, whether the infringement was justified?
+Once it is accepted that basic liberties may justifiably be infringed under
+certain circumstances, there is no escape from delineating those
+circumstances. In addition, this argument is relevant in the current
+context only with respect to the marginal effect of justifying certain
+measures through legislation, since, at least in some countries, the
+judiciary sets rules of behavior that justify taking numerous anti-terrorist
+measures, such that the adverse symbolic effect, if exists, was already
+done. It is doubtful whether the “expressive” effect of legislation is
+substantially greater than that of forward looking “judicial legislation.”
+
+      Another argument that can be raised against ex ante authorization is
+that such authorization is likely to bring about unjustified activities.87 It
+may lead to routine use, or at least routine consideration, of measures
+that should be taken, or even considered, only in extreme and rare
+circumstances.88 In certain contexts, for instance the case of authorizing
+
+87 For a discussion of theories of “expressive law and economics,” which accentuate
+   the effect of “what the law says” (rather than of “what the law does”) on preferences
+   and behavior, see, e.g., Richard H. McAdams, An Attitudinal Theory of Expressive
+   Law, 79 OR. L. REV. 339 (2000); Robert Cooter, Expressive Law and Economics, 27
+   J. LEGAL STUD. 585 (1998); Robert D. Cooter, Do Good Laws Make Good Citizens?
+   An Economic Analysis of Internalized Norms, 86 VA. L. REV. 1577 (2000).
+88 Henry Shue, Torture, 7 PHIL. & PUB. AFF. 124, 141 (1978) (arguing that while torture
+   may be justified when it is the least harmful means available to secure a supremely
+   important aim, it should nevertheless be strictly prohibited, since “[a]ny practice of
+   torture once set in motion would gain enough momentum to burst any bonds and
+   become a standard operating procedure”); David Luban, Liberalism, Torture, and the
+   Ticking Bomb, 91 VA. L. REV. 1425, 1446 (2005) (contending that once coercive
+   interrogation is allowed in any circumstances, it will be used casually, and a “culture
+   of torture” will come into being); Harold Hongju Koh, Can the President Be Torturer
+   in Chief?, 81 IND. L.J. 1145, 1165 (2006); John H. Langbein, The Legal History of
+   Torture, in TORTURE: A COLLECTION 93, 101 (Sanford Levinson ed., 2004); Jean
+Keynote Address: Legislating Responses to Security Threats                              45
+
+
+
+coercive interrogations, it may also induce the establishment of
+institutions that would train agents to act accordingly, thus making
+infringements an even more readily available option. 89 It was also
+suggested that legislating taking extreme measures may enable officials
+to maintain what is known as “role distance.” The message to the official
+is that the legislator decided that the measure is appropriate, and that
+person is not expected to employ sufficient discretion whether taking the
+measure is indeed legitimate in the circumstances.90 More generally, it
+is argued that due to its expressive effects, legitimizing an infringement
+in certain circumstances may be (wrongly) perceived as implicitly
+legitimizing it in other circumstances too. 91 These “slippery slope”
+arguments suggest that even though legitimizing a (presumably justified)
+activity in one set of circumstances does not logically legitimize it under
+different circumstances, the former is prone to bring about the latter due
+to political and psychological reasons.92
+
+      While the slippery slope argument cannot be ignored, it does not
+necessarily preclude predetermined guidelines for the permissibility of
+
+
+   Bethke Elshtain, Reflection on the Problem of “Dirty Hands”, in TORTURE: A
+   COLLECTION 77 (Sanford Levinson ed., 2004) .
+89 See, e.g., Henry Shue, Torture in Dreamland: Disposing of the Ticking Bomb, 37
+   CASE W. RES. J. INT’L L. 231, 238 (2006); Kremnitzer, supra note 70, at 216, 254-57.
+90 MEIR DAN-COHEN, HARMFUL THOUGHTS: ESSAYS ON LAW, SELF, AND MORALITY
+   233-35 (2002); Gur-Arye, supra note 15, at 305.
+91 In addition, “liberties won slowly over long periods of time may be subject to rapid
+   erosion in emergencies and these new restrictions, if they are embedded in law, may
+   not be rapidly restored if they are restored at all.” Ferejohn & Pasquino, supra note 5,
+   at 219. See also Barak-Erez, supra note 5, at 893 (“The tendency to abolish anti-
+   terrorism powers established by legislation is low, probably reflecting the
+   assumption that it is better to have them available ‘for a rainy day’.”).
+92 Bernard Williams, Which Slopes Are Slippery?, in MORAL DILEMMAS IN MODERN
+   MEDICINE 127, 128 (Michael Lockwood ed., 1985); see Eugene Volokh, The
+   Mechanisms of the Slippery Slope, 116 HARV. L. REV. 1026 (2003).
+46                                                《憲法解釋之理論與實務》第八輯
+
+
+
+infringements. For one thing, the absence of ex ante authorization may
+result in people (including officials) refraining from taking justified
+measures, as suggested above. Moreover, such authorization may be
+accompanied by measures that deter unjustified activities. Accurately
+evaluating these and other considerations is difficult, yet at the very least
+they make the slippery slope argument inconclusive.
+
+       For these reasons, while I agree that legislation authorizing the
+government to take extreme measures in response to security threats may
+well have adverse symbolic effects, these costs are not a sufficient
+reason to exempt the government from the requirement of legality. In
+fact, making these symbolic effects a decisive reason against legislation
+directly contradicts the very basic reasons for insisting on legislation in
+the first place, including the deliberative value of the process of
+legislation and the political costs associated with such legislation. If the
+government finds it impossible to openly justify its activities, it should
+not be shielded from scrutiny by referring to arguments of the sort of
+“acoustic separation.” 93 If the “noise” is troubling, the government
+should not make it, not merely conceal it behind “acoustic” walls.
+
+
+
+IV. Concluding Remarks
+
+       There are good reasons to enforce the requirement of explicit
+authorization in law to take specific anti-terrorist measures. The ultimate
+question is what types of measures should be “determine[d] through
+democratic means.” I suggest that the requirement should apply to
+
+
+93 See Meir Dan-Cohen, Decision Rules and Conduct Rules: On Acoustic Separation in
+     Criminal Law, 97 HARV. L. REV. 625 (1984).
+Keynote Address: Legislating Responses to Security Threats              47
+
+
+
+measures which infringe upon basic human rights, including rights of
+aliens, even those who are suspected terrorists. Measures which are
+aimed at killing persons or infringing other basic liberties can be
+employed only subject to legislative authorization (or when the
+circumstances are exigent), irrespective of the nationality of the persons
+subject to such measures and the place in which the governmental
+activity takes place. As indicated, legislation provides the required
+authority only when it explicitly addresses specific measures and details
+the circumstances in which each of them can be employed.
+

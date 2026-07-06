@@ -1,0 +1,1827 @@
+ 研究論文
+《中研院法學期刊》第 38 期                                          195
+頁 195-243（2026 年 3 月）
+
+
+
+
+           美洲人權法院
+                     ＊
+       與「合公約性審查」體制之建構
+                — 全球南方法學之實踐
+
+                         翁燕菁＊＊
+
+
+                          摘 要
+  美洲人權法院推動「合公約性審查」已逾20載，挑戰國際人權
+監督機構遵循之備位原則。此舉招致批評，認為強加以由上而下且
+集中式之司法審查體系，美洲人權法院係以區域憲法法院自居，無
+視多元民主社會正當決定。惟本文自拉丁美洲憲政人權保障史觀
+察，發現美洲人權法院之方法反映拉美區域經典之保護訴訟制度，
+其本身即有既分散且集中之特色。因此本文主張，合公約性審查體
+現全球南方對於國際法學方法之不同省思。美洲人權法院之國際法
+依據仍未脫離全球北方脈絡，惟將國家中心轉向個人權利中心，並
+以利人原則取代評斷餘地調和衝突規範。即使無意以全球南方法學
+方法包裝其手法，美洲人權法院所實踐者實則符合第三世界國際法
+方法學派挑戰權力壓迫之核心概念。
+
+
+
+
+＊  投稿日：2025年3月5日；接受刊登日：2025年12月31日。［責任校對：林彧
+   霈］。
+   拙文受益於國科會先後2次專題研究計畫補助（MOST 110-2410-H-004-011、
+   NSTC 112-2410-H-004-022）始得成形，毋任感荷。TWAIL方法習之駑鈍，幸
+   得蘇黎世大學Tania Atilano及渥太華大學Salvador Herencia-Carrasco等專家慷慨
+   指路，以及審查人悉心提點，併此敬致謝忱。
+＊＊ 國立政治大學政治學系兼創新國際學院副教授。
+   穩定網址：https://publication.iias.sinica.edu.tw/25501162.pdf。
+196                                      《中研院法學期刊》第38期（2026年3月）
+
+
+
+關鍵詞：美洲人權法院、合公約性審查、第三世界國際法方法、保
+    護訴訟、利人原則。
+
+
+                                      目 次
+
+    壹、前言                                     參、合公約性審查及其爭議
+    貳、合公約性審查之緣起及其南                            一、法源依據與法位階之爭
+      方脈絡                                     二、備位原則與評斷餘地之爭
+     一、合公約性審查之發展                             肆、結論
+     二、以全球南方觀點脈絡化合
+       公約性審查之設計考量
+
+
+
+
+壹、前言
+
+      美洲人權法院（Inter-American Court of Human Rights）實際成
+立於1979年，惟於成立前期，一度長期因美洲人權委員會（Inter-
+American Commission on Human Rights）及接受其管轄之締約國未
+就個人申訴案提請仲裁，而僅得於首要之被告國與委員會間仲裁權
+限外，依其次之權限發表諮詢意見（advisory opinions）。早年確曾
+有國家嘗試提起訴訟1，但美洲人權法院仍遲至1988年始有機會公
+布首件實質裁判2。倘與成立於1959年之委員會相對照，委員會自
+                                                                        3
+1970年代前期起即已成為對抗威權之民間法律動員擂台 ，且得受
+理所有美洲國家組織（Organization of American States）會員國侵害
+
+
+1 Thomas Buergenthal, The Inter-American Court of Human Rights, 76 AM. J. INT’L L.
+  231, 231 (1982).
+2 Velásquez-Rodríguez v. Honduras, Merits, Judgment, Inter-Am. Ct. H.R. (ser. C) No.
+  4 (July 29, 1988).
+3 David J. Padilla, The Inter-American Commission on Human Rights of the
+  Organization of American States: A Case Study, 9 AM. U. INT’L L. REV. 95, 97 (1993).
+美洲人權法院與「合公約性審查」體制之建構                                                                197
+
+
+人權之個人或組織申訴4。然而即使相對身經百戰，委員會之實踐
+亦未受主流國際人權法學說所重視5，遑論尚未嶄露頭角之法院。
+
+      隨著區域法治進展，美洲人權法院至1990年代始有所發揮，並
+因全球北方主流法學論述之引用與借鏡而引發關注。2000年前後，
+國際人權法秩序重新受到正視，不惟國際法學者，歐美比較法學者
+甚至實務工作者之眼界亦向其他區域人權法體系延伸。而歐洲人權
+法院（European Court of Human Rights）於2005年援引美洲人權法
+院等其餘國際人權監督機制之實踐，推翻先例肯認其頒令之暫行措
+施（interim measures）具備拘束力6，更為身為主流權威之歐洲人
+權法院突破區域主義7增添佳話。然而，即使以英語出版為主流之
+國際法學說逐漸重視美洲人權法院之見解，除資訊介紹性質之文獻
+外8，仍多見奠基於全球北方視角之評析，其中尤其以歐洲同儕人
+權保障體系之對照或比較為研究方法之最9。雖然主流學說不乏對
+
+
+4   美洲人權委員會為美洲國家組織憲章（Charter of the Organization of American
+    States）第106條所設立，基於組織授權自1965年起受理會員國違反美洲人權宣
+    言（American Declaration of the Rights and Duties of Man）之申訴，嗣為美洲人
+    權公約第44條授權受理個人申訴案。
+5   Robert K. Goldman, History and Action: The Inter-American Human Rights System
+    and the Role of the Inter-American Commission on Human Rights, 31 HUM. RTS. Q.
+    856, 857 (2009).
+6   See Alastair Mowbray, A New Strasbourg Approach to the Legal Consequences of
+    Interim Measures, 5 HUM. RTS. L. REV. 377 (2005).
+7   T. Groppi & A. M. Lecis Cocco-Ortu, Cour européenne et Cour interaméricaine des
+    droits de l’homme : de l’influence au dialogue ?, RFDC 2014/4, n° 100, 976.
+8   如THE INTER-AMERICAN HUMAN RIGHTS SYSTEM: IMPACT BEYOND COMPLIANCE (Par
+    Engstrom ed., 2019); Goldman, supra note 5; JO M. PASQUALUCCI, THE PRACTICE
+    AND PROCEDURE OF THE INTER-AMERICAN COURT OF HUMAN RIGHTS (2d ed. 2012).
+9   參見如Soledad Bertelsen, A Margin for the Margin of Appreciation: Deference in the
+    Inter-American Court of Human Rights, 19 INT’L J. CONST. L. 887 (2021); Ariel E.
+    Dulitzky, An Inter-American Constitutional Court? The Invention of the
+    Conventionality Control by the Inter-American Court of Human Rights, 50 TEXAS
+    INT’L L.J. 45 (2015); James L. Cavallaro & Stephanie Erin Brewer, Reevaluating
+    Regional Human Rights Litigation in the Twenty-First Century: The Case of the Inter-
+    American Court, 102 AM. J. INT’L L. 768, 771 et ss. (2008); Gerald L. Neuman,
+    Import, Export, and Regional Consent in the Inter-American Court of Human Rights,
+198                                        《中研院法學期刊》第38期（2026年3月）
+
+
+
+ 美洲人權法院多所肯定者10，而與全球北方之對照亦不失為突顯美
+ 洲人權法院裁判方法特色之道，然而是否足以彰顯其可能代表之全
+ 球南方（Global South）主體性？
+
+         美洲人權法院遲遲不願追隨歐洲人權法院奉行國際法備位原
+    11
+ 則 （subsidiarity principle）並於個案適用評斷餘地（margin of
+ appreciation ）， 甚 而 逕 自 推 動 自 成 一 格 之 「 合 公 約 性 審 查 」
+（conventionality control/controle de convencionalidad），近年即為國
+ 際法學界所熱議12。「合公約性審查」一詞本身即與歐美主流用語
+
+
+    19 EUR. J. INT’L L. 101 (2008); Groppi & Lecis Cocco-Ortu, supra note 7, 971-979;
+    Tom Farer, The Rise of the Inter-American Human Rights Regime: No Longer a
+    Unicorn, Not Yet an Ox, 19 HUM. RTS. Q. 510 (1997).
+ 10 NATALIA ZÚÑIGA, THE INTER AMERICAN COURT OF HUMAN RIGHTS: THE LEGITIMACY
+    OF INTERNATIONAL COURTS AND TRIBUNALS 63 (2023).
+ 11 又稱「輔助原則」           。關於拙文譯詞之選擇，將於註腳137中闡釋。
+ 12 See Jorge Contesse, Conventionality Control and the Limits of Pro Persona
+    Jurisprudence, 3 ITALIAN REV. INT’L & COMPAR. L. 121 (2023); Sabrina Ragone,
+    Conventionality Control Between International and Constitutional Law: The
+    Viewpoint of a Comparativist, 3 ITALIAN REV. INT’L & COMPAR. L. 133 (2023); Juan-
+    Pablo Pérez-León-Acevedo, The Control of the Inter-American Court of Human
+    Rights over Amnesty Laws and Other Exemption Measures: Legitimacy Assessment,
+    33 LEIDEN J. INT’L L. 667 (2020); Claudina Orunesu, Conventionality Control and
+    International Judicial Supremacy: Some Reflections on the Inter-American System of
+    Human Rights, 40 REVUS: J. CONST. THEORY & PHIL. L. 45 (2020); Jorge Contesse,
+    The International Authority of the Inter-American Court of Human Rights: A Critique
+    of the Conventionality Control Doctrine, 22 INT’L J. HUM. RTS. 1168 (2018)
+    [hereinafter Contesse, International Authority of the IACtHR]; Alejandro Rodiles, The
+    Great Promise of Comparative Public Law for Latin America: Toward Ius Commune
+    Americanum?, in COMPARATIVE INTERNATIONAL LAW 501 (Anthea Roberts, Paul B.
+    Stephan, Pierre-Hugues Verdier & Mila Versteeg eds., 2018); Yota Negishi, The Pro
+    Homine Principle’s Role in Regulating the Relationship Between Conventionality
+    Control and Constitutionality Control, 28 EUR. J. INT’L L. 457 (2017); Louise
+    Mallinder, The End of Amnesty or Regional Overreach? Interpreting the Erosion of
+    South America’s Amnesty Laws, 65 INT’L & COMPAR. L. Q. 645 (2016); Roberto
+    Gargarella, Democracy and Rights in Gelman v. Uruguay, 109 AJIL UNBOUND 115
+    (2015); Dulitzky, supra note 9; Luiz Guilherme Marinoni, Conventionality Control
+    (American Convention on Human Rights), 1 STUDIA PRAWNICZE 13 (2014); Armin
+    von Bogdandy, Pluralism, Direct Effect, and the Ultimate Say: On the Relationship
+ 美洲人權法院與「合公約性審查」體制之建構                                                            199
+
+
+ 有所區隔，且至少載有雙重美洲特色。其一，其指涉之「公約」並
+ 不若歐洲人權法院般僅限於歐洲人權公約（European Convention on
+ Human Rights）而可能泛及被告國施行之國際人權條約。其二，英
+ 譯並未採用英美公法學界慣用之「review」而循西班牙語採用
+「control」，意在與內國法官對話，促使國際人權法之施行融入拉丁
+ 美 洲 各 國 既 有 之 司 法 審 查 （ judicial review ） 或 違 憲 審 查
+（constitutional control）13。
+
+      作為當今國際法架構原則14（structural principle）或構成原則15
+（structuring principle）之備位原則，取代傳統主權至高原則，為國
+ 際 治 理 或 謂 「 基 於 規 則 之 國 際 秩 序 」（ rules-based international
+ order）開拓空間。備位原則具有彈性之特質，有利於調和國家、區
+ 域與全球層級之機構權限16。主權國家自治自決之優勢不變，主要
+ 差異在於國家一旦合意接受國際法之約束，其自治自決將受到一定
+ 程度之限制。然而，此一界限亦成為國際人權法適用上爭議不斷的
+ 模糊地帶。即如相對尊奉備位原則及多元民主之歐洲人權法院，不
+ 僅長年為學說批評逾越其權限，尚須承受締約國不滿其干預而重申
+ 備位原則的龐大壓力17，況如被指為自居「美洲憲法法院」18之美
+ 洲人權法院？
+
+
+
+    Between International and Domestic Constitutional Law, 6 INT’L J. CONST. L. 397
+    (2008).
+ 13 Dulitzky, supra note 9, at 56.
+ 14 Isabel Feichtner, Subsidiarity, in MAX PLANCK ENCYCLOPEDIA OF PUBLIC
+    INTERNATIONAL LAW ¶ 2 (2007), https://opil.ouplaw.com/display/10.1093/law:epil/
+    9780199231690/law-9780199231690-e1477.
+ 15 Andreas Føllesdal, The Principle of Subsidiarity as a Constitutional Principle in
+    International Law, 2 GLOB. CONSTITUTIONALISM 37, 37 (2013).
+ 16 Feichtner, supra note 14, ¶¶ 16-18.
+ 17 See, for instance, Derek Walton, Subsidiarity and the Brighton Declaration, in
+    JUDGMENTS OF THE EUROPEAN COURT OF HUMAN RIGHTS – EFFECTS AND
+    IMPLEMENTATION 193 (Anja Seibert-Fohr & Mark E. Villiger eds., 2014).
+ 18 Dulitzky, supra note 9, at 64 et ss.
+200                                   《中研院法學期刊》第38期（2026年3月）
+
+
+
+      如何理解美洲人權法院藉由合公約性審查所欲推動或建構之國
+際法秩序？遭批評為自我定位區域超國家憲法法院並複製分散式違
+憲審查之體系19，美洲人權法院是否逾越國際法備位原則？是否忽
+視多元民主或罔顧國家自治？該院是錯將自身視同歐盟法院
+（Court of Justice of the European Union）
+                                       ，或是另有源自拉丁美洲憲
+政傳統之淵源與擘畫？以方法論而言，將備位原則視為國際法秩序
+之理所當然，是否無異於戴上歐洲中心的濾鏡？因此，拙文將嘗試
+盡可能捨棄主流國際法學視角，藉由第三世界國際法方法論
+（Third World Approaches to International Law, TWAIL）重訪備位原
+則，並自拉美憲政人權發展脈絡出發，重新檢視合公約性審查所奠
+基之國際法學論據。
+
+      TWAIL並非定為一尊之方法論，而是對國際法秩序主流論述中
+權力關係的反思，起於對歐美中心主義的批判。然而TWAIL並非全
+球北方與南方的對抗，而是在權力關係中被邊陲化的一方發聲並尋
+求對話。Antony Anghie於其重要回顧中指出，TWAIL涵蓋多元之
+方法論，然而皆以批判帝國主義等淵源或秩序為核心關懷 20 。
+Makau W. Mutua亦強調，TWAIL尋求者係解讀國際法作為層級化支
+配工具之樣貌，並嘗試建構另類之國際治理工程21。有鑒於此，理
+解美洲人權法院合公約性審查的角度，或許不在於以歐洲主流國際
+法秩序為中心觀察拉美邊陲，而在於回到拉美自身脈絡中，回溯拉
+美緣自19世紀之法治思維。
+
+      美洲人權法院合公約性審查及備位原則適用之爭以英語及拉美
+在地出版文獻為主，已如前述，而本土甚或華語學界尚罕見討論。
+
+
+
+19 Contesse, International Authority of the IACtHR, supra note 12, at 1177 et ss.
+20 Antony Anghie, Rethinking International Law: A TWAIL Retrospective, 34 EUR. J.
+   INT’L L. 7, 9 (2023).
+21 Makau W. Mutua, What is TWAIL?, 94 PROC. ASIL ANN. MEETING 31, 31 (2000).
+美洲人權法院與「合公約性審查」體制之建構                                                          201
+
+
+除早年曾有以美洲為例評析區域國際人權組織發展之研究外22，主
+要係針對原住民族權利之評析，如原住民族財產權23與民族自決下
+之諮商同意權24。另有針對美洲人權法院影響深遠之轉型正義相關
+判決之研究，其中亦能突顯美洲人權保障體系之憲政主義功能25。
+該文主張，美洲人權法院以擴張解釋權限回應拉美跨國法律動員，
+而國際人權規範與機制亦構成有利背景。另有以美洲人權法院回應
+拉美性別暴力之指標性裁判研析，亦指向該院對跨國法律動員之積
+極回應26。反之，拙文無意處理特定人權議題，而係以美洲人權法
+院備位原則適用爭議為出發點，嘗試藉由第三世界國際法學之假設，
+與國際法學界對美洲人權法院之評析對話，應有別於上開研究。
+
+    此外，同處全球南方之非洲區域或次區域保障體系，其去殖民
+及人權保障體系發展脈絡，甚至受歐洲及全球影響之層面，皆顯著
+有別於拉丁美洲而自成一格27。限於篇幅並聚焦拉美，拙文不擬將
+非洲納入比較範疇。拙文主張，美洲人權法院雖無意強調全球南方
+法學，惟其對國家與個人的權力關係，傾向以人為本，確有別於全
+球北方所奉行者。拙文將分兩大部分，首先討論美洲人權法院合公
+約性審查制度之興起及推動脈絡，以美洲人權公約（American
+Convention on Human Rights）對內國法拘束效力之爭以及合公約性
+
+
+22 參見葉錦鴻，美洲國家組織與國際人權法—區域性國際人權組織的形成與發
+  展，台灣國際法季刊，1卷1期，頁52-79，2004年。
+23 參見蔡志偉，原住民族財產權之發展—以美洲人權法院Awas Tingni案為初始
+  的思考，臺灣民主季刊，8卷4期，頁45-81，2011年。
+24 參見徐揮彥，自兩項人權公約之民族自決權論原住民族諮商同意權之規範基礎
+  與實踐，政大法學評論，158期，頁229-294，2019年。
+25 參見李怡俐，拉丁美洲在轉型正義上的困境與出路：以美洲人權法院的回應為
+  中心，臺大法學論叢，45卷3期，頁827-909，2016年。
+26 參見翁燕菁，性別與暴力：美洲人權法院對中美洲「殺女」論述之回應，台灣
+  國際法學刊，16卷2期，頁85-118，2020年。
+27 歐、美、非發展脈絡之比較，參見Alexandra Huneeus & Mikael Rask Madsen,
+  Between Universalism and Regional Law and Politics: A Comparative History of the
+  American, European, and African Human Rights Systems, 16 INT’L J. CONST. L. 136
+  (2018).
+202                                 《中研院法學期刊》第38期（2026年3月）
+
+
+
+審查之起源為起點，回溯拉美法治實際之司法課責問題，以及在地
+憲法保護訴訟體制之背景。其次則回顧對合公約性審查制度之批
+判，包括國家直接適用公約規範義務以及法位階定序等爭議，並嘗
+試以TWAIL觀點審視備位原則蘊含之國家中心主義，討論美洲人權
+法院以人為本之人權法學。
+
+
+
+貳、合公約性審查之緣起及其南方脈絡
+
+      顧名思義，合公約性審查係以多邊締結之公約為法源依據，締
+約國承擔施行公約之國際義務，須確保其人權保障符合公約規範，
+並由美洲人權法院擔任個案合公約性之終局司法裁判機關。本節首
+先將自美洲人權法院公約解釋發展出發，繼而探討相關學說評論，
+討論拉美各國憲政脈絡共通點下，合公約性審查預設之功能。
+
+一、合公約性審查之發展
+
+      美洲人權公約並未明文規範國家施行合公約性審查之義務，此
+制系出美洲人權法院之條文解釋意見。美洲人權法院以拉丁美洲轉
+型正義為發展背景，逐步發展相關論述。以下將先回顧早年對美洲
+人權公約效力之解釋（一），繼而鋪陳美洲人權法院如何藉由判決
+發展其合公約性審查論述（二）
+             。
+
+      （一）美洲人權公約效力之爭
+      美洲人權保障體系以歐洲人權公約所建立者為藍本；美洲人權
+法院如同1998年前之歐洲人權法院，僅為委員會與被告國間爭議之
+仲裁者，因而毋需直接處理公約條文甚或其解釋與裁判是否為締約
+國機關遵循之問題28。然而，美洲人權法院對此似乎另有見地。早
+
+
+28 MARIO MENDEZ, THE LEGAL EFFECTS OF EU AGREEMENTS 8 (2013).
+ 美洲人權法院與「合公約性審查」體制之建構                                                             203
+
+
+ 於1986年，針對美洲人權公約特定條款法效力，美洲人權法院似已
+ 藉其諮詢意見表達立場，隱約支持公約保障權利於內國法體系之直
+ 接適用。就公約第14條第1項保障個人為維護其名譽而享有之答辯
+ 或更正權，締約國即使負有立法保障義務，惟於內國法缺位時，是
+ 否司法亦無從予以保障？美洲人權法院如此認定：
+
+      關於第14條第1項「依據法律可能設定之條件」之語，一說
+      主張其僅賦權締約國採行創設答辯或更正權之立法，而非
+      要求締約國於內國法體系未加規定時保障之。此說既不符
+      系爭用語之「慣常語意」亦不符公約之語境29。
+
+      美洲人權法院旋即引述其諮詢意見先例指出，締約國於公約第
+ 14條第1項下所承擔之義務，緣於公約第1條第1項及第2條：「除此
+ 之外別無他法，因為公約之目的係承認個人權利與自由，而非僅授
+ 權各國加以保障30。」Héctor Gros Espiell法官於上開諮詢意見之個
+ 別意見書中闡釋，不同於歐洲人權公約，美洲人權公約於第1條之
+ 國家義務外，於公約制定最後階段比照公民與政治權利國際公約
+（International Covenant on Civil and Political Rights）第2條第2項，
+ 置入第2條關於採取內國法措施之有效保障條款，補充前條規範下之
+ 國家遵循公約義務為「立即、直接且強制」
+                   。此意謂，倘假設締約國
+ 於內國法未能保障公約規範權利時，公約等於不存在，無異於架空
+ 公約第1條所稱之義務31。此說同時為部分學說支持，認為上開諮詢
+ 意見肯定美洲人權公約個別或部分個別條款於內國法體系中具備直
+ 接效力32。直接效力說引發爭議，惟美洲人權法院未就其立場迅速
+
+
+
+ 29 Enforceability of the Right to Reply or Correction (Arts. 14(1), 1(1) & 2 American
+    Convention on Human Rights), Advisory Opinion OC-7/86, Inter-Am. Ct. H.R. (ser.
+    A) No. 7, ¶ 23 (Aug. 29, 1986).
+ 30 Id. ¶ 24.
+ 31 Id. (Gros Espiell, J., separate, ¶ 6).
+ 32 MENDEZ, supra note 28, at 8-9.
+204                                      《中研院法學期刊》第38期（2026年3月）
+
+
+
+提出釐清33，而上開諮詢意見或可謂僅限於內國法缺位時之直接效
+力，至少並未過問美洲人權公約於各締約國內國法體系之位階34。
+
+      合公約性審查可謂逐拉美國家相互效尤之特赦法沿革而起。拉
+美約始自1980年之威權轉型過程中，礙於對軍事政變再啟之隱憂，
+紛紛通過雷同之特赦法。特赦法允許涉嫌謀殺或酷刑之人免於究
+責，可視為過渡時期追求穩定而與軍方妥協之民主決定，然而卻衍
+生出過渡規範變成常態之爭議35。起初，特赦原係為回應民間抗爭
+而特赦於獨裁政權下之政治良心犯與海外流亡者，同時創造政治和
+解空間，凝聚民主社會最大共識，一度被視為轉型典範。惟嗣後基
+於末期獨裁政權或轉型後新政權為穩固自身之政治妥協，特赦法延
+伸至加害之國家代理人，即使亦包含反叛組織。至1990年代中期，
+被害人家屬及倖存者追求真相之訴求受制於特赦法，乃至向美洲人
+權委員會提出申訴，拉美各國對特赦法之檢討反省隨之展開36。
+
+      惟拉美特赦法之立法動機、背景與手法並非如出一轍。以拉美
+民主典範烏拉圭為例，其肩負穩定轉型局勢時代使命的特赦法，不
+僅最初於1986年係經民主議會依程序議決，甚至歷經1989、2009年
+兩度公民複決支持。先後跨越20年的公民複決，投票率分別高達
+             37
+84.21%及89.91% ，且選民並非以些微差距同意維持特赦法。Jorge
+Contesse強調，烏拉圭之特赦法顯然在民主正當性上，超越諸多蘊
+含自我特赦性質之拉美立法38。然而，對美洲人權法院而言，堪稱
+民主社會所必需之轉型妥協空間以及社會安定，似乎並不必然影響
+其立場。
+
+33 Id. at 9.
+34 Dulitzky, supra note 9, at 54-55.
+35 Mallinder, supra note 12, at 646.
+36 Id. at 647-49.
+37 資料來源：DATABASE AND SEARCH ENGINE FOR DIRECT DEMOCRACY, https://www.
+   sudd.ch/index.php?lang=en (last visited 2024/10/23).
+38 Jorge Contesse, Contestation and Deference in the Inter-American Human Rights
+   System, 79 LAW & CONTEMP. PROBS. 123, 135-36 (2016).
+美洲人權法院與「合公約性審查」體制之建構                                                                205
+
+
+      1993年，阿根廷與烏拉圭因各自涉及特赦法之申訴案，認為委
+員會無權取決其內國法之「合法性」，因而向美洲人權法院聲請諮
+詢意見。該項聲請緣自委員會認定系爭立法基於「合理性、適當性
+及真實性」而屬非法39，而阿根廷與烏拉圭顯然認為系爭立法係依
+循合憲程序通過，委員會無權過問。美洲人權法院則認定，於國家
+層級合憲合法通過之立法，亦可能違反該國於國際法上承擔之義
+務，而委員會不僅有權且應當加以審查判斷40。而牴觸締約國國際
+法義務之內國法，亦即構成公約違反之立法，自不得視為「合理而
+適當」，委員會如此認定並無違誤41。該院並強調，締約國賦予國
+際條約監督機構之職責，在於判定內國法是否違反公約，而非內國
+法是否違反其國家法秩序42。美洲人權法院雖未藉機釐清其1986年
+提出之直接效力說，惟重申美洲監督機構有權判斷內國法是否牴觸
+公約，而委員會認定合法與否則純屬用語未盡其詳。
+
+      興起於1990年代之特赦法爭議以及委員會之意見，非僅未為拉
+美國家接受，甚至對美洲人權監督機構產生反彈 43 。相關爭議於
+2000年後陸續提交美洲人權法院仲裁，而美洲人權法院則以2001年
+之Barrios Altos v. Peru44案，正式宣判特赦法違反美洲人權公約。循
+上開1993年諮詢意見，美洲人權法院認定本案違反公約之主要事由，
+係咸信旨在包庇藤森政權之秘魯兩部特赦法45，因阻礙有效調查及
+
+
+39 其中「真實性」為美洲人權法院認定為偏離聲請國之意旨而未予回應。Certain
+   Attributes of the Inter-American Commission on Human Rights (Arts. 41, 42, 44, 46,
+   47, 50 & 51 American Convention on Human Rights), Advisory Opinion OC-13/93,
+   Inter-Am. Ct. H.R. (ser. A) No. 13, ¶ 3 (July 16, 1993).
+40 Id. ¶¶ 26-30.
+41 Id. ¶ 35.
+42 Id. ¶ 37.
+43 Christina Binder, The Prohibition of Amnesties by the Inter-American Court of
+   Human Rights, 12 GERMAN L.J. 1203, 1208 (2011).
+44 Barrios Altos v. Peru, Merits, Judgment, Inter-Am. Ct. H.R. (ser. C) No. 75 (Mar. 14,
+   2001).
+45 Binder, supra note 43, at 1207.
+206                                       《中研院法學期刊》第38期（2026年3月）
+
+
+
+懲罰程序，且涉及不得縮限保障之人權條款。更甚者，不僅系爭法
+律之適用違反公約，且其於內國法之頒布施行本身即屬違反公約46。
+
+      Juan-Pablo Pérez-León-Acevedo指出，2001年裁判為國際人權監
+督機構對特赦法行使之最高密度監督：對於受害者權利，美洲人權
+法院所採納之原則雖無異於其餘國際人權監督機構所採者，惟藉以
+提高其審查標準47。而該院依據公約第2條規定，對本案責成被告
+國履行之義務內涵，則為Christina Cerna認定為合公約性審查之先
+河：其一，被告國須檢討法規以消除一切違反公約之情事；其二，
+被告國應採行有效確保符合公約之法規48。類似結論亦於2006年之
+                  49
+La Cantuta v. Peru 及Almonacid-Arellano et al. v. Chile裁判中。
+
+      （二）國家保障義務與合公約性審查
+      前揭Almonacid-Arellano裁判，咸認奠定合公約性審查說。該裁
+判延續美洲人權公約第1條第1項及第2條下國家積極義務之論述，
+惟超越先前定義，明文對內國機關課以義務。美洲人權法院就此裁
+判認定，當國家立法無法保障甚或侵害公約保障人權時，司法部門
+負有履行權利保障承諾之義務。反之，倘適用違反公約之內國法，
+將使國家違反其國際義務50。多數意見就此裁判繼而闡釋道：
+
+      本院明白內國法官與法院有義務尊重法治國，因此渠等有
+      義務適用其法體系中有效之規定。然而當國家已批准如美
+
+
+46 Barrios Altos, Inter-Am. Ct. H.R. (ser. C) No. 75, ¶ 18.
+47 Pérez-León-Acevedo, supra note 12, at 675 et ss.
+48 Christina Cerna, State Obligations in the Inter-American System: Requirements for the
+   Implementation of Human Rights by Domestic Courts in the Inter-American System,
+   in JUDGING INTERNATIONAL HUMAN RIGHTS 291, 302 (Stefan Kadelbach, Thilo
+   Rensmann & Eva Rieter eds., 2019).
+49 La Cantuta v. Peru, Merits, Reparations and Costs, Judgment, Inter-Am. Ct. H.R. (ser.
+   C) No. 162, ¶ 171 (Nov. 29, 2006).
+50 Almonacid Arellano v. Chile, Preliminary Objections, Merits, Reparations and Costs,
+   Judgment, Inter-Am. Ct. H.R. (ser. C) No. 154, ¶ 123 (Sept. 26, 2006).
+美洲人權法院與「合公約性審查」體制之建構                                                                 207
+
+
+     洲[人權]公約之國際條約時，其法官作為國家之一部，亦
+     為該部公約所拘束。渠等因此有責監控，違背公約宗旨之
+     法律施行不得對公約所載條款所有效力產生不利影響，且
+     此等法律自始不生任何法律效力。易言之，司法部門必須
+     於適用個案之內國法律規定與美洲人權公約之間執行某種
+    「合公約性審查」。為執行此任務，司法部門應納入審酌者
+     不限於條約本身，而包括本院作為美洲[人權]公約終局解
+     釋者之解釋51。
+
+      美洲人權法院於裁判中重申其諮詢意見先例，引述維也納條約
+法公約（Vienna Convention on the Law of Treaties）第26條及第27條
+補充道：「依據國際法，國際法課以義務須善意實現之，而內國法
+不得引以為違反義務之正當理由52。」此段文字要求內國法院執行
+之合公約性審查，不僅使違反公約之內國法律無法於個案中產生效
+力 ， 且 於 內 國 司 法 體 系 中 將 自 始 無 效 。 數 月 後 ， Dismissed
+Congressional Employees (Aguado-Alfaro et al.) v. Peru判決書引述上
+開見解時，則就司法部門執行合公約性審查之義務，加上「依職
+ （ex officio）
+權」          ，並要求司法部門循其職權與程序之適法性考量訴
+訟適格與適當性：「[……] 司法部門各機關應依職權於內國規範與
+美洲[人權]公約間執行者，不僅止於合憲性審查，而包括合公約性
+審查；此依各自職權領域與相應之程序規定框架而為之53。」
+
+      藉由Almonacid-Arellano案所突顯之有罪不罰，美洲人權法院面
+對一定程度之抗多數困境。惟此多數並非單指各國政治菁英，而包
+
+
+51 Id. ¶ 124.
+52 Id. ¶ 125, citing International Responsibility for the Issuance and Application of Laws
+   in Violation of the Convention (Arts. 1 and 2 American Convention on Human Rights),
+   Advisory Opinion OC-14/94, Inter-Am. Ct. H.R. (ser. A) No. 14, ¶ 35 (Dec. 9, 1994).
+53 Dismissed Cong. Emps. (Aguado-Alfaro et al.) v. Peru, Preliminary Objections,
+   Merits, Reparations, and Costs, Judgment, Inter-Am. Ct. H.R. (ser. C) No. 158, ¶ 128
+   (Nov. 24, 2006).
+208                                   《中研院法學期刊》第38期（2026年3月）
+
+
+
+括民主社會以安定優先之多數意見。如前所及，早期特赦立法舒緩
+新秩序與軍方及保守勢力間之緊張關係，以降低國家轉型期之風
+險，本身屬於政治部門以安定為慮而積極協調之作為。然而，與後
+期純屬政治部門掩人耳目之特赦法相同，終究無法回應受害者及其
+家屬對於正義之渴求，迫使政治問題進入司法部門。惟內國司法部
+門顯然無力或無意違反政治部門決定，而使法律動員升高至美洲人
+權保障體系。Almonacid-Arellano案之事實，涉及智利政府頒布於
+1978年之特赦法（Decree Law 2.191，法律命令），特赦Augusto
+Pinochet及其涉入大規模系統性人權迫害之政府官員，使司法無從
+追究渠等自1973年9月至1978年3月間之行為。當年遭軍方處決之被
+害人遺眷因此發動訴訟，要求智利政府調查相關罪行。
+
+      美洲人權法院於上開案件堅持之「自始無效」，顯然係為回應
+盛行於拉美國家之特赦法。惟國際人權監督體制中之個人來文或個
+案訴訟，並非為大規模系統性之人權侵害而設計。自聯合國體系之
+發展觀察，大規模系統性人權侵害係交由政治機構搭配獨立調查監
+督之，以今日人權理事會（Human Rights Council）及其1503程序
+為代表54，強調匿名提報、訪視對話與政治協調等功能。反之，個
+案模式則以推定締約國內國法體制可資救濟為前提，僅於申訴人或
+原告用盡內國救濟後，提供國際人權條約之解釋救濟。然而，基於
+民間社會法律動員策略，兩者之間界線逐漸模糊，不乏同時於不同
+性質國際機構進行動員者。
+
+      特赦法並未因此迅速消失於拉美國家。廣泛出現於拉美各國的
+系統性人權侵害，例如以穩固民主為由頒布特赦法阻卻重大人權侵
+害之究責，美洲人權法院倘欲藉個案訴訟回應之，顯然需要能進一
+步延伸其個案裁判影響力之工具。藉2010年之Cabrera García and
+
+
+54 關於1503程序，參見如：M. E. Tartu, United Nations Response to Gross Violations
+  of Human Rights: The 1503 Procedure, 20 SANTA CLARA L. REV. 559 (1980).
+美洲人權法院與「合公約性審查」體制之建構                                                             209
+
+
+Montiel Flores v. Mexico裁判，美洲人權法院引述Almonacid-Arellano
+判決先例中關於合公約性審查之論，並將擔負義務之內國機構明文
+擴充至行政、立法及各級法院：
+
+     [……] 國家經批准如美洲[人權]公約之國際條約後，其涵
+     蓋法官在內之所有機構亦為該等協定所拘束，公約要求
+     下，渠等須確保公約所載條款之一切效力不得為違背其宗
+     旨與目的之法律施行所損害。所有層級之司法部門皆須依
+     職權，於內國法律規定與美洲人權公約之間，執行某種形
+     式之「合公約性審查」
+              ，並於各自權限及相應程序規定之框
+     架下為之。為執行此任務，司法部門應納入審酌者不限於
+     條約本身，而包括本院作為美洲[人權]公約終局解釋者之
+     解釋55。
+
+     美洲人權法院繼而於同樣涉及特赦法 56 之2011年Gelman v.
+                            57
+Uruguay裁判中，完整重申上述義務內涵 ，並連結美洲人權法院
+著名之「有效解釋」   （effet utile）原則，強調：「正義須為及時，且
+行動能達成意欲或期待之有益之效，尤其處理嚴重人權侵害案件
+時，調查事實及論定懲處有責者之有效原則必須優先適用58。」藉
+有效原則具體申論內國權力機關「還諸正義」義務之核心原則，應
+不僅在於強調締約國於美洲人權公約第8條下所負之盡其能事義務
+（due diligence obligations）
+                          ，而臻至於國際法義務如何仰賴內國法層
+級有效行動。美洲人權法院不僅以國際法為憑，更結合法治國原則
+
+
+55 Cabrera García & Montiel Flores v. Mexico, Preliminary Objection, Merits,
+   Reparations, and Costs, Judgment, Inter-Am. Ct. H.R. (ser. C) No. 220, ¶ 225 (Nov.
+   26, 2010).
+56 Law 15848 on the Expiry of Punitive Claims of the State，判決書及文獻簡稱
+   Expiry Law，同樣具有阻卻起訴獨裁政權下涉嫌重大人權侵害情事者之效。
+   Gargarella, supra note 12, at 115-19.
+57 Gelman v. Uruguay, Merits and Reparations, Judgment, Inter-Am. Ct. H.R. (ser. C)
+   No. 221, ¶ 193 (Feb. 24, 2011).
+58 Id. ¶ 194.
+210                                     《中研院法學期刊》第38期（2026年3月）
+
+
+
+下內國法之一般原則，發展相關論述。以盡其能事義務為例，美洲
+人權法院即曾借Gelman案重申：
+
+      調查義務併聲稱被害人或其家屬相應權利，非僅緣自拘束
+      締約國之國際法條約規範，亦緣於內國法關於依職權調查
+      特定不法行為之義務，以及允許被害人或其親屬檢舉或提
+      交訴狀、證據、訴願或循任何程序參與刑事調查程序以確
+      定事實真相之相關規定59。
+
+二、以全球南方觀點脈絡化合公約性審查之設計考量
+
+      公約及其解釋之效力，反映出美洲人權法院面對拉丁美洲憲政
+氛圍之隱憂，而欲以國際法及內國法之基礎法理為據，創造公約規
+範發揮實益之空間。法政歷史之研究顯示，拉美國家的法治挑戰在
+於司法課責而非司法獨立，合公約性審查似意在建立以人權為核心
+之司法課責體系（一）。而積極面之司法對話，則似欲復振拉美各
+國始於19世紀中葉之憲法保護訴訟體制（二）
+                    。
+
+      （一）消極功能：以人權為核心之司法課責
+      合公約性審查制度之論述大將，墨西哥籍之美洲人權法院前院
+長Eduardo Ferrer Mac-Gregor（下稱Ferrer法官），曾著述明確闡釋
+美洲人權法院推動合公約性審查之目的：防堵明顯違反公約之法規
+範產生法效力、促使內國公權力履行其擔負之保障義務、以及提升
+各國司法對話60。自消極抑制至積極對話，備位原則與司法謙抑皆
+非美洲人權法院之首要考量。就消極抑制與監督之功能而言，如該
+院於Barrios Altos案逕行宣告違反公約之特赦法自始無效，即因視
+此自始無效始得遏止不受懲罰。就目的之二而言，美洲人權法院裁
+
+
+59 Id. ¶ 188.
+60 Eduardo Ferrer Mac-Gregor, Conventionality Control the New Doctrine of the Inter-
+   American Court of Human Rights, 109 AJIL UNBOUND 93, 96 (2015).
+美洲人權法院與「合公約性審查」體制之建構                                                          211
+
+
+判並非僅止於宣告違反公約特定條款，而積極藉由主文責成各國家
+機關義務之履行。
+
+     以著名之「殺女」案González et al. v. Mexico61判決為例62，美
+洲人權法院觀察墨西哥就私人間恣意剝奪生命之性別暴力並非無法
+可罰，且墨國適用之訴訟法及行政規則等亦不至於妨礙調查、起訴
+與究責。惟墨國性別歧見之深並不限於加害者，而普及於警政及司
+法人員之意識，使上開看似符合公約之規範執行結果無法為重大人
+權侵害提供有效救濟。裁判中因此不僅責令補賠償措施，並進一步
+具體要求司法警務人員訓練與紀念儀式等。司法裁判是美洲人權法
+院唯一具有拘束力的工具，然而無論宣告內國法牴觸公約無效或是
+督責國家機關強化性別意識培訓，皆需後續監督。合公約性審查雖
+立基於國際法之有效原則，然而實則更仰賴於國家憲政下之法治國
+原則。即使人權公約監督機構之裁判具有拘束力，裁判內容仍須依
+內國法執行之。
+
+     美洲人權保障體系雖參考歐洲，惟未若歐洲人權公約保障體系
+設定由歐洲理事會部長委員會（Committee of Ministers）監督裁判
+執行，而僅於美洲人權公約第65條要求美洲人權法院逐年向美洲國
+家組織大會提交報告，內容涵蓋國家未遵守其裁判以及相關建議，
+由大會審酌之，另於第68條第1項規定締約國遵守美洲人權法院裁
+判之義務，同條第2項要求締約國依內國法執行補賠償，並於第67
+條明定裁判意旨或適用範圍之爭議得聲請美洲人權法院解釋之。裁
+判執行因而為美洲人權法院視為固有權限，自行發展其監督機制。
+
+
+61 González et al. (“Cotton Field”) v. Mexico, Preliminary Objection, Merits,
+   Reparations, and Costs, Judgment, Inter-Am. Ct. H.R. (ser. C) No. 205 (Nov. 16,
+   2009).
+62 殺女（femicide）為女性主義者Diana E. H. Russell於1976年一場人民法庭運動
+   中所提出。參見：Diana E. H. Russell, Report on the International Tribunal on
+   Crimes Against Women, 2(1) FRONTIERS: J. WOMEN STUD. 1 (1977)。同時參見如：
+   翁燕菁，註26。
+212                                     《中研院法學期刊》第38期（2026年3月）
+
+
+
+該院不僅於裁判主文詳盡列出被告國須補正之措施，有別於歐洲人
+權法院慣行者，亦藉由裁判主文要求締約國定期報告裁判執行情
+形，審查後作成決議63。而第67條亦屢屢為被告國引以釐清其義務
+內涵，其中不乏對美洲人權法院裁判執行決議之辯詞。
+
+      美洲人權法院自行追蹤其裁判執行後續，即使非如歐洲般之常
+設機制64，得否構成一定程度之壓力？課以直接適用公約之義務，
+並以內國司法為其法治防線，是否可行？研究指出，拉美各締約國
+並非毫無提升民主法治之動機，Ellen L. Lutz & Kathryn Sikkink即
+引用Cass R. Sunstein之規範擴散（norm cascade），藉以描繪拉美
+                           65
+1980年代後迅速採納國際人權規範且難以逆轉之轉型經驗 。而
+Constanza Fernández Danceanu則強調，拉美國家亟欲藉人權保障揮
+別威權體制之強烈動機66。
+
+      反之，早年不乏研究指出，即使被告國就補賠償或儀式性等措
+施履行其義務配合度甚高，惟一旦涉及包含程序與實質之追訴或制
+
+
+63 Stefan Kadelbach, The Domestic Implementation of Judgments/Decisions of Courts
+   and Other International Bodies That Involve International Human Rights Law, in
+   JUDGING INTERNATIONAL HUMAN RIGHTS 51, 61 (Stefan Kadelbach, Thilo Rensmann
+   & Eva Rieter eds., 2019).
+64 前院長Antônio Augusto Cançado Trindade曾公開指出，渠於院長任內曾多次向美
+   洲國家組織建言，設立常設之委員會監督裁判執行，惟多年以降仍無後續。
+   Antônio Augusto Cançado Trindade, Compliance with Judgments and Decisions –
+   The Experience of the Inter-American Court of Human Rights: A Reassessment, 13
+   REV. INST. BRAS. DIREITOS HUM. 29, 29 (2013).
+65 Ellen L. Lutz & Kathryn Sikkink, International Human Rights Law and Practice in
+   Latin America, 54 INT’L ORG. 633, 636 (2000); Ellen L. Lutz & Kathryn Sikkink, The
+   Justice Cascade: The Evolution and Impact of Foreign Human Rights Trials in Latin
+   America, 2 CHI. J. INT’L L. 1, 24 (2001). 至於人權規範是否於拉美國家依此社會
+   化模式發展，並非本研究擬討論者，相關辯論參見如：顏永銘，人權力量今猶
+   在？—螺旋模式與規範社會化的反思，中研院法學期刊，19期，頁253-
+   283，2016年。
+66 Constanza Fernández Danceanu, Systematic Review of the Causes of Latin American
+   States’ Compliance with International Human Rights Law, 41 HUM. RTS. Q. 553, 569
+   et ss. (2019).
+美洲人權法院與「合公約性審查」體制之建構                                                           213
+
+
+度改革者，被告國普遍遵守情況欠佳67。尤其，拉美國家機關仍可
+能欠缺有效履行義務之治理能力。例如前揭殺女案所揭示者，不惟
+社會普遍之厭女氛圍，即如警政司法國家代理人普遍仍對女性保有
+刻板印象。合公約性審查之消極面，出發點應在於聯合拉美各國司
+法機關共同把關，透過權力分立與制衡防堵政治部門恣意之擴散。
+嗣而考量義務主體不限於法院，乃進一步於後續之判決中，將全數
+國家機關納入合公約性審查義務承擔者。
+
+     1980年代關於拉美司法獨立之研究，或可提示關於美洲人權法
+院寄予合公約性審查之功能。Joel G. Verner於1984年就拉丁美洲最
+高司法機關之司法獨立地位進行整體文獻回顧，並主張既有研究忽
+略拉美各國司法獨立程度的落差，欠缺實證比較，即使研究多半指
+出拉美國家欠缺司法獨立，使司法部門面對政治部門相形依賴且弱
+勢68。司法獨立是否為合公約性審查推動關鍵？Keith S. Rosenn於
+1987年以智利最高法院為例，指出該院曾於Salvador Allende政府時
+代抨擊政治部門，成為民眾視之為獨立之象徵，反之該院於Pinochet
+政變時無能挑戰威權而為民眾視為失去獨立地位。然而，事實卻是
+司法部門對Pinochet政權有所同情，與民眾觀感產生落差。Rosenn
+進一步引述關於墨西哥最高法院憲法保護訴訟（amparo）之實證研
+究，點出問題或許不在於司法是否獨立，而在於司法部門對行政部
+門的支持，進而維護政權穩定69。Tom Farer則於1997年指出，拉美
+
+
+
+67 See Cecilia M. Bailliet, Measuring Compliance with the Inter-American Court of
+   Human Rights: The Ongoing Challenge of Judicial Independence in Latin America,
+   31 NORDIC J. HUM. RTS. 477 (2013); Damian A. Gonzalez-Salzberg, Do States
+   Comply with the Compulsory Judgments of the Inter-American Court of Human
+   Rights? An Empirical Study of the Compliance with 330 Measures of Reparation, 13
+   REV. INST. BRAS. DIREITOS HUM. 93 (2013).
+68 Joel G. Verner, The Independence of Supreme Courts in Latin America: A Review of
+   the Literature, 16 J. LATIN AM. STUD. 463, 469 (1984).
+69 Keith S. Rosenn, The Protection of Judicial Independence in Latin America, 19 U.
+   MIAMI INTER-AM. L. REV. 1, 10-11 (1987).
+214                                        《中研院法學期刊》第38期（2026年3月）
+
+
+
+各國經歷威權體制，看似擁有完整之憲法基本權利保障文字，實長
+期遭緊急狀態所掏空，整體司法部門之效能未能發揮70。
+
+      合公約性審查欲影響者，恐怕並非單純提振積弱之司法部門獨
+立地位，而係強化拉美司法部門對人權保障之課責。值得注意者，
+係拉美國家於民主轉型歷程中曾面臨司法獨立與司法課責（judicial
+                                           71
+accountability）兩者衡平之難題 。確保司法獨立固然為根本，惟
+如同Rosenn之觀察，司法部門不僅曾於軍事政權下沉默甚至合作，
+更有貪腐收賄與缺乏效能等紀錄72。當司法部門本身形塑法治之能
+力有限時，卻可能以司法獨立為名力抗政治部門推動之司法改革，
+徒使人權保障成為權力鬥爭之祭品。
+
+      惟相對而言，當司法部門成為國家整體轉型中之改革客體時，
+是否亦可能為政治部門藉機打造有利於自身之機器？Aníbal Pérez-
+Liñán & Andrea Castagnola認為，拉美各國司法體制多元而複雜，憲
+政改革往往牽連司法部門，各國真正的通病在於司法不穩定
+（judicial instability）。而不同於早先研究偏向以政治部門與司法部
+門之間的利益算計觀察之，Pérez-Liñán & Castagnola則以1904年至
+2010年對18個拉美國家司法機關之實證資料分析為憑，指出政治部
+門對法律解釋的控制企圖往往轉變為對最高司法機關組織的控制，
+而改革過程對司法穩定造成的衝擊更勝於改革成果之影響。拉美司
+法制度不穩定最終衝擊者，則係至關重要之司法公正73。
+
+70 Farer, supra note 9, at 512-13.
+71 Cristián Villalonga Torrijo, Judicial Independence and Accountability in Latin
+   America: The Challenges of Assessing the Judges’ Performance, UC BERKELEY LAW,
+   https://www.law.berkeley.edu/research/the-robbins-collection/judicial-independence-and-
+   accountability-in-latin-america-the-challenges-of-assessing-the-judges-performance/
+   (last visited 2025/10/25).
+72 Margaret Popkin, Efforts to Enhance Judicial Independence in Latin America: A
+   Comparative Perspective 4-7 (Due Process of Law Found. 2001), https://biblioteca.
+   cejamericas.org/bitstream/handle/2015/1836/efforts-jud-la.pdf (last visited 2026/02/04).
+73 See Aníbal Pérez-Liñán & Andrea Castagnola, Judicial Instability and Endogenous
+   Constitutional Change: Lessons from Latin America, 46 BRIT. J. POL. SCI. 395 (2016).
+美洲人權法院與「合公約性審查」體制之建構                                                            215
+
+
+     循司法課責與司法穩定之觀察，約略能描繪出拉美權力制衡之
+弊端：憲法無法以保障人權為目的，而司法部門並非一概欠缺對抗
+政治部門之權能，只是未能以人權為其機構之核心。Ferrer法官曾
+對其倡議之司法對話解釋道，既然各國司法部門甚至每位法官皆負
+有監督公約施行之義務，則美洲人權法院更應鼓勵法官積極行使此
+職權74。此說所指涉之司法對話，顯然出於平衡司法課責與司法獨
+立之思慮75。以美洲人權公約為核心之合公約性審查義務，或許對
+各國司法部門而言，有其「校正回歸」之功效。而此校正回歸，則
+一方面需仰賴司法審查制度。拉美各國之司法審查傳統，誠屬合公
+約性審查另一值得探究之在地脈絡。
+
+   （二）積極功能：分散且集中之司法審查與對話
+     關於Ferrer法官提出之合公約性審查三目的，使公約產生實質
+法效力以及促進國家機關履行公約義務，似皆得以消極功能之司法
+課責涵蓋之。惟欲使國家各機關履行義務，仍須促成一定程度之轉
+變（transformation）
+                ，使各國體制能朝向共同的法治目標變遷，因此
+亦含有局部積極功能，進一步銜接各國司法對話。Ferrer法官強調，
+司法對話不在於引進外國法，而在於為自身之裁判建構更穩固之法
+釋義學基礎，另方面亦參與全球司法社群法釋義之逐步發展76。參
+與此協作機制並非義務，惟時至今日，以基本權利保障領域為例，
+     （judicial monologue）對於人性尊嚴的維護可能是危險
+「司法獨白」
+的態度77。美洲人權法院是司法對話的「參與者」
+                      （participant），而
+非由上而下之造法者78。
+
+
+74 Eduardo Ferrer Mac-Gregor, What Do We Mean When We Talk about Judicial
+   Dialogue?: Reflections of a Judge of the Inter-American Court of Human Rights, 30
+   HARV. HUM. RTS. J. 89, 107 (2017).
+75 Villalonga Torrijo, supra note 71.
+76 Ferrer Mac-Gregor, supra note 74, at 96.
+77 Id. at 97.
+78 Id. at 101.
+216                                        《中研院法學期刊》第38期（2026年3月）
+
+
+
+      墨西哥籍之美洲人權法院前院長Sergio García Ramírez法官，咸
+認係合公約性審查之創始者79。渠早年之出發點，似乎與墨國分散
+式憲法保護訴訟難脫關聯，主張內國法官於進行合憲性審查之同
+時，亦應審查合公約性，同時就個案之法律及事實適用之80。渠之
+憂心，源於被告國以內國司法抗拒為由為其執行美洲人權法院裁判
+不力辯解81，推動合公約性審查成為勢在必行。同為墨籍之Ferrer法
+官以專案法官參與美洲人權法院前揭Cabrera García案之審查時，
+亦曾藉協同意見書發表建立合公約性審查之必要。Ferrer法官強
+調，各級法院不限於狹義司法階層中之各級法院，而包括如憲法法
+院等實際執行裁判權之機關82。所謂各級法官皆應依職權執行合公
+約性審查，Ferrer法官明確認定係為建立分散式合公約性審查體系
+（diffuse conventionality control）83，且確實仿效自分散式合憲性審
+查，構成憲法體系之「國際法化」84（internationalization）。惟此分
+散式合憲性審查，似非直接源自全球北方所理解之美國模式，而更
+可能直接繼受自García Ramírez與Ferrer法官所熟悉之墨西哥憲法保
+護訴訟85。
+
+      憲法保護訴訟雖吸納全球北方思想，然而綜其倡議與發展歷
+程，嗣後甚至反向影響西班牙違憲審查制度86，南方特色昭然。墨
+
+
+
+79 Contesse, International Authority of the IACtHR, supra note 12, at 1172.
+80 López Álvarez v. Honduras, Merits, Reparations, and Costs, Judgment, Inter-Am. Ct.
+   H.R. (ser. C) No. 141 (Feb. 1, 2006) (García Ramírez, J., concurring, ¶ 30).
+81 Contesse, International Authority of the IACtHR, supra note 12, at 1173.
+82 Cabrera García & Montiel Flores, Inter-Am. Ct. H.R. (ser. C) No. 220, ¶ 19 (Ferrer
+   Mac-Gregor Poisot, J., concurring).
+83 Id. ¶ 3.
+84 Id. ¶ 22.
+85 Amparo一詞於西班牙語中即為「保護」 。
+86 西班牙稱之為保護救濟（recurso de amparo），Martín Agudelo Ramírez, El
+   recurso de amparo y el Tribunal Constitucional Español: Estudio sobre la tutela
+   procesal cualificada de protección de los derechos fundamentales en el país ibérico,
+   1(3) RATIO JURIS 35, 37 (2005).
+美洲人權法院與「合公約性審查」體制之建構                                                               217
+
+
+國憲法保護訴訟部分繼受英美法之人身保護令狀（habeas corpus）
+                                   ，
+惟將英美法之人身自由程序保障延伸至任何受憲法保障之權利。然
+而Héctor Fix-Zamudio提醒，憲法保護訴訟之概念及發展模式，同時
+受到諸多法體系之影響，而美國之司法審查制度，係透過托克維爾
+（Alexis de Tocqueville）出版於1836年之法語著作於1855年西譯後
+始流傳於拉丁美洲87。法國思想與制度之主要影響，則在於人權、
+憲法秩序之維護、與最高法院「擊破」
+                （casser）下級審裁判之司法
+體制。而西班牙殖民政權引進之歐陸集中式司法體制，則使墨國憲
+法保護訴訟並非全然如美國般分散，更集權於聯邦法院88。此外，
+「amparo」一詞於西班牙殖民脈絡下，同時得指涉救濟（remedy/
+recurso）、禁制令（injunction/interdictos），以及自由權之程序保
+障，而今仍透過拉美各國相關法律用語之微妙差異得以揭露89。
+
+     惟墨國憲法保護訴訟亦非成於一夕，最初於1841年出現於州憲
+法，以維護憲法保障之權利，其提案者Manuel Crescencio Rejón同
+時亦為拉美倡議以法律合憲性司法審查保障基本權利之要角 90 。
+1874年由聯邦派領軍之憲改，則於Rejón與Mariano Otero兩位制憲
+委員聯手下，以咸稱之「Otero公式」促成聯邦憲法認可保護訴訟
+之規範：當法官於個案中拒絕適用違憲法規範時，效力僅限於個案
+當事人（inter partes effect）
+                       。易言之，此公式係為避免司法藉此推
+翻國會意志，違憲法規範並不因此失效91；Otero公式至今仍見於墨
+
+
+87 Héctor Fix-Zamudio, A Brief Introduction to the Mexican Writ of Amparo, 9 CAL. W.
+   INT’L L.J. 306, 309 (1979).
+88 Id. at 310.
+89 Héctor Fix-Zamudio, The Writ of Amparo in Latin America, 13 U. MIAMI INTER-AM.
+   L. REV. 361, 364-66 (1981).
+90 Helen L. Clagett, Mexican Suit of “Amparo”, 33 GEO. L.J. 418, 421 (1945).
+91 Id. at 422; Fix-Zamudio, supra note 87, at 312-13; Devin C. McNulty, Amparo as a
+   Reflection of Mexico’s Evolving Society and Judicial System, 49 INT’L J. LEGAL INFO.
+   149, 156-57 (2021); Axel Tschentscher & Caroline Lehner, The Latin American
+   Model of Constitutional Jurisdiction: Amparo and Judicial Review 2 (Univ. of Bern,
+   Research Paper No. 2296004, 2013), https://ssrn.com/abstract=2296004.
+218                                        《中研院法學期刊》第38期（2026年3月）
+
+
+
+國憲法第107條第1項第2款第1段92。墨國最高法院亦數度認定，議
+會至上原則並不因憲法保護訴訟受侵害，法律適用於個案時經裁判
+認定違憲而不適用，其本身無關造法亦無關乎法律本身是否違
+憲93。至1857年制憲會議後，墨國新憲法載明「保護令狀」
+                            （writ of
+amparo），並自1861年起藉由立法陸續完備其程序並延伸適用之審
+查標的。惟此歷程難稱順遂，其間經歷戰禍與帝制等延宕94。
+
+      如此分散式之憲法保護令狀制度，何以與集中式審查得以並
+行？Fix-Zamudio解釋，於墨國獨立前後之脈絡下，法學專業人才集
+中於兩大城，而其餘地方法官普遍有不適任且依賴政治部門之弊病。
+保護訴訟成為法界菁英將重大案件由地方法院轉由聯邦法院審理之
+重要手段。聯邦最高法院最終難抵法界菁英訴訟動員，通盤受理合
+憲性審查，成為合憲性審查之終局裁判機關，並宣告1869年保護訴
+訟法律中禁止利用保護訴訟挑戰終局裁判之規定違憲。19世紀末之
+發展下，保護訴訟得以任何聯邦法院為一審機關，並得上訴聯邦最
+高法院，或直接向聯邦最高法院就任何終審裁判提起保護訴訟95。
+然而在欠缺判例傳統之墨國法體系中，聯邦最高法院仍難以成為金
+字塔頂。至1882年，墨國藉由立法採行判例（jurisprudencia）建立
+Otero公式之例外：當最高法院於憲法保護訴訟程序中，以8/11之適
+格多數連續作成5次爭點與結論相同之違憲裁判，則此判例將拘束
+所有下級法院96，確立最高法院更趨集中之審查權威。
+
+      至20世紀，墨國司法審查制度已納入以國家機關為被告之違憲
+法規範保護訴訟97（amparo contra leyes），惟個案隨附之保護訴訟
+制度仍並行不悖。墨國雖為憲法保護訴訟之先行者，惟並非唯一於
+
+92 Tschentscher & Lehner, supra note 91, at 3.
+93 Clagett, supra note 90, at 436.
+94 Id. at 423.
+95 Id. at 427; Fix-Zamudio, supra note 87, at 314-15.
+96 Clagett, supra note 90, at 437; Tschentscher & Lehner, supra note 91, at 3.
+97 Fix-Zamudio, supra note 87, at 318-19.
+美洲人權法院與「合公約性審查」體制之建構                                                           219
+
+
+19世紀中葉起即採行違憲審查之拉美國家；其制度於拉美其他國家
+迅速擴散98，而其「集中且分散」之違憲審查制度，嗣亦成為拉美
+特色之一99。Allan R. Brewer-Carías解釋，早於20世紀中葉依Hans
+Kelsen學說建立之歐陸集中式違憲審查模式，拉美國家如哥倫比亞
+與委內瑞拉，自1858年起即已授權最高法院循訴訟裁判宣告違憲法
+規範失效，爾後則將權限交付更晚近成立之憲法法院100。
+
+     拉美各國違憲審查制度彼此雖有差異，惟憲法保護訴訟為所有
+法院之權限且其既判力僅限個案訴訟方之特色相同。此特色使其進
+行較諸歐陸憲法訴訟更為簡易101，且即使建立判決先例制度而拘束
+所有法院，亦因欠缺對世效力而毋需顧忌立法權與行政權。反之，
+作為彌補保護訴訟缺憾之抽象法規範違憲審查制度，拉美各國則交
+由專門司法機關執行之。然而如Axel Tschentscher & Caroline Lehner
+即認為，憲法保護訴訟併行下，各級法院可能競相拒絕適用特定法
+律規範，致使後繼之司法裁判依樣複製；反之若僅有單一法院認定
+規範於個案適用違憲，則不影響法安定性。而此一實踐上之彈性，
+允許拉美司法機關實質分享違憲法律裁判之認定權102。
+
+     承此拉美憲法保護訴訟之脈絡，與其謂美洲人權法院係由上而
+下之片面施壓或倡議，未若回顧「新拉丁美洲憲政主義」興起模
+式，或更能理解美洲人權法院自詡為全球人權保障對話體系之一員
+之說。對照合憲性審查之分類，美洲人權法院自始即屬集中式合公
+約性審查機構，獨力承擔公約內涵之闡釋任務。惟此移植自歐陸模
+
+
+98  Fix-Zamudio, supra note 89, at 362; Tschentscher & Lehner, supra note 91, at 6;
+    Phanor J. Eder, Judicial Review in Latin America, 21 OHIO ST. L.J. 570, 571-72
+    (1960); ALLAN R. BREWER-CARÍAS, CONSTITUTIONAL PROTECTION OF HUMAN
+    RIGHTS IN LATIN AMERICA: A COMPARATIVE STUDY OF AMPARO PROCEEDINGS 89
+    (2009).
+99 除阿根廷之違憲審查制度與美國相同外，BREWER-CARÍAS, supra note 98, at 88.
+100 Id. at 90.
+101 Tschentscher & Lehner, supra note 91, at 9.
+102 Id. at 12.
+220               《中研院法學期刊》第38期（2026年3月）
+
+
+
+式之集中式審查體制，對拉美國家雖非屬陌生，卻顯然缺少更具彈
+性且能創造對話空間之憲法保護訴訟為配套。倘得參考憲法保護訴
+訟於拉美各國擴散並賦能司法機關之傳統，美洲人權保障體系便有
+機會如同拉美多數國家般，建立「既集中且分散」之合公約性審查
+體系。然而，問題在於，美洲人權法院為國際級法院，終究不同於
+內國司法機關，面對國際法備位原則，如何自圓其說？
+
+
+
+參、合公約性審查及其爭議
+
+      合公約性審查之目的性甚強，美洲人權法院似乎認定自身孤掌
+難鳴，而欲藉判決這項唯一工具策動拉丁美洲各締約國憲政之轉
+變。如此野心自然招致批評，即使學說對於拉美人權確有疑慮而能
+理解美洲人權法院，仍難免對於合公約性審查就法源與法位階之定
+序，以及備位原則之適用空間等提出質疑。以下將依序討論之。
+
+一、法源依據與法位階之爭
+
+      法源依據與法位階之爭，實為一體之兩面。美洲人權法院認定
+國家批准國際人權公約後，其國家機關即依公約承擔履行公約之義
+務；為有效履行保障人權之國際法義務，國家機關須於內國法體系
+適用公約規範而不待立法等手段中介之（一）。然而對各國而言，
+憲法與內國法是否允許人權公約之直接適用非無疑慮，尤其產生法
+位階定序上之爭議103（二）
+             。
+
+      （一）直接適用之國際法依據？
+      承前所及，美洲人權法院主要仰賴美洲人權公約第1條第1項、
+
+
+103 這點對臺灣法界而言應不陌生，相關辯論持續有年，至今司法對於直接適用
+      之模式仍不乏爭論。
+美洲人權法院與「合公約性審查」體制之建構                                                                 221
+
+
+第2條及第29條之詮釋，輔以維也納條約法公約第26條及第27條，
+構成合公約性審查之法源依據。而美洲人權法院前院長Antônio
+Augusto Cançado Trindade法官則另有其見，主張以公約第8條及第
+25條之有效救濟證立合公約性審查。渠曾藉其個別意見書主張，締
+約國之司法部門必須對本國憲法以及國際人權法「有深度知識並盡
+職適用之」，因為「國際法與內國法體系於人權保障領域中持續互
+動」104。渠引述美洲人權法院判決先例主張近用司法為絕對法（jus
+      ，因而對國家產生對世義務105（obligations erga omnes）
+cogens）                                     。因
+此，併參美洲人權公約第8條公平審判與第25條司法保護之規定，
+合公約性審查奠基於上開兩條款「本體及詮釋層次」（ontological
+and hermeneutic levels）之意涵，個人於內國法體系內應享國際人
+權法典大全（corpus juris）之有效救濟以及有效近用美洲人權法院
+判決先例之權利106。
+
+      對Cançado Trindade法官而言，美洲人權公約本身即為內國法
+體系中有效救濟之一環，而非有別於內國法之「非常救濟」。此立
+場實與García Ramírez及Ferrer法官推動之分散式合公約性審查並無
+二致；國際人權公約為內國法之一部，且基於其抽象性質及適用模
+式更近似於憲法。無論基於美洲人權公約第1條第1項、第2條及第
+29條之締約國積極義務，或基於公約第8條併參第25條之有效司法
+救濟，美洲人權公約皆應於內國法產生直接規範效力。況拉美各國
+於 1990 年 代 憲 政 改 革 浪 潮 後 ， 近 乎 一 致 對 國 際 法 採 行 一 元 論
+（monism）。惟Contesse認為，即使各國自願於一元論下直接適用國
+際人權條約，亦不同於美洲人權法院由上而下片面認定各國機關有
+義務直接適用107。
+
+
+104 Aguado-Alfaro et al., Inter-Am. Ct. H.R. (ser. C) No. 158, ¶ 3 (Cançado Trindade, J.,
+    separate).
+105 Id. ¶ 4. 原文用語為jus cogens，官方英譯為peremptory right。
+106 Id. ¶¶ 5-7.
+107 Contesse, International Authority of the IACtHR, supra note 12, at 1170.
+222                                          《中研院法學期刊》第38期（2026年3月）
+
+
+
+  美洲人權法院對合公約性審查之要求，不限於該項裁判本身之
+既判力，更要求各國司法部門遵循美洲人權法院對公約之解釋。如
+此則使包括裁判論證理由（公約解釋）在內之裁判內容，一併於被
+告國法體系中取得判例地位108（stare decisis），無異於前揭憲法保
+護訴訟制度。依Ferrer法官之見，於此分散式合公約性審查體系
+下，內國法官身兼「美洲級法官」，而美洲人權法院將更有機會僅
+扮演備位機關，擔任最終而非唯一裁判109。
+
+  易言之，美洲人權法院認定其裁判效力超越對被告國之拘束
+力，而廣泛及於公約其餘締約國。美洲人權公約與相關判決先例構
+成之「公約集成」110（bloque de convencionalidad）  ，取得美洲法體
+                                     111
+系之優位，甚至可能於個案中凌駕國家憲法解釋 。當合憲性審查
+之依據為憲法甚或憲法基本原則112，則合公約性審查之依據為公約
+及其授權機關之解釋。務實而言，Contesse與Luiz Guilherme Marinoni
+不約而同舉出美洲人權法院García Ramírez法官藉其協同意見書113
+表達之理由：法院無力負荷大量事實重複且已有先例之爭訟，內國
+法院與國際法院皆然，而後者更顯無能為力；美洲人權法院不應耗
+費有限資源反覆處理相同案件114。
+
+108 Bertelsen, supra note 9, at 911.
+109 Cabrera García & Montiel Flores, Inter-Am. Ct. H.R. (ser. C) No. 220, ¶ 24 (Ferrer
+      Mac-Gregor Poisot, J., concurring).
+110 David Andrés Murillo Cruz, La dialéctica entre el bloque de constitucionalidad y el
+    bloque de convencionalidad en el Sistema Interamericano de Derechos Humanos,
+    36 REV. DER. PUB. 1, 3 (2016).
+111 如同智利憲法第19條第12項允許電影禁映條款，即為美洲人權法院宣告違反
+    美洲人權公約第13條保障。“The Last Temptation of Christ” Case (Olmedo-Bustos
+    et al.) v. Chile, Merits, Reparations and Costs, Judgment, Inter-Am. Ct. H.R. (ser. C)
+    No. 73 (Feb. 5, 2001).
+112 包含程序及實質原則，乃至得據以宣告修憲違憲。See Richard Albert, The
+    Theory and Doctrine of Unconstitutional Constitutional Amendment in Canada, 41
+    QUEEN’S L.J. 143, 182-203 (2015).
+113 Tibi v. Ecuador, Preliminary Objections, Merits, Reparations and Costs, Judgment,
+    Inter-Am. Ct. H.R. (ser. C) No. 114 (Sept. 7, 2004) (García Ramírez, J., concurring, ¶ 4).
+114 Contesse, International Authority of the IACtHR, supra note 12, at 1173; Marinoni,
+    supra note 12, at 27-28.
+美洲人權法院與「合公約性審查」體制之建構                                                           223
+
+
+      然 而 ， Contesse 認 為 ， 依 據 國 際 法 院 規 約 （ Statute of the
+International Court of Justice）第38條，除引述該條第1項第1款之國
+際條約佐證其法源依據外，美洲人權法院應向同條項後續列出之法
+源 延 伸 ，包 括 習 慣法 與 各 國適 用 公 約而 建 立 之判 決 先 例 115 。
+Contesse的考量在於，美洲人權公約判決先例應朝向由下而上形
+成，而非由上而下。分散式合公約性審查看似由下而上，然而美洲
+人權法院倘堅持其判決理由對各國形成判例，恐將形成趨於歐盟法
+院實際之整合審查模式，非僅忽視公約條款欠缺自動執行特質，亦
+誤植自身為拉美憲法法院，更無從鼓勵法治較發達國家之司法部門
+進行建設性之司法對話116。Claudina Orunesu與Marinoni則分別自阿
+根廷最高法院判決先例點出類似疑慮，判例過度拘束內國法官獨立
+裁判，即使內國法院不甚同意美洲人權法院所確立之解釋，亦須基
+於美洲人權公約解釋之拘束力而於個案中適用之117。
+
+    （二）法位階定序或合而為一？
+      關於內國機關直接適用人權條約之義務法源爭議，有其實際
+面。支持Cançado Trindade法官以美洲人權公約第25條內國法院執
+行合公約性審查法源依據之學說，同樣認為欲落實公約所保障之
+「簡易、即時且有效之救濟」，各國法官就個案進行合公約性審查成
+為必要118。然而，該條款似無法排除憲法或內國法提供相同保障之
+可能，而Ariel E. Dulitzky亦傾向認定該條款並未要求公約的直接適
+用或取得優位119。詳究之，有效救濟原則或能於內國法無從提供救
+濟時，為具有內國法效力之國際條約或習慣國際法等提供直接或間
+接適用之餘地，反之卻無法成為普遍合公約性審查之充分條件。至
+
+
+115 Contesse, International Authority of the IACtHR, supra note 12, at 1182.
+116 Id. at 1177 et ss.
+117 Marinoni, supra note 12, at 28; Orunesu, supra note 12, at 53 et ss.
+118 參見西語文獻之彙整：Dulitzky, supra note 9, at 62.
+119 Id. at 62-63.
+224                                    《中研院法學期刊》第38期（2026年3月）
+
+
+
+此，公約於內國法體系之定位成為國家履行公約義務之關鍵，回溯
+美洲人權法院前揭1986年諮詢意見，倘若類推適用其所稱內國法缺
+位無法抹煞該國違反公約之事實，則公約受內國法位階定序或僅得
+間接適用等障礙而無法產生效力時，亦屬公約之違反。
+
+       當美洲人權法院為避免模糊，要求各國法官不得適用違反公約
+之法規範時，各國法官執行合公約性審查恐難以避免欠缺法律授權
+之困境。當條約法位階不必然優於內國法律時，於個案中拒絕適用
+內國法，甚至必須拒絕適用憲法既定解釋時，法官挑戰者將可能是
+民主甚至憲法多數120。Dulitzky亦指出，美洲人權法院顯然無視美
+洲人權公約第2條規定締約國「依憲法程序」保障人權；逕自要求
+各國法官罔顧憲法秩序「依職權」行使合公約性審查，更是無視法
+官於內國法體系中無權凌駕於法律之上。而實際上，部分拉美國家
+對違憲法律仍維持集中式審查模式，憲法法官僅有權依憲法裁判，
+且不乏國家嚴格禁止法官進行訴外裁判121。Orunesu甚至對照合憲
+性審查正當性論證，指出憲法授權司法機關進行違憲審查，至少法
+官擁有憲法多數為依靠。反之，合公約性審查之正當性僅有美洲人
+權法院片面之公約解釋為憑，抗多數之正當性相對薄弱122。
+
+       因此，合公約性審查之推動者認為，相應於國際人權公約為
+「憲法的國際法化」
+        ，各締約國有義務遵守其承諾，推動「國際法的
+    （constitutionalization of international law）123。Ferrer法
+憲法法化」
+官指出，各國因此負有修法或修憲之義務，使國際人權條約取得於
+
+
+120 Orunesu, supra note 12, at 57.
+121 Dulitzky, supra note 9, at 60-61.
+122 Orunesu, supra note 12, at 57.
+123 Armin von Bogdandy, Ius Constitutionale Commune en América Latina:
+      Observations on Transformative Constitutionalism, 109 AJIL UNBOUND 109, 113
+      (2015). 亦有譯為憲法化者，惟考量此特定語境中憲法之意涵，更近於如所謂
+      民主政治之憲法規範化，故採相關學說之「憲法法化」翻譯。參見：蘇彥
+      圖，司法審查作為憲政工程—結構最小主義的提議，中研院法學期刊，22
+      期，頁2，2018年。
+美洲人權法院與「合公約性審查」體制之建構                                                            225
+
+
+內國法直接適用之基礎，例如承認國際人權條約之憲法位階或接受
+其憲法性質，同時考量法規範衝突時應採納之調和工具，如美洲人
+權 公 約 第 29 條 所 體 現 之 利 人 原 則 124 （ pro homine/pro persona
+                                                                     125
+principle）或自由優先原則（favor libertatis principle） ，於個案
+中適用最有利於權利保障之法規範。搭配拉美各國之憲法保護訴訟
+制度，美洲人權法院顯然希望調和各國憲法與國際人權公約保障權
+利及其內涵，要求內國法官拋開僵固之金字塔法位階想像，以利人
+原則為仲裁，選擇最有利人權保障之規範解釋適用於個案。
+
+  Yota Negishi於其合公約性審查研究中，對照歐洲與美洲兩人
+權法院比較法，並指出美洲人權法院公約解釋之普世取向：相對於
+區域共識或區域共同點（common denominators），美洲人權法院更
+著重普世共同法律見解126。而此說背後的論述主力之一，正是先後
+擔任美洲人權法院與國際法院法官之Cançado Trindade。惟對美洲
+人權法院，尤其是Cançado Trindade法官而言，此一普世共同見解
+並非內國法之趨勢，而係國際社會整體對人權保障之承諾，包括自
+1960年代以降至今，不限於國家間行動者交互研議而生之跨國共
+識。Cançado Trindade明確主張：
+                      「一般或習慣國際法較少緣自（並
+非毫不模糊而矛盾之）國家實踐而生者，而係出自國際法所有主體
+（國家、國際組織及人類）之共同法律見解者。」各項人權侵害並
+非無法可管，而是規範一再遭到破壞與牴觸127。
+
+124 此揭說法彼此互通，為拉丁美洲人權法用語。Hayde Rodarte Berbera, The Pro
+    Personae Principle and Its Application by Mexican Courts, 4 QUEEN MARY HUM.
+    RTS. L. REV. 1, 7 (2017); Karlos Castilla, El principio pro persona en la
+    administración de justicia, 20 CUESTIONES CONST. 65, 69 (2009). 筆者先前著述皆
+    以「人利原則」為譯，惟屢經對照比較，                          「有利於人」始為較精準之意涵，因
+    此檢討前譯，改擇「利人」之譯，謹此敘明。
+125 Cabrera García & Montiel Flores, Inter-Am. Ct. H.R. (ser. C) No. 220, ¶¶ 25 & 38
+    (Ferrer Mac-Gregor Poisot, J., concurring).
+126 YOTA NEGISHI, CONVENTIONALITY CONTROL OF DOMESTIC LAW: CONSTITUTIONALISED
+    INTERNATIONAL ADJUDICATION AND INTERNATIONALISED CONSTITUTIONAL
+    ADJUDICATION 54 (2022).
+127 Juridical Condition and Rights of Undocumented Migrants, Advisory Opinion OC-
+226                                        《中研院法學期刊》第38期（2026年3月）
+
+
+
+       嚴以論之，與其謂美洲人權法院欲使美洲人權公約成為拉美太
+ 上權利憲章，未若將此合公約性審查之法源依據奠基於一套超越公
+ 約與憲法藩籬之「人權法典集成」。Rodrigo Uprimny即指出，人權
+ 入憲以及國際人權公約規範於各國憲政秩序中的至高地位，使得各
+ 國之「憲法集成」128（bloque de constitucionalidad）中皆包含國際
+ 人權規範。前揭之「公約集成」129直接與各國憲法集成相通，使後
+ 續美洲人權法院或各國法院之裁判、解釋甚至相關學說，皆得持續
+ 豐盈此一美洲共同憲法法。拉美各國憲法相對於國際規範之開放
+ 性，為Cançado Trindade法官稱之為繼憲法的國際法化後，更進階
+ 且更利於人權保障之「國際法的憲法法化」，形成「共同憲法法」
+（ius constitutionale commune）130。
+
+       尤其，美洲人權法院早於合公約性審查體系奠定前，即已自我
+ 定位為普世人權營造工程參與者之一。該院於其2002年關於兒童權
+ 利之諮詢意見中表示，近乎全數美洲國家組織會員國皆為1989年兒
+ 童權利公約（Convention on the Rights of the Child）之締約國，足
+ 以反映出「廣大國際共識支持該文件所設定之原則與機制」，同時
+ 以「共同法律見解」（opinio juris communis）註解此一國際共識，
+ 據以為美洲各國應履踐之義務。換個角度觀察，或許也能將此視為
+ 美洲人權法院的「以身作則」。兒童權利公約本身並不拘束美洲人
+ 權法院，然而對於美洲兒童權利保障更有利之國際共識，值得納入
+ 其適用於個案或諮詢意見之國際法典中。對內國法院而言，即使國
+ 際人權條約礙於法位階而無憲法效力，然而與憲法同樣保障兒童權
+
+
+
+     18/03, Inter-Am. Ct. H.R. (ser. A) No. 18 (Sept. 17, 2003) (Cançado Trindade, J.,
+     concurring, ¶¶ 86-89).
+ 128 Rodrigo Uprimny, The Recent Transformation of Constitutional Law in Latin
+     America: Trends and Challenges, 89 TEX. L. REV. 1587, 1591-92 (2011).
+ 129 Murillo Cruz, supra note 110, at 24.
+ 130 von Bogdandy, supra note 123, at 109; Aguado-Alfaro et al., Inter-Am. Ct. H.R. (ser.
+     C) No. 158, ¶ 9 (Cançado Trindade, J., separate).
+美洲人權法院與「合公約性審查」體制之建構                                                           227
+
+
+利的條約解釋，仍然可能透過憲法法官秉持利人原則之司法採納，
+佐證判決之論證而發揮法效力。
+
+     以拉美新憲政主義（neoconstitutionalism）131 形容拉美合公約
+性審查之效益，或無違誤。惟如此描繪，恐怕無法引人超越金字塔
+式之集中權威以及超越國際法與憲法界限之想像。即使對於全球北
+方而言，Armin von Bogdandy認為一元論與二元論不再能有效詮釋
+當代國際法與內國法之關係，而金字塔亦限制法律專業之思考而無
+法回應當代多元主義（pluralism）132，無法容許不同法秩序參與個
+案 對 話 。 Negishi 則 反 思 國 際 法 與 憲 法 關 係 之 「 一 元 金 字 塔 」
+（monistic pyramid）觀點，指出國際法優位或憲法優位，皆有其盲
+點。即如歐盟縝密整合過程，同樣須面對各會員國憲法法院以憲法
+固有價值提出挑戰133 。於阿根廷最高法院與美洲人權法院之交鋒
+中，美洲人權法院即曾表示，問題並不在於國際法於內國法體系是
+否優於內國法，而是主權國家是否履行承諾之義務134 。Negishi相
+對指出，憲法至高論則是罔顧當代各國面對國際壓力與跨國對話現
+象，憲法解釋同樣在國際規範演進中受到實質影響，遑論拉美諸國
+將國際人權規範納入憲法或賦予憲法位階之趨勢135。
+
+     如美洲人權法院以其解釋為判例而強推合公約性審查，此一單
+一金字塔法秩序的建構，顯然悖離當代司法對話或跨國憲政主義潮
+流。如Mireille Delmas-Marty嘗試推翻法秩序之金字塔式想像，改
+以「雲」形容變動中的法秩序，藉此表現國家、區域或國際法秩序
+
+
+
+131 Felipe Curcó Cobos, The New Latin American Constitutionalism: A Critical Review
+    in The Context of Neo-Constitutionalism, 43 CAN. J. LATIN AM. CARIBBEAN STUD.
+    212, 221-23 (2018); Alexandra Huneeus, Constitutional Lawyers and the Inter-
+    American Court’s Varied Authority, 79(1) LAW & CONTEMP. PROBS. 179, 185 (2016).
+132 von Bogdandy, supra note 12, at 397-98.
+133 Negishi, supra note 12, at 460 et ss.
+134 Orunesu, supra note 12, at 56.
+135 Negishi, supra note 12, at 460 et ss.
+228                                      《中研院法學期刊》第38期（2026年3月）
+
+
+
+交互影響而演進之動態136。而對個別法官而言，法律多元主義於人
+權保障實務之可行性，在於利人原則之適用：以對人權保障最有利
+之規範優先適用，並於衝突之憲法解釋與公約解釋中選擇最適方
+案。
+
+       前揭關於直接適用公約義務之條約依據，確有其法律理由，惟
+國際法與國家憲法之楚河漢界，於今是否對於同時受兩者保障之個
+人尚有實際意義？對個人而言，主張表現自由之依據為憲法或條約
+法，端視個人如何從相關解釋與實踐得出有利其權利保障之主張，
+諸如憲法法院判決先例或人權條約諮詢意見。對個人而言，國家履
+行之義務為憲法義務或條約義務，皆不失其民主正當性，憲法多數
+與條約多數皆經民主程序肯認。其目的終究在於，政治部門或司法
+部門依「法」判定該人主張之權利免於侵害或應獲給付。
+
+二、備位原則與評斷餘地之爭
+
+       國際法之基本原則於合公約性審查之適用，衍生之另一爭議
+面：備位原則137與評斷餘地。顯然，兩者於全球北方所建構之國際
+
+
+136 M. Delmas-Marty, Les forces imaginantes du droit (II). Le pluralisme ordonné, 2006,
+      266-267.
+137 關於備位原則之譯，似有必要詳加論證說明之。誠然，我國歐盟相關學說長
+      期且普遍譯為輔助原則（參見如：吳東野，歐洲聯盟條約「輔助原則」條款
+      之理論分析，問題與研究，33卷11期，頁11-20，1994年；王玉葉，歐洲聯盟
+      之輔助原則，歐美研究，30卷2期，頁1-30，2000年；許琇媛，歐盟憲法條約
+      探討歐盟與會員國間之權限劃分，歐洲國際評論，1期，頁65-102，2005年；
+      蘇宏達，論歐洲憲法的優位性，歐美研究，37卷2期，頁323-389，2007年），
+      惟亦不乏歐盟法學者譯為補充原則（吳建輝，史特勞斯堡之路：歐盟加入歐
+      洲人權公約之法律問題，東吳法律學報，29卷3期，頁162，2018年）。拙文另
+      擇備位之譯，係出於法體系脈絡之考量。按國際人權法與內國法之法位階關
+      係甚為複雜，如美洲人權法院合公約性審查爭議所揭示，各國法秩序對於美
+      洲人權公約及美洲人權法院解釋各有其規範，不同於歐盟法體系內相對明確
+      之優位取決。反之，國際人權訴訟與德國或我國行政訴訟規範適用先後順位
+      較為雷同，尤其考量締約國對權利保障或救濟措施之評斷權限，故拙文傾向
+      採用學者劉淑範發表於2003年之「備位原則」翻譯（劉淑範，論確認訴訟之
+      備位功能：行政訴訟法第六條第三項之意涵與本質，人文及社會科學集刊，
+美洲人權法院與「合公約性審查」體制之建構                                                            229
+
+
+法學上，皆有其難以撼動之地位，甚至曾為歐洲人權公約締約國不
+惜集體藉由議定書強化之138 。備位原則與合公約性審查之交集有
+二，一為程序面之個案受理要件，以用盡內國救濟原則為代表，二
+則為被告國就個案人權保障方式所享有之裁量空間，學說以歐洲人
+權法院所發展之評斷餘地為評論焦點。基於備位原則，美洲人權公
+約第46條第1項及第2項訂有用盡內國有效救濟原則，此與歐洲人權
+公約之規範並無二致。美洲人權法院推行合公約性審查，遭受批評
+最烈者首推不尊重備位原則（一）？然而，美洲人權法院是否單純
+僅係罔顧備位原則，或另有其法（二）？
+
+   （一）備位原則：以多元為名之國家中心主義？
+     如前言所略及，備位原則堪稱支撐今日國際法骨架之原則。備
+位原則形成自全球北方脈絡，得以歐盟法與歐洲人權公約體系為代
+表。循歐盟法脈絡，當一個超國家體制與其成員國家於其所構成之
+法體系中分享權力時，依備位原則取決其間權力之分配：以成員國
+掌握集體決定權為原則，惟就一特定之目的，倘若由超國家體制採
+取行動將確保成員國更有效率地達成該目的，則成員國將允許轉移
+其決定權與超國家體制139。此權力分配，涉及歐盟法是否得於特定
+領域事務中取得原屬各國國會之立法權限。不乏論者指出，其彈性
+特質有利於調和國際法與國家管轄權之間的潛在衝突140，距離國家
+中心之主權理論較遠，而更近於權力彼此重疊之多層次治理說141。
+
+
+    15卷1期，頁61，2003年），以為區別。國際人權法之備位原則固然引自歐盟
+    法體系，惟其發展與內涵仍有根本差異，值得就其譯詞之選擇區別之。筆者
+    衷心感謝多年前劉淑範老師曾詳盡自訴訟程序與法律適用等面向，為筆者剖
+    析釋疑，最終排除比照歐盟法同名原則之翻譯。
+138 參見如：Leonie M. Huijbers, The European Court of Human Rights’ Procedural
+    Approach in the Age of Subsidiarity, 6 CAMBRIDGE INT’L L.J. 177 (2017).
+139 Føllesdal, supra note 15, at 38.
+140 Feichtner, supra note 14, ¶¶ 16-18.
+141 Kees van Kersbergen & Bertjan Verbeek, Subsidiarity as a Principle of Governance
+    in the European Union, 2 COMPAR. EUR. POL. 142, 144 (2004).
+230                                       《中研院法學期刊》第38期（2026年3月）
+
+
+
+       有別於歐盟法，歐洲人權公約之法位階取決於各國法秩序。備
+位原則於國際人權法之權力分配與調節作用，在於面對國際人權條
+約之監督時，各國保有幾分民主自決之空間，得以國家評斷餘地概
+念為代表。惟Eva Brems提醒，備位原則與評斷餘地並非一體，即
+使備位原則為評斷餘地提供最強有力之理論支持，然內國法官優勢
+論亦屬關鍵142。歐洲人權法院自1970年代中期起即屢屢重申，各國
+機關處於直接面對內國各方勢力的第一線，因此各國機關面對個案
+需就公約各項要件實質內容提出見解時，原則上較國際級司法機關
+更具優勢143。此外，第15號議定書第1條明文於公約前言加入備位
+原則與評斷餘地，尤成各國「節制」歐洲人權法院管轄權之象徵符
+碼144，即使實際或不至減損歐洲人權法院之正當性145。
+
+       然而，面對與美洲法院類似之大規模或系統性人權侵害時，歐
+洲人權法院近年亦不得不改變做法。回溯歐洲人權法院實踐，早先
+裁判多限於評價國家是否違反公約，並令適當賠償個案原告。而歐
+洲理事會部長委員會執行判決，亦僅重個案被害人是否獲得補賠
+償 。 既 須 司 法 自 制 ， 又 須 解 決 案 件 積 存 ，「 領 航 裁 判 」（ pilot
+judgment）成為處方。歐洲人權法院藉此逐步介入裁判執行，對被
+告國應有作為於裁判書中作出較為明確之命令或指引建議146。此舉
+
+
+
+142 Eva Brems, Positive Subsidiarity and Its Implications for the Margin of Appreciation
+      Doctrine, 37 NETH. Q. HUM. RTS. 210, 212 (2019).
+143 Handyside v. United Kingdom, 24 Eur. Ct. H.R. (ser. A) ¶ 48 (1976).
+144 締約國屢屢強調備位原則之進程，確實使歐洲人權法院更加節制，參見Mikael
+    Rask Madsen, The Narrowing of the European Court of Human Rights? Legal
+    Diplomacy, Situational Self-Restraint, and the New Vision for the Court, 2 ECHR L.
+    REV. 180 (2021).
+145 See Marisa Iglesias Vila, Subsidiarity, Margin of Appreciation and International
+    Adjudication within a Cooperative Conception of Human Rights, 15 INT’L J. CONST. L.
+    393 (2017).
+146 Alice Donald & Anne-Katrin Speck, The European Court of Human Rights’
+    Remedial Practice and Its Impact on the Execution of Judgments, 19 HUM. RTS. L.
+    REV. 83, 93-94 (2019).
+美洲人權法院與「合公約性審查」體制之建構                                                            231
+
+
+反與美洲人權法院於判決主文要求具體作為之手法更靠近一步，強
+化個案判決之對世效力。歐洲人權法院前院長Dean Spielmann即曾
+藉此趨勢，強調內國司法機關角色之重要性147。由此觀之，歐洲人
+權法院即使並未與美洲人權法院般採取積極手段推動合公約性審
+查，亦未輕忽各國司法課責之重量。
+
+     國際級法院涉入裁判執行，明確要求國家提供特定有效救濟措
+施甚至制度改革，爭議自然衍生148。若藉此反觀美洲人權法院對被
+告國相對全面之裁判執行監督149，採取積極介入各國體制之合公約
+性審查手段，似乎不失為可行之階段性策略。尤其，備位原則以多
+元為名，要求國際級司法機關謙抑。惟此假設仍須以包括內國法院
+等內國機關之課責為前提。不僅在拉美，即如東歐亦不乏堪憂之
+例。而西歐治理經驗看似正當化備位原則，限制國家高權以調整傳
+統國際法秩序，實則難脫國家中心（State centric）色彩150。西歐以
+民主社會所必要壓抑內部多元，向國際監督機關主張多元，難免雙
+重標準且悖於以超越國界之人類共識保障少數之國際人權規範初衷。
+
+     前文亦已論及，美洲人權法院藉以折衝內國法與國際法關係
+者，係利人原則。倘謂歐洲人權法院係以評斷原則約束自身而非責
+成各國司法機關，而美洲人權法院主要係以利人原則要求各國機
+關，此說恐有單純將條約法與憲法對立之虞。原告向歐洲人權法院
+起訴前，同樣需向內國機關主張其公約保障權利並用盡救濟。內國
+司法機關實務上為避免為歐洲人權法院認定違反公約，將合公約性
+
+
+147 Dean Spielmann, President, ECTHR, Opening Remarks at the International
+    Conference on Application of the European Convention on Human Rights and
+    Fundamental Freedoms on National Level and the Role of National Judges (Oct. 24,
+    2014), https://www.echr.coe.int/documents/d/echr/Speech_20141024_OV_Spielmann_
+    ENG.
+148 Donald & Speck, supra note 146, at 96-102.
+149 依前院長Cançado Trindade之語，法院並非旨在說服國家施行相關決定之調解
+    機關。Bailliet, supra note 67, at 479-80.
+150 Føllesdal, supra note 15, at 36-42.
+232                                       《中研院法學期刊》第38期（2026年3月）
+
+
+
+納入考量早已行之有年。反之，美洲人權法院自身同樣是利人原則
+之奉行者，只是如同前述，其人權法典範圍跨越全球，並未限於美
+洲人權公約與拉美各國民主決定。即使以多元為依據，評斷餘地之
+主體仍為國家，然而國家壟斷之民主決定正是國際人權規範欲挑戰
+者：以超越國界之集體多數保護國界內之少數。
+
+      國際人權法下之多元，確有其多層次治理性質，備位原則亦有
+其實際功能。然而國界並非此多元之絕對單位，各國地方自治團體
+甚或民間團體等亦屬之。自民間社會動員觀察，倘依Kiyoteru
+Tsutsui、Claire Whitlinger & Alwyn Lim對於國際人權規範促進內國
+變遷之分析架構151，拉美國家民主化提供政治契機，而以國際人權
+監督機制為中心跨國串連協作之網絡，則協助達成包括人才與金援
+之資源動員。從強迫失蹤、非法特赦、原民自決、反殺女（anti-
+femicide）等訴訟動員觀察，既成之國際人權規範與判決先例，提
+供社會運動論述框架，同時使權利主體重新認知自身處境與地位，
+進而使其身分或價值認同產生變化。政治社會層面對國際人權規範
+之「開放性」，允許國際人權規範進入社會對話，進而改變行為模
+式。例如反殺女運動，婦運突破個案訴訟進入社會動員階段，且進
+行跨國串連並向包括美國國會、聯合國人權監督機制以及美洲人權
+監督體系發動法律動員152。
+
+      合公約性審查為拉美民間社會之法律動員拓展空間。社會運動
+論述尋求國際人權保障標準之奧援，確立倡議改革之正當性。而以
+美洲人權監督體系為中心進行之訴訟動員，背後則係拉美獨特之立
+法動員策略：藉由美洲人權監督機構之具體結論，例如立法修正或
+補充立法之義務，要求內國立法機關積極作為。此積極作為義務保
+
+
+151 Kiyoteru Tsutsui, Claire Whitlinger & Alwyn Lim, International Human Rights Law
+    and Social Movements: States’ Resistance and Civil Society’s Insistence, 8 ANN. REV.
+    L. & SOC. SCI. 367, 376-82 (2012).
+152 翁燕菁，註26，頁99-103。
+美洲人權法院與「合公約性審查」體制之建構                                                             233
+
+
+留之立法形成自由甚為有限，其中必須滿足美洲人權法院對程序與
+實質保障之各項要求。易言之，民間社會對於立法技術信任有限，
+毋寧明確要求立法明確呈現「公約施行法」之特質。威尼斯委員會
+（Venice Commission）即曾發表研究報告，指出拉美立法針對國際
+人權條約之施行訂立諸多「賦能」
+              （enabling）之內國法規範，明確
+課責相關公權力機關對於重啟訴訟或執行賠償等義務153。此一立法
+技術，非僅要求公約價值放射至內國法間接產生規範效力，更是將
+公約課責義務詳細循特定國家社會所面臨挑戰而脈絡化，使內國法
+成為公約特定條文之施行法。
+
+   （二）多元主義：利人原則或評斷餘地？
+     要求各國遵循美洲人權法院判決先例以施行公約，並以自身為
+終局裁判機關，美洲人權法院無異於推定拉美各國欠缺善意施行公
+約之體制擔保，或如Roberto Gargarella指稱對拉美民主決定缺乏信
+心154，甚至需要介入各國之司法課責。不得不正視者，係拉美部分
+國家亦逐步朝向法制健全邁進，如烏拉圭、哥斯大黎加與智利近年
+皆已趨近於西歐等國法治程度，阿根廷表現亦佳155。而就自由程度
+而言，多數拉美國家至少已達有瑕疵之民主（flawed democracies）
+                                      ，
+勝過絕大多數亞非國家156。美洲人權法院是否即因此應轉向評斷餘
+地，留予拉美各國民主社會更多人權標準自決空間？
+
+
+
+
+153 Eur. Comm’n for Democracy through Law (Venice Comm’n), Draft Report on the
+    Implementation of International Human Rights Treaties in Domestic Law and the
+    Role of Courts, ¶ 35, CDL(2014)046 (2014).
+154 Gargarella, supra note 12, at 119.
+155 Rule of Law Index (2025), WORLD JUSTICE PROJECT, https://worldjusticeproject.org/
+    rule-of-law-index/ (last visited 2026/02/04).
+156 Democracy Index 2021: The China Challenge, ECONOMIST INTELLIGENCE UNIT
+    (2022), https://www.eiu.com/n/campaigns/democracy-index-2021 (last visited
+    2025/10/25).
+234                                      《中研院法學期刊》第38期（2026年3月）
+
+
+
+       然而承上所論，拉美人權法之特色，並非否定備位原則之南方
+法學，而係以明確之利人原則取代時而模糊之評斷餘地，作為確保
+國家同時善意履行其憲法及國際義務之調節器。推動國際法之憲法
+法化有其務實面：權利之保障，得同時受益於個別國家憲法解釋遺
+產及跨國甚至全球人權解釋，以有效救濟為中心，毋需區隔憲法或
+國際法。當美洲人權法院自身以利人原則為核心，參酌普世人權規
+範於個案中確立人權保障標準時，同時邀請各國法官執行相同任
+務。而各國法官可能欠缺之授權，則應由政治部門基於國際義務之
+善意履行完備之。
+
+       Louise Mallinder於其終結拉美特赦法之策略討論中即曾指出，
+前揭Barrios Altos判決後，曾因特赦法而無法重啟裁判之案件自動
+重啟，係因秘魯憲法承認國際人權條約與美洲人權法院判決先例為
+內國法之一部157。而如2011年憲改後之墨西哥，則基於民主政治之
+決定將利人原則入憲，緩衝憲法與條約法就人權保障之潛在衝突，
+亦使憲法明文要求國家機關行使職權皆須同時考量憲法及墨西哥加
+入之國際條約158。
+
+       另自民主社會決定與國際監督機關之潛在衝突觀察，
+Gargarella曾質疑，倘民主社會堅決選擇集體遺忘而維持特赦法效
+力，美洲人權法院如何能堅持特赦法之自始無效？Gargarella提醒
+道，即如拉美普遍存在之特赦法，背後亦有民主正當性之差異，有
+威權政體通過者，亦有民主社會通過者。以阿根廷民主化後通過者
+為例，係經民主選舉政府提案、國會通過，並由最高法院支持合
+憲，其間亦歷經國民集會自由行使等過程。反之以阿根廷當時國情
+而論，該特赦法係民主社會為平息軍方壓力所做出之決定，以其目
+
+
+157 Mallinder, supra note 12, at 655.
+158 Victor Manuel Colli Ek, Improving Human Rights in Mexico: Constitutional
+      Reforms, International Standards, and New Requirements for Judges, 20 HUM. RTS.
+      BRIEF 7, 7 (2012).
+美洲人權法院與「合公約性審查」體制之建構                                                              235
+
+
+的而論或許正當性有瑕疵。而論及Gelman案之烏拉圭特赦法，雖然
+同樣含有對軍方之忌憚，卻是經過二度公民投票考驗之民主決
+定159。倘民主社會基於其國情考量所必要，則美洲人權法院將此類
+民主決定依其後果等而視之並一律剝奪其合法地位，憑藉為何？
+
+  Gargarella指責美洲人權法院於Gelman案之論理過於簡化，忽
+視權利與民主之間難分的關係160。美洲人權法院堅持必須調查重大
+人權侵害之加害者並處以刑罰，亦即否定民主社會有權選擇其認定
+之外的方式對權利提供等價保障。Gargarella強調，美洲人權法院
+並非對各國司法部門欠缺尊重，而是對於各國顯無程序瑕疵之民主
+決定欠缺足夠的尊重161。易言之，當美洲人權法院推動其合公約性
+審查以振興拉美各國司法部門於權力分立下之重量時，相應可能犧
+牲的是拉美民主意志形成空間。而相對於剝奪民主社會自決空間，
+Contesse更在意的是法院藉由利人原則的擴權，並回應Negishi的主
+張，指出利人原則應限於法律解釋工具，而非法院自行新增權力之
+基礎162。
+
+     然而，民主社會又何以得基於共識剝奪少數人不得限縮之基本
+權利？誠如Cançado Trindade法官屢次基於利人原則，於國際法院
+中力抗其餘法官之國家中心論，指稱實證法之形式主義儼然成為
+「道德暴君」 163 。然而，自TWAIL之去殖民化或知識去中心化出
+發，全球南方是否應擁抱並遵循全球北方所生產之國際法知識，抑
+或 必 須 以 去 殖 民 為 由 極 端 否 定 既 有 知 識 ？ TWAIL 方 法 論 大 師
+
+
+159 Gargarella, supra note 12, at 116-17.
+160 Id. at 118.
+161 Id. at 119.
+162 Contesse, supra note 12, at 126-27.
+163 Moisés Montiel, Symposium in Remembrance of Judge Antônio Augusto Cançado
+    Trindade: A Formalist’s Defense of Judge Antonio Cançado Trindade, OPINIO JURIS
+    (2022/12/06), http://opiniojuris.org/2022/12/06/symposium-in-remembrance-of-judge-
+    antonio-augusto-cancado-trindade-a-formalists-defense-of-judge-antonio-cancado-
+    trindade/.
+236                                      《中研院法學期刊》第38期（2026年3月）
+
+
+
+Boaventura de Sousa Santos曾於訪談中指出，知識的去中心化，並
+非否定既有知識的價值，而是必須知悉知識產自經驗。而全球北方
+經驗所產生的知識，包括法律，皆有其相對性164。此相對性並非支
+持各國以恣意自認之民主自決，主張其制度於國際法之合法正當。
+de Sousa Santos主張，人權係解放與正義的語言，用以對抗貶抑與
+壓迫。尤其，並非僅止於全球南方國家民族對抗北方，而包括於全
+球南方國家內部反抗威權並爭取自由與平等165。
+
+       於備位原則與可操作之評斷餘地下，個人及其權利淪為客體，
+淹沒於主張自身為多元主體最小單位之民主社會中。反之對於de
+Sousa Santos而言，個人始為國際人權法反抗並追求正義之中心。
+易言之，人權之意涵在於支持個人反抗其國家多數。當全球北方歷
+史經驗主導國際法秩序時，全球南方能否以不否定國際人權法既定
+規則為前提，反省重塑國際法保障個人權利之手段？如同de Sousa
+Santos，Cançado Trindade法官亦尋求回歸個人之國際法秩序，屢次
+於國際法院爭訟中抬升人權面向以對抗國家間爭議面向，意圖將曾
+長期置身國際法院之外的國際人權法，引入主流國際法對話166 。
+TWAIL理論大師Anghie提醒道，腐化之後殖民菁英承接殖民機器並
+利用以擴張自身族群勢力，而此亦為人權所挑戰者。Anghie提出
+「諸多位置、多重帝國」（many locations, multiple empires）之觀
+點，即使在主張對抗境外勢力干預保障其民主人權之後殖民社會
+中，亦可見後殖民國家機器對少數人權的壓迫167。人權是以人為中
+心的對抗運動，而既有國際法原則卻往往忽視淹沒在國家聲量中的
+少數群體。
+
+164 ALICE CES, Boaventura de Sousa Santos: University of Bristol «Decolonising the
+      Curriculum» Part 1, YOUTUBE (2020/12/03), https://youtu.be/HIjbgX7lY4M.
+165 José-Manuel Barreto, Epistemologies of the South and Human Rights: Santos and
+    the Quest for Global and Cognitive Justice, 21 IND. J. GLOB. LEGAL STUD. 395, 397
+    (2014).
+166 Montiel, supra note 163.
+167 Anghie, supra note 20, at 43-44.
+美洲人權法院與「合公約性審查」體制之建構                                                             237
+
+
+     美洲人權法院或許並未明確主張TWAIL對全球北方國際法學之
+批判，亦未如部分TWAIL學者主張般，基進挑戰現行國際法無力保
+障之境外人權168 。惟其作法卻彰顯全球南方對此反殖民脈絡之反
+思：推動拉美各國以普世人權法典為依據，藉由利人原則於多層次
+之衝突規範中作出選擇。評斷餘地或許更能突顯對各國民主決定之
+尊重，然而卻可能落入「多重帝國」之壓迫結構。利人原則與評斷
+餘地皆以比較法為重要基礎，然而美洲人權法院之比較法超越其區
+域內部之共識，而自國際趨勢之比較尋求最能實質保障權利之解
+釋。至此，利人原則已不再僅限於條約法與憲法之選擇工具性，而
+是跨國憲政主義之體現。Domenico Giannino即主張，美洲人權法院
+以利人原則翻轉拉美，美洲人權法之優位本身即建立於不分憲法或
+條約法之普世人權保障，無關乎美洲人權法院高高在上之終局裁判
+權，亦非單純以「外來法」優先適用169。
+
+     美洲人權法院於2020年就締約國退出美洲人權公約一案之諮詢
+意見，或可進一步突顯合公約性審查體系之全球南方觀點。美洲人
+權法院將美洲國家組織置於憲法權力分立保障之假設中，對於評估
+締約國是否基於「惡意」退出公約而違反其國際法義務之參酌法
+源，舉出美洲國家組織各機制外，亦納入普世民主人權監督機制之
+獨立見解170。美洲人權法院更進一步定義，美洲人權公約締約國皆
+           （collective guarantors）
+為國際人權「集體保障者」                     ，負有遵循美洲國
+家組織相關規範與機制之監督責任，以避免個別國家利用規避公約
+
+
+168 Id. at 82-93.
+169 See Domenico Giannino, Are We Looking Up or Are We Looking Out? The
+    Transnational Constitutionalism of the Inter-American Court of Human Rights:
+    Conventionality Control and the Fight Against Impunity, 10 TRANSNAT’L LEGAL
+    THEORY 6 (2019).
+170 Obligations in Matters of Human Rights of a State That Has Denounced the
+    American Convention on Human Rights and the Charter of the Organization of
+    American States, Advisory Opinion OC-26/20, Inter-Am. Ct. H.R. (ser. A) No. 26, ¶
+    74 (Nov. 9, 2020).
+238                                   《中研院法學期刊》第38期（2026年3月）
+
+
+
+義務遁入人權侵害之免責171。美洲人權法院進一步於結論中闡釋，
+集體保障緣自美洲國家組織憲章之團結與睦鄰精神，且為美洲人權
+公約整體保障機制之所據172。因此，集體保障衍生出憲章及公約全
+體締約國確保憲章及公約效力之一般義務，且構成對所有締約國義
+                   ，即使締約國自身利益並未受到侵害173。
+務（erga omnes partes）
+
+
+
+肆、結論
+
+      而正如Ferrer法官之堅持，Cançado Trindade法官亦認為，美洲
+人權法院對國家義務課責不留餘地，更實際的原因在於區域比較法
+顯示的圖像，是人權系統性侵害的日常，尤其涉及非常時期亦不得
+限制之權利174。如同美洲人權法院為此一普世體系中之一員，美洲
+人權公約各締約國亦屬之。倘美洲人權法院如同各締約國般，對既
+定之國際共識無意落實，則無異於認定拉丁美洲一再重演之人權侵
+害無法可管，即便相關規範皆為各締約國所批准肯認。既有國際人
+權監督體系下之法規範，其法律性（juridicité）仍植基於一般國際
+法體系下國家善意原則175。依循全球北方之經驗，國際人權法目的
+在於保障國家管轄下之個人，惟對此主體之權利保障無直接管轄
+權，法學方法上便採取備位原則，以調和各國之國際義務與民主自
+決。全球北方之假設係推定國家法治體制足以有效施行人權公約，
+而國際級監督機構之備位性質在於百密一疏之下的個案救濟。惟個
+人及民間團體於此國際規範形塑中，是否僅存保障客體之地位？
+
+
+171 Id. ¶ 75.
+172 Id. ¶ 163.
+173 對所有締約國義務原係對利益未受損之締約國提供訴訟適格，參見Pok Yin S.
+    Chow, On Obligations erga omnes partes, 52 GEO. J. INT’L L. 469, 472 (2021)；惟
+    此處美洲人權法院則係對利益未受損之締約國課以維護公約效力之義務。
+174 NEGISHI, supra note 126, at 46.
+175 R. Kolb, La bonne foi en droit international public (1), RBDI 1998, 667.
+美洲人權法院與「合公約性審查」體制之建構                                                             239
+
+
+     前文曾略及，政治學界著名之跨國人權倡議「迴力鏢模式」
+  176
+說       （boomerang pattern），最初即出於對拉美跨國人權運動的觀
+察。人民跨國促成國家締結或加入國際人權條約後，即可透過內國
+法體系之倡議與動員，力主其源自國際法之權利。賦權於人民，人
+民便能有憑有據持續請求甚至抗爭。美洲人權法院儼然選擇加入此
+一跨國人權對話體系，積極扮演其賦權角色，且獲得民間團體之肯
+定，即使不必然能有效促成國家履行義務177。合公約性審查體系之
+建構，終非締約國及其機關履行義務之終極保證；於拉美國家中，
+內國民意甚至大選時機對改革的影響更為直接且關鍵178。而此模式
+中，獲得賦權而採取行動者，尚須納入各國法官。研究利用迴力鏢
+模式建構量化框架，衡量巴西、哥倫比亞、阿根廷、智利與玻利維
+亞等5國，發現各國採納美洲人權法院判決先例或見解程度不一，甚
+至不乏持續抗拒美洲監督者。然而，此一研究同時驗證，部分法院
+亦確實獲得賦權，引用美洲人權法院見解確認國家義務之履行179。
+
+     當國際規範深入國家規範，國際級法院、區域級法院與各國法
+院任務交互重疊。惟正因諸多管轄權之間彼此並無階級關係，戮力
+尋求法律明確性以及法安定性的結果，將導致以由上而下之意見犧
+牲社群多樣或社會多元。司法對話於是成為全球司法管轄權之間的
+協作機制，法官從中意識到自己為國際司法社群的一員。美洲人權
+法院即使是合公約性審查的推手，仍主張所謂美洲法典大全不應僅
+
+
+
+176 顏永銘，註65，頁253-283。
+177 See Patricia Palacios Zuloaga, Judging Inter-American Human Rights: The Riddle of
+    Compliance with the Inter-American Court of Human Rights, 42 HUM. RTS. Q. 392
+    (2020).
+178 See Francesca Parente, Domestic Accountability and Non-Compliance with
+    International Law: Evidence from the Inter-American Court of Human Rights, 62 J.
+    PEACE RSCH. 119 (2025).
+179 See Ranieri L. Resende, Precedent of the Inter-American Court of Human Rights:
+    State Compliance and Judicial Performance in Brazil, Colombia, Argentina, Chile,
+    and Bolivia, 18 ICL J. 77 (2024).
+240                                      《中研院法學期刊》第38期（2026年3月）
+
+
+
+由美洲人權法院決定之，即使扮演公約「終局解釋者」，亦應限於
+不同意見之仲裁。而此不同意見，自應出於同樣扮演美洲人權公約
+解釋者的各國法官甚至民主社會，不僅需要各國法官的橫向對話與
+民間團體的串連，更需要由下而上藉由對話爭執而形成共識180。此
+亦不失為歐洲人權公約體系長期仰賴之對話模式181。
+
+      此外，關於司法積極與正當性之批評，似亦值得自拉美脈絡重
+新商榷。拉美有別於西歐，以TWAIL182 觀點而言，國際法毋需全
+然以歐美中心外溢之價值觀為準。美洲人權法院創造的方法，倘能
+有效回應拉美國家人民對權利之主張，亦將構成國際法秩序之一
+部。全球南方國際法的去殖民論述，並非徹底否定或推翻歐洲方
+法，而係肯定其正面價值並創造另類方法存續的空間。更甚者，南
+方拉美經驗亦有反饋北方歐洲之餘地。反向而論，歐洲人權法院自
+其體系中發展出之比較法與歐洲共識原則，或難適用於人權保障基
+礎體制尚嫌脆弱之拉丁美洲，然而歐洲人權法院相對廣泛引述各國
+判決先例與法律規範，則值得美洲人權法院於合公約性審查體系中
+逐步拓展。Contesse即自秘魯、阿根廷等法院引述美洲人權法院判
+決論理執行合公約性審查之例，呼籲美洲人權法院應於裁判中納入
+拉美各國法院對公約之解釋，不僅豐富公約判決先例，更能鼓勵司
+法對話，使公約解釋反映多元183。
+
+      美洲人權法院並非片面創設國際人權規範，亦非單純採納全球
+北方解釋，而是複合普世及跨國之經驗，進而結合拉美殖民脈絡，
+
+
+180 Dulitzky, supra note 9, at 80-81. Contesse, International Authority of the IACtHR,
+    supra note 12, at 1181-82; Jorge Contesse, The Final Word? Constitutional Dialogue
+    and the Inter-American Court of Human Rights, 15 INT’L J. CONST. L. 414, 422 et ss.
+    (2017).
+181 翁燕菁，對話與爭議：從歐洲人權法圖像論臺灣施行人權公約之實質意涵，
+    臺大法學論叢，46卷特刊，頁1115-1201，2017年。
+182 此處之「南方」觀點出於Boaventura de Sousa Santos, Epistemologies of the South
+    and the Future of University, 58 J. PHIL. EDUC. 166 (2024).
+183 Contesse, International Authority of the IACtHR, supra note 12, at 1179 et ss.
+美洲人權法院與「合公約性審查」體制之建構                                                            241
+
+
+建立其南方國際法方法論。拉美與我國擁有類似民主法治成長脈
+絡，就歐美主流學說所忌憚之司法積極，亦有對照空間。林建志曾
+自臺灣經驗中說明，憲法法院有其政治性，作為廣義政治決策參與
+之一員，並不需要過度擔憂如「司法國」般之法官治國184。當政治
+部門面對爭議因各類政治考量而未能提出解方時，爭議自然轉移至
+司法部門，而啟動司法部門的政治決策參與。司法部門固然並非民
+主決策機關，惟今日司法程序設計以及相應之法律動員下，即如集
+中式審查模式下之憲法法院，亦非獨立閉門作業。與其謂美洲人權
+法院為區域人權價值之守門員，強勢推動合公約性審查而擱置備位
+原則，未若自其圍繞於利人原則發展之法學方法，認識其意圖化解
+人權保障上無此必要之法優位競逐，成就全球南方對國際人權法之
+貢獻。
+
+     美洲人權法院雖未強調任何TWAIL方法，惟其以利人原則為核
+心之合公約性審查工程，似已朝向Cançado Trindade法官倡議之萬
+民法（jus gentium）體系185移動。雖然工程浩大而爭議不斷，仍不
+失為以「人類」為終極考量之國際法試驗場。
+
+
+
+
+184 參見林建志，迎接司法國的到來？以釋字第748號解釋為例，臺大法學論叢，
+    48卷3期，頁873-965，2019年。
+185 Salvador Herencia-Carrasco, The Impact of Cançado Trindade at the Inter-American
+    Court of Human Rights: A Jus Gentium for the People, AFRONOMICSLAW (2022/12/08),
+    https://www.afronomicslaw.org/category/analysis/impact-cancado-trindade-inter-
+    american-court-human-rights-jus-gentium-people.
+242                                   《中研院法學期刊》第38期（2026年3月）
+
+
+
+
+              The Inter-American Court
+                  of Human Rights
+                and the Construction
+            of “Conventionality Control”:
+               Global South Jurisprudence in Practice
+
+
+                      Vivianne Yen-Ching Weng＊
+
+                                  Abstract
+      For over two decades, the Inter-American Court of Human Rights
+(IACtHR) has continued to promote “conventionality control”, a practice
+that challenges the standard subsidiarity principle applied by other
+international human rights monitoring bodies. Critics argue that by
+enforcing a top-down and centralized judicial review system, the
+IACtHR acts as a self-proclaimed regional constitutional court that
+overrides the legitimate decisions of pluralist democracies. Faced with
+contemporary challenges of judicial accountability in Latin America, the
+IACtHR has expanded its perspective beyond its regional boundaries to
+position itself as a participant in the global judicial dialogue, which has
+fueled the controversy. However, based on observations of the
+constitutional human rights protection history in Latin America, this
+article finds that the IACtHR’s approach mirrors the region’s classic
+practice of the famous amparo writ, which can be both diffused and
+centralized. In this sense, this article argues that conventionality control
+represents a distinct Global South reflection on international legal
+methodology. Without breaking from the international legal order
+established by the Global North, the IACtHR has shifted its international
+
+＊ Associate Professor, Department of Political Science & International College of
+  Innovation, National Chengchi University.
+美洲人權法院與「合公約性審查」體制之建構                                               243
+
+
+legal basis from State-centric concerns to a rights-centric approach by
+replacing the margin of appreciation with pro homine principle to
+harmonize normative conflicts. While the IACtHR may not explicitly
+frame its work as a Global South approach, its practices are consistent
+with the core concept of the Third World Approaches to International
+Law (TWAIL) that challenge oppressive power.
+KEYWORDS: Inter-American Court of Human Rights, conventionality
+          control, Third World Approaches to International Law
+          (TWAIL), Amparo, pro homine principle.
+

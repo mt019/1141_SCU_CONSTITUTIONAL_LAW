@@ -1,0 +1,1618 @@
+  Comparative Administrative Law in Asia
+Academia Sinica Law Journal                                                    53
+Issue 19, pp. 53-97 (Sep. 2016)
+
+
+
+
+  Introducing the Precautionary Principle
+                                 ＊
+        into Administrative Law:
+             Facing the Challenges to the Rule of Law
+
+                                              ＊＊
+                                  Jin Zining
+
+
+                                   Abstract
+      With risk being one of the most prominent characteristics of
+modern society, risk regulation has become one of the most important
+functions of government. The precautionary principle has appeared in
+the statutes of many countries, showing effort by legislators to integrate
+risk regulation into administrative law. However, many issues that have
+emerged in the application of the precautionary principle show that risk
+precaution creates serious challenges to the traditional ideas of the rule
+of law. Ideas from “soft law” and the “participatory model of public
+administration” suggest new institutional mechanics which could
+reconcile to certain extent the practical need for risk regulation with the
+normative requirements of the rule of law. In this perspective, more
+importance should be assigned to “risk communication” when
+structuring the precautionary principle.
+
+KEYWORDS: precautionary principle, precaution, rule of law,
+          participatory model of public administration, soft law.
+
+
+
+＊  Submission Date: May 21, 2015; Acceptance Date: January 13, 2016. [Line Editor:
+   Hui-Chi Wang].
+＊＊ Associate Professor, School of Transnational Law, Peking University.
+   Online: http://publication.iias.sinica.edu.tw/92805161.pdf.
+54                                       《中研院法學期刊》第19期（2016年9月）
+
+
+
+                                     Contents
+
+    Introduction
+    1. The Rise of the Precautionary Principle
+    2. The Precautionary Principle Is Challenging the Rule of Law
+        (1) The Precautionary Principle and Regulators’ Discretion
+        (2) The Precautionary Principle and the Burden of Proof
+        (3) The Unavoidable But Not Necessarily Accusable Regulatory “Errors”
+    3. The Potential of Traditional Mechanisms for Meeting the Challenges
+        (1) Rules and Standards
+        (2) Examination and Supervision
+    4. Emerging Mechanisms to Reconcile Precaution with the Rule of Law
+        (1) Soft Law
+        (2) Participatory Model of Administration
+        (3) Further Discussion: To Democratize Risk Regulation?
+    5. Structuring the Precautionary Principle under the Rule of Law
+    6. Conclusion
+
+
+
+
+Introduction
+
+       Risk regulation has become an essential governmental function as
+risk associated with modern science and technology has increased over
+time. In the meantime, the question of how to warrant the practice of risk
+regulation under the rule of law has become a prominent issue that
+legislators, judges, lawyers and researchers now face. As an attempt to
+respond to this problem, the precautionary principle has appeared widely
+                                                   1
+in both international law and domestic law. And there remains an on-
+
+
+1    Center for the Study of Law Science and Technology, Arizona State University
+     College of Law, From General Policy to Legal Rule, 111(14) ENVTL. HEALTH PERSP.
+Introducing the Precautionary Principle into Administrative Law                   55
+
+
+              2
+going debate over its legal implications and when/how it is supposed to
+be applied.
+
+     Many critics and advocates of the precautionary principle have
+disagreed on the technical details of its application or focused on the
+differences in how the precautionary principle is specifically interpreted
+                                                 3
+and applied across areas and jurisdictions. These bodies of scholarship
+provide valuable insight into the practical implementation of the
+precautionary principle, but there remains a gap in the literature that this
+article aims to fill. That is, to theoretically understand the change itself
+that risk precaution has been widely accepted as government function
+and that the precautionary principle has been introduced into the
+normative system of administrative law. The lack of integrated
+understanding of this change from the big picture perspective makes it
+seem very easy for the specific “counter-measures” to fall into
+                          4
+paradoxical situations. Considering this danger, this article is designed
+to explore the change itself from a wider theoretical perspective,
+focusing on the tensions between the precautionary principle and the rule
+of law, which underpin all the on-going debates over the application of
+the precautionary principle. While the ways in which the tensions have
+been perceived and addressed vary significantly across jurisdictions, the
+
+
+  1799, 1799-802 (2003).
+2 See, e.g., Cass R. Sunstein, Beyond the Precautionary Principle, 151 U. PA. L. REV.
+  1003 (2003); David A. Dana, A Behavioral Economic Defense of the Precautionary
+  Principle, 97 NW. U. L. REV. 1315 (2003); Gregory N. Mandel & James Thuo Gathii,
+  Cost Benefit Analysis Versus the Precautionary Principle: Beyond Cass Sunstein’s
+  Laws of Fear, 5 U. ILL. L. REV. 1037 (2006).
+3 See JONATHAN B. WIENER, MICHAEL D. ROGERS, JAMES K. HAMITT & PETER H. SAND,
+  THE REALITY OF PRECAUTION: COMPARING RISK REGULATION IN THE UNITED STATES
+  AND EUROPE (2011).
+4 See Frank B. Cross, Paradoxical Perils of the Precautionary Principle, 53 WASH. &
+  LEE L. REV. 851, 859 (1996).
+56                                    《中研院法學期刊》第19期（2016年9月）
+
+
+substantive issues arising from these tensions are fairly universal.
+
+       In this article, I analyze the transformation that risk regulation has
+undergone during the incorporation of precautionary principle into
+administrative law, then discuss how the issues’ emergence through the
+adoption and application of the precautionary principle actually reflect
+challenges to traditional ideas of the rule of law in the context of risk
+         5
+society. In this part, I argue there is a “crisis of legitimacy” due to the
+tension between the practice of precaution in risk regulation and the
+basic ideas of the rule of law. I then explore legal mechanisms which
+could deal with the tensions between precaution in risk regulation and
+the rule of law. I also show that “soft law” can help address both the rule
+of law and precaution in risk regulation; the general public is able to
+make a difference in reconciling the rule of law with risk regulation
+through their participation in public administration; and the reason these
+two mechanisms do better than traditional mechanisms in dealing with
+uncertainty is the fact that both of them have disrupted the information
+monopoly that regulators possess. Based on the analyses and findings, I
+also take the Communication from the European Commission on the
+Precautionary Principle (2000) as an example to show how the
+theoretical analysis in the former sections could help us better structure
+the precautionary principle.
+
+
+
+
+5    See ULRICH BECK, RISK SOCIETY: TOWARDS A NEW MODERNITY (1992) (hereinafter
+     BECK, RISK SOCIETY); ULRICH BECK, WORLD RISK SOCIETY (1999) (hereinafter
+     BECK, WORLD RISK SOCIETY).
+Introducing the Precautionary Principle into Administrative Law                     57
+
+
+1. The Rise of the Precautionary Principle
+
+     Risk is everywhere and has always been. We can imagine our
+distant ancestors walking through jungles carefully, knowing there were
+leopards, tigers or wolves nearby; or they could be resting in caves
+worrying about drought, flood and epidemics. However, the concept of
+risk exists only in the modern world. Traditional cultures didn't have the
+concept of risk because “they didn't need one.” They instead “perceived
+things as fate, luck or the wills of the gods where we now tend to
+                  6
+substitute risk.” The difference is that we do not think we can control
+“fate/luck/god’s will,” but we do believe we are able to manage “risk”.
+This shift has been found to be related to the modern notion of human
+beings’ ability to control or strongly influence the future, which can
+                                                                                     7
+arguably be seen as viewing the future as a man-made product.
+Therefore, it is not surprising that we couldn’t find the precautionary
+principle dealing with risks in ancient Roman law.
+
+     Emerging in European environmental law in the late 1970s, the
+precautionary principle has rapidly become enshrined within numerous
+international treaties and declarations. Now the application of the
+precautionary principle has grown beyond the area of environmental
+                      8                                  9
+risks regulation          and international law.             Application of the
+precautionary principle has now expanded to labor protection, food
+
+
+6 ANTHONY GIDDENS, RUNAWAY WORLD: HOW GLOBALIZATION IS RESHAPING OUR
+  LIVES 22-23 (2d ed. 2003).
+7 For the historic evolution of the conception of risk in western Europe, see generally
+  DEBORAH LUPTON, RISK (1999).
+8 PHILIPPE SANDS, PRINCIPLES OF INTERNATIONAL ENVIRONMENTAL LAW 266 (2d ed.
+  2003).
+9 Owen McIntyre & Thomas Mosedale, The Precautionary Principle as a Norm of
+  Customary International Law, 9 J. ENVTL. L. 221, 235 (1997).
+58                                           《中研院法學期刊》第19期（2016年9月）
+
+
+                                                                   10
+safety and information technology regulation, etc. The precautionary
+principle has also appeared frequently in the statutes and case laws of
+many nations while the idea of precaution serves as a basis for some
+provisions of legislation and regulations without referring directly to the
+term, “precautionary principle.” An example of this is Article 21 of
+China’s Regulation on Environmental Impact Assessment of Planning of
+2009, stipulating that: the reviewing group should give “disapproval”
+advice “if they cannot make a scientific judgment on the scope and
+degree of possible adverse environmental effects in the light of the
+existing knowledge.” It is the first time for China to incorporate the
+                                                                                  11
+precautionary principle into national legislation and regulations.
+
+      Interpretations of the precautionary principle vary from “where
+potential adverse effects are not fully understood or the activities should
+                 12
+not proceed”          to “where there are threats of serious or irreversible
+damage, or where the lack of full scientific certainty should not be used
+as a reason for postponing measures to prevent environmental
+
+
+
+10 See, e.g., Article 7 of General Food Law, Regulation (EC) No.178/2002: “In specific
+   circumstances where, following an assessment of available information, the
+   possibility of harmful effects on health is identified but scientific uncertainty persists,
+   provisional risk management measures necessary to ensure the high level of health
+   protection chosen in the Community may be adopted, pending further scientific
+   information for a more comprehensive risk assessment”. See also Claudia Som et al.,
+   The Precautionary Principle as a Framework for a Sustainable Information Society,
+   85(3) J. BUS. ETHICS 493 (2009).
+11 In 1979, the Environmental Protection Law of PRC (for Trial Implementation)
+   established the principle of “prevention dominating, integrating pollution prevention
+   in advance and pollution control afterwards”, which is literally close to precautionary
+   principle while according to the words of the provision and the generally accepted
+   interpretation, it is equivalent to the prevention principle (not the precautionary
+   principle) in international environmental law.
+12 General Assembly Resolution on the World Charter of Nature, U.N. Doc. A/37/51
+   (1982), at 17.
+Introducing the Precautionary Principle into Administrative Law                        59
+
+
+                 13
+degradation,”         and so on. Nevertheless, from the perspective of
+administrative law, when we focus solely on the administrative power,
+no matter how diverse or even contradictory in specifics, one prominent
+and widely accepted form of incorporating the precautionary principle
+into positive law is legislators authorizing regulators to take
+precautionary measures when there are threats of harm to human health
+or the environment, even if certain scientific uncertainty persists.
+Granting of such authorization is dependent on several clearly definable
+factors. A close look at these factors will show that the rise of risk
+regulation as a governmental function is inevitable.
+
+      The most notable factor may be the perception of risk in modern
+society that relates risks to our decisions and actions. Prior to
+industrialization, pre-modern societies tended to view natural disasters as
+“strokes of fate” and accusations were directed against the “gods” or
+“God.” In contrast, modern societies tend to view natural disasters as
+“nature’s vengeance,” which suggests that these disasters are the
+unwelcome results of human decisions and actions. In this case, the ones
+who made the decisions and executed the actions should take blame;
+hence “the problem of social accountability and responsibility
+                       14
+irrevocably arises.”
+
+      There are still other relevant factors worth noting. First, the public
+awareness of risk itself can incite feelings of distress and insecurity. With
+the reflexive characteristic of modern society, such feelings could
+
+
+13 Bergen Conference, Bergen Ministerial Declaration on Sustainable Development in
+   the ECE Region (May 16, 1990). U.N.Doc. A/CONF.151/PC/10 (1990), Annex I at
+   19.
+14 Ulrich Beck, From Industrial Society to the Risk Society: Questions of Survival, Social
+   Structure and Ecological Enlightenment, 9(1) THEORY CULTURE SOC. 97, 98 (1992) .
+60                                       《中研院法學期刊》第19期（2016年9月）
+
+
+prompt the general public to call for risk management. And for the good
+of social order, it might be reasonable for governments to take actions
+when there is panic, even though the public’s worries were probably
+                                                                          15
+shaped by “intuitive toxicology” along with “misconceptions.”
+
+       Second, modern governments are no longer small governments.
+After the welfare state began providing care from womb to tomb, the
+                                                                 16
+role of government has transformed significantly.                     Although the
+continuing trend of worldwide public administration reform that began
+in the 1970s and the 1980s is to downsize government, the state’s basic
+                                                               17
+duties to safeguard its nationals are not removed.                  When scientific
+uncertainties are found to threaten public health and well-being,
+government is naturally expected to take measures against them.
+
+       Third, the image of the person in legal systems has changed. In the
+liberal legal system, the “person” is presumed to be a reasonable, free-
+willed, “strong and wise” actor. As negative impacts of this presumption
+were discovered, characteristics of the typical individual found in the
+real world began to be taken into consideration. The image of the “weak
+                                                                               18
+and unwise” individual has been recognized in the legal system.                     This
+image legitimizes the choice of individuals apprehensive of risks to turn
+toward government for help.
+
+
+
+15 CASS R. SUNSTEIN, RISK AND REASON: SAFETY, LAW AND THE ENVIRONMENT 1, 35-36
+     (2002).
+16 See DWIGHT WALDO, THE ADMINISTRATIVE STATE (1948).
+17 Jin Zining, Reflection on the Privatization of Public Law: Against the Background of
+   the Worldwide Public Administration Reform, 5 ZHEJIANG ACAD. J. 143, 143-50
+   (2007)（金自宁，“公法私法化”诸观念反思—以公共行政改革运动为背景，
+   浙江学刊，5期，页143-150（2007年）              ）.
+18 See EIICHI HOSHINO, PERSON IN PRIVATE LAW (2004)（星野英一著，王闯译，私法
+   中的人（2004年）       ）.
+Introducing the Precautionary Principle into Administrative Law                61
+
+
+2. The Precautionary Principle Is Challenging the
+   Rule of Law
+
+      The rule of law is the core of the massively broad and complex
+system of administrative law. From a historical perspective, taking
+traditionally accepted ideas regarding the rule of law, administrative
+action intruding into private liberty could be legitimatized under the
+premise that the administrate power given to agencies controlling private
+conduct must be authorized by the legislature. Agencies must then
+exercise the powers delegated to them in accordance to legislative
+requirements. On this premise, the agency plays the role of merely a
+                       19
+“transmission belt”          to implement legislative directives. When the
+discretionary power of an agency expands too broadly and rapidly, a
+large amount of administrative activities cannot be legitimatized under
+the “transmission belt” theory. It is here where arose a new notion
+arguing that such discretionary power could be justified by the idea of
+             20
+“expertise” —specialized professional knowledge and skill needed for
+achieving an agency’s goals for the public good—which the legislature
+does not have.
+
+      Regardless of whether it’s clearly stated or not, the ongoing
+discussion over the precautionary principle in legal academia continues
+to take place in the background and is to some extent based on the
+normative requirements of the rule of law.
+
+      However, there is evidence showing that the practices of the
+
+
+
+19 Richard B. Stewart, The Reformation of American Administrative Law, 88 HARV. L.
+   REV. 1667, 1675 (1975).
+20 Id. at 1678.
+62                                     《中研院法學期刊》第19期（2016年9月）
+
+
+precautionary principle in risk regulation present severe challenges to the
+long-standing ideas of the rule of law. In this section, it will be argued
+that: Precaution in risk regulation can acquire its legitimacy neither
+through implementing delegating statutes set by the legislature, nor
+relying on the scientific data provided by experts. Therefore, there is a
+“crisis of legitimacy” due to this tension between the practice of risk
+regulation and the basic ideas of the rule of law. It becomes more evident
+when we look at the specific issues brought forth in the following
+regarding the ongoing debate between critics and advocates of the
+precautionary principle.
+
+(1) The Precautionary Principle and Regulators’ Discretion
+     The precautionary principle has been accused of being “vague” or
+               21
+“too broad.”         According to this kind of criticism, “because the
+precautionary principle can be of any meaning, so it actually means
+                    22
+nothing at all.”         However, advocates of the precautionary principle
+have argued that such criticism is exaggerated. As an example, we
+examine two of the most widely recognized forms of the precautionary
+principle.
+
+     The Rio Declaration on Environment and Development (June 14,
+        23
+1992)        provides: “In order to protect the environment, the
+precautionary approach shall be widely applied by States according to
+their capabilities. Where there are threats of serious or irreversible
+damage, lack of full scientific certainty shall not be used as a reason for
+postponing      cost-effective     measures       to   prevent   environmental
+
+
+21 See Sunstein, supra note 2, at 1003.
+22 Dana, supra note 2, at 1315.
+23 Principle 15, U.N. Doc. A/CONF.151/5 (1992).
+Introducing the Precautionary Principle into Administrative Law                  63
+
+
+degradation.”
+
+     The Wingspread Statement on the precautionary principle (Jan. 26,
+      24
+1998)      defines the precautionary principle as: “When an activity raises
+threats of harm to human health or the environment, precautionary
+measures should be taken even if some cause and effect relationships are
+not fully established scientifically. In this context the proponent of an
+activity, rather than the public, should bear the burden of proof.”
+
+     These two statements have been respectively termed the weak and
+                                                    25
+strong versions of precautionary principle.              Other statements of the
+precautionary principle, by and large, can be located somewhere
+between these two extremes. Although there are significant differences
+between these two versions at each extreme, it would be very difficult to
+prove either one of them as so “vague” that they “can be of any
+meaning.” At a glance, we can easily tell that according to the former
+one, only when there are threats of serious or irreversible damage,
+precautionary measures should be taken. In addition, government should
+also weigh the costs and benefits of the measures taken. However,
+according to the latter strong version, these two perquisites are not
+required.
+
+     Of course, legal principles are usually far from being as specific as
+rules, and the precautionary principle is not exceptional. It might not tell
+the regulators what to do exactly in specific cases. However, this does
+not mean it cannot play a role as a legal principle. In this sense,
+
+
+
+24 Wingspread Conference on the Precautionary Principle (Jan. 26, 1998), http://www.
+   sehn.org/wing.html.
+25 Per Sandin, Dimensions of the Precautionary Principle, 5(5) HUM. ECOLOGICAL RISK
+   ASSESSMENT 889, 889-907 (1999).
+64                                     《中研院法學期刊》第19期（2016年9月）
+
+
+vagueness itself should not be a problem.
+
+       However, there are some justifiable concerns behind the
+accusations of over vagueness found in the precautionary principle. For
+example, the idea that “the more open the meaning, the larger the room
+                                                      26
+for contentious and self-serving interpretations”          is worthy of concern.
+Since adopting the precautionary principle into positive law means that
+legislators would grant agencies the power to take precautionary
+measures, the uses of indeterminate terms in the precautionary principle,
+such as “threat” (strong version), “irreversible” damage (weak version),
+“full scientific certainty” (weak version) or “fully established
+scientifically” (strong version), leave great room for discretion and thus
+are points of concern. Under such light, responses to the criticism of
+“vagueness” of the precautionary principle, which seek to specify the
+implications of the precautionary principle, including clarifying the
+                                                      27
+premises and the procedures of its application,            are actually trying to
+limit the discretionary power delegated to risk regulators.
+
+       Traditionally, agency action preventing various hazards is based on
+past experience and existing knowledge. Usually, administrators are able
+to not only know the sources of the hazard and the severity of its impacts
+but also how to prevent or remedy it. So legislators could authorize
+agencies the power to take actions within a clear operating structure
+under particular conditions.
+
+       However, this certainty no longer exists in the risks faced by
+
+
+26 Christopher D. Stone, Is There a Precautionary Principle?, 31(7) ENVTL. L. REP.
+     NEWS & ANALYSIS 10790, 10797 (2001).
+27 See, e.g., Center for the Study of Law Science and Technology, Arizona State
+     University College of Law, supra note 1; Noah M. Sachs, Rescuing the Strong
+     Precautionary Principle from Its Critics, 4 U. ILL. L. REV. 1285 (2011).
+Introducing the Precautionary Principle into Administrative Law                 65
+
+
+modern society. What the precautionary principle must confront are
+threats that involve largely unknown potential damage that is likely
+irreversible and very remote in time and space. Hence legislators are
+unable to make detailed contingency plans in advance when they
+authorize agencies the power to take various precautionary actions.
+Legislators must authorize agencies the power to take precautionary
+actions without specific standards. The consequence is that regulators
+may make their own judgments and decisions when faced with
+uncertainty, and this also formally allows a wide range of legal actions
+that may be taken. In such a case, it is highly possible that risk regulators
+could abuse the discretionary power delegated to them by legislators,
+resulting in a serious threat to fundamental ideas of the rule of law.
+
+     Given that precautionary measures to be taken in the real world
+usually involve some kind of restrictions on individuals’ rights and
+liberties and prohibitions on certain risky activities. For example, a
+chlorine ban would force many chemical industries to make major
+                                                      28
+changes in the productions or even shut down.              Due to the fact that the
+risk regulator’s legal power is not authorized with specific standards, the
+restrictions as precautionary measures imposed on the regulated will
+become “open-ended,” thereby the precaution can be the start of a
+slippery slope towards a terrifying end where individual rights and
+liberty may be totally stripped away. In this situation, the regulators are
+put entirely at the mercy of the regulatory agencies. That could be
+everything but the rule of law.
+
+
+
+
+28 See Alana M. Fuierer, The Anti-Chlorine Campaign in the Great Lakes: Should
+   Chlorinated Compounds Be Guilty Until Proven Innocent?, 43 BUFF. L. REV. 181
+   (1995).
+66                                      《中研院法學期刊》第19期（2016年9月）
+
+
+(2) The Precautionary Principle and the Burden of Proof
+     One well-known idea of the traditional understanding of the rule of
+law is: there should be no restrictions on individual’s freedom unless
+hazards are proven. This means that the agency should bear the burden
+of proof for taking restricting action. U.S. Administrative Procedure Act
+of U.S. (1946) provides: “Except as otherwise provided by statute, the
+proponent of a rule or order has the burden of proof .… No sanction
+shall be imposed or rule or order be issued except upon consideration of
+the whole record or such portions thereof as may be cited by any party
+and as supported by and in accordance with the reliable, probative, and
+                         29
+substantial evidence.”        The Administrative Litigation Law of PRC (中
+华人民共和国行政诉讼法) even provides that, the agency (defendant)
+shall bear the burden of proof for all kinds of administrative action
+         30
+taken,        and provide evidence and regulatory documents based on
+which administrative action was taken. In other words, the agency is
+supposed to base all of their actions on ample proof.
+
+     However, as noted above, precautionary actions are aimed not at
+things that have already happened, but things that will possibly happen.
+What the risk regulator is supposed to prove is not that something
+happened in the past but that something might happen in the future.
+When the potential of a hazard occurrence or causal relationships is
+unknown, it’s extremely difficult, sometimes impossible, for the agency
+to prove that some hazards exist or that some damage will occur. If we
+stick to the traditional idea of the rule of law, which requires agencies to
+wait until scientists find proof of causation or scientific proof that some
+
+
+29 Administrative Procedure Act of 1946, 5 U.S.C. §556 (d) (1946).
+30 XINGZHENG SUSONG FA (Administrative Litigation Act) art. 34 (2014) (China).
+Introducing the Precautionary Principle into Administrative Law              67
+
+
+damage will occur, no precautionary actions would ever be justified
+under these requirements. In other words, risk regulation would be
+paralyzed with the burden of proof, and regulators might find themselves
+in a quandary over whether to take action to protect the public while
+violating the rules or sticking to the rule of taking no action without
+unquestionable proof and forsaking their duty to protect the public.
+
+     There are many formulations of the precautionary principle, and
+these different expressions take a “better safe than sorry” stance to lessen
+the regulatory agencies’ burden of proof, moving from a traditional
+position to a new one in which the agency may take reasonable or
+necessary measures even if scientific uncertainty persists. In the context
+of the Wingspread Statement (1998), mentioned above as the most well-
+known example of the “strong” version of the precautionary principle,
+“the proponent” of a risky activity “should bear the burden of proof” to
+prove the activity is safe, rather than the agency having to prove that its
+precautionary measures taken are necessary. In its strong formulations,
+the precautionary principle can be interpreted as calling for absolute
+proof of safety. For example, the World Charter for Nature states, “where
+potential adverse effects are not fully understood, the activities should
+               31
+not proceed.”
+
+     However, the other side of the coin is that if we required the actors
+engaged in risky activities to prove the activities to be taken are safe, it
+takes a “guilty until proven innocent” stance, which is directly in conflict
+                                                                       32
+with the other stance of “innocent until proven guilty.”                    And
+
+
+31 World Charter for Nature, U.N. GA Resolution 37/7 (1982).
+32 Henk van den Belt, Debating the Precautionary Principle: “Guilty until Proven
+   Innocent” or “Innocent until Proven Guilty”?, 132(3) PLANT PHYSIOLOGY 1122,
+   1124 (2003).
+68                                        《中研院法學期刊》第19期（2016年9月）
+
+
+considering the fact that no one can predict all possible future effects of
+a certain activity, neither can anyone prove that certain action to be taken
+will be absolutely safe. The burden of proof in this theoretical context, if
+placed on the regulated, would result in a complete loss of individuals’
+freedom of action: because all actions to be taken could be risky in some
+way and it’s impossible for an advocate to prove that they offer no
+possible harm.
+
+       It’s impossible to decide a specific either-or distribution for burden
+of proof in this context. The right question is, as Elizabeth Fisher has
+                  33
+pointed out,           whether the burden of proof is applicable in the area of
+risk regulation, considering our future is uncertain and the key element
+of precautionary action is that it is based on anticipation of the future in
+the absence of scientific certainty. When some activity is not yet
+appearing, nobody—neither the regulators nor the regulated—can bear
+the burden of proof to prove whether it is safe or not.
+
+       Nevertheless, distribution of the burden of proof is not the focus of
+this paper. This paper instead focuses on the dilemma found in such
+discussion over burden of proof that clearly shows the tension between
+risk regulation and the rule of law. Some supporters of the precautionary
+principle simply claim the necessity to reduce regulators’ burden of
+proof and then quickly move on to technical questions, such as the
+suitable range for the regulators’ burden of proof, the proper standards of
+proof, to what extent shall the review courts defer to the factual
+judgments made by the regulators, and so on. However, the tension
+between risk regulation and rule of law does not disappear in this
+
+
+33 ELIZABETH FISHER, RISK REGULATION AND ADMINISTRATIVE CONSTITUTIONALISM 44-
+     46 (2007).
+Introducing the Precautionary Principle into Administrative Law            69
+
+
+process, since the unpredictability of the future remains regardless of the
+answers given to these technical questions. Overall, the precautionary
+principle allows regulators to take actions based on their own prediction
+of the uncertain future, which itself is risky and contradictory to the
+traditional notion found in administrative law that administrative action
+shall be based on solid evidence.
+
+(3) The Unavoidable But                       Not   Necessarily   Accusable
+    Regulatory “Errors”
+     Moreover, since the future is unpredictable and full of uncertainty,
+there is always a possibility that precautious actions taken by regulators
+may be later proved “erroneous” with the wisdom of hindsight. The
+                                                                   34
+“errors” may be “over-regulation” or “under-regulation.”                Over-
+regulation occurs when decision-makers anticipate greater harm than
+what actually occurs. Under-regulation occurs when decision-makers
+anticipate less harm than what actually occurs. These errors of over- and
+under-regulation are not literally beyond the realm of the authority that
+statutes have bestowed on the regulators, but they are, in substance,
+unreasonable or inappropriate. As such, these errors can still be deemed
+illegal if the regulator is unable to justify them on the basis of
+reasonableness or proportionality.
+
+     However, only in hindsight can we really see that the precautious
+measures taken were not proportionate to the potential harms. In the
+given circumstance, these two kinds of “errors” might not be
+condemnable as long as they are not due to bad faith or negligence.
+Fundamentally, these “errors” could stem from “ignorance” associated
+
+
+34 See Richard B. Stewart, Environmental Regulatory Decision-making under
+   Uncertainty, 20 RES. L. ECON. 71 (2002).
+70                                        《中研院法學期刊》第19期（2016年9月）
+
+
+                                                                     35
+with risks. Ignorance may fall into two categories:                       information
+asymmetry and unknowns. Information asymmetry occurs when not all
+stakeholders share the same knowledge or information as the others.
+Theoretically, perfect communication between all players involved,
+allowing them to learn from each other, could cure this kind of ignorance,
+but in the real world the costs are often too high to do so. Unknowns are
+what are now unknowable. Perhaps in the long run, nothing would be
+unknowable, but there are always numerous unknowns to human society
+at any particular time. Our future is uncertain because our future is
+unknowable in the sense that there are limits of human knowledge at a
+particular time. This kind of ignorance cannot be cured through
+communicating with or learning from others simply because there are no
+“others” who own the relevant knowledge or information.
+
+      Some scholars have proposed the use of cost-benefit analysis
+                                                   36
+instead of the precautionary principle.                 However, the only real
+mechanism cost-benefit analysis has for confronting the unknowns,
+when neither the cost nor benefits can be known, is acknowledging that
+they exist. Along these lines, action (including inaction) literally based
+
+
+
+35 Actually, there is no bright line between the unknown and the known. What is
+   between the unknown and the known is not a sharply gap but a gradually changing
+   continuum. Knight has drawn a line between risk and uncertainty, which is
+   accordance with the distinction “some risks are insurable and others are not”. FRANK
+   H. KNIGHT, RISK, UNCERTAINTY AND PROFIT 44-48 (1964). Shen Kui has
+   differentiated three kinds of ignorance: unknown by individuals, wrongfully knowing,
+   unknown by human-being as a whole. See Shen Kui, Anti-Discrimination: The
+   Faithful Choice between Knowing and Ignorance, 5 TSINGHUA CHINA L. REV. 20, 20-
+   32 (2008)（沈岿，反歧视：有知和无知之间的信念选择—从乙肝病毒携带者
+   受教育歧视切入，清华法学，5期，页20-32（2008年）                             ）.
+36 For a criticism of this proposal, see Frank Ackerman & Lisa Heinzerling, Pricing the
+   Priceless: Cost-benefit Analysis of Environmental Protection, 105 U. PA. L. REV. 1553
+   (2002).
+Introducing the Precautionary Principle into Administrative Law          71
+
+
+on “scientific rationality” may be impossible when the available
+information is too limited to support scientific rational decision-making.
+
+
+
+3. The Potential of Traditional Mechanisms for
+   Meeting the Challenges
+
+     The undeniable and unavoidable reality is that our society has
+already become a risk society, and risk regulation has become one of
+governments’ most important functions. At the same time, the rule of law
+has and still holds precious value to our society. It would be unthinkable
+to abandon all the ideas of the rule of law just for the convenience of risk
+regulation. Thus the key problem to resolve is how to reconcile the
+practical needs of precaution against risks with the normative
+requirements of the rule of law. However, as shown above, challenges to
+the rule of law are rising due to the uncertainties facing risk regulation,
+including the delegation without specific standards (2.A), indecisive
+burden of proof (2.B) and regulatory errors beyond accusation (2.C). The
+common concern over the tensions between the precautionary principle
+and the rule of law is: the power authorized to agencies to take
+precautionary actions might be abused.
+
+     In the following part, I analyze the applicability of traditional
+mechanisms of administrative law in the area of risk regulation,
+discussing what they can do and what they cannot do with the challenges
+rising from the tensions between precautionary principle and the rule of
+law; in other words, I explore their potentials to control agencies’ power
+in the area of risk precaution. Those mechanisms may be grossly divided
+into two groups: rules and standards established in advance, and
+72                                   《中研院法學期刊》第19期（2016年9月）
+
+
+subsequent examination and supervision. It is found in the following part
+that, as with facing the challenges, they can play an important but
+limited role to prevent the abuse of risk regulator’s power.
+
+(1) Rules and Standards
+
+     A simple, direct technique to prevent administrative abuse of power
+is the ex ante establishment of rules and standards.
+
+     In administrative law, it is important to set rules and standards in
+advance, and this can be taken as guarantees to the individual’s liberty.
+As a modern advocate of the classical liberal theory, Fredrick Hayek
+announced in his book, THE ROAD TO SERFDOM, that the rule of law
+means that “government in all its actions is bound by rules fixed and
+announced beforehand — rules that make it possible to foresee with fair
+certainty how the authority will use its coercive powers in given
+circumstances and to plan one’s individual affairs on the basis of this
+knowledge.”37
+
+     However, precaution in risk regulation has to deal with possible
+outcomes that cannot be confirmed in advance. In this sense, it’s
+impossible to directly specify what regulators facing a particular risk
+should do using pre-established rules or standards. Nevertheless, it
+would be too soon to conclude that precaution in risk regulation is
+beyond the realm of given rules and standards. Given rules and standards
+could still be helpful to some extent.
+
+     First, the number of given rules and standards still applicable to
+traditional agency action and traditional governmental function does not
+
+
+
+37 FRIEDRICH A. HAYEK, THE ROAD TO SERFDOM 72 (1944).
+Introducing the Precautionary Principle into Administrative Law                73
+
+
+decline as the practice of precaution in risk regulation rises. Even in the
+area of risk regulation, traditional administrative activities could still
+exist. For example, various measures taken as response to emergencies
+caused by risks (such as fire burning down a forest) are mostly nothing
+“new” but typical measures of “command-and-control”; and it is
+possible to set standards and rules for these types of activities in advance.
+Only when precautionary issues are involved under scientific uncertainty
+(such as harm has never occurred before due to similar risks), would the
+agencies turn to the precautionary principle and “new” approach might
+be needed.
+
+     Second, the procedural rules and standards of administration might
+be applicable where no substantial rules and standards are available. It
+can be argued that transparency is “the natural enemy of arbitrariness
+                                           38
+and a natural ally against injustice.”          This point is still tenable in the
+area of risk precaution. Requiring the agency to provide reasons for its
+decision would also work in the areas of precaution, which push the
+agency to be more careful and increase the public’s trust in the reasoning
+of administrative decisions, hence helping with controlling the
+administrative power and preventing abuse.
+
+     Third, principles might be applicable when there are no specific
+rules available. Legal systems include not only legal rules but also legal
+              39
+principles.        The general principles such as the principle of
+proportionality, doctrine of legitimate expectation, natural justice, and so
+on, should also be binding in the area of risk regulation. What’s more, in
+comparison to specific and substantial rules, general principles leave
+
+
+38 KENNETH C. DAVIS, DISCRETIONARY JUSTICE: A PRELIMINARY INQUIRY 98 (1969).
+39 RONALD DWORKIN, LAW’S EMPIRE 211 (1986).
+74                                           《中研院法學期刊》第19期（2016年9月）
+
+
+more space for the agency’s discretion; hence risk regulation could be
+                                                                                           40
+more efficient and effective in the light of the “contextual rationality.”
+The limitation is: all legal norms including rules and principles are
+                                                                                      41
+“semi-finished products” before they are applied to specific cases,                        so
+compared to clear and definite rules in general, the application of
+abstract and sometimes equivocal principles depends heavily on the
+existence of developed and sophistic legal interpretation technologies
+and tools.
+
+(2) Examination and Supervision
+       The ex post examination and supervision mechanisms include
+investigation by various authorities, review and rectification of agency
+activities, such as administrative reconsideration in China, an internal
+monitoring of the administrative system, and inquiries and investigations
+by congress, which compose an outside monitoring of the administrative
+system. The most typical after-action checking mechanism is the judicial
+review of administrative actions, which has long served as the core of
+administrative law.
+
+       The     ex    post     examination        and     supervision       help     control
+administrative power while depending on the supervisors’ institutional
+roles and competence. The authorities and functions of different
+
+
+40 David A. Dana, The Contextual Rationality of the Precautionary Principle, 35
+     QUEEN’S L.J. 67, 67-96 (2009).
+41 As Cai Shuheng has pointed out, “The completed law requires putting general norms
+     into particular cases with the consistency between the abstract and the specific.
+     Therefore, a law that is completed as to legislation is not yet completed as to judicial
+     practice.” CAI SHUHENG, THE SELF-CONSCIOUS DEVELOPMENT OF CHINA’S
+     JURISPRUDENCE 164-65 (2005)（     「完全的法律，必須包容普通於特殊之中，要求
+     抽象與具體之互相同一。……故在立法觀點已經完成之法律，在司法觀點均屬
+     未完全。」蔡枢衡，中国法理自觉的发展，页164-165（2005年）                                     ）.
+Introducing the Precautionary Principle into Administrative Law                       75
+
+
+governmental departments determine the limitations of these checking
+mechanisms. The obvious shortcoming of inside supervision is that the
+supervisor is not an independent party and the public tends to doubt its
+neutrality and fairness. In China, rarely does the congress hold an
+inquiry into administrative actions, and investigation by the People’s
+                                                                                       42
+Congress aimed at an individual case could be highly controversial.
+The scope of China’s judicial review is limited to specific administrative
+                                                      43
+decisions while rule-makings are excluded,                 and the reviewing judges
+tend to focus on formalistic legality of administrative acts and only refer
+                                                                   44
+to the substantive legitimacy in very exceptional cases.
+
+      In general, it’s very difficult in ex post examination to hold the risk
+regulators responsible for the unintended consequences of their decisions,
+because decisions in risk regulation are usually decisions made under
+uncertainty. In the absence of sufficient scientific evidence and
+inconsistencies in the available evidence, it seems harsh to hold risk
+regulators responsible for the unavoidable but non-culpable “errors”
+mentioned previously. Furthermore, in many cases the harmful results of
+those “errors” are so serious that no regulatory agency would be able to
+bear the full responsibility.
+
+
+
+42 For discussion on “individual case investigation” of People’s Congress, see Bian
+   Jianlin & Jiang Tao, The Study of Individual Case Investigation, 3 TRIB. POL. SCI. & L.
+   95, 95-104 (2002)（卞建林、姜涛，个案监督研究，政法论坛，3期，页95-104
+  （2002年）    ）.
+43 XINGZHENG SUSONG FA (Administrative Litigation Act) art. 12 & 13 (2015) (China).
+44 XINGZHENG SUSONG FA (Administrative Litigation Act) art. 5 (1989) (China). This
+   provisions have been revised to expend the application of standards as to substantial
+   legitimacy, such as the article 70 of the Administrative Litigation Law of PRC
+   provides that when administrative activity involves abuse of power or is obviously
+   unfair, the people’s court may render judgment to annul or partially annul the
+   administrative act.
+76                                  《中研院法學期刊》第19期（2016年9月）
+
+
+     Additionally, ex post examination and supervision depend on
+established substantive and procedural norms. In the absence of such
+norms, there will be no basis for judging whether administrative
+activities were legal. Similarly, the limitation of rules and standards
+established in advance (as discussed earlier) would also influence the
+function of ex post monitoring mechanisms. Therefore, the seemingly
+more promising method is to apply newly developed procedural norms
+as standards in ex post monitoring, which includes requiring the agencies
+to rationalize their own decisions. In traditional administrative practice,
+the requirement to provide reasons has made the agencies more prudent
+in their decision making while increasing public acceptance and
+compliance as well. As for risk regulation, the reason-giving requirement
+can also have such an effect. In fact, since the practices of risk regulation
+unavoidably involve scientific uncertainties, it would be even more
+important for regulatory agencies to give good reasons for their
+decisions. Failure to do so would draw criticism of arbitrariness and
+result in loss of public trust.
+
+
+
+4. Emerging Mechanisms to Reconcile Precaution
+   with the Rule of Law
+
+     The typical kind of traditional administrative action is law
+enforcement. That is, to apply general norms to concrete facts and
+specific cases, where the norms are already given and the facts can be
+collected from a situation that has usually already happened or is
+currently happening. In contrast, there are usually no such given norms
+and facts in the area of precaution, which tries to regulate for something
+that may (or may not) happen in the future.
+Introducing the Precautionary Principle into Administrative Law          77
+
+
+     Matters of uncertainty in risk regulation are normally beyond
+legislators’ area of expertise, and neither the competence of supervising
+authorities nor judicial review techniques can resolve this issue.
+Therefore, traditional mechanisms of administrative law —rules and
+standards set in advance and after examination and supervision— can
+only play limited roles in reconciling risk regulation with the rule of law,
+as found in the last part.
+
+     Therefore, it’s important to develop new mechanisms of
+administrative law to deal with uncertainties involved in risk regulation.
+In this section, I argue that we could draw heavily from the experiences
+of soft law and participatory model of public administration by
+examining the following questions: (1) how might soft law help address
+both risk regulation and the rule of law? (2) Is the general public (the
+layman) able to make any difference in reconciling the rule of law with
+risk regulation through their participation in public administration? (3)
+How might these two mechanisms do better than traditional mechanisms
+in dealing with uncertainty?
+
+(1) Soft Law
+     The term “soft law” refers to rules that set standards of conduct
+while are neither strictly binding nor directly enforceable, such as
+guidelines, policy declarations, codes of conduct, codes of practice etc.
+Unlike hard law, soft law’s effectiveness doesn’t directly depend on the
+force of state power. It is not enacted and carried out in a “top-down”
+approach. It is often characterized by self-regulation and self-governance,
+which usually make full use of people’s wisdom at the “grassroots” level.
+78                                    《中研院法學期刊》第19期（2016年9月）
+
+
+     While soft law is not a new phenomenon, it has drawn increasing
+                   45
+attention recently.     It has started to play an increasing role in areas of
+risk regulation such as pollution control, labor policies and consumer
+protection, etc. There are no generally accepted formulations of soft law
+at this moment, while some overlapping consensus, including that soft
+law is symmetrical to and as effective as hard law, is beginning to
+     46                                               47
+form.     Generally speaking, “soft law is also law.”
+
+     Taking soft law into consideration broadens the concept of
+traditional law, thereby widening the general understanding of the rule of
+law. From this standpoint, we can find that the tension between risk
+regulation and the rule of law is largely due to our traditional and narrow
+interpretation of the law. Once we discontinue viewing the rule of law as
+exclusively the rule of hard law and instead recognize that the rule of
+soft law is also an important part of the rule of law, we see that soft law
+can play an effective role in areas hard law could not. This means there
+are still possibilities to keep regulatory powers within the confines of
+law when the rule of “hard law” is not available. In this sense, the rule of
+“soft law” could reduce the tension between risk regulation and the rule
+of law.
+
+     Moreover, in practices, soft law provides new tools for risk
+regulators to achieve the regulatory objectives in an effective and legal
+                                                            48
+manner. The Open Method of Coordination (OMC)                    in which EU
+
+
+45 See  ULRIKA MORTH, SOFT LAW IN GOVERNANCE AND REGULATION: AN
+   INTERDISCIPLINARY ANALYSIS (2004).
+46 Kenneth W. Abbott & Duncan Snidal, Hard and Soft Law in International
+   Governance, 54(3) INT’L ORG. 421, 421-22 (2000).
+47 See LUO HAOCAI & SONG GONGDE, SOFT LAW GOVERNANCE: TOWARDS AN
+   INTEGRATED APPROACH (2013).
+48 Wang Xinyan, On Open Method of Coordination, in SOFT LAW AND PUBLIC
+Introducing the Precautionary Principle into Administrative Law                 79
+
+
+member states learn from each other by sharing information and
+initiatives is an inspiring example. This mechanism enables them to
+adopt best practices and coordinate their national policies. The Voluntary
+                   49
+Agreement (VA)          is another inspiring example, in which the industry
+voluntarily exerts additional effort beyond (e.g. cut down more
+pollutants) what the legal standards require. VA’s effectiveness depends
+on the incentives to participants, such as promotion of their public image
+to reduce community concern and/or to receive financial support, etc.
+Both OMC and VA have been widely used and proven helpful in
+reaching various regulatory objectives in several areas. One common
+characteristic of these new tools is that the effectiveness is not
+safeguarded by “command and control” regulations but instead relies on
+peer pressure, such as naming and shaming. Hence, on the one hand,
+regulatory objectives can be achieved while reducing enforcement costs;
+on the other hand, since no compulsory measures are taken by agencies,
+there will no longer be a “legitimacy crisis” in regards to administrative
+power delegated to agencies (as discussed earlier).
+
+(2) Participatory Model of Administration
+     “Public participation has been the worldwide tendency” ever since
+1970s, especially after the worldwide public administration reform,
+which has deeply changed the mode of traditional administration by
+                             50
+“command and control.”            In China, ideas on and practices of public
+
+
+   GOVERNANCE 312, 312-23 (Luo Haocai ed., 2006)（王新艳，论开放协调机制，收
+   于：罗豪才编，软法与公共治理，页312-323（2006年）                         ）.
+49 See Richard B. Stewart, A New Generation of Environmental Regulation, 29 CAP. U.
+   L. REV. 21 (2001).
+50 Jiang Bixin & Jiang Chunyan, The Trend of Public Participation as Challenge to
+   Administrative Law, 6 CHINA LEGAL SCI. 50, 50-57 (2005)（江必新、江春燕，公众
+   参与趋势对行政法和行政法学的挑战，中国法学，6期，页50-57（2005年）                                     ）.
+80                                        《中研院法學期刊》第19期（2016年9月）
+
+
+                                                                      51
+participation have also been continued to develop.                         There are
+provisions on public participation appearing in the statutes on
+administrative penalty and administrative licensing. Some practices of
+public participation in administration, such as public hearing in
+administrative decision-making, participatory model of government
+achievements appraisal, etc., have drawn large amounts of attention
+through mass media.
+
+      The essence of participatory administration is widely accepted as
+non-government participants do play roles in the administrative process.
+Compared to traditional administrative processes controlled completely
+by the agencies, the participatory model of public administration has
+many advantages. These advantages include the promotion of
+transparency in administrative processes, an increase in the acceptance
+of the administrative decision, and enhancement of the accountability of
+non-elected officials. Also, since the act of participation itself inspires
+participatory will and action, the participatory model of public
+administration is inherently self-strengthening.
+                                           52
+      Aside from these advantages,              there are even more benefits to
+dealing with the tension between risk regulation and the rule of law. On
+one end, involvement in public administration under the participatory
+model is open to experts, the general public and interested parties,
+especially the potentially affected parties. This allows for the possibility
+
+
+
+51 See Jin Zining, Participatory Model of Administration: American Theory and Chinese
+   Practice, in 20 REVIEW OF NEW POLITICAL ECONOMY 119, 119-29 (Wang Dingding
+   ed., 2012)（金自宁，参与式行政：美国理论与中国实践，收于：汪丁丁编，新
+   政治经济学评论20，页119-129（2012年）                     ）.
+52 Public participation in the risk regulation “is both necessary and desirable”. Thomas
+   O. McGarity, Public Participation in Risk Regulation, 1 RISK 103, 103 (1990).
+Introducing the Precautionary Principle into Administrative Law                   81
+
+
+                                                                            53
+of breaking the knowledge-information monopoly regulators hold                   and
+a cutting down of the uncertainty stemming from information
+asymmetry that has long plagued risk regulators. Therefore, the
+participatory model could help agencies achieve better results in risk
+regulation. On the other end, participation changes the process of
+administration by incorporating private actors into public administration,
+offering private actors the opportunities to express diverse interests and
+wishes by carefully arranging procedural rights and obligations. For
+example, the public’s right to know and the agency’s disclosure
+obligations are affected. The right of interested parties to participate and
+the agency’s duty to provide explanations could have the so-called effect
+of “restricting power with the right.” This kind of restriction inherent to
+the administrative process could substantially alleviate concern over risk
+regulatory power being abused, remarkably serving to mitigate the
+tension between risk regulation and the rule of law.
+
+(3) Further Discussion: To Democratize Risk Regulation?
+     What both the participatory model of administration and soft law
+have in common is the incorporation of non-governmental actors into the
+administrative process traditionally dominated by agencies. This change
+coincides with the worldwide shift from regulation to governance of
+                  54
+public affairs,        and this shift is also in line with the emphasis on
+democracy by some of the most influential scholars in the current risk
+
+
+
+53 “To break the ‘knowledge-power’ monopoly (in administration), the key is to
+   empower the public as participator.” WANG XIXIN, PUBLIC PARTICIPATION AND
+   ADMINISTRATIVE PROCESS 254-55 (2007)（王锡锌，公众参与和行政过程，页
+   254-255（2007年）     ）.
+54 See generally, Orly Lobel, The Renew Deal: The Fall of Regulation and the Rise of
+   Governance in Contemporary Legal Thought, 89 MINN. L. REV. 7 (2004).
+82                                       《中研院法學期刊》第19期（2016年9月）
+
+
+                                    55                            56
+society, including Ulrich Beck and Anthony Giddens.                    According to
+Beck and Giddens, it would be sensible to seek to democratize risk
+regulation, which the participatory model of administration and soft law
+governance suggest, and this is part of the big picture of risk society
+under democratic governance.
+
+      Two important traits of risks in modern society legitimatize this
+transformation. First, the risk in modern society is both a physical reality
+and a socially constructed conception. Risk could cause material
+damages in the real world the moment the risk materializes. This is why
+we say risk is a physical reality. However, before that moment, the risk’s
+existence is based on the community’s subjective perception and
+judgment. This is why we argue risk is also a socially constructed
+conception. In the latter sense, extensive and active risk communication
+                                                   57
+shall be a prerequisite for risk regulation.            Without this prerequisite,
+risk regulation tends to be doubted and challenged by the public.
+
+      Second, the most difficult and significant problems in risk
+regulation often are not problems that can be decided through scientific
+rationality. These problems tend to always involve the distribution of the
+risks and resources needed for dealing with risks. For example, risks are
+ubiquitous in modern society, but the resources to deal with them are
+limited. Zero-risk is impossible to achieve. Furthermore, the other side
+of risk is often opportunity, and people often choose to take risks for
+potential benefits because many of them regard zero-risk as undesirable.
+
+
+55 See BECK, RISK SOCIETY, supra note 5.
+56 ANTHONY GIDDENS, THE CONSEQUENCES OF MODERNITY (1990).
+57 Jin Zining, The Risk Communication and Its Structure, 5 J. BEIJING SCHOOL ADMIN. C.
+     83, 83-89 (2012)（金自宁，风险规制中的信息交流及其制度建构，北京行政学
+     院学报，5期，页83-89（2012年）   ）.
+Introducing the Precautionary Principle into Administrative Law            83
+
+
+In this case, the problem is, “What’s the acceptable level of risk?”
+Ultimately, this brings us back to the age-old political and ethical
+          58
+question of “What’s the life we want to live?” Apparently, in a
+democratic community or a community currently in the process of
+transforming into a democratic one, extensive discussions and
+deliberations between citizens and regulators are necessary to reach an
+acceptable answer for this kind of question.
+
+     Of course, the transformation from risk regulation to democratic
+risk governance is not free of challenges. One of the most perplexing
+challenges is the question of whether “the general public, as layman, are
+able to make any difference through their participation in risk regulation?
+Isn’t there a possibility that the layman’s emotional reactions would turn
+                                                                     59
+‘the reason free from passion (Aristotle)’into the ‘law of fear’?”
+
+     In fact, in this specialized modern society, the general public lives
+in a world of unknowns, because they have to depend on the expertise of
+others. The general public usually doesn’t know anything about the
+special cognitive means used by experts, such as “measuring
+procedures,” “statistical survey,” “reflections on validity” and
+                                                   60
+“consideration of tolerance thresholds.”                In areas beyond their
+specialized discipline, the experts are just like the general public—it is
+possible that the experts also know little about the world beyond their
+own special field of study. Even in their specific field of study, the
+experts might also live in a world of unknowns when taking into
+consideration the large amount of things beyond the limits of existing
+
+
+
+58 BECK, RISK SOCIETY, supra note 5, at 28-29.
+59 See CASS R. SUNSTEIN, LAW OF FEAR (2005).
+60 BECK, RISK SOCIETY, supra note 5, at 54.
+84                                         《中研院法學期刊》第19期（2016年9月）
+
+
+knowledge. Such unknowns undeniably exist, although people may look
+at and deal with them in very different ways.
+
+       One way to view and deal with these unknowns is to focus on the
+necessity of involving the general public in deciding how to assess and
+manage risk. Public participation would help remedy the first category
+of ignorance discussed earlier (in section 2), namely, information
+asymmetry amongst experts and also between the experts and the
+general public. Public participation would allow risk regulators to make
+full use of the scattered knowledge owned by these myriad different
+actors. In regard to the second category of ignorance, the unknowns, the
+general public’s participation becomes even more necessary. Because in
+this case, there are no longer any experts, no one could claim that he or
+she “knows” how to deal with the particular risk. In other words, no one
+could claim his or her decision is “right” according to scientific
+rationality. Consequently, the focus no longer falls on how to make the
+“right” risk decision according to the scientific rationality, as this is
+impossible, but instead shift the emphasis to how to make the “fair” risk
+decision according to social justice. Ignorance is not necessarily a barrier
+                         61
+to “fair” decisions,          or at least, ignorance is not a due reason to exclude
+interested parties from the process of decision making.
+
+       From the view of fairness, all the affected parties should have the
+right to participate in risk decision making. This means, it’s necessary to
+establish a general legal system that incorporates risk communication to
+provide the non-governmental actors opportunities to participate in risk
+regulation with decisions involving uncertainty, especially in the case of
+
+
+61 In the light of John Rawls’ “Veil of Ignorance”, we could even say, ignorance might
+     be the guarantee of fairness.
+Introducing the Precautionary Principle into Administrative Law                  85
+
+
+the second category pertaining to ignorance as noted above. When we
+are all living in a world of unknowns, we should collectively decide
+through deliberation and negotiation what kind of risk and what level of
+risk should be taken. By doing so, if the results of our decisions turn out
+to be good, we can thank ourselves; if the results of our decisions turn
+out to be bad, we’ll have nobody to blame but ourselves. In other words,
+we the people, not the risk regulatory agencies would be responsible for
+our own future.
+
+
+
+5. Structuring the Precautionary Principle under the
+   Rule of Law
+
+     The fact that the precautionary principle is becoming increasingly
+accepted in positive law promotes communal efforts to keep
+precautionary actions against risks under the control of the existing legal
+system, which includes structuring the precautionary principle, although
+                                                                        62
+empirical studies have shown that the patterns of precaution                 and the
+                            63
+risk regulation regimes          fluctuate significantly in different cases. In
+light of the above analysis and discussion regarding reconciling
+precaution in risk regulation and the rule of law, we can see there are
+important elements missing from existing proposals on how to structure
+the precautionary principle.
+
+     Take     the    influential     Communication        from    the    European
+
+
+62 See Jonathan B. Wiener & Michael D. Rogers, Comparing Precaution in the United
+   States and Europe, 5(4) J. RISK RES. 317 (2002).
+63 See Christopher Hood, Henry Rothstein, Robert Baldwin, Judith Rees & Michael
+   Spackman, Where Risk Society Meets the Regulatory State: Exploring Variations in
+   Risk Regulation Regimes, 1(1) RISK MGMT. 21, 21-34 (1999).
+86                                      《中研院法學期刊》第19期（2016年9月）
+
+
+Commission on the Precautionary Principle (2000) (the Communication
+        64
+2000)        as an example. It is not a compulsory regulation or directive but
+a non-binding general guidance on how to interpret and apply the
+precautionary principle. According to the CFC, the use of the
+precautionary principle can be divided into two steps. The first step is to
+decide whether to rely on the precautionary principle. This decision shall
+be made on the identification of potential adverse impacts and scientific
+assessment of the risk. When “potentially dangerous effects” have been
+identified and scientific evaluation “does not allow the risk to be
+determined with sufficient certainty,” it would be proper to turn to the
+precautionary principle. The second step is to decide the measures to be
+taken in consideration of the precautionary principle. Starting from the
+scientific assessment being “as objective and comprehensive as
+possible,” decision makers need to take into account all related factors
+such as the degree of uncertainty, “acceptable” level of risk, the potential
+benefits and costs of action or lack of action, and so on. In this process,
+“reliance on the precautionary principle is no excuse for derogating from
+the general principles of risk management,” including the principle of
+proportionality, non-discrimination, consistency, examining costs and
+benefits being subject to review in light of new scientific data. With the
+above context, the Communication 2000 has established a framework
+for structuring the precautionary principle.
+
+       The Communication 2000, on one hand, as a model of the efforts to
+structure the precautionary principle, explicitly states that the
+Community “has the right to establish the level of protection” that “it
+
+
+64 Communication    From The Commission On the Precautionary Principle,
+     COM/2000/0001, http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=142630851673
+     8&uri=CELEX:52000DC0001 (last visited Mar. 3, 2016).
+Introducing the Precautionary Principle into Administrative Law                 87
+
+
+deems appropriate,” including taking precautionary measures when
+scientific uncertainty exists; on the other hand, it conditions
+precautionary actions to be based on scientific assessment, the principle
+of proportionality and cost-benefit analysis, etc. In this sense, the
+Communication 2000 also tries to balance the practical needs for risk
+regulation and the normative requirements of the rule of law.
+
+     However, from the perspective of relieving the tension between risk
+regulation and rule of law, the implications of the following three
+sentences that appeared separately in the Communication have been
+overlooked to an extent; hence their value has been underestimated.
+
+     “Judging what is an ‘acceptable’ level of risk for society is an
+                                        65
+eminently political responsibility.”
+
+     “The decision-making procedure should be transparent and should
+involve as early as possible and to the extent reasonably possible all
+                     66
+interested parties.”
+
+     “The precautionary principle should be considered within a
+structured approach to the analysis of risk which comprises three
+                                                                           67
+elements: risk assessment, risk management, risk communication.”
+
+     The connection between these three sentences emerges when we
+
+
+65 Communication  From The Commission On the Precautionary Principle,
+   COM/2000/0001, 5 of Summary, http://eur-lex.europa.eu/legal-content/EN/TXT/?qid
+   =1426308516738&uri=CELEX:52000DC0001 (last visited Mar. 3, 2016).
+66 Communication From The Commission On the Precautionary Principle,
+   COM/2000/0001, 5 of Summary, http://eur-lex.europa.eu/legal-content/EN/TXT/?qid
+   =1426308516738&uri=CELEX:52000DC0001 (last visited Mar. 3, 2016).
+67 Communication From The Commission On the Precautionary Principle,
+   COM/2000/0001, 4 of Summary, http://eur-lex.europa.eu/legal-content/EN/TXT/?qid
+   =1426308516738&uri=CELEX:52000DC0001 (last visited Mar. 3, 2016).
+88                                     《中研院法學期刊》第19期（2016年9月）
+
+
+place them together and interpret them as a whole. Namely, it’s the
+communication of risk, which deserves further attention as discussed
+above. In turn, they explain respectively the necessity and feasibility of
+risk communication and its significant status in the structure of
+precautionary principle. The logic implied by those sentences could be
+that although the “acceptable” level of risk for society is supposed to be
+based on scientific data, it is not just a matter of science but also a
+“political” one, with the trickiest part being not scientific derivation but
+political judgment. In terms of the political judgment, it is the interested
+parties who are affected by the risk that should have a voice in defining
+the acceptable level of risk. Therefore, besides risk assessment and risk
+management, risk communication that engages all the interested parties
+should be a valuable and irreplaceable element in the structure of the
+precautionary principle.
+
+       We have already seen in the former part of this article that
+introducing multiple parties into the administrative processes, which
+were traditionally monopolized by agencies, and providing them the
+opportunity to exchange information, compete for diverse interest and
+                                                                          68
+arrive at compromise or “incompletely theorized agreement”                     are
+features shared by both the participatory model of public administration
+and soft law. And these three undervalued sentences in the
+Communication have demonstrated a new way to incorporate this
+“democratizing      risk   regulation”     element     into    structuring     the
+precautionary principle, namely, establishing a risk communication
+system than can be applied generally.
+
+
+
+68 See Cass R. Sunstein, Incompletely Theorized Agreements, 108 HARV. L. REV. 1733
+     (1995).
+Introducing the Precautionary Principle into Administrative Law                         89
+
+
+      As shown earlier, administrative action may be legitimatized by
+following legislative directives or relying on expertise. But when we
+delve deeper into how or why legislative directive or expertise is able to
+justify administrative action, it turns out that, legitimacy of legislation
+stems from its democratic law-making process, and legitimacy of
+expertise comes from its duty to serve public interest. Through risk
+communication involving multiple parties, risk regulation could become
+an outcome of democratic decision-making process, allowing to better
+serve public interest. What needs to be clarified is that this kind of
+“democracy”        is    not    the    democracy        conventionally        taken     as
+parliamentary democracy but a special form of direct democracy or
+                               69
+participatory democracy.            In addition, this kind of “public interest” is
+not the public interest conventionally taken as the objective common
+interest of the society independent from individual interest, but rather a
+                                                                             70
+compromise between the different interests of multiple parties.
+
+
+
+6. Conclusion
+
+      No legal system can exist as a closed, isolated system.
+Administrative law is also responsive to social changes. The
+incorporation of precautionary principle into positive law is a sign
+showing that administrative law has adjusted to the reality of risk society.
+
+
+69 See Jiang Ming’an, Public Participation and Rule of Law, 2 CHINA LEGAL SCI. 26,
+   26-37 (2004)（姜明安，公众参与与行政法治，中国法学，2期，页26-37（2004
+   年）  ）.
+70 In Stewart’s words: “there is no ascertainable, transcendent ‘public interest,’ but only
+   the distinct interests of various individuals and groups in society”; “Under this
+   assumption, legislation represents no more than compromises struck between
+   competing interest groups”. Stewart, supra note 19, at 1667.
+90                                          《中研院法學期刊》第19期（2016年9月）
+
+
+       The most important characteristic of risk society is probably
+                                                   71
+“introducing the future into the present.”              Because humans are not able
+to foresee the future fully and clearly, one result of introducing the future
+to the present is that there would no longer exist absolute safety. Hence
+the need for safety is expected to increase, and the power of risk
+regulators tends to expand beyond the traditional realm of administrative
+law. Therefore, it’s necessary to develop new legal mechanisms to
+reconcile risk regulation with the rule of law. Namely, we can learn from
+the developing experience of “soft law” and “participatory model of
+public administration” and place more emphasis on risk communication.
+
+       In fact, the path for a shift from regulation to governance is cleared
+when not only rules but also principles have been allowed to govern, and
+the recognition of soft law governance, participatory model of public
+administration, and risk communication will speed this shift. Of course,
+both the participatory model of administration and soft law governance
+are still in the process of development. Some researchers have already
+                                      72
+identified their limitations.              Nevertheless, their significance on
+administrative law should not be overlooked, and it makes sense to find
+ways to use them appropriately.
+
+
+71 See NIKLAS LUHMANN, RISK: A SOCIOLOGICAL THEORY (Rhodes Barrett trans., Aldine
+     de Gruyter 1993) (1991). Especially the second chapter: Risk as the Future.
+72 In public governance, soft law plays a supplementary role comparing to hard law. See
+     Luo Haocai & Song Gongde, Taking Soft Law Seriously, in SOFT LAW AND PUBLIC
+     GOVERNANCE 1 (Luo Haocai ed., 2006)（罗豪才、宋功德，认真对待软法，收
+     于：罗豪才编，软法与公共治理，页1（2006年））. Adoption of participatory
+     model of public administration does not mean to deny the rationality of the traditional
+     agency-dominating model, because “in theory and practice, government is more
+     capable of obtaining comprehensive information about both specific cases and general
+     problem; in the meantime, government tend to have a systematic understanding on the
+     matters within its domain while the public and experts do not.” See WANG, supra note
+     53, at 252.
+Introducing the Precautionary Principle into Administrative Law                91
+
+
+
+
+                                  Reference
+
+Abbott, Kenneth W., and Duncan Snidal. 2000. Hard and Soft Law in
+     International Governance. International Organization 54(3):421-
+     456.
+Ackerman, Frank, and Lisa Heinzerling. 2002. Pricing the Priceless:
+     Cost-benefit Analysis of Environmental Protection. University of
+     Pennsylvania Law Review 150:1553-1584.
+Beck, Ulrich. 1992. From Industrial Society to the Risk Society:
+     Questions      of    Survival,     Social    Structure       and   Ecological
+     Enlightenment. Theory, Culture & Society 9(1):97-123.
+─. 1992. Risk Society: Towards a New Modernity. Thousand Oaks,
+     CA: Sage Publications.
+─. 1999. World Risk Society. Cambridge: Polity Press.
+Bian, Jianlin, and Jiang Tao. 2002. The Study of Individual Case
+     Investigation. Tribune of Political Science and Law 3:95-104.（卞
+     建林、姜涛（2002），个案监督研究，政法论坛，3期，页95-
+     104。）
+Cai, Shuheng. 2005. The Self-Conscious Development of China’s
+     Jurisprudence. Beijing: Tsinghua University Press. （ 蔡 枢 衡
+    （2005）
+         ，中国法理自觉的发展，北京：清华大学出版社。）
+Center for the Study of Law Science and Technology, Arizona State
+     University College of Law. 2003. From General Policy to Legal
+     Rule. Environmental Health Perspectives 111(14):1799-1803.
+Cross, Frank B. 1996. Paradoxical Perils of the Precautionary Principle.
+     Washington and Lee Law Review 53:851-925.
+Dana, David A. 2003. A Behavioral Economic Defense of the
+     Precautionary Principle. Northwestern University Law Review
+92                                  《中研院法學期刊》第19期（2016年9月）
+
+
+
+     97:1315-1345.
+─. 2009. The Contextual Rationality of the Precautionary Principle.
+     Queen’s Law Journal 35:67-96.
+Davis, Kenneth C. 1969. Discretionary Justice: A Preliminary Inquiry.
+     Baton Rouge, LA: Louisiana State University Press.
+Dworkin, Ronald. 1986. Law’s Empire. Cambridge, MA: Belknap Press.
+Fisher,   Elizabeth.   2007.   Risk     Regulation   and   Administrative
+     Constitutionalism. Oxford: Hart.
+Fuierer, Alana M. 1995. The Anti-Chlorine Campaign in the Great Lakes:
+     Should Chlorinated Compounds Be Guilty Until Proven Innocent?.
+     Buffalo Law Review 43:181-228.
+Giddens, Anthony. 1990. The Consequences of Modernity. Stanford, CA:
+     Stanford University Press.
+─. 2003. Runaway World: How Globalization Is Reshaping Our
+     Lives. 2d ed. New York, NY: Routledge.
+Hayek, Friedrich. A. 1944. The Road to Serfdom. Chicago, IL: The
+     University of Chicago Press.
+Hood, Christopher, Henry Rothstein, Robert Baldwin, Judith Rees, and
+     Michael Spackman. 1999. Where Risk Society Meets the
+     Regulatory State: Exploring Variations in Risk Regulation Regimes.
+     Risk Management: An International Journal 1(1):21-34.
+Hoshino, Eiichi. 2004. Person in Private Law. Beijing: Chinese Legal
+     Publishing House.（星野英一著，王闯译（2004），私法中的
+     人，北京：中国法制出版社。）
+Jiang, Bixin, and Jiang Chunyan. 2005. The Trend of Public
+     Participation as Challenge to Administrative Law. China Legal
+     Science 6:50-57.（江必新、江春燕（2005）
+                                  ，公众参与趋势对行
+     政法和行政法学的挑战，中国法学，6期，页50-57。）
+Jiang, Ming’an. 2004. Public Participation and Rule of Law. China
+Introducing the Precautionary Principle into Administrative Law       93
+
+
+     Legal Science 2:26-37.（姜明安（2004），公众参与与行政法
+     治，中国法学，2期，页26-37。）
+Jin, Zining. 2007. Reflection on the Privatization of Public Law: Against
+     the Background of the Worldwide Public Administration Reform.
+     Zhejiang Academic Journal 5:143-150.（金自宁（2007）
+                                                  ，“公法
+     私法化＂诸观念反思—以公共行政改革运动为背景，浙江学
+     刊，5期，页143-150。）
+─. 2012. Participatory Model of Administration: American Theory
+     and Chinese Practice. Pp. 119-129 in vol. 20 of Review of New
+     Political Economy, edited by Wang Dingding. Hangzhou: Zhejiang
+     University Press.（金自宁（2012），参与式行政：美国理论与
+     中国实践，收于：汪丁丁编，新政治经济学评论20，页119-
+     129，杭州：浙江大学出版社。）
+─. 2012. The Risk Communication and Its Structure. Journal of
+     Beijing Administrative College 5:83-89.（金自宁（2012）
+                                                     ，风险
+     规制中的信息交流及其制度建构，北京行政学院学报，5期，
+     页83-89。）
+Knight, Frank H. 1964. Risk, Uncertainty and Profit. New York, NY:
+     Augustus M. Kelley.
+Lobel, Orly. 2004. The Renew Deal: The Fall of Regulation and the Rise
+     of Governance in Contemporary Legal Thought. Minnesota Law
+     Review 89:7-27.
+Luhmann, Niklas. 1993 (1991). Risk: A Sociological Theory, translated
+     by Rhodes Barrett. New York, NY: de Gruyter.
+Luo, Haocai, and Song Gongde. 2006. Taking Soft Law Seriously. Pp.
+     48-84 in Soft Law and Public Governance, edited by Luo Haocai.
+     Beijing: Peking University Press.（罗豪才、宋功德（2006）
+                                                   ，认
+     真对待软法，收于：罗豪才編，软法与公共治理，页48-84，
+     北京：北京大学出版社。）
+94                                 《中研院法學期刊》第19期（2016年9月）
+
+
+
+Luo, Haocai, and Song Gongde. 2013. Soft Law Governance: Towards
+     an Integrated Approach. Buffalo, NY: William S. Hein & Co.
+Lupton, Deborah. 1999. Risk. New York, NY: Routledge.
+Mandel, Gregory N., and James Thuo Gathii. 2006. Cost Benefit
+     Analysis Versus the Precautionary Principle: Beyond Cass
+     Sunstein’s Laws of Fear. University of Illinois Law Review 5:1037-
+     1081.
+McGarity, Thomas O. 1990. Public Participation in Risk Regulation.
+     Risk 1:103-115.
+McIntyre, Owen, and Thomas Mosedale. 1997. The Precautionary
+     Principle as a Norm of Customary International Law. Journal of
+     Environmental Law 9:221-241.
+Morth, Ulrika. 2004. Soft Law in Governance and Regulation: An
+     Interdisciplinary Analysis. Northampton, MA: E. Elgar.
+Sachs, Noah M. 2011. Rescuing the Strong Precautionary Principle from
+     Its Critics. University of Illinois Law Review 4:1285-1338.
+Sandin, Per. 1999. Dimensions of the Precautionary Principle. Human
+     and Ecological Risk Assessment: An International Journal
+     5(5):889-907.
+Sands, Philippe. 2003. Principles of International Environmental Law.
+     2d ed. New York, NY: Cambridge University Press.
+Shen, Kui. 2008. Anti-Discrimination: The Faithful Choice between
+     Knowing and Ignorance. Tsinghua China Law Review 5:20-32.（沈
+     岿（2008），反歧视：有知和无知之间的信念选择—从乙肝
+     病毒携带者受教育歧视切入，清华法学，5期，页20-32。）
+Som, Claudia, L. M. Hilty, and A. R. Köhler. 2009. The Precautionary
+     Principle as a Framework for a Sustainable Information Society.
+     Journal of Business Ethics 85(3):493-505.
+Stewart, Richard B. 1975. The Reformation of American Administrative
+Introducing the Precautionary Principle into Administrative Law     95
+
+
+     Law. Harvard Law Review 88:1667-1813.
+─. 2001. A New Generation of Environmental Regulation. Capital
+     University Law Review 29:21-182.
+─ . 2002. Environmental Regulatory Decision-making under
+     Uncertainty. Research in Law and Economics 20:71-126.
+Stone, Christopher D. 2001. Is There a Precautionary Principle?.
+     Environmental Law Reporter News and Analysis 31(7):10790-
+     10799.
+Sunstein, Cass R. 1995. Incompletely Theorized Agreements. Harvard
+     Law Review 108:1733-1772.
+─. 2002. Risk and Reason: Safety, Law and the Environment.
+     Cambridge: Cambridge University Press.
+─ . 2003. Beyond the Precautionary Principle. University of
+     Pennsylvania Law Review 151:1003-1058.
+─. 2005. Law of Fear. Cambridge: Cambridge University Press.
+Van den Belt, Henk. 2003. Debating the Precautionary Principle: “Guilty
+     until Proven Innocent” or “Innocent until Proven Guilty”?. Plant
+     Physiology 132(3):1122-1126.
+Waldo, Dwight. 1948. The Administrative State. New York, NY: Ronald
+     Press.
+Wang, Xinyan. 2006. On Open Method of Coordination. Pp. 312-323 in
+     Soft Law and Public Governance, edited by Luo Haocai. Beijing:
+     Peking University Press.（王新艳（2006），论开放协调机制，
+     收于：罗豪才编，软法与公共治理，页312-323，北京：北京
+     大学出版社。）
+Wang, Xixin. 2007. Public Participation and Administrative Process.
+     Beijing: China Democracy & Legal System Press. （ 王 锡 锌
+    （2007），公众参与和行政过程，北京：中国民主法制出版
+     社。）
+96                               《中研院法學期刊》第19期（2016年9月）
+
+
+
+Wiener, Jonathan B., and Michael D. Rogers. 2002. Comparing
+     Precaution in the United States and Europe. Journal of Risk
+     Research 5(4):317-349.
+Wiener, Jonathan B., Michael D. Rogers, James K. Hamitt, and Peter H.
+     Sand. 2011. The Reality of Precaution: Comparing Risk Regulation
+     in the United States and Europe. New York, NY: RFF Press.
+Introducing the Precautionary Principle into Administrative Law   97
+
+
+
+
+                     風險預防與行政法治
+                             — 挑戰及應對
+
+                                    金自寧＊
+
+
+                                    摘 要
+  隨著風險成為現代社會的重要特徵，風險規制上升為現代政府
+的一項重要任務。風險預防原則在實證法上的出現，標誌著立法者
+將風險規制納入行政法規範體系之內的努力。但是，由於風險與無
+知相伴，規制者不得不決策於不確定性之中，風險規制實踐對傳統
+行政法治理念構成重大挑戰，甚至危及傳統行政法治理念的核心要
+求。平衡風險規制與行政法治的傳統技術力有不逮，有必要發展
+「軟法之治」、「參與型行政」和「風險交流」等新的制度技術，以
+求得風險規制與行政法治之間的平衡。
+
+關鍵詞：風險預防原則、風險規制、行政法治、參與型行政、軟法
+    之治。
+
+
+
+
+＊   北京大學國際法學院副教授。
+

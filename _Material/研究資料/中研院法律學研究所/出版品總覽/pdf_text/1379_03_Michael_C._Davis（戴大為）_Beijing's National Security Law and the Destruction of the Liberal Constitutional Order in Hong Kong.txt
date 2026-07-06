@@ -1,0 +1,640 @@
+    Hong Kong’s Changing Rule of Law
+Academia Sinica Law Journal                                                           21
+2022 Special Issue, pp. 21-37 (May 2022)
+
+
+
+
+         Beijing’s National Security Law
+        and the Destruction of the Liberal
+                                           ＊
+       Constitutional Order in Hong Kong
+                                                       ＊＊
+                              Michael C. Davis
+
+
+                                      Abstract
+      Hong Kong people and their supporters across the globe have
+watched in dismay as Beijing and Hong Kong officials gobble up the
+city’s basic freedoms and rule of law. The city, once promised a liberal
+constitutional order in the 1984 Sino-British Joint Declaration and its
+1990 Basic Law, is now to live under a repressive national security
+constitution. The National Security Law (NSL) imposed in 2020 has
+effectively become superior to the Basic Law and had been used to arrest
+or bar the popular political opposition from the political process. This
+occurred in two stages, first, with the arrests or push into exile of most of
+the leading figures in the pan-democratic opposition, and second, with
+the imposition of “democratic reform” with strict vetting to insure only
+“patriots” can run for office. Leading opposition figures charged with
+
+
+＊  This article is a revised and updated version of my testimony given in the U.S.
+   Congress before the Lantos Human Rights Commission on October 14, 2021.
+＊＊ Professor Michael C. Davis, a long-time professor in Hong Kong at both the Chinese
+   University of Hong Kong and the University of Hong Kong, is currently a Global
+   Fellow at the Woodrow Wilson International Center for Scholars, a Professor of
+   Law and International Affairs at O.P. Jindal Global University, and a Senior Research
+   Scholar at the Weatherhead East Asian Institute at Columbia University. He is the
+   author of the recent book, MAKING HONG KONG CHINA: THE ROLLBACK OF HUMAN
+   RIGHTS AND THE RULE OF LAW, the Asia Society Series, Columbia University Press,
+   2021.
+   Online: http://publication.iias.sinica.edu.tw/92114022.pdf.
+22                               《中研院法學期刊》2022特刊（2022年5月）
+
+
+subversion or collusion risk being sent to prison for years. After being
+arrested, they may linger in jail for months awaiting trial under an NSL
+presumption against bail. A mainland Office for Safeguarding National
+Security and a local Committee for Safeguarding National Security, as
+well as a candidate review committee, are effectively above the law, not
+subject to judicial review. Special branches of the police and the justice
+department operate under their guidance and supervision. The courts
+face intimidation, with only designated judges allowed to hear NSL cases.
+Human rights-oriented community organizations have been investigated
+and intimidated, forcing many to disband. Schools are under tight
+surveillance, with new regulations placing emphasis on national security
+requirements in education. Media face the same sorts of investigations,
+arrests, and pressures, with leading opposition media forced to close.
+Both Hongkongers and the world face official indifference as to their
+concerns over the collapse of the promised liberal order.
+
+KEYWORDS: Hong Kong, constitutionalism, human rights, rule of law,
+          free speech, democracy, national security, elections, China,
+          repression.
+
+
+                                 Contents
+
+ I.     Background
+ II.    Criminal Justice: The Crushing of Human Rights and the Rule of Law
+ III.   Undercutting Political Freedom
+ IV.    The Rollback of Democracy
+ V.     The Path Forward
+Beijing’s National Security Law and the Destruction of                            23
+the Liberal Constitutional Order in Hong Kong
+
+I. Background
+
+     The world is very familiar with the special character of Hong Kong
+as one of the world’s leading cities of commerce, finance, and culture,
+widely respected for its freedoms and rule of law. The 1984 Sino-British
+                    1                                                 2
+Joint Declaration and the 1990 Hong Kong Basic Law sought to
+preserve Hong Kong’s special character. They offer a very liberal
+constitutional framework, as was thought necessary to maintain Hong
+Kong as an open and rule-of-law-based society and to preserve the
+international human rights protections long-afforded its people. Hong
+Kong people and the world would not have relied on anything less.
+
+     Despite official arguments to the contrary, it is extremely difficult to
+interpret the comprehensive guarantees in these founding documents as
+envisioning anything other than a liberal constitutional order. The
+guarantees for Hong Kong include a high degree of autonomy, human
+rights, and the rule of law, as well as promises of self-rule through
+“universal suffrage”. These guarantees promise that the courts will be
+independent and final and expressly commit to continued application of
+the International Covenant on Civil and Political Rights (ICCPR). The
+Hong Kong Bill of Rights incorporates the ICCPR content nearly
+verbatim. The highest courts in Hong Kong quickly understood that they
+had the power of constitutional judicial review to maintain such
+
+
+
+1 Joint Declaration of the Government of the United Kingdom of Great Britain and
+  Northern Ireland and the Government of the People’s Republic of China on the
+  Question of Hong Kong [hereinafter Joint Declaration], Dec. 19, 1984, effective May
+  27, 1985, https://www.cmab.gov.hk/en/issues/jd2.htm.
+2 The Basic Law of the Hong Kong Special Administrative Region of the People’s
+  Republic of China [hereinafter Basic Law], Apr. 4, 1990, effective July 1, 1997,
+  https://www.basiclaw.gov.hk/en/basiclaw/index.html.
+24                                  《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+commitments. To preserve the integrity of the separate system, the Basic
+Law further provides that mainland laws will not apply in Hong Kong
+except for a limited number beyond the territory’s autonomy, to be listed
+                                3
+in Basic Law, Annex III. To emphasize this separation, mainland
+officials are not to “interfere in affairs which the Hong Kong Special
+Administrative Region administers on its own in accordance with this
+      4
+law.” Basic Law article 23, of relevance to the current debate, further
+provides that Hong Kong shall enact national security protections “on its
+own.”
+
+     Both Hong Kong people and the international community were
+asked to rely on these solemn commitments and largely did so for over
+two decades after the 1997 handover — even while Beijing interventions
+slowly eroded the city’s autonomy. Despite such erosion, with
+committed courts and vigorous activism on the ground, Hong Kong
+often secured the top spot in the Heritage Foundation’s Index of
+Economic Freedom and saw its rule of law ranked among the top in the
+          5
+world.
+
+     Weaknesses in the Basic Law model included Beijing’s complete
+control over interpretation of the Basic Law and its foot-dragging over
+realization of the promised universal suffrage. These two limitations
+have led to many protests over the years, as Hongkongers feared the
+
+
+3 Basic Law art. 18 allows for some mainland laws outside the scope of autonomy to be
+  added to Annex III.
+4 Basic Law art. 22 (H.K.).
+5 Natalie Lung, Hong Kong Dumped from Economic Freedom List It Had Dominated,
+  BLOOMBERG (Mar. 4, 2021), https://www.bloomberg.com/news/articles/2021-03-04/
+  hong-kong-dumped-from-economic-freedom-index-it-used-to-dominate; and WJP
+  Rule of Law Index, WORLD JUSTICE PROJECT, https://worldjusticeproject.org/rule-of-
+  law-index (last visited Nov. 21, 2021).
+Beijing’s National Security Law and the Destruction of                             25
+the Liberal Constitutional Order in Hong Kong
+
+degrading of their promised autonomy and the associated risk to the rule
+of law. Efforts to blame the many protests on local malcontents or
+foreign interference — allegedly promoting a color revolution — are
+misguided. Clearly, the mostly peaceful Hong Kong protesters had cause
+to be concerned about the failure of the Hong Kong government to guard
+the city’s autonomy.
+
+      Any reliance on Beijing’s commitments largely unraveled in 2019,
+with a massive crackdown on protesters demanding compliance with
+those very commitments and in 2020 with Beijing’s imposition of a
+National Security Law (NSL) — and later in 2021 with new electoral
+          6
+changes. In the past couple years, the crushing of the rule of law and
+the abandonment of core human rights has been unprecedented for a
+modern highly developed open society. Beijing’s model for its direct
+control has become evident, as it abandons the liberal order and installs a
+national security constitution in Hong Kong.
+
+
+
+II. Criminal Justice: The Crushing of Human Rights
+    and the Rule of Law
+
+      The NSL undermines the foundations for the rule of law,
+undercutting core elements of Hong Kong’s common law system and the
+core elements of the city’s criminal justice tradition. Passed without any
+public consultation, the NSL imposes four crimes in the speech area —
+
+
+
+6   National People’s Congress of the People’s Republic of China (PRC), The Law of the
+    People’s Republic of China on Safeguarding National Security in the Hong Kong
+    Special Administrative Region, June 30, 2020, https://www.elegislation.gov.hk/doc/
+    hk/a406/eng_translation_(a406)_en.pdf.
+26                                   《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+secession, subversion, terrorist activities, and collusion with foreign
+forces — whose vagueness leave speakers with little sense of what is
+prohibited and what is not. These crimes apply worldwide regardless of
+nationality. These vague crimes have been used to silence opposition
+voices in Hong Kong, including street protesters, political organizations,
+the media, academics, the arts, and numerous politicians. Many of those
+arrested have been highly respected community leaders simply fighting
+for the guaranteed freedoms. With an NSL presumption against bail, a
+majority of those prosecuted — 165 arrest and 96 prosecutions so far —
+                                                7
+languish in jail for months awaiting trial.
+
+     Such NSL arrests are only the tip of the criminal justice iceberg.
+Well over ten-thousand protesters were arrested for the 2019 protests
+under existing public order laws, with over 2,500 charged and hundreds
+                                                            8
+already convicted, many with long jail terms.                   Prominent political
+leaders well known both in Hong Kong and foreign capitals, including
+Martin Lee, Margaret Ng, Benny Tai, Jimmy Lai, Joshua Wong and
+                                                                9
+Cheuk-yan Lee have been among those convicted. These prominent
+leaders had all advocated non-violence during the recent protests.
+
+
+
+
+7 Lydia Wong & Thomas E. Kellogg, New Data Show Hong Kong’s National Security
+  Arrests Follow a Pattern, CHINA FILE (May 3, 2021), https://www.chinafile.com/
+  reporting-opinion/features/new-data-show-hong-kongs-national-security-arrests-follow-
+  pattern.
+8 Ng Kang-chung, Hong Kong Protests: More than 10,200 Arrested in Connection with
+  Unrest since 2019, Government Tells Lawmakers, SOUTH CHINA MORNING POST (Apr.
+  9, 2021), https://www.scmp.com/news/hong-kong/politics/article/3128836/hong-kong-
+  protests-more-10200-arrested-connection-unrest.
+9 Helen Davidson, Hong Kong Pro-democracy Figures Given Jail Terms of Up to 18
+  Months, THE GUARDIAN (Apr. 16, 2021), https://www.theguardian.com/world/2021/
+  apr/16/jimmy-lai-martin-lee-hong-kong-pro-democracy-figures-sentenced.
+Beijing’s National Security Law and the Destruction of                              27
+the Liberal Constitutional Order in Hong Kong
+
+     NSL prosecutions have targeted a large portion of the political
+opposition. By prosecuting publisher Jimmy Lai and the management
+and editorial teams of the Apple Daily newspaper, along with the use of
+financial tools to force the paper’s closure, the leading media opposition
+voice has been silenced. Jimmy Lai’s bail denial went all the way to the
+Court of Final Appeal, where the court concluded that it had no power to
+overturn any provisions of the NSL that violate Basic Law or common
+law principles — it thereby upheld the presumption against bail in NSL
+           10
+article 42.
+
+     The arrests and prosecutions under the NSL of 47 politicians for
+organizing and participating in an opposition political primary sent a
+clear message of political intolerance. Of the 47 charged, 36 were denied
+bail and have languished in jail for months. Their alleged subversion
+appears to relate to an intention, should they win enough seats in the
+then planned Legislative Council election, to vote down the
+government’s budget and thereby force the resignation of the Chief
+              11
+Executive.         Hong Kong may stand alone as a place, where using a
+constitutional provision to defeat the government in power is treated as
+subversion. Both these cases and the many others not mentioned here all
+relate to speech crimes in one form or another.
+
+     The prosecution and conviction of a young street activists, Tong
+Ying Kit, was the first of two NSL trials completed as of this writing.
+Tong was charged after he drove his motorcycle into a police cordon
+causing some minor injuries. He was convicted for incitement to
+
+
+10 HKSAR v. Lai Chee Ying, (2021) 24 H.K.C.F.A.R. 33 (C.F.A.).
+11 Explainer: How a Primary Got Hong Kong Activists in Trouble, ASSOCIATED PRESS
+   NEWS (Mar. 1, 2021), https://apnews.com/article/beijing-primary-elections-democracy-
+   hong-kong-elections-ccda7eb61403f721ba8e56423203f72a.
+28                                      《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+secession for carrying a flag on his bike with the popular slogan,
+                                                                12
+“Liberate Hong Kong, Revolution of Our Times.”                       In the High Court
+he was denied a jury under a special NSL provision allowing the
+prosecution to opt for a three-judge panel. Even though NSL article 4
+provides for continued application of the international human rights
+guarantees under the Basic Law, the court’s judgment did not even
+mention human rights, as is usually applicable regarding incitement in
+                             13
+national security cases.          In what appeared to be simply reckless driving,
+he was further convicted of terrorism. There was no indication that his
+actions instigated any popular fear. His total sentence for both charges
+was 9 years — with the case now under appeal.
+
+       We should be skeptical about protection of due process rights in the
+coming NSL trials. The NSL, which effectively amends the Basic Law,
+completely undermines the prior commitments to autonomy and the rule
+of law, introducing mainland control and methods into the Hong Kong
+system. It creates a local Committee for Safeguarding National Security
+(headed by the Chief Executive with a mainland adviser) and an Office
+for Safeguarding National Security, the latter staffed entirely by
+mainland public security officials. Both oversee local national security
+investigations and requirements, and neither is subject to judicial review
+by the local courts. These oversight organizations are backed up by
+special branches who operate in secret in both the Hong Kong police and
+the Department of Justice. The Committee for Safeguarding National
+Security has already issued special regulations for police that allow for
+
+
+12 HKSAR v. Tong Ying Kit, HCCC 280/2020 (C.F.I. July 27, 2021) (Legal Reference
+     System) (H.K.).
+13 See Michael C. Davis, National Security Trial Ruling a Setback for Human Rights in
+     Hong Kong, SOUTH CHINA MORNING POST (Aug. 4, 2021), https://scmp.com/comment/
+     opinion/article/3143634/national-security-trial-ruling-setback-human-rights-hong-kong.
+Beijing’s National Security Law and the Destruction of                             29
+the Liberal Constitutional Order in Hong Kong
+
+warrantless searches, surrender of travel documents, seizure and
+confiscation of property, interception of communications and secret
+              14
+surveillance.
+
+     These mainland intrusions have put the courts and the legal
+profession under severe stress, compromising judicial independence and
+fair trial rights. Beijing’s distrust of independent judges is on full display
+under the NSL, which requires that only judges designated by the Chief
+Executive can hear NSL cases. Such designated judges are subject to
+removal from the list if they make statements that offend national
+security — presumably in court. Result oriented oversight does not stop
+there. The Secretary for Justice can withhold the right to a jury in High
+Court cases where juries are typically allowed, as was done in the Tong
+Ying Kit case. Judges have been under pressure, being subject to public
+attacks by Beijing officials and media if they dismiss cases or grant bail.
+The Court of Final Appeal faced a seeming threat published in the
+People’s Daily, that the case might be removed to the mainland for trial
+                                          15
+if Jimmy Lai were granted bail.                NSL article 55 allows official
+discretion for such removal in complex cases.
+
+     Lawyers have not escaped these attacks. The People’s Daily
+recently likened the Hong Kong Bar to “street rats” and warned the Law
+Society to stay out of politics in its leadership election. The then Bar
+President, Paul Harris, was attacked for suggesting revisions to the NSL.
+
+
+14 Implementation Rules for Article 43 of the Law of the People’s Republic of China on
+   Safeguarding National Security in the Hong Kong Special Administrative Region
+   Gazetted, GOVHK PRESS RELEASE (July 6, 2020), https://www.info.gov.hk/gia/general/
+   202007/06/P2020070600784.htm.
+15 See Su Di, Observer: Approving Jimmy Lai’s Bail Harmful to Hong Kong’s Rule of
+   Law, PEOPLE’S DAILY (Dec. 28, 2020), https://peoplesdaily.pdnews.cn/opinions/
+   observer-approving-jimmy-lai-s-bail-harmful-to-hong-kong-s-rule-of-law-190555.html.
+30                                     《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+The lawyer representing the legal functional sector in the Legislative
+Council, Dennis Kwok, was also forced out of office in November 2020,
+resulting in all opposition Legislative Council members resigning in
+protest. Even lawyers’ groups formed to promote due process or provide
+pro-bono legal services to protesters, including the Progressive Lawyers
+Group and the 612 Humanitarian Relief Fund, have been threatened with
+prosecutions and forced to disband.
+
+
+
+III. Undercutting Political Freedom
+
+       The NSL does not only provide for national security prosecutions,
+but rather in article 9 requires the government “to take necessary
+measures to strengthen public communication, guidance, supervision
+and regulation… relating to schools, universities, social organizations,
+the media, and the internet.” This includes a requirement in article 10 to
+“promote national security education in schools and universities and
+through social organizations, the media, the internet and other means…”
+The government has issued regulations requiring schools at all levels to
+teach national security and has warned universities and the media about
+possible violations — presumably involving critical views that do not
+match Chinese Communist Party (CCP) orthodoxy, expressed on
+                                                16
+campus by either teachers or students.               These efforts at brainwashing
+
+
+16 Education Bureau of Hong Kong, Education Bureau Circular No. 2/2021: National
+     Security Education in School Curriculum — Implementation Mode and Learning and
+     Teaching Resources (Feb. 4, 2021), https://applications.edb.gov.hk/circular/upload/
+     EDBC/EDBC21002E.pdf; and Education Bureau of Hong Kong, Education Bureau
+     Circular No. 3/2021: National Security: Maintaining a Safe Learning Environment
+     Nurturing Good Citizens (Feb. 4, 2021), https://applications.edb.gov.hk/circular/
+     upload/EDBC/EDBC21003E.pdf.
+Beijing’s National Security Law and the Destruction of                          31
+the Liberal Constitutional Order in Hong Kong
+
+                                                                                17
+have led thousands to emigrate or send their children abroad for study.
+In traditional CCP Marxist style, professors have been attacked in
+official media as “reactionary academics” and even supporters as “loyal
+            18
+rubbish.”        Student organizations have also come under attack and
+student unions have disband, as has the 95,000-member Professional
+Teachers Union (PTU), which was characterized by China’s Xinhua
+                                             19
+news agency as a “malignant tumor.”               Even statues commemorating
+1989 Tiananmen crackdown have been ordered removed from campuses,
+including the “Pillar of Shame” sculpture at the University of Hong
+       20
+Kong.       The Global Public Policy Institute has recently given Hong
+                                                                  21
+Kong a D-rating on academic freedom in its global survey.
+
+     Intimidation stretches well beyond campuses. Government officials,
+elected or otherwise, have been forced to take loyalty oaths. Such oaths
+are then weaponized to disqualify people who have supported the
+political opposition or said anything judged disloyal in their past. Civil
+servants, subsequently judged to have made a false oath, face a loss of
+job and even their pensions, being dismissed for cause. Recognizing this
+
+
+17 Vivian Wang, ‘This Drop Came So Quickly’: Shrinking Schools Add to Hong Kong
+   Exodus, N.Y. TIMES (Oct. 11, 2021), https://www.nytimes.com/2021/10/11/world/
+   asia/hong-kong-population-drop.html.
+18 Au Ka-lun, A New Cultural Revolution Is on Its Way, APPLE DAILY (Mar. 26, 2021),
+   https://collection.news/appledaily/articles/GDMGSIJ2AVBOLLW7QC5BUJUBY4.
+19 Lilian Cheng & Chris Lau, Hong Kong’s Biggest Teachers’ Union ‘Seeks to Speed Up
+   Dissolution by Changing Its Rules’ as Beijing Attack Continues, SOUTH CHINA
+   MORNING POST (Aug. 11, 2021), https://scmp.com/news/hong-kong/politics/article/
+   3144711/hong-kongs-biggest-teachers-union-seeks-speed-dissolution.
+20 Shibani Mahtani, Hong Kong’s ‘Pillar of Shame’ Sculpture for Tiananmen Victims
+   Faces Removal, WASH. POST (Oct. 13, 2021), https://www.washingtonpost.com/world/
+   asia_pacific/hongkong-pillar-shame-tiananmen/2021/10/13/2a897036-2b0a-11ec-b17d-
+   985c186de338_story.html.
+21 Hong Kong’s Global Academic Freedom Index Regresses C-level to D-level, Lower
+   than Vietnam, Causing Concern, APPLE DAILY (Apr. 2021) (no longer available).
+32                                     《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+purpose, 260 members of the District Council, being the only level of
+government that had previously been almost fully directly elected,
+resigned, rather than take the oath. 55 opposition District Counsellors
+who stayed on to take the oath were then disqualified, with their historic
+                                                         22
+opposition being used to question their loyalty.
+
+      Most independent civil society organizations that traditionally
+supported the opposition, have now been threatened with prosecution
+                                23
+and forced to disband.               Similar to the PTU, intimidation and
+disbanding has targeted, e.g., the Civil Human Rights Front, the Labor
+Party, the Confederation of Trade Unions, the Social Workers General
+Union, the League of Social Democrats, and the Hong Kong Alliance in
+Support of the Patriotic Democratic Movement in China. The arrest of a
+member (along with four other members) of the latter organization,
+lawyer Ms. Chow Hang-tung, has been condemned by UN experts:
+“Terrorism and sedition charges are being improperly used to stifle the
+exercise of fundamental rights, which are protected under international
+law, including freedom of expression and opinion, freedom of peaceful
+                                                                       24
+assembly and the right to participate in public affairs.”                   The experts
+also raised concern that Hong Kong was imposing undue restrictions in
+
+
+22 Of 452 directly elected district councillors elected in the last allowed election 392
+   were from the opposition camp. Owen Churchill, US, Britain, and EU Voice
+   Objections to Hong Kong’s Disqualification of Opposition District Councillors,
+   SOUTH CHINA MORNING POST (Oct. 22, 2021), https://www.scmp.com/news/china/
+   article/3153223/us-and-britain-voice-objections-hong-kongs-disqualification-opposition.
+23 Suzanne Pepper, Hong Kong’s Civil Society under Fire: the Candidates, the Election,
+   then the Democracy Movement Itself, HONG KONG FREE PRESS (Sept. 3, 2021),
+   https://hongkongfp.com/2021/09/03/hong-kongs-civil-society-under-fire-the-candi
+   dates-the-election-then-the-democracy-movement-itself/.
+24 Hong Kong: Arrests under Security Law Are Serious Concern, UN Experts Call for
+   Review, OHCHR (Oct. 12, 2021), https://www.ohchr.org/EN/NewsEvents/Pages/
+   DisplayNews.aspx?NewsID=27648&LangID=E.
+Beijing’s National Security Law and the Destruction of                              33
+the Liberal Constitutional Order in Hong Kong
+
+accusing such organizations of collusion merely for receiving foreign
+funding.
+
+     Media intimidation likewise reaches beyond the forced closure of
+the Apple Daily, including most prominently the growing pressure on
+RTHK, the public service broadcaster long modeled on the BBC, that
+has now issued a 100-plus page editorial guideline for reporters that aims
+                                                                            25
+to insure NSL compliance and top-down editorial control.                         The
+government has announced an intention to pair RTHK with the
+                                                                                    26
+mainland’s CCTV to encourage stronger patriotism among viewers.
+The government has also appointed a new Director of Public
+Broadcasting from the Hong Kong civil service to better insure
+compliance — resulting in diminished independence and critical
+programing being withdrawn. Across the city art exhibits and critical
+                                                     27
+documentaries have also come under attack.                A new bill just passed
+                                                                          28
+will allow the banning of films on NSL grounds without appeal.                 In the
+most extreme case, two speech therapists have been charged with sedition
+
+
+25 RADIO TELEVISION HONG KONG, EDITORIAL POLICIES AND PROCESSES OF RADIO
+   TELEVISION HONG KONG (Sept. 2021), http://rthk9.rthk.hk/about/pdf/epp_eng.pdf.
+26 Rhoda Kwan, Hong Kong’s RTHK Will Become State Media after Partnership with
+   China’s CCTV, Says Press Group Chief, HONG KONG FREE PRESS (Aug. 11, 2021),
+   https://hongkongfp.com/2021/08/11/hong-kongs-rthk-will-become-state-media-after-
+   partnership-with-chinas-cctv-says-press-group-chief/.
+27 HG Masters, Hong Kong Arts Sector Faces New Political Scrutiny, ARTASIAPACIFIC
+   (Mar. 18, 2021), http://www.artasiapacific.com/News/HongKongArtsSectorFacesNew
+   PoliticalScrutiny; Candice Chau, Hong Kong Campus Protest Documentary
+   Screening Cancelled Hours before Showing Following Attack by Pro-Beijing Paper,
+   HONG KONG FREE PRESS (Mar. 15, 2021), https://hongkongfp.com/2021/03/15/hong-
+   kong-campus-protest-documentary-screening-cancelled-hours-before-showing-follow
+   ing-attack-by-pro-beijing-paper/.
+28 Kelly Ho, Hong Kong Passes Bill to Censor Films ‘Contrary’ to China’s National
+   Security — HK$1m Fine, 3 Years Jail for Offenders, HONG KONG FREE PRESS (Oct.
+   27, 2021), https://hongkongfp.com/2021/10/27/hong-kong-passes-bill-to-censor-
+   films-contrary-to-chinas-national-security-hk1m-fine-3-years-jail-for-offenders/.
+34                                    《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+for publishing a children’s book depicting sheep attacked by wolves.
+
+
+
+IV. The Rollback of Democracy
+
+       Beijing has completely remodeled the electoral system to exclude
+the pro-democracy opposition from any role in government. The new
+electoral amendments in the Basic Law, set up a comprehensive system
+for vetting candidates to allow only “patriots” to run. While the number
+of legislative seats has been increased from 70 to 90, the number directly
+elected by geographical constituencies has been reduced from 35 to 20.
+Forty of the legislators are now to be selected by the Beijing friendly
+Election Committee. Historically, the 1200-member Election Committee
+was selected mostly by functional sectors, whose makeup effectively
+insured 80 percent would invariably support a Beijing-friendly candidate.
+The Committee is now further tilted.
+
+       The Election Committee is now increased from 1200 to 1500
+members, with the additional 300 being Beijing-selected Hong Kong
+representatives to the Central Government. The functional sectors have
+now been modified in comprehensive ways to guarantee only “patriots”
+are elected to the committee. The seats previously held by the elected
+District Councilors have been given over to mainland affiliated
+organizations. As a result of these and other changes, in the recent
+Election Committee election 75 percent of the seats were filled
+                29
+uncontested.
+
+
+29 Lilian Cheng, Record Number of Uncontested Seats for Hong Kong Election
+     Committee Polls — and Li Ka-shing Is Not Throwing His Hat into Ring, for the First
+     Time since 1997, SOUTH CHINA MORNING POST (Aug. 12, 2021), https://scmp.com/
+Beijing’s National Security Law and the Destruction of                            35
+the Liberal Constitutional Order in Hong Kong
+
+     The Election Committee is now required to vet all candidates for
+Chief Executive and the Legislative Council on top of choosing the
+Chief Executive and 40 legislators. A small Candidate Eligibility Review
+Committee, composed of Beijing loyalists, will first vet the candidates
+and submit its findings to the Election Committee. This vetting
+committee will vet all candidates for elective office. It will be overseen
+by the Committee for Safeguarding National Security and all candidates
+will be investigated by the national security police unit. Opposition
+candidates run at their peril, at risk of being disqualified as non-patriots,
+and possibly prosecuted. No candidates from the leading pan-democratic
+parties participated in the December 2021 Legislative Council election.
+It is now illegal for anyone to advocate boycotting the election or
+spoiling ballots, though voters can do so individually — with only 32
+percent of eligible voters participating in the recent election.
+
+
+
+V. The Path Forward
+
+     The “One Country, Two Systems” model promised Hong Kong has
+surely been abandoned, in any recognizable form. Both Hong Kong
+people and the wider world long engaged with Hong Kong will now face
+a challenge of what to do in the face of such overwhelming oppression.
+In my own judgment, the narrow sanctions that have been used so far
+have had very little impact and may at worst cause Beijing to impose
+more draconian measures as blowback, as reflected in Beijing’s recently
+
+
+
+
+   news/hong-kong/politics/article/3144856/hong-kong-politics-record-number-uncontest
+   ed-seats-election.
+36                                     《中研院法學期刊》2022特刊（2022年5月）
+
+
+                                     30
+proposed anti-sanctions law.              Concerned governments will have to
+examine their international trade and exchange policies in a more
+comprehensive and multilateral way that advances the international
+human rights policies they may cherish, as contained in the international
+human rights regime. It is in every country’s national interest that trade
+and finance does not operate outside national policies that seek to
+promote human rights. Beijing controlled companies, as well as Hong
+Kong and other foreign companies that operate in Hong Kong, have
+often been coopted to support Beijing’s hardline policies. Their
+operations are clearly at the heart of Beijing’s concerns with respect to
+the city.
+
+       The challenge will be to create a regulatory regime that incentivizes
+appropriate human rights behavior both in official policy and private
+activity. The US has already unilaterally built some of this sort of
+commercial oversight, to list companies that appear to violate US policy
+in this and related regards. Rather than unilateral sanctions such policy
+goals might best be achieved in a multilateral framework. Such a
+framework would aim to create human rights incentives that
+international businesses and other organizations would be expected to
+adhere to in conducting their activities. The current paper is not the place
+to tease this wider framework out but, at first glance, it would surely
+include some of the best practices regarding social responsibility in the
+literature on corporate social responsibility. A charter might be created
+that reaches beyond the immediate Hong Kong issues to include wider
+
+
+
+30 Jeffie Lam, No Timetable for Hong Kong Anti-sanctions Law, Finance Chief Paul
+     Chan Says, SOUTH CHINA MORNING POST (Oct. 1, 2021), https://scmp.com/news/
+     hong-kong/politics/article/3150925/no-timetable-hong-kong-anti-sanctions-law-finance-
+     chief.
+Beijing’s National Security Law and the Destruction of                   37
+the Liberal Constitutional Order in Hong Kong
+
+global practice. Countries that sign on to such a charter would be
+expected to enforce its principles in local law both as to entities
+organized locally and for those that practice within local jurisdiction.
+There could be a committee structure to report adherence to such
+requirements. Private causes of action might be allowed to supplement
+official oversight — as is even the case for Beijing’s domestic anti-
+sanctions law. In the PRC context, similar issues have come up relating
+to Xinjiang and Tibet, as well as Hong Kong, but Beijing is not alone in
+this regard. The best approach to incorporate human rights concerns in
+the commercial and international organizational sector will require more
+substantial international discussions, but such a regulatory regime might
+offer a more acceptable incentive-based approach than the tit-for-tat
+approach currently available through unilateral sanctioning of officials.
+
+     In the interim, it seems most foreign policies directed at these
+developments in Hong Kong will target immigration access to provide
+sanctuary for those who want to leave the city. Immigration policies can
+look to the efficiency of access to the asylum regime and offering
+immigration options to those most at risks who do not qualify for asylum
+in the traditional sense. University graduates holding degrees from the
+host country’s universities or Hong Kong people who have spent
+substantial time abroad may suffer the greatest loss under the current
+repressive policies and seek an exit for themselves or their families.
+

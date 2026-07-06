@@ -1,0 +1,1890 @@
+Property in Housing                                                              31
+
+
+
+
+                                  主題演說
+
+                                                          ＊
+                      Property in Housing
+
+                             Keynote Address
+
+                          (Delivered on June 16, 2012)
+
+                            Lee Anne Fennell＊＊
+
+
+                                   Contents
+ I. Housing Packages
+     A. Quantitative Dimensions
+     B. Qualitative Dimensions
+     C. Risk and Returns
+     D. Complementarities and Scale
+ II. A Theory of the Home
+     A. Efficient Boundaries
+     B. Excess Capacity, Sharing, and Procuring
+     C. Abutments between Privately and Commonly Owned Elements
+     D. Misalignments of Exposure and Control
+ Conclusion
+
+
+＊  Submission: November 8, 2012; Editorial assistant: Chia-Ju Chang.
+   I thank Gregory Alexander, Scott Baker, Yun-chien Chang, Ruoying Chen, Donald
+   Clarke, Christopher Fennell, Eduardo Peñalver, Rebecca Tushnet, and participants
+   in the Conference on Property Rights and China’s Development and Transformation,
+   Academia Sinica’s Fourth Conference on Law and Economic Analysis, and a
+   faculty workshop at Cornell Law School for helpful comments and conversations. I
+   also thank the Stuart C. and JoAnn Nathan Faculty Fund for financial support.
+＊＊ Max Pam Professor of Law and Herbert and Marjorie Fried Research Scholar,
+   University of Chicago Law School.
+32                                         《中研院法學期刊》第12期（2013年3月）
+
+
+
+     The question of how to structure and package the residential
+experience is a deeply interesting and difficult one. How physically large
+or small should residential holdings be? How densely should they be
+clustered? Should spaces for working, recreating, cooking, and bathing
+be contained within the private residential unit, shared with other
+households, or procured á la carte? How permanent should the
+connection be between a household and a living space? How much
+control should households have over the environment surrounding the
+dwelling unit? Answers to these and many other queries differ both
+within and between societies. Housing services can be provided in an
+                                                                            1
+almost infinite array of configurations, from capsule hotels to large
+estate homes situated on extensive private grounds.
+
+     A law and economics perspective that fully attends to problems of
+scale can inform the task of configuring residential property optimally.
+Like other forms of private property, housing entitlements mark off
+resources from the rest of the world and delegate broad decisionmaking
+                                                       2
+power over them to individuals and groups. Deciding how thickly or
+thinly to carve up housing resembles other boundary-drawing problems,
+                                                                      3
+such as determining the optimal scope of a firm or a farm. In each case,
+
+
+1 Capsule hotels provide a small plastic pod (roughly 6 ½ feet long by 5 feet wide) for
+  an individual to sleep in, along with lockers for belongings, and communal bathing
+  and eating facilities. Although the hotels' primary clientele was initially businessmen
+  who had missed their last train home, these hotels began to be used during the
+  recession by long-term guests who rented by the month. Hiroko Tabuchi, For Some in
+  Japan, Home Is a Tiny Plastic Bunk, N.Y. TIMES, Jan. 2, 2010, at A1.
+2 Henry Smith has associated property rule protection and strong exclusion rights with
+  broad delegations to owners. See, e.g., Henry E. Smith, Exclusion and Property Rules
+  in the Law of Nuisance, 90 VA. L. REV. 965, 974, 978-85 (2004) [hereinafter Smith,
+  Exclusion]; Henry E. Smith, Property and Property Rules, 79 N.Y.U. L. REV. 1719,
+  1755-64 (2004) [hereinafter Smith, Property Rules].
+3 See, e.g., Robert C. Ellickson, Property in Land, 102 YALE L.J. 1315, 1332-34 (1993)
+Property in Housing                                                                       33
+
+
+
+
+the appropriate size and composition of the holding depends on the scale
+                                        4
+of the underlying activities.               Identifying the relevant scale for
+residential activity is not easy, however. Housing serves a number of
+                  5
+distinct goals, and it can be delivered through a variety of property
+           6
+formats.       It also plays a crucial role in rationing access to other
+important goods and services, including education and public safety. An
+analytic perspective that emphasizes scale illuminates the ways in which
+law intersects with private decisionmaking to deliver housing. Central to
+this analysis is the mutability of the functions served by housing. The
+law, as part of a generative process that interacts with private markets
+and household decisions, can profoundly influence what happens inside
+and outside the envelope of the home.
+
+
+
+  (describing the challenge of setting “efficient boundaries” and the attendant tradeoffs
+  between “internal management” and “external coordination”); Harold Demsetz,
+  Toward a Theory of Property Rights, 57 AM. ECON. REV. (papers and proceedings)
+  347, 358 (1967) (“The greater are diseconomies of scale to land ownership the more
+  will contractual arrangement be used by the interacting neighbors to settle [their]
+  differences.”); Ronald H. Coase, The Nature of the Firm, 4 ECONOMICA, N.S. 386
+  (1937), reprinted in RONALD H. COASE, THE FIRM, THE MARKET, AND THE LAW 33, 44
+  (1988) (discussing efficient boundaries for a firm).
+4 See, e.g., Ellickson, supra note 3, at 1322-35.
+5 There is a burgeoning literature on this point. See, e.g., D. Benjamin Barros, Home as
+  a Legal Concept, 46 SANTA CLARA L. REV. 255 (2006); Tim Iglesias, Our Pluralist
+  Housing Ethics and the Struggle for Affordability, 42 WAKE FOREST L. REV. 511, 530-
+  49 (2007); LORNA FOX, CONCEPTUALIZING HOME: THEORIES, LAWS AND POLICIES
+  142-77 (2007).
+6 These possibilities are often cast in terms of a limited slate of recognized tenure forms,
+  such as the leasehold, the life estate, and the fee simple. This limited menu, and the
+  numerus clausus principle it embodies, has been the focus of a great deal of scholarly
+  attention. See, e.g., Henry Hansmann & Reinier Kraakman, Property, Contract, and
+  Verification: The Numerus Clausus Problem and the Divisibility of Rights, 31 J.
+  LEGAL STUD. 373 (2002); Thomas W. Merrill & Henry E. Smith, Optimal
+  Standardization in the Law of Property: The Numerus Clausus Principle, 110 YALE
+  L.J. 1 (2000); Nestor Davidson, Standardization and Pluralism in Property Law, 61
+  VAND. L. REV. 1597 (2008).
+34                                         《中研院法學期刊》第12期（2013年3月）
+
+
+
+     This essay proceeds in two parts. Part I considers a variety of
+dimensions along which housing packages can vary and notes the ways
+in which the law may restrict or burden particular configurations. Part II
+examines how a home’s physical, spatial, and conceptual boundaries
+might be optimized, posing questions analogous to those that Ronald
+Coase asked about firms and that Robert Ellickson and Harold Demsetz
+                                                        7
+asked about property holdings more generally.
+
+
+
+I. Housing Packages
+
+     At its most essential, a home is a vehicle for delivering a
+                                                                                        8
+specialized stream of consumption benefits to its occupants.
+Arrangements that fit within the usual meaning of “home” give a
+            9
+household a variety of temporally extended rights, good against the rest
+of the world, to a physical structure that affords some measure of shelter,
+
+
+7 See Coase, supra note 3 (addressing firm boundaries). Robert Ellickson, following
+  Harold Demsetz, translated Coase’s question about firm boundaries explicitly into the
+  property realm by asking about the appropriate physical and conceptual boundaries of
+  land holdings. Ellickson, supra note 3; see Demsetz supra note 3. Ellickson later
+  engaged in a detailed economic analysis of households that, together with the earlier
+  analysis of property in land, informs the analysis here. See generally ROBERT C.
+  ELLICKSON, THE HOUSEHOLD: INFORMAL ORDER AROUND THE HEARTH (2008); Robert
+  C. Ellickson, Unpacking the Household: Informal Property Rights Around the Hearth,
+  116 YALE L.J. 226 (2006).
+8 The home may also deliver investment returns to its occupants, depending on tenure
+  form. See infra Part I.C.2.
+9 A household might be an individual, a family unit, or any other small and relatively
+  stable grouping that elects to regularly share housing and perhaps meals. Robert
+  Ellickson offers a definition that shifts attention from the occupants themselves to the
+  arrangements they have made with each other. See Ellickson, supra note 7, at 230
+  (“ ‘household’ is a set of institutional arrangements, formal or informal, that governs
+  relations among the owners and occupants of a dwelling space where occupants
+  usually sleep and share meals”).
+Property in Housing                                                                      35
+
+
+
+                              10                                                        11
+security, and privacy.             For example, the occupying household
+generally has the right to enter and leave the structure at times of its
+choosing, to control who else enters the structure and what they do while
+there, to store and display objects within the structure, and to engage in
+any of a fairly broad and unspecified set of uses in and immediately
+around the structure without first having to seek any outsider’s
+            12
+approval.        The home also serves as a physically tethered delivery
+portal for additional consumption streams that emanate from outside the
+property’s boundaries, including local public goods and services, and all
+the other benefits (and detriments) associated with a particular spatial
+            13
+location.        Typically, the occupants will also have some formal or
+informal rights over externality-generating uses that others might make
+                         14
+of nearby properties.
+
+
+10 See, e.g., Barros, supra note 5, at 259-75 (discussing elements of “security, liberty,
+   and privacy” in the home).
+11 Some complications are suppressed here by referring to “the occupying household” as
+   if it were a monolith. Internal rules or other governance mechanisms commonly
+   operate within the household to extend or withdraw certain rights to certain household
+   members and to manage their use of the common areas. See Ellickson, supra note 7,
+   at 297-323 (analyzing a broad array of such mechanisms for governing relationships
+   among co-occupants).
+12 Property ownership has been associated with a large and unspecified set of uses. See,
+   e.g., Smith, Property and Property Rules, supra note 2, at 1759-60 (noting the many
+   unspecified ways that an owner can use a house); see also J. W. HARRIS, PROPERTY
+   AND JUSTICE 65 (1996) (emphasizing the “countless” ways an owner is entitled to
+   “use, abuse, exploit, or transmit” property). While the choice set open to a leaseholder
+   may be smaller than that afforded a homeowner, the same principle applies insofar as
+   many uses can be selected without having to obtain preapproval.
+13 The Tiebout Hypothesis stands for the idea that residents select bundles of local goods
+   and services by choosing where to locate. See Charles Tiebout, A Pure Theory of
+   Local Expenditures, 64 J. POL. ECON. 416 (1956); see also LEE ANNE FENNELL, THE
+   UNBOUNDED HOME: PROPERTY VALUES BEYOND PROPERTY LINES 25-44 (2009)
+   (examining the bundled package that comprises the home, including many elements
+   that lie outside the physical structure or parcel).
+14 Common law nuisance principles allow owners to enjoin or receive damages for
+36                                          《中研院法學期刊》第12期（2013年3月）
+
+
+
+      Despite these commonalities, housing entitlements vary widely.
+What ends up inside or outside a given housing bundle depends on a
+complex interplay between legal restrictions, market forces, and
+household responses. I will start by considering the various dimensions
+of housing bundles, and the many ways in which law may restrict their
+content and configuration.
+
+A. Quantitative Dimensions
+
+      As an initial cut, property holdings can be defined by reference to
+their size in space and their length in time. Law frequently regulates both
+dimensions in the housing context.
+
+     1. Space
+
+      Real property exists in space and is intuitively defined by its size
+and shape. Legal systems regulate and impact spatial configurations in
+many ways. The shape of property holdings can depend on the way in
+                                 15
+which land is demarcated,             and on the way in which vertical space is
+                                                       16
+attached to or detached from surface rights.                The law also frequently
+sets spatial requirements for residential property. For example, many
+municipal zoning ordinances and private neighborhood covenants
+specify that homes must sit on lots of a certain minimum size. Cities also
+
+
+
+   certain kinds of impact-causing uses, while finer-grained land use controls like zoning
+   and covenants may add many more limits.
+15 See Gary D. Libecap & Dean Lueck, Land Demarcation Systems, in RESEARCH
+   HANDBOOK ON THE ECONOMICS OF PROPERTY LAW 257 (Kenneth Ayotte & Henry E.
+   Smith eds., 2011).
+16 See, e.g., STUART BANNER, WHO OWNS THE SKY? THE STRUGGLE TO CONTROL
+   AIRSPACE FROM THE WRIGHT BROTHERS ON (2008) (tracing the interaction between
+   the ad coelum doctrine and the demands of air travel); Ellickson, supra note 3, at
+   1363-64 (describing “vertical boundaries” for property holdings).
+Property in Housing                                                                     37
+
+
+
+                                                            17
+set minimum square footages for rental units.                    Building codes that
+require ceilings of a certain height or laws that require ownership of
+surface rights to be bundled with sufficient underground support set
+minima in vertical space.
+
+      Some regulations influence space indirectly. Housing codes and fire
+codes that specify the maximum occupancy for a given space have the
+effect of requiring a minimum amount of space for each household of a
+given size. Limits on use can also preclude spatial subdivision. Thus, in
+an area zoned for single family homes, it is impermissible to subdivide a
+house and sell separate portions to different families. Spatial maxima
+might also be specified. For example, homeowners fed up with
+“McMansions” have been successful in imposing size limits for
+                                                                       18
+dwellings in some communities, typically tied to lot size.                  Measures to
+limit home energy usage that are tied to housing size, like the one in
+                                                                                  19
+Boulder County, Colorado, effectively place a tax on larger homes.
+
+
+17 A surge of recent interest in small housing units has led to reexamination of some
+   such minima. See Venessa Wong, Will the Middle Class Want Micro-Apartments?
+   BLOOMBERG BUSINESSWEEK, Jan. 23, 2013, http://www.businessweek.com/printer/
+   articles/92394-will-the-middle-class-want-micro-apartments (reporting on the recent
+   reduction in the minimum size of apartments in San Francisco from 290 square feet to
+   220 square feet); id. (noting that the minimum apartment size of 400 square feet has
+   been waived in New York City to allow for construction of the winning development
+   in Mayor Michael Bloomberg’s recent micro-apartment design competition); see also
+   Tom Orlik & Esther Fung, In China, a Move to Tiny Living Space, WALL ST. J., Oct.
+   17, 2012 (reporting on a Dongguan developer’s model apartment that “measures 160
+   square feet, about the size of a parking space”).
+18 These restrictions, unlike the environmentally motivated measures discussed infra, are
+   generally designed to keep owners from erecting a house that is deemed too large for
+   its lot rather than to restrict size as an absolute matter. Because owners would not be
+   precluded from building larger houses if they bought more land to build it on, these
+   restrictions could be characterized as imposing (lot size) spatial minima rather than
+   (square footage) spatial maxima.
+19 See Allyson Wendt, Boulder County Limits Energy Use for Homes, ENVIRONMENTAL
+   BUILDING NEWS (May 1, 2008), http://www.buildinggreen.com/auth/article.cfm/2008/
+38                                         《中研院法學期刊》第12期（2013年3月）
+
+
+
+      As these examples suggest, spatial requirements may be imposed to
+solve collective action problems of various sorts. Local public goods like
+“a compact, walkable neighborhood” or “a neighborhood with a
+spacious, open feel” may be achieved by restricting spatial
+configurations. Other explanations for mandated lot or home sizes have
+nothing to do with space as such. For example, spatial minima might be
+applied to screen on wealth or to ensure a certain property tax
+               20
+contribution.       Such restrictions may push housing to a physical scale
+that impedes the production of local public goods such as a dense and
+walkable neighborhood, or, at a larger scale, a metropolitan area that is
+compact to traverse.
+
+      In other instances, spatial restrictions may be designed to head off
+trouble down the road. For example, Michael Heller has suggested that
+legally mandated spatial minima can forestall the difficult bargaining
+problems that might result from later attempts to aggregate
+               21
+entitlements.       Similarly, spatial minima, coupled with certain limits on
+uses at the property edges, might minimize future conflicts over cross-
+border spillovers. Put a different way, and following a geometric point
+                                          22
+that has been made about fencing,              physically large property holdings
+economize on edges, which are the membranes through which
+
+
+
+   4/29/Boulder-County-Limits-Energy-Use-for-Homes/ (describing the Boulder County
+   BuildSmart program and the City of Boulder’s Green Points program). Boulder
+   subsequently amended the program to make it less stringent.
+20 See, e.g., ROBERT C. ELLICKSON & VICKI L. BEEN, LAND USE CONTROLS: CASES AND
+   MATERIALS (3d ed. 2005) (discussing and citing literature on possible motivations for
+   zoning measures that have the effect of excluding low- and moderate-income
+   households).
+21 See, e.g., Michael A. Heller, The Boundaries of Private Property, 108 YALE L.J. 1163,
+   1173 (1999).
+22 See Ellickson, supra note 3, at 1332.
+Property in Housing                                                                39
+
+
+
+
+externalities spill out—and in.
+
+     Conversely, legally prescribed spatial maxima may reflect a
+concern for not “overdrawing” a common supply of available land (or
+associated resources), where a viable pricing mechanism does not exist,
+or is not employed for distributive reasons. Spatial maxima might also
+be imposed indirectly, as through “use it or lose it” doctrines that are
+costly to satisfy for large holdings. Legal rules or enforcement practices
+that enable squatters to occupy unmonitored land may similarly have the
+effect of making large holdings more costly to retain, while at the same
+time carving out new residential holdings from existing property
+         23
+bundles.
+
+     2. Time
+
+     Property is, by its nature, an enduring institution. The fee simple
+absolute, the most complete of the estates in land, extends forward
+indefinitely. Making property more expansive in time serves much the
+same purpose as making it more expansive in space: externalities are
+internalized as owners trade off the current and future benefits of
+                      24
+particular actions.        Yet temporal scaling can be as important as spatial
+scaling to optimizing the use of property, especially where residential
+purposes are contemplated. Leaseholds consciously slice off temporally
+bounded property rights and alienate them to possessors. Similarly, free
+
+
+
+23 See Modder East Squatters & Others v. Modderklip Boerdery (Pty) Ltd. 2004 (8)
+   BCLR 821 (SCA) (S. Afr.) (holding that 40,000 illegal occupiers living in thousands
+   of informal dwellings on about 50 hectares of a landowner’s property could not be
+   displaced until the government provided alternative property for them, but ordering
+   compensation for the landowner) discussed in Gregory S. Alexander, The Social-
+   Obligation Norm in American Property Law, 94 CORNELL L. REV. 745, 786-91 (2009).
+24 See, e.g., Demsetz, supra note 3, at 355; Ellickson, supra note 3, at 1364-71.
+40                                        《中研院法學期刊》第12期（2013年3月）
+
+
+
+alienability of housing allows owners to temporally tailor their property
+rights to fit their selected length of use, simply by lopping off the
+unneeded future portion and transferring it to someone else.
+
+     Land use controls can place limits on temporal as well as spatial
+configurations. For example, owners may face restrictions or
+                                                25
+prohibitions on leasing out their homes.             While such measures do not
+explicitly specify temporal minima—owners remain free to sell their
+properties outright—they do have the practical effect of extending
+ownership in time given the costs associated with completing a sales
+transaction. A flat ban on the alienability of property would preclude
+formal temporal slicing altogether, although the limited life spans of
+human beings would effectively accomplish a rough form of slicing.
+Where limited periods of possession can be transferred through leases,
+the law may dictate certain temporal minima or maxima, and may even
+specify that only the tenant, and not her landlord, may later truncate that
+            26
+time span.
+
+B. Qualitative Dimensions
+
+     The extent of a property interest depends not only on its physical
+
+
+25 See, e.g., Ngai Pindell, Home Sweet Home? The Efficacy of Rental Restrictions to
+   Promote Neighborhood Stability, 29 ST. LOUIS U. PUB. L. REV. 41, 46-61 (2009)
+   (describing a variety of rental restrictions implemented by local governments and
+   private developers, including municipal bans on short-term rentals in vacation
+   destinations); Zachary M. Rawling, Reevaluating Leasing Restrictions in Community
+   Associations: Rejecting Reasonableness in Favor of Consent, 5 J.L. ECON. & POL’Y
+   223, 224 (2009) (noting prevalence of restrictions on leasing in common interest
+   communities).
+26 Rent control ordinances take this basic form by requiring that tenants be given an
+   entitlement to remain indefinitely, subject only to limited exceptions and to the
+   tenant’s own decision to leave. In other words, the law requires that both an open-
+   ended time span and the means with which to cut it short be conveyed together to the
+   leaseholder.
+Property in Housing                                                                        41
+
+
+
+
+size and temporal length, but also on what it permits, forbids, or requires
+the owners or occupants to do.
+
+     1. Use Restrictions
+
+      In nearly all sizable U.S. cities, zoning constrains the range of
+                      27
+permissible uses.          In the residential context, zoning can operate with
+great specificity. Separate zones might be established, for example, for
+single family homes on half-acre lots, single family homes on smaller
+lots, duplexes, triplexes, small apartment buildings, and large apartment
+complexes. There are often fairly rigid limits on what ancillary uses may
+be made of property that is zoned residential, with home businesses and
+accessory dwellings like garage apartments often presenting difficult
+boundary issues.
+
+      As Peter Colwell has observed, functional rights in land use interact
+in interesting ways with choices about the spatial extent of property
+rights. More uses can be permitted the larger the area under the control
+of a single owner, at least as long as edges can be managed
+                 28
+appropriately.        It is interesting, then, that zoning often couples tight use
+controls with spatial minima that seem to be in excess of what
+                                                                         29
+individuals would demand if left to their own devices.                        Meanwhile,
+
+
+27 Houston, Texas remains the notable exception.
+28 Peter Colwell, Tender Mercies: Efficient and Equitable Land Use Change, 25 REAL
+   ESTATE ECON. 525, 529 n.6 (1997) (“Another alternative [to zoning] would be to
+   allow developers to do anything they want as long as they have some minimum scale,
+   for example 640 acres, and as long as they do certain things at the edges of their
+   developments (e.g., build very tall berms). Since the developers would internalize
+   most of the externalities produced, their internal zoning could be expected to
+   approach the optimal zoning.”).
+29 The distortionary effects of spatial minima, especially in the context of large lot sizes,
+   have received attention. See, e.g., Edward Glaeser & Joseph Gyourko, Zoning’s Steep
+   Price, REGULATION, Fall 2002, at 24; ROBERT H. NELSON, PRIVATE NEIGHBORHOODS
+42                                   《中研院法學期刊》第12期（2013年3月）
+
+
+
+tight use controls make it more difficult for any excess spatial capacity to
+be used productively.
+
+      A similar point might be made about temporally extended property
+interests. As the law of waste suggests, stricter functional limits must be
+placed on temporally limited estates, such as life estates, to keep current
+possessors from offloading costs onto later possessors. Making holdings
+larger in time and space does not resolve all issues about uses, but it does
+tend to privatize the management of those issues.
+
+      2. Minimum Standards
+
+      While use restrictions chip away at what an owner may do, other
+legal restrictions mandate what an owner must do. Such restrictions are
+prevalent in the housing context, whether prompted by externalities,
+paternalism, or concerns about bargaining imbalances, information
+asymmetries, or cognitive biases. Housing codes as well as the implied
+warranty of habitability set minimum quality standards for rental
+housing. Owner occupied properties are also subject to code
+requirements that specify standards for electrical and plumbing systems
+and that demand other sorts of upkeep and maintenance. Zoning
+restrictions and private residential covenants may require compliance
+with certain aesthetic standards in matters of exterior decoration, lawn
+care, fencing, and so on.
+
+      Some housing restrictions might be aimed at producing network
+effects across neighborhoods or communities that parties acting
+independently would have difficulty producing. This rationale has been
+
+
+     AND THE TRANSFORMATION OF LOCAL GOVERNMENT 185-88 (2005) (citing and
+     discussing the findings of Glaeser & Gyourko).
+Property in Housing                                                                      43
+
+
+
+
+offered, for example, in the context of accessibility features for people
+with disabilities: a world in which all properties are accessible is a very
+different one to navigate than a world in which accessibility is hit or
+miss, and there may well be nonlinearities associated with reaching
+                                                               30
+certain thresholds of widespread accessibility.                      Other aspects of
+housing law, such as rent control, might be directed at preserving
+                                                                    31
+community networks against the threat of dispersion.
+
+C. Risk and Returns
+
+      Housing packages vary not only along the quantitative and
+qualitative dimensions just mentioned, but also in their allocation of
+risks and returns.
+
+     1. Reconfiguration and Transfer Surplus
+
+      Property in housing, like other forms of property, changes hands. If
+the transaction is an efficient one, the property is more valuable in the
+                                                   32
+new hands than it was in the old hands.                 Who will get the associated
+surplus? In the case of ordinary market transactions involving fee
+interests, negotiation will determine the division of the gains from trade,
+
+30 See David A. Weisbach, Toward a New Approach to Disability Law, 2009 U. CHI.
+   LEGAL F. 47, 98 (noting the possibility that private architectural choices regarding
+   accessibility could have network effects); Robin Paul Malloy, Inclusion by Design:
+   Accessible Housing and Mobility Impairment, 60 HASTINGS L.J. 699 (2009) (arguing
+   for “inclusive design standards” for single-family homes).
+31 See, e.g., Margaret Jane Radin, Residential Rent Control, 15 PHIL. & PUB. AFF. 350,
+   369 (1986) (discussing this rationale for rent control).
+32 On the other hand, the transfer might be inefficient, with the property ending up in the
+   hands of a lower-valuing user. This result might occur if nonmarket processes (like
+   eminent domain) were used to accomplish an involuntary shift that did not account for
+   the takee’s full value in the holding. It could also occur through market processes due
+   to factors like information asymmetries, cognitive biases, or liquidity problems. In
+   such cases, there would be no surplus from the transfer, and the question becomes one
+   of who will bear the loss.
+44                                           《中研院法學期刊》第12期（2013年3月）
+
+
+
+based on the negotiating skills and outside options of the parties.
+
+       Not all transfers involve selling an entire fee interest outright. For
+example, owners can produce property in housing by subdividing larger
+fee interests into shorter-or longer-term leases or life estates. The surplus
+thereby produced will be divided in market-mediated or legally
+prescribed ways. For example, if a leasehold is inalienable, the tenant
+will not be able to enjoy any gains that might be produced by creating
+                                                  33
+and conveying yet smaller time slices.                 Nor does the tenant typically
+have any claim on surplus produced at the end of the leasehold, when
+possession is transferred to someone else. In the case of an ordinary
+leasehold, then, the tenure form dictates the later division of surplus.
+
+       Similarly, property (currently) in housing may be aggregated to
+produce surplus. If holdout problems impede efforts at aggregation,
+                                                                            34
+eminent domain may be employed to overcome the deadlock.                         Where
+only fair market value is paid to the homeowners, the surplus from the
+aggregation (the assembly premium), goes entirely to the government or
+to the party to whom the property is reconveyed (depending on the terms
+                            35
+of the reconveyance).            Eminent domain might also be used to move
+
+
+33 The statement in the text assumes that the parties will comply with the legal
+     restriction, which may not always be the case.
+34 The Takings Clause of the U.S. Constitution limits eminent domain to takings for
+   public use, which rules out purely private transfers from A to B. Nonetheless, a site
+   can be condemned for redevelopment and transferred to another private party where
+   this will serve a public purpose. See Kelo v. City of New London, 545 U.S. 469
+   (2005).
+35 This assumes that fair market value is below the landowner’s reservation price—a
+   reasonable assumption for any landowner who does not already have the property on
+   the market. See, e.g., James E. Krier & Christopher Serkin, Public Ruses, 2004 MICH.
+   ST. L. REV. 859, 866 (noting that owners’ consumer surplus in condemnation cases
+   “has to be positive, for otherwise owners would already have sold their holdings on
+   the market.”).
+Property in Housing                                                                45
+
+
+
+
+residential property from one party to another, even where no assembly
+             36
+is required.      In this case, as with land assembly, the surplus would go
+the condemning authority or to those to whom it retransfers.
+
+     Changes in the uses to which property can be put may also produce
+surpluses, relative to the existing baseline. For example, a parcel of land
+that is zoned residential may become much more valuable if it is rezoned
+for commercial use. Because zoning is not sold on the open market, the
+division of surplus will depend on the set of monetary and nonmonetary
+expenditures necessary to bring about the zoning change, as well as on
+                                                                   37
+the incidence of any externalities generated by the change.
+
+     2. Investment Risk
+
+     In addition to serving as occasions for dividing up surplus, transfers
+serve as trigger points for realizing market gains and losses on housing
+investments. The issues are related but distinct: surplus division goes to
+the relationship between the parties’ reservation prices and their payoffs
+in the present transaction, while investment gains and losses go to the
+relationship between the sales price in the current transaction and the
+acquisition price in the previous transaction. It is entirely possible for a
+homeowner to enjoy an investment gain while garnering none of the
+                           38
+surplus from a transfer,        or to suffer an investment loss but nonetheless
+
+
+36 Again, this might be done to get around “thin market” problems and associated
+   monopoly dynamics. See Thomas W. Merrill, The Economics of Public Use, 72
+   CORNELL L. REV. 61, 76 (1986).
+37 For a discussion of how dealmaking over land use rights differs from market
+   exchange, see, e.g., BRENDAN O’FLAHERTY, CITY ECONOMICS 182-85 (2005).
+38 For example, an eminent domain proceeding might deliver none of the assembly or
+   transfer surplus to the owner of the condemned property (and indeed might not even
+   produce surplus at all), but could nonetheless return to the owner a gain on her
+   investment in the home, relative to what she paid for it.
+46                                         《中研院法學期刊》第12期（2013年3月）
+
+
+                                    39
+obtain surplus from a transfer.          Like chances at surplus, investment risk
+is almost invariably bundled with freeholds and virtually never bundled
+with leaseholds. But things need not operate this way, and there have
+been a number of proposals that would rearrange risk, whether by
+subtracting appreciation potential, downside risk, or both, from
+                           40
+homeowners’ bundles,            or adding an investment stake to the holdings
+            41
+of renters.
+
+     3. Losses Due to Appropriation and Legal Change
+
+      Property may be appropriated by governmental bodies or may lose
+value as a result of legal change. Moreover, depending on legal
+restrictions as well as enforcement levels and penalties, property may be
+                                                                                 42
+subject to appropriation or devaluation by other private actors.                      An
+
+
+39 This could occur when local economic conditions cause the home’s market value to
+   decline, but also cause the home’s value to the Sellers to decline even more (if, for
+   example, they have lost employment in the area and must move elsewhere to find a
+   job). Thus, the Buyers may currently value the home more than the Sellers do, but less
+   than the Sellers valued the home in the previous transaction under different market
+   conditions.
+40 For discussion of existing and proposed models, see generally Lee Anne Fennell,
+   Homeownership 2.0, 102 NW. U. L. REV. 1047 (2008).
+41 See Robert I. Lerman & Signe-Mary McKernan, Promoting Neighborhood
+   Improvement while Protecting Low-Income Families 2-3 (Urban Institute Opportunity
+   and Ownership Project No. 8, 2007), available at http://www.urban.org/publications/
+   311457.html (proposing financial options indexed to area rents be made available to
+   tenants); O’FLAHERTY, supra note 37, at 369 (“Tenants could get a long-run stake in
+   the community if they were required to buy some variety of security that was pegged
+   to the town’s or neighborhood’s total property value.”); see also Lee Anne Fennell &
+   Julie Roin, Controlling Residential Stakes, 77 U. CHI. L. REV. 143 (2010) (examining
+   how local governments might be involved in implementing such proposals).
+42 Consider here adverse possession, prescriptive easements, and statutory mechanisms
+   for condemning private rights of way for accessing landlocked parcels. In addition to
+   these legally approved mechanisms for transferring property, unapproved transfers
+   may occur due to the lack of enforcement. See, e.g., Harold Demsetz, The Exchange
+   and Enforcement of Property Rights, 7 J.L. & ECON. 11, 17-18 (1964).
+Property in Housing                                                                      47
+
+
+
+
+important question, which crops up with special salience in the housing
+context, is who should bear the associated risks. Where eminent domain
+is employed and compensation is full, the community as a whole covers
+                                   43
+the risk to a homeowner.                Where eminent domain systematically
+undercompensates homeowners, the risk is shared: the household bears
+the risk of losing the difference between the compensation amount and
+her reservation price, but the community insures against the taking up to
+the amount of compensation paid. Owners bear the risk of
+uncompensated appropriations and of many legal changes that reduce
+                   44
+property value,         except to the extent that private arrangements with
+                                  45
+third parties buffer this risk.
+
+
+43 Thus, as has been well noted, takings compensation operates as a form of insurance
+   against legal change. See, e.g., Lawrence Blume, Daniel L. Rubinfeld & Perry
+   Shapiro, The Taking of Land: When Should Compensation be Paid?, 99 Q. J. Econ. 71
+   (1984); William A. Fischel & Perry Shapiro, Takings, Insurance, and Michelman:
+   Comments on Economic Interpretations of “Just Compensation” Law, 17 J. LEGAL
+   STUD. 269 (1988).
+44 The law surrounding regulatory takings is a complex mix of per se and balancing
+   rules. Regulations that work even a trivial permanent physical occupation are always
+   considered compensable takings. Loretto v. Teleprompter, 458 U.S. 419 (1982).
+   Likewise, an elimination of all economically viable use that is not a function of
+   background limitations on title will always be a compensable taking. Lucas v. South
+   Carolina Coastal Council, 505 U.S. 1003 (1992). Regulations that impact property but
+   do not fit within these per se rules are subject to Penn Central’s multi-factor analysis
+   and may or may not be takings that require just compensation. Penn Central
+   Transportation Co. v. City of New York, 438 U.S. 104 (1978); see Lingle v. Chevron,
+   544 U.S. 528, 538-39 (2005) (reiterating the Penn Central factors).
+45 The possibility of private takings insurance has been discussed in the academic
+   literature. See, e.g., Steve P. Calandrillo, Eminent Domain Economics: Should “Just
+   Compensation” Be Abolished, and Would “Takings Insurance” Work Instead?, 64
+   OHIO ST. L.J. 451, 499-521 (2003); Eric Kades, Avoiding Takings “Accidents”: A
+   Torts Perspective on Takings Law, 28 U. RICH. L. REV. 1235, 1238-47, 1270-72
+   (1994); Louis Kaplow, An Economic Analysis of Legal Transitions, 99 HARV. L. REV.
+   509, 527-28, 537-49, 602-06 (1986). There is also an implicit form of insurance in
+   place where a lender (and hence the pool of other creditors) will effectively bear part
+   of the loss associated with a large drop in value.
+48                                           《中研院法學期刊》第12期（2013年3月）
+
+
+
+       The law can also heighten or reduce the risk of private
+appropriation (as through trespass and nuisance) by selecting
+enforcement levels and penalties. Owners must bear the risk of
+unremediated private appropriations, or obtain private insurance to cover
+those risks.
+
+      4. Other Dispossession Risks
+
+       The risk of dispossession looms large in housing policy. Aside from
+the forms of appropriation discussed above, households may be forced to
+move due to a foreclosure, eviction, or rent increase. The law manages
+these risks in a variety of ways, often by directly constricting the ability
+of parties to engage in certain kinds of transactions. For example, rent
+control statutes confer (with some exceptions) unlimited tenure at
+controlled rental amounts, and these protections are not waivable. Limits
+on credit or on the availability of foreclosure similarly reduce the risk of
+dispossession that households can take on. All such measures, by
+reducing the control that parties other than the occupants have over the
+length of the housing stay, help to confer a valuable option to remain—
+an option that arguably is the single most important element in
+                                                   46
+constructing what is meant by “home.”                   But like other measures that
+enrich housing packages, protections against dispossession carry
+potential downsides in the form of reduced access to housing in the first
+place.
+
+
+
+46 See Lee Anne Fennell, Possession Puzzles, in 11-1 POWELL ON REAL PROPERTY
+     WFL10-1 (Michael Allan Wolf ed., 2010) (discussing the significance of the
+     possessory option). On the importance of the right to remain, see Radin, supra note 31,
+     at 359-63, 368-70; Florence Wagman Roisman, The Right to Remain: Common Law
+     Protections for Security of Tenure: An Essay in Honor of John Otis Calmore, 86 N.C.
+     L. REV. 817, 820-29 (2008).
+Property in Housing                                                                       49
+
+
+
+
+D. Complementarities and Scale
+
+      The discussion to this point has emphasized that the home can be
+configured in many ways, and that private decisions and legal
+restrictions interact to determine the shape and contents of the
+entitlement package. Yet we do not see all possible combinations. Some
+possibilities (like a too-small rental unit or a too-risky mortgage) may be
+outlawed, while other combinations may simply fail to emerge. The
+reason we see some packages and not others may implicate
+complementarities and indivisibilities—or, to use a more evocative term,
+                47
+“lumpiness.”         For example, a half-constructed house is not half as
+                                                                                         48
+valuable as a completed house, even if it costs half as much to build.
+We might find that other physical and functional characteristics, as well
+as certain sets of rights, are strongly complementary in delivering what
+counts as a “home,” so that removing any one of them dramatically
+reduces the value of the remaining components. Indeed, it is even
+
+
+47 Lumpy goods do not deliver utility in smoothly increasing increments but rather in
+   discontinuous jumps. See, e.g., Michael Taylor & Hugh Ward, Chickens, Whales, and
+   Lumpy Goods: Alternative Models of Public-Goods Provision, 30 POL. STUD. 350
+   (1982); Russell Hardin, Group Provision of Step Goods, 21 BEHAV. SCI. 101 (1976);
+   Jean Hampton, Free-Rider Problems in the Production of Collective Goods, 3 ECON.
+   & PHIL. 245 (1987). The notion of lumpiness can be easily illustrated by a bridge over
+   a chasm. If the bridge requires ten segments to span the void, the first nine segments
+   of the bridge deliver no utility at all (except perhaps as unusual urban art). The tenth,
+   however, suddenly produces a huge step-up in utility. See, e.g., RUSSELL HARDIN,
+   COLLECTIVE ACTION 59 (1982) (citing the standard bridge example but noting its
+   limits as an illustration of a step good, given that bridges can vary widely in cost and
+   quality). For further discussion of lumpiness as it applies to property law and theory,
+   see Lee Anne Fennell, Lumpy Property, 160 U. PA. L. REV. 1955 (2012).
+48 Interestingly, this very fact may offer insight into otherwise puzzling patterns of
+   behavior, including the use of partially completed homes as savings vehicles. See
+   ABHIJIT V. BANERJEE & ESTHER DUFLO, POOR ECONOMICS: A RADICAL RETHINKING
+   OF THE WAY TO FIGHT GLOBAL POVERTY 183-84 (2011) (explaining that families in
+   many developing countries invest in home-construction efforts that extend over long
+   spans of time, and hinting at possible explanations related to precommitment).
+50                                           《中研院法學期刊》第12期（2013年3月）
+
+
+
+possible to understand certain risk and return packages in this way, if one
+supposes that homeownership necessarily requires risking property value
+losses and pursuing gains.
+
+      Ultimately, the questions are empirical ones. How does utility grow
+or shrink as elements are added to or subtracted from housing bundles?
+Do nonlinearities make additions or subtractions to the bundle useful
+only if made in certain discrete chunks? Answering these questions leads
+us to examine why it matters whether some particular element is
+included or not included within the household’s ownership envelope. In
+important ways, one’s home is constructed not only of the elements
+inside the dwelling, but of many other outside impacts and
+                 49                                                                      50
+opportunities.        Considered in this way, the home is always co-owned.
+The larger question to which this essay is addressed, then, is how to
+manage that co-ownership.
+
+      In the balance of this essay, I will focus on the boundaries of the
+household’s property interest in the home. For simplicity, I will refer to
+this interest as “the home” despite the fact that the value and the quality
+of the housing services the household receives, and the market value of
+the home itself, depend crucially on factors lying outside that property
+interest. Indeed, that is the point. We must consider the impact of
+
+
+49 See FENNELL, supra note 13.
+50 Armen Alchian makes a similar observation:
+
+       [I]f the property laws prohibit me from using things in ways that affect your
+       welfare, then in a sense you are able to exercise through the law, control over my
+       decisions as to what use will be made or of the thing of which I was called the
+       “owner.” Who shall be called the owner? Me, or the rest of society? Isn’t everyone
+       an owner in some sense or other, insofar as his interests are influenced in affecting
+       the use to some degree by laws passed (in a democracy)?
+     ARMEN A. ALCHIAN, SOME ECONOMICS OF PROPERTY 25 (1961).
+Property in Housing                                                      51
+
+
+
+
+extending or constricting the private household’s holdings on
+interactions both within the household and between the household and
+those outside of it. For example, including a bathroom within a living
+unit avoids the need to queue up for a public restroom, and thus lessens
+the pressure on those public facilities. At the same time, by making the
+living unit more expensive, households may have to include more
+members, and this may lead to other problematic internal interactions
+across other dimensions.
+
+     The next Part works through a theoretical framework for examining
+these kinds of tradeoffs.
+
+
+
+II. A Theory of the Home
+
+     If we were going to construct a theory of the home analogous to
+Coase’s theory of the firm, how would we begin? We might start by
+considering the relevant scale (in time, space, and use) of the residential
+experience, and the sorts of complementary elements required to
+produce it. We could then turn to questions of boundary-drawing,
+recognizing that an expanded envelope will tend to require more internal
+management and less external transacting, and a constricted envelope
+will tend to require less internal management and more external
+transacting. Placing additional factors within the home provides option
+value and flexibility to occupants (for example, the washing machine
+can be used at a moment’s notice), but it is also expensive, and presents
+an opportunity cost associated with untapped excess capacity.
+
+     Subpart A below begins with the question of efficient boundaries,
+drawing analogies to the work of Coase on firms and that of Ellickson
+52                                           《中研院法學期刊》第12期（2013年3月）
+
+
+
+and Demsetz on land holdings. Subpart B addresses the problem of
+excess capacity and its alternatives. Subparts C and D consider how
+interactions between privately and commonly owned elements, and
+between elements owned by different parties, respectively, can generate
+potential incentive misalignments for the law to manage.
+
+A. Efficient Boundaries
+
+       Before turning to the problem of efficient residential boundaries, it
+is helpful to briefly review some of the lessons of efficient boundaries in
+other contexts.
+
+      1. Of Firms and Farms
+
+       Ronald Coase launched an entire field of law and economics by
+                                                             51
+asking a simple question: why are there firms?                    If transactions can
+always be arranged to procure all needed goods and services in all
+necessary combinations, the practice of grouping together certain
+elements within the envelope of a firm seems puzzling. The answer
+given by Coase and elaborated by scholars thereafter is that sometimes
+the costs of internal organization and management are lower than the
+costs of external transacting. To the extent (and only to the extent) that
+this is the case, firms are efficient.
+
+       As Demsetz and Ellickson have shown, analogous points can be
+made about the size and scope of property entitlements. To simplify,
+property rights draw a circle around a resource and its owner or
+          52
+owners.        This line marks off an interior space and, at the same time,
+
+
+51 See Coase, supra note 3, at 37 (“Our task is to attempt to discover why a firm emerges
+     at all in a specialized exchange economy.”).
+52 Cf. Charles A. Reich, The New Property, 73 YALE L.J. 733, 771 (1964) (“Property
+Property in Housing                                                                     53
+
+
+
+
+creates an outward-facing shell. The concept of property is closely
+associated with this outer shell, which (for most purposes) commands
+the uninvited to keep off. Thus, Carol Rose has explained that a limited
+access commons is “property on the outside” to the extent that outsiders
+                    53
+can be excluded.         At the property line, the mode of property protection
+                                                              54
+switches from (mostly) exclusion to governance.                    Within the interior
+space, common owners (if there are more than one) must determine how
+to use the resource. If the owners invite in tenants or employees or
+guests or licensees of various sorts, they must manage uses of the
+resource by these individuals as well.
+
+      Owners face another sort of difficulty if they must interact with
+outsiders to achieve their goals for the property. Indeed, property itself
+can be understood as a technology for internalizing costs and benefits by
+(at least roughly) pairing inputs and outcomes.55 If many inputs must be
+gathered from other owners on a regular basis to carry out functions
+within the property holding, or if rights to the returns from activities on
+the property must be separately negotiated with outsiders in each
+instance, property cannot do its job effectively. Optimizing property
+holdings, then, requires that the boundary be pushed outward until the
+                                      56
+costs of dealing with outsiders            are just equal to the costs of internally
+
+
+   draws a circle around the activities of each private individual or organization. Within
+   that circle, the owner has a greater degree of freedom than without.”).
+53 See Carol M. Rose, The Several Futures of Property: Of Cyberspace and Folk Tales,
+   Emission Trades and Ecosystems, 83 MINN. L. REV. 129, 155 (1998).
+54 See, e.g., Henry E. Smith, Exclusion Versus Governance: Two Strategies for Delineating
+   Property Rights, 31 J. LEGAL STUD. S453, S456 (2002).
+55 See Demsetz, supra note 3 (explaining how property rights can internalize externalities
+   where it is worth the cost of doing so).
+56 I use the phrase “costs of dealing with outsiders” here in place of the usual term
+   “transaction costs” because the law's protection of property rights are an important
+   and costly element of this interaction with outsiders. If “transaction costs” are read
+54                                         《中研院法學期刊》第12期（2013年3月）
+
+
+                           57
+managing the holding.           Deciding where to place the boundary depends
+on the scale of the activities that an owner wishes to undertake.
+
+      An owner may not select optimal boundaries if she does not
+internalize all of the costs and benefits of boundary placement. The
+resource management that takes place on the inside of a property holding
+is largely privatized, while public enforcement plays a lead role in
+enforcing exclusion from the outer boundaries and in otherwise
+managing impacts that emanate from outside the property’s edges.
+Choosing to expand the property envelope, then, may reduce the need
+for costly interactions with outsiders, but it may also mean giving up
+what amounts to a public subsidy for those interactions. The placement
+of temporal and conceptual boundaries around property holdings
+implicates similar efficiency questions. In each case, it is necessary to
+examine not only where efficiency would mandate locating the boundary,
+but also how implicit or explicit subsidies or penalties imposed by law
+can alter the private calculus in ways that correct for or produce
+inefficiencies.
+
+      Also significant is the fact that property arrangements can rarely, if
+ever, be reduced to a single “inside” and “outside.” Packages of
+                                                                                     58
+ownership are typically nested within each other in complex ways.
+
+
+   broadly enough to include the costs of avoiding unwanted transactions, then the term
+   would be apt, but not everyone understands the term in this way. See Lee Anne
+   Fennell, The Problem of Resource Access, 126 HARV. L. REV. (forthcoming 2013)
+   (manuscript at section I.B.2).
+57 Cf. Coase, supra note 3, at 44 (explaining that “a firm will tend to expand until the
+   costs of organizing an extra transaction within the firm become equal to the costs of
+   carrying out the same transaction by means of an exchange on the open market or the
+   costs of organizing in another firm”).
+58 Cf. ELINOR OSTROM, GOVERNING THE COMMONS: THE EVOLUTION OF INSTITUTIONS
+   FOR COLLECTIVE ACTION 101-02 (1990) (discussing the “nesting” of different levels
+Property in Housing                                                                   55
+
+
+
+
+Private property rights appear within collectives. Even in a household or
+other shared living context, individuals have their own possessions and
+often their own sleeping quarters. At a larger scale, a neighborhood may
+share many elements in common, but the homes themselves are privately
+owned by individual households. Likewise, collectives appear within
+private property holdings. A privately owned home often contains
+multiple members who share certain spaces and amenities, and a private
+development or private club (or any other “limited access commons”)
+will operate like a commons on the inside even as it appears to the outer
+                                 59
+world as private property.            Many more complexly nested private-
+private and collective-collective arrangements exist.
+
+     As these examples suggest, privately and commonly held elements
+often interact within the same spatial area, and can produce incentive
+misalignments. The classic example is Garrett Hardin’s parable of
+                      60
+overgrazing herds.         What creates the incentive for herdspeople to add
+an inefficient number of cattle to a common grazing land is not simply
+the fact that the grazing land is held in common; rather it is the abutment
+                                                                                     61
+between the privately owned cattle and the commonly held land.
+Managing such abutments among ownership types is as central to
+property law as is managing the relationships between owners and
+
+
+
+   of governance).
+59 See Rose, supra note 53 and accompanying text.
+60 Garrett Hardin, The Tragedy of the Commons, 162 SCIENCE, N.S. 1243, 1244 (1968).
+61 See, e.g., Armen A. Alchian & Harold Demsetz, The Property Right Paradigm, 33 J.
+   ECON. HIST. 16, 22-23 (1973) (observing that such an “incongruity between ownership
+   opportunities” can create problematic incentives); Lee Anne Fennell, Commons,
+   Anticommons, Semicommons, in RESEARCH HANDBOOK ON THE ECONOMICS OF
+   PROPERTY LAW 35, 37-38 & n.16 (Kenneth Ayotte & Henry E. Smith eds., 2011)
+   (noting that the abutment of ownership forms generates tragedy, and citing literature
+   on this point).
+56                                         《中研院法學期刊》第12期（2013年3月）
+
+
+             62
+nonowners.
+
+     2. The Boundaries of the Home
+
+     The home can be understood as a special case of the same
+boundary-drawing exercises that have featured in the analysis of firms
+and landholdings. What should go inside and outside of the spatial,
+temporal, and conceptual package known as a home depends on the
+                                                                              63
+scale of the underlying activities—the set of “residential services”               that
+property rights deliver to households.
+
+     Spatial scale in the residential context is trickier than it appears.
+How much space a given household finds necessary for its well-being
+                                      64
+depends on the cultural context            and on which activities are contained
+within the household, as opposed to being socialized within a larger
+community or procured privately outside the home. As the “home”
+sphere shrinks—at the limit, to the size of a sleeping pod—more and
+                                                    65
+more functions are pushed to the outside.                Conversely, larger homes
+may draw within their compass amenities like swimming pools, libraries,
+
+62 When multiple activities are pursued simultaneously at different scales, the problem
+   of managing mixed property becomes quite complex, and may require measures
+   designed to counter strategic misbehavior. See generally Henry E. Smith, Semicommon
+   Property Rights and Scattering in the Open Fields, 29 J. LEGAL STUD. 131 (2000)
+   (examining these points in the context of medieval common fields that were used both
+   for private farming and for common grazing).
+63 I am analogizing here to the literature on “ecosystem services,” which recognizes
+   multiple streams of benefits that flow from ecological features.
+64 For example, the relative size and quality of one’s home may matter more to one’s
+   well-being than its absolute size and quality. See, e.g., ROBERT FRANK, LUXURY FEVER
+   10 (1999).
+65 As this example suggests, there may be nested layers of “outside,” such as the
+   common areas in hotels, condominiums, and private residential communities that are
+   shared by insiders but that exclude outsiders. Similarly, a large private home may
+   contain many spaces within it that by agreement or convention will be largely under
+   the control of a subset of the household, or even a single member.
+Property in Housing                                                                     57
+
+
+
+
+and observatories that are more commonly shared with people outside
+the household.
+
+      Consider, for example, cohousing communities in which some of
+the functions commonly associated with the individual dwelling unit—
+cooking, eating, and relaxing with friends and family—are performed in
+                                                           66
+common kitchens and socialization spaces.                       Likewise, dormitory
+rooms might be made intentionally small to encourage students to use
+common study rooms and socializing areas. Shared bathrooms located
+outside the residential unit can be found in many places as well, from
+                                                                                       67
+Beijing hutongs to the Lawn residences at the University of Virginia.
+Exterior portions of the home, from private backyards to front porches,
+bring functions within the boundary of the private owner’s holding that
+might instead be pursued in public parks or town squares.
+
+      Privately provided substitutes for certain functions of the home also
+abound. Storage spaces outside of the home, from off-site garages to safe
+deposit boxes to rented storage units, can reduce the amount of space
+within the home that is devoted to archiving and preserving one’s goods.
+Private gyms provide exercise and bathing facilities, and restaurants and
+bars offer food and beverage services outside the home. Private
+entertainments outside the home can substitute for those in the home.
+
+
+66 See Mark Fenster, Community by Covenant, Process, and Design: Cohousing and the
+   Contemporary Common Interest Community, 15 J. LAND USE & ENVTL. L. 3, 11-12
+   (1999) (describing cohousing “common houses” which typically include kitchen and
+   dining areas, workshops, meeting rooms, and playroom, and thus “provide not only
+   extra rooms that are either left out of or reduced in size in the individual dwellings,
+   but also facilities that will attract activities shared by the entire community.”).
+67 See Liu Chang, Bathrooms for Hutong Dwellers Planned, CHINA DAILY (Aug. 5,
+   2004), http://www.chinadaily.com.cn/english/doc/2004-08/05/content_359010.htm;
+   Living on the Lawn FAQs, U. VA. OFF. DEANS STUDENTS, http://www.virginia.edu/
+   deanofstudents/lawnapplication/lawnlifefaqs.html (last visited Feb. 22, 2013).
+58                                         《中研院法學期刊》第12期（2013年3月）
+
+
+
+Laundromats offer washing and drying services that households could
+instead provide through the ownership of their own machines. Hotels
+and other private sleeping spaces can be procured in the private market
+as well. That these private alternatives are rarely pursued in
+combinations that make the home superfluous over the long run does not
+undercut the essential mutability of the home’s space requirements,
+though it may shed light on what are thought to be the home’s core
+functions.
+
+      Another input to the home’s physical size is household size, which
+is itself endogenous to the joint production tasks that will be
+                                     68
+accomplished inside the home.             Because not all of these activities will
+be optimally conducted at the same scale, some judgment must be made
+about which ones are the most important (or most costly to address if
+mis-scaled). Arriving at the right answer to the “household size”
+question, for example, depends on the relative importance of those
+household products for which economies of scale are important, like
+space, heat, shelter, and meals, and those products, such as privacy,
+autonomy, and intimacy, for which there tend to be diseconomies of
+      69
+scale.     An important limitation is the fact that housing is cumbersome
+           70
+to resize.      Because it is not easy to add or subtract rooms, homes may
+
+
+68 ELLICKSON, supra note 7, at 76-84; Ellickson, supra note 7, at 287-92.
+69 See, e.g., Ellickson, supra note 7, at 260, 287-92 (“Boosting the number of household
+   occupants, for example, may reduce the per capita costs of providing goods and
+   services such as heating, informal social insurance, and food. On the other hand,
+   adding occupants may give rise to countervailing inefficiencies of scale, such as
+   greater difficulty in governing behavior within the home.”) (footnote omitted);
+   O’FLAHERTY, supra note 37, at 348-49 (comparing houses to “miniature cities” and
+   examining tradeoffs between economies of scale in housing and concerns about
+   congestion, security, coordination, and privacy).
+70 This rigidity is to some extent endogenous to existing social and legal arrangements.
+   The key to making housing more flexible over time is the ability to subdivide or
+Property in Housing                                                                      59
+
+
+
+
+often have excess capacity in order to accommodate peak loads, such as
+times when all children are at home, or when guests visit.
+
+      Similar points might be made about temporal scale. Brief slices of
+possession can produce the basic goods of shelter and sleep, as
+evidenced by the fact that transient rights in hotel rooms, shelter beds, or
+friends’ couches can serve as substitutes in this domain. But larger
+temporal scales are necessary to internalize the costs and benefits of
+running a household, raising a family, contributing to a community, or
+                                                           71
+getting a return on one’s investment in housing.                If some functions that
+homes perform require longer temporal scales than others, then keeping
+those functions within the home will push outward the time envelope.
+Optimal temporal scale will be different for different households, and for
+                                                                    72
+the same household under different circumstances.                        The enduring
+
+
+   reaggregate living spaces within the same building or on the same lot. Zoning
+   restrictions that do not permit accessory dwelling units present an impediment to this
+   approach. For some proposed approaches to housing that would incorporate multiple
+   accessory dwelling units, see Kelsey Keith, Architects Rethinking Housing for the 21st
+   Century, CURBED (Nov. 17, 2011), http://ny.curbed.com/archives/2011/11/17/architects_
+   rethinking_housing_for_the_21st_century_city.php.
+71 There may, however, be ways to produce these larger scale effects in ways other than
+   through long-term possession of the same home. For example, derivative instruments
+   indexed to housing markets could allow people to invest in housing without the
+   investment being concentrated in one’s own personal home, and such investments
+   could obviously be held for a shorter or longer time than one chooses to possess any
+   particular structure. Likewise, investment in a community could be facilitated by
+   moves within the same neighborhood, where the array of housing stock makes this
+   feasible. See JANE JACOBS, THE DEATH AND LIFE OF GREAT AMERICAN CITIES 139
+   (1961) (noting the ability of diverse city neighborhoods to accommodate changes in
+   circumstances and thus allow people to “stay put” over time).
+72 We might assume that housing utility generally grows (or shrinks) in discontinuous
+   ways as a function of time in place, as people become attached to (or tired of) a place.
+   Because a wide range of personal and often subjective factors determine the utility
+   associated with staying or leaving at a given temporal point, the occupiers of
+   residential housing are likely to place high value on having control over when to cut
+   short (or avoid having cut short) their possessory interest.
+60                                      《中研院法學期刊》第12期（2013年3月）
+
+
+
+nature of many property interests in housing can be understood as
+embodying     a    presumption     that     possession     today    is     strongly
+complementary with possession tomorrow—and next week and next
+month and next year. This saves the household from having to
+renegotiate possession every day or every week, but it also means that
+the household may end up with scraps of possessory time that it cannot
+use but that are too costly to alienate.
+
+     Complementarities also come into play where use rights and quality
+standards are involved. For example, a residential use might be
+complementary with an in-home occupation like dog training. This
+complementarity       might   conflict,      however,     with     other    highly
+complementary rights over noise levels throughout the neighborhood
+(one loud kennel could disrupt the whole neighborhood). Likewise, a
+group of well-kept homes in proximity to each other will enjoy
+reciprocal gains that would not be available to any of them if they were
+scattered among other uses.
+
+     Land use controls attempt to capture positive externalities and
+control negative externalities within neighborhoods or zones largely by
+limiting uses, but sometimes also by mandating quality (as where
+particular lawn care standards are specified within private communities).
+These restrictions allow individual households to own less land than if
+they had to buffer themselves and their neighbors from spillovers, and
+can enable the production of local public goods like a residential
+community      with    a   particular      aesthetic    ambience.    But     these
+complementarities are not the only ones that must be considered.
+Creating spatial proximity among one set of uses (such as high-end
+residential homes) may interfere with the benefits of mixing business
+and residential uses, or of achieving economic integration among
+Property in Housing                                                                   61
+
+
+
+
+residences, and thereby avoiding negative synergies associated with
+concentrated poverty.
+
+B. Excess Capacity, Sharing, and Procuring
+
+      As the discussion above suggests, boundaries around the home may
+be drawn in ways that produce greater or lesser amounts of excess
+capacity in various domains. A large private backyard might be used just
+a few hours each week, a spare bedroom might be used a dozen days a
+year, and a kitchen oven might stand idle for days or even weeks. Some
+of the most basic residential services that a home provides, such as a
+place for human beings to eat, sleep, and be sheltered from the elements,
+may go unused for stretches of time while the home’s occupants are
+away at work or on vacation. Because these forms of excess capacity fall
+within the envelope of private ownership, outsiders cannot (usually)
+access the capacity without engaging in a transaction with the owner.
+Although such transactions do occur at times, and may have become
+more prevalent (or at least more visible) as a result of new technologies,
+                                         73
+they are often prohibitively costly.
+
+      Selling off slices of excess capacity (time inside my house during
+the day, for example) may also be inconsistent to a greater or lesser
+extent with other residential services that the home provides. For
+example, even when its occupants are away, the home continues to serve
+as a staging area for the temporarily suspended residential activities,
+
+
+73 See, e.g., Penelope Green, Surfing the World Wide Couch, N.Y. TIMES (Sept. 20, 2007),
+   http://www.nytimes.com/2007/09/20/garden/20couch.html (describing a social
+   networking site that matches guests with hosts who have spare couches). For
+   discussion of how excess capacity can be addressed through sharing in some contexts,
+   see Yochai Benkler, Sharing Nicely: On Shareable Goods and the Emergence of
+   Sharing as a Modality of Economic Production, 114 YALE L.J. 273 (2004).
+62                                           《中研院法學期刊》第12期（2013年3月）
+
+
+
+allowing them to be seamlessly resumed upon the household’s return.
+The home serves as a continuous and exclusive storage and display unit
+as well, a place where sensitive items like pets, plants, artwork, and
+antiques can be maintained in appropriate conditions. It is a shell that
+can be policed from the outside in ways that make internal monitoring
+                                                                              74
+for theft and other forms of interference largely unnecessary.                     Excess
+capacity also translates into option value; a bathtub or a washing
+machine may be used relatively few hours per week, but it stands ready
+                                                                       75
+to be used whenever a household member wants to use it.
+
+       If excess household capacity is too difficult to transact over,
+whether because of the ways in which it intersects with capacity that is
+being actively used or for other reasons, it will stand idle. This result
+may be perfectly efficient; there may be no alternative arrangement that
+                                                                       76
+can deliver more value, given the costs of achieving it.                    Drawing the
+boundary lines more tightly can reduce the amount of excess capacity,
+but at the cost of producing a converse difficulty: spells of inadequate
+capacity that must be met through outsourcing transactions. For example,
+a household whose home lacks a spare bedroom may need to arrange for
+out-of-town guests to stay at a local hotel, and a household whose living
+spaces are too small for a party that it wishes to throw must secure an
+off-site party venue.
+
+       As these examples suggest, demand for capacity is not exogenously
+given but may instead depend on capacity levels themselves. Thus, a
+
+74 See Ellickson, supra note 3, at 1327-28.
+75 I thank Scott Baker for discussions on this point.
+76 Cf. Peter Iliev & Ivo Welch, A Model of Operational Slack: The Short-Run, Medium-
+     Run, and Long-Run Consequences of Limited Attention Capacity, 29 J.L. ECON. &
+     ORG. 2, 3 (2013) (discussing instances in which periods of idleness can be an “optimal
+     design outcome” given the need to respond quickly during peak activity periods).
+Property in Housing                                                                    63
+
+
+
+
+family whose home cannot hold a large party may decide not to hold the
+party at all, and a household without a spare bedroom may find that out-
+of-town guests express less interest in visiting. Similarly, the family that
+gives up a backyard may lose its interest in spending time outdoors when
+this will require a trek to the local park. In some instances, the home’s
+excess capacity can be viewed as a form of precommitment to desired
+                                                                       77
+expenditures that will be too painful to bear at the margin.                The ability
+to precommit to large blocks of service outside of the home (gym
+memberships, for example) can serve a similar precommitment
+                                                  78
+function—or can at least attempt to do so.             In other cases it may simply
+be efficient to excise certain functions from the home and not to replace
+them outside the home, if the loss is less than the cost of including them
+or procuring them separately.
+
+      Sharing arrangements can attempt to address the twin problems of
+excess capacity and inadequate capacity by expanding the pool of users
+who are entitled to access the resource. Sharing commonly occurs
+among household members, and expanding the household increases
+opportunities for sharing. Other alternatives would include easing access
+                                                                       79
+for favored guests to share goods within private homes,                     or forming
+
+
+77 Sometimes this difficulty can surmounted through clever forms of mental accounting.
+   See Drazen Prelec & George Loewenstein, The Red and the Black: Mental
+   Accounting of Savings and Debt, 17 MARKETING SCI. 4, 20 (1998) (relating the story
+   of a couple that chose a less expensive apartment over one with closer access to good
+   restaurants on the theory that the lower rent would more than pay for taxi rides to
+   good restaurants, and who then set aside earmarked money for this purpose to ensure
+   that the marginal cost of transportation would not derail their plans).
+78 Such efforts may not turn out to be as effective as envisioned. See Stefano DellaVigna
+   & Ulrike Malmendier, Paying Not to Go to the Gym, 96 AM. ECON. REV. 694 (2006)
+   (finding that consumers who selected a monthly gym membership paid significantly
+   more per visit than they would have paid on a pay-per-visit basis).
+79 New technologies may make this more feasible, although it is unclear how far the
+64                                           《中研院法學期刊》第12期（2013年3月）
+
+
+
+larger clubs (such as private residential communities) for sharing goods
+outside the home. These arrangements cut down on excess capacity and
+on the need for formal transactions to transfer resources, but can
+introduce incentive difficulties of their own.
+
+C. Abutments between Privately and Commonly Owned Elements
+
+      For the reasons just suggested, a smaller compass for the individual
+home may correspond to an enlarged common or public sphere in which
+                                                                               80
+access to resources is shared with those outside the household.                     This is
+because many of the substitutes for home-produced services like
+recreation exhibit jointness of supply: they are too large for any one
+person to procure on her own. Thus, households may avoid the costs
+associated with excess capacity in backyard space by forgoing the yard
+and spending time at a public park, where the shared atmosphere is
+                                                                         81
+governed by park rules rather than exclusionary rights.                       Even when
+goods like recreation or access to open space are procured privately in
+settings (like private clubs) from which outsiders can be excluded, the
+access must be allocated among the insiders in some fashion. It is
+
+
+
+   approach can be pushed. For instance, CLOO is a smartphone app that helps a user
+   find a restroom in a private dwelling that she can use for a small fee, following a real-
+   time request that can be accepted or rejected. See Get a CLOO? App Will Rent Your
+   Bathroom to Strangers, L.A. TIMES (Sept. 13, 2011), http://latimesblogs.latimes.com/
+   technology/2011/09/cloo-app-bathroom.html.
+80 Conversely, a larger compass for the individual home may mean less sharing with
+   outsiders, but could potentially mean more sharing with other household members
+   within the home (to the extent household size correlates positively with the size and
+   scope of the home). Even if more household members are not added when the home
+   takes on more functions, there may be a greater need for household employees or for
+   other parties who enter the home to keep all of the amenities and facilities functional.
+   This introduces internal management issues analogous to those found in the firm
+   setting.
+81 See Smith, supra note 54 (discussing exclusion and governance strategies).
+Property in Housing                                                              65
+
+
+
+
+certainly possible to propertize certain aspects of these shared goods, but
+important aspects of these goods will usually remain unpriced, and
+hence in a commons (as to the insiders). For example, campers in a state
+park may obtain possessory rights to a particular campsite while sharing
+access to hiking trails and bodies of water.
+
+     This abutment between privately owned and commonly owned
+elements can produce misaligned incentives, as Hardin’s herdsman story
+illustrates. Yet it is impossible to avoid drawing the line between private
+and common elements somewhere. Even households that bring the
+widest imaginable set of functions within the envelope of the home still
+use roads, other sorts of infrastructure, and larger environments in
+common with others. Thus, a common resource (such as a road) may be
+overused as an input into a private consumption stream (such as that
+provided by a secluded homesite), just as a common field may be
+overused as an input into a privately owned cow.
+
+     There are a variety of ways to address such incentive misalignments.
+For example, instead of leaving the siting choice for the home inside the
+owners’ package of rights, it might be subjected to a public
+                               82
+decisonmaking process.              Alternatively, fees might be charged to
+homeowners that account for the costs associated with their siting
+decisions, or homeowners might be required to draw their home’s
+boundaries even more broadly so as to privately provide the last stretch
+                         83
+of road to the home.          Overdrawing the spatial commons (problematic,
+because it raises the costs of achieving agglomeration benefits) has
+
+
+82 Zoning often accomplishes something like this, by limiting where development is
+   permitted.
+83 Impact fees and requirements that new development occur within private
+   neighborhoods that maintain their own roads illustrate these possibilities.
+66                                           《中研院法學期刊》第12期（2013年3月）
+
+
+
+generally been associated with “sprawl” and hence with a particular
+aesthetic of residential life. But the basic problem of private impacts on
+common elements is not unique to any particular vision of housing or
+community. It would also be possible for property owners to demand
+more density than is socially efficient if the costs of managing it fell on
+         84
+others.
+
+       Another way to frame the problem is to recognize that the package
+of residential services that households consume is made up of elements
+that are most efficiently produced at different scales and under different
+ownership structures. Inputs to residential enjoyment include not only
+physical shelter but also relatively unpolluted air and workable
+infrastructure connecting homes to jobs and other points of interest—
+elements that cannot be provided by individual households on their own.
+A useful theory of the home must account for these multiple efficient
+scales. Households must make, buy, or otherwise acquire (often through
+the political process) all of the strands that make up their residential
+experience. Decisions about how to configure the housing bundle is
+interdependent with the decisions of other households on these matters,
+and on the legal rules that manage the abutments between different
+entitlement holders and different ownership types.
+
+
+
+
+84 There may also be a temporal analog to sprawl – the rigidity in physical and social
+     arrangements that results from granting limitless possessory rights to owners. See T.
+     Nicolaus Tideman, Integrating Land-Value Taxation with the Internalization of
+     Spatial Externalities, 66 LAND ECON. 341, 347 (1990) (noting, and suggesting
+     charging for, “the diminution of social flexibility that results from putting immobile
+     improvements on land”). Although eminent domain can be used to overcome an
+     owner’s veto power, the costs (political and otherwise) of doing so is high.
+Property in Housing                                                                67
+
+
+
+
+D. Misalignments of Exposure and Control
+
+     Although much of what I have said to this point has focused on
+questions of physical scale, the rules that govern risks and returns also
+play a central role in managing ownership abutments of other types. To
+take the simplest example, the landlord-tenant relationship divides the
+property entitlement in a way that leaves risks and returns with the
+landlord, while granting the tenant a consumption stream associated with
+a particular term of occupancy. As scholars have noted, there is moral
+hazard on both sides of this relationship, as the landlord will be willing
+to sacrifice aspects of the tenant’s consumption stream for higher returns,
+while the tenant will seek to maximize her own consumption stream
+even when it comes at the expense of the landlord’s investment
+         85
+interest.     Landlord-tenant law, combined with a set of private practices
+(like credit screening and security deposits), tries to manage this
+abutment       in     ownership    interests,   but    does     so       imperfectly.
+Homeownership resolves that source of conflict by consolidating in the
+household both the home’s consumption stream and its investment
+returns. But it introduces another seam in the ownership structure that
+produces new incentive misalignments.
+
+     The homeowner’s residential experience and investment returns are
+both heavily influenced by factors lying outside of her individual
+                         86
+household’s control.          These include conditions in the surrounding
+block, neighborhood, community, and in locations further afield that
+affect employment, entertainment, and other opportunities. The package
+
+
+
+85 See Derek K.Y. Chau, Michael Firth & Bin Srinidhi, Leases with Purchase Options
+   and Double Moral Hazard, 33 J. BUS. FIN. & ACCT. 1390, 1391 (2006).
+86 See generally FENNELL, supra note 13.
+68                                          《中研院法學期刊》第12期（2013年3月）
+
+
+
+of local goods and services that the homeowner receives along with her
+residence, which are in turn influenced by the behaviors and preferences
+of her co-consumers, will also factor heavily into the value of the
+residential services the home provides. The scale at which these effects
+are produced is much larger than the maximum efficient scale for a
+household’s residential activities, and so it is typically managed by a
+collective through some type of governance arrangement, public or
+private. In an important sense, then, the neighborhood is a
+“semicommons” arrangement in which activities involving the same
+resource are undertaken at different scales and under different ownership
+          87
+regimes.       Similarly mixed regimes may exist within the household. For
+example, students sharing a group house might occupy individual rooms
+for purposes of sleep and study on school nights, while throwing open
+the entire house for use as a party site on weekends—but not without
+                            88
+potential moral hazard.
+
+      These abutments between differently scaled activities are addressed
+in various ways. Within the household, informal rules backed by norms
+may suffice. At the neighborhood level, other forms of governance
+
+
+
+87 See Smith, supra note 62, at 132 (defining the semicommons as a property regime in
+   which “both common and private uses are important and impact significantly on each
+   other.”).
+88 The group house example given in the text replicates in some respects the medieval
+   common field arrangement in which owners privately owned and cultivated strips of
+   farmland but threw the entire area open for grazing during certain seasons. In the
+   medieval common field context, thin, scattered strips may have helped to “strategy
+   proof” the arrangement. See Smith, supra note 62. In a group house setting, stable
+   private rights over relatively large chunks of space (rooms) could invite the offloading
+   of costs onto others. A system of rotation for private bedrooms or perhaps a strategic
+   dispersal of prized personal possessions throughout the house prior to each party
+   could help to approximate the strategic advantages of the scattering arrangement in
+   common fields. I thank my former Property students for discussions on this point.
+Property in Housing                                                                   69
+
+
+
+
+emerge. Zoning, coupled with property taxation, forces minimum
+contributions from householders to support local public goods and
+services. Not only can zoning ensure that households contribute a
+                              89
+minimum share of taxes,            the restraints on density and intensity of use
+force residents to contribute in kind to particular local public goods, like
+a quiet, spacious, residential neighborhood. These monetary and in-kind
+contributions may also be managed through private common interest
+community structures, such as homeowners associations.
+
+      These land use solutions effectively move the circle of homeowner
+control outward; in idealized form, they would produce the equivalent of
+a single-owner structure for the commonly held elements, much as oil
+                   90
+unitization does.       The fact that homeowners have such a large stake in
+their own investment returns makes them highly motivated and vocal
+                                                       91
+participants in the local political process.                 These high levels of
+homeowner involvement in issues that impact property values has been
+                                                            92
+the cause of both celebration and consternation.                 On the positive side,
+homeowners with a stake in the community might be expected to do all
+they can to make the community as desirable as possible—taking into
+                                                                   93
+account both consumption and investment returns.                        Although there
+may be some misalignments even here (for example, between short-
+
+
+89 See Bruce W. Hamilton, Zoning and Property Taxation in a System of Local
+   Governments, 12 URB. STUD. 205 (1975).
+90 Unitization allows a group of landowners to operate as a single unit in exploiting an
+   oil or gas reserve and dividing up the proceeds. See generally Gary D. Libecap &
+   James L. Smith, The Economic Evolution of Petroleum Property Rights in the United
+   States, 31 J. LEGAL STUD. S589 (2002).
+91 See generally WILLIAM A. FISCHEL, THE HOMEVOTER HYPOTHESIS (2001).
+92 For discussion, see generally Lee Anne Fennell, Homes Rule, 112 YALE L.J. 617
+   (2002) (reviewing WILLIAM A. FISCHEL, THE HOMEVOTER HYPOTHESIS (2001)).
+93 See, e.g., FISCHEL, supra note 91, at 150; Jan K. Brueckner & Man-Soo Joo, Voting
+   with Capitalization, 21 REGIONAL SCI. & URB. ECON. 453 (1991).
+70                                          《中研院法學期刊》第12期（2013年3月）
+
+
+
+stayers who care more about maximizing investment returns and long-
+timers who would gladly trade some portion of home value to preserve
+certain aspects of the community’s consumption experience that they
+                      94
+uniquely value),           most homeowners can get behind policies that will
+enhance property values.
+
+       There are two problems, however. First, to the extent that
+homeowners as a group are highly risk averse, they may systematically
+                                                                                  95
+avoid policies that have positive expected value but high variance.
+The status quo may be suboptimally sticky as a result. Second, strong
+forms of neighborhood and community control introduce another
+potentially problematic abutment: between the factors contained within
+the local circle of control and those that influence many such circles of
+control simultaneously. From landfill siting to spatial layout to
+affordable housing, the impacts of local decisionmaking can have
+repercussions that extend beyond the boundaries of the local
+                96
+jurisdiction.        Here, even risk neutral homeowners would rationally
+choose to offload costs on other communities whenever possible.
+Reducing the stake that individual homeowners hold in the portion of
+investment returns attributable to offsite factors would address both
+factors, although not without introducing another player in the
+ownership structure who will have her own incentives: the investor who
+                                                         97
+would take on the risk shed by the homeowner.
+
+       The problems are complex ones that have been explored in greater
+
+
+94 See, e.g., FISCHEL, supra note 91, at 150; Brueckner & Joo, supra note 93, at 464.
+95 See FISCHEL, supra note 91, at 9-11.
+96 See Richard Briffault, The Local Government Boundary Problem in Metropolitan
+     Areas, 48 STAN. L. REV. 1115, 1132-44, 1149-50 (1996).
+97 See, e.g., Fennell, supra note 40, at 1098-1109.
+Property in Housing                                                       71
+
+
+
+
+depth elsewhere. What the analysis here adds is a sensitivity to the
+places where one form of ownership meets another, or one entitlement
+holder’s interests run into those of other entitlement holders. These
+inevitable abutments can never be eliminated, but only managed. Doing
+so intelligently requires a great deal of careful thought about how
+residential life might be organized and how its component parts might be
+produced and distributed.
+
+
+
+Conclusion
+
+     For all the attention that housing policy and the law and economics
+of property have separately received, a gulf has remained between them.
+In this essay, I have tried to make a start at bringing these areas together
+by thinking in an open-ended way about how property rights in housing
+might be configured. Applying boundary placement principles
+developed in other contexts can help to determine the efficient scope of
+the home. As a prerequisite, however, we must determine what jobs we
+want housing to do for us. Ultimately, answers to the question “how will
+housing be configured?” neither emanate entirely from top-down
+processes, nor grow entirely from the bottom up, but rather depend on a
+complex interaction between law, markets, and behavior. Although this
+essay has only scratched the surface in thinking about these interactions,
+I hope that it will prompt new thinking along these lines.
+72                                《中研院法學期刊》第12期（2013年3月）
+
+
+
+
+                            References
+
+Alchian, Armen A. 1961. Some Economics of Property. Santa Monica,
+     CA: The RAND Corporation.
+Alchian, Armen A., and Harold Demsetz. 1973. The Property Right
+     Paradigm. Journal of Economic History 33:16-27.
+Alexander, Gregory S. 2009. The Social-Obligation Norm in American
+     Property Law. Cornell Law Review 94:745-820.
+Banerjee, Abhijit V., and Esther Duflo. 2011. Poor Economics: A
+     Radical Rethinking of the Way to Fight Global Poverty. New York,
+     NY: Public Affairs.
+Banner, Stuart. 2008. Who Owns the Sky? The Struggle to Control
+     Airspace from the Wright Brothers On. Cambridge, Mass.: Harvard
+     University Press.
+Barros, Benjamin D. 2006. Home as a Legal Concept. Santa Clara Law
+     Review 46:255-306.
+Benkler, Yochai. 2004. Sharing Nicely: On Shareable Goods and the
+     Emergence of Sharing as a Modality of Economic Production. Yale
+     Law Journal 114:273-358.
+Blume, Lawrence, Daniel L. Rubinfeld, and Perry Shapiro. 1984. The
+     Taking of Land: When Should Compensation Be Paid? Quarterly
+     Journal of Economics 99:71-92.
+Briffault, Richard. 1996. The Local Government Boundary Problem in
+     Metropolitan Areas. Stanford Law Review 48:1115-1171.
+Brueckner, Jan K., and Man-Soo Joo. 1991. Voting with Capitalization.
+     Regional Science and Urban Economics 21:453-467.
+Calandrillo, Steve P. 2003. Eminent Domain Economics: Should “Just
+     Compensation” Be Abolished, and Would “Takings Insurance”
+Property in Housing                                                   73
+
+
+
+
+     Work Instead? Ohio State Law Journal 64:451-530.
+Chau, Derek K. Y., Michael Firth, and Bin Srinidhi. 2006. Leases with
+     Purchase Options and Double Moral Hazard. Journal of Business
+     Finance and Accounting 33:1390-1401.
+Coase, Ronald H. 1937. The Nature of the Firm. Economica, n.s. 4:386-
+     405. [Reprinted in Coase, Ronald H. 1988. The Firm, the Market,
+     and the Law. Pp. 33-55. Chicago, IL: University of Chicago Press.]
+Colwell, Peter. 1997. Tender Mercies: Efficient and Equitable Land Use
+     Change. Real Estate Economics 25:525-537.
+Davidson, Nestor. 2008. Standardization and Pluralism in Property Law.
+     Vanderbilt Law Review 61:1597-1663.
+DellaVigna, Stefano, and Ulrike Malmendier. 2006. Paying Not to Go to
+     the Gym. American Economic Review 96:694-719.
+Demsetz, Harold. 1964. The Exchange and Enforcement of Property
+     Rights. Journal of Law and Economics 7:11-26.
+─. 1967. Toward a Theory of Property Rights. The American
+     Economic Review 57:347-359.
+Ellickson, Robert C. 1993. Property in Land. Yale Law Journal
+     102:1315-1400.
+─. 2006. Unpacking the Household: Informal Property Rights
+     Around the Hearth. Yale Law Journal 116:226-328.
+─. 2008. The Household: Informal Order Around the Hearth.
+     Princeton: Princeton University Press.
+Ellickson, Robert C., and Vicki L. Been. 2005. Land Use Controls:
+     Cases and Materials. 3d ed. New York, NY: Aspen.
+Fennell, Lee Anne. 2002. Homes Rule. Yale Law Journal 112:617-664.
+─. 2008. Homeownership 2.0. Northwestern University Law
+     Review 102:1047-1118.
+─. 2009. The Unbounded Home: Property Values Beyond
+74                                 《中研院法學期刊》第12期（2013年3月）
+
+
+
+     Property Lines. New Haven, CT: Yale University Press.
+─. 2010. Possession Puzzles. Pp. WFL10-1–WFL10-20 in vol. 11-
+     1 of Powell on Real Property, edited by Michael Allan Wolf. New
+     York, NY: Matthew Bender.
+─. 2011. Commons, Anticommons, Semicommons. Pp. 35-56 in
+     Research Handbook on the Economics of Property Law, edited by
+     Kenneth Ayotte and Henry E. Smith. Cheltenham: Edward Elgar
+     Publishing.
+─. 2012. Lumpy Property. University of Pennsylvania Law Review
+     160:1955-1993.
+─. Forthcoming. The Problem of Resource Access. Harvard Law
+     Review 126.
+Fennell, Lee Anne, and Julie Roin. 2010. Controlling Residential Stakes.
+     University of Chicago Law Review 77:143-176.
+Fenster, Mark. 1999. Community by Covenant, Process, and Design:
+     Cohousing and the Contemporary Common Interest Community.
+     Journal of Land Use and Environmental Law 15:3-54.
+Fischel, Willam A. 2001. The Homevoter Hypothesis. Cambridge, MA:
+     Harvard University Press.
+Fischel, William A., and Perry Shapiro. 1988. Takings, Insurance, and
+     Michelman: Comments on Economic Interpretations of “Just
+     Compensation” Law. Journal of Legal Studies 17:269-293.
+Fox, Lorna. 2007. Conceptualizing Home: Theories, Laws and Policies.
+     Oxford: Hart Publishing.
+Frank, Robert. 1999. Luxury Fever. New York, NY: Free Press.
+Glaeser, Edward, and Joseph Gyourko. 2002. Zoning’s Steep Price.
+     Regulation 25(3):24-30.
+Hamilton, Bruce W. 1975. Zoning and Property Taxation in a System of
+     Local Governments. Urban Studies 12:205-211.
+Property in Housing                                                    75
+
+
+
+
+Hampton, Jean. 1987. Free-Rider Problems in the Production of
+     Collective Goods. Economics and Philosophy 3:245-273.
+Hansmann, Henry, and Reinier Kraakman. 2002. Property, Contract, and
+     Verification: The Numerus Clausus Problem and the Divisibility of
+     Rights. Journal of Legal Studies 31:373-420.
+Hardin, Garrett. 1968. The Tragedy of the Commons. Science, n.s.
+     162:1243-1248.
+Hardin, Russell. 1976. Group Provision of Step Goods. Behavioral
+     Science 21:101-106.
+─. 1982. Collective Action. Baltimore, MD: Published for
+     Resources for the Future by the Johns Hopkins University Press.
+Harris, J. W. 1996. Property and Justice. Oxford; New York, NY:
+     Clarendon Press.
+Heller, Michael A. 1999. The Boundaries of Private Property. Yale Law
+     Journal 108:1163-1223.
+Iglesias, Tim. 2007. Our Pluralist Housing Ethics and the Struggle for
+     Affordability. Wake Forest Law Review 42:511-593.
+Iliev, Peter, and Ivo Welch. 2013. A Model of Operational Slack: The
+     Short-Run, Medium-Run, and Long-Run Consequences of Limited
+     Attention Capacity. Journal of Law, Economics and Organization
+     29(1):2-34.
+Jacobs, Jane. 1961. The Death and Life of Great American Cities. New
+     York, NY: Random House.
+Kades, Eric. 1994. Avoiding Takings “Accidents”: A Torts Perspective
+     on Takings Law. University of Richmond Law Review 28:1235-
+     1277.
+Kaplow, Louis. 1986. An Economic Analysis of Legal Transitions.
+     Harvard Law Review 99:509-617.
+Krier, James E., and Christopher Serkin. 2004. Public Ruses. Michigan
+76                                     《中研院法學期刊》第12期（2013年3月）
+
+
+
+     State Law Review 2004:859-875.
+Lerman, Robert I., and Signe-Mary McKernan. 2007. Promoting
+     Neighborhood        Improvement    while   Protecting   Low-Income
+     Families. Urban Institute Opportunity and Ownership Project No. 8.
+     Available at http://www.urban.org/publications/311457.html.
+Libecap, Gary D., and Dean Lueck. 2011. Land Demarcation Systems.
+     Pp. 257-295 in Research Handbook on the Economics of Property
+     Law, edited by Kenneth Ayotte and Henry E. Smith. Cheltenham:
+     Edward Elgar Publishing.
+Libecap, Gary D., and James L. Smith. 2002. The Economic Evolution
+     of Petroleum Property Rights in the United States. Journal of Legal
+     Studies 31: S589-S608.
+Malloy, Robin Paul. 2009. Inclusion by Design: Accessible Housing and
+     Mobility Impairment. Hastings Law Journal 60:699-748.
+Merrill, Thomas W. 1986. The Economics of Public Use. Cornell Law
+     Review 72:61-116.
+Merrill, Thomas W., and Henry E. Smith. 2000. Optimal Standardization
+     in the Law of Property: The Numerus Clausus Principle. Yale Law
+     Journal 110:1-70.
+Nelson, Robert H. 2005. Private Neighborhoods and the Transformation
+     of Local Government. Washington, DC: Urban Institute Press.
+O’Flaherty, Brendan. 2005. City Economics. Cambridge, Mass.: Harvard
+     University Press.
+Ostrom, Elinor. 1990. Governing the Commons: The Evolution of
+     Institutions for Collective Action. Cambridge: Cambridge University
+     Press.
+Pindell, Ngai. 2009. Home Sweet Home? The Efficacy of Rental
+     Restrictions to Promote Neighborhood Stability. Saint Louis
+     University Public Law Review 29:41-84.
+Property in Housing                                                  77
+
+
+
+
+Prelec, Drazen, and George Loewenstein. 1998. The Red and the Black:
+     Mental Accounting of Savings and Debt. Marketing Science 17:4-
+     28.
+Radin, Margaret Jane. 1986. Residential Rent Control. Philosophy and
+     Public Affairs 15:350-380.
+Rawling, Zachary M. 2009. Reevaluating Leasing Restrictions in
+     Community Associations: Rejecting Reasonableness in Favor of
+     Consent. Journal of Law, Economics and Policy 5:223-258.
+Reich, Charles A. 1964. The New Property. Yale Law Journal 73:733-
+     787.
+Roisman, Florence Wagman. 2008. The Right to Remain: Common Law
+     Protections for Security of Tenure: An Essay in Honor of John Otis
+     Calmore. North Carolina Law Review 86:817-857.
+Rose, Carol M. 1998. The Several Futures of Property: Of Cyberspace
+     and Folk Tales, Emission Trades and Ecosystems. Minnesota Law
+     Review 83:129-182.
+Smith, Henry E. 2000. Semicommon Property Rights and Scattering in
+     the Open Fields. Journal of Legal Studies 29:131-169.
+─. 2002. Exclusion versus Governance: Two Strategies for
+     Delineating Property Rights. Journal of Legal Studies 31:S453-
+     S487.
+─. 2004. Exclusion and Property Rules in the Law of Nuisance.
+     Virginia Law Review 90:965-1049.
+─. 2004. Property and Property Rules. New York University Law
+     Review 79:1719-1798.
+Taylor, Michael, and Hugh Ward. 1982. Chickens, Whales, and Lumpy
+     Goods: Alternative Models of Public-Goods Provision. Political
+     Studies 30:350-370.
+Tideman, Nicolaus. 1990. Integrating Land-Value Taxation with the
+78                                《中研院法學期刊》第12期（2013年3月）
+
+
+
+     Internalization of Spatial Externalities. Land Economics 66:341-
+     355.
+Tiebout, Charles. 1956. A Pure Theory of Local Expenditures. Journal of
+     Political Economy 64:416-424.
+Weisbach, David A. 2009. Toward a New Approach to Disability Law.
+     University of Chicago Legal Forum 2009:47-102.
+

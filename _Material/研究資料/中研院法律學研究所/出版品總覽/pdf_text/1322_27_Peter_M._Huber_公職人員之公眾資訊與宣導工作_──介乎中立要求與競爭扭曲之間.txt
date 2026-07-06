@@ -1,0 +1,744 @@
+                                                                           *
+     公職人員之公眾資訊與宣導工作
+        ──介乎中立要求與競爭扭曲之間
+                          Peter M. Huber 著**
+                            劉淑範 翻譯***
+
+
+
+
+壹、從Schmidt政府之公共活動到「對德國另類選擇
+  黨出示紅牌」
+     邇近，聯邦憲法法院再度處理聯邦總統 1 及聯邦部長 2 等公職人員針
+對非同屬或親近政黨及其成員與支持者所為之貶抑言論。聯邦總統
+Gauck曾於一個面對中學生之活動中提及，吾等雖能禁止德國國家民主
+黨（Nationaldemokratische Partei Deutschlands, NPD），「然而，瘋子、
+意識型態者及狂熱份子……卻不會就此即從這世界中被剔除。 3」第二庭
+對偌此言論未多加訾議，正如聯邦家庭與婦女老幼事務部長Schwesig接
+受圖林根邦日報（Thüringische Landeszeitung）訪談一案亦然，該部長值
+圖林根邦議會2014年大選前夕藉此預告，「將竭盡全力，俾使九月之選
+舉根本不致演成這般地步。首項目標務必是，德國國家民主黨不會進入
+邦議會。 4」與此相悖者，乃聯邦教育與研究部長Wanka在該部網頁上以
+
+
+*
+    「2019年中央研究院法律學研究所大師講座」演講，2019年9月10日。
+**
+    德國聯邦憲法法院法官暨慕尼黑大學法學院公法學教授。
+***
+    中央研究院法律學研究所兼任研究員。
+1
+    BVerfGE 136, 323 ff. — Äußerungsrechte Bundespräsident, Spinner.
+2
+    BVerfGE 138, 102 ff. — Schwesig; BVerfG, Urteil vom 27. Februar 2018 — 2 BvE
+    1/16 —, juris — Wanka.
+3
+    BVerfGE 136, 323 (324 Rn. 2) — Äußerungsrechte Bundespräsident, Spinner.
+4
+    BVerfGE 138, 102 (103 Rn. 3) — Schwesig.
+穩定網址： http://publication.iias.sinica.edu.tw/62718012.pdf；
+             http://publication.iias.sinica.edu.tw/62618012.pdf（German version）。
+    研之得法：中央研究院法律學研究所成立十週年文集
+230 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+2015年11月4日第151/2015號新聞稿，對德國另類選擇黨（Alternative für
+Deutschland, AfD）出示紅牌，並藉此企圖阻止由該黨籌劃對抗聯邦總理
+示威遊行之潛在參與者一案，聯邦憲法法院則是將此「紅牌」評斷為對
+《基本法》第21條第1項第1句所定政黨機會平等權利之侵害 5。
+      前揭各項判決係處於可回溯至1977年3月2日一個較長之傳統路線，
+當時第二庭批駁Schmidt（施密特）政府大規模之公共活動，因其在1976
+年 10月 3 日 聯 邦 眾 議 院 大 選 前 夕 ， 於 各 家 日 報 及 雜 誌 投 置 大 版 面 之 廣
+告，且以財政預算支應之 6。若干邦憲法法院亦須面對可資比擬之議題。
+基本上，彼等係依循卡爾斯魯厄（Karlsruhe，譯按：聯邦憲法法院所在
+地）之裁判 7。
+
+
+貳、對司法裁判之批判
+      司法裁判引發極大之迴響，並招致相當之批判 8。批判者認為系爭之
+
+
+5
+    BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris — Wanka.
+6
+    BVerfGE 44, 125 ff. — Öffentlichkeitskampagne der Bundesregierung.
+7
+    Berlin: Verfassungsgerichtshof des Landes Berlin, Urteil vom 04. Juli 2018 — 79/17 —,
+    juris; Rheinland-Pfalz: VerfGH RP, Beschluss vom 21. Mai 2014 — VGH A 39/14 —,
+    juris, Rn. 26 m.w.N.; Saarland: SaarlVerfGH, Urteil vom 08. Juli 2014 — Lv 5/14 —,
+    juris.; Thüringen: ThürVerfGH, ThürVBl. 2016, 273 ff.; ThürVBl. 2016, 281 ff.
+8
+    H. Butzer, Im Streit: Die Äußerungsbefugnisse des Bundespräsidenten, ZG 30 (2015), S. 97
+    ff.; Chr. Hillgruber, Zur Äußerungsbefugnis des Bundespräsidenten in Bezug auf politische
+    Parteien, JA 2014, S. 796 ff.; J. Krüper/H. Kühr, Der Lebenszyklus politischer Parteien —
+    Eine „evolutionäre“ Einführung in das Parteienrecht, ZJS 2014, S. 477 ff.; R. Chr. van
+    Ooyen, Kompetenzüberschreitung des Bundespräsidenten?, Recht u Politik 2014, S. 127 ff.;
+    M. Sachs, Staatsorganisationsrecht: Redefreiheit des Bundes-präsidenten, JuS 2014, S. 956
+    f.; A. Bäcker, Ein Lehrstück bundespräsidialer Sachlichkeit — Zu den Grenzen der
+    Redefreiheit des Bundespräsidenten, MIP 2015, S. 151 ff.; dies. MIP 2015, S. 154 ff.; Chr.
+    Gusy, Neutralität staatlicher Öffentlichkeitsarbeit — Voraussetzungen und Grenzen, NVwZ
+    2015, S. 700 ff.; St. Muckel, Neutralitätsgebot für Äußerungen von Mitgliedern der
+    Bundesregierung („Fall Schwesig“), JA 2015, S. 715 ff.; M. Penz, Äußerungsbefugnisse von
+    Regierungsmitgliedern — Anmerkungen zum Urteil des Thüringer Verfassungsgerichtshofs vom
+    8. Juni 2016 — VerfGH 25/15, ThürVBl. 2016, S. 265 ff.; M. Putzer, Verfassungsrechtliche
+    Grenzen der Äußerungsbefugnissestaatlicher Organe und Amtsträger, DÖV 2015, S. 417 ff.;
+    St. Tanneberger/H. Nemeczek, Neutralitätsgebot für Mitglieder der Bundesregierung,
+    NVwZ 2015, S. 209 ff.; M. Payandeh, Die Neutralitätspflicht staatlicher Amtsträger im
+                                                    公職人員之公眾資訊與宣導工作                          231
+
+
+層峰政治人物並非分裂之人格，而是公職人員與政黨政治人物兩者兼
+備，故指摘司法裁判欠缺實用性並漠視生活現實。進而，對國家公職人
+員要求中立之主張，係立基於憲法上令人質疑之一項前提，抑且，──
+對此等批判應可作如是理解──偌此主張乃牴觸《基本法》第20條第1項
+之民主原則。復又，公職人員與政治競爭者進行批判性辯論時所為之言
+論，毋寧是民主正當化下國家功能主體原始政治權限之展現，故而原則
+上係屬許可 9。
+     上述批判係固著於憲法上被誤解為所不蘊含之中立要求，並且忽
+視，此處系爭之行為，不涉乎自身確信居後之道德義務，或亦無關乎脫
+離現實之「腦中一把剪刀」（譯按：「自我審查」之意），藉此擬依化
+身博士／變身怪醫之行徑（Dr. Jekyll & Mr. Hyde），將每位公職人員打
+造成為分裂之人格，實則，此等行為乃涉乎競爭政黨彼此間之公平及機
+會平等。
+
+
+參、公眾資訊與宣導工作作為競爭之參與
+     吾等從Martin Morlok讀到：「於《基本法》之競爭民主中，政黨法
+乃是競爭法」 10，此競爭法旨在調控權力獲取或權力喪失之程序 11。此言
+
+
+
+
+   öffentlichen Meinungskampf, Der Staat 55 (2016), S. 519 ff.; Arno Wieckhorst, Rechts- und
+   verfassungswidriges Regierungshandeln in der sogenannten Flüchtlingskrise?, ThürVBl.
+   2016, S. 181 ff.; G. H. Stumpf, Parteipolitische Äußerungen des Thüringer
+   Ministerpräsidenten — Anmerkungen zum Sondervotum Petermann zum Urteil des
+   Thüringer Verfassungsgerichtshofs vom 8. Juni 2016 — VerfGH 25/15, ThürVBl. 2016, S.
+   270 ff.; C. D. Classen, Der Verfassungsbergriff der Demokratie in Deutschland und in
+   Frankreich, JÖR 65 (2017), S. 263 ff.; D. Kuch, Anmerkung, JZ 2018, S. 409 ff.
+9
+   Payandeh (Fn. 8), S. 519 ff.
+10
+   M. Morlok, Parteienrecht als Wettbewerbsrecht, in: Häberle/Morlok/Skouris (Hrsg.), FS für
+   Dimitris Tsatsos, 2003, S. 408 ff.; M. Morlok, in: Dreier (Hrsg.), GG, Bd. II, 3. Aufl., 2015,
+   Art. 21 Rn. 77.
+11
+   Morlok, Parteienrecht als Wettbewerbsrecht (Fn. 10), S. 408 ff.; M. Morlok, Das BVerfG als
+   Hüter des Parteienwettbewerbs, NVwZ 2005, S. 157 ff.; vgl. auch P. M. Huber, Regierung
+   und Opposition, in: Isensee/Kirchhof (Hrsg.), HStR, Bd. III, 3. Aufl., 2005, § 47 Rn. 2 m.
+   w. N.
+    研之得法：中央研究院法律學研究所成立十週年文集
+232 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+現今既是公共財 12 ，亦是對守護偌此競爭之純正係屬聯邦與各邦憲法法
+院任務之洞見 13。
+     此處系爭政府及其成員之公眾資訊與宣導工作或聯邦總統之公開言
+論，亦係關涉乎上述贏取（潛在）選民以及權力獲取與權力喪失之不被
+扭曲的競爭。不論聯邦政府是否籌辦欲促使選民投向支撐政府政黨之大
+型活動，抑或是否欲經由涉乎競爭政黨之貶抑言論而嚇阻選民，其實質
+上（亦）恆屬政黨贏取選民之競爭。
+     偌此競爭務須純正。猶如吾等得依據競爭法而作如是措辭：偌此競
+爭，既不得透過「機關權威之濫用」（„Missbrauch amtlicher Autorität“，
+《不正競爭防止法》第4條第3款） 14，亦不可藉由「因違法行為致生之
+優 勢 」 （ „Vorsprung durch Rechtsbruch“ ， 《 不 正 競 爭 防 止 法 》 第 3a
+條 ） 15，而遭受扭曲，蓋因此等行徑將會妨害個別政黨在《基本法》第
+21條第1項第1句 16所保障之機會平等 17。
+     當然，政黨間之競爭，尤如支撐政府與在野之政黨間，永遠無法完
+全機會平等，──正如在市場經濟上之競爭，亦總是存在較強與較弱之
+競爭者一般。對於政府職位擁有者產生特別興趣，且彼等作為談話夥伴
+
+12
+   F. Shirvani, Das Parteienrecht und der Strukturwandel im Parteiensystem, 2010, S. 199; R.
+   Streinz, in: v. Mangoldt/Klein/Starck (Hrsg.), Bd. II, 8. Aufl., 2018, Art. 21 Rn. 119.
+13
+   M. Morlok, A Comparative Presentation on Constitutional Courts as Guardians of
+   Competition between Political Parties, XIII/2007 JURIDICA INT’L 94 (2007).
+14
+   BGHZ 150, 343 ff., Rn. 23 — Elektroarbeiten; BGH, GRUR 2009, 606 — Buchgeschenk
+   vom Standesamt; GRUR 2005, 960 — Friedhofsruhe; GRUR 2003, 167 — Kommunaler
+   Schilderprägebetrieb; GRUR 1987, 116 — Kommunaler Bestattungswirtschaftsbetrieb I.
+15
+   BGH, Versäumnisurteil vom 11. Mai 2017 — I ZR 59/16 —, juris.
+16
+   BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris, Rn. 39 ff., 42 — Wanka;
+   Morlok, GG (Fn. 10), Art. 21 Rn. 78，氏欲從綜觀《基本法》第3條第1項、第20條第
+   1、2項及第21條之規定中，推衍出政黨之機會平等。惟若悖於既有司法實務及論著通
+   說見解而否定政黨之基本權利能力時，當然即無此種推衍之空間可言；vgl. dazu P.
+   M. Huber, Parteien in der Demokratie, in: Badura/Dreier (Hrsg.), FS 50 Jahre
+   Bundesverfassungsgericht II, 2001, S. 609 (623 f.); BVerfG, Urteil vom 27. Februar
+   2018 — 2 BvE 1/16 —, juris, Rn. 32 — Wanka，聯邦憲法法院於該判決中，不僅放棄
+   援引《基本法》第3條第1項，抑且將政黨透過集會方式揭示及宣傳其政治目標並於公
+   共論壇中引發對此關注之權利，係典型地從《基本法》第21條第1項而非從第8條第1
+   項推衍而出。
+17
+   Morlok, GG (Fn. 10), Art. 21 Rn. 78; Streinz (Fn. 12), Art. 21 Rn. 119.
+                                                   公職人員之公眾資訊與宣導工作                        233
+
+
+恰因其職權享有更多自我表述之可能性，此乃屬在自由民主程序中應被
+接受之政治競爭現實。就此，第二庭於Schwesig一案中乃毫不含糊地闡
+明之 18。
+     除此之外，至於公眾之較高興趣無論如何皆亦對職位擁有者產生有
+利效果乙節，則絕非定論。雖然，觀諸1949年以降之經驗，以及於21世
+紀初依然存留在黑格爾信奉者身上之權威公信力餘蘊，或可令人作此聯
+想。然而，一位不（再）討喜之公職人員所為之媒體曝光對於權力獲取
+與權力維繫之競爭可能產生反效果之情況，亦是可想而知。
+
+
+肆、選民作為阿基米德支點
+     政黨法作為競爭法之理解，通常固足以解決具體案例。然而，吾等
+不容忽視，政黨間不被扭曲之競爭並非自我目的。其乃屬為選民服務之
+計，並為選民（基於人性尊嚴之）政治上自我決定權利 19 。就此而言，
+第二庭於其1977年3月2日之判決中，對政黨之機會平等與國民主權、權
+力分立、政府責任及多數等原則間之關聯性所為闡述，不僅係頗饒助
+益，更屬必要 20：
+     「為使選舉決定能於全然自由中作成之，在任何可能之範圍內，政
+黨以同等機會進入選戰，此乃屬不可或缺。職是，原則上，政黨於選舉
+時之自由影響，亦即所有政黨之完全平等權利，勢亦必然地與《基本
+法》第21條第1項第2句所確保之設立自由相互連結。本諸此一洞見，政
+黨同等競爭機會之憲法原則乃獲授其特有之表徵。平等原則之形式化於
+國民政治意志形成之領域中，導致政黨機會平等之憲法原則亦應以相同
+意義予以形式上理解（……）。憲法禁止公權力為任何能變更選舉時機
+會平等之政黨差別待遇，只要偌此差別待遇無法以特別必要之理由釋明
+
+18
+   BVerfGE 138, 102 (115, 120 Rn. 44, 60) — Schwesig. Unter Hinweis auf BVerfGE 8, 51
+   (67); 14, 121 (134); 52, 63 (89); 78, 350 (358); 85, 264 (297).
+19
+   Huber (Fn. 11), Rn. 2; zur Verankerung des in Art. 38 Abs. 1 Satz 1 i. V. m. Art. 79 Abs. 3
+   i. V. m. Art. 1 Abs. 1 GG angesiedelten „Rechts auf Demokratie“ vgl. BVerfGE 5, 85 (204
+   f.) — KPD; 89, 155 (171) — Maastricht; 129, 124 (168) — EFSF; 134, 366 (396 Rn. 51) —
+   OMT-Vorlage;142, 123 (200 Rn. 147) — OMT.
+20
+   BVerfGE 44, 125 (145 ff.) — Öffentlichkeitskampagne der Bundesregierung.
+    研之得法：中央研究院法律學研究所成立十週年文集
+234 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+之（……）。」21
+     準此以推，就此處系爭之問題而言，是否涉乎對《基本法》第21條
+第1項第1句所定政黨機會平等之干預乙節，並非從行動之職位擔當人視
+野加以衡量，而應視政黨機會平等對選民（潛在）決定能有何種效果而
+定 。 自 此 以 觀 ， 選 民 亦 屬 政 黨 法 之 阿 基 米 德 支 點 （ archimedischer
+Punkt），甚且，不僅止於選戰期間 22。政黨毋寧係不加休止地促進國民
+意志之形成；此亦合理說明國家對政黨之持續性經費補助 23。
+
+
+伍、個案之梳理分類
+     吾等若試圖梳理聯邦憲法法院所裁判之案例，俾探求各種形式之
+「公眾資訊與宣導工作」是否並於何等範圍內（得以）如此這般地搭上
+選民，以致偌此工作能導致個別政黨機會平等之妨害，則一幅分殊化之
+圖像即顯現而出。
+
+一、公共活動 （BVerfGE 44, 125 ff.）
+     從1976年5月至1976年10月3日聯邦眾議院大選期間，（由德國社會
+民主黨［SPD］與自由民主黨［F.D.P.］共同支撐之）聯邦政府委託諸多
+日報及雜誌刊登一連串之廣告系列。十家大型日報插置諸多大規格之廣
+告，其中將聯邦政府於所有重要領域（譬如經濟、交通政策、農業政策
+及教育事務）達成之績效陳列出來。各個廣告末端皆見「中期成果報告
+顯示：我們在正確的道路上。績效值得信賴。我們確保未來」語云。從
+1976年 5月 24日 至 1976年 7月 26日 期 間 ， 聯 邦 政 府 於 新 聞 雜 誌 「 明 鏡 」
+（„Der Spiegel“）每週發表一個各含3至5頁之廣告，其中在大字標題下
+（譬如：「總而言之，這個政府帶給您更多的自由」）強調聯邦政府之
+
+
+21
+   BVerfGE 44, 125 (145 ff.) — Öffentlichkeitskampagne der Bundesregierung.
+22
+   Vgl. BVerfGE 138, 102 (111 Rn. 32); 140, 225 (227 Rn. 9) — e. A. Wanka; BVerfG, Urteil
+   vom 27. Februar 2018 — 2 BvE 1/16 —, juris, Rn. 46 — Wanka; Th. Kliegel,
+   Äußerungsbefugnisse von Amtsträgern gegenüber politischen Parteien, in: Scheffczyk/
+   Wolter (Hrsg.), Linien der Rechtsprechung des Bundesverfassungsgerichts, 2017, S. 413
+   (436 f.); Payandeh (Fn. 8), S. 540.
+23
+   BVerfGE 85, 264 (286).
+                                                 公職人員之公眾資訊與宣導工作             235
+
+
+績效，同時列舉諸多標語式之事實輪廓，並暗示反對黨不具理由之悲觀
+氛圍。在「繽紛」（„Bunte“）雜誌中之「關於德國的50項事實」系列
+下，每週各刊載五個全頁之聯邦政府廣告，其中每頁多含僅由一句構成
+之大字體聲明，並連同（小字體之）簡短理由陳述（譬如：「刑事重犯
+在聯邦共和國內處境特別困難。聯邦共和國之重大犯罪破案率高達98%
+左右」。或如：「即便家庭主婦現今亦能進入年金保險體系。此乃於
+1972年經由法律落實」）。於1976年7月中，廣播雜誌及電視雜誌則是
+刊載強調聯邦政府於年金立法領域之績效的廣告。偌此廣告係以「績效
+值得信賴，我們確保德國的未來」收尾。於14個雜誌中，聯邦政府發表
+宣傳婚姻法改革之內涵與影響的資訊廣告。
+      除此之外，於1976年間，聯邦政府亦在公眾資訊與宣導工作之框架
+下，透過新聞局、資訊局及各部，發行各具不同內容與目標之書籍、手
+冊、傳單及類似出版品（諸如政府工作成果報告、住宅補貼指南等便民
+服務出版品、聯邦總理及聯邦部長之演講、法律條文及契約條文、報告
+及計畫），其中部分高達超過一百萬份之版次。出版品大部分係交由執
+政黨（亦即德國社會民主黨［SPD］與自由民主黨［F.D.P.］）傳布。由
+新聞局及資訊局於1976年1月1日至1976年7月26日期間所發行總計超過
+六百萬份之22項各種印刷品中，59.5%係交由執政黨SPD與F.D.P.，而僅
+有0.26%係交由反對黨CDU（Christlich Demokratische Union Deutschlands，
+德國基督教民主聯盟）與CSU（Christlich-Soziale Union in Bayern e. V.，
+巴伐利亞基督教社會聯盟）。偌此活動花費約莫1,000萬馬克，且由聯邦
+財政預算支應之。聯邦眾議院以執政多數議決通過此等預算（《基本
+法》第110條）；而預算支用亦是任由政府自由裁量為之。
+      顯而易見地，偌此公共活動係呈現不許可之競爭扭曲，遂亦意謂反
+對 政 黨 之 機 會 平 等 遭 受 干 預 24 。 縱 然 第 二 庭 在 判 斷 標 準 之 部 分 論 述 散
+漫，且不僅從競爭政黨（《基本法》第21條第1項）及候選人（《基本
+法》第38條第1項第2句）之觀點，抑從選民（《基本法》第38條第1項
+第1句）之視野，皆缺失政府機關公眾資訊與宣導工作之界限，然而，
+
+
+24
+     BVerfGE 44, 125 (144) — Öffentlichkeitskampagne der Bundesregierung.
+    研之得法：中央研究院法律學研究所成立十週年文集
+236 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+諸項酌量仍達成如是論斷：
+     「儘管如此，涉乎國家整體之公眾資訊與宣導工作，亦應避免有利
+於個別政黨宣傳性影響之印象，同樣地亦應避免關於其他政黨恣意性、
+非合理式貶抑性及攻擊性之表述。公眾資訊與宣導工作不得透過挹注公
+家資源支援多數政黨抑或鬥爭反對政黨。否則，即與國民意見與意志形
+成之自由與開放程序原則以及政黨平等原則不相切合。
+     （……）前揭論述尤其是針對──有意地或無意地──適於替選舉
+宣傳效力或影響選戰之措施有其適用。原則上可如是說，選舉宣傳開啟
+之處，即是政府之公眾資訊與宣導工作界限之所在。」25
+
+二、報紙訪談 （BVerfGE 138, 102 ff.）
+     Schwesig一案之事實情況則係全然迥異 26。時任聯邦家庭與婦女老幼
+事務部長之Schwesig女士，於2014年秋季正值圖林根邦大選期間，接受
+圖林根邦日報訪談時，被問及德國國家民主黨NPD之提案於邦議會或市
+議會中如何處理之。隨即，彼乃就該黨所引發之危險及彼源自於梅克倫
+堡—前波莫瑞邦（Mecklenburg-Vorpommern）任官之經驗加以表述。
+整個訪談之焦點在於，彼預告將協助圖林根邦議會選戰，並竭盡全力，
+務使德國國家民主黨不會進入邦議會。於訪談之新聞報導文中，不僅就
+Schwesig女士所掌管之部，亦就其所屬之政黨，皆有提示。
+     如眾所周知，聯邦憲法法院並未就前揭表述有所訾議，並宣告機關
+爭議程序之聲請為無理由 27 。關鍵性理由在於，於權力獲取與權力維繫
+之競逐中，該部長並未動用競爭政黨無法享有之資源。然而，此處勢須
+仔細端詳，蓋因顯而易見地，職位擁有者總將試圖在權力獲取與權力維
+繫之角力中，亦加利用優勢。從而，諸如談話圓桌、討論論壇或訪談之
+一般政治論辯活動，應予以區辨檢視：
+     「於此，政府職位擁有者不僅可以政府成員身分抑可以政黨政治人
+物身分被徵詢。此等活動──尤在多數人參與之情況──通常係致力於
+
+
+25
+   BVerfGE 44, 125 (149 f.) — Öffentlichkeitskampagne der Bundesregierung.
+26
+   BVerfGE 138, 102 (103) — Schwesig.
+27
+   BVerfGE 138, 102 (108 Rn. 25) — Schwesig.
+                                           公職人員之公眾資訊與宣導工作                   237
+
+
+涉乎議題之政治論點及立場交流，因而首應歸屬於政治意見角力。此處
+使用職稱者，尚非訴求職位權威之推證，蓋因國家之功能主體亦得於非
+職務情境中使用彼等職稱（……）。
+     報紙訪談不僅對政府職位擁有者開放，抑對支撐彼等之政黨及反對
+黨的成員同樣開放。訪談夥伴之挑選在於各該新聞報刊機構之新聞責
+任。對於政府職位擁有者產生特別興趣，此乃屬在自由民主程序中應被
+接受之政治競爭現實。」28
+     職是，對措施之競爭合致性具決定性者，乃「政府職位擁有者是否
+依循特殊方式以政府職位之權威襯托其表述。」就此而言，如同該案例
+中單純使用聯邦部長職稱，尚無關宏旨。國家之功能主體 ── 從守衛到
+部長 ── 亦得在職務以外之情境中使用其職稱，而政黨之機會平等不能
+延伸如此這般之寬廣，以致現實須被修正，且實際執行功能之稱呼亦不
+得為之。設若須對潛在選民噤聲不提訪談夥伴之名字及其所擔當之功
+能，此舉簡直是近乎欺騙選民。
+     抑且，政府職位擁有者無須於訪談時僅侷限在與政府工作相關之表
+述。否則，勢將與政黨之機會平等權利無法切合，並將系統性地不利於
+支撐政府之政黨。就此而言，唯有執政黨如同反對黨能以相同之手段爭
+取選民支持，政黨間不被扭曲之競爭與機會平等方始存在。因此之故，
+政府職位擁有者亦可參與政治見解之競爭，且亦不受中立要求之拘束，
+── 只要彼等係在非為國家行事之範疇中。自此以觀，政府職位擁有者
+甚且享有「論證雄辯式之反擊權利」 29。
+     相反地，若政府職位擁有者執行該功能，或以特殊方式運用繫乎其
+職位之權威，訪談表述即不許可。何時存在此種情形，則視個案狀況而
+定，—猶如政府之公共活動一般 30 。諸如機關辦公室內進行訪談、於
+國家象徵前攝影、引證聯邦政府或自身主管部之決議與方案或動用新聞
+發言人等，從選民之角度觀之，皆可能製造一種職務關聯性，並使涉乎
+
+28
+   BVerfGE 138, 102 (120 Rn. 60) — Schwesig.
+29
+   BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris, Rn. 60 — Wanka，聯邦憲
+   法法院於該判決中，否定國家機構有此等反擊權利，惟並不針對擁有政府職位的自然
+   人。
+30
+   BVerfGE 44, 125 (152) — Öffentlichkeitskampagne der Bundesregierung.
+    研之得法：中央研究院法律學研究所成立十週年文集
+238 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+權力獲取與權力維繫之競爭政黨人物的角色退居背景。
+
+三、網頁貼文 （BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16）
+     Wanka一案之事實情況迥異，乃明顯可見。公職人員於此處係在其
+所主管聯邦部之網頁上（www.bmbf.de），公布載有德國國徽及「聯邦
+教育與研究部」題稱之151/2015號新聞稿，該稿明文如是：
+
+                          對德國另類選擇黨之紅牌
+     Johanna Wanka針對德國另類選擇黨所籌劃2015年11月7日於柏林的
+遊行
+     「紅牌應是對德國另類選擇黨出示，而非對聯邦總理。Björn Höcke
+及該黨其他發言人慫恿社會激進化。公然煽動民族情緒的極右派份子，
+如Pegida（歐洲愛國者抵制西方伊斯蘭化運動）首腦Bachmann，因此而
+獲得難以忍受的奧援。」
+
+     第二庭依德國另類選擇黨之聲請，根據《聯邦憲法法院法》第32條
+第7項第1句，基於特殊急迫必要性，3位法官已先以2015年11月7日之暫
+時命令，命令相對人將新聞稿從聯邦教育與研究部網頁暫時移除 31 ；而
+該機關爭議訴訟於本案程序亦獲得勝訴 32。
+     第二庭首先再度提醒，聯邦政府所擁有之權威及對國家資源之處分
+可能對國民政治意志之形成產生不利之影響作用，此意含政黨間政治競
+爭嚴重扭曲之風險以及由國民朝向國家機關形成意志之程序反轉 33 。固
+然，政府行為在相當範圍內會對或能對處於政治競爭之政黨的選舉機會
+產生影響乙節，係屬應予接受之政治程序一環 34 。然而，聯邦政府對政
+黨競爭之目標針對性干預乃另一回事，爰不許可。職是，基於憲法之理
+
+
+31
+   BVerfGE 140, 225 ff. — e. A. Wanka.
+32
+   BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris — Wanka.
+33
+   BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris — Wanka, Rn. 52, unter
+   Hinweis auf BVerfGE 138, 102 (115 Rn. 45) — Schwesig.
+34
+   BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris — Wanka, Rn. 53, unter
+   Hinweis auf BVerfGE 44, 125 (140) — Öffentlichkeitskampagne der Bundesregierung;
+   138, 102 (114 f., Rn. 44) — Schwesig.
+                                                 公職人員之公眾資訊與宣導工作                   239
+
+
+由，聯邦政府、聯邦部長及其他公職人員，當彼等行使其公眾資訊與宣
+導工作之職權時，不得認同個別政黨，並將供彼等處分之國家資源及可
+能性作有利於或不利於政黨之運用：
+      「準乎於此，為個別處於政治競爭之政黨宣傳開啟之處，聯邦政府
+之公眾資訊與宣導工作的許可性即終止。《基本法》第21條第1項第1句
+所定之機會平等原則並不允許，聯邦政府利用公眾資訊與宣導工作之可
+能性，俾支持執政政黨或鬥爭反對政黨。」35
+      然而，聯邦部長之新聞稿卻明顯逾越此等界限。此乃屬聯邦教育與
+研究部之新聞稿，並非政黨政治人物Wanka之新聞稿；此稿係登載於彼
+主管部為官方公佈之用的網頁上，並附有聯邦之鷹，是以，讀者勢必將
+新聞稿歸屬該部及德意志聯邦共和國，而非政黨政治人物Wanka。設若
+彼於私營網頁上作相同之表述，譬如在德國基督教民主聯盟CDU之活動
+上，或—猶如其同儕Schwesig—在一個非進一步關涉職位之訪談情
+境下，反面思緒即不致興起。然而，彼卻是為削弱政治競爭者並妨害政
+黨政治競爭中之機會平等而利用國家資源。
+
+四、聯邦總統與「瘋子」 （BVerfGE 136, 323 ff.）
+      所謂「瘋子」判決亦是融入此一思維結構。其事實基礎係聯邦總統
+Gauck之一項表述，按在2013年9月聯邦眾議院大選前夕，彼於一個面對
+中學生之活動中，針對當時涉乎德國國家民主黨NPD之繫屬中政黨禁止
+程序，曾提及，吾等雖能禁止該黨，
+      「瘋子、意識型態者及狂熱份子……卻不會就此即從這世界中被剔
+除。」36
+      乍看之下可能令人詫異，聯邦憲法法院對前揭表述並未有所訾議，
+因此處亦是一位公職人員──聯邦總統──對一個政黨作負面表述，並
+可能妨害其於競爭中之機會平等。事實上，選民既然虔誠凝神地追循聯
+邦總統於電視上之耶誕文告，則渠等亦受到猶如本案訴訟標的之表述影
+響，似乎並不排除。
+
+
+35
+     BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris — Wanka, Rn. 54.
+36
+     BVerfGE 136, 323 (324 Rn. 2) — Spinner.
+    研之得法：中央研究院法律學研究所成立十週年文集
+240 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+     聯邦總統之特殊角色
+     當然，此僅是初瞥直覺，蓋因聯邦總統之角色係根本異乎於聯邦政
+府、聯邦部長及其他公職人員之角色。聯邦憲法法院於稍後作成之
+Schwesig判決的第1項要旨中即已確證此點，並強調，對聯邦總統涉乎政
+黨之表述及聯邦憲法法院審查此等表述所適用之標準，係無法移轉至聯
+邦政府成員之上。偌此表述乃《基本法》所賦予聯邦總統之特殊地位的
+特別展現。彼對外與對內代表國家及德意志聯邦共和國之國民，並應體
+現國家之團結統一，就此，彼乃自由決定如何以生命履行其代表與統合
+之任務 37 。固然，聯邦總統對政黨及社會團體之目標與活動保持一定距
+離 ， 係 符 合 對 聯 邦 總 統 職 位 之 憲 法 期 待 及 根 深 蒂 固 之 憲 法 傳 統 38 ； 然
+而，僅僅從此尚不能推論出可供司法審理其職務執行之準則 39。
+     實因聯邦總統於履行其代表與統合任務之際負有這般義務，為維護
+與促進國家團體之利益表明立場，透過其文稿喚起公眾注視其所辨識之
+弊端與畸形發展──尤如危及人民團結及所有居民和平相處者──，並
+徵召公眾付出心力掃除弊端，故而彼亦應無所阻礙地將其所認知之相互
+關聯納為其公開表述之標的 40。
+     「根據此等原則，聯邦總統亦能廣泛地自由決定，彼於何種場合及
+以何種形式作言論表述，並以何種方式投入各個溝通處境。彼尤亦可不
+受阻礙地以尖銳用詞表達其訴求，只要彼認為此舉乃屬適宜。無助於客
+觀辯論且具排斥性效果之表述，方不再與聯邦總統之代表與統合任務相
+互切合，原則上侮辱性表述即屬此種情況，尤如在其他情境下被定性為
+『誹謗式批評』（„Schmähkritik“）……之表述。」41
+     此實質上意謂，聯邦總統之表述不受憲法上之訾議，只要偌此表述
+
+
+37
+   BVerfGE 138, 102 (112 Rn. 36) — Schwesig, unter Hinweis auf BVerfGE 136, 323 (332
+   Rn. 25) — Spinner.
+38
+   BVerfGE 138, 102 (112 Rn. 36) — Schwesig, unter Hinweis auf BVerfGE 136, 277 (311
+   Rn. 95 m. w. N. ) — Spinner.
+39
+   BVerfGE 138, 102 (112 Rn. 36) — Schwesig, unter Hinweis auf BVerfGE 136, 323 (332
+   Rn. 26) — Spinner.
+40
+   BVerfGE 136, 323 (334 Rn. 31) — Spinner.
+41
+   BVerfGE 136, 323 (335 Rn. 32) — Spinner.
+                                                    公職人員之公眾資訊與宣導工作                         241
+
+
+顯然係在公共福祉目標制約之下，並非為某黨之故而意欲排斥或圖利某
+黨。聯邦總統如何履行其職責及行使其統合功能，乃純屬其自我認定之
+自身事務。彼究於何種程度係以一位「中立的聯邦總統」之榜樣為導
+向，不論就抽象概括理論而言，抑或個別案例上，皆不受法院審查之框
+束 42。
+     然另方面，政黨之機會平等權利既是民主基本秩序之要環，倘若政
+黨在相對於聯邦總統之關係上置身於毫無權利保障之境地，則又牴觸法
+治國家之原則。在此背景下，對於聯邦總統涉乎某個政黨之負面表述施
+以法院審查，俾探究彼是否藉由此等表述，同時明顯疏忽其統合功能，
+因而恣意地偏袒一方，此舉乃屬必要惟亦已足矣 43。
+
+     釋義學上之梳理分類
+     實質上，區別聯邦總統與其他層峰機關中職位擔當人者，主要有三
+項：彼並不與政黨爭取選票；彼並不支配可資比擬之資源；甚又，彼被
+賦予一個特殊之代表與統合任務，而彼能「為自己之計算」履行任務，
+抑或任務可能觸礁。就偌此表述之釋義學梳理分類而論，兩項關鍵點可
+供判準：
+     一方面，吾等得引為出發點者，乃《基本法》經由賦予聯邦總統
+作為國家統一象徵之代表與統合任務 44 ，亦同時授予彼干預《基本法》
+第21條第1項第1句所定政黨機會平等之職權。
+     此外，偌此不成文或與國家領導任務密不可分之半成文授權型態，
+對於國家組織法亦屬常見，譬如對於聯邦政府之答覆國會義務，不論係
+就質詢權抑就國會調查委員會之調查權而言，皆數度被司法肯認。於
+2017年 11月 7日 涉 乎 德 國 鐵 路 股 份 公 司 （ DB AG） 及 聯 邦 金 融 監 管 局
+（BaFin）事務領域國會質詢權之判決中，第二庭就此明文確認，聯邦眾
+議院依憲法之質詢與資訊權以及聯邦政府與其連結之資訊提供義務，
+
+
+42
+   BVerfGE 136, 323 (336 Rn. 33) — Spinner.
+43
+   BVerfGE 136, 323 (336 Rn. 33) — Spinner.
+44
+   Vgl. A. Süsterhenn, in: Parlamentarischer Rat, 2. Sitzung, Sten. Bericht, 1948, S. 25; ferner
+   R. Herzog, in: Maunz/Dürig (Hrsg.), GG, 55. Aufl., 2009, Art. 54 Rn. 28; U. Fink, in: v.
+   Mangoldt/Klein/Starck (Hrsg.), GG, Bd. II , 7. Aufl., 2018, Art. 54 Rn. 13 f.
+    研之得法：中央研究院法律學研究所成立十週年文集
+242 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+     「對於資訊提供所蘊含之基本權利干預，係屬充分之基礎。依據聯
+邦憲法法院之裁判見解，任務賦予原則上亦蘊含政府資訊行為之授權。
+就此而言，更進一步之法律規定爰無必要。」45
+     對於同樣參與國家領導之聯邦總統的表述，──若援引類推適用原
+則──，前揭論述亦有其適用。與之相應者，「瘋子」判決乃言及：
+     「職是，聯邦總統於提示畸形發展或警告危險之際，並指稱彼所論
+斷為肇因者之群體或個人，即便超乎彼職位所內涵的公共表述職權之
+外，亦無須法律之授權。」46
+     由此可見，受到總統表述不利影響之政黨，原則上應容忍此等表述
+乙節，亦已釐清。從而，當前文論及，「政黨之機會平等權利既是民主
+基本秩序之要環，倘若政黨在相對於聯邦總統之關係上置身於毫無權利
+保障之境地，則又牴觸法治國家之原則，是以，對於聯邦總統涉乎某個
+政黨之負面表述施以法院審查，俾探究彼是否藉由此等表述，同時明顯
+疏忽其統合功能，因而恣意地偏袒一方，此舉乃屬必要惟亦已足矣」 47
+等語，厥為實踐諧和（praktische Konkordanz）之展現，亦即聯邦憲法法
+院於權衡《基本法》第54條第1項所定之聯邦總統職權與《基本法》第
+21條第1項第1句所定之政黨機會平等權時所必須達成之實踐諧和。
+     另方面，因聯邦總統之不利表述致生競爭扭曲之密度，──設若
+競爭扭曲根本被肯定──，允應低於聯邦政府之公共活動抑或主管部網
+頁之機關新聞稿情況。縱然《基本法》確係賦予聯邦總統一連串之權限
+（參照《基本法》第59條第1項──國際法上之代理權；《基本法》第60
+條第1項──聯邦公務員及軍人之任命；《基本法》第63條第1項，第64
+條 ── 聯 邦 總 理 選 舉 及 任 命 之 建 議 ， 聯 邦 部 長 之 任 命 及 免 職 ； 《 基 本
+法》第82條第1項第1句──法律之簽署），甚且於危機情況時付託領導
+
+
+45
+   BVerfGE 147, xx (Rn. 244) — DB AG und BAFin；在國會質詢權與第三人基本權利間
+   就此所應為之比例性調和，勢必蘊含著，後者得於必要性範圍內受到限制；vgl.
+   BVerfGE 137, 185 (257 f., Rn. 97 f.) — Rüstungsexporte; 146, 1 (45 ff., Rn. 100 ff.) — V-
+   Mann; Verfassungsgerichtshof des Landes Berlin, Urteil vom 04. Juli 2018 — 79/17 —,
+   juris, Rn. 78 f.，該判決的結論亦同，惟其否定相關表述的外部效果，卻屬不適法。
+46
+   BVerfGE 136, 323 (332 Rn. 25) — Spinner.
+47
+   BVerfGE 136, 323 (336 Rn. 33) — Spinner.
+                                                公職人員之公眾資訊與宣導工作                      243
+
+
+決定（參照《基本法》第63條第4項，第68條──聯邦眾議院之解散；
+《基本法》第81條──立法緊急狀態之宣布，BVerfGE 114, 121［151,
+159］） 48，惟若總統職位之權威與尊嚴恰亦係展現在尤其是精神道德效
+果之目標上 49，此乃亦意含一個較低程度之干預承載性。
+     就此而言，聯邦總統之表述亦脫離政黨法作為競爭法之邏輯。聯邦
+總統正因非自身參與競爭，即已不可能行為「不純正」。
+     惟油然而生之問題，乃「從上」之干涉──猶如政府與行政於食品
+法、消費者保護法及環境法領域之資訊活動一般 50 ──是否仍可意謂對
+政黨機會平等之干預。倘若聯邦總統之表述係以意義重大之方式影響人
+民之選舉決定，吾人似乎即可作此認定。此點雖不能排除之，惟從貼近
+現實之觀察下亦非特別明顯可見，蓋因聯邦總統欠缺干預所需之必要資
+源。聯邦總統──不同於政府──無法支應大規模之活動，而係端賴其
+話語於現今瞬息萬變之媒體生態中獲得傾聽及傳遞。是則，持續性之議
+題設定唯有於例外情況方能告成。然而，不同於聯邦部長Wanka，聯邦
+總統亦欠缺工具，俾對其表述之對象「激發」某種類如忖度服從
+（vorauseilender Gehorsam）之物 51 。彼終究──異於其他公職人員──
+不具有可供支配之機器，能讓彼獲得一個特殊之資訊上或權限上優勢地
+位，進而促使社會上影響及傾聽之提昇。聯邦憲法法院之論述如是：
+     「聯邦總統既非與政黨處於為贏取政治影響之直接競爭，亦乏可供
+彼支配之資源，能讓彼如同聯邦政府，透過廣泛之資訊政策而對國民之
+意見與意志形成產生影響作用。定期性地提供公眾關於激進運動之資
+訊，或就政黨違憲確認之聲請案（《基本法》第21條第2項）作成決
+定，亦非屬聯邦總統之職權。」52
+
+48
+   BVerfGE 136, 277 (311 Rn. 94) — Bundesversammlung.
+49
+   BVerfGE 136, 277 (xxx Rn. 94) — Bundesversammlung.
+50
+   Vgl. BVerfGE 105, 252 ff. — Glykol; 105, 279 ff. — Osho; BVerfG, Beschluss des Ersten
+   Senats vom 21. März 2018 — 1 BvF 1/13 — Ekelpranger.
+51
+   Zur Neigung deutscher Wissenschaftler, sich (vermeintlichen) Erwartungen aus dem
+   politischen Bereich frühzeitig anzupassen vgl. P. M. Huber, Freiheit braucht Mut, in:
+   Shirvani/Durner/Peine (Hrsg.), Freiheit und Sicherheit in Deutschland und Europa:
+   Festschrift für Hans-Jürgen Papier zum 70. Geburtstag, 2013, S. 307 (314 f.).
+52
+   BVerfGE 136, 323 (Rn. 27) — Spinner.
+    研之得法：中央研究院法律學研究所成立十週年文集
+244 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+      選民亦知曉此點。固然，聯邦總統之表述，基於彼作為國家領袖及
+民族統一象徵之地位，係擁有特殊（道德上）之分量，而與聯邦總統之
+公共辯論，異於與直接政治競爭者或由彼等所支撐之聯邦政府的公共辯
+論，乃依循不同之情況條件。然而，於此乃涉乎風格及道德，而無關乎
+具體確鑿之機會平等。隨著人民教育程度提昇、社會多元分歧化以及自
+網際網路屹立後溝通交流條件之變遷（關鍵詞：「同溫層效應」，
+Echokammern［echo chamber］），權威與機關公信力係持續遞減。職此
+之故，現今成熟及／或冷漠之選民，於其選舉決定之際，允應不會以聯
+邦總統之表述馬首是瞻。此雖令人遺憾，惟另方面亦替職位擁有者開啟
+較大之空間。
+
+
+陸、中立原則之角色
+      自此以觀，對中立原則（並非總是完全精確）之主張，無非是要求
+代表國家且具特權之政黨行動者遵守競爭規定之箴言。就此而言，對聯
+邦憲法法院較新裁判之批評，實係肇因於未將公職人員行動所處之法律
+關係彼此充分區辨。吾等若十足審慎地細讀此處系爭裁判，終究亦僅是
+言及 國家之 或 國家機構之 中立義務，抑或 國家 中立而已 53。惟國家在相
+對於位居其前沿地帶之政黨的關係上受到中立要求之制約乙節，乃屬純
+然不言而喻之理。此理係直接源自於《基本法》第21條第1項第1句之防
+禦性權利性質。
+      於政治人物以國家之職位擔當人身分呈現之際，彼等並非以自己名
+義行動。正如所有公務員、法官、軍人及市長，另亦如有限責任公司或
+股份公司之所有董事長，咸位居於彼等所代替行為的法人之後。職此之
+故，若係涉乎某項可歸責於國家之公眾資訊與宣導工作，被指摘者並非
+私人之行為，而係國家之行為。此或許在機關訴訟之程序態勢中──而
+此處所評論之所有案例咸屬機關訴訟──不致十分明確。惟事實則是，
+職位擔當人作為自然人或政黨成員所享有之權利及所負有之義務，於此
+
+
+
+
+53
+     BVerfG, Urteil vom 27. Februar 2018 — 2 BvE 1/16 —, juris — Wanka, Rn. 44 f.
+                        公職人員之公眾資訊與宣導工作   245
+
+
+處係無關宏旨 54。
+     反若職位擔當人係以自然人姿態出現，情況即有異。彼等於此乃屬
+自由，亦得單向地且偏袒地行動。即令「反擊之權利」，亦不能對彼等
+予以否定。至於彼等是否主張偌此權利，乃是個人信任度及風格之問
+題—惟於一般法律之框架下卻非法律問題。只是，聯邦總統恆難擺脫
+其角色 55。
+
+
+
+
+54
+     對於彼等任用法律關係或違反職務義務時之求償可能性等情況，即有差異。
+55
+     此點應於確定卸任禮遇金時加以考量。
+    研之得法：中央研究院法律學研究所成立十週年文集
+246 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+
+                                  參考文獻
+Bäcker, A. (2015), Ein Lehrstück bundespräsidialer Sachlichkeit — Zu den
+    Grenzen der Redefreiheit des Bundespräsidenten, MIP, S. 151-153.
+Butzer, H. (2015), Im Streit: Die Äußerungsbefugnisse des Bundespräsidenten,
+    ZG 30, S. 97-127.
+Classen, C. D. (2017), Der Verfassungsbergriff der Demokratie in Deutschland
+    und in Frankreich, JÖR 65, S. 263-293.
+Fink, U. (2018), in: v. Mangoldt/Klein/Starck (Hrsg.), GG, Bd. II, 7. Aufl.,
+    München: C. H. Beck, Art. 54.
+Gusy,   Chr.      (2015),   Neutralität   staatlicher   Öffentlichkeitsarbeit   —
+    Voraussetzungen und Grenzen, NVwZ, S. 700-703.
+Herzog, R. (2009), in: Maunz/Dürig (Hrsg.), GG, 55. Aufl., München: C. H.
+    Beck, Art. 54.
+Hillgruber, Chr. (2014), Zur Äußerungsbefugnis des Bundespräsidenten in
+    Bezug auf politische Parteien, JA, S. 796-798.
+Huber, P. M. (2001), Parteien in der Demokratie, in: Badura/Dreier (Hrsg.), FS
+    50 Jahre Bundesverfassungsgericht II, Tübingen: Mohr Siebeck, S. 609-
+    626.
+─ (2005), Regierung und Opposition, in: Isensee/Kirchhof (Hrsg.), HStR,
+    Bd. III, 3. Aufl., Heidelberg: C. F. Müller,§47.
+─ (2013), Freiheit braucht Mut, in: Shirvani/Durner/Peine (Hrsg.),
+    Freiheit und Sicherheit in Deutschland und Europa: Festschrift für Hans-
+    Jürgen Papier zum 70. Geburtstag, Berlin: Duncker & Humblot, S. 307-
+    320.
+Kliegel, Th. (2017), Äußerungsbefugnisse von Amtsträgern gegenüber
+    politischen     Parteien,   in:   Scheffczyk/Wolter    (Hrsg.),   Linien    der
+    Rechtsprechung des Bundesverfassungsgerichts, Berlin/New York: de
+    Gruyter, S. 413-438.
+                                                  公職人員之公眾資訊與宣導工作                247
+
+
+Krüper, J./Kühr, H. (2014), Der Lebenszyklus politischer Parteien — Eine
+     „evolutionäre“ Einführung in das Parteienrecht, ZJS, S. 477-489.
+Kuch, D. (2018), Anmerkung, JZ, S. 409-411.
+Morlok, M. (2003), Parteienrecht als Wettbewerbsrecht, in: Häberle/Morlok/
+     Skouris (Hrsg.), FS für Dimitris Tsatsos, Baden-Baden: Nomos, S. 408-
+     447.
+─ (2005), Das BVerfG als Hüter des Parteienwettbewerbs, NVwZ, S.
+     157-160.
+─ . 2007. A Comparative Presentation on Constitutional Courts as
+     Guardians of Competition between Political Parties. Juridica International
+     XIII/2007:94-100.
+─ (2015), in: Dreier (Hrsg.), GG, Bd. II, 3. Aufl., Tübingen: Mohr
+     Siebeck, Art. 21.
+Muckel, St. (2015), Neutralitätsgebot für Äußerungen von Mitgliedern der
+     Bundesregierung („Fall Schwesig“), JA, S. 715-717.
+Payandeh, M. (2016), Die Neutralitätspflicht staatlicher Amtsträger im
+     öffentlichen Meinungskampf, Der Staat 55, S. 519-550.
+Penz, M.         (2016),    Äußerungsbefugnisse von Regierungsmitgliedern —
+     Anmerkungen zum Urteil des Thüringer Verfassungsgerichtshofs vom 8.
+     Juni 2016 — VerfGH 25/15, ThürVBl., S. 265-269.
+Putzer, M. (2015), Verfassungsrechtliche Grenzen der Äußerungsbefugnisse
+     staatlicher Organe und Amtsträger, DÖV, S. 417-425.
+Sachs, M. (2014), Staatsorganisationsrecht: Redefreiheit des Bundespräsidenten,
+     JuS, S. 956-957.
+Shirvani, F. (2010), Das Parteienrecht und der Strukturwandel im Parteien-
+     system, Tübingen: Mohr Siebeck.
+Streinz, R. (2018), in: v. Mangoldt/Klein/Starck (Hrsg.), Bd. II, 8. Aufl.,
+     München: C. H. Beck, Art. 21.
+Stumpf,     G.     H.      (2016),   Parteipolitische   Äußerungen   des   Thüringer
+     Ministerpräsidenten－ Anmerkungen zum Sondervotum Petermann zum
+    研之得法：中央研究院法律學研究所成立十週年文集
+248 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+    Urteil des Thüringer Verfassungsgerichtshofs vom 8. Juni 2016－VerfGH
+    25/15, ThürVBl., S. 270-280.
+Süsterhenn, A. (1948), in: Parlamentarischer Rat, 2. Sitzung, Sten. Bericht,
+    München: Bundesarchiv und Institut.
+Tanneberger, St./Nemeczek, H. (2015), Neutralitätsgebot für Mitglieder der
+    Bundesregierung, NVwZ, S. 209-215.
+van Ooyen, R. Chr. (2014), Kompetenzüberschreitung des Bundespräsidenten?,
+    Recht u Politik, S. 127-130.
+Wieckhorst, Arno (2016), Rechts- und verfassungswidriges Regierungshandeln
+    in der sogenannten Flüchtlingskrise?, ThürVBl., S. 181-189.
+

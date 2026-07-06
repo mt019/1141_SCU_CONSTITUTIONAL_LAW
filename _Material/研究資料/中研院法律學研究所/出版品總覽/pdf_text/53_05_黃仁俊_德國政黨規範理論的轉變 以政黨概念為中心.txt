@@ -1,0 +1,1925 @@
+ 薪傳論文
+《中研院法學期刊》第 21 期                                             261
+頁 261-313（2017 年 9 月）
+
+
+
+                                                  ＊
+            德國政黨規範理論的轉變
+                  — 以政黨概念為中心
+
+                          黃仁俊＊＊
+
+
+                           摘 要
+    本文主要探討德國政黨規範理論的轉變以及德國政黨法學的形
+成過程，分別析論Heinrich Triepel的四個階段論、威瑪時期對於政
+黨的正反評價、Gerhard Leibholz的政黨國家理論、Carlo Schmid反
+法西斯化的政黨條款、Konrad Hesse的三重憲法地位以及Martin
+Morlok的第二代政黨法學與政黨法作為競爭法，透過實證法與規範
+理論的對照，藉以釐清政黨概念在德國政黨規範理論變遷下的轉
+變，豐富臺灣對於德國政黨規範理論的認知，作為我國政黨法制立
+法視野之參考。
+
+關鍵詞：政黨法、政黨規範、政黨條款、政黨民主、政黨概念。
+
+
+
+
+＊  投稿日：2015年8月11日；接受刊登日：2017年3月22日。［責任校對：呂佳
+   霖］ 。
+   本文乃節譯和中幅改寫本人博士論文（Die Entwicklung der Parteienrechtslehre）
+   之第二章。作者衷心感謝兩位匿名審查人所提供的寶貴審查意見與修改建
+   議。此外，作者特別感謝在博士論文階段，BVR Prof. Dr. Peter M. Huber、
+   Prof. Dr. Martin Morlok和Prof. Dr. Stefan Korioth三位教授對於本文的啟發與指
+   導。最後，謝謝王思閔同學對於本文的細心校閱。惟文中如有任何疏漏之
+   處，當然由作者自行負責。
+＊＊ 德國慕尼黑大學法律學院博士候選人。
+   穩定網址：http://publication.iias.sinica.edu.tw/02704171.pdf。
+262                                      《中研院法學期刊》第21期（2017年9月）
+
+
+
+                                      目 次
+
+    壹、前言                                      三、Gerhard Leibholz的政黨國
+    貳、Heinrich Triepel四個階段論                      家理論
+      的再說明                                   肆、政黨條款的憲法釋義學
+     一、敵視（Bekämpfung）階段                       一、基本法第21條的立憲過程
+     二、忽視（Ignorierung）階段                      二、Gerhard Leibholz政黨國家
+     三、承認（Anerkennung）階段                         理論的轉變
+     四、納 入 憲 法 （ verfassungs-                 三、Konrad Hesse的三重憲法
+         mässige Inkorporation）階段                地位
+    參、政黨國家理論（Parteienstaats-                 伍、政 黨 法 學 （ Parteienrechts-
+      lehre）的多面向分析                             wissenschaft）的學科形成
+     一、議會制下政黨評價的正反                            一、政黨概念的立法形成
+         對立                                   二、第二代的政黨法學
+     二、Otto Koellreuter的政黨國                   三、政黨法作為競爭法
+         家理論                                 陸、結論
+
+
+
+
+壹、前言
+
+       1927年德國公法學者Heinrich Triepel教授於柏林自由大學發表
+        （Die Staatsverfassung und die politischen Parteien）
+「國家憲法與政黨」
+為主題的演講，其以法律變遷為核心，探究國家與政黨關係的變動
+軌跡，進而區分為：敵視（Bekämpfung）、忽視（Ignorierung）、承
+認（Anerkennung）與納入憲法（verfassungsmässige Inkorporation）
+之四個時期，成為政黨規範研究的開山之作1。而在實證法的發展
+脈絡上，政黨規範分別於社團法、選舉法、憲法、政黨法不同法秩
+
+1    Heinrich Triepel, Die Staatsverfassung und die politischen Parteien, 1928. 該文已由
+     薩孟武教授中譯，參見Heinrich Triepel著，薩孟武譯，政黨的發展，收於：薩
+     孟武編，孟武自選文集，頁183-201（1979年）                      。
+德國政黨規範理論的轉變                                  263
+
+
+序的演變中，與政黨規範學說理論相互形塑出政黨規範體系，進而
+成就政黨法學（Parteienrechtswissenschaft）作為一個學科的開端。
+對此，本文之核心乃在於師法Heinrich Triepel政黨規範變遷的觀
+點，見林不見樹地重新聚焦於德國政黨法學的學說發展，透過文獻
+分析的方式來探討政黨概念在不同法秩序下的變動軌跡，尋求政黨
+規範體系的發展模式，釐清政黨規範的主題、目的與框架，凸顯政
+黨法學的自身特質。在文獻的取材上，本文因專注於政黨規範理論
+的歷史脈絡與學說接軌，而有意相當程度地省略聯邦憲法法院在政
+黨規範發展的具體論證，僅聚焦於政黨概念的相關解釋來加以著
+墨。在政黨概念範疇的界定上，本文並不將政黨一詞嚴格限縮於法
+律條文的明確定義，而擴及政黨組織在德國公法學視野下的歷史評
+價以及功能詮釋。在章節安排上，本文乃以理論排序，分別就
+Heinrich Triepel 的 四 個 階 段 的 再 說 明 、 政 黨 國 家 理 論
+（Parteienstaatslehre）的多面向分析、政黨條款的憲法釋義學和政黨
+法學的學科形成之四個時期的演變來加以探究，希冀透過政黨規範
+理論變遷之介紹，明確政黨概念隨著政治文化的變動本質，藉以豐
+富臺灣對於德國政黨規範理論的認知，作為我國政黨法制立法視野
+之參考。
+
+
+
+貳、Heinrich Triepel四個階段論的再說明
+
+  1927年Heinrich Triepel所發表「國家憲法與政黨」一文，除了
+提出著名的四個階段論外，其更深的意涵乃在於開創在國家法學
+（Staatsrecht）的範疇下來探討政黨組織，突破過往政黨研究限縮於
+政治學或者社會學的範疇，成為政黨學說（Parteienlehre）到政黨
+法學說（Parteienrechtslehre）的開拓者2。然而，受限於演講稿的形
+
+
+2   過往政黨理論的研究乃以政黨功能或意識形態的描述為主題，例如：Robert
+264                                      《中研院法學期刊》第21期（2017年9月）
+
+
+式，日後在研讀該原文仍受限於註釋的缺乏，未能窺之當時思想的
+全貌。對此，本文乃輔以當時的公法著作、憲法史與政黨史的相關
+文獻來重新敘述Heinrich Triepel四個階段論的時代精神。
+
+一、敵視（Bekämpfung）階段
+
+      首先，德國政黨雛型約莫始於1850年。在1848/1949年的德意
+志革命（Deutsche Revolution 1848/49）之際，原先蘊含社會的保守
+派、天主教派、自由派、民主派、社會主義派之五大社會分歧，乃
+齊聚法蘭克福的保羅教堂（Paulkirche）共同召開法蘭克福國民會
+議（Frankfurter Nationalversammlung）
+                                 ，以代議民主的形式來制定一
+部以保障自由為導向的憲法，用以回應德意志作為民族國家的訴
+求3。然而，此一強調平等選舉與代議民主的憲法設計卻受到信仰
+君 權 神 授 的 普 魯 士 國 王 弗 里 德 里 希 • 威 廉 四 世 （ Friedrich
+Wilhelm IV.）的強烈抵制，而使得保羅教堂憲法與法蘭克福國民會
+議一同在軍事鎮壓後畫下句點。惟此一社會動員的貢獻不僅開啟自
+由派人士分頭並進的路線，亦成功將社會分歧轉化為議會席次由左
+至右的黨團（Fraktion）分布4。
+
+      在1850年普魯士欽定憲法制定後，自由派和保守派於普魯士眾
+議會（Preußisches Abgeordnetenhaus）的角力乃日益激烈。1861年，
+以眾議員Georg von Vincke為首的芬克派（Fraktion Vincke）乃成立
+             （Deutsche Fortschrittspartei），與同
+德國第一個政黨「德國進步黨」
+年登基的威廉一世（Wilhelm I.）在軍事改革與預算的議題上產生
+
+
+  von Mohl, Die Parteien im Staat, in: Ziebura (Hrsg.), Beiträge zur allgemeinen
+  Parteienlehre. Zur Theorie, Typologie und Vergleichung politischer Parteien, 1969, S.
+  11 (11-21); Johann Caspar Bluntschli, Politische Parteien, in: Ziebura (Hrsg.),
+  Beiträge zur allgemeinen Parteienlehre. Zur Theorie, Typologie und Vergleichung
+  politischer Parteien, 1969, S. 22 (22-32).
+3 Gerhard Albert Ritter, Deutsche Parteien vor 1918, 1973, S. 102 f.
+4 Ludwig Bergsträsser/Wilhelm Mommsen, Geschichte der politischen Parteien in
+  Deutschland, 11. Aufl., 1965, S. 79 f.
+德國政黨規範理論的轉變                                                                        265
+
+
+歧見。對此，保守派的俾斯麥乃主張憲法漏洞理論
+（Lückentheorie）來解決此次憲法衝突（Verfassungskonflikt），即在
+憲法未明文的情形，應以王權來代表國家主權的理論5。此一理論
+的貢獻，不僅使擁護君權的俾斯麥成功獲得軍事改革亦取得強大政
+治資本。1862年俾斯麥獲任命為普魯士首相，在普魯士—丹麥戰
+爭、普魯士—奧地利戰爭、普魯士—法蘭西戰爭告捷後，於1871年
+成立德意志帝國，完成德意志民族作為一個民族國家的偉大志業，
+而1849年德意志革命以來的自由主義的黨派人士乃被貼上分化德意
+志的罵名，如同俾斯麥鐵血政策所言：「當代的重大問題不是通過
+演講與多數決所能解決的—這正是1848/1849所犯的錯誤—而
+是要用鐵和血來解決。6」
+
+     在德意志帝國議會下，原先自由派與保守派的對立乃因俾斯麥
+的統御風格演變為帝國與天主教會和社會主義者的抗衡。在帝國與
+教會的文化鬥爭（Kulturkampf）以及帝國與勞工運動的衝突中，以
+天主教教徒為群眾基礎的中央黨（Deutsche Zentrumspartei）和社會
+主義傾向的社會民主黨（Sozialdemokratische Partei）均被冠上帝國
+敵人（Reichsfeinde）的稱號7。而1878年俾斯麥所頒布的反社會主
+義者法（Sozialistengesetz），其第1條第1項立法目的規定：「以透過
+社會民主、社會主義或共產主義來推翻現存國家及社會秩序為目的
+之社團，應予以禁止。」呈現政黨與帝國相互敵對的寫照 8 。此
+
+
+5 Werner Frotscher/Bodo Pieroth, Verfassungsgeschichte, 10. Aufl., 2011, S. 191-193.
+6 Otto Eduard L. Bismarck, Fürst Bismarck als Redner, 1866, S. 12.
+7 Bergsträsser/Mommsen (Fn. 4), S. 126 ff., 138 ff.; Thomas Nipperdey, Deutsche
+  Geschichte 1866-1918, Bd. 2, 3. Aufl., 1995, S. 355 ff., 364 ff.; Foroud Shirvani, Die
+  politischen Parteien im Staatsrecht des Deutschen Kaiserreiches, MIP 2006, S. 77 (78).
+8 反社會主義者法（Sozialistengesetz）              ，其全名為反社會民主黨企圖危害公眾法
+  （Gesetz gegen die gemeingefährlichen Bestrebungen der Sozialdemokratie vom 21.
+   Oktober 1878, RGBl. Nr. 34/1878, S. 351 ff.）     ，其第1條第1項原文為：Vereine,
+  welche durch sozialdemokratische, sozialistische und kommunistische Bestrebungen
+  den Umsturz der bestehenden Staats- oder Gesellschaftsordnung bezwecken, sind zu
+  verbieten. 中文文獻可參閱：王琪，俾斯麥與1878年〈反社會主義者法〉的頒
+266                                      《中研院法學期刊》第21期（2017年9月）
+
+
+外，現實上被帝國視為敵人的政黨，亦於啟蒙思潮上被視為政黨分
+化的思想。此一意識形態的典範首見於盧梭社會契約論中，其認為
+主權是基於公共意志而形成，公共意志是不可讓與和分割，政治團
+體（Parteiungen）的存在僅代表個別利益，而與公共意志的全體利
+益相互背離9。黑格爾（Georg Wilhelm Friedrich Hegel）亦認為僅有
+國家得作為共同體來統一市民社會的利益，政黨僅能代表偶然的利
+益 10 。而帝國時期的國家法學範疇亦秉持相同思維，例如Georg
+Meyer、Paul Laband和Julius Hatschek的教科書中，並未撰寫有關政
+黨和黨派的章節或段落，而是以議會主義、代議士和帝國議會作為
+闡述的核心，現實存在的政黨被以政治社團（politische Verein）或
+選舉社團（Wahlverein）所替換著11。惟有Paul Laband教授在其史
+特拉斯堡大學（Kaiser-Wilhelms-Universität Straßburg）的國家法學
+課程講義中出現過評論政黨的課綱，其認為當時的君主和議會處於
+一個穩定的體系中，惟政黨分化力量正刺激社會對立，最終將葬送
+議會主義的發展。特別是鼓吹社會主義的政黨團體，其政黨政治
+（Parteiregierung）的最終結果乃是在德國上演如同法國路易十六
+（Louis XVI.）和以羅伯斯比爾（Maximilien de Robespierre）為首的
+雅各賓黨（Jacobin）相繼走上斷頭台的悲劇12。
+
+
+
+   布，成大歷史學報，33號，頁119-158（2007年）                       。
+9  Jean-Jacques Rousseau, Du contrat social ou Principes du droit politique. Vom
+   Gesellschaftsvertrag oder Grundsätze des Staatsrechts (übersetzt von Eva Pietzcker
+   und Hans Brockard), Buch II, 2010, S. 28-32.
+10 Vgl. Georg Wilhelm Friedrich Hegel, Grundlinien der Philosophie des Rechts, 1986,
+   §258.
+11 Georg Meyer/Gerhard Anschütz, Lehrbuch des deutschen Staatsrechtes, 6. Aufl., 1905;
+   Hermann Schulze, Lehrbuch des deutschen Staatsrechtes, 1881; Paul Laband, Das
+   Staatsrecht des Deutschen Reiches, 2. umgearb. Aufl., 1888; Julius Hatschek, Das
+   Parlamentsrecht des Deutschen Reiches, 1915.
+12 Paul Laband/Bernd Schlüter, Staatsrechtliche Vorlesungen: Vorlesungen zur
+   Geschichte des Staatsdenkens, zur Staatstheorie und Verfssungsgeschichte und zum
+   deutschen Staatsrecht des 19 Jahrhunderts, gehalten an der Kaiser-Wilhelms-
+   Universität Straßburg 1872-1918, 2004, S. 141-142.
+德國政黨規範理論的轉變                                                                        267
+
+
+二、忽視（Ignorierung）階段
+
+     現實政治上存在的政黨，並未明確規範於任何條文內。政黨法
+律地位的討論並非起源於公法的範疇，而是隱身於私法上的社團規
+範 13 。首先，1854年普魯士議會通過聯邦社團法（Bundesvereins-
+gesetz）開創政治社團的組織型態，在該法第3條規範下，政治社團
+的成立須具備國家的核准，而國家得依情狀予以限制或禁止該社
+團14，用以抑制共產黨宣言（Manifest der Kommunistischen Partei）
+後 ， 日 益 團 結 的 勞 工 組 織 ， 如 一 般 勞 工 兄 弟 會 （ Allgemeine
+Deutsche Arbeiterverbrüderung）的所帶起的勞工運動。而後，除
+1878年反社會主義者法以特別法的形式來限制外，一般政黨的法律
+地位則是透過私法形式來加以規範。在1896年起草並於1900年生效
+的帝國民法典採取營利和非營利社團的二分規範模式，而在民法第
+21條非營利社團或稱理念型社團（Idealvereine）中，開放政治目的
+之社團，默許政黨作為一理念型社團15。直至1908年帝國社團法才
+確立政黨屬於政治社團之性質，而受該法第3條第1項：「以影響政
+治事務（politische Angelegenheit）作為目的之社團（政治社團）應
+具備董事和章程16」來加以定義。誠然，在當時是否將政黨認定為
+一政治社團仍是有所疑慮的。政黨政治（parteipolitisch）被認為是
+
+
+13 Christoph Gusy, Die Lehre vom Parteienstaat in der Weimarer Republik, 1993, S. 15.
+14 其原文為：In Beziehung auf politische Vereine insbesondere muß, sofern derartige
+   Vereine nicht nach Maßgabe der Landesgesetzgebung überhaupt untersagt sind, oder
+   doch einer für jeden Fall besonders zu ertheilenden obrigkeitlichen Genehmigung
+   bedürfen, die betreffende Staatsregierung sich in der Lage befinden, nach Maßgabe
+   der Umstände, besondere vor übergehende Beschränkungen und Verbote erfassen zu
+   können. Vgl. Michael Kotulla, Deutsches Verfassungsrecht 1806-1918, Eine
+   Dokumentensammlung nebst Einführungen, Band 1, 2005, S. 814.
+15 Ein Verein, dessen Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet
+   ist, erlangt Rechtsfähigkeit durch Eintragung in das Vereinsregister des zuständigen
+   Amtsgerichts. Bürgerliches Gesetzbuch vom 18. 8., 1896 RGBl., S. 195.
+16 ReichsvereinsG vom 19.4.1908, RGBl., S. 151. 該原文為：Jeder Verein, der eine
+   Einwirkung auf politische Angelegenheiten bezweckt (politischer Verein), muß einen
+   Vorstand und eine Satzung haben.
+268                                        《中研院法學期刊》第21期（2017年9月）
+
+
+黨 派 營 私 ， 僅 能 代 表 自 身 利 益 ， 而 違 背 公 共 事 務 （ öffentliche
+Angelegenheiten）之本質，但考量政黨政治事務（parteipolitisch
+Angelegenheit ） 在 文 義 解 釋 下 仍 屬 政 治 事 務 （ politische
+                      17
+Angelegenheit）一環，而予以認定 。因此，政黨的法律地位隱身
+於政治團體中並受私法所規範，成為Heinrich Triepel所言之忽視
+（Ignorierung）階段18。
+
+三、承認（Anerkennung）階段
+
+      政黨於法律上的肯認乃是著眼於選舉法上的比例代表制。1859
+年英國的Thomas Hare在其THE MACHINERY OF REPRESENTATION的著
+作中首創比例代表制的雛形，其制度設計的主軸是以個別選民在全
+國單一選區中對所有被選舉人來加以排序。然而，考量現實上對所
+有被選舉人認識以及排序的困難，進而於1857年由比利時學者
+Victor D’Hondt發展為由選舉團體或政黨承擔候選人排序任務，選
+民直接對選舉人團體或政黨來進行圈選19。此一計票模式的轉變有
+利於少數群體的政治代表，避免贏者全拿所產生的殘餘票值的不公
+平。而在普魯士的三級選舉制度（Dreiklassenwahlrecht）下，殘餘
+票值的不公平則依稅收採計權重更為加劇20。選舉改革的號角乃在
+德國的巴登大公國（Baden）吹起，民族自由黨（Nationalliberale
+Partei）於1887年的帝國議會選舉中獲得四成四的選票，並在14位
+的席次中取得9位，而在1890年的選舉中，其囊括了三成的選票但
+卻無獲得任何席次21。選舉改革的呼聲乃隨著《帝國與巴登大公國
+
+17 Fritz Stier-Somlo, Reichsvereinsgesetz vom 19. April 1908, systematischer
+   Kommentar, 1909, S. 79-80.
+18 Triepel (Fn. 1), S. 19-24.
+19 Ernst Cahn, Das Verhältniswahlsystem in den modernen Kulturstaaten. Eine
+   staatsrechtlich-politische Abhandlung, 1909, S. 13 ff.
+20 此處殘餘票值的內涵是指未獲得任何政治代表席次的選票，而不具政治席次的
+   代表價值。如後續本文所指在1890年的巴登大公國選舉中，民族自由黨囊括了
+   三成的選票但卻無獲得任何席次，而該三成的選票即為本文所指的殘餘票值。
+21 Cahn (Fn. 19), S. 17 ff.
+德國政黨規範理論的轉變                                                                    269
+
+
+      （Reform des Wahlrechts im Reich und in Baden）該
+選舉法之改革》
+書 的 出 版 而 開 始 在 德 國 各 邦 發 酵 22 。 1906 年 符 騰 堡 王 國
+（Württemberg）首先於鄉鎮市法（Gemeindeordnung）第73條採納
+比 例 代 表 制 23 ， 而 後 巴 伐 利 亞 王 國 （ Bayern ）、 歐 登 堡 大 公 國
+（Oldenburg）、薩克森王國（Sachsen）、阿爾薩斯—洛琳帝國屬區
+（Elsass-Lothringen）紛紛起而效尤。對此，在Heinrich Triepel認為
+比例代表制於鄉鎮法的採納等同於政黨法律地位的承認，儘管「政
+黨」的文字並未出現在規範條文上24。
+
+四、納入憲法（verfassungsmässige Inkorporation）階段
+
+     十一月革命（Novemberrevolution）的揭竿促使德國由專制國
+家（Obrigkeitsstaat）轉變為人民國家（Volksstaat）25。政黨成為穿
+越君主與共和所存續的統治階級，其不再是帝國的敵人，而是共和
+國的代表。由社民黨所組成的過渡政府面臨社會主義下路線分歧的
+鬥爭，社會民主黨主席Friedrich Ebert選擇與帝國保守勢力合作來建
+構共和，排除無產階級專政的模式，以議會民主而非布爾什維亞
+（Bolschewismus）作為共和體制的呈現方式26。1919年8月11日依循
+
+
+22 Karl Gageur, Reform des Wahlrechts im Reich und in Baden, 1893, S. 37 ff.
+23 Anton Michel, Die Gemeindeordnung und die Bezirksordnung für das Königreich
+   Württemberg, 1907, S. 68. 該條原文為：„Die Wahl der unbesoldeten Mitglieder des
+   Gemeinderats und der Mitglieder des Bürgerausschusses erfolgt nach dem Grundsatz
+   der verhältnismässigen Vertretung der Wähler.“（鄉鎮議會無給職成員以及市民委
+   員會成員之選舉由選民依據比例代表原則選出之。）
+24 Triepel (Fn. 1), S. 24.
+25 十一月革命（Novemberrevolution）是指德國在第一次世界大戰後，於1918年與
+   1919年發生一連串左翼運動的武裝衝突事件，始於基爾港海軍兵變（Kieler
+   Matrosenaufstand），結束於巴伐利亞蘇維埃共和國（Bayerische Räterepublik）
+   的滅亡。該一連串事件導致德意志帝國威廉二世政權被推翻以及威瑪共和國的
+   成立。Vgl. Ernst Rudolf Huber, Deutsche Verfassungsgeschichte seit 1789, Bd. V,
+   Weltkrieg, Revolution und Reichserneuerung: 1914-1919, 1978, § 40, S. 706 ff.
+26 布爾什維亞（Bolschewismus）在俄語原意為多數派，屬於俄國社會民主工黨內
+   一激進派別，以列寧為領袖並主張無產階級專政、職業革命家和民主集中制的
+   路線。
+270                                      《中研院法學期刊》第21期（2017年9月）
+
+
+著政黨比例代表所產生的制憲代表乃於威瑪（Weimar）完成德意志
+帝國憲法的制訂，即為威瑪憲法。聚焦於威瑪憲法中的政黨規範，
+顯而易見於威瑪憲法第130條第1項：「公務員乃係全體國民之公僕
+而非隸屬於政黨。」發現「政黨」一詞。該條文認為機關所屬的公
+務員應以國家利益作為考量，而非政黨利益或階級利益的內涵，呈
+現排斥政黨分化且將政黨視為特權團體的規範內涵27。惟在Heinrich
+Triepel的演講稿中，威瑪憲法第130條第1項成為政黨納入憲法
+（verfassungsmässige Inkorporation）階段的依據28。誠然，威瑪憲法
+第124條有關集會結社的憲法權利業已將政黨視為一權利主體，政
+黨自由乃毫無爭議的適用有關結社自由的權利保障與限制等理論內
+涵，其不僅融入社團法的範疇中，亦透過社團法制來取得憲法保
+障29。最後，政黨作為憲法學說的課題漸漸開始發酵，對比《論民
+       （Vom Wesen und Wert der Demokratie）於1920年
+主的本質與價值》
+第一版和1929年第二版，Hans Kelsen評論政黨所占的篇幅業已明顯
+有別，且已有透過憲法來規範政黨的基本方向30。對於威瑪時期政
+黨學說的討論，公法學者不約而同地開始解構政黨國家的現象。
+
+
+
+
+27 Gerhard Anschütz, Die Verfassung des Deutschen Reiches vom 11. August 1919: ein
+   Kommentar für Wissenschaft und Praxis, 1929, S. 602-603.
+28 Triepel (Fn. 1), S. 27-28.
+29 Anschütz (Fn. 27), S. 576.
+30 相較於第一版，Hans Kelsen在第二版中曾說明政黨應透過法律來組織化並且該
+   政黨能依其比例數字的多寡來分配國會議員的席次，以符合比例代表制的選舉
+   思維。如此一來，將毫無阻礙地成就政黨作為憲法的必要元素以及罷免國會議
+   員的權利。Vgl. Hans Kelsen, Vom Wesen und Wert der Demokratie, 1920, S. 13 f.;
+   Hans Kelsen, Vom Wesen und Wert der Demokratie, 2. umgearb. Aufl., 1929, S. 23,
+   44（以下簡稱：Kelsen, 1929）. 其原文為：„Könnte man sich dazu entschließen,
+   die politischen Parteien gesetzlich zu organisieren und in konsequenter Durchführung
+   des Gedankens der Proportionalwahl den so gesetzlich organisierten Parteien die
+   Auswahl der ihnen im Verhältnis zu ihrer Ziffermäßigen Stärke gebührenden
+   Abgeordneten zu überlassen, dann stünde nichts im Wege, der zu einem
+   Wesensbestandteil der Verfassung geworden Partei auch das Recht der
+   Abberufung der Abgeordneten zu geben.“（粗體字為本文作者所強調。）
+德國政黨規範理論的轉變                                                                      271
+
+
+參、政黨國家理論（Parteienstaatslehre）的多面
+  向分析
+
+     在1927年Heinrich Triepel的「國家憲法與政黨」一文中，除了
+提出國家與政黨的四個階段論外，其另一主軸則是政黨國家作為憲
+法學說的勾勒31。威瑪時代的國家法學者們乃分別就政黨國家的現
+象，提出理論來填補長久以來政黨在公法學上的空白32。
+
+一、議會制下政黨評價的正反對立
+
+     在帝國走向共和的過程中，新憲法秩序的來臨重塑議會主義的
+原始語意，議會所代表的人民主權無須再與君主的主權進行妥協，
+而係直接透過新憲法秩序來壟斷所有國家權力。人民主權與代議制
+度結合於威瑪憲法中取得語意上同一性，而以議會民主的形式作為
+統治正當性的基礎33。對此，當時的公法學者乃對議會民主制的信
+任與否產生歧異，引發Hugo Preuß和Carl Schmitt對於議會民主的論
+戰，進而連帶影響政黨在議會民主下的正反評價34。
+
+     在負面批評上，延續政黨分化國家的傳統觀點，進而認為政黨
+的存在牴觸國家是以德意志完整性（Deutsche Einheit）的根本價值
+
+
+
+31 Triepel (Fn. 1), S. 28 ff.
+32 除參見以下所介紹較為經典的Otto Koellreutter和Gerhard Leibholz政黨國家理論
+   外，在Richard Thoma和Gustav Radbruch的相關文獻中亦有談論政黨國家的相關
+   內容，請參閱：Richard Thoma, Der Begriff der modernen Demokratie in seinem
+   Verhältnis zum Staatsbegriff. Prolegomena zu einer Analyse des demokratischen
+   Staates der Gegenwart, in: Palyi (Hrsg.), Hauptprobleme der Soziologie,
+   Erinnerungsgabe für Max Weber, Bd. 2, 1923, S. 39 (60); Gustav Radbruch, Die
+   politischen Parteien im System des deutschen Verfassungsrechts, in: Anschütz/Thoma
+   (Hrsg.), Handbuch des Deutschen Staatsrechts, Bd. I, 1930, S. 285 ff.
+33 Kelsen, 1929 (Fn. 30), S. 38 ff.; Gerhard Leibholz, Das Wesen der Repräsentation
+   unter besonderer Berücksichtigung des Repräsentativsystems: ein Beitrag zur
+   allgemeinen Staats- und Verfassungslehre, 1929, S. 78 ff., 163 ff.
+34 Gusy (Fn. 13), S. 58 ff., 73 ff.
+272                                         《中研院法學期刊》第21期（2017年9月）
+
+
+以 及 由 德意 志 完 整性 所 建 構的 國 家 中立 性 （ Neutralität ）。 Carl
+Schmitt認為現實上與憲法脫鉤的政黨，在國家意志的形成過程中，
+不斷帶入政黨自身觀點與私益考量，進而破壞議會代表人民的統一
+性 （ Die Einheit des Volkes ） 與 憲 法 作 為 政 治 統 一 （ politische
+                                            35
+Einheit）下集體決斷的意義內涵 。此一政黨代表特定利益與觀點
+在國家意志形成過程中對於德意志完整性的扭曲，連帶衝擊國家在
+經濟、社會、政治的公共事務上的中立性，而使國家受到社會利益
+衝突與政治鬥爭的危害，喪失其超越黨派的國家中立性36。政黨的
+存在分化人民的統一，而黨團的密室協商亦取代自由代議的過程。
+政黨佔據人民主權代表的結果，其不僅反映出公法長期對於政黨的
+忽 視 ， 亦 體 現 憲 法 規 範 （ Verfassungsnorm ） 與 憲 法 現 實
+（Verfassungswirklichkeit）之間的藩籬。現實存在的政黨已逾越並架
+空 威 瑪 憲 法 第 21 條 自 由 代 議 的 憲 法 規 範 下 ， 成 為 超 越 憲 法
+（extrakonstitutionelle）的表徵37 。亦如Fritz van Calker教授所言：
+「政治的本意在於統一，惟政黨卻使之分歧。」（die Idee der Partei
+                                  38
+trennt, die Idee der Politik eint. ）
+
+      在正面評價上，威瑪憲法之父Hugo Preuß駁斥盧梭公共意志
+（ Volonté générale ） 觀 點 下 ， 個 體 與 集 體 之 間 不 容 有 媒 介
+（Zwischenbildung）存在的謬誤，而認為個人與個人之間是需要組
+織的。政黨自我組織（Selbstorganisation）的特性能代表全體人民
+的民意（öffentliche Meinung），成為議會民主不可或缺的功能39。
+基於Hugo Preuß對政黨的肯認，在威瑪憲法業已勾勒出政黨競爭
+
+
+35 Carl Schmitt, Der Hüter der Verfassung, 1931, S. 82-91（以下簡稱：Schmitt, 1931）;
+   Carl Schmitt, Verfassungslehre, 1929, S. 247 f., 319.
+36 Schmitt, 1931 (Fn. 35), S. 132 ff.; Triepel (Fn. 1), S. 12 ff.
+37 Carl Schmitt, Die geistesgeschichtliche Lage des heutigen Parlamentarismus, 1926, S.
+   59-63; Triepel (Fn. 1), S. 18 ff., 29.
+38 Fritz van Calker, Wesen und Sinn der politischen Parteien, 1930, S. 8, 37.
+39 Hugo Preuß, Reich und Länder: Bruchstücke eines Kommentars zur Verfassung des
+   Deutschen Reiches, 1928, S. 269 f.
+德國政黨規範理論的轉變                                                                           273
+
+
+（Parteienkampf）的民主圖像40，然而此一民主圖像的描繪須面臨現
+實政治上的妥協。首先，從專制國家至人民國家的轉變背景上必須
+對抗社會主義的鬥爭，確立民主共和的憲政體制而非布爾什維亞
+（Bolschewismus）的方向41；其次，在代議制度的開展下，不平等
+的三級選舉制度和多元分歧政黨體系（Parteienzersplitterung）的帝
+國遺緒，在殘餘票值的考量下淘汰了相對多數決制度，而以政黨比
+例 代 表 制 作 為 選 舉 代 議 的 最 終 選 項 42 ； 最 後 ， 在 統 治 模 式
+（Herrschaft）的設計上，多元分歧的政黨體系亦成為議會和總統二
+元體制的關鍵變因。在議會政府的組成上，有別於英、美、法兩黨
+制的初始模式，聯盟（Koalition）作為議會政府模式，併以民選的
+總統作為德意志的共和代表，整合統一多元分歧的政黨體系乃構成
+德意志民主的統治形式43。三條軸線的相會，政黨的理解不再是字
+面上Partei的部分意涵或者帝國敵人的稱謂，而轉為制憲考量的關
+鍵因素，其不僅是鑲嵌在代議民主與人民主權的同一語意中，並掌
+握代議選舉的民主傳遞路徑，而使民主國家的背後浮現政黨國家的
+身影。
+
+二、Otto Koellreuter的政黨國家理論
+
+      1925 年 Otto Koellreutter 教 授 於 《 政 黨 與 現 代 國 家 》（ Die
+politischen Parteien im modernen Staate ）， 首 先 提 出 政 黨 國 家
+（Parteienstaat）以及制衡政黨國家（gegen Parteienstaat）的原始概
+念44。其彙整現代國家、議會民主和政黨國家三者的歷史脈絡以及
+
+
+
+40 Hugo Preuß, Nationale Demokratie (26.09. 1920), in: Preuß, Staat, Recht und Freiheit,
+   2006, S. 429 (432).
+41 Hugo Preuß, Volksstaat oder verkehrter Obrigkeitsstaat? (14.11. 1918), in: Preuß,
+   Staat, Recht und Freiheit, 2006, S. 365 (368).
+42 Thoma (Fn. 32), S. 60-63.
+43 Hugo Preuß, Denkschrift zum Entwurf des allgemeinen Teils der Reichsverfassung (3.
+   Januar 1919), in: Preuß, Staat, Recht und Freiheit, 2006, S. 368 (384 ff.).
+44 Otto Koellreutter, Die politischen Parteien im modernen Staate, 1925, S. 12, 89.
+274                                        《中研院法學期刊》第21期（2017年9月）
+
+
+當代政黨理論的詮釋，進而在憲法學的視野下建構其自身的政黨國
+家理論，以凸顯公法學界忽略政黨存在的憲法現實（Verfassungs-
+wirklichkeit）
+            。
+
+      在新憲法秩序中，威瑪憲法第130條第1項仍對政黨存有負面評
+價，惟其第1條主權在民原則的制定下，確立政黨成為現代憲法國
+家中不可或缺的角色。人民主權的行使乃係每個公民透過間接或直
+接 選 舉 來 代 表 ， 票 數 的 加 總 則 為 政 見 的 形 成 （ politische
+Willensbildung）。在此一脈絡下，政黨享有的票數加總後的權利主
+體地位並承擔提出候選人作為人民代表的責任，而議會內政黨間的
+合作與對抗亦造就政見的形成45。政黨成為現代憲法國家的元素，
+若無政黨的決定性參與則議會民主的國家體制亦將無法運行。其
+次，在威瑪憲法第21條雖規範「議員為全體人民之代表，不受訓令
+之拘束，只服從其良心」，惟憲法現實上，政黨不僅掌握提名權，
+亦在黨團強制（Fraktionszwang）的運作下掌控議事，使代議體系
+僅浮現政黨機器的意志，而非全體人民的意志46。再者，威瑪憲法
+第22條第1項比例代表制的預設下，妥協了多元分歧的政黨體系以
+及追求政治統一的理念，而其相關的選舉規範與選舉程序亦有利於
+政黨在大眾民主下迅速地組織與發展，形成民主結構下由平等選舉
+權下所創建的特權地位47。此一特權地位除於議會內進行立法的妥
+協外，其亦依循著憲政傳統與威瑪憲法第54條的國會同意權下由多
+數黨來籌組政府，形成Hugo Preuß所規劃之議會式的政黨政府
+（parlamentarische Parteienregierung） 48 。至此，新憲法秩序下議
+會、政黨、政府三者的一體化業已描繪政黨國家的樣貌。
+
+      文末，Otto Koellreutter提出制衡政黨國家的三個憲法設計，分
+
+
+45 Koellreutter (Fn. 44), S. 62 f.
+46 Koellreutter (Fn. 44), S. 64 f.
+47 Koellreutter (Fn. 44), S. 66 ff., 87.
+48 Koellreutter (Fn. 44), S. 71 ff.
+德國政黨規範理論的轉變                                 275
+
+
+別為確立國家元首（Staatsoberhaupt）的地位、公務員與政黨的分
+立以及議會體系外的職業代表會議，希冀以全民直選超越黨派國家
+元首（總統）之方式、強調職業公務員官僚體系在日常生活中的行
+政管理以及非貴族血統的職業階級代表，來對抗議會主義在選舉制
+度、公務員體制和特定階級利益的擴散並限制政黨的統治49。惟此
+一制衡政黨國家之憲法解釋的仍無法有效地限制政黨領袖對於國家
+的統治（Herrschaft），如同當代公法學者Richard Thoma所言：「現
+代民主的統治者乃以政黨為首50」。最終仍不可避免的形成現代國
+家下政黨領袖獨裁的結果。
+
+三、Gerhard Leibholz的政黨國家理論
+
+      同樣於威瑪共和時期並著眼於政黨國家現象的乃有Gerhard
+Leibholz，其於Heinrich Triepel的指導下，以「代議的本質」（Das
+Wesen der Repräsentation）作為教授資格論文。在該書中，同樣闡
+述君主議會二元論至議會民主體制後，政黨國家的演變。不同於
+Otto Koellreutter憲法體系解釋下的政黨國家理論，Gehard Leibholz
+的政黨國家理論是以代議理論的歷史脈絡作為核心，來加以論證政
+黨國家與憲法規範之關聯性。
+
+      自法國大革命後，代議體制與人民主權在憲法中匯流，成為代
+議憲法（Repräsentativverfassung）的思潮。在代議憲法下，政府的
+組成不僅為全體人民自我決定的代議，其亦須承擔代議體制統治下
+全民意志的整合，進而合併為議會政府體制（Parlamentarisches
+                                51
+Regierungssystem），形塑現代民主下議會主義的樣貌 。而除議會
+與政府的憲法代議地位外，自由委任原則亦為代議憲法的內涵，用
+以保障國會議員的決策自由。惟此一決策自由的帷幕乃隱藏著國會
+
+
+49 Koellreutter (Fn. 44), S. 86 ff.
+50 Thoma (Fn. 32), S. 61.
+51 Leibholz (Fn. 33), S. 78-82.
+276                                      《中研院法學期刊》第21期（2017年9月）
+
+
+議員服從於政黨組織或黨團的指令（Weisung），連帶影響代議士的
+發言與投票，凸顯了代議憲法與政治現實的背離。代表部分特定利
+益的政黨卻掌控著代表全體人民的代議士，使得依據良心、無私且
+成熟的議事過程淪為無意義的典禮儀式，破毀代議體制與議會主義
+的正當性52。此外，代議士所面臨「政黨的部分性」和「代議的全
+體性」之衝突，亦隨著政黨比例代表制的憲法化而加劇。此一人民
+先行投票給政黨，由政黨提名代議士的分工選舉模式，完全架空由
+全體人民與代議士所構建的代議體制，背離代議的原始語意，而形
+成代議體制的危機53。
+
+      然而，政黨存在於代議士、議會和選舉制度三者的政治現實乃
+係憲法所未能預見且規範的。面對此一政治現實與憲法規範的背
+離，Gerhard Leibholz所構思的政黨國家理論，承繼了Hans Kelsen以
+憲法規範政黨的構想方向，而欲將政黨統治（Parteienherrschaft）
+之政治現實納入憲法的規範中54。其理論內涵乃將政黨國家視為直
+接民主的替代（Surrogat），強調政黨在大眾民主下作為人民傳聲筒
+（Sprachrohre）功能之不可或缺，透過直接民主的概念來合理化政
+黨國家的存在。在統治者與被統治者於民主語意的平等地位下，公
+共意志的形成（Gemeinwillensbildung）是源於統治者與被統治者同
+一性，而不再是由全體人民所賦予的代議。以同一性原則
+（ Identitätsprinzip ） 來 接 替 代 議 原 則 的 詮 釋 下 ， 多 數 黨 的 意 志
+（Parteienmehrheitswille）與全民的公共意志（Volonté générale）將
+視為同一，進而構建政治意見的統一55。此一直接民主的同一性解
+釋乃化解了「政黨的部分性」和「代議的全體性」之衝突，說明了
+公共意志的形成過程。而使Gerhard Leibholz政黨國家理論作為憲法
+
+
+52 Leibholz (Fn. 33), S. 98-103.
+53 Leibholz (Fn. 33), S. 114-117.
+54 Leibholz (Fn. 33), S. 117 Fn. 5; vgl. Kelsen, 1929 (Fn. 30), S. 23; Hans Kelsen, Das
+   Problem des Parlamentarismus, 1926, S. 13 f.
+55 Leibholz (Fn. 33), S. 118-122.
+德國政黨規範理論的轉變                                                                       277
+
+
+理論用以開創政黨統治之規範法理，並啟發關於政黨的憲法規範。
+此外，透過直接民主的同一性解釋，亦確立政黨作為人民傳聲筒來
+形成國家政見的憲法功能，開啟憲法學說視野下政黨的功能性定
+位，提供理論性基礎於將來憲法政黨條款之制定。
+
+
+
+肆、政黨條款的憲法釋義學
+
+一、基本法第21條的立憲過程
+
+     1945年第二次世界大戰結束，授權法、領袖原則、單一政黨乃
+成為過去，而在法蘭克福文件（Frankfurter Dokumente）簽署下迎
+接新的憲法時刻來臨。首先在憲法層次納入政黨規範乃屬1947年的
+巴登州憲法（Verfassung des Landes Baden vom 18. Mai 1947）
+                                                  ，其在
+公法教授Theodor Maunz的起草下，於第9章第118條至120條納入政
+黨規範之章節，分別規範防衛性民主下政黨禁止的內涵、政黨門檻
+的限制、政黨的組成自由、政黨的功能性定義，退出政黨的自由以
+及代議士的良心條款，成為憲法政黨條款的先驅56。
+
+   （一）Herrenchiemsee的制憲會議
+     聚焦在德國基本法的制定過程中，首先在制憲大會中巴伐利亞
+版之基本法草案（Der Bayerische Entwurf eines Grundgesetzes für
+                                      57
+den Verfassungskonvent）中，並未出現政黨規範的相關條文 。關
+
+
+
+56 Paul Feuchte, Quellen zur Entstehung der Verfassung des Landes Baden von 1947, 2.
+   Teil, 2001, S. 395 f.; Frank R. Pfetsch, Zur Verfassung des Landes Baden im Mai
+   1947, in: Weinacht (Hrsg.), Gelbrotgelbe Regierungsjahre. Die Badische Politik nach
+   1945, 1988, S. 127 (144).
+57 Deutscher Bundestag und Bundesarchiv (Hrsg.), Der Parlamentarische Rat 1948-
+   1949: Akten und Protokolle, Der Verfassungskonvent auf Herrenchiemsee, Bd. 2,
+   1981, S. 1 ff.
+278                                    《中研院法學期刊》第21期（2017年9月）
+
+
+於政黨條款的入憲過程是在1948年8月Herrenchiemsee的制憲會議中
+（Verfassungskonvent auf Herrenchiemsee）才逐漸明朗。第一階段委
+員會的報告（Bericht des Unterausschusses I）中乃首次出現關於政
+黨條款的討論。其主要的提案人為Carlo Schmid教授，其主張為落
+實反法西斯民主政黨統一戰線（Einheitsfront der antifaschistischen
+demokratischen Parteien）的共同決議，強調只能透過司法審查的方
+式，才能將政黨於選舉中排除。其選舉必須至少有兩個政黨以上來
+參與，為一有效的政黨競爭，且該政黨之章程和候選人應透過投票
+來產生。此一目的乃在確保排除危險的政黨，而非對於群眾組織採
+取許可制的管制 58 。柏林的制憲代表Otto Suhr先生亦贊同此一主
+張，並要求制定政黨法和該司法審查必須是由司法最高機構來審
+理59 。最後作成初步決議：「若政黨危害自由法治並以獨裁統治為
+目標，經司法訴訟確定後，應禁止該政黨參與選舉和表決。」此
+外，該委員會亦對政黨法的基本原則作出了初步的框架，為下列七
+點內涵60：
+      1. 在民主國家的實踐上，良好運作的政黨是不可或缺的。以法
+        律的形式來維持政黨作為憲法元素亦顯屬必要。
+      2. 政黨法之首要目的在於預防政黨走向獨裁而成為犯罪的工
+
+
+58 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 57), S. 211 Fn. 72. 關於防衛性
+   民主或戰鬥性民主的起源，see Karl Loewenstein, Militant Democracy and
+   Fundamental Rights I, 31 AM. POL. SCI. REV. 417, 417-33 (1937); Karl Loewenstein,
+   Militant Democracy and Fundamental Rights II, 31 AM. POL. SCI. REV. 638, 638-58
+   (1937). 有一審查意見指出排除該主題相關判決的討論乃甚為可惜。對此，本
+   文在囿於篇幅和契合主題的考量下，有意省略若干判決的具體討論。而關於聯
+   邦憲法法院對於防衛性民主的相關判決論證與評析可參閱：BVerfGE 2, 1; 5, 85;
+   28, 36; 30, 1; 39, 334; Christoph Gusy, Die „freiheitliche demokratische
+   Grundordnung“ in der Rechtsprechung des Bundesverfassungsgerichts, AöR 105
+   (1980), S. 279 ff. 此外，今年德國聯邦憲法法院對「德意志國家民主黨」
+  （Nationaldemokratische Partei Deutschlands, NPD）的政黨違憲審查作出無庸解
+   散（kein Verbot）的判決，vgl. BVerfG, Urteil des Zweiten Senats vom 17. Januar
+   2017 - 2 BvB 1/13.
+59 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 57), S. 211 Fn. 72.
+60 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 57), S. 212 f.
+德國政黨規範理論的轉變                                                               279
+
+
+        具。此一目的之達成須透過刑法來加以規制。
+     3. 政黨之成立不應有額外的許可程序，得依循社團法的一般規
+        定。
+     4. 所有政黨必須符合民主組織的架構。落實黨章和黨組織的定
+        期修訂與決議、理事會（Vorstände）以秘密選舉的方式定期
+        改選、政黨財務以及人事須公開的透過黨員大會來決策。
+     5. 所有政黨應在公職選舉中以平等的機會被對待。候選人的產
+        生須透過黨員意見徵詢（Urabstimmung）、比例代表制的政
+        黨名單應依黨員初選投票高低作為提名的依據、關於妨礙集
+        會、威脅演講者、破壞投票所等妨礙選舉之事由應透過刑法
+        來加以特別規範。若未達必要票數門檻的少數政黨，則應排
+        除參與國會席次的分配。
+     6. 黨內初選提名和政黨財務之事務應由行政機關來監督。
+     7. 關於政黨法所規範的刑事不法行為應由刑事法院來審判。
+
+     在第三階段的委員會報告（Bericht des Unterausschusses III）
+中，制定政黨法成為一個討論專題。政黨法制定主因在於基本法下
+政 黨 被 明 確 定 義 為 形 成 政 見 的 機 關 （ Organe der politischen
+Willensbildung），而欲以特別法的形式來規範政黨的法律關係。如
+同柏林制憲代表Otto Suhr先生對於政黨法立法目的之看法：「僅以
+消極規範的形式來對抗非民主政黨是不夠的，而應將政黨的任務和
+義務在政黨法中積極的規範。61」此外，關於政黨條款之規範內涵
+業已有具體的共識，即：政黨形成政見之功能性定義、候選人提名
+得僅由政黨壟斷（Parteienmonopol）且應由黨員初選所產生、政黨
+組成自由、百分之五的政黨門檻、政黨之行為或目的在於排除自由
+民主的基本秩序是否構成違憲之事由，僅由憲法法院審查而不受行
+政機關干預之政黨特權概念（Parteienprivileg）已於第三階段委員
+
+
+
+61 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 57), S. 281 Fn. 4.
+280                                      《中研院法學期刊》第21期（2017年9月）
+
+
+會草案的第33條來加以明文62。
+
+      最後，作為制憲大會（Parlamentarischer Rat）基本法草案的
+Herrenchiemsee制憲會議報告（Bericht über den Verfassungskonvent）
+中，已確立憲法規範政黨的三個基本方針，即：禁止專制政黨
+（keine Einzelpartei）的出現、政黨受相關法律規範（Parteikontrol）
+以及政黨法（Parteiengesetz）的立法需要，並具體規範於該草案第
+          63
+4節聯邦議會第47條 ：
+      1. 候選人的提名僅能由政黨決定，其相關之規定委託由各政黨
+       規範。
+      2. 政黨的建立（Bildung）是自由的。政黨的決議是透過黨代表
+       投票所形成的，當一個選舉只有單一政黨來代表是被禁止
+       的。
+
+
+62 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 57), S. 280 f., 311 f.
+63 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 57), S. 523, 537, 589. 本條文之
+   文字為作者自譯，其原始文字為：
+   (1) Wahlvorschläge können nur von Wählergruppen eingereicht werden, die sich den
+       Vorschriften über politische Parteien unterstellen.
+   (2) Die Bildung politischer Parteien ist frei. Abreden der Parteien, durch die die
+       Abgeordneten in ihrer Stimmabgabe so gebunden werden, als ob in der
+       abstimmenden Körperschaft nur eine Partei vertreten sein, sind verboten.
+   (3) Durch Bundesgesetz können die Rechtsverhältnisse der Parteien und ihre
+       Mitwirkung bei der politischen Willensbildung näher geregelt werden. Das Gesetz
+       kann insbesondere bestimmen, daß Wahlvorschläge einer Partei von den
+       Mitgliedern im Wege der Vorwahl beschlossen sein müssen.
+   (4) Das Bundesverfassungsgericht kann Parteien, die sich nach der Art ihrer Tätigkeit
+       die Beseitigung der freiheitlichen und demokratischen Grundordnung zum Ziel
+       gesetzt haben, auf Antrag der Bundesregierung, welcher der Zustimmung des
+       Bundesrats (Senats) bedarf, für verfassungswidrig erklären. Das Gericht kann
+       einstweilige Anordnungen          gegen      solche Parteien     treffen. Ohne
+       verfassungsgerichtliche Entscheidung kann keine Behörde gegen eine Partei
+       wegen verfassungswidriger Betätigung einschreiten.
+   (5) Das Bundeswahlgesetz kann bestimmen, daß Parteien, die nicht weniger 5 v. H.
+       aller gültigen Stimmen auf sich vereinigen, keinen Sitz erhalten, und daß auf
+       zusammengerechnete Reststimmen einer Partei nicht mehr Sitze entfallen, als die
+       Partei in den Wahlkreisen unmittelbar erlangt hat.
+德國政黨規範理論的轉變                                                                      281
+
+
+    3. 透過法律規範，政黨的法律關係和參與人民政治意志決策之
+       形成能更明確。法律得特別規定，政黨的提名必須是經黨內
+       初選而決定。
+    4. 聯邦憲法法院得經聯邦政府的聲請和聯邦眾議院的同意後，
+       宣告政黨違憲，須該政黨已明確破壞自由民主之憲政秩序。
+       憲法法院得對政黨作成暫時處分。未經憲法法院判決，行政
+       機關不得基於危害憲政秩序之事由來干預政黨活動。
+    5. 聯邦選舉法能規定，政黨未達全部有效票的百分之五，則無
+       法獲得席次。政黨剩餘的票不得共同計算和挪用為圈選政黨
+       票來獲得席次。
+
+   （二）制憲大會（Parlamentarischer Rat）
+     1948年9月1日制憲大會在波昂（Bonn）展開，原先憲法草案第
+47條於一讀（1. Lesung Hauptausschuss）後獨立挪至第21a條，且經
+一 般 修 正 委 員 會 （ Stellungnahme des Allgemeinen Redaktions-
+                      64
+ausschusses）將其條文內容更迭如下 ：
+    1. 政 黨 應 參 與 人 民 政 見 之 形 成 。 政 黨 得 自 由 組 成
+      （Gründung）
+               。其內部組織須符合民主原則。
+    2. 政黨依其目的及其黨員之行為，意圖損害或廢除自由、民主
+
+
+64 Deutscher Bundestag und Bundesarchiv (Hrsg.), Der Parlamentarische Rat, 1948-
+   1949: Akten und Protokolle, Entwürfe zum Grundgesetz, Bd. 7, 1995, S. 97, 145. 本
+   條文之文字為作者自譯，其原始文字為：
+   (1) Die Parteien wirken bei der politischen Willensbildung des Volkes mit. Ihre
+       Gründung ist frei. Ihre innere Ordnung muß demokratischen Grundsätzen
+       entsprechen.
+   (2) Eine Parteien, die nach ihren Zielen oder nach dem Verhalten ihrer Anhänger
+       darauf ausgehen, die freiheitliche demokratische Grundordnung zu beseitigenden
+       ist durch das Bundesverfassungsgericht für verfassungswidrig zu erklären.
+   (3) Die Vorschriften über Parteien finden auf andere Vereinigungen Anwendung,
+       soweit sie Wahlvorschläge zum Bundestag oder zu Volksvertretungen in den
+       Ländern einreichen oder Volksbegehren betreiben.
+   (4) Das Nähere regeln Gesetze des Bundes.
+282                                       《中研院法學期刊》第21期（2017年9月）
+
+
+         之基本秩序，為違憲。至於是否違憲，由聯邦憲法法院決定
+         之。
+      3. 其他團體關於聯邦議會的提名、地方性的選舉或公民投票之
+         事務亦適用政黨規範。
+      4. 其細則由聯邦法律規定。
+
+      此 一 前 後 變 更 不 僅 將 「 建 立 」（ Bildung ） 改 為 「 組 成 」
+（Gründung）之文字修正外，並將黨內民主的首創概念納入政黨條
+ 款，將原先政黨初選提名之相關規範昇華成更上位的黨內民主之概
+ 念 。 該 概 念 的 源 起 是 由 中 央 黨 的 政 治 家 Carl Spiecker 先 生 於
+ Herrenchiemsee 制 憲 會 議 時 ， 發 表 「 未 來 德 意 志 憲 法 的 方 針 」
+（Richtlinien für eine künftige deutsche Verfassung vom 12. August
+ 1948）的演講所揭示。其認為：「政黨係國家政治體制之一環且具
+ 公共利益之性質。政黨必須依照民主原則來組織，特別是在黨員大
+ 會的選舉和公職候選人的提名選舉必須依民主原則來產生。乾淨的
+ 政治競選是必須依賴刑法來強化。」成為黨內民主原則的初始內
+ 涵65。而黨內民主的內涵於制憲修正說明上明確指出具有：黨內決
+ 策機關的定期改選、黨章和黨綱須具有黨員表決基礎、黨所提名的
+ 公職候選人須納入黨員的參與（Einfluss）、政治活動經費與財務報
+ 表對黨員公開之規範66。至於，政黨財務公開的入憲化則是待最後
+ 1949年5月6日全體大會二讀（2. Lesung des Plenums）時，由中央
+ 黨的另一位政治家Johannes Brockmann先生提出修改第21條第1項第
+ 3句的建議，變更為：
+          「其內部組織須符合民主原則並透過財務公開
+ 來確保對於非民主勢力（undemokratische Einflüsse）的抗衡。」其
+ 用意在於防止過往納粹所殘留的經濟事業體對如同德意志國家社會
+
+
+ 65 Carl Spiecker, Richtlinien für eine künftige deutsche Verfassung vom 12. August
+    1948, in: Benz (Hrsg.), Bewegt von der Hoffnung aller Deutschen: zur Geschichte des
+    Grundgesetzes, 1979, S. 424 (429); Hans Hugo Klein, in: Maunz/Dürig/Herzog
+    (Hrsg.), Grundgesetz Kommentar, Bd. III, 2015, Art. 21 Rn. 24.
+ 66 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 64), S. 145.
+德國政黨規範理論的轉變                                                                       283
+
+
+主義工人黨（Nationalsozialistische Deutsche Arbeiterpartei, NSDAP）
+之相關政黨繼續提供金援67。然而，此一條文乃於全體大會三讀時
+（3. Lesung des Plenums），由社民黨Friedrich Wilhelm Wagner和
+Georg August Zinn兩位制憲代表將政黨財務之條文，獨立挪至該項
+第4句，並修正為：「政黨應公開說明其經費來源」，而該規範意旨
+乃由「阻斷獨裁政黨的金援」更迭為「透過公開政黨經費來源，用
+以揭露隱身於政治團體背後之人68」，而為1949年5月23日德意志聯
+邦共和國基本法21條第1項第4句公布條文之原始字句69。惟於1983
+年時，德國通過第35次基本法修正案（Gesetz vom 21. Dezember
+1983: Fünfunddreißigstes Gesetz zur Änderung des Grundgesetzes）
+                                                              ，修
+正基本法第21條第1項第4句為：「政黨應公開說明其經費與財產之
+來源與使用」70。故現行基本法第21條條文如下71：
+     1. 政黨應參與人民政見之形成。政黨得自由組成。其內部組織
+        須符合民主原則。政黨應公開說明其經費與財產之來源與使
+        用。
+     2. 政黨依其目的及其黨員之行為，意圖損害或廢除自由、民主
+        之基本秩序或意圖危害德意志聯邦共和國之存在者，為違
+        憲。至是否違憲，由聯邦憲法法院決定之。
+     3. 其細則由聯邦立法規定之。
+
+67 Der Parlamentarische Rat, Stenographischer Bericht, 1969, S. 181; Judith
+   Rübenkönig, Die Rechenschaftspflicht der politischen Parteien nach Art. 21 Absatz 1
+   Satz 4 Grundgesetz, 2003, S. 41 ff.
+68 Der Parlamentarische Rat (Fn. 67), S. 203 f.
+69 Deutscher Bundestag und Bundesarchiv (Hrsg.) (Fn. 64), S. 617.
+70 粗楷體與底線部分為變更文字，由本文作者所強調。其原始德文為：„Sie
+   müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen
+   öffentlich Rechenschaft geben.“ Vgl. Bundesgesetzblatt Teil I, 1983, Nr. 52 vom 23.
+   Dezember 1983, S. 1481; 此一基本法的修正乃係採納政黨財務獨立專家委員會
+   的 建 議 。 Vgl. Vorschläge der Sachverständigen-Kommission, Bericht zur
+   Neuordnung der Parteienfinanzierung, 1983.
+71 該德意志聯邦共和國基本法第21條條文之翻譯文字乃源自司法院網站，
+   http://www.judicial.gov.tw/db/db04/GE-Base-200111.asp（最後瀏覽日：2017年4
+   月7日）    。
+284                                      《中研院法學期刊》第21期（2017年9月）
+
+
+二、Gerhard Leibholz政黨國家理論的轉變
+
+      從上述制憲者對於政黨的立憲要求，不僅可以查明制憲者的原
+意，進而理解政黨條款主題式的條文解構以及具體規範意旨的轉
+變。而政黨條款於基本法第21條的確立，亦填補憲法規範下關於政
+黨統治的空白，告別過往政黨逾越憲法的法律狀態，使合於憲法秩
+序的政黨被賦予「參與人民政見之形成」的憲法功能。惟此一政黨
+國家憲法化的過程，波昂基本法卻分別納入了基本法第38條：「議
+員為全體人民之代表，不受命令與訓令之拘束」所代表的19世紀
+「 自 由 代 議 民 主 」（ liberale                        parlamentarisch-repräsentative
+Demokratie）以及基本法21條所代表20世紀的「現代政黨國家式的
+大眾民主」（moderne parteienstaatliche Massendemokratie）。對此，
+二個不同的民主理念於基本法的分立成為Gerhard Leibholz續造政黨
+國家理論的新起點72。
+
+      聚焦在基本法時期政黨國家理論的內涵，政黨存在於代議士、
+議會和選舉制度三者的政治現實乃因新憲法秩序的變動下，亦有所
+更迭。首先在民主的概念上，古典代議民主由代議士代表公共意志
+的原始意涵乃被政黨形成公共意志之政黨國家民主所替代。在政黨
+組織、行動、傳遞的功能下將不可避免地造成政黨佔據公共意志的
+結果，由政黨來形成政治協商統一（politische Handlungseinheit），
+而使政黨國家民主作為具有理性決策之直接民主。如同直接民主下
+多數意志將被視為全民的意志的同一性原則，在政黨國家民主下亦
+有由多數黨組成議會政府來代表全民意志之相同內涵73。其次，匯
+
+
+72 Gerhard Leibholz, Volk und Parteien im neuen deutschen Verfassungsrecht, DVBl.
+   1950, S. 194 (196). Vgl. Peter M. Huber, Parteien in der Demokratie, in:
+   Badura/Dreier (Hrsg.), Festschrift 50 Jahre Bundesverfassungsgericht, Zweiter Band,
+   2001, S. 609 ff.
+73 Gerhard Leibholz, Der Strukturwandel der modernen Demokratie, 1958, S. 93 f.（以
+   下 簡 稱 ： Leibholz, 1958 ）; Gerhard Leibholz, Parteienstaat und repräsentative
+   Demokratie, DVBl. 1951, S. 1 (3 f.)（以下簡稱：Leibholz, DVBl. 1951）.
+德國政黨規範理論的轉變                                                                         285
+
+
+聚議會、代議士、政黨的三者關係下，議會的軸心乃因議會法下的
+黨團強制、黨團協商、委員會等之規範，由代議士轉向為政黨主
+導。而原先考量全體人民之利益，不受原選區選民拘束之自由委任
+代議士，其卻受制於政黨紀律與黨團強制而服從於政黨，呈現政黨
+強制委任的實質內涵。即國會議員於表決時若違背該政黨路線
+（Parteilinie）
+            ，政黨得開除其黨籍，進而連帶失去其國會議員資格，
+形成制度上罷免（Recall）。此一罷免結合政黨獨占的提名權，將使
+國會議員的去與留由政黨來定奪，政黨的權力亦凌駕於國會議員的
+任期制上74 。基本法第38條代議民主與第21條政黨國家民主交織
+後，呈現出「以代議士自由委任之名，行政黨強制委任之實」的民
+主。古典意義的代議在政黨權力的擴張而消失，第38條的良心條款
+成為代議士消極對抗政黨黨紀的徽章，僅具象徵意義而不具實質意
+義。最後在聚焦在選舉制度的變革，由古典代議民主走向政黨國家
+民主，選舉的意義不再是19世紀下自由代表議會主義的內涵，業已
+由代議士的個人特質趨向代議士之政黨歸屬。而此一選舉法的變
+遷，在強調平等的選舉權與殘餘票值的過程中，政黨逐漸累積權力
+於中介程序，疏離人民與代議士的連結，削弱人民的選舉決策
+權75。
+
+
+74 Leibholz, 1958 (Fn. 73), S. 103. 本文特別說明：在德國現行規範上，基本法第38
+   條第1項第2句：「議員為全體人民之代表，不受命令與訓令之拘束，只服從其
+   良心。」第46條第1項：              「議員不得因其在聯邦議會投票或發言，對之採取法律
+   或懲戒行為，亦不對聯邦議會以外負責。但誹謗不在此限。」均具有排除政黨
+   指令（Parteiweisung）干預代議士的規範意旨。而德國政黨法第10條第4項明確
+   規範開除黨籍的構成要件，亦具有防免政黨以開除黨籍作為手段來干預代議士
+   的規範意旨。因此，在自由委任的原則下，代議士並非為政黨或原選區選民的
+   代表，而是成為全體人民的代表。黨籍資格的有無和當選後國會議員的資格乃
+   相互獨立。參見：Peter Badura, in: Dolzer (Hrsg.), Bonner Kommentar zum
+   Grundgesetz, V.5, 2015, Art. 38 Rn. 87; Franz Ferdinand Siegfried, Mandatsverlust
+   bei Parteiausschluß, Parteiaustritt oder Parteiwechsel, ZRP 1971, S. 9 (9 ff.); Helmut
+   Trautmann, Abgeordnetenstatus und Parteizugehörigkeit, JZ 1970, S. 405 (405);
+   Dimitris Th. Tsatsos, Mandatsverlust bei Verlust der Parteimitgliedschaft?, DÖV 1971,
+   S. 253 (253 ff.); Norbert Achterberg, Parlamentsrecht, 1984, S. 255 f.
+75 Leibholz, 1958 (Fn.73), S. 104.
+286                                         《中研院法學期刊》第21期（2017年9月）
+
+
+      至此，基本法政黨條款的制定，不僅確立政黨形成政見的獨占
+功能，亦重新說明新憲法秩序下代議士、議會和選舉制度三者由代
+議民主到政黨國家民主的轉向，確定基本法以政黨國家式民主作為
+優先順序的排列76。面對政黨國家民主作為基本法的新民主結構，
+預防政黨不可避免的寡頭趨向成為下一階段的憲法課題，而黨內民
+主化的法律規範成為政黨規範的新起點，如政黨組織決策應依循民
+主原則、多數決原則的遵循、由下而上和地方到中央的黨內決策路
+徑、黨員權利的法律保障、政黨候選人的提名法制等概念乃成為未
+來制定政黨法的必要元素77。若比較威瑪憲法時代和波昂基本法時
+期，Gerhard Leibholz政黨國家理論的殊異，其均以政黨存在於代議
+士、議會和選舉制度三者的政治現實作為觀察視角，來建構其自身
+的政黨國家理論。惟不同之處在於威瑪時代下的政黨國家理論係以
+補充政黨統治下憲法規範之空白，並提出憲法秩序下政黨統治之規
+範法理，而影響政黨合於憲法之立憲要求；波昂基本法時期乃在說
+明基本法下第21條政黨國家民主與第38條代議民主於基本法的分立
+矛盾，透過優先順序的憲法解釋，來開啟下一階段政黨民主化的政
+黨規範。此二政黨國家理論乃分別反映不同時代下政黨憲法化與政
+黨民主化的規範思潮78。
+
+
+76 Leibholz, DVBl. 1951 (Fn. 73), S. 7.
+77 Leibholz, 1958 (Fn. 73), S. 123 ff.; Gerhard Leibholz/Hans Reif, Verfassungsrechtliche
+   Stellung und innere Ordnung der Parteien, Verhandlungen des 38. Deutschen
+   Juristentages, 1951, S. C21-25; Gerhard Leibholz, Zum Parteiengesetz von 1967, in:
+   Ehmke/Schmid/Scharoun (Hrsg.), Festschrift für Adolf Arndt zum 65. Geburtstag,
+   1969, S. 179 (179 f.).
+78 有一審查意見指出排除該政黨國家相關判決的討論乃甚為可惜。對此，本文在
+   囿於篇幅和契合主題的考量下，有意省略若干判決的具體討論。而關於Gerhard
+   Leibholz在1951到1971年之間擔任聯邦憲法法院法官期間，將其政黨國家理論
+   帶入了憲法法院裁判之中的相關判決與文獻，可參閱：BVerfGE 1, 208 (223 f.);
+   2, 1 (73); 4, 27 (30); 5, 85 (133 f.); 6, 367 (372); 11, 239 (241); 11, 266 (273); 20, 56
+   (101) 而可發現其相關論述。Vgl. Jan Hecker, Die Parteienstaatslehre von Gerhard
+   Leibholz in der wissenschaftlichen Diskussion, Der Staat 1995, S. 287 (292 ff., 306);
+   Christian Nettersheim, Die Parteienstaatstheorie von Gerhard Leibholz, 2008, S. 103
+   ff.
+德國政黨規範理論的轉變                                                                     287
+
+
+三、Konrad Hesse的三重憲法地位
+
+     相對於Gerhard Leibholz從政黨國家理論來建構政黨民主化之政
+黨規範體系，Konrad Hesse乃從法律應然與實然的二分，對應憲法
+的政黨規範與政黨現實，而提出憲法的政黨規範應到何種程度
+（Wieweit）的問題，並對此以政黨的三重憲法地位作為基本法政黨
+條款下憲法釋義學的核心內涵，用以確保政黨在自由民主的憲政秩
+序下形成政見的功能，進而開展政黨權利義務之法律體系79。
+
+     在憲法釋義的路徑上，有別於Gerhard Leibholz從基本法第21條
+與第38條兩種民主模式的矛盾中的排序，Konrad Hesse直接從基本
+法第20條的民主原則去探尋基本法第21條政黨條款的的規範意涵。
+該理論的起點在於基本法第20條的民主原則的詮釋，其並非是「由
+人民治理」
+    ，而是「為人民治理」
+             。此一脈絡下，國家權力並非直接
+來自人民給予，而係人民依其偏好透過選舉、基本權利的維護、權
+力分立的制度來進行政治權力的平衡，進而在封閉的憲法體系內建
+立其正當性，政黨的任務則係透過多數決的民主秩序來成就政治領
+袖 的 統 治 正 當 性 80 。 政 黨 在 此 僅 為 形 塑 政 治 權 力 的 承 擔 者
+
+
+79 Konrad     Hesse/Gustav E. Kafka/Karl A. Bettermann/Erwin Melichar, Die
+   verfassungsrechtliche Stellung der politischen Parteien im modernen Staat, VVDStRL
+   17 (1959), S. 11 (12). 此外，同上理由，關於Konrad Hesse在該篇文章中將政黨
+   定位為國家與個人的中間體（Zwischenglieder）的見解乃被聯邦憲法法院於
+   BVerfGE 20, 56 (101)判決所引用，而揚棄了以往Gerhard Leibholz的政黨國家理
+   論。當時身為聯邦憲法法院法官的Gerhard Leibholz因迴避事由而並未參與
+   BVerfGE 20, 56的判決。可參閱：BVerfGE 20, 9; Manfred H. Wiegandt, Norm und
+   Wirklichkeit, Gerhard Leibholz (1901-1982) - Leben, Werk und Richteramt, 1995, S.
+   68 ff.; Hecker (Fn. 78), S. 308; Netterdheim (Fn. 78), S. 173.
+80 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 20 f. 值得注意，此一民主模式的說
+   明上，Konrad Hesse在該文註釋第22處引用了Joseph A. Schumpeter, Kapitalismus,
+   Sozialismus und Demokratie, 7 erw. Aufl., 1993 一書的競爭式民主理論。即：民
+   主作為一政治方法，在於透過制度安排來產生政治決定，以選票競爭的方式來
+   獲得決策權。各個政黨透過自由的選舉競爭來形塑一個政治市場。對此，本文
+   認為Hesse的論證結構是先行選取Schumpeter競爭式民主理論，來確立在該多元
+   民主制度安排下政黨的任務與功能，而後再以此一理想的政黨功能和任務作為
+288                                  《中研院法學期刊》第21期（2017年9月）
+
+
+（Träger）或媒介（Mittel），並非同一性原則下政黨與公共意志化同
+等之的統治者地位。對此，基本法第21條第1項第1句：「政黨應參
+與人民政見之形成」的傳遞功能意涵被詮釋為政黨應致力政治領袖
+的培養和選任，並於選舉中透過贏得多數來建立統治正當性，而少
+數黨僅能建立反對黨，一併形成人民政見後呈現於議會與政府的場
+域，將政黨的傳遞功能作為形成國家意志的制度化功能81。
+
+      鑒於政黨形成國家意志的憲法功能與政黨條款的憲法規範作用
+於基本法第21條的實踐，Konrad Hesse乃匯流二者，提出政黨三重
+憲法地位的憲法理論，透過政黨自由、政黨平等、政黨公共地位之
+三個概念來保障和拘束政黨形成政見的過程，以利政黨能發揮最佳
+化功能。
+
+      在政黨自由的內涵上，其開展為政黨內、外部自由與禁止政黨
+介入國家機構內之三個面向。首先，在外部自由上應確保政黨的表
+意自由，用以維繫政黨作為政見自由形成過程中傳遞者或媒介者的
+功能。若聚焦國家機構對政黨外部自由的限制上，則在基本法第21
+條第1項第2句的政黨組成自由和第21條第2項的政黨解散交織下，
+政黨外部自由可放射為組成、參加、退出和解散自由之四個光譜，
+並透過第21條第3項的立法委託，以法律確保該政見自由形成過程
+中由政黨的來傳遞82。其次，政黨內部自由是以基本法第21條第1
+項第3句黨內民主作為核心，黨內民主並不僅係要求由下而上的決
+策路徑，其更深之意涵在於寡頭趨勢的抗衡。面對黨團對於代議士
+的強烈影響，自由委任原則的維繫須要黨內民主原則的互助，透過
+
+
+   前提去建構政黨三重的憲法地位。儘管Hesse在建構三重憲法地位時雖未再談
+   Schumpeter的理論內涵，但實質卻是以Schumpeter的理論作為預設。此一觀點
+   的補充可參閱：Julian Krüper, Wiedergelesen: Klassiker des Parteienrechts –
+   Konrad Hesse: Die verfassungsrechtliche Stellung der politischen Parteien im
+   modernen Staat, VVDStRL 17 (1959), S. 11 ff., MIP 2007, S. 22 (24).
+81 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 24 f.
+82 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 28 f.
+德國政黨規範理論的轉變                                              289
+
+
+發展更多黨內民主規範內涵來加以確保政見自由形成的過程，進而
+形塑出確保候選人提名之黨員參與權、黨主席選舉之黨員參與權、
+黨務人事之任期制、黨員權利保障等相關政黨內部民主之規範83。
+最後，在禁止政黨介入國家機構的規範內涵上，則強調政黨於政見
+自由形成的傳遞者特質，並非統治者的地位。就其二者的不相容
+性，業已由基本法第21條第3項國家透過法律來管制政黨之規範目
+的來加以分界，即國家應透過法律來管制政黨對於國家權力的濫
+用，避免政黨壟斷的產生84。
+
+     政黨平等原則係指少數政黨能獲得相同機會在競爭民主中取得
+政治領袖的合法性地位，而以機會平等的概念來保障各個政黨自
+由，進而建構出政黨間的法律上平等。在法律平等上強調每個政黨
+均能享有基本法第21條第2項得政黨特權並均負擔第21條第1項第
+3、4句的黨內民主和財務公開之義務。然而，此一法律上的平等在
+聯邦選舉法上的百分之五政黨門檻、議會法上委員會組成的門檻、
+公共廣播之政黨廣告時間而具有大、小黨的差別待遇，而產生相關
+的法律爭議。對於政黨規範上的差別待遇，Konrad Hesse主張以正
+當理由（Gesichtspunkt）的有無來加權衡，其正當理由的視角乃在
+於有無使政黨形成政見的功能地位產生質變（Modifikation），而使
+法 律上的平 等呈現比 例式平等 （ proportionale Gleichheit ） 的 內
+涵85。再者，法律上的政黨平等並不保證成就政黨事實上的平等。
+各個政黨財務狀況的不同乃如同人類社會不平等的起源一般，反映
+出社會分歧的政黨體系。法律的規範並無法成就各個政黨的財務或
+廣告時間的事實上平等，僅能透過基本法來制定政黨財務公開義
+務，或者如同英國限制競選經費的規範，來確保各個政黨具有機會
+參與上的平等。若欲透過法律來成就事實上的政黨平等則僅有一黨
+
+
+83 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 29 ff.
+84 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 33 f.
+85 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 36 f.
+290                                《中研院法學期刊》第21期（2017年9月）
+
+
+專制的國家才有此一可能86。
+
+      在政黨公共地位上強調政黨憲法功能所造就政黨規範性質之特
+殊性，其有別於一般社團的社團規範，亦非國家組織之範疇，惟政
+黨組成之際乃依基本法第9條之結社自由權利而獲得一般社團法地
+位 ， 而 後 在 參 與 政 見 形 成 中 重 疊 於 基 本 法 第 21 條 的 特 別 地 位
+（Sonderstatus）
+             ，對於此一特別法律地位，聯邦憲法法院將其定義為
+憲法機關（Verfassungsorgan），但憲法並未設置過機關，而使政黨
+的法律地位呈現一個不明確（unklar）的狀態87。因此，對於政黨
+融合憲法與民法要素所產生的法律地位為何，Konrad Hesse提出以
+公共性的法律概念作為政黨公法地位之解釋，其聚焦在基本法第21
+條第2項防衛性民主的內涵下政黨合於憲法的義務，並職司全體人
+民的政見形成，以選舉來展現，有別於一般社團的部分性，而在憲
+法授權的全體性下確認政黨公共性的法律地位，來納入公法之範
+疇88。
+
+      小結以言，Konrad Hesse三重憲法地位的貢獻乃有別於Gerhard
+Leibholz從Carl Schmitt民主同一性的觀點來開創政黨民主化之政黨
+規範，而係以「由人民治理」到「為人民治理」的轉換作為前提，
+進而建構政黨自由、平等、公共之三重憲法地位。
+
+
+
+86 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 38 f.
+87 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 39 f.
+88 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 45 f. 此處Konrad Hesse政黨公共地
+ 位的解釋乃為德國政黨憲法地位學說分歧之一部。而就其政黨憲法地位之學說
+ 分歧主要乃有國家機關說、社會團體說和媒介說。惟對於此一學說爭議的討
+ 論，中文文獻已相當豐富。如：陳耀祥，德國的政黨法律地位，憲政時代，17
+ 卷3期，頁52-55（1992年）；陳慈陽，論政黨在憲法位階上之意義及地位，收
+ 於：憲法規範性與憲政現實性，頁143-146（1997年）；陳愛娥，憲政體制下政
+ 黨與政府組成的關係，收於：明居正、高朗編，憲政體制新走向，頁151-153
+ （2001年）
+       ；蔡宗珍，我國憲政體制下政黨的定位、發展及其危機，收於：憲法
+ 與國家（一），頁180（2004年）。本文在文章重心和篇幅限制的考量下，故捨
+ 而不論。
+德國政黨規範理論的轉變                                                                    291
+
+
+伍、政黨法學（Parteienrechtswissenschaft）的學
+  科形成
+
+     1967年德國政黨法之立法為政黨規範理論帶來一個新起點。從
+法學上的新大陸（juristisches Neuland）到政黨法學建立的發展過程
+中，其首先乃面臨政黨法律定義之難題，而後在政治學有關政治厭
+惡（Politiksverdossenheit）的現象研究上，發展出政黨管制取向的
+政黨法，並承繼競爭式民主下的政黨規範傳統，將競爭元素重新納
+入政黨法，進而成就政黨法學的新面貌。
+
+一、政黨概念的立法形成
+
+     從1949年基本法第21條第3項制定政黨法的立法委託至1967年
+政黨法才頒布施行。在德國政黨法十餘年的立法形成過程，1955年
+由 德 國 內 政 部 所 召 開 的 政 黨 法 制 定 委 員 會 （ Parteienrechts-
+kommission）與德國聯邦憲法法院歷年來的相關判決對於政黨概念
+的形塑均扮演著重要角色。
+
+     首先，就德國內政部政黨法制定委員會的討論中，其於1957年
+所呈現的會議報告中分別以歷史、社會、政治、法律等不同學科背
+景探討政黨法的立法背景、商擬政黨規範的可能與前提，而以憲法
+政黨條款下政黨概念、政黨自由、黨內民主、政黨財務公開和防衛
+性民主為基石，形塑出政黨法的規範框架，以達成政黨法作為維護
+政黨功能之立法目的89。聚焦在政黨概念的立法形成上，基本法第
+21條並未明確定義什麼是政黨，而是積極地規範政黨的功能並賦予
+政黨組織、目的和義務的限制。此一具有政黨管制色彩的憲法條款
+乃連帶影響立法上政黨概念的定義限縮。政黨法制定委員會認為在
+
+
+89 Vgl. Bundesministerium des Innern (Hrsg.), Rechtliche Ordnung des Parteiwesens,
+   Bericht der vom Bundesminister des Innern eingesetzten Parteienrechtskommission,
+   1957.
+292                                       《中研院法學期刊》第21期（2017年9月）
+
+
+基本法第21條第1項第1句：「政黨應參與人民政見之形成」和基本
+法第20條第2項第2句：「國家權力，由人民以選舉及公民投票，並
+由彼此分立之立法、行政及司法機關行使」之交織下政黨負有嚴肅
+地提出政治綱領（politische Programme）和候選人的義務，進而得
+出政黨為選舉準備組織（Wahlvorbereitungsorganisation）之本質內
+涵，並對政黨概念作出下列結論90：
+      1. 參與選舉；
+      2. 致力於在議會中直接參與政見之形成；
+      3. 政治綱領應在參與政見形成的方式下來實現；
+      4. 具有最低程度的持續性與穩定性。其特徵為該政治團體已在
+        議會內代表或具備最低程度的組織（如理事會、黨章和與理
+        事會和辦事處相對應的分支機構）
+                      。
+
+      此一委員會的結論乃影響後來德國政黨法的草擬與制定。德國
+政黨法第2條第1項：「政黨是由國民所組成的團體，其已持續或長
+期在聯邦或邦的範圍內影響政治意志的形成，並以參選成為聯邦眾
+議院或邦議會之民意代表為目的；政黨亦須在實際狀況上的整體形
+象，特別是從組織規模的穩定性和包容性、黨員的數目與公開的表
+現上，足以確保該政黨目的之嚴肅性。政黨的組成上黨員必須是自
+然人。」從該條文觀之，政黨法第2條第1項並未明確給予政黨的定
+義，而是如同該委員會的建議，在法律的層次上以結構性、目的性
+與嚴肅性（Ernstlichkeit）來說明憲法意義下政黨的概念 91 。易言
+
+
+90 Bundesministerium des Innern (Hrsg.) (Fn. 89), S. 127 ff.
+91 Martin Morlok, in: Dreier (Hrsg.), Grundgesetz Kommentar, Bd. II, 3. Aufl., 2006,
+   Art. 21 Rn. 35 ff.; Wilhelm Henke, Das Recht der politischen Parteien, 2. neu
+   bearbeitete Aufl., 1972, S. 35 ff.; Karl-Heinz Seifert, Die politischen Parteien im
+   Recht der Bundesrepublik Deutschland, 1975, S. 160 ff.; Jörn Ipsen, in: Ipsen (Hrsg.),
+   Parteiengesetz: ParteienG, Gesetzüber die politischen Parteien Kommentar, 2008, §2
+   Rn. 3 ff.; Sophie-Charlotte Lenski, Parteiengesetz und Recht der
+   Kandidatenaufstellung: Handkommentar, 2011, §2 Rn. 3 ff.; Hinnerk Wißmann, in:
+   Kersten/Rixen (Hrsg.), Parteiengesetz (PartG) und europäisches Parteienrecht, 2009,
+德國政黨規範理論的轉變                                                                          293
+
+
+之，政黨概念的立法模式為要素導向性的描述，而非要件形成性的
+定義92。而德國聯邦憲法法院對於以三要素來指明政黨概念的立法
+模式，乃均作出合憲性的判斷93。就此三要素的內涵而言，結構性
+是指政黨作為以人之結合的社團性質；在目的性上，聯邦憲法法院
+進一步地明確指出：「政黨之任務乃不僅為選舉準備組織，除此功
+能外，其亦為不可或缺的民主秩序。政黨致力於使基於自由意志的
+公民結合成一個政治行動實體，而該實體是以有組織化地參與國家
+機關之政見形成為目標並且能使公民實現對國家事務有效之影響。
+政黨應致力於政策目標之擬定以及傳達給公民而使其參與之。其應
+呈現出社會與個人相關之問題並提供適當的解決方案。在民主國家
+下國家機關和人民之間以及政黨和政黨之間存在一個重要的互動過
+程（Rückkoppelung）。政黨不僅僅侷限在一次又一次的議會選舉行
+為中，其應積極貫徹使人民的意志與國家機關的決策能形成經常性
+和多樣性的互動。94」最後在嚴肅性的解釋上，聯邦憲法法院則認
+為：政黨是一個嚴肅的政治實體，並非由選民隨機形成而後通過申
+請的短期團體95。在政治團體發展成政黨的情狀下，隨著時間的推
+移，該政治團體必須贏得重要條件後，始能賦予政黨法律地位。該
+重要條件的客觀要素雖已在政黨法第2條第1項所規範，惟其判斷準
+據 應 放 在 實 際 狀 況 上 的 整 體 形 象 （ Gesamtbild der tatsächlichen
+              96
+Verhältnisse）上 。此一判斷重心的確立在近年聯邦憲法法院的決
+
+
+
+
+   §2 Rn. 40 ff.
+92 Morlok (Fn. 91), Art. 21 Rn. 35 ff.; 蔡宗珍，憲法、國家與政黨—從德國經驗
+   探討政黨法制化之理論與實踐，收於：憲法與國家（一），頁164-166（2004
+   年） 。
+93 BVerfGE 47, 198 (222); 79, 379 (384); 89, 266 (269 ff.); 91, 262 (266 f.); 91, 276
+   (284 ff.).
+94 BVerfGE 20, 56 (114); 44, 125 (139 f.); 73, 40 (85); 83, 37 (50); 83, 60 (71); 85, 264
+   (284).
+95 BVerfGE 3, 19 (27); 12, 10 (27); 89, 266 (270).
+96 Vgl. BVerfGE 91, 262 (270 f.); 91, 276 (288 f.).
+294                                       《中研院法學期刊》第21期（2017年9月）
+
+
+議中並未有所改變97。
+
+      就此，政黨概念的立法形成乃從原先基本法第21條第1項第1句
+的功能性概念，經由政黨法制定委員會加以導向至參與選舉的內
+涵，而形成現行德國政黨法第2條第1項的文字，以三要素來形成政
+黨法律概念的描述，進而成就政黨概念的立法形成。
+
+二、第二代的政黨法學
+
+      在1967年政黨法的立法，不僅完成憲法政黨條款、政黨法和黨
+章的政黨規範體系，另一方面1990年以後政治學界所高度關注民主
+危機（Krise der Demokratie）
+                       、政治厭惡（Politikverdrossenheit）
+                                                  、政
+黨厭惡（Parteienverdrossenheit）之政治現象乃開啟政黨法學的新場
+域98。
+
+      政黨國家的民主危機顯現於政黨權力的擴張與政黨信任度降低
+之反差。1990年以後德國各政黨黨員人數和選舉投票率的降低反映
+著一般公民參與決策的無力感，而形塑公民參與政治的冷漠。對比
+之下，政黨的權力並不因選民或黨員的流失而有所衰退，其以形成
+政見的獨占地位享有政黨財務補助，而無止境地擴權至媒體、司
+法、公務員、學術等各領域，成就政黨的官僚主義化。政黨國家將
+轉變為一個新的利維坦（Leviathan）來重新宰制社會，而政黨菁英
+
+
+97 BVerfG, Beschlüsse des Zweiten Senats vom 23. Juli 2013 - 2 BvC 1/13 bis 2 BvC
+   12/13.
+98 Kai Arzheimer, Politikverdrossenheit. Bedeutung, Verwendung und empirische
+   Relevanz eines politikwissenschaftlichen Begriffs, 2002, S. 28 ff., 102.; Michael
+   Stolleis/Heinz    Schäffer/René    A.    Rhinow/Klaus       Lange/Rüdiger       Breuer,
+   Parteienstaatlichkeit – Krisensymptome des demokratischen Verfassungsstaats? Die
+   öffentlichrechtliche Anstalt, VVDStRL 44 (1986), S. 8 (17 ff.); Martin Morlok, Für
+   eine zweite Generation des Parteienrechts, in: Tsatsos (Hrsg.), 30 Jahre Parteiengesetz
+   in Deutschland, 2002, S. 53 (53 ff.); Foroud Shirvani, Das Parteienrecht und der
+   Strukturwandel im Parteiensystem: staats- und europarechtliche Untersuchungen zu
+   den strukturellen Veränderungen im bundesdeutschen und europäischen
+   Parteiensystem, 2010, S. 106.
+德國政黨規範理論的轉變                                                                         295
+
+
+成為社會結構的政治階級99。其中，對此一政治論述著力最深的乃
+屬海德堡大學政治系教授Klaus von Beyme和史派爾行政大學公法教
+授Hans Herbert von Arnim兩位。Klaus von Beyme教授聚焦在精英理
+論的脈絡下，來探討政治階級是什麼以及政治階級作什麼兩個基本
+問題100。其認為應在政治菁英的概念下限縮政治階級的內涵，該二
+者雖重疊於同一社會背景，惟分殊於納稅人利益與私利追求之不同
+取向。政治階級追求私利的負面行為，僅僅只是利用現代民主下政
+黨國家的特權結構來成就政黨精英自身的利益獨占。
+
+      而同樣關注政治階級的Hans Herbert von Arnim教授，則將政治
+階級的權力擴張與權力濫用歸因於政黨透過選舉獨占地位與政黨財
+務的操作（國家補助與私人捐助）來進行政治壟斷，進而造成政黨
+競爭秩序的裂解，使公民間的機會平等消失在企業與政黨所形成的
+政治階級101。
+
+      此一政治學上對於政黨信任危機的論述開啟了政黨法學的新課
+題。Martin Morlok教授以第二代政黨法為主題來重新定位政黨法的
+規範功能。其認為第一代的政黨法係以政黨作為政治過程的必要媒
+介為核心，透過憲法條文來確保該政黨功能，進而延伸至政黨自
+由、政黨財務、機會平等、參與選舉之相關政黨規範的建置102，本
+文認為此一時期乃以Dimitris Th. Tsatos 與Martin Morlok合著的首本
+政黨法教科書《政黨法：一個憲法上的導論》作為代表103；第二代
+政黨法目的乃在於透過政黨規範來解決政黨民主的危機，最大化的
+實現政黨於憲法預設下的理想功能，將政黨法納入法律政策的範疇
+
+
+99 Stolleis/Schäffer/Rhinow/Lange/Breuer (Fn. 98), S. 22 ff.; Morlok (Fn. 98), S. 61 ff.
+100 Klaus von Beyme, Die politische Klasse im Parteienstaat, 1993, S. 38 f.
+101 Hans Herbert von Arnim, Demokratie ohne Volk: Plädoyer gegen Staatsversagen,
+    Machtmissbrauch und Politikverdrossenheit, 1993, S. 19.
+102 Morlok (Fn. 98), S. 55.
+103 Dimitris Th. Tsatsos/Martin Morlok, Parteienrecht: eine verfassungsrechtliche
+    Einführung, 1982, S. V.
+296                                     《中研院法學期刊》第21期（2017年9月）
+
+
+下，透過政黨法律地位之確立與深化，來防免政黨在政治系統和國
+家組織的權力濫用104。對此，從政黨公開的法律地位與政黨規範的
+司法實踐成為第二代政黨法的兩大支柱。政黨公開之政黨管制乃係
+導入公眾監督（Laienkontrolle），透過政黨組織外部的公民來制衡
+政黨組織內部的集權獨占與謀取私利；司法裁判的政黨管制在於黨
+員權利的司法救濟以及政黨財務的司法裁判。在黨員權利的司法救
+濟方面，其著重於透過黨內民主進行黨員權利的法制化，以外部獨
+立的司法來打破政黨內部集體分贓的醬缸文化105，在政黨財務的司
+                 （Begriff der Entscheidung
+法裁判上則是強調「對自己事務的抉擇」
+in eigener Sache）此一概念於司法審查標準選取時的運用，即在政
+黨財務的議題上，政黨作為政黨規範所制約的對象，卻同時作為政
+黨規範的制定者，呈現出球員兼裁判的政治集體壟斷。面對此一自
+肥風險的控管須要司法採取嚴格審查來作為立法替代（Ersatzgesetz-
+         106
+geber）         。最後，Martin Morlok教授乃強調第二代的政黨法不僅
+在追求單一政黨問題的法律見解，而是希冀強化政黨法律體系的規
+範邏輯，來管制政黨的無止境的權力擴張與裙帶關係
+（Ämterpatronage），進而在政黨所有的行動領域上，如組織結構、
+財務、媒體、外國事務均應有相對應的規範來加以限制107。
+
+三、政黨法作為競爭法
+
+      政黨法作為競爭法的緣起是Joseph A. Schumpeter《資本主義、
+社會主義與民主》一書所提出競爭式精英民主理論作為思考的起
+
+
+
+104 Morlok (Fn. 98), S. 55; Shirvani (Fn. 98), S. 67.
+105 Morlok (Fn. 98), S. 64 ff.
+106 Morlok (Fn. 98), S. 68 ff.; Hans-Jochen Vogel, Entscheidungen des Parlaments in
+    eigener Sache, Zeitschrift für Gesetzgebung, 1992, S. 293 (293 ff.); Hans Herbert
+    von Arnim, Wahlgesetze: Entscheidungen des Parlaments in eigener Sache, JZ 2009,
+    S. 813 (813 ff.).
+107 Martin Morlok, Handlungsfelder politischer Parteien, in: Ipsen (Hrsg.), 40 Jahre
+    Parteiengesetz Symposium im Deutschen Bundestag, 2010, S. 53 ff.
+德國政黨規範理論的轉變                                                                     297
+
+
+點，民主作為一政治方法，在於透過制度安排來產生政治決定，即
+以選票競爭的方式來獲得決策權。各個政黨透過自由的選舉競爭來
+形塑一個政治市場 108 。而後，Anthony Downs在《民主的經濟理
+論》乃聚焦在投票行為與政治決定的理性分析，計算交易價值的利
+益最大化，開拓了理性選擇在政治的理論模型。在Downs的民主模
+型下，理性選民考量自身利益而圈選對自己效益最高的政黨；理性
+政黨為能獲取選票的最大化，須迎合多數選民而推出相對應的政治
+商品，政黨與選民在選舉競爭上相互理性算計，構成了政黨政治的
+面貌109。
+
+     此一民主的經濟理論新風潮對於政黨規範的貢獻在於將競爭狀
+態的概念帶入政黨法，使政黨法作為政治市場的規則
+（Marktregeln），更精確的說，則為政黨競爭的遊戲規則。而關於政
+黨競爭的憲法詮釋，Konrad Hesse業已於三重憲法地位該文中，將
+基本法第20條的民主原則詮釋「為人民治理」之際，已略為提及競
+爭式民主的相關內涵。政黨的任務係透過多數決的民主秩序下去成
+就政治領袖的統治正當性110。而在政黨法的位階上，政黨法在開除
+黨籍的立法討論上，業已考量政黨為政治自由競爭的產物，在黨內
+競爭中必須確保黨員的法律地位和黨內的言論自由，而特別於政黨
+法第10條第4項和政黨法第14條的所特別創設的政黨仲裁，有別於
+一般社團法的開除社員規範，來限制政黨的團體自治權
+（Verbandsautonomie）111。
+
+     然而，上述的競爭式民主於政黨法的思考，都僅為單點或者片
+段式，並未將競爭作為政黨法的要素而以法釋義學的方式來建構政
+黨規範體系。在此Martin Morlok教授乃致力於政黨法作為競爭法的
+
+
+108 Schumpeter (Fn. 80 ), S. 428, 430.
+109 Anthony Downs, Ökonomische Theorie der Demokratie, 1968, S. 26 f., 289 f.
+110 Hesse/Kafka/Bettermann/Melichar (Fn. 79), S. 20 f.
+111 Bundesministerium des Innern (Hrsg.) (Fn. 89), S. 164.
+298                                      《中研院法學期刊》第21期（2017年9月）
+
+
+體系化。其認為從基本法第21條的詮釋下，國家有義務去建構一個
+有效的政黨競爭，來維持議會民主的功能運作，而在第21條第3項
+立 法 委 託 下 ， 國 家 須 形 塑 政 黨 競 爭 之 法 律 管 制 （ rechtliche
+Regulierung ）， 作 為 政 黨 角 逐 選 票 之 零 合 競 賽 （ Null-summen
+                                                           112
+Spiel）的遊戲規則，以保持有效競爭的持續性 。而本於商品市場
+和政治市場相互比擬下，其競爭法律規範體系亦展開類推移植113。
+例如：商品市場的私有財產權、企業經營的職業自由、自由貿易的
+契約自由、穩定的貨幣體系、公平交易的競爭秩序乃分別對應為政
+治市場下公民基本政治權利（言論自由、集會自由等）、公民的選
+舉權與被選舉權、選舉自由、公正的選舉制度、政黨競爭秩序114。
+然而此一類推移植的結果乃必然有其規範法理相扞格之處，例如政
+黨間與廠商間聯合行為的殊異或者金錢裁罰與權力擴張不等價性的
+法律規範，而此一權力與金錢法理的分殊不僅說明了政治市場適用
+商品市場競爭規範的侷限性，亦凸顯政黨法與競爭法的跨領域性格
+（Querschnittscharakter）。對此，Martin Morlok教授認為政黨法作為
+政黨競爭法的的法理建構乃須回溯至政黨憲法地位的連結，進而在
+政黨與國家、政黨與政黨、政黨與公民、政黨與黨員之四個領域
+下，分別以政黨自由、政黨平等、政黨公開和黨內民主四個主軸出
+
+
+
+112 Martin Morlok, Parteienrecht als Wettbewerbsrecht, in: Häberle/Morlok/Skouris
+    (Hrsg.), Festschrift für Dimitris Th. Tsatsos zum 70. Geburtstag, 2003, S. 408 (413
+    f.).
+113 在此Martin Morlok教授亦論及美國法上民主作為市場的類推適用（即：
+    Samuel Issacharoff & Richard Pildes, Politics As Markets: Partisan Lockups of the
+    Democratic Process, 50 STAN. L. REV. 643, 643-717 (1998)）; Morlok (Fn. 112), S.
+    412 Fn. 23. 惟美國法上的發展乃走向民主法之政治反托拉斯（Political
+    Antitrust）取向，see Kevin Mitchell, Antitrust Analysis: A Roadmap for Election
+    Reform under the First Amendment, 10 COMMLAW CONSPECTUS 157, 157-73 (2001).
+    中文文獻請參閱：蘇彥圖，關於政治反托拉斯理論的三個故事，東吳公法論
+    叢，5卷，頁550（2012年）              。而Morlok教授認為德國法上的發展仍基於政黨的
+    憲法地位以有效競爭為核心來進行法釋義學。
+114 Jan Köhler, Parteien im Wettbewerb: zu den Wettbewerbschancen nicht-etablierter
+    politischer Parteien im Rechtssystem der Bundesrepublik Deutschland, 2006, S. 53.
+德國政黨規範理論的轉變                                           299
+
+
+發並融入「有效競爭」的要素，深化並成就政黨法作為政黨競爭法
+的法律詮釋115。
+
+   首先在政黨與國家的領域下，政黨自由早已在防止國家干預的
+自由（Staatsfreiheit）的初始概念，透過學說開展籌法律形式選擇
+自由、內部組織形成自由、名稱、章程、目標、參與選舉、財務自
+由等面向116。惟在政黨自由到政黨競爭自由的合併詮釋中，防止國
+家干預的政黨自由乃轉變為禁止政黨與國家結合所生之限制競爭的
+行為，即以國家和政黨的分立來確保國家行政中立和政治市場的競
+爭秩序117。至於在政治市場的競爭秩序中如何維持有效競爭乃須重
+返選舉法的範疇來重新詮釋。首先，有效競爭的理想模式在於政黨
+之間相互競爭來追求選票最大化的過程中，提供了一個創新的過程
+（Entdeckungsverfahren），用以產生新的政策並呈現於選舉中由公民
+來選擇，成就公共政策的討論、各方利益的整合與公共利益的形
+成118。在此一脈絡下國家對於維護政黨競爭有效性和連續性的義務
+乃成為限制政黨競爭自由的新起點。其一方面得援以解釋政黨門檻
+與政黨財務補助的立法正當性外，另一方面國家得藉以透過相關立
+法來賦予政黨於政治市場的資訊公開義務，來保障選民的交易資
+訊，而避免政治市場的失靈。
+
+   其二，在政黨與政黨之間所強調政黨平等原則上，除基於國家
+中立性而生法律上的平等外，其更深的意涵乃在於從機會平等到政
+
+
+115 Morlok (Fn. 112), S. 411 f. 有一審查意見提出關於政黨法作為競爭法的詮釋
+    下，Morlok教授和Hesse教授二者理論脈絡為何的疑問。對此，本文認為
+    Morlok教授深化或補充Hesse教授的理論可以作為答覆。易言之，其二者均使
+    以競爭式民主理論為基礎，相繼去建構政黨規範理論。Hesse教授著重於前階
+    段，競爭式民主和政黨憲法地位的理論整合，而Morlok教授拓展後階段，在
+    政黨憲法地位下去指明各領域下競爭法的規範內涵以及德國政黨法的相關具
+    體條文。
+116 Klein (Fn. 65), Art. 21 Rn. 124.
+117 Köhler (Fn. 114), S. 69 f.; Morlok (Fn. 112), S. 440.
+118 Morlok (Fn. 112), S. 414.
+300                                       《中研院法學期刊》第21期（2017年9月）
+
+
+黨競爭機會平等的延伸。即以機會平等強調出發點平等
+（Startgleichheit）而非結果平等（Gleichheit im Ergebnis）的性質，
+去形塑平等競爭的初始條件，並非以人為調控方式改變終點來保證
+各政黨目的之實現。此一政黨競爭結合機會平等的解釋早先由公法
+學者Ernst Forsthoff所創始，其認為在基本法第21條第1項第2項政黨
+組成自由的憲法規範下，政黨不因成立先後順序，於民主選舉中來
+加以差別待遇，將政黨競爭機會平等納入政黨組成自由的射程範圍
+中119。而基本法第21條第2項的規範亦指明基本法上只有違憲政黨
+與合憲政黨的差別待遇。最後在憲法實踐上，德國聯邦憲法法院則
+是以自由且開放的政治過程（Die Freiheit und die Offenheit des
+politischen Prozesses）為核心，去形塑一個機會平等的政治競爭以
+及制度化的政黨體系，透過新的政黨（新競爭者）以及小黨的參與
+來確保有效競爭的政治市場以及政黨競爭機會平等120。
+
+      另關於政黨與公民之間的政黨公開，政治市場的資訊公開為競
+爭秩序的必要條件，理性選民得以據此加以判斷其所欲選擇的商品
+（政黨）內容，進而要求公開政黨內部結構、組織章程、所代表社
+會利益與關係網絡和財務狀況。特別是在基本法第21條第1項第4句
+財務公開的要求有助於理性選民在投票判斷上，檢視該政黨主張理
+念所代表的資金來源，禁止匿名的政治獻金，用以確保各政黨在參
+與人民形成政見的過程，為一理念對決的有效競爭121。因此，在此
+
+
+
+119 Ernst Forsthoff, Zur verfassungsrechtlichen Stellung und inneren Ordnung der
+    Parteien, in: Forsthoff/Loewenstein/Matz (Hrsg.) Die politischen Parteien im
+    Verfassungsrecht, 1950, S. 12 f.
+120 有一審查意見指出排除該政黨競爭相關判決的討論乃甚為可惜。對此，本文
+    在囿於篇幅和契合主題的考量下，有意省略該判決的具體討論。而關於其相
+    關判決可參閱：BVerfGE 14, 121 (133); 73, 40 (86); 82, 322 (337); 85, 264 (288,
+    293); 91, 276 (285 f.); 111, 382 (404 f.); 135, 259 (285); BVerfG, Urteil des Zweiten
+    Senats vom 16. Dezember 2014 - 2 BvE 2/14 - Rn. 28; Martin Morlok, Das BVerfG
+    als Hüter des Parteienwettbewerbs, NVwZ 2005, S. 157 ff.
+121 Köhler (Fn. 114), S. 72 f.; Morlok (Fn. 112), S. 432, 439.
+德國政黨規範理論的轉變                                                301
+
+
+一有效競爭的解釋下，國家不僅僅是透過政黨財務公開來使公民對
+等知悉相關的交易資訊，國家應更進一步地透過確保公職候選人所
+受國家財務補助能最低限度的參與選舉並贏得選舉，用以建立一個
+有效的競爭體系和確保政治創新的價值122。
+
+    最後在黨內民主作為競爭秩序的要求上，原先黨內民主的內涵
+於基本法草擬之際乃僅具有黨內決策機關的定期改選、黨章和黨綱
+須具有黨員表決基礎、黨所提名的公職候選人須納入黨員的參與、
+政治活動經費與財務報表對黨員公開之相關內涵，而尚未出現有關
+在黨內民主作為內部競爭秩序的說理。黨內民主作為內部競爭秩序
+的建構乃係從黨員權利義務的法律保障出發，特別是避免黨主席恣
+意的開處黨籍，防止形成政黨組織寡頭傾向。此一規範理念的形成
+乃首見於1950年第38屆德國法學家會議，而於該會討論並創設出開
+除黨籍應由黨內獨立政黨法庭（unabhängiges Parteigericht）決定的
+制度規範123。該獨立政黨法庭的制度規範亦於政黨法制定委員會被
+採納，並進一步的明確黨員法律地位的保障124。現行德國政黨法第
+10條黨員權利的明文和第14條政黨仲裁法庭的設立（Parteischieds-
+gerichte）乃均提形塑黨內公平競爭機制，黨內的主流與非主流團
+體均基於黨員身分而享有黨員權利，如：黨員被選舉和選舉權、黨
+員大會的出席權、黨內決策的參與權等。而就黨員權益的遭受侵
+害，黨員得透過外部司法受益權來保障黨員參與和黨內競爭的民主
+條件，以維持政黨內部的有效競爭125。
+
+
+
+122 Morlok (Fn. 112), S. 421 f.
+123 Leibholz/Reif (Fn. 77), S. C83; 關於黨內民主的中文文獻可參閱：陳新民，政黨
+   的內部民主制度，東吳法律學報，6卷1期，頁25-64（1988年）；法治斌、董保
+   城，憲法新論，3版，頁37-38（2006年）；蕭文生，國家法I—國家組織篇，
+   頁204（2008年）      ；黃仁俊，開除黨籍與司法審查—黨內民主原則的再出發，
+   東吳法律學報，27卷4期，頁101-132（2016年）                        。
+124 Bundesministerium des Innern (Hrsg.) (Fn. 89), S. 163-165.
+125 Köhler (Fn. 114), S. 73 f.; Morlok (Fn. 112), S. 429.
+302                  《中研院法學期刊》第21期（2017年9月）
+
+
+陸、結論
+
+      回顧德國政黨理論的發展歷程，Heinrich Triepel的四階段論凸
+顯政黨超越憲法規範的存在並開拓了公學法下的政黨法學說。政黨
+國家作為憲法學說，分歧於議會民主的信任與否，連帶影響政黨的
+憲法評價。在此，Gerhard Leibholz的政黨國家理論借用Carl Schmitt
+的同一性理論來接替代議原則的詮釋，合理化了公共意志的形成過
+程，並結合Hans Kelsen透過憲法規範政黨的基本方向，將政黨形成
+國家意志的事實面轉變為規範面，構成基本法21條第1項第1句：
+「政黨應參與人民政見之形成」為政黨憲法功能之良善規範。此
+外，如何在基本法秩序下型塑政黨規範，以Carlo Schmid為首的基
+本法之父們乃取材於反法西斯民主政黨同一陣線的成立，為防止獨
+裁政黨造成民主潰敗，而將政黨自由、黨內民主、政黨財務公開、
+防衛性民主四個憲法價值納入政黨條款，並以制定政黨法之方式來
+確立政黨民主化的政黨規範。然而，此一主題導向的政黨條款，提
+升原於威瑪憲法結社自由下的政黨地位，透過政黨特權理論來開啟
+政黨與社團的不同憲法評價，進而開啟政黨規範的憲法釋義學。在
+概念體系為主的法釋義學下，Konrad Hesse以政黨的三重憲法地位
+奠定政黨條款的憲法釋義學，確保政黨在自由民主的憲政秩序下形
+成政見的媒介或傳遞功能，進而開展政黨於憲法上的權利與義務。
+1967年政黨法的立法，不僅以三要素來形成政黨法律概念的描述，
+成就政黨概念的立法形成，亦完成憲法政黨條款、政黨法和政黨黨
+章的法位階定序。而政黨法學作為一個學科之形成過程中，Martin
+Morlok教授提出從「政黨條款的憲法釋義學」到「政黨管制的法律
+政策」的方法論轉向，來劃分第一代與第二代政黨法學的內涵。其
+強調第二代政黨法以政黨公開和司法裁判之法律手段來管制政黨權
+力濫用與裙帶關係下的過度自利，並將政黨法定位為競爭法，透過
+商品市場與政治市場規範的相互比擬，將有效競爭融入政黨法的法
+律詮釋之中，用以建構政黨法學的自身特點。
+德國政黨規範理論的轉變                303
+
+
+  再者，聚焦於政黨概念的法律變遷，從反社會主義者法的特定
+意識型態團體、社團法的政治社團、比例代表制的依附、威瑪憲法
+的排斥、基本法的功能性概念到政黨法的三要素描述，一再的反應
+出政黨隨時代而變動的地位與本質。其政黨概念並非一成不變的要
+件定義，而是鑲嵌於隨著現實不斷變動的政治文化。現今政黨的概
+念在歷經政黨憲法化和政黨民主化的兩大潮流下，確立防衛性民
+主、代議民主與競爭式民主三個基本價值方向後，轉化為具有原則
+性質的規範概念，而來要求政黨須盡一切最大的可能來實現三種民
+主原則的基本價值。由此可知，政黨規範概念的形成並非服膺於單
+一的民主原則，而是在防衛性民主、代議民主與競爭式民主原則交
+織下於社團法、選舉法、議會法、政黨法等不同法秩序下去形塑政
+黨規範的概念，使政黨最大化地實現憲法預設下的理想功能。因
+此，政黨的法律概念乃與憲政民主下的政黨體制，形成功能化與理
+想化的連結。
+
+  最後，從「政黨條款的憲法釋義學」到「政黨管制的法律政
+策」的方法論轉向中可發現，政黨規範的理論發展與政治現實的省
+思乃息息相關。政黨規範的實用個性並不侷限於政黨違憲解散的具
+體事務，而正朝向可司法化的政黨競爭規範前進。在此一進程乃加
+深機會平等的政治競爭以及政黨體系有效競爭的可操作性，凸顯出
+政黨規範理想性與實用性的雙面本質。
+304                                《中研院法學期刊》第21期（2017年9月）
+
+
+
+
+                              參考文獻
+
+1. 中文部分
+
+Heinrich Triepel著，薩孟武譯（1979）
+                           ，政黨的發展，收於：薩孟武
+      編 ， 孟 武 自 選 文 集 ， 頁 183-201 ， 臺 北 ： 三 民 。 [Triepel,
+      Heinrich (1928), Die Staatsverfassung und die politischen Parteien,
+      Berlin: O. Liebmann.]
+王琪（2007），俾斯麥與1878年〈反社會主義者法〉的頒布，成大
+      歷史學報，33號，頁119-158。
+法治斌、董保城（2006）
+            ，憲法新論，3版，臺北：元照。
+陳慈陽（1997），論政黨在憲法位階上之意義及地位，收於：憲法
+      規範性與憲政現實性，頁131-177，臺北：翰蘆。
+陳愛娥（2001），憲政體制下政黨與政府組成的關係，收於：明居
+      正、高朗編，憲政體制新走向，頁143-161，臺北：新臺灣人
+      文教基金會。
+陳新民（1988），政黨的內部民主制度，東吳法律學報，6卷1期，
+      頁25-64。
+陳耀祥（1992），德國的政黨法律地位，憲政時代，17卷3期，頁
+      52-104。
+黃仁俊（2016），開除黨籍與司法審查—黨內民主原則的再出
+      發，東吳法律學報，27卷4期，頁101-132。
+蔡宗珍（2004），我國憲政體制下政黨的定位、發展及其危機，收
+      於：憲法與國家（一）
+               ，頁179-224，臺北：元照。
+─（2004），憲法、國家與政黨—從德國經驗探討政黨法制
+      化之理論與實踐，收於：憲法與國家（一），頁135-224，臺
+      北：元照。
+        ，國家法 I—國家組織篇，臺北：元照。
+蕭文生（2008）
+德國政黨規範理論的轉變                                                         305
+
+
+蘇彥圖（2012），關於政治反托拉斯理論的三個故事，東吳公法論
+    叢，5卷，頁541-558。
+
+2. 外文部分
+
+Achterberg, Norbert (1984), Parlamentsrecht, Tübingen: Mohr Siebeck.
+Anschütz, Gerhard (1929), Die Verfassung des Deutschen Reiches vom
+    11. August 1919: ein Kommentar für Wissenschaft und Praxis,
+    Berlin: Stilke.
+Arnim, Hans Herbert von (1993), Demokratie ohne Volk: Plädoyer
+    gegen Staatsversagen, Machtmissbrauch und Politikverdrossenheit,
+    München: Knaur.
+─ (2009), Wahlgesetze: Entscheidungen des Parlaments in eigener
+    Sache, JZ, S. 813-820.
+Arzheimer, Kai (2002), Politikverdrossenheit. Bedeutung, Verwendung
+    und empirische Relevanz eines politikwissenschaftlichen Begriffs,
+    Wiesbaden: Westdt Verl.
+Badura, Peter (2015), in: Dolzer (Hrsg.), Bonner Kommentar zum
+    Grundgesetz, V.5, Heidelberg: C. F. Müller, Art. 38.
+Bergsträsser, Ludwig/Mommsen, Wilhelm (1965), Geschichte der
+    politischen Parteien in Deutschland, 11. Aufl., München: G. Olzog.
+Beyme, Klaus von (1993), Die politische Klasse im Parteienstaat,
+    Frankfurt am Main: Suhrkamp.
+Bismarck, Otto Eduard L. (1866), Fürst Bismarck als Redner, Berlin:
+    Spemann.
+Bluntschli, Johann Caspar (1969), Politische Parteien, in: Ziebura
+    (Hrsg.), Beiträge zur allgemeinen Parteienlehre. Zur Theorie,
+    Typologie und Vergleichung politischer Parteien, Darmstadt:
+    Wissenschaftliche buchgesellschaft, S. 22-32.
+Cahn, Ernst (1909), Das Verhältniswahlsystem in den modernen
+306                                 《中研院法學期刊》第21期（2017年9月）
+
+
+
+      Kulturstaaten. Eine staatsrechtlich-politische Abhandlung, Berlin:
+      O. Häring.
+Calker, Fritz van (1930), Wesen und Sinn der politischen Parteien,
+      Tübingen: J.C.B. Mohr.
+Downs, Anthony (1968), Ökonomische Theorie der Demokratie,
+      Tübingen: Mohr Siebeck.
+Feuchte, Paul (2001), Quellen zur Entstehung der Verfassung des Landes
+      Baden von 1947, 2. Teil, Stuttgart: Kohlhammer.
+Forsthoff, Ernst (1950), Zur verfassungsrechtlichen Stellung und inneren
+      Ordnung der Parteien, in: Forsthoff/Loewenstein/Matz (Hrsg.), Die
+      politischen Parteien im Verfassungsrecht, Tübingen: Mohr Siebeck,
+      S. 5-24.
+Frotscher, Werner/Pieroth, Bodo (2011), Verfassungsgeschichte, 10.
+      Aufl., München: C. H. Beck.
+Gageur, Karl (1893), Reform des Wahlrechts im Reich und in Baden,
+      Freiburg im Breisgau: Akademische Verlagsbuchhandlung von
+      J.C.B. Mohr.
+Gusy,     Christoph    (1980),      Die    „freiheitliche   demokratische
+      Grundordnung“           in     der        Rechtsprechung        des
+      Bundesverfassungsgerichts, AöR 105, S. 279-310.
+─ (1993), Die Lehre vom Parteienstaat in der Weimarer Republik,
+      Baden-Baden: Nomos.
+Hatschek, Julius (1915), Das Parlamentsrecht des Deutschen Reiches,
+      Berlin: G.J. Göschen.
+Hecker, Jan (1995), Die Parteienstaatslehre von Gerhard Leibholz in der
+      wissenschaftlichen Diskussion, Der Staat, S. 287-311.
+Hegel, Georg Wilhelm Friedrich (1986), Grundlinien der Philosophie
+      des Rechts, Frankfurt am Main: Suhrkamp.
+Henke, Wilhelm (1972), Das Recht der politischen Parteien, 2. neu
+德國政黨規範理論的轉變                                                        307
+
+
+    bearbeitete Aufl., Göttingen: Otto Schwartz & Co.
+Hesse, Konrad/Kafka, Gustav E./Bettermann, Karl A./Melichar, Erwin
+    (1959), Die verfassungsrechtliche Stellung der politischen Parteien
+    im modernen Staat, VVDStRL 17, S. 11-52.
+Huber, Ernst Rudolf (1978), Deutsche Verfassungsgeschichte seit 1789,
+    Bd. V, Weltkrieg, Revolution und Reichserneuerung: 1914-1919,
+    Stuttgart: Kohlhammer.
+Huber, Peter M. (2001), Parteien in der Demokratie, in: Badura/Dreier
+    (Hrsg.), Festschrift 50 Jahre Bundesverfassungsgericht, Zweiter
+    Band, Tübingen: Mohr Siebeck, S. 609-626.
+Ipsen, Jörn (2008), in: Ipsen (Hrsg.), Parteiengesetz: ParteienG,
+    Gesetzüber die politischen Parteien Kommentar, München: C. H.
+    Beck, § 2.
+Issacharoff, Samuel, and Richard Pildes. 1998. Politics As Markets:
+    Partisan Lockups of the Democratic Process. Stanford Law Review
+    50:643-717.
+Kelsen, Hans (1920), Vom Wesen und Wert der Demokratie, Tübingen:
+    J.C.B. Mohr.
+─         (1926), Das Problem des Parlamentarismus, Wien: W.
+    Braumüller.
+─ (1929), Vom Wesen und Wert der Demokratie, 2. umgearb.
+    Aufl., Tübingen: J.C.B. Mohr.
+Klein, Hans Hugo (2015), in: Maunz/Dürig/Herzog (Hrsg.), Grundgesetz
+    Kommentar, Bd. III, München: C. H. Beck, Art. 21.
+Koellreutter, Otto (1925), Die politischen Parteien im modernen Staate,
+    Breslau: F. Hirt.
+Kotulla, Michael (2005), Deutsches Verfassungsrecht 1806-1918, Eine
+    Dokumentensammlung nebst Einführungen, Band 1, Berlin:
+    Springer.
+308                                   《中研院法學期刊》第21期（2017年9月）
+
+
+
+Köhler,      Jan   (2006),       Parteien     im     Wettbewerb:    zu    den
+      Wettbewerbschancen nicht-etablierter politischer Parteien im
+      Rechtssystem der Bundesrepublik Deutschland, Baden-Baden:
+      Nomos.
+Krüper, Julian (2007), Wiedergelesen: Klassiker des Parteienrechts –
+      Konrad Hesse: Die verfassungsrechtliche Stellung der politischen
+      Parteien im modernen Staat, VVDStRL 17 (1959), S. 11 ff., MIP,
+      S. 22-27.
+Laband, Paul (1888), Das Staatsrecht des Deutschen Reiches, 2.,
+      umgearb. Aufl., Freiburg im Breisgau: J.C.B. Mohr.
+Laband, Paul/Schlüter, Bernd (2004), Staatsrechtliche Vorlesungen:
+      Vorlesungen zur Geschichte des Staatsdenkens, zur Staatstheorie
+      und Verfssungsgeschichte und zum deutschen Staatsrecht des 19
+      Jahrhunderts,   gehalten      an      der    Kaiser-Wilhelms-Universität
+      Straßburg 1872-1918, Berlin: Duncker & Humblot.
+Leibholz, Gerhard (1929), Das Wesen der Repräsentation unter
+      besonderer Berücksichtigung des Repräsentativsystems: ein Beitrag
+      zur allgemeinen Staats- und Verfassungslehre, Berlin: Walter de
+      Gruyter.
+─ (1950), Volk und Parteien im neuen deutschen Verfassungsrecht,
+      DVBl., S. 194-197.
+─ (1951), Parteienstaat und repräsentative Demokratie, DVBl., S.
+      1-8.
+─            (1958), Der Strukturwandel der modernen Demokratie,
+      Karlsruhe: C. F. Müller.
+─ (1969), Zum Parteiengesetz von 1967, in: Ehmke/Schmid/
+      Scharoun (Hrsg.), Festschrift für Adolf Arndt zum 65. Geburtstag,
+      Frankfurt am Main: Europäische Verlagsanstalt, S. 179-198.
+Leibholz, Gerhard/Reif, Hans (1951), Verfassungsrechtliche Stellung
+德國政黨規範理論的轉變                                                          309
+
+
+    und innere Ordnung der Parteien, Verhandlungen des 38. Deutschen
+    Juristentages, Tübingen: Mohr Siebeck.
+Lenski, Sophie-Charlotte (2011), in: Lenski (Hrsg.), Parteiengesetz und
+    Recht der Kandidatenaufstellung: Handkommentar, Baden-Baden:
+    Nomos, § 2.
+Loewenstein, Karl. 1937. Militant Democracy and Fundamental Rights I.
+    American Political Science Review 31:417-433.
+─. 1937. Militant Democracy and Fundamental Rights II.
+    American Political Science Review 31:638-658.
+Meyer, Georg/Anschütz, Gerhard (1905), Lehrbuch des deutschen
+    Staatsrechtes, 6. Aufl., Leipzig: Duncker & Humblot.
+Michel, Anton (1907), Die Gemeindeordnung und die Bezirksordnung
+    für das Königreich Württemberg, Stuttgart: Kohlhammer.
+Mitchell, Kevin. 2001. Antitrust Analysis: A Roadmap for Election
+    Reform under the First Amendment. CommLaw Conspectus
+    10:157-173.
+Mohl, Robert von (1969), Die Parteien im Staat, in: Ziebura (Hrsg.),
+    Beiträge zur allgemeinen Parteienlehre. Zur Theorie, Typologie und
+    Vergleichung politischer Parteien, Darmstadt: Wissenschaftliche
+    Buchgesellschaft, S. 11-21.
+Morlok, Martin (2002), Für eine zweite Generation des Parteienrechts, in:
+    Tsatsos (Hrsg.), 30 Jahre Parteiengesetz in Deutschland, Baden-
+    Baden: Nomos, S. 53-71.
+─         (2003), Parteienrecht als Wettbewerbsrecht, in: Häberle/
+    Morlok/Skouris (Hrsg.), Festschrift für Dimitris Th. Tsatsos zum 70.
+    Geburtstag, Baden-Baden: Nomos, S. 408-447.
+─ (2005), Das BVerfG als Hüter des Parteienwettbewerbs, NVwZ,
+    S. 157-160.
+─ (2006), in: Dreier (Hrsg.), Grundgesetz Kommentar, Bd. II, 3.
+310                                 《中研院法學期刊》第21期（2017年9月）
+
+
+
+      Aufl., Tübingen: Mohr Siebeck, Art. 21.
+─ (2010), Handlungsfelder politischer Parteien, in: Ipsen (Hrsg.),
+      40 Jahre Parteiengesetz Symposium im Deutschen Bundestag,
+      Göttingen: Vandenhoeck & Ruprecht, S. 53-78.
+Nettersheim, Christian (2008), Die Parteienstaatstheorie von Gerhard
+      Leibholz, Bonn: Universität, Diss.
+Nipperdey, Thomas (1995), Deutsche Geschichte 1866-1918, Bd. 2, 3.
+      Aufl., München: C. H. Beck.
+Pfetsch, Frank R. (1988), Zur Verfassung des Landes Baden im Mai
+      1947, in: Weinacht (Hrsg.), Gelbrotgelbe Regierungsjahre. Die
+      Badische Politik nach 1945, Sigmaringendorf: Glock und Lutz, S.
+      127-147.
+Preuß, Hugo (1928), Reich und Länder: Bruchstücke eines Kommentars
+      zur Verfassung des Deutschen Reiches, Berlin: Heymann.
+─ (2006), Denkschrift zum Entwurf des allgemeinen Teils der
+      Reichsverfassung (3. Januar 1919), in: Preuß, Staat, Recht und
+      Freiheit, Hildesheim: Georg Olms, S. 368-393.
+─ (2006), Nationale Demokratie (26.09. 1920), in: Preuß, Staat,
+      Recht und Freiheit, Hildesheim: Georg Olms, S. 429-433.
+─ (2006), Volksstaat oder verkehrter Obrigkeitsstaat? (14.11.
+      1918), in: Preuß, Staat, Recht und Freiheit, Hildesheim: Georg
+      Olms, S. 365-367.
+Radbruch, Gustav (1930), Die politischen Parteien im System des
+      deutschen   Verfassungsrechts,       in:   Anschütz/Thoma   (Hrsg.),
+      Handbuch des Deutschen Staatsrechts, Bd. I, Tübingen: Mohr
+      Siebeck, S. 285-294.
+Ritter, Gerhard Albert (1973), Deutsche Parteien vor 1918, Köln:
+      Kiepenheuer & Witsch.
+Rousseau, Jean-Jacques (2010), Du contrat social ou Principes du droit
+德國政黨規範理論的轉變                                                            311
+
+
+    politique.   Vom       Gesellschaftsvertrag    oder   Grundsätze   des
+    Staatsrechts (übersetzt von Eva Pietzcker und Hans Brockard),
+    Buch II, Stuttgart: Philipp Reclam jun.
+Rübenkönig, Judith (2003), Die Rechenschaftspflicht der politischen
+    Parteien nach Art. 21 Absatz 1 Satz 4 Grundgesetz, Frankfurt am
+    Main: P. Lang.
+Schmitt, Carl (1926), Die geistesgeschichtliche Lage des heutigen
+    Parlamentarismus, Berlin: Duncker & Humblot.
+─ (1929), Verfassungslehre, Berlin: Duncker & Humblot.
+─ (1931), Der Hüter der Verfassung, Tübingen: Mohr Siebeck.
+Schulze, Hermann (1881), Lehrbuch des deutschen Staatsrechtes,
+    Leipzig: Breitkopf & Härtel.
+Schumpeter, Joseph A. (1993), Kapitalismus, Sozialismus und
+    Demokratie, 7 erw. Aufl., Tübingen: Francke.
+Seifert, Karl-Heinz (1975), Die politischen Parteien im Recht der
+    Bundesrepublik Deutschland, Köln: Carl Heymanns.
+Shirvani, Foroud (2006), Die politischen Parteien im Staatsrecht des
+    Deutschen Kaiserreiches, MIP, S. 77-87.
+─ (2010), Das Parteienrecht und der Strukturwandel im
+    Parteiensystem: staats- und europarechtliche Untersuchungen zu
+    den    strukturellen    Veränderungen     im    bundesdeutschen    und
+    europäischen Parteiensystem, Tübingen: Mohr Siebeck.
+Siegfried, Franz Ferdinand (1971), Mandatsverlust bei Parteiausschluß,
+    Parteiaustritt oder Parteiwechsel, ZRP, S. 9-14.
+Spiecker, Carl (1979), Richtlinien für eine künftige deutsche Verfassung
+    vom 12. August 1948, in: Benz (Hrsg.), Bewegt von der Hoffnung
+    aller Deutschen: zur Geschichte des Grundgesetzes, München: Dt.
+    Taschenbuch-Verl., S. 424-429.
+Stier-Somlo, Fritz (1909), Reichsvereinsgesetz vom 19. April 1908,
+312                                《中研院法學期刊》第21期（2017年9月）
+
+
+
+      systematischer Kommentar, Stuttgart: Dt. Verlags-Anst.
+Stolleis, Michael/Schäffer, Heinz/Rhinow, René A./Lange, Klaus/Breuer,
+      Rüdiger (1986), Parteienstaatlichkeit – Krisensymptome des
+      demokratischen Verfassungsstaats? Die öffentlichrechtliche Anstalt,
+      VVDStRL 44, S. 8-46.
+Thoma, Richard (1923), Der Begriff der modernen Demokratie in
+      seinem Verhältnis zum Staatsbegriff. Prolegomena zu einer Analyse
+      des demokratischen Staates der Gegenwart, in: Palyi (Hrsg.),
+      Hauptprobleme der Soziologie, Erinnerungsgabe für Max Weber,
+      Bd. 2, München: Duncker & Humblot, S. 39-64.
+Trautmann, Helmut (1970), Abgeordnetenstatus und Parteizugehörigkeit,
+      JZ, S. 405-407.
+Triepel, Heinrich (1928), Die Staatsverfassung und die politischen
+      Parteien, Berlin: O. Liebmann.
+Tsatsos, Dimitris Th. (1971), Mandatsverlust bei Verlust der
+      Parteimitgliedschaft?, DÖV, S. 253-256.
+Tsatsos, Dimitris Th./Morlok, Martin (1982), Parteienrecht: eine
+      verfassungsrechtliche Einführung, Heidelberg: Müller Juristischer.
+Vogel, Hans-Jochen (1992), Entscheidungen des Parlaments in eigener
+      Sache, Zeitschrift für Gesetzgebung, S. 293-302.
+Wiegandt, Manfred H. (1995), Norm und Wirklichkeit, Gerhard
+      Leibholz (1901-1982) - Leben, Werk und Richteramt, Baden-Baden:
+      Nomos.
+Wißmann, Hinnerk (2009), in: Kersten/Rixen (Hrsg.), Parteiengesetz
+      (PartG) und europäisches Parteienrecht, Stuttgart: Kohlhammer, § 2.
+德國政黨規範理論的轉變                                                                313
+
+
+
+                           Comment & Note
+
+ The Normative Theories of Political Party
+              in Germany:
+                    The Concept of Political Party
+
+
+                            Ren-Jyun Huang＊
+
+                                  Abstract
+     This article explores normative theories of political party
+(Parteienrechtslehre) and the formation of party law as a discipline
+(Parteienrechtswissenschaft) in Germany. It discusses Heinrich Triepel’s
+Four-phase theory, the theoretical debate on the role of political party
+during the Weimar Republic period, Gerhard Leibholz’s theory of the
+party state, Carlo Schmid’s concept of anti-fascist party in Basic Law
+(Grundgesetz), Konrad Hesse’s three constitutional statuses of political
+parties and Martin Morlok’s second generation of party law and party
+law as competition law. The concept of political party and its
+development will also be considered, through a comparative analysis
+between positive law and normative theory.
+
+KEYWORDS: party law, legal regulation of political parties, constitutional
+          regulation of political parties, party democracy, concept of
+          political party.
+
+
+
+
+＊ PhD candidate, Faculty of Law, Ludwig Maximilian University of Munich.
+

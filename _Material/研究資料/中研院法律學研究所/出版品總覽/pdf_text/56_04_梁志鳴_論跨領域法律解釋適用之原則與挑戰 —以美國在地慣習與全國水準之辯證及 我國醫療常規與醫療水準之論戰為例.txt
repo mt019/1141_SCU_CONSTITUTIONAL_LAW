@@ -1,0 +1,3928 @@
+ 研究論文
+《中研院法學期刊》第 24 期                                           255
+頁 255-361（2019 年 3 月）
+
+
+                                                      ＊
+    論跨領域法律解釋適用之原則與挑戰
+        — 以美國在地慣習與全國水準之辯證及
+         我國醫療常規與醫療水準之論戰為例
+
+                        梁志鳴＊＊
+
+
+                         摘 要
+  本文從跨領域法律解釋適用視角切入，透過借鏡社會學理論，
+歸納出以中介概念和專家程序為媒介的法院跨領域互動模型。本文
+進而探討美國法院在醫糾領域如何透過中介概念與專家程序之調
+整，以回應醫療體系之背景變遷。受此經驗啟發，本文認為我國法
+院近年逐漸以醫療水準取代醫療常規之見解，可被理解為法院面對
+醫療常規此一傳統中介概念在實務運作之侷限，而嘗試以醫療水準
+加以取代的努力。本文肯定此一方向，但認為目前實務從醫療資源
+來理解醫療水準之思維，可能衍生資訊超載的風險。本文於是參考
+美國學者之醫療品質光譜概念，提出「最低限專業能力＋醫療資
+源」之醫療水準定義。本文並針對民事領域，提出該定義在我國進
+一步推廣無法迴避的三項挑戰。
+
+
+
+＊  投稿日：2017年11月21日；接受刊登日：2018年6月6日。［責任校對：賴奕
+   霖、陳昕婕］ 。
+   本文為科技部2016年至2018年二年期研究計劃「論醫療過失與病人安全：從
+   法的內在觀點思考如何讓醫事機構從訴訟中學習」之部分研究成果（計畫編
+   號：MOST105-2410-H-038-002-MY2）       。本文除感謝兩位匿名審稿委員之精闢
+   意見，讓本文得以補充修正，也承蒙國立臺灣大學法律學院張文貞教授於投
+   稿前提供文章內容與形式之修改建議，至感謝忱。
+＊＊ 國立臺北醫學大學醫療暨生物科技法律研究所助理教授。
+   穩定網址：http://publication.iias.sinica.edu.tw/52712181.pdf。
+256                   《中研院法學期刊》第24期（2019年3月）
+
+
+
+關鍵詞：邊界物件、結構性配對、醫療常規、醫療慣習、醫療水
+    準、理性醫師、最高法院106年度台上字第227號民事判
+    決、Helling v. Carey、Hall v. Hilbun、醫療法第82條。
+
+
+                    目 次
+
+ 壹、研究緣起與問題：從醫療常         伍、現況改革之建議：以醫療水
+   規之論戰看跨領域法律解釋           準取代醫療常規之倡議與挑戰
+   適用之挑戰                 一、醫療水準之概念定義：從
+ 貳、概念工具之建構：社會學理            醫療資源角度切入的實務
+   論之借鏡與法律跨領域互動            模式
+   模型之提出                 二、醫療品質光譜與專業能
+ 參、美國經驗之分析：在地慣習            力：最低限專業能力作為
+   與全國水準之間的持續辯證            注意義務門檻
+ 肆、我國實務之探討：醫療常規          三、醫療水準作為中介概念的
+   作為中介概念之侷限與影響            未來挑戰：以民事醫療糾
+  一、醫療常規之概念侷限─             紛訴訟為中心
+    從學說與初鑑手冊切入          陸、結語與展望：本研究可能進
+  二、醫療常規之概念侷限對我           一步衍生之法社會學議題
+    國法院實務之影響
+
+
+
+
+壹、研究緣起與問題：從醫療常規之論戰看跨領
+  域法律解釋適用之挑戰
+
+      最高法院於2017年3月底做成之106年度台上字第227號民事判
+決，在我國醫療法界引發了十分熱烈的討論。此號判決引發議論之
+處，在於其援引德美日比較經驗，對我國醫療糾紛領域過失注意義
+務與相當因果關係之認定提出以下三點主張，分別是：一、將我國
+實務傳統高度仰賴的醫療常規概念（本案法院將之理解為醫療慣
+論跨領域法律解釋適用之原則與挑戰                                                                       257
+
+
+習）與醫療水準加以區隔，認為後者才是注意義務主要判準，其嚴
+格程度高於前者（此見解一般被認為主要受日本影響，但也呼應美
+國法之發展）1；二、援引日本法院有關相當程度生存可能性之見
+解，認為符合醫療常規之行為，仍可能因不符醫療水準，而與結果
+（本案為死亡）間推定存在相當因果關係2；以及最後三、援引德國
+法上重大瑕疵理論，作為醫療糾紛案件因果關係部份舉證責任轉換
+之具體原則，認為若醫師具有可歸責之重大瑕疵，而導致因果關係
+
+
+1 本案判決揭示：「醫師為具專門職業技能之人，其執行醫療之際，應盡善良管
+  理人之注意義務，就醫療個案，本於診療當時之醫學知識，審酌病人之病情、
+  醫療行為之價值與風險及避免損害發生之成本暨醫院層級等因素，綜合判斷而
+  為適當之醫療，始得謂符合醫療水準而無過失；至於醫療常規，為醫療處置之
+  一般最低標準，醫師依據醫療常規所進行之醫療行為，非可皆認為已盡醫療水
+  準之注意義務」最高法院106年度台上字第227號民事判決，頁4-5。此判決意旨
+  主要應是受日本法近年從醫療慣習逐漸走向醫療水準的概念演變之影響，參見
+  陳聰富，醫療責任的形成與展開，頁337-343（2014年）                                  。但如本文「參」之討
+  論所呈現，本案見解也同時呼應美國自1974年華盛頓州最高法院Helling v.
+  Carey案（以下簡稱：Helling案）判決以及1985年密西西比州最高法院Hall v.
+  Hilbun案判決以來，法院逐漸拋棄以在地慣習作為醫事人員應具備之注意義務
+  水準（standard of care）的發展，see Hall v. Hilbun, 466 So.2d 856 (1985); Helling
+  v. Carey, 83 Wn.2d 514, 519 P.2d 981 (Wash. 1974). 美國法學界一般將Helling案
+  判決理解為由法院直接施加注意義務水準（judicially imposed standard of care）
+  的案件類型，相較之下，Hall v. Hilbun案判決則常被理解為代表著美國各州法
+  院近年逐漸以全國水準取代在地慣習作為注意義務水準的發展，see LAWRENCE
+  O. GOSTIN ET AL., LAW AND THE HEALTH SYSTEM 498-508, 519-24 (2014). 美國部份
+  其他參考文獻（尤其關於各州法院近年逐漸以全國水準取代在地慣習之發
+  展）  ，see DAN B. DOBBS, THE LAW OF TORTS 636-37 (2000) (arguing that national
+  standard is taking over the locality rule in many states as the legal standard for duty of
+  care). See also generally Michelle H. Lewis et al., The Locality Rule and the
+  Physician’s Dilemma: Local Medical Practices vs the National Standard of Care,
+  297(23) J. AM. MED. ASS’N 2633 (2007); Peter Moffett & Gregory Moore, The
+  Standard of Care: Legal History and Definitions: The Bad and Good News, 12 W. J.
+  EMERGENCY MED. 109 (2011).
+2 本案判決揭示：          「又因醫師未能施行符合醫療水準之醫療行為（積極作為與消
+  極不作為），而病患嗣後發生死亡者，若其能妥適施行符合醫療水準之醫療行
+  為，使患者仍有生存之相當程度可能性者，即難認該過失之醫療行為與病人之
+  死亡間無相當因果關係。」最高法院106年度台上字第227號民事判決，頁5。
+  此處所謂仍有生存之相當可能性係日本法院所發展出之原則，相關比較法討論
+  可參見吳志正，從鑑定意見談醫療過失責任之認定，頁151-153（2014年）；陳
+  聰富（註1）       ，頁388-392。
+258                                   《中研院法學期刊》第24期（2019年3月）
+
+
+存在無法解明之情形，則該不利益應由醫師負擔3。
+
+      最高法院之上述見解，尤其是其中關於舉證責任倒置之討論，
+因新聞媒體於2017年6月對本判決之後續報導4，而在社會引發正反
+意見的激烈爭辯5。然而同樣值得注意的是，本案法院將醫療常規
+與醫療水準加以區分之主張，對我國醫療糾紛訴訟實務之潛在影響
+並不下於舉證責任轉換，也引發了相當的社會與學術討論6。相關
+
+3  本案判決揭示：「過失之醫療行為與病人之死亡間因果關係之存否，原則上雖
+   應由被害人負舉證責任，惟苟醫師進行之醫療處置具有可歸責之重大瑕疪，導
+   致相關醫療步驟過程及該瑕疵與病人所受損害間之因果關係，發生糾結而難以
+   釐清之情事時，該因果關係無法解明之不利益，本於醫療專業不對等之原則，
+   應歸由醫師負擔，依民事訴訟法第二百七十七條但書……生舉證責任轉換……
+   之效果。」有關本案所引之德國法重大瑕疵理論之比較法討論，參見詹森林，
+   德國醫療過失舉證責任之研究，臺北大學法學論叢，63期，頁60-65（2007
+   年） ；沈冠伶，重大醫療瑕疵與因果關係之舉證責任─最高法院106年度台上
+   字第227號判決簡評，月旦醫事法報告，10期，頁96-110（2017年）                           。
+4 本案引發之相關媒體報導，參見最高院新解 涉醫糾 醫師負舉證責任，蘋果日
+   報 ， 2017 年 6 月 6 日 ， http://www.appledaily.com.tw/appledaily/article/headline/
+   20170606/37673943/（最後瀏覽日：2017年10月31日）              ；項程鎮、林彥彤，重大
+   醫療疏失 醫師應舉證無因果關係 最高院：醫療專業不對等 舉證責任應轉
+  換，自由時報，2017年6月5日，http://news.ltn.com.tw/news/focus/paper/1107952
+  （最後瀏覽日：2017年10月31日）             。
+5 例如醫界團體除於臉書等網路平台以諸如「令醫師震驚，惶恐的最高法院106
+   年度台上字第227號判決，舉證責任倒置？」之類的題目發文，中華民國醫師
+   公會全國聯合會也發表聲明，表示「最高法院民事庭忽視醫事人員專業及台灣
+   醫療困境，逕認定醫療糾紛應由被告醫師負舉證責任，本會深表遺憾痛心！」
+   作 為 回 應 。 參 見 醫 界 同 盟 臉 書 網 頁 ， https://www.facebook.com/Medical
+   CommunityAlliance/posts/1514584295249795（最後瀏覽日：2017年10月31日）                ；
+   中華民國醫師公會全國聯合會網頁，http://www.tma.tw/meeting/meeting_info.
+   asp?/7232.html（最後瀏覽日：2017年10月31日）。作為回應，法界則強調醫療
+   糾紛訴訟之舉證責任轉換其實在我國法早已存在，並非法院於本案新創，也在
+   比較法上存在依據，並且，即便舉證責任遭到轉換，也不必然導致醫方敗訴。
+   參見沈冠伶（註3）        ；楊秀儀，舉證責任轉換─醫師一定輸？（藥害救濟基金
+   會2017年6月14日醫療爭議處理品質提升工作坊系列I演講投影片，作者存檔）                                     。
+   更有法官提出本案判決「不是有罪推定、不是創新見解、不是判決歧異、不是
+   苛責醫師的『四不』，以及沒有這麼可怕的『一沒有』」，希望醫界無須恐慌，
+   參見姚念慈，最高法院106年度台上字第227號判決之四不一沒有，月旦醫事法
+   報告，10期，頁111-124（2017年）          。
+6 平面媒體新聞與投書部份可參見丁牧群、何哲欣，符「醫療水準」恐難認定，
+   蘋 果 日 報 ， 2017 年 6 月 6 日 ， https://tw.appledaily.com/headline/daily/20170606/
+論跨領域法律解釋適用之原則與挑戰                                                           259
+
+
+討論主要又可分為批評與肯定兩派，批評者認為我國醫療糾紛領域
+傳統之醫療常規概念已十分模糊，法院竟又在此模糊概念上另設同
+樣缺乏明確定義之醫療水準，恐會使醫療過失責任之判斷更為浮
+動，對當事人（尤其是醫方）更為不利7。肯定者則以比較法經驗
+為基礎，認為本案法院以醫療水準作為注意義務判準之見解，呼應
+美日從傳統仰賴醫療慣習，近年逐漸轉向以醫療水準為指標之發展
+軌跡，在大方向上應值贊同8。
+
+     此處值得注意的是，本案以醫療水準取代醫療常規之見解，其
+實並非醫療常規此一長期在我國醫療糾紛領域扮演關鍵角色之抽象
+概念近年受到的首次挑戰。事實上，2015年醫糾法草案立法論戰的
+核心爭點之一，便在於正反雙方對於是否應將醫療常規此一原本僅
+存在於法院實務之概念提升至法律層次之討論9。支持者認為醫療
+常規在實務上早已廣泛運用，將其提升至法律層級有助明確化醫療
+過失責任10 ；反對者則認為醫療並無常規，而是一門具有高度風
+
+
+   37673955/（最後瀏覽日：2017年10月31日）        ；林工凱，舉證責任倒置之外 醫療
+   常 規 恐 釀 災 ， 自 由 廣 場 ， 2017 年 6 月 7 日 ， http://talk.ltn.com.tw/article/paper/
+   1108673（最後瀏覽日：2017年10月31日）        。而在法學論著部份，目前主要包括
+   吳振吉，醫療行為之過失認定─簡評最高法院106年度台上字第227號民事判
+   決之「醫療常規」與「醫療水準」，月旦醫事法報告，10期，頁69-85（2017
+   年）；廖建瑜，醫療水準與醫療慣行之注意義務，月旦醫事法報告，10期，頁
+   86-95（2017年）   。
+7 參見林工凱（註6）         。
+8 參見吳振吉（註6）         ；廖建瑜（註6）     。
+9 此部份最代表性的言論，是臺灣醫療勞動正義與病人安全促進聯盟（醫勞盟）
+   於2017年5月31日於臉書發起的「#堅決反對衛福部版本醫糾法草案」活動，該
+   活動五點訴求之第一點，即在反對「讓虛無飄渺的『醫療常規』入法」                                    。參見#
+   堅決反對衛福部版本醫糾法草案活動，醫勞盟臉書，https://www.facebook.com/
+   events/1563691313891268/（最後瀏覽日：2017年10月31日）           。
+10 參見醫糾法懶人包《衛福部澄清醫勞盟五點疑問》                     ，衛生福利部，https://www.
+   mohw.gov.tw/cp-17-80-1.html（最後瀏覽日：2017年10月31日）。該懶人包第四
+   點主張：「醫療常規係臨床經驗與專業知識之彙集，常見於司法實務，並不是
+   醫糾法首創。」其並援引學者甘添貴見解，強調醫療常規係「在臨床醫療上，
+   由醫療習慣、條理或經驗等所形成的常見成規」，具有明確定義，並非虛無飄
+   渺。此一定義也為財團法人醫院評鑑暨醫療品質策進會（以下簡稱：醫策會）
+260                              《中研院法學期刊》第24期（2019年3月）
+
+
+險、在實踐上充滿不確定性的學門，若貿然將隱約暗示醫療存在恆
+常性規範的醫療常規入法，則不熟悉醫療專業的法官在認事用法之
+時，很可能會不自覺衍生以法律判斷取代醫療專業判斷之問題，反
+而阻礙醫療體系之運作和進步11。反對醫療常規入法者並進而提出
+臨床裁量概念，認為法院在醫療糾紛案件認事用法時，應優先探詢
+醫師在個案中所為之裁量，以尊重醫師之專業判斷12。
+
+      本文認為，我國學說與實務近年圍繞醫療常規所衍生之論爭，
+背後其實反映出醫療糾紛案件所具備的跨領域法律解釋適用本質。
+本文所稱之跨領域法律解釋適用，係指現代社會司法體系在解釋適
+用法律時，常會面臨法律知識本身不足以充分認事用法，而須藉助
+其他專業領域知識來進行判斷之情境。這些情境帶給法院之核心挑
+戰，是現代社會所分化出（包括法律在內）之各種專業知識，其在
+本質上往往存在高度的不可相容性，亦即：不同專業領域往往預設
+了不同的前提假設、問題意識、思考架構與概念定義，一旦離開了
+原本的討論脈絡，則這些對特定領域專家來說意義明確之專業知
+識，往往很難被其他領域專家有效理解評價，而使得有效的跨領域
+對話十分困難。
+
+
+
+
+   所制定之醫事糾紛鑑定初鑑醫師指引手冊所採，參見醫策會，醫事糾紛鑑定初
+   鑑醫師指引手冊，3版，頁11-12（2012年）            。
+11 參見醫勞盟關於醫療糾紛處理與醫療事故補償法草案聲明，醫勞盟臉書，2015
+   年4月21日，https://zh-tw.facebook.com/TMAL119/posts/645805105550901（最後
+   瀏覽日：2017年10月31日）       。本聲明第三點主張：        「醫療無常規，常規僅是參考
+   建議，並非對病人的最佳處置。特別是在檢查與手術進行中，醫師依當時探查
+   的結果給予最佳治療方式，才符合病人最佳利益。遵照術前告知之常規步驟進
+   行手術，反而會造成病人的傷害……醫糾法第7條『醫療行為有無符合醫療常
+   規』應改成『醫療行為有無逾越臨床裁量權』，應尊重當時當地以當設備有無
+   違反醫療臨床裁量權而定，若僅是遵守醫療常規，醫學如何進步？」（粗體為
+   本文所加） 。
+12 醫勞盟臉書（註9、11）       。另參見林工凱，以「臨床裁量權」取代「醫療常規」
+   ─適用法律於醫療案件的根本省思，銘傳大學法律學系在職專班碩士論文
+  （2016年）
+        。
+論跨領域法律解釋適用之原則與挑戰                                                               261
+
+
+     近年在我國引發高度爭議的醫療糾紛議題，便是此種跨領域法
+律解釋適用之標準案例13。究其本質，法律專業知識是圍繞著合法
+性（legality）之判斷所發展出之抽象概念體系。其核心問題意識，
+是某一法律論述─例如當事人的權利主張─在現行的法律概念
+體系下是否能獲得支持，而可被認定為合法而產生相應法律效力
+（例如權利能否獲得行使）14。相較之下，醫療專業知識之發展則
+相 當 程 度 是 以 症 狀 （ symptom ）、 診 斷 （ diagnosis ）、 與 處 置
+（treatment）為核心，關心如何對不同的症狀施以正確的診斷，以
+決定應採取什麼樣的醫療處置，進而達到最大化回復人體健康的效
+果（關於醫療專業之運作邏輯，參見附件一圖解之示意）。這兩種
+本質上完全不同的知識類型，一旦在醫療糾紛案件中被拉扯在一
+起，此時法院如何將醫學知識轉譯為可供法院認事用法之訊息型
+態，進而做成在醫學專業上具相當基礎之法院判決，以有效回應上
+述醫界對法院以法律判斷取代醫療專業之質疑，就成為法院面對此
+類案件時必須面對的挑戰。
+
+     面對醫療常規之上述論爭，我國現有之醫療糾紛領域學說與實
+務，主要是以形式的概念推演或外國法制規範比較作為研究方法，
+而較少進入跨領域法律解釋適用之抽象層次進行分析。此一發展並
+
+
+13 除醫療糾紛外，產品責任（product liability）或毒物侵權（toxic tort）也是此類
+   案例之典型代表。這兩類案例由於常涉及極細節的技術層面，或疫學與毒物學
+   之類的學科專業，因此高度仰賴專家，而大幅提昇訴訟成本。面對此限制，這
+   兩類案例常會透過進行集團訴訟（class action）的方式分攤成本，以降低個別
+   受害人進入訴訟的門檻。但在醫糾領域，集團訴訟的條件一般很難具備，於是
+   產生涉及重傷或死亡結果之事故較容易進入訴訟之選擇性偏差（selection
+   bias）。例如美國麻醉領域對已結束之醫糾檔案進行分析之麻醉結案檔案分析計
+   畫（Anesthesia Closed Claims Project）       ，其資料庫樣本就存在集中於嚴重傷害之
+   現 象 。 See Karen L. Posner, Closed Claims Project Shows Safety Evolution,
+   ANESTHESIA PATIENT SAFETY FOUN., http://www.apsf.org/newsletters/html/2001/fall/
+   02closedclaims.htm (last visited Oct. 31, 2017).
+14 此 一 對 法 律 知 識 核 心 問 題 意 識 之 分 析 ， 係 以 歐 陸 社 會 學 理 論 大 家 Niklas
+   Luhmann所提出，法律作為溝通系統之理論為基礎，相關討論，參見本文
+  「貳」之說明。
+262                   《中研院法學期刊》第24期（2019年3月）
+
+
+不令人意外，著重概念推演或規範比較的釋義學研究方法
+（doctrinal analysis）
+                   ，本即是法律專業知識核心內容（如何在抽象概
+念/規範體系下進行合法性之判斷）的自然展現，在本質上有其不
+可取代性。然而本文認為，考量醫療糾紛案件之跨領域特性，上述
+傳統方法若能進一步輔以跨領域法律解釋適用層次之分析視角，或
+將有助研究者理解不同國家之比較法制，背後是否、又如何反映一
+些能夠提供我國法院啟發的共通跨領域互動原則，進而為我國醫療
+常規之論戰，提供一些不同以往的思考方向。
+
+      為試驗此一跨領域研究取徑之可行性，本文嘗試拋磚引玉，以
+社會學理論作為研究方法，透過借鏡社會學界探討跨專業領域互動
+之既有理論，試著發展可供我國法學界未來使用之跨領域互動概念
+分析工具。本文「貳」首先以社會學者Susan Leigh Star與Niklas
+Luhmann之相關討論為基礎，嘗試提出以中介概念和專家程序為媒
+介之常見（但絕非唯一可能的）法律跨領域互動模型。而為呈現此
+一模型對法學研究所能發揮之功能，本文「參」進而將此一模型套
+用在美國，探討美國法院在醫療糾紛領域，是如何透過在地慣習
+（local customs）與全國水準（national standard）之辯證（本質上即
+中介概念與專家程序的轉換與調整），來回應美國醫療近年逐漸走
+向全國化與標準化之整體背景變遷。
+
+      受此比較經驗之啟發，本文「肆」認為最高法院以醫療水準取
+代醫療常規之上開見解，一定程度可被理解為我國法院面對醫療常
+規作為中介概念在實務運作上所面臨的侷限，而嘗試參考美日經
+驗，透過醫療水準來加以取代的努力。而醫療常規所面臨之侷限具
+體又表現在：一、我國法院對鑑定報告缺乏批判性之依賴；以及
+二、醫療水準作為輔助判準之持續發展等兩項實務現況。為突破上
+述侷限，筆者最終在本文「伍」提出我國應以醫療水準全面取代醫
+療常規作為中介概念之倡議。然而本文也發現我國法院實務近年偏
+向從醫療資源角度來理解醫療水準之思維模式，可能會無法有效發
+論跨領域法律解釋適用之原則與挑戰                                                                263
+
+
+揮降低法院資訊負擔之功能，本文於是借用學者Lawrence O. Gostin
+及其團隊所提出之醫療品質光譜理念 15 ，主張醫療水準之概念定
+義，應同時包含醫事人員在我國執業被期待最低限度應展現的專業
+能力，以及醫事人員在個案中所面臨之醫療資源限制等兩個面向。
+本文「伍」進而聚焦於民事醫療糾紛領域，提出本文所發展之醫療
+水準概念未來若希望在我國進一步推廣，必須正視的以下三項議
+題，分別是：一、醫療資源作為醫療水準的面向之一，其在訴訟實
+務中具體應如何操作；二、2017年底醫療法第82條之最新修正將臨
+床裁量概念入法，是否侷限本文醫療水準概念未來的適用空間；以
+及最後三、以最低限專業能力加上醫療資源作為定義的醫療水準概
+念，具體又希望能達成什麼樣的法政策目的。
+
+
+
+貳、概念工具之建構：社會學理論之借鏡與法律
+  跨領域互動模型之提出
+
+    跨領域專業知識之間的合作與轉譯（translation），並非晚近才
+出現的新興議題，而是社會科學（social sciences）領域─尤其是
+社會學（sociology ）─的常見主題 16 。例如美國知識社會學
+
+
+15 See GOSTIN ET AL., supra note 1, at 516-17. 本文對此一概念之應用，參見本文
+ 「伍、二」之討論。
+16 除了社會學，跨領域轉譯也是人類學（anthropology）與語言學（linguistics）
+ 的常見主題，甚至在日益注重科技整合的美國法學界，近年也出現嘗試結合這
+ 些學科知識，分析法律如何與其他學科進行跨領域對話的新法律現實主義
+ （New Legal Realism, NLR）學派。See generally ELIZABETH MERTZ ET AL. EDS.,
+  TRANSLATING THE SOCIAL WORLD FOR LAW: LINGUISTIC TOOLS FOR A NEW LEGAL
+ REALISM (2016). See also Mark Suchman & Elizabeth Mertz, Toward a New Legal
+ Empiricism: Empirical Legal Studies and New Legal Realism, 6 ANNU. REV. L. SOC.
+ SCI. 555, 560-61, 563-64 (2010) (highlighting the NLR’s emphasis on achieving
+ sensitive and accessible translation between law and social sciences); Howard
+ Erlanger et al., Foreword: Is It Time for a New Legal Realism?, 2005 WIS. L. REV.
+  335, 336 (2005) (laying out the goal of NLR that “to create translations of social
+264                                       《中研院法學期刊》第24期（2019年3月）
+
+
+（informational sociology）領域著名學者Susan L. Star，便發現不同
+專業（甚至非專業）背景之人在進行跨領域合作時，常會仰賴以下
+兩 種 機 制 ， 具 體 包 括 ： 一 、 方 法 之 標 準 化 （ standardization of
+                                      17
+methods）；以及二、邊界物件（boundary objects）之發展 。此一
+發現是由Star在其與James R. Griesemer於1989年共同發表的經典著
+作〈制度生態學、轉譯與邊界物件：業餘與職業人士在柏克萊大學
+脊 椎 動 物 博 物 館 之 互 動 經 驗 ─ 1907 至 1939 年 〉（ Institutional
+Ecology,     'Translations’ and         Boundary       Objects:     Amateurs       and
+Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907-39）
+中所提出18。該研究以美國柏克萊大學脊椎動物博物館成立初期之
+歷史為研究對象，探討不同專業背景、或生活於不同社會生活領域
+之人如何能彼此合作。在該館的早期發展經驗中，包括館長、贊助
+者、自然愛好者、大學行政人員及業餘的動物樣本採集人，均對該
+館之意義抱持著不同想像19。在此多元專業背景與個人期待交錯的
+情境裡，Star與Griesemer觀察到方法的標準化與邊界物件的發展，
+常常是讓跨專業和跨社會生活領域之合作成為可能之重要關鍵20。
+
+      其中，方法標準化的具體範例，是業餘採集人之樣本採集方式
+和田野筆記紀錄流程之標準化，藉此讓不具生物學專業之業餘採集
+人，能夠在樣本採集的過程中紀錄下嗣後能夠為生物學家所運用之
+
+
+   science that will be useful even to legal academics and lawyers…while also
+   encouraging translations of legal issues that will help social scientists gain a more
+   sophisticated understanding of how law is understood ‘from the inside’ by those with
+   legal training”).
+17 See generally Susan Leigh Star & James R. Griesemer, Institutional Ecology,
+   'Translations’ and Boundary Objects: Amateurs and Professionals in Berkeley’s
+   Museum of Vertebrate Zoology, 1907-39, 19 SOC. STUD. SCI. 387, 388-93 (1989).
+18 Id.
+19 例如創館館長Joseph Grinnell的期待，是希望透過博物館的經營推動科學對演化
+   論之理解，但對業餘動物樣本採集人來說，保育甚至從中獲利，反而可能是更
+   重要的目標。Id. at 396-404.
+20 Id. at 392-93, 404-13.
+論跨領域法律解釋適用之原則與挑戰                                                                     265
+
+
+資料（例如採集地之地理資訊、或採集當時樣本所具備的生物性特
+徵）21。而在邊界物件部分，兩位作者則認為要扮演邊界物件之物
+件必須「……一方面具有足夠的可塑性（plastic）
+                         ，以適應參與合作
+者之在地需求和限制，同時又需要有相對穩定的結構，使其能夠在
+不同的場域仍然能夠維持共通的身分（identity）。 22 」這些物件
+「可以是抽象概念或具體物件，他們在不同的社會生活領域具有不
+同的意義，但在結構上又具有足夠的共通性，而能夠被不同社會生
+                                       。23」
+活領域所接受，成為彼此翻譯的媒介（a means of translation）
+簡 言 之 ， 邊 界 物 件 必 須 是 詮 釋 上 具 有 高 度 彈 性 （ interpretive
+flexibility）之物件，不同專業背景之人可透過共同接觸此一物件，
+但帶走不同之訊息，以協調彼此之行動24。兩位作者並具體觀察出
+包 括 圖 書 館 之 類 的 資 訊 或 物 件 容 器 （ repositories ）、 圖 示
+（diagram）或地圖集（atlas）之類的理念表達工具（ideal type）
+                                        、或
+是供業餘採集人員使用之標準化表格（standardized form）等不同
+類型、可作為多元背景互動基礎的具體物件25。
+
+      而除了Star的邊界物件，歐陸社會學理論大家Niklas Luhmann
+所提出之結構性配對（structural coupling）概念26，也觸及跨專業
+
+21 Id. at 405-08.
+22 Id. at 393. 原文為“Boundary objects are objects which are both plastic enough to
+   adapt to local needs and the constraints of the several parties employing them, yet
+   robust enough to maintain a common identity across sites.”
+23 原文為“These objects may be abstract or concrete. They have different meanings in
+   different social worlds but their structure is common enough to more than one world
+   to make them recognizable, a means of translation.” Id. at 393. Star與Griesemer於該
+   段落接續主張：「這些物件之創造與管理，是彼此交錯之不同社會生活領域
+   間，在互動時能夠發展並維持一定程度一致性（coherence）的關鍵（The
+   creation and management of boundary objects is a key process in developing and
+   maintaining coherence across intersecting social worlds.）      。」
+24 See Susan Leigh Star, This Is Not a Boundary Object: Reflections on the Origin of a
+   Concept, 35 SCI. TECH. & HUM. VALUES 601, 602 (2010) (clarifying that interpretive
+   flexibility is the first, but not the only feature of the concept of boundary objects).
+25 Star & Griesemer, supra note 17, at 410-11.
+26 See NIKLAS LUHMANN, LAW AS A SOCIAL SYSTEM 381-85 (Fatima Kastner et al. eds.,
+266                                      《中研院法學期刊》第24期（2019年3月）
+
+
+互動之議題。在Luhmann的理論中，法律是現代社會所分化出的一
+個社會系統（social system），此類系統之構成要素並非個人或制
+度，而在於為實現特定社會功能所進行的溝通（communication），
+社會系統也因此常被稱為溝通系統（communicative system）27。以
+法律為例，構成法律系統的溝通內容，必須直接或間接涉及合法/
+非法此一二元性（binary）之判斷（即本文前述的合法性判斷）28。
+而此一判斷（溝通）之作成，又必須以法律系統內部原本已存在的
+前在溝通（prior communications）為基礎，具體表現在判例或法規
+等法源（legal sources）29。從法律作為溝通系統的角度出發，不涉
+及合法性判斷之溝通內容，一般而言會被法律系統理解為環境
+（environment）的一部分，而成為系統看不見的隱形存在30 。而環
+境對系統所具備的隱形特性，進一步又有助解釋本文前述不同專業
+知識間的不可相容性，亦即：包含法律在內的不同專業知識（即
+Luhmann定義之社會/溝通系統），由於是建立在不同的核心判斷之
+上，因此在運作上往往很自然會構成彼此的環境，而對彼此來說成
+
+
+   Klaus Ziegert trans., Oxford University Press 2008) (1993). 此概念社會學界一般翻
+   結構耦合，但本文為求白話譯為結構性配對。
+27 Luhmann的理論將溝通理解為社會系統的運作單元（operations）                                    。例如《法律
+   作為社會系統》          （LAW AS A SOCIAL SYSTEM）一書英譯版編者中的Richard Nobles
+   與David Schiff，便在該書第壹章的簡介中表述：「在系統理論中，法律系統的
+   運作單元……是具有意義的溝通。法律系統必須透過不斷找出具有法律性質的
+   溝通內容，來在整體的社會中區隔出自己的位置（“Within systems theory, law’s
+   operations…are meaningful communications. Law has to differentiate itself within
+   society by identifying which communications are legal communications.”）   。」Id. at 6.
+28 Nobles與Schiff 提及：       「法律系統在現代社會的功能，是讓人們在遭遇失望時，
+   仍然能夠維持對規範性的期待……而法律系統實現此一功能之方式，是不斷運
+   用合法/非法此一法律系統獨有的二元符碼，來解讀（coding）環境中的事件
+  （ “The function of law is to maintain normative expectations in the face of
+   disappointment…law achieves this function by coding events in the environment
+   using a binary code that is unique to itself: legal/illegal.”）
+                                                                。」Id. at 9.
+29 Id. at 11.
+30 依據Nobles與Schiff的整理，在Luhmann的理論中，環境同時包括物理世界以及
+   其他所有社會系統的溝通。Id. at 9 (explaining that “[l]aw’s environment is both
+   the physical environment, and all other communications…”).
+論跨領域法律解釋適用之原則與挑戰                                                                    267
+
+
+為一定程度隱形的存在。
+
+  Luhmann將社會系統在不斷運作（溝通）的過程中，把自身與
+環境區隔開來的運作特徵，稱為系統運作產生的封閉性
+（operational closure）31。這當然並非表示法律作為社會系統對環境
+完全視而不見，相反的，Luhmann認為法律系統同時也具有認知上
+的開放性（cognitive openness），可以主動觀察（observe）環境、
+或是被動受環境擾動（irritate）
+                  ，進而產生具有法律性質（涉及合法
+性判斷）的溝通內容 32 。然而對Luhmann來說，系統與環境的區
+分，對系統的運作仍具有十分關鍵的功能：亦即透過系統與環境的
+
+
+31 Nobles與Schiff闡釋：「任何社會系統的運作單元，是那些被系統自己認定為屬
+   於該系統的溝通。一個社會系統只能透過溝通而存在，也只能透過溝通來回應
+   其環境。而因為系統的運作單元是否屬於系統自身，是由系統自己來認定，而
+   不是由其他系統或甚至物理環境來決定，因此一定程度可以被形容為系統在不
+   斷運作/溝通的過程中，產生了與外界隔絕的封閉性（“The operations of any
+   system are those communications recognized by the system as belonging to it. A
+   social system only exists through its communications, and can only respond to its
+   environment by making communications. Because its operations are identified as
+   such by itself, and not by other systems or the physical environment, it can be
+   described as operationally closed.”）。」Id. at 8.（本註原文之斜體字與譯文之粗
+   體字均為本文所加）           。
+32 Id. at 41, 383 (discussing the process of irritation). Nobles與Schiff認為法律系統的
+   認知開放性「意謂著法律系統有能力回應環境。但這並不是說法律系統會一直
+   不斷地回應環境，而只是其有能力可以在需要時回應。而此一開放性之所以被
+   稱為『認知上』的開放性，又是基於以下兩個原因：首先是因為系統有能力對
+   環境進行有限的回應（limited response）……此種對真實世界複雜性的簡化，
+   本身就具有認知的性質；其次則是因為系統實際上可以學習……系統可以透過
+   生產未來具有改變法律系統內在溝通結構之潛力的溝通，來回應環境對法律系
+   統所產生的衝擊（“[cognitive openness] means that the system is capable of
+   responding to its environment. This does not mean that it always responds, but that it
+   is capable of responding. Its openness to its environment may be described as
+   cognitive for two reasons. First, because it is capable of making limited responses to
+   its environment…This limited response, an inevitable simplification of the real world,
+   operates as a form of cognition. Secondly, the openness can be described as cognitive
+   because the system can learn…[I]t may respond to its environment by making
+   communications that alter the possibilities of what will, in the future, constitute a
+   communication within that system.”）   。」Id. at 8.
+268                                        《中研院法學期刊》第24期（2019年3月）
+
+
+區分，幫助不同社會系統在進行各自核心判斷時，簡化其需要考量
+的資訊範圍及可能選項，以避免資訊超載，而使得溝通無法有效進
+行33。在Luhmann的理論中，若沒有這些簡化資訊複雜性的機制，
+溝通系統內部結構的複雜性將無法有效建立與開展。而也正由於社
+會系統普遍具有透過區隔環境以簡化系統複雜性的運作特徵，因此
+這些理論上彼此隱形/封閉的社會系統間，究竟如何能協調彼此的
+運作，就成為Luhmann在建構其社會系統理論時，必須處理的重要
+問題。
+
+      面對此一問題，Luhmann提出結構性配對概念，以作為理解不
+同社會系統如何彼此協調互動的概念工具34。相較於Star的邊界物
+件同時包括抽象概念與具體物件，Luhmann所想像的結構性配對則
+主要偏向抽象的概念建構。Luhmann認為可以發揮結構性配對功能
+之概念建構，本身必須具備模糊性（ambiguous）之特徵，亦即讓
+同時接觸此一概念的不同社會系統可以帶走不同詮釋，藉此協調不
+同社會系統之間的互動35。此一強調模糊性的特徵，與邊界物件透
+
+33 Nobles與Schiff指出：「為了讓法律溝通的進行一定程度可以被預期（produce
+   calculable expectations）   ，法律必須簡化其與環境的關係，用遠低於環境本身複
+   雜性的方式來與環境互動（“In order to continue to produce calculable expectations
+   law has to simplify its relationship with its environment to something distinctly less
+   complicated than the environment.”）   。」Id. at 6. 此一資訊簡化的功能一定程度也
+   呼應演化論（theories of evolution）對於生物體如何與環境互動的描述，Nobles
+   與Schiff指出：      「為了面對環境中複雜的因果關係，生物體必須要一定程度與環
+   境隔絕。相較於與環境建立直接、未經篩選的關係，生物體通常會發展出有限
+   制的回應環境方式（limited range of response）                 、以及對這些有限方式進行選擇
+   的內部基礎（internal basis for selection）          。這些內部選擇基礎的運作一方面建立
+   了生物體的自主性（autonomy），另方面也讓生物體可以繼續發展更複雜的回
+   應環境方式（“To deal with complex causality, organisms have to become closed to
+   their environment. Instead of simple and direct relationships to their environment,
+   organisms develop a limited range of response and an internal basis for selection. This
+   internal basis for selection provides them with their autonomy, which in turn allows
+   them to develop more complex internal responses to their environment.”）   。」Id. at 7.
+34 Id. at 381-85.
+35 Nobles與Schiff強調在結構性配對的過程中，                       「不論是偶爾發生或是持續發生，
+   配 對 過 程 永 遠 都 會 在 不 同 系 統 之 間 產 生 身 份 上 的 模 糊 性 （ ambiguity of
+論跨領域法律解釋適用之原則與挑戰                                                                    269
+
+
+過詮釋彈性，讓不同背景之人可帶走不同訊息之假定十分類似。而
+在《法律作為社會系統》（LAW AS A SOCIAL SYSTEM ）一書中，
+Luhmann並具體提出包括契約（contract）、財產權（property）、與
+憲法（constitution）等概念建構作為結構性配對之具體案例，其中
+前兩項連結法律與經濟系統，後者則協調法律與政治系統之運
+作36。而契約作為結構性配對案例之主張，進一步又與美國法與社
+會 學 派 （ law and society ） 早 期 經 典 文 獻 ─ 即 學 者 Stewart
+Macaulay對律師與商業實務如何從不同角度理解契約概念之實證研
+究37─在洞見上遙相呼應，反映此一理念跨越時代與社會脈絡的
+共通性及價值。
+
+      從上述社會學理論的討論可以發現，包括Star的邊界物件與
+Luhmann的結構性配對，兩者均認知到跨專業領域─包括法律與
+其他領域─之互動，往往需以在詮釋上存在彈性或模糊性之中間
+媒介作為基礎。不論該媒介在性質上為具體實物或抽象概念，此種
+中間媒介的存在，可以透過允許不同人從同一媒介帶走不同詮釋之
+方式，來協調不同專業領域或社會系統之行動。從此一中間媒介的
+角度切入，本文認為醫療糾紛處理（medical malpractice dispute
+resolution）的整體本身，就具有邊界物件或結構性配對之性質。若
+從Star重視具體人類互動之角度切入，醫療糾紛處理至少涉及病
+家、醫事人員、法律人（法務、律師、檢察官、法官）、甚至醫療
+
+
+   identity）……即便不同系統使用同樣的語言，也常會在不同系統內部具有不同
+   的意義：例如契約在經濟系統中意指涉及物品或金錢交換的交易，但在法律系
+   統中則涉及一特定法律關係之概念建構（There is always an ambiguity of identity
+   involved in coupling between systems, whether this occurs on an occasional or
+   ongoing basis…[E]ven where the same language is involved, this will not mean the
+   same thing in each system: contract in the economic system is a transaction involving
+   exchange, while in the legal system it is a (re)configuration of legal
+   relationships.”）。」Id. at 43.
+36 Id. at 385-422.
+37 See generally Stewart Macaulay, Non-Contractual Relations and Business: A
+   Preliminary Study, 28 AM. SOC. REV. 55, 55-67 (1963).
+270               《中研院法學期刊》第24期（2019年3月）
+
+
+機構經營管理者等不同背景人士在不同社會生活領域（例如醫院、
+衛生局、法院、與病家社交社群）的彼此互動。而若從Luhmann強
+調系統溝通的層次來思考，醫療糾紛處理也至少涉及法律（過失構
+成要件之存否）
+      、醫療（相關處置的醫學適當性）
+                    、經濟（賠償額對
+組織的財務影響）、以及病家（對無預期傷害的詮釋與理解）等不
+同社會系統的溝通內容（關於醫療糾紛處理作為邊界物件/結構性
+配對，參見下圖1示意）
+          。
+
+
+
+
+      圖1 醫療糾紛處理作為邊界物件/結構性配對示意圖
+資料來源：作者製圖。
+
+
+      圍繞著醫療糾紛處理此一媒介，上述ABCD等不同個人/系統
+之間，又會產生彼此相互轉譯之需求，以協調彼此的行動。而在這
+些不同轉譯路徑上所進行的溝通互動，又可能因應其所涉個人/系
+統的不同特性或需求，而發展出適用於該特定對話脈絡的小型邊界
+物件/結構性配對。例如對（B）病家/病家作為溝通系統與（D）
+醫事人員 / 醫療作為溝通系統這條轉譯路徑來說，知情同意法則
+（抽象概念）與各式醫療同意書（具體物件）
+                   ，便是被廣泛應用的中
+論跨領域法律解釋適用之原則與挑戰                                   271
+
+
+間媒介。而若醫病互動嗣後衍生紛爭而進入法院，則這些抽象或具
+體的中間媒介，進一步又會與（A）法律人/法律作為溝通系統產
+生互動，而影響法律人的行動、激發涉及合法性判斷之溝通內容。
+
+   而在圖1所呈現的各種可能轉譯路徑中，與本文主題─法院
+跨領域法律解釋適用─最為相關者，又當屬（A）法律人/法律
+系 統 與 （ D ） 醫 事 人 員 / 醫 療 系 統 之 間 的 轉 譯 路 徑 。 以 Star 與
+Luhmann的理論為基礎，本文結合作者本身對醫療糾紛實務運作之
+觀察，嘗試針對此一法律─醫療的轉譯路徑，提出以中介概念和
+專家程序為媒介的法律跨領域互動模型，以作為理解法院如何在醫
+療糾紛領域進行跨領域法律解釋適用之一種可能（但絕非唯一的）
+概念工具。
+
+   具體言之，本文所想像之中介概念，係指法律上的實體定義
+（例如我國刑法第14條應注意能注意而不注意的過失定義，或民法
+上善良管理人注意義務之論理），在適用到如醫療糾紛之類的專業
+領域案件時，不可避免須因應不同專業領域之特性，而透過如醫療
+常規之類的概念媒介，來將該實體定義具體化。與前述知情同意法
+則與醫療同意書類似，此類概念媒介亦可被理解為醫療糾紛處理此
+一整體性的邊界物件/結構性配對中，特別為法律─醫療此一轉
+譯路徑或脈絡而存在之小型邊界物件/結構性配對。
+
+   為使這些中間媒介能夠有效發揮協調跨專業領域（醫法）互動
+之功能，中介概念的語彙選擇（例如醫療常規或醫療水準），通常
+需要保持一定程度的抽象性，以確保其作為邊界物件/結構性配對
+的模糊性或詮釋彈性。但同一時間，為發揮邊界物件/結構性配對
+簡化法院知識負擔之功能，法律體系在定義中介概念時，又往往會
+在醫療領域的專業知識或實務運作中，嘗試設定可靠、相對穩定之
+參照或觀察點（reference point），藉以讓法院在進行醫法跨領域知
+識轉譯時，不需漫無邊際的搜尋，而可聚焦在片面局部的資訊判
+272                 《中研院法學期刊》第24期（2019年3月）
+
+
+讀，以避免資訊超載38。
+
+      而醫療與法律系統圍繞著中介概念所進行之跨領域互動對話
+（可簡單理解為對中介概念所蘊含資訊的判讀）
+                    ，在醫療糾紛過程又
+進一步主要是透過納入其他領域專家之專家程序進行。例如我國主
+要由醫師參與之鑑定制度，就是專家程序的典型範例，鑑定報告中
+對系爭醫療行為是否違反醫療常規、是否構成疏失之判斷，便存在
+著將醫療體系對系爭事實的理解和詮釋，轉譯成可資法官應用、作
+為裁判依據之資訊型態的重要功能。
+
+      本文認為，此種以中介概念和專家程序為媒介的跨領域互動機
+制，相當程度挑戰我國法律人對法律體系運作之傳統想像。在法律
+人一般熟悉的法律體系運作圖像中，法官係事實或法律議題之唯一
+決定者，其需要在法律所定框架內認事用法，一定程度獨立於外界
+影響39。然而雖然法律人一般十分強調法院或法律系統之獨立性，
+但在現實運作中，當面臨如醫療糾紛這類跨越兩個以上高度專業領
+域之案件時，法院或法律體系受制於自身的專業侷限，常不可避免
+
+
+38 請參見前揭（註33）之內容。
+39 例如學者楊秀儀認為在思考鑑定制度之適當角色時，應明確區分鑑定（專家提
+  供證據）、認定（法官認定事實）及判定（法官適用法律）三者。楊氏並批評
+  我國法院常詢問鑑定機關系爭行為是否構成疏失，並大量以之作為過失判斷之
+  基礎，形同審判權之讓渡，讓鑑定機關代替法院為「認定」與「判定」。參見
+  楊秀儀，論初步鑑定對醫療糾紛處理之意義，收於：陳聰富編，醫療糾紛處理
+  之新思維（一）  ，頁87-89（2014年）
+                        。本文認同楊氏對我國法院過度依賴鑑定意
+  見疏失判斷之觀察，但對此一現象得出不同的分析，本文認為，在醫療糾紛這
+  類具高度專業性的案件類型中，不應過度強調鑑定、認定與判定之間的形式界
+  線劃分，而應將重點置於如何鼓勵醫療與法律在此一過程中與彼此進行批判性
+  的對話，進而形成具有足夠醫學基礎之法律判斷，以有效協調醫法兩大專業系
+  統的運作。從此觀點切入，本文認為我國法院與鑑定實務之所以發展出疏失此
+  一事實性的概念，其實就是為了維護楊氏所提及的鑑定/認定/判定之區分，但
+  卻無法發生楊氏期待的效果，其背後的原因之一，其實是醫療常規此一疏失上
+  位概念的侷限性，使得法院無法與鑑定意見進行批判性的對話，而只能形式的
+  採為裁判基礎。相關討論，參見本文「肆、二（一）」之討論；醫策會（註
+  10），頁11（強調「疏失為事實概念，過失則為法律概念，有疏失未必即有過
+  失」 ）
+     。
+論跨領域法律解釋適用之原則與挑戰                   273
+
+
+需要發展以中介概念和專家程序為媒介的跨領域制度安排，以將其
+他專業領域的知識或行動，轉譯為可供法院進行合法性判斷之訊息
+內容，進而避免法院因不知如何對其他領域進行觀察，而產生資訊
+超載之現象（參見下圖2圖示）
+             。
+
+
+
+
+ 圖2 以中介概念和專家程序為媒介的跨領域互動模型
+資料來源：作者製圖。
+
+
+  若具體將上述跨領域互動模型套用於醫糾領域，並參酌美國與
+日本的比較經驗，則比較法上法院在判斷醫療行為─不論是行為
+選擇之決策面或醫療技術之執行面─是否違反過失注意義務時，
+常會從醫療實況之普遍慣習（custom）
+                   、或醫療專業上被期待應具備
+之水準（standard）這兩個角度出發，來發展具體的中介概念40。而
+
+
+40 此一推論，源自作者對美國與日本比較經驗之觀察，參見前揭（註1）所引用
+ 之文獻。此處值得特別說明的是，中介概念其實並不僅只存在於醫療糾紛領
+ 域，而是現代法律體系的常見現象。例如本文其中一位審查人便指出，行政法
+ 不確定法律概念的判斷餘地理論，一定程度也具有中介概念的特性，可以成為
+274                      《中研院法學期刊》第24期（2019年3月）
+
+
+不同的中介概念，進一步又會搭配不同專家程序，以幫助法院進行
+該中介概念之資料判讀 41 （比較法上常見中介概念選項參見下表
+ 42
+1 ） 。
+
+            表1 比較法上常見中介概念選項
+         美日比較法曾出現之具體中 不同中介概念對應之醫療體系觀
+水準vs慣習
+         介概念          察點
+                               醫學知識發展之最前端（過於嚴
+         日本曾短暫出現醫學水準
+                               苛，實務上幾不可行）
+                       在參考行為時醫療專業的發展進
+水準       •美國有29州採用全國水準
+                       程後，醫事人員與醫療機構在臨
+         •日本實務近年亦發展出醫
+                       床上可被期待應具備或滿足之專
+          療水準
+                       業能力或品質
+         •日本過去曾採用醫療慣行
+         •美國至今仍有部份州採用
+          在地慣習          特定醫療社群在現實上之普遍做
+慣習
+         •我國最高法院106年度台上 法或狀態─大家一般怎麼做
+           227號民事判決將醫療常規
+           理解為醫療慣習
+資料來源：作者製表。
+
+
+      從慣習角度切入而發展之中介概念（例如美國之在地慣習─
+local custom─或日本之醫療慣行），一般是以醫療社群在現實上
+之普遍做法或狀態作為參照點，而此處所謂的普遍作法─尤其在
+美國法上─並不專指醫療行為選擇之慣例，而也包含對技術能力
+（skill）的通常期待43。換言之，即是要求法院透過對特定醫療社群
+
+
+  法院在審查專業行政決定時，與外界專家進行溝通對話的中間媒介。
+41 例如我國的鑑定制度、與美國的專家證人，就是典型的專家程序。
+42 本表對美國與日本比較經驗之觀察，參見前揭（註1）之內容。其中醫學水準
+  於日本短暫出現部份，參見陳聰富（註1）
+                    ，頁338。
+43 Local custom在美國法上也常被稱為在地規則（the locality rule）。值得注意的
+論跨領域法律解釋適用之原則與挑戰                                                                 275
+
+
+之現實普遍狀態的實然觀察，來設定注意義務的應然門檻。
+
+     相較之下，從水準角度出發所發展之中介概念，則往往跳脫上
+述實然面的拘束，而轉而參考整體醫療專業的發展進程，進而思考
+醫療行為過失注意義務之應然門檻應如何設定。而在比較法上，此
+一思路雖然曾經出現過以醫學知識發展之最前端此一最高標準作為
+參照點（如日本之醫學水準），但一般主要是以在參考行為時醫療
+專業的發展進程後，醫事人員與醫療機構在臨床上可被期待應具備
+或滿足之專業能力或品質作為觀察對象。例如在發展出醫療水準的
+日本，此一專業能力或品質門檻部分是間接透過觀察醫療機構層級
+來認定，而逐漸轉向全國水準的美國各州，則主要是以為「個人應
+展現之專業能力」設定門檻來作為觀察指標44。而美國以個人專業
+
+
+   是，custom在中文可被譯為慣行或慣習，但本文除非引用日本醫療慣行概念，
+   否則主要使用慣習一詞。此一選擇的理由在於若譯為慣行，可能會使讀者誤以
+   為custom概念主要涉及醫療行為模式的習慣性選擇，但事實上，美國的在地慣
+   習（local custom）概念除了行為選擇外，也包含技術能力或謹慎程度等面向。
+   參見Hall, 466 So.2d at 865 (stating that “under the locality rule, …a physician is
+   bound to bestow to each patient such reasonable and ordinary care, skill, and
+   diligence and to exercise such good medical judgment as physicians and surgeons in
+   good standing in the same neighborhood or locality, in the same general line of
+   practice, ordinarily have and exercise in like cases (bold added)”). 事實上（參見本
+   文「參」之討論），在地慣習原本就是美國法院在醫療糾紛領域用來具體化侵
+   權行為法傳統理性人原則之中介概念，因此法院使用“reasonable and ordinary
+   care, skill, and diligence”這些傳統理性人原則的慣用文字來定義在地慣習概念，
+   在美國法的思考上其實再自然不過。差別在於，在地慣習要求法院對醫療行為
+   注意義務水準的判斷，應受到特定醫療社群現狀之拘束，亦即形成本文此處所
+   稱「透過對特定醫療社群之現實普遍狀態的實然觀察，來設定注意義務的應然
+   門檻」之運作模式。
+44 雖然同樣從水準角度切入，日美兩國所發展出之中介概念（前者為醫療水準，
+   後者為全國水準）其具體定義存在著相當差異。在日本法方面，最高裁判所在
+   1982年的高山日赤醫院案件中，認為醫療過失之判斷應以「診療當時臨床醫學
+   實踐上之醫療水準」為標準（譯文引自陳聰富（註1）                                   ，頁338）    ，而在1992年的
+   姬路日赤醫院案件中，最高裁判所則提出醫療水準應依醫療機構不同而有所差
+   異之相對醫療水準說，此說日後並影響我國法院與鑑定實務依醫療醫院層級區
+   分醫療水準之見解。參見陳聰富（註1），頁337-340；最高裁判所1982（昭和
+   57）年3月30日判決，判時468號頁76；最高裁判所1995（平成7）年6月9日判
+   決，民集49卷6號頁1499。而在美國法方面，美國法院在定義全國水準時，一
+276                  《中研院法學期刊》第24期（2019年3月）
+
+
+能力門檻作為主要觀察指標的運作方式，有時─例如本文「參」
+所討論的美國密西西比州Hall v. Hilbun案─又會進一步搭配醫事
+人員可運用之醫療資源作為輔助參照點，以有效捕捉一國醫療體系
+內部因資源差異而形成的水準落差45。
+
+      值得注意的是，具有應然性質的水準概念，雖然在字面上似乎
+比強調實然層面觀察的慣習概念，更為貼近法律人一般理解之過失
+注意義務定義，但慣習作為醫療過失判斷之中介概念，由於具有概
+念定義所設定之參照點十分簡單明確此一關鍵優勢（亦即只要找出
+醫療人員一般怎麼做，即可立刻引為判斷依據），因此以美國為例
+的一些外國法例，早期普遍（甚至時至今日仍）以慣習作為是否違
+反過失注意義務之主要判斷標準。然而隨著醫學知識與醫療產業之
+演進，各國晚近也逐漸出現從水準角度切入來發展中介概念之趨勢
+（例如美國的全國水準與日本的醫療水準）46。本文認為，此一發
+展經驗有助呈現本文所提出，以中介概念和專家程序為媒介的法律
+跨領域互動模型，對於法學研究所能發揮之積極功能。本文
+「參」
+  ，便將以美國醫療糾紛訴訟領域之發展經驗為例，論證美國法
+院近年從在地慣習走向全國水準之演變，背後如何反映法院嘗試透
+過中介概念之調整，以回應美國醫療體系之背景變遷，提升跨領域
+
+
+   般會伴隨著在醫療體系為醫事人員被期待應展現之專業能力設定一明確的門檻/
+   參照點，例如醫事人員在全國執業「最低限」應展現之專業能力、「平均/一
+   般」符合資格醫師應展現之注意與技術、或是「一般理性」醫師在類似情境所
+   應展現的專業能力。具體討論參見本文「參」之分析。
+   唯必須明確揭露的是，本文此處對日本經驗之觀察，也同時暴露本文一項重要
+   的研究限制。受限於語言能力，作者對日本經驗之分析大量仰賴中文文獻。然
+   而我國目前研究日本醫療水準概念的中文文獻，似乎普遍存在參考資料年代較
+   為久遠、或高度仰賴二手詮釋之狀況。此一限制—加上作者的語言侷限—使得
+   本文對日本經驗之分析可能流於表面，而主要以美國法作為比較對象。本文認
+   為，若考量日本經驗對我國醫療糾紛領域的廣泛影響，此一文獻上的限制，十
+   分有待熟悉日本法之專家先進積極投入予以補充更新，以更有效掌握日本經驗
+   的最新脈動。
+45 See Hall, 466 So.2d. 關於本案之詳細討論，參見本文「參」之分析。
+46 參見前揭（註1）討論日本與美國比較法經驗之相關文獻。
+論跨領域法律解釋適用之原則與挑戰                                                                      277
+
+
+法律解釋適用之合理性。而此一比較經驗之分析，進一步又會在本
+文「肆」、「伍」，成為本文提出我國應以醫療水準取代醫療常規之
+倡議的比較法基礎。
+
+
+
+參、美國經驗之分析：在地慣習與全國水準之間
+  的持續辯證
+
+     作為過失侵權行為（negligence tort）之子類型，美國醫療行為
+過失責任（medical malpractice liability）之構成要件一般包括注意
+義務存在（duty of care）
+                 、注意義務違反（breach of duty）
+                                       、損害存
+在 （ damage ） 及 損 害 與 注 意 義 務 違 反 之 間 存 在 因 果 關 係
+（causation）47。其中有關注意義務之存在與違反，又涉及行為人應
+滿足的注意義務水準（standard of care）如何設定。對此，美國實
+務早期一般以在地慣習（local customs）作為認定標準，也因此常
+被稱為在地規則（the locality rule）
+                         ，或以慣習為基礎的注意義務水
+準（custom-based standard）48。此傳統一方面反映美國地域廣闊、
+不同地域醫療社群運作模式彼此差異甚大之背景，另方面也反映美
+國司法體系長期對醫療專業之高度尊重態度49。
+
+
+
+47 See GOSTIN ET AL., supra note 1, at 485.
+48 有關在地規則的歷史背景、演進、與現況，see generally Lewis et al., supra note
+   1, at 2633-34.
+49 See LAWRENCE O. GOSTIN & PETER D. JACOBSON, LAW AND THE HEALTH SYSTEM 430
+   (2006) (discussing the judicial deference to professionalism and its impact on how
+   courts interpret medical negligence). See also BARRY FURROW ET AL., HEALTH LAW:
+   CASES, MATERIALS AND PROBLEMS 309 (7th ed. 2013) (discussing the same
+   phenomenon); Vergara v. Doan, 593 N.E.2d 185, 186 (Ind. 1992) (stating that “When
+   the…locality rule originated in the late 19th century, there was great disparity between
+   the medical opportunities, equipment, facilities, and training in rural and urban
+   communities….[and t]he locality rule was intended to prevent the inequity that would
+   result from holding rural doctors to the same standards as doctors in large cities.”).
+278                                        《中研院法學期刊》第24期（2019年3月）
+
+
+      美國醫療糾紛訴訟的上述制度安排，在以下兩個面向上偏離侵
+權行為法之典型運作模式，分別是：一、明顯偏離侵權行為法在判
+斷注意義務水準時，通常使用之理性人原則（reasonable person）；
+以及二、在判斷注意義務是否存在或違反時，高度仰賴專家證言
+（expert testimony）程序50。醫療糾紛在這些面向上的獨特性，相當
+程度反映本文「貳」所提出以中介概念和專家程序為媒介的法律跨
+領域互動模型：一方面，法院透過發展在地慣習此一中介概念，來
+將傳統理性人原則予以具體化，另方面，法院再透過納入醫療專家
+之專家證言程序，幫助法院判讀在地慣習此一中介概念具體蘊含之
+訊息內容究竟為何。
+
+      然而美國法強調在地慣習的傳統，一直以來也受到許多批評，
+尤其表現在：一、在地醫師不願擔任彼此案件的專家證人，導致法
+院難以取得專家證言以及二、在地醫師共同施行醫學專業上已不合
+格（substandard）之醫療行為，而未能與時俱進51。為回應這些批
+評，近年來，美國法上也逐漸興起以全國水準取代在地慣習之呼
+聲。此一演進的背後，反映現代醫療從傳統強調在地性逐漸走向區
+域化或全國化，以及從傳統高度仰賴醫師個別裁量逐漸走向在實證
+醫學基礎上一定程度標準化之發展52。這些發展使得慣習與水準逐
+
+
+50 See John C. Drapp III, The National Standard of Care in Medical Malpractice Actions:
+   Does Small Area Analysis Make It Another Legal Fiction?, 6 QUINNIPIAC HEALTH L.J.
+   95, 97-98 (2002) (listing deviation from the reasonable person standard and the
+   reliance on expert witness in establishing standard of care as the two main differences
+   between medical malpractice and other types of tort).
+51 See generally Lewis et al., supra note 1, at 2634 (indicating the persistence of local
+   practices that fall below the contemporary standard as a reason for the US legal
+   system to move away from the locality rule). See also Doan, 593 N.E.2d at 186
+   (citing legal precedent in arguing that “[t]he…locality rule…had two major
+   drawbacks, especially as applied to smaller communities[:] First, there was a scarcity
+   of local doctors to serve as expert witnesses against other local doctors[;] Second,
+   there was the possibility that practices among a small group of doctors would
+   establish a local standard of care below that which the law required.”).
+52 Lewis et al., supra note 1, at 2634; Doan, 593 N.E.2d at 186.
+ 論跨領域法律解釋適用之原則與挑戰                                                                   279
+
+
+ 漸產生歧異，讓醫師普遍採取之醫療行為，不再被反射性地認為代
+ 表了醫師應展現之專業能力，而可直接被用來當作行為人應滿足之
+ 注意義務水準的判斷標準。
+
+      美國醫療日益走向全國化與標準化之發展，進一步又可以具體
+ 被理解為（至少）以下兩項醫療環境變遷之結果，包括：一、美國
+ 醫學教育訓練之日益全國標準化；以及二、結果變異分析
+（ outcome research ） 與 實 證 醫 學 運 動 （ evidence-based medicine,
+           53
+ EBM）之興起與影響 。其中，醫學教育標準化主要涉及醫學教育
+ 評鑑委員會（Liaison Committee on Medical Education, LCME）與醫
+ 學 教 育 評 鑑 諮 議 會 （ Accreditation Council of Graduate Medical
+                        54
+ Education, ACGME）等組織之運作 。1942年成立之LCME負責醫
+ 學院教育之評鑑，1981年組織重組之ACGME則負責畢業後住院醫
+ 師（resident）與研究或臨床訓練醫師（research or clinical fellows）
+ 教育之評鑑55。通過訓練醫師教育者，進一步可申請專科醫師認證
+（board certification）。美國目前有美國醫學專業委員會（American
+ Board of Medical Specialties）在內的三個組織負責24種專科醫師認
+ 證，認證醫師並需持續滿足繼續教育之需求56。
+
+ 53 本節有關結果變異分析與實證醫學運動之討論，參考自作者博士論文之內容。
+    See Chih-Ming Liang, Boundary Doctrine as a Research Approach for New
+    Governance: The Healthcare Quality Movement and Its Implication on Malpractice
+    Liability as a Case Study 108-15 (2013) (unpublished S.J.D. thesis, University of
+    Wisconsin-Madison) (on file with the University of Wisconsin-Madison Law Library).
+ 54 ACGME, http://www.acgme.org/ (last visited Oct. 31, 2017); LCME, http://lcme.org
+    (last visited Oct. 31, 2017).
+ 55 Id. 其中關於美國畢業後醫學教育評鑑之歷史發展，see ACGME, http://www.
+    acgme.org/About-Us/Overview/History-of-Medical-Education (last visited Oct. 31,
+    2017).
+ 56 包括美國醫學專科委員會（American Board of Medical Specialties, ABMS）                        、美
+    國專科醫師委員會（American Board of Physician Specialties, AAPS）以及美國
+    骨科醫師協會（American Osteopathic Association, AOA）下設的骨專科管理部
+    門（Bureau of Osteopathic Specialists, AOABOS）        。ABMS, http://www.abms.org/
+    about-abms/ (last visited Oct. 31, 2017); ABPS, http://www.abpsus.org/abps (last
+    visited Oct. 31, 2017); AOABOS, https://certification.osteopathic.org/bureau-of-osteo
+280                                          《中研院法學期刊》第24期（2019年3月）
+
+
+      而在醫學教育訓練之標準化之外，另一使慣習與水準逐漸產生
+歧異之重要醫療歷史發展，是結果變異分析與實證醫學運動之興
+起。所謂醫療結果變異分析，係指利用統計工具，對醫療行為之使
+用模式（utilization）與治療成效（effectiveness）進行比較，以找
+出 不 同 地 域 、 機 構 、 情 境 下 醫 療 行 為 結 果 之 差 異 （ outcome
+           57
+variations） 。此類研究的出現，一定程度又係肇因於美國聯邦政
+府因Medicare與Medicaid之建置，使得醫療預算自70年代開始快速
+膨脹，導致聯邦政府為管控預算而開始挹注資金進行此類分析，造
+成相關研究之蓬勃發展 58 。此領域之指標性先驅學者為John E.
+Wennberg，其於1973年發表之研究，發現當時美國佛蒙特州不同社
+群 之 醫 療 服 務 提 供 ， 在 資 源 挹 注 （ resource input ）、 服 務 使 用
+（utilization of services）與經費花費（expenditures）上均存在實質差
+異59。此類研究嗣後並進一步發現許多地區慣習往往偏離了醫學上
+的最佳判斷，但當地醫師卻長期擁抱相關慣習而不願改變60。
+
+
+
+   pathic-specialists/ (last visited Oct. 31, 2017).
+57 See generally TROYEN A. BRENNAN & DONALD M. BERWICK, NEW RULES:
+   REGULATION, MARKETS, AND THE QUALITY OF AMERICAN HEALTH CARE 113-18
+   (1996) (introducing the emergence of the research on healthcare outcome quality and
+   its maturation in 1970s and 1980s). 相關研究時至今日仍持續受到重視，例如美
+   國2010年通過的病患保障與可負擔照護法案（Patient Protection and Affordable
+   Care Act of 2010），即設置病患導向之結果變異分析中心（Patient-Centered
+   Outcomes Research Institute, PCORI）來整合與推定聯邦政府層級的相關研究努
+   力。Patient Protection and Affordable Care Act, Public Law 111-148, § 6301, 124
+   Stat. 119, 727, 42 U.S.C. § 1320e. 另外結果變異分析在當代的另一個常見名稱是
+   比 較 效 益 分 析 （ Comparative Effectiveness Research ）， see COMPARATIVE
+   EFFECTIVENESS RESEARCH CENTER OF THE UNIVERSITY OF PITTSBURGH, http://www.
+   healthpolicyinstitute.pitt.edu/cerc (last visited Oct. 31, 2017).
+58 See BRENNAN & BERWICK, supra note 57, at 113-14.
+59 See generally John E. Wennberg & Alan Gittelsohn, Small Area Variations in
+   Healthcare Delivery: A Population-based Health Information System Can Guide
+   Planning and Regulatory Decision-making, 182 SCI. 1102 (1973).
+60 See BRENNAN & BERWICK, supra note 57, at 116-18; GOSTIN & JACOBSON, supra
+   note 49, at 432. See also generally Elizabeth A. McGlynn et al., The Quality of Health
+   Care Delivered to Adults in the United States, 348 NEW ENG. J. MED. 2635 (2003). 此
+論跨領域法律解釋適用之原則與挑戰                                                                     281
+
+
+      結果變異分析之興起與發展，進一步培養出大量熟悉統計方法
+的研究人才，促成實證醫學運動於80年代之興起61。所謂實證醫學
+運動，係強調醫療行為應以科學證據為基礎，而避免僅憑個人之直
+覺或經驗，或甚至純依身份地位而取得醫療決策之話語權（有學者
+戲稱為名氣醫學─eminence-based medicine）62。而科學證據之產
+生，又相當程度仰賴隨機對照試驗（randomized controlled trials）
+之實驗方法63。此類研究構成當代醫學研究之骨幹，其成果除了以
+期刊文章之形式發表，也常反映於各式臨床診療指引（Clinical
+                          64
+Practice Guidelines, CPGs） 。現代醫學並依不同的醫療行為領域
+（例如診斷diagnosis、預後prognosis、與治療treatment），根據醫師
+手邊實證醫學文獻之種類、數量與品質，區分不同的證據等級，作
+為現代醫學在進行臨床判斷時的重要參考工具（有關實證醫學不同
+證據之證據力等級，參見本文附件二表格）
+                  。
+
+      上述兩項醫療環境變遷，逐漸在20世紀下半葉開始影響美國法
+院對醫療行為過失之判斷，此變化的早期指標案件為1974年華盛頓
+州最高法院之Helling v. Carey判決65。該案被告醫師在治療過程中
+
+
+   一發展進一步衍生所謂的沈默共謀（conspiracy of silence）現象，亦即在同地
+   域執業的醫師不願意擔任專家證人，提供對彼此不利的證言，此一現象也是美
+   國各州逐漸從在地慣習轉向全國水準的原因之一。See FURROW ET AL., supra
+   note 49, at 310; Doan, 593 N.E.2d at 186; Drapp III, supra note 50, at 107-08.
+61 See generally David L. Sackett et al., Evidence-Based Medicine: What It Is and What
+   It Isn’t, 312 BRITISH MED. J. 71 (1996) (defining evidence-based medicine and
+   distinguishing it from so-called cook-book medicine that results in slavish approach to
+   deliver care). 本文常被推崇為最早使用實證醫學一詞的學術研究之一。
+62 See BARRY FURROW ET AL., HEALTH LAW: CASES, MATERIALS AND PROBLEMS 132
+   (Abridged 6th ed., 2008) (discussing the same phenomenon). See also generally
+   Mohit Bhandari et al., From Eminence-based Practice to Evidence-based Practice: A
+   Paradigm Shift, 87 MINN. MED. 51 (2004).
+63 See INSTITUTE OF MEDICINE, CLINICAL PRACTICE GUIDELINES WE CAN TRUST 31-34
+   (2011) (discussing randomized controlled trials as the scientific basis for evidence-
+   based medicine and clinical practice guidelines).
+64 Id.; GOSTIN & JACOBSON, supra note 49, at 432.
+65 Helling, 83 Wn.2d at 983.
+282                                         《中研院法學期刊》第24期（2019年3月）
+
+
+並 未 進 行 眼 壓 測 試 （ tonometry ）， 患 者 最 終 則 因 青 光 眼
+（glaucoma）導致失明而提起訴訟。在事實審中，提供醫療專業意
+見之專家證人證稱，如原告之類40歲以下之壯年人罹患青光眼之機
+率低於1/25000人，因此認為眼壓測試並非當地之醫療慣習。然而
+華盛頓州最高法院最終推翻此一見解，而認為眼壓測試為一種簡便
+且不具傷害性之測試，提供此項測試應被認為是眼科醫師注意義務
+之一部分，而據此判決原告勝訴66。
+
+      美國醫療法領域常將Helling案理解為由法院施加注意義務水準
+（judicially imposed standard of care）之案件類型的代表67。在本案
+事實審中，陪審團（美國法上對事實部分的裁判者─trier of
+fact）透過專家證言認定在地慣習的存在，法院（美國法上對法律
+部分的裁判者─trier of law）也認為被告醫師並未違反此一以慣
+習為基礎的注意義務水準，進而做成對被告有利之決定68。然而當
+
+
+66 Id.
+67 See GOSTIN ET AL., supra note 1, at 519-24.
+68 本案法院闡釋：        「我們認為本案有其獨特性。本案提供證言之醫療專家對於眼
+  科專科應具之職業水準（standards of the profession）                     （筆者按：在本案脈絡下應
+  指慣習）並無任何爭論。本案的問題因此並非被告是否相較於其他眼科醫師具
+  有一些特殊或高超的能力、知識或資訊，而應負擔高於「與被告同執業領域
+  （class）之平均執業者在相同或類似情境下可被預期應展現之注意或技術水
+  準」。與此相反，本案問題其實是被告遵守眼科專科一般被認定之職業水準
+  （慣習）     ，而不對40歲以下之病患進行例行性的眼壓檢查，是否足以讓被告免負
+  因未能適時提供眼壓測試而導致原告視力喪失之過失責任（“We find this to be a
+  unique case. The testimony of the medical experts is undisputed concerning the
+  standards of the profession for the specialty of ophthalmology. It is not a question in
+  this case of the defendants having any greater special ability, knowledge and
+  information than other ophthalmologists which would require the defendants to
+  comply with a higher duty of care than that ‘degree of care and skill which is expected
+  of the average practitioner in the class to which he belongs, acting in the same or
+  similar circumstances.’ The issue is whether the defendants’ compliance with the
+  standard of the profession of ophthalmology, which does not require the giving of a
+  routine pressure test to persons under 40 years of age, should insulate them from
+  liability under the facts in this case where the plaintiff has lost a substantial amount of
+  her vision due to the failure of the defendants to timely give the pressure test to the
+  plaintiff.”）。」Helling, 83 Wn.2d at 982. 不過值得注意的是，本案法院將慣習理
+論跨領域法律解釋適用之原則與挑戰                                                                         283
+
+
+案件來到華盛頓州最高法院，法院最終卻選擇推翻陪審團透過專家
+證言所認定之注意義務水準，並援引最高法院Oliver W. Holmes Jr.
+大法官於1903年之見解為依據，認為「常這麼做並無法作為應怎麼
+做的證據，後者之判斷取決於什麼是合理審慎的注意義務水準（a
+standard of reasonable prudence）
+                               ，至於此一義務是否在實際上常被
+                     69
+遵循，則並非所問。 」而所謂合理審慎的注意義務水準，相當程
+度即回歸美國侵權行為法傳統適用之理性人原則，亦即將是否違反
+注意義務之判斷標準，與一般理性人（此處為醫師）所應展現之注
+意義務水準或能力加以連結。
+
+      若單純就法論法，Helling案推翻陪審團藉助專家證言所為之認
+定，而直接由法院施加合理審慎注意義務水準之論理，既未逾越法
+院適用法律之權限，也貼近法律人定義過失注意義務的傳統語彙。
+然而在實際應用時，此種作法存在著一本質性的風險，亦即所謂合
+理審慎注意義務（即理性人原則之展現），相當程度強調法官自身
+對理性行動者之主觀想像。此一想像的形成，及系爭行為是否違反
+此一想像，基本上均高度仰賴法院自身之知識、經驗與觀察，而不
+需結合以中介概念和專家程序為媒介的跨領域互動模型（例如本案
+
+
+
+   解為「平均執業者……之注意或技術水準」，此種定義方式其實可能是例外而
+   非常態。例如自1968年Brune v. Belinkoff以降逐漸揚棄在地慣習而走向全國水準
+   的麻瑟諸塞州，就將此種平均執業者之注意或技術水準，理解為全國水準而非
+   在地慣習之定義。See Brune v. Belinkoff, 354 Mass. 102, 235 N.E.2d 793, 798
+   (1968) (citing Pederson v. Dumouchel, 431 P.2d 973, 978 (Wash. 1967), in arguing
+   that the locality rule “has no present-day vitality except that it may be considered as
+   one of the elements to determine the degree of care and skill which is to be expected
+   of the average practitioner of the class to which he belongs[, and t]he degree of care
+   which must be observed is…that of an average, competent practitioner acting in the
+   same or similar circumstances.”). 本案後續並在Poyser v. U.S.及Mitchell v. U.S.等
+   案件中被援用，see Poyser v. U.S., 602 F. Supp. 436, 438-39 (D. Mass. 1984);
+   Mitchell v. U.S., 141 F.3d 8, 13 (1st Cir. 1998) (ruling that “[a] physician is held to the
+   standard of care and skill of the average practitioner of the medical specialty in
+   question, taking into account the advances in the profession.”).
+69 Helling, 83 Wn.2d at 982.
+284                                       《中研院法學期刊》第24期（2019年3月）
+
+
+陪審團藉助專家證言對在地慣習作為注意義務水準所為之認定）。
+此時，由於法官一般缺乏對醫學之足夠認識，因此其對理性行動者
+的想像，不可避免會因為資訊超載，而在某些個案與醫學專業判斷
+產 生 落 差 ， 而 衍 生 是 否 以 法 律 判 斷 取 代 醫 療 判 斷 （ second-
+                      70
+guessing）之問題 。例如學者David Eddy及其團隊1983年的研究就
+認為，眼壓測試除存在增加眼壓之副作用、也無法發現相當比例的
+青光眼症狀，因此不具成本效益，在醫療專業上也不構成應被推薦
+之醫療處置71。
+
+      美國法學界一般將Helling案推翻陪審團透過專家證言所為認定
+之見解，理解為醫療糾紛史上的例外，然而同一時間，本案揚棄傳
+統在地慣習作為注意義務水準之立場，其實又一定程度呼應了美國
+法院實務態度的整體轉變72。此一趨勢事實上從20世紀中葉即已發
+端，而其中最著名之指標性案件，又當屬美國密西西比州最高法院
+於1985年做成之Hall v. Hilbun案73。本案涉及Hall女士因下腹痛就
+醫，經Hilbun醫師診斷為小腸阻塞並進行手術，手術後Hilbun醫師
+在短暫對病患進行觀察後就離院返家。入夜後Hall女士生命徵象出
+現異常，整夜存在疼痛現象，並於翌日早上因呼吸衰竭過世，然而
+Hilbun醫師整夜均未受到通知，其在離院時所留指示，也未明確說
+
+
+70 See GOSTIN ET AL., supra note 1, at 521-22 (discussing the critique of Helling as
+   second-guessing medical practices without expertise to do so).
+71 Id. See also generally David M. Eddy et al., The Value of Screening for Glaucoma
+   with Tonometry, 28 SURV. OPHTHALMOLOGY 194 (1983). 值得補充說明的是，Eddy
+   及其團隊並未在該研究中明確以Helling案判決作為批判對象，但其研究的時間
+   點以及眼壓測試作為題材，均可推測出其係以Helling案判決之見解作為回應的
+   目標。
+72 See Philip G. Peters, Jr., The Quiet Demise of Deference to Custom: Malpractice Law
+   at the Millennium, 57 WASH. & LEE L. REV. 163, 171-72 (2000) (arguing that while
+   Helling was an exception in the sense that it overruled jury determination based on
+   expert testimony, it remains part of a broader trend in the US to shift away from the
+   locality rule).
+73 See Hall, 466 So.2d. 關於本案之摘要內容，see Moffett & Moore, supra note 1, at
+   110-11.
+論跨領域法律解釋適用之原則與挑戰                                                                 285
+
+
+明護理人員遇到哪些狀況應立刻與醫師聯繫，家屬對此不服而提起
+訴訟。在事實審過程中，被告成功排除兩位討論全國水準之專家證
+言，而獲得勝訴判決，但到了上訴審，最高法院決定納入這兩位非
+本地專家之證言，而使得結果遭到逆轉74。
+
+     法院在Hall v. Hilbun案中所面對的，是醫師在手術後未能持續
+觀察病患至少數小時，即便並未違反在地慣習，是否仍可被理解為
+構成注意義務之違反。對此，本案上訴審最終做成肯定判斷。此一
+結論與前述Helling案，法院認定非屬慣習之眼壓測試仍應屬醫師注
+意義務一環的見解相呼應，然而法院在本案之依據，並非Helling案
+所仰賴、完全跳脫跨領域互動模型的合理審慎注意義務水準，而是
+在維持由陪審團藉助專家證言來認定注意義務水準之大前提上，試
+圖局部修正此一互動模型，而於傳統的在地慣習之外，另行提出全
+國水準作為替代中介概念，並具體以醫師在美國執業最低限應展現
+之專業能力，作為此一概念定義所設定之醫療領域參照點。本案法
+院指出：
+
+     醫師犯下的醫療失當（medical malpractice），是一種由法
+     律所認定的錯誤。醫療失當的構成，主要來自醫師未能提
+     供法律所要求的照護品質。當醫師診治病人時，其依法具
+     有以下的義務：其應行使具有最低限合理性的醫學判斷
+   （use minimally sound medical judgment）
+                                        ，以及提供在其領
+     域執業最低限應展現的醫療照護能力（render minimally
+     competent care in the course of services he provides）
+                                                         。醫師當
+     然不保證病人可以完全復原……一個有能力的醫師並不會
+     單純因為判斷或診斷錯誤、或是醫療過程發生不可欲之負
+                           ，就需要負賠償之責75（粗體為
+     面結果（undesirable result）
+
+
+74 See Hall, 466 So.2d at 878-80.
+75 原文為“Medical malpractice is a legal fault by a physician or surgeon. It arises from
+286                                        《中研院法學期刊》第24期（2019年3月）
+
+
+      本文所加）
+          。
+
+      法院之所以在本案中提出醫師在全美國執業最低限應展現之專
+業能力此一概念定義方式，一定程度可能是受到兩位非本地專家有
+關全國水準之證言的影響，此一背景也再次反映出前述美國醫療體
+系之運作逐漸走向全國化與標準化之演進趨勢。受此一演進趨勢之
+影響，Hall v. Hilbun案明確挑戰傳統在地慣習概念，認為其已偏離
+當代醫療的發展現況，雖然仍可作為判斷注意義務時之參考，但後
+者內容絕不應由前者所決定76。法院並進而以「不可避免的全國性
+水準（Inevitable Ascendancy of National Standards）77」為題，強
+調：「我們會需要保持鴕鳥心態，才能對醫學教育與訓練之全國化
+趨勢視而不見。78」面對這些醫療體系的背景變遷，法院進而主張
+「我們應可合理且公平地期待每一位醫師，均應具備（或有管道獲
+得）醫師要在全美國某專科或一般領域執業，一般至少所應具備
+（或有能力獲得）之醫學知識與能力。79」
+                   （粗體為本文所加）
+                           。
+
+
+   the failure of a physician to provide the quality of care required by law. When a
+   physician undertakes to treat a patient, he takes on an obligation enforceable at law to
+   use minimally sound medical judgment and render minimally competent care in the
+   course of services he provides. A physician does not guarantee recovery… A
+   competent physician is not liable per se for a mere error of judgment, mistaken
+   diagnosis or the occurrence of an undesirable result.” Id. at 866.
+76 Id. at 867 (stating that “[t]he practice of medicine in general and medical malpractice
+   litigation in particular are said to have achieved a level [of] sophistication that
+   require[s] a modernization of our law. There is merit in the attack [on the conventional
+   locality rule]. Suffice it to say that the rules we have heretofore employed do not seem
+   nearly so consonant with reason and fairness as they once did”). The court also stated
+   that “[c]onformity with established medical custom practiced by minimally competent
+   physicians in a given area, while evidence of performance of the duty of care, may
+   never be conclusive of such compliance.” Id. at 872.
+77 Id. at 870.
+78 Id. (stating “[w]e would have to put our heads in the sand to ignore the
+   ‘nationalization’ of medical education and training.”).
+79 Id. at 871 (stating that “[e]ach physician may with reason and fairness be expected to
+   possess or have reasonable access to such medical knowledge as is commonly
+   possessed or reasonably available to minimally competent physicians in the same
+論跨領域法律解釋適用之原則與挑戰                                                                      287
+
+
+      以上述美國醫療體系演進趨勢為背景，Hall v. Hilbun案所提出
+在地慣習與全國水準之區分，其區分實益進一步在於影響專家程序
+之運作。此一影響具體又表現在專家證人之資格限制80，若以傳統
+的在地慣習作為依據，則理論上應只有熟悉本地醫療運作之專家方
+可擔任專家證人，但若改以全國水準作為判準，則熟悉其他地域醫
+療運作之專家亦應可進入法院提供證言。在本案中，最高法院便依
+幾位非本地專家之證言，認定被告違反注意義務而應負過失責
+任81。
+
+      需特別說明的是，美國醫療體系的上述演進，雖然相當程度縮
+減了不同地域醫療社群之間的差異，但是此一落差尚未、也無法期
+待未來能夠完全消除─尤其反映在城鄉的醫療資源差距。也因
+此，本案法院在提出全國水準概念（醫師在全美國執業最低限應展
+現之專業能力）的同時，也加入醫事人員可運用之醫療資源作為輔
+助觀察點，而提出在判斷全國水準時，應重視各地資源差異之警語
+（resource-based caveat）
+                      ，亦即認為法院在評估注意義務時，除判斷
+「醫師要在全美……執業，一般至少所應具備（或有能力獲得）
+之……知識與能力」外，亦應將醫師做決定時可資運用的設備、儀
+
+
+   specialty or general field of practice throughout the United States.”). 本案法院所提
+   出以「醫師在美國執業最低限應展現之專業能力」作為注意義務水準之見解，
+   迄今持續在密西西比州各級法院被引為判決先例，不過學界以及法院實務嗣後
+   在引用本案時較少注意到的，是本案法院進一步也強調醫師除了滿足自身最低
+   限應展現的醫療照護能力外，也需要對周遭以及鄰近醫療社群之人員、設備、
+   資源之一般知識與能力有著基本、滿足臨床需要的理解（a practical working
+   knowledge）   。Id. at 871 (stating that “[b]eyond that, each physician has a duty to
+   have a practical working knowledge of the facilities, equipment, resources (including
+   personnel in health related fields and their general level of knowledge and
+   competence), and options (including what specialized services or facilities may be
+   available in larger communities…) reasonably available to him or her as well as the
+   practical limitations on same.”).
+80 Id. at 874 (ruling that “[t]he geographic location of where an expert lives or practices
+   his profession has no relevance regarding the qualification of that person as an expert
+   witness.”). 此一見解日後為該州立法所取代。
+81 Id. at 874-76.
+288                                        《中研院法學期刊》第24期（2019年3月）
+
+
+器、人員等在地條件納入考量，允許資源不足地域之醫師合理偏離
+其理論上應展現之全國性最低限專業能力82。
+
+      若放在跨領域互動模型的框架下，法院於Hall v. Hilbun案所提
+出重視在地資源差異的全國水準概念，其存在目的和傳統在地規則
+相同，均是為了具體化侵權行為法的傳統理性人原則83。此一概念
+的提出，後續並成為美國醫療糾紛領域立法政策與法院實務變遷的
+重要里程碑。依學者Michelle H. Lewis團隊2007年之研究，至2007
+年止美國共有29州透過立法或判決引入全國水準作為醫療注意義務
+之準據，僅21州仍以不同方式保留在地慣習的影響力84。而在這21
+州中，又僅愛達荷及紐約州維持傳統定義之嚴格在地規則（strict
+             ，即必須以當地社群之慣習作為指標85。剩餘地域若非
+locality rule）
+適用在全國與在地間折衷的全州水準（statewide standard）
+                                   ，就是採
+相同或類似社群水準（same or similar communities standard）86，允
+
+
+
+
+82 Id. at 872-73 (reasoning that in the world of medical science and practice, the duty of
+   care is also “a duty based upon the adept use of such medical facilities, services,
+   equipment and options as are reasonably available.”).
+83 本案有關全國水準之見解今日仍基本在密西西比州沿用，see McAllister v.
+   Franklin County Memorial Hosp., 910 So.2d 1205, 1209 (Miss. App. 2005).
+84 Lewis et al., supra note 1, at 2634-35.
+85 亦稱為same community standard（相對於same or similar community standard）               ，id.
+   at 2635.
+86 此一概念之發展較Helling案與Hall v. Hilbun案更早，see Drapp III, supra note 50,
+   at 109-14. 例如在1968年美國路易西安那州上訴法院（the Court of Appeals of
+   Louisiana）Thibodeaux v. Aetna Casualty and Surety Co.案中，法院就表示「作為
+   一般性規則，醫師有義務行使在相似情境下、其在相同或類似地域執業、信譽
+   良好之專業同儕所展現之技術程度（“[a]s a general rule, it is [the doctor’s] duty to
+   exercise the degree of skill ordinarily employed, under similar circumstances, by the
+   members of his profession in good standing in the same or similar community or
+   locality ....”）
+                 。」Thibodeaux v. Aetna Casualty and Surety Co., 216 So.2d 314, 317
+   (La. App. 1968) (citing Meyer v. St. Paul Mercury Indemnity Co., 73 So.2d 781 (La.
+   1953)). 依Lewis及其團隊之研究，至2007年仍有16州維持相同或類似地域標
+   準，其中又有科羅拉多等五州特別區分認證專科醫師，並對其課予較高之全國
+   水準。Lewis et al., supra note 1, at 2635.
+論跨領域法律解釋適用之原則與挑戰                                                                    289
+
+
+許將非本地但情境類似之社群慣習採為判斷依據87（相關概念中英
+文對照與功能說明參見下表2；Lewis團隊研究結果參見下表3）
+                              。
+
+    表2 美國侵權行為核心概念之中英文對照與功能說明
+英文                          中文                         功能
+duty of care                注意義務                       過失侵權行為責任構成要件
+breach of duty of care      注意義務違反                     過失侵權行為責任構成要件
+                                                       判斷注意義務是否被違反之
+standard of care            注意義務水準
+                                                       依據
+                                                       美國侵權行為注意義務水準
+reasonable person           理性（一般）人原則
+                                                       之傳統判準
+                                                       美國醫糾場域具體化理性人
+national standard           全國水準
+                                                       原則之中介概念
+                                                       美國醫糾場域具體化理性人
+state standard              全州水準
+                                                       原則之中介概念
+Same or similar                                        美國醫糾場域具體化理性人
+                            相同或類似社群水準
+communities standard                                   原則之中介概念
+                                                       美國醫糾場域具體化理性人
+local custom/locality rule 在地慣習/在地規則
+                                                       原則之中介概念
+資料來源：作者製表。
+
+
+
+
+87 值得注意的是，雖然相同或類似社群水準在表面上仍保留在地慣習的影響力，
+   但由於美國地域廣大，所謂「類似社群」往往存在相當數量，很容易找到和全
+   國水準貼近之參考對象，因此使得相同或類似社群水準與全國水準在實務上往
+   往難以區分。See Drapp III, supra note 50, at 109, 114 (quoting Hall v. Hilbun that
+   “[a]s a practical matter there is often little difference between this ‘similar
+   community’ standard and the ‘national standard’ ” and arguing that it might be due to
+   the fact that “for any given locality, there are likely several ‘similar’ localities
+   throughout the country, effectively making the standard a somewhat ‘national one’ ”).
+290                                          《中研院法學期刊》第24期（2019年3月）
+
+
+
+            表3 美國各州醫療過失注意義務水準之整理
+                                                                                              *
+Box. Interpretation and Categorization of State Statutes and Case Law on Standard of Care
+
+National Standard†                               Vermont: Vt Stat Ann tit 12, §1908 (2006)
+Alabama: Ala Code §6-5-548 (2005)                Washington, DC: Morrison v MacNamara, 407
+Alaska: Alaska Stat §09.55.540 (2006)            A2d 555 (DC 1979)
+California: Barris v County of Los Angeles, 20   West Virginia: W Va Code §55-7B-3 (2006)
+Cal 4th 101, 972 P2d 966, 83 Cal Rptr 145        Wisconsin: Phelps v Physicians Ins Co of Wis
+(1999)                                           Inc, 282 Wis2d 69, 698 NW2d 643 (2005)
+Connecticut: Conn Gen Stat §52-184c (2006)       Wyoming: Wyo Stat Ann §1-12-601 (2006)
+Delaware: Del Code Ann, tit 18, §6801 (2006)     Statewide Standard‡
+Florida: Fla Stat §766.102 (2006)                Arizona: Ariz Rev Stat §12-563 (2005)
+Georgia: McDaniel v Hendrix, 260 Ga 857, 401     Virginia: Va Code Ann §8.01-581.20 (2006)
+SE2d 260 (1991)                                  Washington: Wash Rev Code §7.70.040 (2006)
+Hawaii: Hirahara v Tanaka, 87 Haw 460, 959       Same Community Standard§
+P2d 830 (1998)                                   Idaho: Idaho Code §6-1012 (2006)
+Indiana: Vergara v Doan, 593 NE2d 185 (Ind       New York: Nestorowich v Ricotta, 97 NY2d
+1992)                                            393, 767 NE2d 125 (2005) ||
+Iowa: Estate of Hagedorn ex rel Hagedorn v
+                                                 Same or Similar Community Standard¶
+Peterson, 690 NW2d 84 (Iowa 2004)
+                                                 Arkansas: Ark Code Ann §16-114-206 (2006)
+Kentucky: Branham v Nazar, 2004 Ky App
+                                                 Illinois: Jinkins v Lee, 209 Ill2d 320, 282 Ill
+LEXIS 312
+                                                 Dec 787, 807 NE2d 411 (2004)
+Maine: Downer v Veilleux, 322 A2d 82 (Me
+                                                 Kansas: Tompkins v Bise, 259 Kan 39, 910 P2d
+1974)
+                                                 185 (1996)
+Massachusetts: Brune v Belinkoff, 354 Mass
+                                                 Maryland: Md Code Ann, [Cts&Jud Proc] §3-
+102, 235 NE2d 793 (1968)
+                                                 2A-02(c) (2006)
+Mississippi: Hall v Hilbun, 466 S2d 856 (Miss
+                                                 Michigan: Mich Comp Laws Serv §600.2169
+1985)
+                                                 (2006)
+Missouri: Mo Rev Stat §538.225 (2006)
+                                                 Minnesota: Lundgren v Eustermann, 370
+Nevada: Nev Rev Stat Ann §41A.009 (2006)
+                                                 NW2d 877 (Minn 1985)
+New Hampshire: NH Rev Stat Ann §507-C:2
+                                                 Nebraska: Neb Rev Stat §44-2810 (2006)
+(2006)
+                                                 North Carolina: NC Gen Stat §90-21.12 (2006)
+New Jersey: Velazquez v Portadin, 163 NJ 677,
+                                                 North Dakota: Winkjer v Herr, 277 NW2d 579
+751 A2d 102 (2000)
+                                                 (ND 1979)
+New Mexico: Pharmaseal Laboratories Inc v
+                                                 Oregon: Or Rev Stat §677.095 (2006)
+Goffe, 90 NM 753, 568 P2d 589 (1977)
+                                                 Tennessee: Tenn Code Ann §29-26-115 (2005)
+Ohio: Bruni v Tatsumi, 46 Ohio St 2d 127, 346
+NE2d 673 (1976)                                  Similar Community Standard for General
+Oklahoma: Okla Stat tit 76, §20.1 (2005)         Practitioners/National      Standard      for
+Rhode Island: Sheeley v Memorial Hospital,       Specialists#
+710 A2d 161 (RI 1998)                            Colorado: Jordan v Bogner, 844 P2d 664 (Colo
+South Carolina: Durham v Vinson, 360 SC 639,     1993)
+602 SE2d 760 (2004)                              Louisiana: La Rev Stat Ann §9:2794 (2006)
+Texas: Am Transitional Care Centers of Tex Inc   Montana: Chapel v Allison, 241 Mont 83, 785
+v Palacios, 44 Tex Sup Ct J 720, 46 SW3d 873     P2d 204 (1990)
+(2001)                                           Pennsylvania: Joyce v Boulevard Physical
+Utah: Dalley v Utah Valley Regional Medical      Therapy & Rehabilitation Ctr PC, 694 A2d 648
+Center, 791 P2d 193 (Utah 1993)                  (Pa 1997) **
+論跨領域法律解釋適用之原則與挑戰                                                                                              291
+
+
+South Dakota: Shamburger v Behrens, 418                        States are in this category if the statute specifies
+NW2d 299 (SD 1988)                                              that the acceptable standard of care is that of
+                                                                health care practitioners in the entire state.
+                                                             § States are in this category if the statute or case
+                                                                law specifies that practice in the local community
+*   A LEXIS search was performed to identify state
+                                                                determines the standard of care.
+    statutes that define the legal standard of care for
+                                                             || Although the locality rule still applies, New York
+    physicians. If there was no relevant statute, a
+                                                                courts may deviate from applying the locality
+    LEXIS search was performed to find case law
+                                                                rule and instead apply a minimum statewide
+    that governs the standard of care for physicians in
+                                                                standard of care or even a nationwide standard.
+    that state. Interpretation and categorization of
+                                                             ¶ States are in this category if the statute or case
+    statutes and case law represent the opinions of
+                                                                law holds physicians to the standard of care
+    the authors and should not be considered
+                                                                practiced by physicians in the “same or similar
+    definitive.
+                                                                communities.”
+   States are in this category if (1) the statute or case
+                                                             # States are in this category if the statute or case
+    law specifically states that physicians should be
+                                                                law specifies different standards of care for non–
+    held to a national standard; (2) the definition of
+                                                                board certified general practitioners and
+    the standard of care does not contain a
+                                                                specialists.
+    geographic limitation and a national standard can
+                                                             ** Although this case has not been overruled, it is
+    be inferred; or (3) the applicable standard is that
+                                                                the opinion of a subcommittee appointed by the
+    of physicians acting in similar circumstances, and
+                                                                Pennsylvania Supreme Court that a national
+    standards of practice in the same or similar
+                                                                standard of care applies to all physicians who
+    communities can be one consideration but are not
+                                                                practice in Pennsylvania.
+    conclusive.
+
+
+資料來源：Michelle H. Lewis et al., The Locality Rule and the Physician’s Dilemma:
+               Local Medical Practices vs the National Standard of Care, 297 J. AM. MED.
+               ASS’N 2633, 2635 (2007)（已徵得作者同意重製使用；本表原文之註釋
+               略）.
+
+
+      如前所述，不同的注意義務判斷標準，進一步又會影響專家證
+人的資格認定、及其發言可被採為專家證言的範圍。例如在使用相
+同或類似社群水準之北卡羅萊納州，單純瞭解全國水準，但對系爭
+案件所在（或相似）社群之情境缺乏瞭解的專家，並不能擔任專家
+證人，其證言中有關全國水準之陳述，若偏離在地或類似社群之情
+境，也無法成為陪審團應審酌的證言內容88。此種放寬對當地慣習
+
+
+88 See Carey Hyman, Setting the “Bar” in North Carolina Medical Malpractice
+    Litigation: Working with the Standard of Care that Everyone Loves to Hate, 89 N.C. L.
+    REV. 234, 235 (2010) (observing that “knowledge of a national or statewide standard
+    of care, by itself, is not adequate to qualify an expert to testify in a North Carolina
+    medical malpractice trial”). See also Henry v. Southeastern OB-Gyn Associates, 550
+292                                       《中研院法學期刊》第24期（2019年3月）
+
+
+之依賴，但仍要求專家證人熟悉在地或類似情境之運作模式，也使
+得相同或類似社群水準常被稱為修正的在地規則（modified locality
+     89
+rule） 。
+
+      惟也必須說明的是，雖然Hall v. Hilbun案判決所提出之重視在
+地資源差異之全國水準概念後續產生廣泛影響，但法院在該案中所
+提出，以醫師在美國執業最低限應展現之專業能力作為具體觀察點
+的概念定義，並非所有採納全國水準之州的固定作法。例如同樣採
+用全國水準的麻瑟諸塞州，就將其理解為「考量醫學進展後，系爭
+專科平均/一般符合資格之執業者（average practitioner）所展現之
+注意與技術」90（粗體為本文所加）。另外也有一些州在用語上，
+僅單純以負面表列的方式，強調法院不受當地慣習、或相同或類似
+社群水準之侷限，而賦予法院視情況納入全國水準之主動詮釋空
+間91。
+
+      或許更重要的是，美國許多州在定義全國水準作為具體化理性
+人原則之中介概念時，常常選擇直接回歸傳統一般理性人原則之詞
+彙，而加入理性（reasonable）或合理小心（reasonably careful）等
+用語。例如印第安納州最高法院1992年Vergara v. Doan案，就將全
+國水準詮釋為「與系爭醫師屬於同一執業領域（class）之合理小
+心、熟練、謹慎之醫師在相同或類似情境之下所展現之注意與技術
+
+
+
+
+   S.E.2d 245, 248 (N.C. Ct. App. 2001) (ruling that “[a]s [the plaintiff’s expert] was
+   unfamiliar with the relevant standard of care, his opinion as to whether defendants
+   met that standard is unfounded and irrelevant, and thus we hold that the trial court
+   properly excluded [his] testimony”).
+89 Doan, 593 N.E.2d at 186 (explaining the modified locality rule heretofore commonly
+   used by the Indiana Court).
+90 原文為“A physician is held to the standard of care and skill of the average
+   practitioner of the medical specialty in question, taking into account the advances in
+   the profession.” Mitchell, 141 F.3d. at 13.
+91 參見表3右下全國水準部份搜尋指標之說明，Lewis et al., supra note 1, at 2635.
+論跨領域法律解釋適用之原則與挑戰                                                                      293
+
+
+程度92」
+    （粗體為本文所加）
+            。
+
+      與Helling案直接脫離跨領域互動模型，允許法院施加注意義務
+水準並推翻陪審團透過專家證言所為認定之作法不同，上述結合全
+國水準與理性人原則之運作模式，仍強調陪審團應藉由專家證言程
+序，認定全國水準是否存在，以作為法院之判斷依據。但同一時
+間，此一模式也透過納入理性或合理小心等具體醫療體系參照對象
+較為模糊的用語，給予陪審團自身經驗或判斷較大的影響空間。此
+一發展後續並引發學者Philip G. Peters, Jr.之關注，主張美國法院面
+對醫療糾紛案件，近年多改採理性審慎醫師原則作為判斷注意義務
+水準之指標（reasonable and prudent physician standard，一般俗稱理
+性醫師原則）93。
+
+      綜合上述討論，美國醫療糾紛領域的近年發展可約略歸納出以
+下兩點特色：首先，美國各州立法與法院實務為回應醫療體系逐漸
+走向全國化與標準化之背景變遷，近年日益遠離慣習，而逐漸從水
+準角度切入發展中介概念─尤其表現在全國水準的廣泛使用；但
+同一時間，美國各州在定義全國水準時，其對醫療領域參照點的設
+定又存在相當歧異，並不乏納入理性人原則之相關用語。本文認
+為，這兩點比較經驗對我國圍繞醫療常規概念所衍生的相關論戰，
+進一步提供了以下兩點啟發：
+
+
+
+
+92 原文為“a physician must exercise that degree of care, skill, and proficiency exercised
+   by reasonably careful, skillful, and prudent practitioners in the same class to which he
+   belongs, acting under the same or similar circumstances.” 本案法院並認為相關判
+   斷 亦 應 評 估 如 醫 療 專 業 進 展 （ advances in profession ）、 醫 療 設 施 普 及 性
+  （availability of facilities）及醫師是否為經認證之專科醫師或未經認證之一般醫
+   師（specialists or general practitioners）等因素，在實質上十分近似Hall v. Hilbun
+   案判決所提之兼顧在地資源侷限性之全國水準理念。Doan, 593 N.E.2d at 187.
+93 See generally Philip G. Peters, Jr., The Role of the Jury in Modern Malpractice Law,
+   87 IOWA L. REV. 909, 913, 917 (2002). See also generally Peters, Jr., supra note 72.
+294                                       《中研院法學期刊》第24期（2019年3月）
+
+
+      一、一方面，美國透過調整中介概念回應醫療體系背景變遷之
+           經驗，提供研究者在面對最高法院106年度台上字第227號
+           民事判決以水準取代常規之見解時，除了將其理解為美日
+           比較法規範的單純援引外，另一個不同的思考方向，亦即
+           將本案理解為我國法院積極對醫療常規作為傳統中介概念
+           之適當性進行反省，並進而從水準的思維角度切入，嘗試
+           發展取代醫療常規之新中介概念的努力。
+
+      二、另方面，上述美國各州對全國水準概念定義的歧異，進一
+           步也衍生一個尚未被充分討論、但對於我國法院發展醫療
+           水準之努力具重要參考意義的理論問題，亦即我國法院目
+           前所發展的醫療水準概念，其對於醫事人員之專業能力，
+           具體究竟設定了什麼樣的門檻（亦即在醫療體系設定了什
+           麼樣的參照或觀察點）？上述美國最低限、平均、或理性
+           醫師專業能力這些不同的門檻，又是否有哪一項最能符合
+           我國法院跨領域認事用法之需求？
+
+      為深入探討上述兩項美國比較經驗對我國現況的可能啟發，筆
+者將先於本文「肆」討論醫療常規做為我國醫療糾紛傳統中介概
+念，其在實務運作上所面臨之侷限，藉此呈現法院以水準取代常規
+之努力，背後反映了什麼樣的跨領域法律解釋適用挑戰。本文
+「伍」則進一步借用學者Lawrence O. Gostin及其團隊所提出之醫療
+品質光譜概念94，以分析我國在走向醫療水準的轉換過程中，如何
+挑選最有助法院認事用法之中介概念定義，以最大化中介概念簡化
+法院資訊負擔、並促進醫法跨領域對話之功能。
+
+
+
+
+94 See GOSTIN ET AL., supra note 1, at 516-17.
+論跨領域法律解釋適用之原則與挑戰              295
+
+
+肆、我國實務之探討：醫療常規作為中介概念之
+  侷限與影響
+
+  本文認為最高法院106年度台上字第227號民事判決以醫療水準
+取代醫療常規之見解，反映法院反省醫療常規作為中介概念之適當
+性，而提出醫療水準加以取代之嘗試。此一嘗試在大方向上，相當
+程度呼應美日法院在發展醫療糾紛中介概念時，逐漸從過往普遍從
+慣習角度切入，日益轉向從水準角度出發來思考的整體趨勢。若從
+上述跨領域解釋適用的視角出發，則對最高法院此一見解是否合理
+之評價，同樣也需回到跨領域法律解釋適用的層次，探討我國現行
+實務所使用之醫療常規，其作為中介概念在適用上具體存在哪些侷
+限？藉此，我們才能有效判斷現行之醫療常規概念是否有調整之必
+要，具體又應如何調整？而醫療水準相較於醫療常規，在協助法院
+進行跨領域法律解釋適用時又具有哪些優勢？為具體探討上述議
+題，本文「肆」進一步對我國醫療常規概念之實務現況進行檢討，
+嘗試點出其作為中介概念，在實務運作上所面臨的主要侷限，亦
+即：其缺乏清楚之概念定義─尤其在醫療體系缺乏明確之參照點
+─而無法發揮中介概念簡化法院理解其他領域之知識負擔、以及
+透過詮釋彈性創造跨領域批判性對話空間之功能。此一侷限並具體
+展現在我國實務的以下兩項發展，具體包括：一、法院對鑑定報告
+缺乏批判性之依賴；以及二、（一般認為主要源自日本的）醫療水
+準作為醫療常規輔助判準之持續發展。
+
+一、醫療常規之概念侷限─從學說與初鑑手冊切入
+
+  在我國法上，醫療常規其實並非存在於法律層次之概念，而是
+由學說提出，並在實務運作中獲得發展。學說將此一概念定義為
+「……在臨床醫療上，由醫療習慣、條理、經驗或知識等所形成的
+296                             《中研院法學期刊》第24期（2019年3月）
+
+
+常見成規……係醫學經過長期的研究與發展，在臨床執業上，由醫
+界匯集共同的臨床經驗與專業知識所形成的醫療處置準則……95」
+受此見解影響，醫院評鑑暨醫療品質策進會（以下簡稱：醫策會）
+所提供之醫事糾紛鑑定初鑑醫師指引手冊（以下簡稱：初鑑手
+冊），也將醫療常規定義為「臨床醫療上，由醫療習慣、條理或經
+驗等所形成之常見成規96」，該手冊並認為醫療常規具體須具備四
+項要件，包括：「（1）適應性：為保持或增進病人健康，必要且相
+當之醫療行為。
+      （2）適正性：符合當時當地之醫療水準，以一般醫
+學上所承認之方法進行醫療行為。
+              （3）實踐性：在臨床醫療上，已
+獲同級醫院、同專科醫師階層內普遍認同。
+                  （4）倫理性：……目前
+醫界所共同遵守……由生命倫理學所形成的四原則，即尊重自主、
+不傷害、行善及正義。97」
+
+      若從跨領域法律解釋適用的角度來思考，學說與初鑑手冊對醫
+療常規的上述抽象定義，其具體究竟在醫療領域設定了什麼樣的參
+照點，就成為饒富趣味的問題。面對此一提問，一種直觀的解釋方
+式，是依據醫療常規概念的表面文義，推論常規二字隱含著以恆常
+性的規範作為參照點。此一觀點尤其常在我國近年醫療糾紛的相關
+立法過程中，被醫療常規概念的反對者（尤其來自醫界）所援引，
+例如在2015年醫療糾紛處理及醫療事故補償法草案的立法論爭中，
+該草案之反對者便以醫療無常規為由，反對將「醫療行為有無符合
+醫療常規」列為草案中初步鑑定制度之鑑定事項98。而2017年底醫
+
+
+95 參見甘添貴，醫療常規與臨床裁量，第八屆「臺北醫法論壇：實務判決與實證
+  研究」學術研討會，臺北榮民總醫院主辦，頁7（2015年5月23日）
+                                  。
+96 醫策會（註10），頁11-12。
+97 同前註。
+98 例如在2015年的醫糾法論戰中，醫勞盟在5月7日於該團體網頁針對衛生福利部
+  醫糾法懶人包所做之回應，便強調「醫療如戰場，戰場無常規」。參見衛福部
+  版 本 醫 糾 法 爭 議 懶 人 包 ， 醫 勞 盟 網 頁 ， https://www.tmal911.org/26032328
+  622084421578/74（最後瀏覽日：2018年3月26日）    。此類觀點的背後，常強調醫
+  療由於具有高度的不確定性，因此一定程度甚至可被認為踏入了藝術的範疇。
+論跨領域法律解釋適用之原則與挑戰                                                                    297
+
+
+療法第82條之最新修法將臨床裁量概念入法，其背後之核心理念，
+同樣在於取代反對者認為缺乏彈性、假定醫療存在恆常性規範的醫
+療常規概念99。
+
+      相較於反對者的上述想像，我國法院與鑑定實務對醫療常規之
+理解，則主要是以在前引學說與初鑑手冊之定義為出發點。在前引
+相關文獻中，醫療常規主要係指由醫療習慣、條理、經驗或知識所
+形成的常見成規或處置準則100。若從美日中介概念發展的比較經驗
+來觀察，此定義一方面明顯不以醫療社群現實上之普遍做法為主要
+參照點，而是將習慣（慣習）與條理、經驗、知識並列，但另方
+面，該定義也明確與內容似乎包含專業能力和醫療資源的醫療水準
+概念相區隔，而僅將醫療水準列為醫療常規之判斷要素之一。例如
+初鑑手冊便認為醫療常規之四要件包括「
+                 （2）適正性：符合當時當
+地之醫療水準……」，該手冊並具體指出：
+                  「醫療行為是否符合醫療
+常規，最主要之判斷因素為診療當時當地臨床醫療實踐上之醫療水
+準。其具體評量依據，依不同之醫療機構、設備、專業知識、臨床
+經驗及會診之可能性等，提供鑑定意見時應綜合考量。101」亦即要
+求初鑑醫師在評估醫療水準時，除考量反映專業能力的專業知識與
+
+
+
+   類似見解，參見陳聰富（註1）                 ，頁365-366。
+   此類強調醫療藝術性格的論點，其實在美國醫療體系也十分常見。例如美國醫
+   師團體在抗拒實證醫學運動所帶來的臨床準則使用時，就常以醫療的藝術性格
+   作為訴求，see Arnold J. Rosoff, Evidence-Based Medicine and the Law: The Courts
+   Confront Clinical Practice Guidelines 26 J. HEALTH POL. POL’Y & L. 327, 349-50
+   (2001) (exploring how medical professionals, self-describing as closer to scientists,
+   resist the push for evidence-based medicine by emphasizing the artful nature of
+   medical science).
+99 各界一般認為，鄭逸哲教授是我國首位聚焦於臨床裁量概念之法律學者。有關
+   鄭氏對醫療常規之批評，參見鄭逸哲，                       『醫審會』請告訴我們：               「醫療常規」的
+  「常」是指「恒常」？還是「通常」？，醫聲論壇網頁，2013年2月15日，
+   http://72.52.154.128/~forum/viewtopic.php?f=24&t=81291（最後瀏覽日：2018年3
+   月26日）     。
+100 參見醫策會（註10）           ；甘添貴（註95）        。
+101 醫策會（註10）         ，頁11-12。
+298              《中研院法學期刊》第24期（2019年3月）
+
+
+臨床經驗，也應如美國Hall v. Hilbun案判決所主張，兼顧在地醫療
+資源之侷限性。
+
+      若依據前引學說與初鑑手冊之定義，則我國的醫療常規概念，
+其既非以醫療社群之現實普遍做法、亦非以醫事人員之專業能力或
+可運作之醫療資源作為主要參照點，而是要求法院或鑑定者在解釋
+適用醫療常規概念時，可以（或甚至應該）同時將這兩類參照對象
+一併納入考量，藉此定位出一個更高層次的超級上位參照或觀察對
+象（參見下圖3示意）
+         。
+
+
+
+
+      圖3 醫療常規概念定義所設定之醫療體系參照點示意
+資料來源：作者製圖。
+
+
+      此處需要鍥而不捨繼續追問的是，此一超越普遍作法/專業能
+力/醫療資源之超級上位參照點─即學說與初鑑手冊所謂之常見
+成規或醫療處置準則─其具體究竟指涉醫療領域的哪些面向？面
+對此一問題，學說與初鑑手冊很少直接回答，而常間接以臨床診療
+指引作為醫療常規之具體範例，認為「各大醫院所制定的各科臨床
+論跨領域法律解釋適用之原則與挑戰                                                                  299
+
+
+診療指引，即屬於醫療常規內涵的一部分。102」
+
+     然而，我國學說與初鑑手冊將臨床診療指引作為醫療常規之範
+例，一方面並未真正回答此一概念在醫療領域之參照點究竟為何之
+問題，另方面也可能誤解了臨床診療指引在醫療糾紛訴訟中所應扮
+演的角色與功能。以美國為例，臨床診療指引僅為醫療糾紛案件可
+能涉及之眾多證據資料或參考資訊之一，必須經專家證言之轉譯，
+才能具體得知其對中介概念的判斷，究竟存在什麼樣的影響。此一
+結構在我國也大體雷同，臨床診療指引作為判讀中介概念的參考資
+訊，必須經過鑑定程序的援引與評估，才能透過成為鑑定報告的內
+容，而對常規或水準的判斷產生影響，而非本身即可作為解讀中介
+概念之權威性代表103。
+
+     更重要的是，由於臨床診療指引在現實上並非鉅細靡遺之行為
+指導，而是高度抽象、品質浮動、在適用上充滿不確定性之參考文
+件，因此在美國實務上甚至很少被認為是關鍵性的證據資料104。相
+較之下，我國學說與初鑑手冊所假定臨床診療指引與醫療常規之間
+的緊密關係，可能衍生將特定參考資訊之層次拉高，使其成為判讀
+中介概念之權威依據的風險，進而使得中介概念之詮釋喪失必須的
+彈性，而侷限了其協調不同專業彼此互動之跨領域對話功能。
+
+     除了不符合跨領域法律解釋適用的原理原則外，最終，將醫療
+
+
+102 甘添貴（註95）     ，頁7。
+103 See FURROW ET AL., supra note 49, at 312-14 (listing common authoritative sources
+    upon which expert testimony is based). 值得說明的是，美國法院一般會直接以
+    專家證言本身做為證據，但在某些例外情況，法院也可能另行將專家證言所
+    依據的參考資訊列為證據。FURROW ET AL., supra note 49, at 313 (discussing rare
+    occasions where the court admits scientific journals as evidence).
+104 See FURROW ET AL., supra note 49, at 312-23. 關於臨床診療指引作為裁判依據可
+    能衍生問題之經典文獻，see generally Michelle M. Mello, Of Swords and Shields,
+    The Role of Clinical Practice Guidelines in Medical Malpractice Litigation, 149 U.
+    PA. L. REV. 645 (2001). 中文文獻參見陳杰峰、陳可欣，基於實證之臨床處置，
+    醫療品質雜誌，10卷4期，頁27-29（2016年）                       。
+300               《中研院法學期刊》第24期（2019年3月）
+
+
+常規與臨床診療指引加以連結之論述，進一步又可能回頭釋放出醫
+療常規意味著恆常性規範（具體表現在臨床診療指引之內容）的曖
+昧訊息，而持續強化醫界指謫醫療無常規之聲量。不論此一指謫是
+否確實符合我國法院與鑑定之實務現況，其廣泛傳播無疑會對法院
+判決的公信力造成實質傷害，亦即認為法院以臨床診療指引作為判
+斷醫療過失之標準，是外行取代內行、在醫學上缺乏實質依據之作
+法。我們甚至可以說，醫界對法院公信力的長期上述質疑，相當程
+度便是促成2018年1月24日修正公布的醫療法第82條之核心社會動
+力。
+
+二、醫療常規之概念侷限對我國法院實務之影響
+
+      我國學說與初鑑手冊所提供之醫療常規定義，一方面未能有效
+回答其究竟在醫療體系設定了何種具體參照和觀察點，另方面又將
+臨床診療指引作為醫療常規之主要（若非唯一）範例，而衍生以特
+定參考資訊作為解讀中介概念之權威性代表的疑慮，反而侷限了其
+促進醫法跨領域對話之功能。而醫療常規作為中介概念之上述侷
+限，進一步又反映在我國法院實務的以下具體發展，包括：（一）
+法院傳統上對鑑定報告近乎反射性的全面依賴；以及（二）我國法
+院實務有意無意地引入醫療水準作為輔助（甚至主要）判準之持續
+發展。
+
+      （一）法院對鑑定報告缺乏批判性之依賴
+      首先，我國法院對於鑑定單位就系爭醫療行為是否違反醫療常
+規之判斷，常近乎反射性的予以接受，而較少與之進行批判性的互
+動。我國鑑定制度之現行設計，十分強調鑑定機關應避免對過失責
+任之構成直接表示意見，此一設計背後反映的思維，在於確保法官
+審判之獨立性，亦即認為是否構成醫療過失此一法律問題，最終應
+論跨領域法律解釋適用之原則與挑戰                             301
+
+
+由法官來加以審斷，而不應讓鑑定專家（尤其是醫師）越俎代
+庖105。因此在實務上，鑑定報告常以系爭行為是否違反醫療常規而
+構成疏失之形式呈現。而此處所為疏失，又特別被理解為事實而非
+法律用語，僅代表醫學上是否有不當之處，而在理論上不必然等同
+於醫療過失之構成106。
+
+   然而，雖然我國鑑定制度理論上區分過失與疏失，但在法院實
+務上，鑑定機關對系爭醫療行為是否違反醫療常規而構成疏失之判
+斷，對於法院後續就法律上過失是否成立之審酌，具有近乎決定性
+之影響。例如學者沈冠伶與莊錦秀之實證研究便發現，我國醫療糾
+紛裁判有九成以上之高比例係以鑑定結果作為依據，在一審甚至高
+達95%以上107。與此發現類似，學者吳俊穎及其團隊在醫療糾紛鑑
+定意見對法官心證之影響一文中，研究民國91至99年間醫療糾紛相
+關個案，發現民刑事裁判法院援引鑑定意見形成心證之比例達到
+                                           108
+83%，若聚焦於重傷及死亡，則比例進一步高達88.5%與88.1%            。
+而若區分訴訟類型，刑事案件引用鑑定案件之比例更高達9成
+（90.6%），又高於民事案件之8成比例（79.6%）109。而在學者楊秀
+儀與鄭凱尉整理民國91～96年三級法院共51件醫療糾紛刑事確定有
+
+105 參見前揭（註39）之討論。
+106 手冊中強調：「鑑定意見中應使用『疏失』，不應使用過失。疏失為事實概
+    念，過失則為法律概念，有疏失未必即有過失。醫療行為雖有疏失，但如在
+    臨床醫療上屬於難以避免之併發症或後遺症者，在法律上尚難認為有過
+    失。」醫策會（註10）     ，頁11。
+107 沈冠伶、莊錦秀，民事醫療訴訟之證明法則與實務運作，政大法學評論，127
+    期，頁219（2012年）  。
+108 吳俊穎、楊增暐、陳榮基，醫療糾紛鑑定意見對法官心證之影響，科技法學
+    評論，12卷1期，頁111、114（2015年）。此研究總共蒐集1,917件案件，經摒
+    除重複登錄、法律審（最高法院）裁判、事實審程序裁判等案件，共剩餘
+    1,560件作為統計分析之基礎。
+109 吳俊穎、楊增暐、陳榮基（註108）     ，頁125。吳氏及其團隊並援引劉邦揚對
+    2000年至2010年我國地方法院之醫療糾紛刑事判決之研究，指出此類案件委
+    託專業鑑定作為證據調查方法之比例高達95.7%。參見劉邦揚，我國地方法院
+    刑事醫療糾紛判決的實證分析：2000年至2010年，科技法學評論，8卷2期，
+    頁277-278（2011年）
+                  。
+302                       《中研院法學期刊》第24期（2019年3月）
+
+
+罪判決之實證研究中，兩位作者更具體發現「非但無法從判決理由
+或量刑刑度中歸納出重大過失之概念，甚至在大部分的案件中，法
+院根本沒有針對『過失』進行深度的論述，多半是引用行政院衛生
+福利部的醫事審議委員會……所出具的『疏失』鑑定意見一筆帶
+過。110」
+
+      法院在實務上對鑑定意見之壓倒性依賴、甚至近乎反射性予以
+接受的現象，背後涉及包括鑑定制度如何設計，以及法學教育如何
+準備法律人面對科學證據等多元因素，然而醫療常規作為中介概念
+之侷限性，也無疑對此一現象存在影響。主要理由在於，由於醫療
+常規之概念定義缺乏具體的醫療領域參照點，因此法院若想挑戰鑑
+定意見、與之進行批判性互動，往往會因不知從何面向介入，而僅
+能回到民刑法上之基本原理，使用善良管理人或理性一般人注意義
+務等抽象、在醫療體系無所對照之法律概念原則作為論述基礎，來
+推翻鑑定意見（即類似前引美國Helling案之作法）。但這些缺乏醫
+學依據之法院意見，很容易成為雙方當事人（尤其是來自醫方）攻
+擊的重點，甚至引發法院以法律專業取代醫療專業之疑慮。影響所
+及，多數法院或許為簡化法院審酌個案之時間成本，往往直接擁抱
+違反醫療常規＝疏失＝過失的實務運作模式，而對鑑定意見以不加
+反省的態度反射性予以接納。
+
+      法院透過醫療常規與鑑定意見進行批判性互動的困難，可以著
+名的多力維他過敏致死案為例111，本案事實涉及病患於切除乳房腫
+瘤後，在未被告知、也未先進行皮內注射敏感測試之情形下，因醫
+師在術後點滴中添加維他命B1等多種維他命而引發過敏性休克而死
+亡。本案之主要爭點，是在病患未向醫師明確告知過敏病史之情
+
+
+
+110 楊秀儀、黃鈺媖，當法律遇見醫療：醫療糾紛立法論上的兩個主張，司法新
+      聲，115期，頁21（2015年）
+                      。
+111 本案相關討論參見吳志正（註2）
+                  ，頁196-200。
+論跨領域法律解釋適用之原則與挑戰                      303
+
+
+況，未對其進行皮內注射敏感測試是否違反醫療常規。本案後續經
+歷多次更審，最終，最高法院在98年度台上字第656號民事判決
+中，在所有鑑定意見一致認定皮內注射敏感測試並非醫療常規所必
+要之情形下，認定被告醫師應負過失之責。法院判決具體指出：
+
+ （被告醫師）既明知注射維他命B1可能產生致命過敏性休
+  克，則其決定……實施……含維他命B1成分之「多力維
+  他」靜脈注射前，自應注意……是否會因注射維他命B1致
+  發生過敏……而僅憑該記錄於過敏史一欄勾選「無」
+                        ，即對
+ （病患）注射維他命B1……未盡注意義務……（病患）之
+  死亡自與（被告醫師）未盡注意義務……有因果關係，
+                         （被
+  告醫師）對之應負過失責任。至行政院衛生署醫事審議委
+  員會、行政院退除役官兵輔導委員會、台北榮民總醫院、
+  國立台灣大學醫學院附設醫院固謂：（被告醫師）為（病
+  患）注射……「多力維他」並無疏失等語，惟其對（被告
+  醫師）上開疏失未有說明，其意見自無足採112。
+
+  在本案中，最高法院最終選擇推翻鑑定意見，而其主要論理依
+據，是套用應注意能注意而不注意的法律上位概念公式，認為注射
+維他命B1既可能產生過敏性休克甚至死亡之結果（即存在風險），
+而皮內敏感試驗又是很簡單，地區性醫院也有能力做的試驗（即實
+施成本低），因此被告醫師未注意病患情況實施皮內敏感試驗，應
+認為其未盡注意義務113 。此一論述方式相當程度呼應前引美國法
+
+
+112 最高法院98年度台上字第656號民事判決，頁3-4。
+113 在第一次更審之臺灣高等法院92年度上更（一）字第157號民事判決中，法院
+  同樣推翻鑑定意見，而認定：「……維他命B1注射確有可能產生過敏性休克甚
+  至死亡……雖其發生之機率僅約百分之零點一以下，惟除非醫療上所必要，
+  且無其他更安全之替代方法，而具有急迫性，時間上已不允許觀察病患是否
+  會對維他命B1注射產生過敏，如不實施維他命B1注射，將對生命或身體產生
+  重大難以挽回之危害，始得冒此約百分之零點一以下之人可能因產生過敏而
+  死亡之危險。否則逕以『醫學常規上無需進行試驗，亦無適當檢驗方法』為
+  憑，不論病情如何，即於過敏不明之情況下，逕對病患施用維他命B1注射，
+304                                       《中研院法學期刊》第24期（2019年3月）
+
+
+Helling案所發展由法院自行認定注意義務水準之運作模式。而美國
+學界在分析Helling案時，又常進一步認為其反映美國法上允許法院
+在認定過失責任時，自行分析個案爭點（例如Helling案之眼壓測試
+與多力維他案之皮內敏感試驗）之成本與效益的一般性法理，而不
+需受專家程序之限制114。
+
+      若單純就法論法，不論是在美國或我國，上述論理無疑均未逾
+越法院認事用法之職權115。但相較於藉助專家程序來判斷注意義務
+水準之違反，此種直接由法院逕行對特定醫療處置之成本與效益進
+行評估之運作方式（例如注射B1之風險高低與皮內敏感測試之成本
+大小）
+  ，是否能夠在醫學上具有足夠依據？是否能夠充分考量醫療現
+場之實際情形？又是否確實能夠達成侵權行為法預防再犯、提升醫
+療品質之政策目的？這些議題都存在有相當之討論空間，但卻很可
+惜未能在審判過程中，透過鑑定程序與醫療專家進一步討論對話。
+
+
+
+
+    無異漠視病患之生存權利而濫用藥物，則人性之尊嚴將蕩然無存。」                                            （粗體為
+    本文所加）       。
+    換言之，法院係以病患生存權利與人性尊嚴為論述基礎，推翻鑑定意見，認
+    為「除非醫療上所必要，且無其他更安全之替代方法，而具有急迫性」                                             ，才可
+    不經皮內注射敏感測試而進行維他命B1注射。法院並據此認定被告「明知維
+    他命B1注射可能產生過敏性休克甚至死亡之情形，卻未盡注意之義務，仍執
+    意……施打，終致……過敏休克死亡，自應負過失之責。」至於認定皮內注
+    射敏感測試並非醫療常規之各鑑定意見，本案法院則認為「上開各醫事鑑定
+    單位之鑑定意見，對於……注射……含維他命B1之『多力維他』有無醫療上
+    之必要性及時間上之急迫性，並未有所說明，容有未盡妥切之處，自非全然
+    可採。」
+114 See GOSTIN ET AL., supra note 1, at 522-23 (discussing in Notes and Questions 2 that
+    Helling “falls within an established line of jurisprudence and scholarship that
+    establishes it is appropriate, even necessary, for courts to consider the costs and
+    benefits of liability rules”).
+115 Id. 而在我國的脈絡下，目前實務使用的醫療常規或水準，其實只是法院與鑑
+    定實務所發展出來的概念，而協助法院判斷醫療常規或水準的醫療鑑定，在
+    性質上也僅為一種證據方法。在這些前提下，法院若在個案中選擇不使用常
+    規或水準概念，或是逕行否決鑑定結果，其實只會產生個案判決是否具有實
+    質說服力的問題，而幾乎不會存在法院逾越自身職權之疑慮。
+論跨領域法律解釋適用之原則與挑戰                305
+
+
+   例如具醫師背景之法律學者吳志正雖然認同最高法院之結論
+（惟認為重點應在違反告知同意）
+              ，但也對最高法院使用理性醫師原
+則提出嚴厲批評，認為「醫師治療疾病所使用的藥物種類，通常不
+會只有單一種，如果依照最高法院在判決裡所揭示的原則，醫師要
+開始任何疾病的治療前，勢必要先把該次治療預計要使用的藥物，
+安排一系列的皮內敏感測試後，才能開始治療……會耽誤多少病患
+的病情？可見醫師在使用藥物前，如果必須遵循最高法院所片面認
+定的『理性醫師』基準，那醫業根本沒有辦法執行！116 」此類批
+評，突顯法院若嘗試透過理性醫師原則來與專家程序（鑑定制度）
+進行批判性互動，往往會因為缺乏適當溝通媒介（即具備詮釋彈性
+與模糊性之中介概念），而產生醫法之間淪為平行對話（talk past
+each other）
+          ，無法實質溝通之困境。
+
+  （二）醫療水準作為輔助判準之持續發展
+   除了對鑑定意見之壓倒性依賴，醫療常規作為中介概念之侷限
+性在我國所引發的另一重要發展，是我國法院實務一直以來，常在
+表面上維持醫療常規概念主導地位的大框架下，有意無意地引入
+（一般認為主要源自日本的）醫療水準概念作為注意義務之輔助判
+準。事實上，若參考前述醫策會初鑑手冊將醫療水準列為醫療常規
+判斷核心要素之設計，此種形式上在判斷醫療常規、但實質上其實
+是在判斷醫療水準之實務運作模式的出現並不令人意外，我們甚至
+可以從跨領域法律解釋適用的角度來加以觀察，將此種運作模式的
+形成，理解為我國法院實務面對醫療常規之定義缺乏明確醫療領域
+參照點的侷限，而逐漸發展出其他中介概念來扮演輔助或替代依據
+的必然補充性發展117。
+
+   例如早在最高法院95年度台上字第3884號刑事判決中，最高法
+
+
+116 吳志正（註2），頁197。
+117 醫策會（註10），頁12。
+306                      《中研院法學期刊》第24期（2019年3月）
+
+
+院便曾提及「……因醫療行為有其特殊性，自容許相當程度之風
+險，應以醫療當時臨床實踐之醫療水準判斷是否違反注意義
+務……」（粗體為本文所加）
+            。而十分值得玩味的是，本案最高法院
+在詮釋醫療水準概念時，進一步認為「原則上醫學中心之醫療水準
+高於區域醫院，區域醫院又高於地區醫院，一般診所最後；專科醫
+師高於非專科醫師。尚不得一律以醫學中心之醫療水準作為判斷標
+準。118 」此一見解雖未直接援引比較經驗，但相當程度呼應前述
+Hall v. Hilbun案判決所提出，應兼顧在地醫療資源侷限性之警語，
+亦即在醫事人員專業能力之外，亦附加醫療資源作為輔助之參照或
+觀察點（參見上表2）
+         。
+
+      另在最高法院97年度台上字第1000號民事判決中，法院也認為
+「……醫療契約係受有報酬之勞務契約，其性質類似有償之委任關
+係，依民法第535條後段規定，醫院既應負善良管理人之注意義
+務，自應依當時醫療水準，對病患履行診斷或治療之義務。故為其
+履行輔助人之醫師或其他醫療人員……於從事診療時，如未具當時
+醫療水準，或已具上開醫療水準而欠缺善良管理人之注意，因而誤
+診或未能為適當之治療，終致病患受有傷害時，醫療機構即應與之
+同負債務不履行之損害賠償責任……」119（粗體為本文所加）。最
+高法院97年度台上字第1000號民事判決之見解，嗣後並為臺灣臺中
+地方法院97年度醫字第2號民事判決（即著名童綜合醫院顱內壓偵
+測器案之第一審）所援引120，本案法院認為醫審會第一與第二次之
+鑑定報告121，均支持「以本案醫師服務醫院之水準與設備，應有放
+
+
+118 最高法院95年度台上字第3884號刑事判決，頁2。
+119 最高法院97年度台上字第1000號民事判決，頁5。
+120 本案經多次更審，相關新聞報導，參見王昶閔、楊政郡、張瑞楨，神外醫學
+    會：顱內壓監測器非絕對必要，自由時報，2012年4月2日，http://news.ltn.com.
+    tw/news/life/paper/572738（最後瀏覽日：2017年10月31日）
+                                               。
+121 本案所援引之鑑定意見指出：              「蓋顱內壓監測，可比昏迷指數與瞳孔變化等傳
+    統指標提早呈現顱內之變化，若未做此處置，應更謹慎觀察病人之傳統指
+    標，並在有變化時立即反應，安排進一步影像檢查，以排除需手術處理之狀
+論跨領域法律解釋適用之原則與挑戰                        307
+
+
+置顱內壓監測器之能力」之論據（粗體為本文所加），並據此做成
+原告勝訴之決定122。
+
+  上述我國實務所發展，以醫療水準作為醫療常規輔助判準的運
+作模式，在最高法院106年度台上字第227號民事判決出現了更為積
+極、甚至徹底翻轉醫療常規主導性之發展。本案事實為病患王女士
+因滑倒頭部受傷至臺大醫院就診，經住院醫師初步診治後安排頭部
+X光檢查並留院觀察，嗣後病患於當晚留院觀察期間由家人攙扶如
+廁時突然意識不清，經住院醫師緊急安排電腦斷層檢查，並緊急安
+排後續腦部手術清除腦部血塊。惟術後病患並未回復意識，並於半
+年後再入院進行腦部減壓手術，最終不幸於該年底過世，家屬不服
+而提起訴訟。
+
+  本案之過失判斷涉及兩個時間序之醫療行為是否違反醫療常規
+之衡量：一、病患因滑倒頭部受傷初至醫院就診時，負責住院醫師
+之初步處置；以及二、病患嗣後留院觀察至當晚喪失意識間，負責
+住院醫師對病患之後續注意評估與（電腦斷層）檢查安排，和此段
+時間內急診主治醫師對住院醫師之指導監督。對此，本案原審（第
+二審）依醫審會鑑定報告，認定前者「符合頭部外傷急診作業之常
+規處置」123，但就後者，住院醫師則「確有疏未注意評估，以便安
+排電腦斷層之違反醫療常規之處置上過失」
+                  ，而急診主治醫師與醫院
+就住院醫師未適當安排電腦斷層部分，也存在有違反醫療常規之督
+導管理上疏失124。然而，雖然電腦斷層檢查存在遲延（違反醫療常
+
+
+    況（如出血或腦水腫）……」臺灣臺中地方法院97年度醫字第2號民事判決，
+    頁13-14。
+122 本案後續經兩次更審，最終並以調解方式解決，無法確認法院對顱內壓偵測
+    器是否屬醫療常規之終局見解。
+123 最高法院106年度台上字第227號民事判決，頁4。法院認定病患「……於初至
+    台大醫院就診時，意識清楚，尚無嘔吐，……（筆者按：住院醫師）給予安
+    排頭部X光檢查、破傷風類毒素注射及傷口縫合，符合頭部外傷急診作業之常
+    規處置。」
+124 最高法院106年度台上字第227號民事判決，頁3-4。二審法院指出「無論係區
+308                《中研院法學期刊》第24期（2019年3月）
+
+
+規）之情狀，但原審法院認為病患出血狀況及程度不明，
+                        「縱及早施
+行電腦斷層掃描檢查，仍有可能不需做開顱手術，或可能僅做保守
+藥物治療，或可能決定進行手術，不必然不會發生嗣後……腦部傷
+害結果」125。法院據此認定「遲延作電腦斷層檢查行為與……腦傷
+             ，而判決原告（上訴人）敗訴126。
+之發生間，不具相當因果關係」
+
+      相較於原審（二審）見解，最高法院則於106年度台上字第227
+號民事判決將原審判決廢棄發回。本案認同原審就被告醫師違反醫
+療常規之認定，但批評原審法院對於遲延電腦斷層與腦傷發生間不
+具相當因果關係之判斷。具體言之，本案鑑定報告認為若及早進行
+電腦斷層檢查，則可能發現以下三種結果：「（1）……受傷時間尚
+短……顱內出血尚未成形……不需要進行任何開顱術移除血
+塊……。（2）……已發現硬膜外出血，惟未達一般之手術必要
+性……一般皆會建議先以保守藥物治療……。
+                   （3）……顱內血塊已
+擴大……合併較嚴重之腦部壓迫現象，則須立即進行手術……此時
+手術理當有非常良好之恢復。127」然而由於病患留院觀察期間並無
+昏迷指數及生命徵象之相關記錄，無法判斷具體個案究屬於上述何
+種情形，原審法院因而做出延遲電腦斷層與腦傷發生間不具相當因
+果關係之判斷128。
+
+
+
+
+    域醫院或教學醫院之急診室均由主治醫師看診，若由住院醫師看診，主治醫
+    師仍應從旁指導，此為急診室之醫療常規。吳明勳當時擔任台大醫院急診外
+    科主治醫師，依林、潘二人及蘇亦昌醫師另於業務過失傷害案件偵查中陳述
+    內容，均無法證明吳明勳有何積極督導或指示林、潘二人對王苑楸在失去意
+    識前進行醫療處置或親自診視治療王苑楸之行為，吳明勳及台大醫院就林、
+    潘二人是否安排電腦斷層部分確有督導、管理上之疏失。」（粗體為本文所
+    加）
+     。
+125 最高法院106年度台上字第227號民事判決，頁4。
+126 同前註。
+127 臺灣臺北地方法院98年度醫字第15號民事判決，頁13。
+128 最高法院106年度台上字第227號民事判決，頁3-4。
+論跨領域法律解釋適用之原則與挑戰                   309
+
+
+  與原審相較，最高法院認為既然鑑定所提上述第三種可能性存
+在，則若被告醫師確實注意病患意識變化，適時安排作電腦斷層，
+則病患是否存在避免昏迷甚至死亡之相當程度可能性（亦即有非常
+良好之恢復），應有值得進一步推求之餘地129。而要推求此一可能
+性之關鍵依據，又在於醫療機構對病患所做之昏迷指數及生命徵象
+之相關記錄，然而正如本案原審所認定，相關急診醫囑、病歷及護
+理紀錄，均未見病患「留院觀察期間之昏迷指數及生命徵象之觀察
+結果之相關記載」，正係由於此一記載之欠缺，方造成上述因果關
+係「糾結而難以釐清之情事。130」從此一角度切入，不同於原審法
+院認為此一無法判斷之不利益應由原告負擔，最高法院則轉而引用
+德國法上之重要瑕疵理論，認為相關記載之欠缺，應構成醫療處置
+上可歸責之重大瑕疪，因此，該瑕疵所導致「該因果關係無法解明
+之不利益，本於醫療專業不對等之原則，應歸由醫師負擔。131」最
+高法院於是轉換本案因果關係部分之舉證責任，並據此將原審廢棄
+發回132。
+
+  而除了重大瑕疵理論之引用以外，本案另一─與本文更為相
+關的─重點，則是法院挑戰我國將醫療常規理解為超越慣習與水
+準之上位概念的傳統想像，而改以醫療水準作為注意義務之主要判
+斷依據，並將醫療常規明確降格為慣習，認為醫療常規僅為醫療處
+
+
+129 最高法院106年度台上字第227號民事判決，頁5。
+130 同前註。
+131 同前註。
+132 最高法院此一見解至少在以下面向上值得進一步注意：病歷未依規定記錄或
+  保存，原本即是我國法院實務轉換舉證責任的事由之一，參見最高法院103年
+  度台上字第88號民事判決，然而最高法院在本案並未依往例直接以病歷未依
+  規定記錄或保存作為舉證責任轉換事由，而是訴諸更為抽象、一般性的德國
+  法重大瑕疵理論，此一理論移植，進一步引發是否合乎德國法原始脈絡的質
+  疑。尤其，德國法重大瑕疵理論因果關係舉證責任轉換的適用對象，一般是
+  針對該重大瑕疵所直接引發的損害，但在本案中，病歷未予記載本身是否可
+  理解為直接引發後續腦傷的損害，恐有相當疑問。有關德國法重大瑕疵理論
+  的早期理論發展，參見詹森林（註3），頁70-74。
+310                 《中研院法學期刊》第24期（2019年3月）
+
+
+置之一般最低標準，「醫師依據醫療常規所進行之醫療行為，非可
+皆認為已盡醫療水準之注意義務」133。有趣的是，醫療常規（本案
+法院理解為慣習）與醫療水準之區分，對本案之結論其實並沒有太
+實質的影響，最高法院大可逕行依傳統用語，認定本案住院與急診
+醫師之醫療處置因違反醫療常規而構成重大瑕疵，而導致舉證責任
+之轉換。然而法院並不由此途，而明確將醫療常規與醫療水準加以
+區分，並將後者理解為前者之上的更高層次注意義務標準，此一釋
+義學之有趣抉擇，似乎暗示著本案法院係故意挑戰我國實務對醫療
+常規之依賴，而嘗試推動我國走上比較法逐漸從慣習走向水準之發
+展方向。
+
+
+
+伍、現況改革之建議：以醫療水準取代醫療常規
+  之倡議與挑戰
+
+      若回到跨領域法律解釋適用的一般性抽象層次，則前章所述醫
+療常規作為中介概念之侷限性，及其對我國法院實務所產生之影
+響，進一步又反映法院在既有中介概念合理性受到質疑之情形，除
+了對專家程序之判斷照單全收外，兩種常見的回應策略，分別是：
+一、進行自我援引，亦即回到原有的法律概念架構，而發展出如理
+性醫師這種以既有侵權行為法上位抽象原則為基礎的判斷標準，藉
+此挑戰或甚至直接推翻專家程序之認定結果（例如前引Helling與多
+力維他過敏致死案）；以及二、發展輔助指標，亦即在既有中介概
+念之外，另外發展出如醫療水準之類的輔助性中介概念，以打通中
+介概念與專家程序的跨領域互動流程（關於這兩種不同的法律系統
+回應策略，參見圖4之示意）
+            。
+
+
+
+133 最高法院103年度台上字第88號民事判決，頁5。
+論跨領域法律解釋適用之原則與挑戰                         311
+
+
+
+
+   圖4 中介概念合理性受質疑時法院常見之回應策略
+資料來源：作者製圖。
+
+
+  在實務運作上，上述兩種策略各自有其缺陷。一方面，自我援
+引之策略由於刻意跳過幫助法院簡化資訊的專家程序，因此常面臨
+觀察點不明、法院資訊超載之危險，甚至引發法院是否以法律判斷
+取代醫療判斷的論戰134。至於發展醫療水準之類的輔助指標，固然
+有助打通跨領域互動的流程，但也常造成法律概念架構上的疊床架
+屋，而徒增法律解釋適用上的困擾（例如醫療常規與醫療水準彼此
+之間的關係究竟為何？）。考量這些負面影響，本文認為回歸以中
+介概念和專家程序為媒介的跨領域互動模型，嘗試發展具有明確定
+
+
+134 參見本文「參」有關Helling案（前揭註70、71之內容）以及本文「肆」有關
+  多力維他過敏致死案（前揭註111-116之內容）是否以法律判斷取代醫療判斷
+  的討論。
+312                           《中研院法學期刊》第24期（2019年3月）
+
+
+義之中介概念（參見圖2），終歸是最能有助合理化法院在醫療糾紛
+領域之跨領域法律解釋適用、創造醫療與法律之間批判性對話空間
+的釋義學發展方向。本文因此呼應在前述最高法院106年度台上字
+第227號民事判決所引發之論戰中，支持本案法院以醫療水準取代
+醫療常規之肯定見解135。本文甚至主張，我國醫療糾紛過失注意義
+務之判斷標準，已經到了以醫療水準全面取代醫療常規之時刻。
+
+      然而必須強調的是，本文雖然倡議我國應直接以醫療水準取代
+醫療常規，但卻並非主張我國實務已發展出理念完備、可廣泛使用
+的醫療水準概念。相反地，本文認為我國醫療水準概念的實務發
+展，目前仍存在著以下的重要限制，而亟待學說實務予以積極補
+充，亦即：相較於美國全國水準概念主要是以醫事人員個人之專業
+能力─不論是平均、理性或最低限專業能力─作為觀察對象，
+而以在地醫療資源之侷限作為輔助參照點的思維，我國法院實務近
+年在發展醫療水準概念時，卻是朝著相反的方向前進，亦即主要從
+醫療資源之角度來定性醫療水準概念，而一直未對醫事人員應滿足
+之專業能力門檻予以明確界定。本文認為，我國法院此種常見的思
+維模式，很可能會侷限醫療水準此一中介概念簡化法院資訊負擔之
+核心功能，而使得法院持續面臨資訊超載之風險。為有效呈現並回
+應此一風險，首先於本文「伍、一」簡述我國實務近年從醫療資源
+面向切入理解醫療水準的常見思維。本文「伍、二」進而借用學者
+                                                   136
+Lawrence O. Gostin及其團隊所提出之醫療品質光譜理念                    ，主張除
+了醫療資源面向外，醫療水準之概念定義也應明確界定醫事人員個
+人專業能力之門檻，本文並具體主張將此一門檻設定為醫事人員於
+我國執業可被期待最低限度應展現之專業能力（簡稱最低限專業能
+力）。以「醫療水準＝最低限專業能力＋醫療資源」的概念組合為
+
+
+135 吳振吉（註6）      ，頁84；廖建瑜（註6）            ，頁94-95。
+136 See GOSTIN ET AL., supra note 1, at 516-17. 本文對此一概念之應用，參見本文
+  「伍、二」之討論。
+論跨領域法律解釋適用之原則與挑戰                                                               313
+
+
+基礎，本文「伍、三」進而聚焦於民事醫療糾紛領域，提出本文所
+發展之醫療水準概念未來若希望在我國進一步推廣，必須正視的以
+下三項議題，分別是：一、醫療資源作為醫療水準的面向之一，其
+在訴訟實務中具體應如何操作；二、2018年1月24日修正公布之醫
+療法第82條將臨床裁量概念入法，是否侷限本文醫療水準概念未來
+的適用空間；以及最後三、以最低限專業能力加上醫療資源作為定
+義的醫療水準概念，具體又希望能達成什麼樣的法政策目的。
+
+一、醫療水準之概念定義：從醫療資源角度切入的實務模式
+
+   相較於美國結合專業能力與醫療資源來定位全國水準的判斷模
+式，我國法院近年在詮釋醫療水準時，鮮少直接從專業能力之角度
+出發，而多半是從醫學知識進展或醫療資源等其他視角切入137。其
+
+
+137 值得特別補充的是，相較我國實務日益從醫療資源面理解醫療水準，我國學
+ 說則往另一個方向發展，而認為醫療水準的實務應用，反映我國法院逐步走
+ 向美國法上的理性醫師標準。具體言之，我國學說常將我國常規與水準的辯
+ 證，與美國從在地慣習走向全國水準、以及日本從醫療慣行走向醫療水準的
+ 發展軌跡相類比。我國學者並進一步引用Philip G. Peters, Jr.之見解，將美國近
+ 年走向全國水準的發展，詮釋為侵權行為法傳統理性人原則在醫療糾紛場域
+ 的復興，進而得出醫療水準與醫療常規，分別等於理性醫師與醫療慣習
+ （行）之詮釋。例如學者陳聰富於其著作醫療責任的形成與展開中，便直接援
+ 引Peters之著作，主張美國法院近年逐漸從醫療常規（即醫療慣習）轉向理性
+ 醫師標準。陳聰富並同時認為日本法院近年發展的醫療水準概念，其實與美
+ 國法上的理性醫師並無不同。上述中文討論參見陳聰富（註1）                                     ，頁328-331、
+ 336-343、364-366；吳振吉（註6），頁80-84；廖建瑜（註6），頁90。英文部
+ 分，see Peters, Jr., supra note 93, at 913-17. See also generally Peters, Jr., supra
+ note 72.
+ 本文認為，我國學說對於醫療水準概念的上述理解，可以從以下兩個方面來
+ 加以補充，首先，如本文「肆」的分析，我國早期學說與初鑑手冊的醫療常
+ 規在理論上其實既非慣習、亦非水準，而是更上位、缺乏醫療體系明確參考
+ 點的抽象概念。而我國法院實務在具體應用醫療常規概念時，又往往會藉助
+ 醫療水準來作為補充，直到近期才如上述學界通說所觀察，日益直接將常規
+ 等同於醫療慣習。而除了常規與慣習的關連外，上述學說見解一個更重要、
+ 亟待補充之面向，是其將醫療水準等同於理性醫師之見解，背後其實反映我
+ 國學界偏好從Helling案視角來理解理性醫師原則之常見思維模式，此一思維
+ 忽略了Helling案相較於Hall v. Hilbun案以降的美國發展，雖然都可能使用合理
+ 照護或理性醫師之用語，但兩者在具體運作上其實又存在細微但重要的差
+314                《中研院法學期刊》第24期（2019年3月）
+
+
+中，後者（醫療資源）尤其對法院在此一領域的實務操作，扮演著
+至為吃重的角色。而對醫療資源之判斷，實務長期以來又是以醫院
+層級作為首要的判斷指標。例如早在最高法院95年度台上字3884號
+刑事判決，法院便援引衛生署醫療糾紛鑑定作業要點，認為：「醫
+療行為……應以醫療當時臨床醫療實踐之醫療水準判斷是否違反注
+意義務。原則上醫學中心之醫療水準高於區域醫院，區域醫院又高
+於地區醫院，一般診所……尚不得一律以醫學中心之醫療水準資為
+判斷標準。138」
+        （粗體為本文所加）
+                。
+
+      而在最高法院105年度台上字第182號刑事判決中，法院雖仍使
+用傳統的醫療常規作為中介概念，但其論理基本上延續前引最高法
+院95年判決有關醫療水準之分析，本案法院並在醫療資源之外，也
+同時納入醫學知識進展作為法院判斷醫事人員是否違反注意義務之
+觀察對象。法院具體指出：「原則上，醫學中心的醫療水準高於區
+域醫院，區域醫院又高於地區醫院，一般診所……尚不得一律逕以
+醫學中心之醫療水準，作為判斷的標準……故因人、事、時、地、
+物之不同，醫療常規並非一成不變，在醫學中心、區域醫院、地區
+醫院、一般診所，因設備等之差異；在每一時期，因醫學之進步程
+度，醫療常規乃具浮動性。舉例而言，醫學中心及一般診所對同一
+疾病的病患之診療，因醫護設備水準之不同，醫療常規亦有寬、嚴
+之別，其他如台北首善之區與離島偏遠地區；八○年代與九○年代
+
+
+    異。前者質疑陪審團藉助專家程序進行判斷的整體正當性，而由法院直接施
+    加注意義務水準，後者則是在維持以中介概念和專家程序為媒介的跨領域互
+    動框架之前提上，以重視在地資源限制之全國水準取代慣習作為新中介概
+    念，但在定義此一概念時納入理性或合理小心等用語作為參照或觀察點，成
+    為審判者在專家程序中藉由專家證言來予以判斷的對象。由於忽略了此一重
+    要的差異，我國學界偏好從Helling案切入的視角，很可能會衍生使論者誤以
+    為法院在判斷醫療行為是否違反醫療水準時，應繞過專家程序，而由法院逕
+    行對系爭醫療處置進行成本效益分析。此一誤解，對於協助我國法院簡化資
+    訊負擔，踐行醫療糾紛領域的跨領域法律解釋適用任務，很可能會存在不利
+    之影響。
+138 最高法院95年度台上字3884號刑事判決，頁2。
+論跨領域法律解釋適用之原則與挑戰                         315
+
+
+的醫學水準，對同一病狀的診療，所要求於醫護人員的醫療常規，
+必有差異……。139」
+          （粗體為本文所加）
+                  。
+
+  我國法院從醫學知識進展或醫療資源角度來定義醫療水準概念
+的發展，另外也可以在最高法院106年度台上字第227號民事判決中
+得到觀察，本案法院在論述醫療水準作為注意義務判斷標準時，認
+為醫師「執行醫療之際，應盡善良管理人之注意義務，就醫療個
+案，本於診療當時之醫學知識，審酌病人之病情、醫療行為之價值
+與風險及避免損害發生之成本暨醫院層級等因素，綜合判斷而為適
+當之醫療，始得謂符合醫療水準而無過失。140」
+                      （粗體為本文所加）
+                              。
+換言之，法院在此並未直接針對醫師應具有的專業能力門檻加以討
+論，而是提出「診療當時之醫學知識」與「醫院層級」等主要因
+素，搭配其他相關要素─包括醫療行為之風險、價值、與成本
+─而為綜合考量。
+
+  而在更晚近的最高法院106年度台上字第1048號民事判決中，
+法院雖未直接使用醫療水準之用語，但同樣將醫療常規理解為醫療
+
+
+
+139 最高法院105年度台上字第182號刑事判決，頁4-5。
+140 最高法院106年度台上字第227號民事判決，頁4-5。此處值得特別注意的是，
+  除了醫學知識與醫院層級外，本案法院也同時納入醫療行為之風險、價值、
+  與成本等要素。而這些要素，實質上又是法院在前引多力維他案中，繞過鑑
+  定意見逕行施加注意義務水準之判斷依據，並與美國Helling案判決強調由法
+  院進行成本效益分析的意旨遙相呼應。本文認為，此一現象似乎再次反映前
+  揭（註137）所討論，我國學說從美國Helling案視角來理解醫療水準之思維所
+  造成的影響。學者吳振吉便針對本案法院之上述見解，認為其可能增加法院
+  審理的資訊負擔，增加判決之不確定性，吳氏指出：「採取……『醫療水準』
+  作為認定醫療行為之注意標準，法院於認定醫療行為是否存有過失時，相較
+  於採取『醫療慣例』或『醫療常規』標準者，顯需考量更多因素。……法院
+  應……考察個別病人之特殊情狀，斟酌系爭案件之病情、某項診斷治療行為
+  之風險、對於病人未為診斷治療所生之損害大小、損害發生之機率……某項
+  診斷治療之益處及可能花費的成本，以及病人本身之經濟負擔，予以綜合判
+  斷。此等諸多因素，無疑使法院於認定醫療過失上更為困難，亦將增加判決
+  結果之不確定性。」此一批評，相當程度便呼應本文所主張─循藉Helling
+  案判決模式可能會增加法院資訊負擔的假設。參見吳振吉（註6）    ，頁84-85。
+316                  《中研院法學期刊》第24期（2019年3月）
+
+
+慣習，並認為其並非「有無違反注意義務之唯一標準」141。而對於
+善良管理人注意義務（應可理解為醫療水準）之具體判斷，法院則
+發展出較前引最高法院106年度台上字第227號民事判決更為複雜、
+並更加聚焦於醫療資源面向的判斷指標集合，最高法院106年度台
+上字第1048號民事判決指出：「……醫護人員於實施醫療行為時是
+否已盡善良管理人或依醫療法規規定或醫療契約約定或基於該醫療
+事件之特性所應具備之注意義務，應就醫療個案、病人病情、就診
+時之身體狀況、醫院層級、設備、能力、醫護人員有無定期按規定
+施以必要之在職訓練及當日配置人力、病患多寡，醫護人員有無充
+裕時間問診照護與其他情形，綜合而為研判，尚不能僅以制式之醫
+療常規（醫療慣行或慣例）作為認定醫護人員有無違反注意義務之
+唯一標準。142」
+        （粗體為本文所加）
+                。
+
+      最高法院106年度台上字第1048號民事判決之上述見解，有兩
+點值得特別關注。一方面如上所述，本案法院對醫護人員注意義務
+之定義，高度圍繞於醫療資源面向（參見前段引文粗體部份），反
+映出本文所主張，我國法院近年偏好從醫療資源角度來定義醫療水
+準的常見思維；另方面，本案法院對於醫療資源面向的討論，除了
+延續我國法院與鑑定實務將醫院層級作為觀察重點的傳統思維外，
+也額外加入在職訓練、人力配置、病患數量、問診時間等具體觀察
+指標。此一發展，一定程度或許可被理解為法院對於近年引發社會
+高度關注之醫護過勞問題的積極回應，而進一步豐富了醫療資源作
+為法院觀察對象的具體內容。
+
+      本文認為，若從跨領域法律解釋適用的角度來觀察，上述我國
+法院從醫療資源角度切入理解醫療水準的實務發展，很可能會因為
+主要觀察點（個人專業能力）的欠缺，而侷限了其簡化法院資訊的
+
+
+141 最高法院106年度台上字第1048號民事判決，頁3。
+142 同前註。
+論跨領域法律解釋適用之原則與挑戰                   317
+
+
+潛在功能。此處個人專業能力與醫療資源間之所以存在判斷上的先
+後次序關係，主要是因為醫療行為過失責任─尤其是侵權行為責
+任─在本質上是對於個人行為是否違反注意義務之評估，因此不
+可避免需要以個人應滿足之專業能力門檻作為終極的判斷依據。相
+較之下，醫療資源的角色，則主要是在協助法院判斷個案是否因在
+地醫療資源的限制，而可適度偏離個人專業能力之一般性門檻。而
+此種偏離之所以可能，邏輯上又必須以一般性門檻的事先存在作為
+前提，否則注意義務應從何處偏離、具體往何處偏離，偏離幅度又
+應是多少，在現實上均難以有效評估，甚至衍生法院應審酌事項過
+於龐雜的資訊超載風險。例如前引最高法院106年度台上字第1048
+號民事判決所發展出的複雜判斷指標集合，或許一定程度便可被理
+解為法院面對個人專業能力門檻不明之情形，僅能透過不斷持續發
+展更多、更具體的醫療資源判斷指標。然而，此種持續具體化輔助
+觀察點的概念解釋策略，若不能搭配個人專業能力門檻明確化之概
+念配套，其是否真能達成協助法院認事用法之功能，恐怕仍有待進
+一步的評估與觀察。
+
+二、醫療品質光譜與專業能力：最低限專業能力作為注意義
+  務門檻
+
+  前段對於我國法院實務近年發展之分析，突顯出醫療水準概念
+在我國之發展亟待突破的階段性重要障礙，是如何對作為其主要觀
+察點的個人專業能力門檻給予明確之定義。而針對此一障礙，本文
+認為自Hall v. Hilbun案以降的美國經驗，又可以再次提供討論的出
+發點。如本文「參」所整理，美國各州近年對於全國水準概念之定
+義，至少存在醫師在全美執業最低限應展現之專業能力、平均符合
+資格醫師應展現之專業能力、以及理性審慎醫師應展現之專業能力
+等不同選項。其中，理性醫師之相關用語，由於具有最貼近既有法
+318                          《中研院法學期刊》第24期（2019年3月）
+
+
+律上位概念（即侵權行為法傳統理性人原則）之優勢，因此在使用
+上可說最為常見143。
+
+      理性醫師專業能力的受歡迎程度，背後反映法律作為不斷進行
+合法性判斷之社會系統，其對於過失/無過失（即合法/非法）的二
+元判斷，需要不斷回歸既有法律規範體系尋找支持的運作邏輯。然
+而若從跨領域法律解釋適用的角度來思考，中介概念的概念定義
+（即參照點設定）不僅單純需要考量其是否貼近既有的法律規範架
+構，也同時需考量其是否適當對應醫療體系之運作邏輯，以藉此在
+醫法跨領域互動時，除能有效縮減法院的資訊負擔，也提供雙方具
+詮釋彈性的對話媒介。從此面向切入，以理性醫師專業能力作為醫
+療水準參照點之概念建構，是否真能有效反映醫療現場之實況，就
+成為十分值得玩味的議題。
+
+      本文認為，對上述議題的討論，可進一步放在Lawrence O.
+Gostin等學者所提出之醫療品質光譜脈絡下來理解（Quality of Care
+          144
+Continuum） 。在Gostin等學者合著的醫療法教科書法與健康照
+護系統（Law and the Health System）中，作者們主張相較於過失/
+非過失是一二元性質的判斷，醫療服務所展現之品質，其實較適合
+以光譜或連續體（continuum）的形式來理解，具體包含最佳的理
+想照護（optimal care）、高於平均的優質照護（good or very good
+care）、平均等級的照護（average care）、不合格或構成過失之照護
+（substandard or negligent care）
+                              、以及構成重大過失、極度不適任或
+故 意 傷 害 之 照 護 （ reckless care, gross incompetence, intentional
+                                       145
+harm）等不同品質範疇（原圖參見下圖5）                    。
+
+
+143 參見本文「參」之討論（前揭註90-93之內容）                     。
+144 See GOSTIN ET AL., supra note 1, at 516-17.
+145 此一光譜進一步有助理解為何各國法院均日益遠離慣習。這是因為慣習本身
+      其實並無法提供法院判斷該照護內容屬於何種品質範疇有效的指引，因此不
+      可避免需要另外找尋替代指標。
+論跨領域法律解釋適用之原則與挑戰                                                319
+
+
+
+
+                              圖5 醫療品質光譜
+資料來源：LAWRENCE O. GOSTIN ET AL., LAW AND THE HEALTH SYSTEM 517 (2014)
+           （已徵得作者與West Academic出版社同意使用）.
+
+
+      本文下圖6嘗試以統計學上之常態分配方式，呈現Gostin等人發
+展的醫療品質光譜理念。本文主張此種呈現方式，有助論者更有效
+地評價上述美國在定義全國水準概念時的幾種常見選項，是否確實
+能對應醫療體系之運作邏輯。理論上，過失 / 非過失之判斷門檻
+（即中介概念所欲鎖定的觀察對象）
+               ，應恰好設定在平均等級照護與
+不合格照護兩者之間的界線（以下簡稱：不合格門檻）146。而此一
+界線設定的寬嚴，本身又是一具高度政策意涵、本質上並無絕對答
+
+
+
+146 See GOSTIN ET AL., supra note 1, at 517.
+320                      《中研院法學期刊》第24期（2019年3月）
+
+
+案的問題，背後牽涉法院面對醫療作為產業，應如何設定不合格行
+為或甚至不適任人員之究責與汰換門檻。若設定過寬（過度偏
+左），造成只有極少數醫療行為低於不合格門檻，則法院可能形同
+放棄對醫療體系品質之監督。但若設定過嚴（過度偏右），使得過
+高比例醫療行為被認定為不合格，則又可能使得醫事人員人人自
+危，甚至迫使其大量離開此一重要產業。
+
+
+
+
+          圖6 醫療品質光譜之常態分配示意圖
+資料來源：作者製圖。
+
+
+      面對此一具政策性格、無法簡單用合法/非法之法律二元判斷
+來予以回答的問題，本文認為在過去數十年間，世界各國醫療體系
+為提升病人安全而進行之住院醫療傷害盛行率實證研究，或許可提
+供上述不合格門檻應如何設定議題的參考與指引147。若參考學者楊
+秀儀對美英法紐澳等國相關實證研究的比較整理，在這些國家的住
+院 經 驗 中 ， 存 在 因 醫 療 行 為 介 入 而 導 致 之 醫 療 傷 害 （ adverse
+
+
+
+147 楊秀儀、黃鈺媖（註110）
+                ，頁11-13。
+論跨領域法律解釋適用之原則與挑戰                                                             321
+
+
+                                                    148
+events）的比例分布約從2.9%到16.6%不等                            （參見下表4欄位A）。
+而若侷限於因可預防醫療錯誤（preventable medical errors）所導致
+之醫療傷害，其比例進一步下降至2.15%～8.47%之區間（參見下表
+4欄位C，法國數據因計算單位不同不列入比較）
+                     。
+
+             表4 住院醫療傷害盛行率實證數據整理
+
+
+
+
+資料來源：楊秀儀、黃鈺媖，當法律遇見醫療：醫療糾紛立法論上的兩個主張，
+                                              149
+           司法新聲，115期，頁12（2015年）                  。
+
+
+     有趣的是，在上述各國研究中，美國兩項研究之數值明顯低於
+其他國家。此一現象反映這兩項研究由於將醫療傷害是否構成醫療
+過失一併納入評估，因此在判斷上較為謹慎的研究方法限制，此一
+限制嗣後並引發這些研究是否嚴重低估可預防醫療錯誤在美國盛行
+率之批評150。然而即便存在上述限制，相關研究將過失納入研究範
+
+
+148 同前註。本文僅引用該研究中涉及具體國家之數據，而未納入最後發展中國
+    家之範疇。
+149 紐約州A*B欄位之58%加權，係來自哈佛醫療執業研究所發現，58%醫療傷害
+    來自醫院管理上（即可預防）錯誤之數據。See generally Lucian L. Leape et al.,
+    The Nature of Adverse Events in Hospitalized Patients: Results of the Harvard
+    Medical Practice Study II, 324 NEW ENG. J. MED. 377 (1991).
+150 楊秀儀、黃鈺媖（註110）               ，頁12。這兩項研究中的紐約州部份即病人安全領
+    域指標性之哈佛醫療執業研究（Harvard Medical Practice Study），該研究對
+    1984年紐約州參與研究醫院之住院病歷進行大規模事後檢索編碼（coding），
+    嘗試釐清醫院場域中醫療傷害與過失之發生比例。此研究嗣後產出數篇經典
+322                                       《中研院法學期刊》第24期（2019年3月）
+
+
+圍，有助突顯涉及可預防醫療錯誤的醫療傷害不必然構成個人過失
+此一重要、但常被忽視的命題。以影響力最為深遠、以紐約州醫院
+作 為 研 究 對 象 的 1984 年 哈 佛 醫 療 執 業 研 究 （ Harvard Medical
+Practice Study）為例，該研究估計約有3.7%之住院經驗涉及醫療傷
+害、其中約58%涉及可預防醫療錯誤（該研究稱之為醫院管理上錯
+誤─errors in management，其同時包括系統與個人錯誤）151。而
+在這58%的可預防錯誤中，又僅28%被認為構成醫療過失，約佔所
+有可預防錯誤的48%152。
+
+      而若暫時忽略各國研究之方法論差異，而參考此48%的比例來
+推算，則美英法紐澳等國存在醫療過失之住院經驗比例，又可進一
+步粗略換算為0.49%～4.06%之間（參見下表5欄位D，法國數據因
+計算單位不同不列入比較）。這樣的比例推估無疑在方法論上過度
+粗淺，稱不上嚴謹的分析，而需要真正嚴謹之實證研究來加以修正
+
+
+
+    文獻，see generally Troyen Brennan et al., Incidence of Adverse Events and
+    Negligence in Hospitalized Patients: Results of the Harvard Medical Practice Study
+    I, 324 NEW ENG. J. MED. 370 (1991); Leape et al., supra note 149; A. Russell Localio
+    et al., Relation between Malpractice Claims and Adverse Events Due to
+    Negligence — Results of the Harvard Medical Practice Study III, 325 NEW ENG. J.
+    MED. 245 (1991). For additional information, see also generally Eric J. Thomas et al.,
+    Incidence and Types of Adverse Events and Negligent Care in Utah and Colorado,
+    38 MED. CARE 261 (2000). 有趣的是，哈佛醫療執業研究之數值嗣後被批評為
+    過低，例如參與該研究的病人安全運動先驅Lucian L. Leape，就在1993年表示
+    該研究之估計過低。See generally Lucian L. Leape et al., Preventing Medical
+    Injury, 19 QUALITY REV. BULL. 144 (1993). 另外John T. James 2013年的研究也推
+    估美國每年因可預防醫療傷害所導致的死亡應在210,000至400,000之間，遠高
+    於依哈佛醫療執業研究數據所推估的98,000。See John T. James, A New,
+    Evidence-based Estimate of Patient Harms Associated with Hospital Care, 9 J.
+    PATIENT SAFETY 122 (2013). See also generally Martin A. Markary, Medical Error—
+    The Third Leading Cause of Death in the US, 353 BRITISH MED. J. 1 (2016),
+    https://www.bmj.com/content/353/bmj.i2139.
+151 See Leape et al., supra note 149, at 377, 379.
+152 Id. 此一落差主要是因為錯誤的存在不必然滿足所有過失責任之構成要件，例
+    如有些錯誤並不影響傷害結果，或是有些傷害來自系統錯誤而無法被理解為
+    個人過失。
+論跨領域法律解釋適用之原則與挑戰                                                          323
+
+
+和補充，但在大方向上，本文認為這些數據對醫療與法律體系而言
+仍具有相當的啟發意義。對前者來說，可預防醫療錯誤─不論來
+自系統或個人錯誤─其實是醫療體系的常態性風險，亟需醫界以
+更積極的態度來面對。但同一時間，法律人也必須體認到，即便在
+寬鬆認定可預防醫療錯誤盛行率的澳洲研究，因醫療過失導致醫療
+傷害之住院經驗比例，也仍然很可能僅反映常態分配左側5%以下
+的極端異常情形，而絕非普遍存在之現象。
+
+      表5 存在醫療過失之住院經驗比例計算
+
+
+
+
+資料來源：楊秀儀、黃鈺媖，當法律遇見醫療：醫療糾紛立法論上的兩個主張，
+    司法新聲，115期，頁12（2015年）；Lucian L. Leape et al., The Nature
+    of Adverse Events in Hospitalized Patients: Results of the Harvard Medical
+    Practice Study II, 324 NEW ENG. J. MED. 377, 379 (1991).
+
+
+  若在大方向上能夠接受本文之上述主張，則包括理性醫師與平
+均醫師之專業能力等兩項參照點，其實均無法有效反映此種將不合
+格門檻理解為極端異常情形之想像。一方面，平均一詞雖然包含一
+般通常等日常語意，但其同時也具數學上之意含，此時，法院若選
+擇以數學意義來詮釋平均專業能力，並將其對應到圖6的醫療品質
+常態分配，則很可能會出現醫療行為之品質一旦落入後段班（低於
+324                                         《中研院法學期刊》第24期（2019年3月）
+
+
+                                               153
+50%以下）即構成過失之驚人現象                                     。另方面，理性醫師之專業能
+力則是仰賴審判者自身對理性醫師之想像，來在個案中決定不合格
+門檻之高低，而成為無法在醫療品質光譜上找到明確對應座標的抽
+象概念。相較之下，反而是Hall v. Hilbun案判決所提出、後續較少
+為其他州採用之最低限專業能力，可以在字義上相當自然地與上述
+將不合格門檻理解為醫療品質常態分配左側5%以下極端異常情形
+的想像連結，而意外地成為法律體系在評估醫療行為是否構成醫療
+過失時，較平均或理性醫師專業能力更能對應醫療體系運作邏輯之
+參照點選項。本文因此認為，以結合專業能力（主）與醫療資源
+（輔）之醫療水準作為中介概念，並在定義此一概念時，以我國符
+合資格之執業醫事人員於類似情境被認為「最低限應展現之專業能
+力」作為個人專業能力門檻的概念組合，或許具有在醫法互動過程
+中，有效扮演邊界物件/結構性配對之高度潛力，而成為我國在發
+展醫療水準的過程中十分值得思考的釋義學選項（不同專業能力參
+照對象與醫療品質光譜之對應，參見下圖7之示意）
+                      。
+
+
+
+
+153 有趣的是，Hall v. Hilbun案法院之所以發展出最低限專業能力之見解，理由之
+      一就是憂慮平均之用語會造成外界誤以為密西西比州竟有半數醫師未能達到
+      其專業上應具備之合理水準。See Hall, 466 So.2d at 871 (stating that “[u]se of
+      such concepts as ‘average’ are misleading and should be avoided, particularly in jury
+      instructions, for such notions understood arithmetically suggest that the lower 50
+      percent of our physicians regularly engage in medical malpractice. We are confident
+      that the percentage of physicians in this state who daily deliver to their patients a
+      legally acceptable quality of care is quite high. The terminology we use, particularly
+      in jury instructions, should reflect this reality.”).
+論跨領域法律解釋適用之原則與挑戰                    325
+
+
+
+
+圖7 不同專業能力參照對象與醫療品質光譜之對應示意圖
+資料來源：作者製圖。
+
+
+三、醫療水準作為中介概念的未來挑戰：以民事醫療糾紛訴
+  訟為中心154
+
+  本文「伍、二」藉助Gostin等學者提出的醫療品質光譜理念，
+並參考美國平均、理性、與最低限等不同專業能力門檻之比較經
+驗，而發展出「醫療水準＝最低限專業能力＋醫療資源」之概念定
+義。本文認為，相較於本文「肆、一」所討論我國學說與初鑑手冊
+對醫療常規之概念定義、「肆、二」所討論我國鑑定和法院實務對
+醫療常規之操作模式、以及「伍、一」所討論我國近年法院實務從
+醫療資源角度對醫療水準之理解，本文所提出之醫療水準概念組
+合，具有醫療體系參照點具體明確、直接以水準取代常規，避免適
+用上的表（常規）裡（水準）不一、以及明確界定醫療水準之主要
+參照點（個人專業能力），有助發揮醫療資源作為輔助參照點之功
+能等幾點優勢（參見下表6整理）
+              。
+
+
+
+154 本文「伍、三」分別涉及醫療水準概念與舉證責任之關係、醫療法第82條最
+  新修法之評價、以及醫療水準與醫療糾紛訴訟之法政策目的等三項重要理論
+  與實務問題，相關寫作靈感均得益自兩位匿名審查人之審查意見，作者至為
+  感謝。
+326              《中研院法學期刊》第24期（2019年3月）
+
+
+
+          表6 本文醫療水準概念之比較優勢
+ 我國既有中介概念發展 我國既有中介概念之缺 本文醫療水準概念之比
+ 經驗         失          較優勢
+            醫療常規為超越醫療慣
+ 本文「肆、一」：我國
+            習與醫療水準之上位中 醫療體系參照點具體明
+ 學說與初鑑手冊對醫療
+            介概念，但醫療體系具 確
+ 常規之定義
+            體參照點不明
+ 本文「肆、二」：我國 表裡不一：表面上判斷 以水準取代常規，解決
+ 鑑定和法院實務對醫療 醫療常規、實際上判斷 表裡不一、概念疊床架
+ 常規之運作模式    醫療水準       屋之問題
+            由於缺乏個人專業能力
+ 本文「伍、一」：我國            明確界定個人專業能力
+            作為主要參照點，因此
+ 近年法院實務從醫療資            之門檻，協助發揮醫療
+            醫療資源作為輔助參照
+ 源角度切入發展的醫療            資源作為輔助參照點之
+            點的判讀結果無法發揮
+ 水準定義                  功能
+            預期功能
+資料來源：作者製表。
+
+
+      當然，上述論理放在我國脈絡下，會馬上衍生從美國民事領域
+發展出來的「醫療水準＝最低限專業能力＋醫療資源」，是否適合
+套用於我國刑法領域的重要問題。對此，本文的初步不成熟想法
+是，「最低限專業能力＋醫療資源」的概念組合，在大方向上應較
+現行之醫療常規概念，更能發揮醫療刑事責任注意義務水準明確化
+之效果，也提供目前醫療刑責合理化的論戰，在醫療常規與臨床裁
+量以外的第三種法政策選擇，應有其一定之參考價值。
+
+      然而，刑法上過失注意義務的概念調整，進一步又需滿足刑法
+領域的特殊要求，尤其必須合乎刑法之謙抑思想，並能與既有的刑
+法概念體系有效結合。從這些角度來思考，本文所提出之醫療水準
+定義在應用於刑事案件時，又需從以下兩方面來予以補充：一方
+面，有必要思考所謂最低限專業能力之門檻，是否需要、具體又如
+何在刑事領域進一步調降，以與理論上較寬鬆的民事過失注意義務
+論跨領域法律解釋適用之原則與挑戰                   327
+
+
+門檻明確區隔，進而突顯刑法之謙抑性；另方面，以專業能力與醫
+療資源共同作為注意義務水準之判斷指標的論述方式，回頭也必須
+思考其在刑法體系上究竟是屬於構成要件、違法性或罪責之分析層
+次，藉以在既有法律概念架構中找到穩固基礎，而更容易為法律人
+所理解。
+
+  可惜的是，對這兩項議題之具體回應，超越本文篇幅所能處理
+的範圍，而需另外透過完整的研究來加以探討。考量此一分析範圍
+的侷限，本文因此選擇暫時將「醫療水準＝最低限專業能力＋醫療
+資源」之適用範圍限縮於民法領域，而留待未來之研究機會，再嘗
+試處理其在刑法領域的適用問題。在上述範圍限制的基礎上，本章
+剩餘篇幅將嘗試討論本文以醫療水準取代醫療常規之主張（不論是
+將後者理解為醫療慣習，或是超越醫療慣習與醫療水準之上的超級
+中介概念），其在我國─尤其是民事領域─進一步推廣時，難
+以迴避、必須面對的以下三點挑戰，分別是：一、醫療資源在訴訟
+實務中具體應如何操作；二、醫療法第82條之最新修正將臨床裁量
+概念入法後，是否侷限本文醫療水準概念未來之適用空間；以及最
+後三、以最低限專業能力加上醫療資源作為定義的醫療水準概念，
+具體究竟希望能達成什麼樣的法政策目的。
+
+ （一）醫療水準與醫療資源作為抗辯
+  首先，本文參考美國Hall v. Hilbun案之經驗，在個人專業能力
+作為醫療水準的主要觀察點外，也加入醫療資源作為輔助觀察點，
+藉以讓法院針對不同個案情境，能夠更精確、彈性地定位個別醫事
+人員應滿足的注意義務水準。此一概念組合在實務上，可能會引發
+醫療資源作為輔助觀察對象，其具體應如何操作之問題。針對此一
+問題，理論上，由於我國專家程序長期以鑑定制度作為核心，因此
+不論是對個人專業能力或醫療資源的判讀，其首要途徑都是透過法
+院或檢察機關的鑑定提問，讓鑑定單位來加以回答。然而由於醫療
+328                                   《中研院法學期刊》第24期（2019年3月）
+
+
+資源作為輔助參照點所扮演之角色，往往是在評價個案所適用之注
+意義務水準，是否可適度偏離單純以個人專業能力作為判斷依據時
+所得出之一般性門檻（例如我國執業醫事人員最低限應展現之專業
+能力）。也因此，醫療資源作為輔助觀察點，似乎也同時具有抗辯
+的特性，而衍生是否可能由當事人自行加以舉證之可能。
+
+      若將醫療資源理解為可─或甚至應─由當事人所主張之抗
+辯，此一理解進一步又會衍生舉證責任分配之效果，而改變法院與
+當事人彼此之間的資訊分工。此種資訊分工方式之改變，對於本文
+「伍、一」所點出，我國近年實務從醫療資源角度切入理解醫療水
+準概念而衍生之資訊超載隱憂，或許提供了一個可能的抒解管道。
+亦即，法院除了將醫療資源議題送委託鑑定之外，或許也可思考是
+否可能要求主張醫療資源抗辯之一方，就有利自己之事實（例如醫
+院層級、在職訓練、人力配置、病患數量、問診時間等我國法院近
+年在判決中所發展出之醫療資源具體觀察指標）負積極舉證責任，
+藉此將解讀醫療資源此一輔助觀察點的任務─以及解讀失敗時的
+負擔─適度移轉給主張該抗辯的當事人，而非完全只能由法院單
+獨予以承擔，藉此達到簡化法院資訊負擔之目的。
+
+      上述從抗辯角度來理解醫療資源作為輔助參照點的思維方式，
+也呼應美國法上可受尊重少數之抗辯（respectable minority rule）的
+發展經驗 155 。美國醫療糾紛訴訟除病人方與有過失（contributory
+
+
+155 美國法上可受尊重少數抗辯之概念內涵與法律適用，see GOSTIN ET AL., supra
+  note 1, at 508-16. 可受尊重少數抗辯之英文為the respectable minority rule，美國
+  實務上也常將其稱為對立學派抗辯（two schools of thought）                       。該抗辯存在之主
+  要目的，在於保護不存在在地慣習/全國水準，或不符在地慣習/全國水準但
+  在醫學上有相當依據之醫療行為。但也有學者認為可受尊重少數或對立學派
+  原則仍舊過於簡化醫療實況，忽略了醫療服務提供的地域性差異與複雜性
+  （例如完全不存在慣習，或同時存在超過兩種以上不同醫療行為型態，難以區
+  辨何者應受尊重），see generally John E. Wennberg & Philip G. Peters, Jr.,
+  Unwarranted Variations in the Quality of Health Care: Can the Law Help Medicine
+  Provide a Remedy/Remedies?, 37 WAKE FOREST L. REV. 925 (2002) (arguing that the
+論跨領域法律解釋適用之原則與挑戰                                                                     329
+
+
+negligence）此一侵權行為法領域的一般性抗辯外，也特別針對醫
+療領域之特性發展出可受尊重少數之抗辯，讓偏離一般注意義務水
+準─不論是從慣習或水準角度來理解─但在醫學上具相當依據
+之醫療行為，亦有被認為滿足注意義務水準的可能，以藉此讓法院
+能更有效回應醫療社群同時接受多種可能行為模式的複雜情境156。
+而隨著Hall v. Hilbun案之後全國水準的興起，美國法院除了持續允
+許可受尊重少數之抗辯外，近年也有許多州允許陪審團聽取有關在
+地醫療條件侷限（即醫療資源）之專家證言。此一運作方式，背後
+同樣反映類似的思維邏輯，亦即將在地醫療條件之侷限，理解為允
+許個案偏離一般注意義務水準之可能條件157。
+
+      當然，臺美兩國不同的是，由於美國醫療糾紛訴訟係以專家證
+言作為專家程序之核心，因此不論原告之權利主張或被告之抗辯主
+張，當事人都需提示支持該主張之專家證言，以取信於陪審團。在
+此意義上，可受尊重少數抗辯之發展，其功能主要在於拓展、深化
+專家證言程序的視野，但並未實質改變美國專家程序之既有運作方
+式。相較之下，從抗辯角度理解醫療資源，卻有可能打破我國長期
+仰賴鑑定作為唯一證據方法之運作模式，而將重點從現有的鑑定，
+一定程度轉向強化當事人透過其他證據資料與證據方法自行舉證之
+角色與任務。
+
+      對當事人自行舉證之角色與任務的強化，具體尤其反映在當事
+人起訴與答辯書狀（尤其是舉證部分）之品質提升。從抗辯角度來
+
+
+    consideration of standard of care should factor in small area variations and styles of
+    care). 本文認為，上述批評所突顯，法院在形成法律概念時可能錯誤理解醫療
+    體系現況之風險與疑慮，進一步突顯建置有效跨領域互動機制，促成醫法跨
+    領域批判性對話、避免法院長期仰賴不符現況之過時概念（例如可受尊重少
+    數或對立學派抗辯）的重要性。
+156 參見前揭（註155）之討論。
+157 See FURROW ET AL., supra note 49, at 311 (observing that “[m]any courts, like Hall,
+    also allow evidence describing the practice limitations under which the defendant
+    labors.”).
+330                 《中研院法學期刊》第24期（2019年3月）
+
+
+理解醫療資源，也因此可能間接地將當事人─尤其是相對欠缺醫
+療資訊來源的原告方─書狀與舉證品質之議題，納入醫療糾紛相
+關法政策討論的視野。表面上，當事人書狀與舉證品質之提升，並
+不涉及任何法律、概念或制度的實質調整，也因此常被我國醫療糾
+紛改革相關討論所忽略。然而在現實上─尤其對法院而言─相
+關書狀品質的改善，對協助法院理解案件中之醫療事實與知識，做
+成在醫學與法學上均有穩固依據之裁判，進而有效提昇判決品質，
+可說有著不可輕忽之關鍵影響，是從跨領域視角反省我國醫療糾紛
+相關法制時，必須正視的重要議題158。
+
+      從抗辯角度來理解醫療資源，也可能反過來提供我們對專業能
+力作為醫療水準的主要觀察點，其具體操作方式的不同想像。上述
+我國法院近年針對醫療資源所發展，包括醫院層級、在職訓練、人
+力配置、病患數量、問診時間等各種具體觀察指標，在一定程度上
+均可被理解為醫療資源此一上位概念的進一步具體化。此處十分值
+得思考的是，此種持續將中介概念向下具體化的嘗試，是否也同樣
+可應用於專業能力面向，藉此讓鑑定制度─甚至當事人的舉證
+─更為聚焦，以提升訴訟過程醫法跨領域對話之成效159？
+
+      例如，在判斷我國符合資格醫事人員最低限度應展現之專業能
+力時，法院是否應進一步區分該醫事人員所處之醫學訓練階段（實
+習、住院、總、主治、專科或次專科醫師）160？又或者，對於具有
+
+
+158 關於臺日兩國醫療糾紛訴訟程序當事人舉證部分實務運作模式之差異，參見
+    邱琦，臺日民事醫療訴訟─實務比較研究（上），月旦醫事法報告，2期，
+    頁193-204（2016年）；邱琦，臺日民事醫療訴訟─實務比較研究（下），月
+    旦醫事法報告，3期，頁159-170（2017年）
+                            。
+159 若從前引Luhmann將法律理解為溝通系統之角度來思考，此種持續將中介概念
+    向下具體化的嘗試，恰恰呼應Luhmann所稱法律系統透過簡化其資訊負擔，來
+    開展其內部的複雜性。相關理論基礎，參見本文「貳」有關Luhmann理論之相
+    關討論。
+160 例如前引最高法院95年度台上字第3884號刑事判決，便提及「原則上醫學中
+    心之醫療水準高於區域醫院……專科醫師高於非專科醫師。」     （粗體為本文所
+論跨領域法律解釋適用之原則與挑戰                     331
+
+
+一定實驗性、冒險性的新設備或新技術使用，法院是否、具體又在
+哪些條件下應適度放寬或加重醫事人員之注意義務水準？而上述對
+個人專業能力門檻的細緻化與類型化，進一步又會牽連醫療機構對
+於人力調派或引入新設備技術之管理監督責任，而衍生個人過失之
+判斷是否應與醫療機構之賠償責任相互連動之重要法理論問題161。
+最後，滿足最低限專業能力門檻的醫療處置是否只存在一種可能
+性，還是說同時可能有多種處置滿足此一門檻？若答案為肯定，則
+前述美國可受尊重少數之抗辯是否在我國也有適用空間？構成可受
+尊重少數之具體法院判斷標準又為何？這些都是專業能力未來若成
+為我國醫療水準概念之主要參照點，其進一步具體化時需要一起配
+套思考的問題162。
+
+
+    加）。而若醫事機構因自身管理上的缺失，不當將專業能力較低之非專科醫師
+    推上火線，則理論上又可以進一步衍生機構賠償責任之相關討論。
+161 例如在系統性錯誤部份，我國目前也已經開始出現法院透過醫師不構成侵權
+    行為、但醫院構成醫療契約債務不履行之運作方式，來處理不涉及個人疏失
+    之系統性之錯誤。例如在臺灣臺北地方法院98年醫字第18號民事判決，法院
+    便認為被告醫師痔瘡手術並無疏失，但認定：「被告醫院為醫學中心，對於痔
+    瘡手術與壞死性筋膜炎之密切關聯性……應有相當之認識，自應制定應對之
+    處置流程，以因應痔瘡術後病患出現會陰部或陰莖腫脹等不尋常現象時，照
+    護團隊得以及時啟動檢查會診機制，始能謂對於病患履行醫療契約已盡善良
+    管理人之注意義務。」此一見解嗣後雖為臺灣高等法院所撤銷，但足徵我國
+    法院已開始重視到系統性因素之存在及其重要性。此一問題背後進一步涉及
+    的，是我國醫療過失相關法理一直以來均聚焦在個人錯誤導致之醫療過失，
+    而較少檢視機構或組織所存在之系統錯誤，對於過失判斷所可能產生之影
+    響。然而隨著當代醫療對病人安全的日益重視，我國法院無可避免需要開始
+    深入思考，如何能將系統錯誤之概念整合進既有的法釋義學架構，以讓法院
+    能更精準地處理醫療現場之不同錯誤類型，進而鼓勵、而非妨礙醫療現場對
+    醫療品質與病人安全的追求。
+162 而除了上述可能性外，專業能力之進一步具體化，也會涉及醫療慣習在被剝
+    奪中介概念之地位後，是否仍具有扮演專業能力下位判斷指標之剩餘價值？
+    亦即，醫療慣習由於其在判斷上的簡便性，是否仍然能成為諸多判斷指標之
+    一，而成為引導法院委託鑑定或雙方當事人舉證之出發點。事實上，本文認
+    為我國法院近年所發展，滿足醫療常規（即慣習）不等於滿足醫療水準之看
+    法，一定程度便可以理解為此種將常規作為舉證出發點、而非終極判斷指標
+    的思維。從此一發展方向來觀察，若本文提出之醫療水準概念未來有幸獲得
+    實務採用，則醫療常規（應正名為慣習）作為專業能力之下位判斷指標，可
+    預期仍會持續扮演相當的角色。
+332                《中研院法學期刊》第24期（2019年3月）
+
+
+
+      （二）醫療水準與醫療法第82條之最新修正
+      前段有關專業能力與醫療資源之持續向下具體化、甚至與抗辯
+和舉證責任分配加以結合之討論，有助我們將圖2所示之醫療糾紛
+領域常見跨領域制度安排，進一步在本文所提出的醫療水準概念脈
+絡下，以圖8之階層式具體化圖像來加以描繪。本文認為，若從跨
+領域法律解釋適用的角度來思考，法院透過對其他社會系統的觀
+察，嘗試建構如圖8所示持續具體化法律抽象概念，並最終與專家
+程序結合進行跨領域轉譯的階層式法律概念架構，可說是法院在面
+對現代社會各類跨領域法律解釋適用之挑戰時，至為重要的基礎建
+設。
+
+
+
+
+        圖8 本文醫療水準概念之階層式具體化圖像
+資料來源：作者製圖。
+
+
+      上述跨領域法律解釋適用的基礎建設，進而有助理解本文以醫
+療水準取代醫療常規之主張，未來在我國推廣可能面臨的第二項挑
+論跨領域法律解釋適用之原則與挑戰              333
+
+
+戰，亦即：我國醫療法第82條有關民事責任之最新修法（2018年1
+月24日修正公布），並未走向醫療水準，而是以臨床裁量取代醫療
+常規，此一修法方向，是否會因而限縮了醫療水準概念未來在我國
+的適用空間？對此本文認為，本次修法非旦並未限縮醫療水準在我
+國的適用空間，反而因為以下的關鍵缺失，而使得醫療水準可預期
+仍會持續扮演十分吃重的角色，亦即：本次修法並未能─甚至可
+說從未嘗試─建構完整的法律概念階層式具體化流程，因而無法
+真正達成協助法院轉譯醫療訊息、簡化資訊負擔之目的。而此一缺
+點，具體又表現在本次修法的以下兩項特色：
+
+  1. 醫療上必要之注意義務與臨床裁量層次關係不明
+
+  本次修法有關民事過失注意義務水準部份之核心修正，表現在
+第82條第2項「醫事人員……以故意或違反醫療上必要之注意義務
+『且』逾越合理臨床專業裁量所致者為限，負損害賠償責任」之文
+字（粗體與引號為本文所加）。理論上，本項之修正目的應是試圖
+以「逾越合理臨床專業裁量」（俗稱臨床裁量）作為取代醫療常規
+之中介概念，藉此明確化醫療行為之過失注意義務範圍。然而十分
+可惜的是，最終通過的修法版本，卻因意外地使用了「且」之用
+語，而使得「逾越合理臨床專業裁量」躍升為與「違反醫療上必要
+之注意義務」同一層級，應同時滿足之獨立條件。而所謂「違反醫
+療上必要之注意義務」究其本質，其實又僅是「過失=行為違反注
+意義務」之一法律上位原則的重申。此種規範方式，於是造成本次
+修法對於過失（行為違反注意義務）此一法律上位抽象原則在醫療
+場域之應用，完全未能發揮任何具體化之效果。反而，法院未來在
+詮釋何謂醫療行為違反過失注意義務之時，也需要同時對於何謂逾
+越臨床專業裁量一併加以界定，其結果不但無法達成幫助法院資訊
+降載的目的，反而可能使得法院所面臨的資訊負擔更為龐雜。
+334                  《中研院法學期刊》第24期（2019年3月）
+
+
+      2. 臨床裁量扮演中介概念所面臨之諸多限制
+
+      其次，即便我們有意識忽略「醫療上必要之注意義務」與「逾
+越合理臨床專業裁量」兩者的概念層次關係，而主動幫立法者腦
+補，將臨床裁量理解為取代醫療常規、具體化「醫療上必要之注意
+義務」之中介概念，法院未來在適用此一概念時，仍然很可能會面
+臨以下兩項難以迴避的限制：
+
+      一方面，在概念本質上，臨床裁量其實並不適合直接扮演中介
+概念，而較適合扮演圍繞其他中介概念─例如醫療慣習或醫療水
+準─而發展之抗辯。理論上，臨床裁量所希望發揮的功能，主要
+是對醫事人員專業選擇權的保障，尤其適用於醫療現場同時存在多
+種可被接受的行為選擇，而醫事人員基於其醫學專業判斷，有意識
+地在多種可能性中做出可能偏離一般期待─不論表現在慣習或水
+準─之判斷163。若深入思考，臨床裁量所希望發揮的上述功能，
+其實與前述美國可受尊重少數之抗辯相互呼應，亦即希望讓個案適
+用之注意義務水準，能夠在醫療場域同時允許多種可能處置模式的
+情況，得以適度偏離原本的一般性門檻。而此種偏離之所以可能，
+邏輯上又必須以一般性門檻的事先存在作為前提，否則從何處偏
+離，偏離幅度多少，事實上均無從判斷。在此前提下，本次修法直
+接以臨床裁量作為中介概念，很可能會與我國實務近年從醫療資源
+角度來界定醫療水準類似，由於缺乏了事先存在、用以對照的一般
+性門檻，而無法真正發揮其預期之功能。到頭來，法院仍須先確定
+一般性原則的存在（不論是美國的在地慣習/全國水準，或我國的
+醫療常規/醫療水準）
+         ，才能回過頭來審酌個案是否逾越臨床裁量。
+
+      另方面，也正由於臨床裁量性質上難以直接扮演中介概念，醫
+療法第82條第4項於是不得不保留我國實務原本的中介概念，而規
+
+
+163 例如醫師在考量臨場情境後，決定使用尚未普遍使用之新技術、藥材或設
+      備，或選用療效較顯著、但伴隨風險也較高之治療方式。
+論跨領域法律解釋適用之原則與挑戰             335
+
+
+定「……臨床專業裁量之範圍，應以該醫療領域當時當地之醫療常
+規、醫療水準、醫療設施、工作條件及緊急迫切等客觀情況為
+斷。」
+  （粗體為本文所加）
+          。從階層式具體化流程的角度來觀察，本
+項之立法目的理論上應在於為臨床裁量此一中介概念提供更具體的
+下位判斷指標。然而本次修法之修正方向，卻可能衍生以下三項問
+題：
+
+  其一、如本文「肆」所述，醫療常規與醫療水準在我國存在十
+分複雜的互動關係164。理論上，此一複雜關係本身就應是修法簡化
+的對象（例如將常規正名為慣習，或直接以水準取代常規）。可惜
+的是，本次修法並未朝此方向發展，而是在醫療常規與醫療水準之
+上，另外加入臨床裁量作為中介概念，使得原本常規與水準之彼此
+辯證，進一步複雜化為常規、水準、裁量之三角關係；
+
+  其二、承上，若依據本文的分析，常規、水準、裁量三角關係
+的一種可能解釋方式，是將水準理解為中介概念，以「最低限專業
+能力＋醫療資源」作為概念定義，再將常規（定義為慣習）與裁量
+均理解為判讀最低限專業能力之下位具體判斷指標（亦即法院可加
+以審酌但不具決定性之因素），藉此建構完整的階層式概念具體化
+流程。然而新法卻反其道而行，將性質上屬中介概念的醫療常規與
+水準，均理解為臨床裁量之下位判斷指標。此時，由於臨床裁量扮
+演中介概念的前述侷限，法院最終很可能還是別無選擇，必須回到
+優先評估醫療常規或水準，再審酌個案裁量是否逾越界線之判斷模
+式，而與現狀大同小異；
+
+  最後，本項所謂「醫療設施、工作條件及緊急迫切等客觀情
+況」，在性質上十分接近前述我國實務所發展、醫療資源作為醫療
+水準輔助參照點之各項具體判斷指標（亦即圖A所示中介概念定義
+
+
+
+164 參見本文「肆」之分析。
+336                 《中研院法學期刊》第24期（2019年3月）
+
+
+之進一步具體化）。然而本項規定除了將這些指標與中介概念層級
+之醫療常規與醫療水準並列，混淆了法律概念的不同具體化階段
+外，而徒增概念解釋的複雜度外，也在具體化與類型化的細膩度
+上，存在進一步發展深化的空間。例如除了醫院層級因素與我國法
+院日益重視的醫護過勞問題，其他諸如政府管制法規（尤其是健保
+制度），或是醫療機構經營所存在的結構性、系統性錯誤（涉及病
+人安全條件），也都可能成為醫事人員執行醫療業務背後的隱形侷
+限，而存在被納為醫療資源判斷指標之詮釋空間。而最終，本項立
+法也必須保留法院在必要時納入新判斷指標之形成空間，以確保醫
+療糾紛法規之實務運作，能有效回應時代之演進與發展165。
+
+      （三）醫療水準與醫療糾紛訴訟之法政策目的
+      以圖8所示之階層式具體化架構為基礎，本文下表7針對醫療行
+為之民事損害賠償責任，提出以醫療水準為中介概念之建議條文。
+本文認為，相較於本次醫療法修正，上述建議條文建構了更為完整
+的階層式法律抽象概念具體化流程（參見下圖9示意），有助引導法
+院進行更有意義的跨領域互動和對話。尤其，建議條文以我國既有
+實務發展為基礎，嘗試針對醫療資源面向，提供較現行實務更為廣
+泛的具體判斷指標，而納入了健保與病人安全等面向，但同時間也
+試圖保留法院未來的形成空間。然而，建議條文也刻意迴避以下兩
+項我國實務尚未充分討論的議題，分別是：一、在證據方法上，醫
+
+
+165 這裡一個有趣的衍生問題是，病人安全在語意上是否符合一般人對醫療資源
+  限制的想像？此一提問涉及中介概念的形成與演變其實是一動態過程，常會
+  隨著外界（例如醫療）環境的變遷，而使得原本的概念解釋出現對外涵攝上
+  的困難（例如病人安全在語意上可以被理解為醫療資源嗎？）。這些詮釋上的
+  困境，一定程度便是本文「貳」所謂外界環境對於法律系統所帶來的擾動
+  （irritation）。而在某些情況，這些擾動也可能會進一步引發法律系統內部的概
+  念調整（例如在地慣習走向全國水準）。從此一角度思考，本文建議條文將病
+  人安全納入醫療資源限制之判斷指標，一定程度也可以被理解為作者希望擾
+  動法院，從目前聚焦於設備與人力的醫療資源思考方式，走向同時考量醫院
+  管理與病人安全等其他醫療條件的思維邏輯。
+論跨領域法律解釋適用之原則與挑戰                          337
+
+
+療資源各項判斷指標之具體判讀，究竟應透過鑑定或由當事人自行
+舉證；以及二、所謂最低限專業能力之注意義務門檻，是否也能持
+續向下具體化。如前所述，這兩項議題對醫療水準概念在我國的進
+一步發展，均扮演著十分重要的角色，但由於我國學說實務相關討
+論仍屬有限，為避免提出不成熟之見解，建議條文於是選擇予以迴
+避，而暫待我國學說與實務的未來發展。
+
+    表7 本文所提醫療法第82條民事部分建議條文
+建議條項      建議條文         階層式具體化階段
+第82條第1項   醫療業務之施行，應善盡醫 維持原文，重申「過失=行為
+          療上必要之注意。     違反注意義務」之上位原
+                       則。
+第82條第2項   醫事人員因執行業務致生損 重申醫療行為民事責任以故
+          害於病人，以故意或過失為 意過失為限。
+          限，負損害賠償責任。
+第82條第3項   前項過失，指醫事人員違反 將 「 過 失 」 向 下 具 體 化 至
+          依其相當知識與經驗應展現 「善良管理人注意義務（即
+          之醫療水準。       『依其相當知識與經驗』之用
+                       語）」，再向下具體化至「違
+                       反醫療水準」   。
+第82條第4項   前項醫療水準，指我國符合 將「醫療水準」向下具體化
+          資格之執業醫事人員，於類 至「最低限度專業能力」      。
+          似情境可被預期最低限度應
+          展現之專業能力。
+第82條第5項   前項專業能力之認定，應同 針對「醫療水準」之定義，
+          時審酌個案醫療資源限制對 除了以「專業能力」作為主
+          醫事人員醫療處置所生之影 要參照點，也同時加入「醫
+          響。           療資源」作為輔助參照點。
+第82條第6項   前項個案醫療資源限制，其 提出「醫療資源」作為輔助
+          例包括：一、不同層級醫療 參照點之具體判斷指標，其
+          機構規模、設備、人力、資 中第1、2項針對醫院層級與
+          源等執業條件之差異；二、 醫護過勞，第3、4項納入健
+          醫事人員行為當時之勞動條 保、系統因素之限制，第5項
+338                     《中研院法學期刊》第24期（2019年3月）
+
+
+           件；三、政府管制法規對醫 則保留法院與時俱進之司法
+           療 行 為 選 擇 產 生 之 限 制 ； 形成空間。
+           四、醫療機構經營是否存在
+           系統錯誤；五、其他法院認
+           定應審酌之相關因素。
+資料來源：作者製表。
+
+
+
+
+        圖9 本文建議條文之階層式具體化結構
+資料來源：作者製圖。
+
+
+      可預期的是，本文所提出之上述政策倡議，在我國很可能會進
+一步面臨以下的重要質疑，亦即：本文所發展之醫療水準概念與具
+體建議條文，是否確實能有效達成醫療糾紛訴訟─尤其是民事部
+分─之法政策目的？而相關質疑所謂的法政策目的，具體又常是
+從以下兩種角度來理解，分別是：一、從補償/嚇阻/預防區分之角
+度切入，探討醫療糾紛訴訟的制度目的，究竟是希望確保受害者得
+到 有 效 補 償 （ compensation ）， 還 是 類 似 行 為 能 被 有 效 嚇 阻
+論跨領域法律解釋適用之原則與挑戰                                                                      339
+
+
+（deterrence）或預防（prevention）166；以及二、從醫療品質與病人
+安全之角度切入，探討醫療糾紛訴訟是否、具體又如何能促成醫療
+品質與病人安全之提升167。
+
+      前述從法政策目的角度切入之質疑，其背後反映各界對於法律
+與政策彼此互動關係的兩種常見假定：其一是認為法律概念解釋的
+調整，常會─或甚至應該─伴有明確的法政策目的；其二則是
+認為法律概念解釋的調整，與其希望達成的法政策目的間，應可構
+成一種線性的因果關係，而可被客觀地（例如以量化方式）評價該
+目的是否被有效達成。若以這兩種假定為前提，本文所提出之醫療
+水準概念，一方面應在補償 / 嚇阻 / 預防 / 醫品病安等不同可能性
+中，明確選定其所具體追求的政策目的為何，另方面，此一政策目
+的之選定，最好也能反映在可被客觀評估（例如透過統計數字呈
+現）的政策實踐結果，才能被認為是真正具有跨領域效果的法律解
+釋適用。
+
+      本文認為，上述對法律與政策互動關係之常見假定，固然正確
+地注意到法律概念解釋往往具有政策上的意涵，因此當代法學的研
+究與分析，應積極納入政策之面向，但卻也因為忽略了法律作為溝
+通系統的以下重要特性，而未能有效掌握法律與政策之間互動關係
+的完整樣貌。
+
+
+166 See Michelle M. Mello & David M. Studdert, The Medical Malpractice System:
+    Structure and Performance, in MEDICAL MALPRACTICE AND THE U.S. HEALTH CARE
+    SYSTEM: NEW CENTURY, DIFFERENT ISSUES 11, 15-23 (William M. Sage & Robert
+    Kersh eds., 2006) (listing compensation, deterrence, corrective justice, and efficiency
+    as criteria for evaluating the performance of the medical liability system).
+167 See generally Joanna C. Schwartz, A Dose of Reality for Medical Malpractice
+    Reform, 88 N.Y.U. L. REV. 1224, 1239-43 (2013) (examining how hospitals
+    increasingly perceive medical malpractice litigation as positive tools for safety and
+    quality control); Chih-Ming Liang, Rethinking the Tort Liability System and Patient
+    Safety: From the Conventional Wisdom to Learning from Litigation, 12 IND. HEALTH
+    L. REV. 327 (2015) (reviewing the nascent literature on the phenomenon of learning
+    from litigation).
+340                              《中研院法學期刊》第24期（2019年3月）
+
+
+      質言之，如本文「貳」所述，法律作為溝通系統，其溝通內容
+必須直接或間接涉及合法性的二元判斷，不涉及此判斷之溝通內
+容，將會被系統理解為環境的一部份，而成為對法律系統來說隱形
+的存在。從此角度觀察，上述醫療糾紛領域法律概念的演變─例
+如從在地慣習走向全國水準─必然會伴有明確法政策目的的假定
+本身，其實並不完全符合法律系統的運作邏輯。相對地，補償、嚇
+阻或預防這些通常理解的醫療糾紛訴訟法政策目的，事實上往往只
+是法律系統的外在環境（例如政治或經濟系統）對法律系統應扮演
+之角色的詮釋，在性質上僅屬法律系統的環境，而極少真正影響法
+律系統對個案合法性之判斷。
+
+      相較於對這些外部政策目標的回應，法律系統內部對於概念解
+釋的調整，其動力主要還是來自法律系統內部在進行合法性判斷時
+所面臨的困境。例如法律體系可能自我觀察到在判斷個案合法性的
+過程中，其既有的前在溝通（參見本文「貳」之討論）已無法有效
+解釋或涵攝環境中的社會或自然事實168。像是美國醫療糾紛領域從
+在地慣習走向全國水準的變遷，一定程度便是法律系統觀察到原有
+的在地慣習，一方面已無法有效解釋或對應外在環境的演變，另方
+面也對訴訟程序找尋專家證人產生現實上的障礙，進而衍生調整的
+必要169。
+
+      上述以協助合法性判斷作為終極目標的法律概念調整，也因此
+不必然需要考量─甚至可能完全沒有意識到─其對於補償/嚇
+阻/預防/醫品病安等外在政策目標之影響。事實上，美國由於僅有
+極少數涉及重大傷殘或死亡結果的案件會進入法院，因此醫療糾紛
+訴訟長期被認為是極無效率的補償/嚇阻/預防制度170，此一政策上
+
+
+168 Luhmann稱之為法律的腐化（corruption of law） 。LUHMANN, supra note 26, at 385.
+169 請參見前揭（註51）之內容。
+170 例 如 1984 年 起 由 美 國 麻 醉 師 學 會 主 導 建 立 之 麻 醉 醫 學 結 案 檔 案 計 畫
+  （Anesthesia Closed Claims Project, ACCP）
+                                         ，由志願參與之醫師閱讀保險公司提
+論跨領域法律解釋適用之原則與挑戰                                                                      341
+
+
+的現實，既未因法院從在地慣習走向全國水準而有明顯變化，也極
+少真的是法院在判斷是否從慣習走向水準時，所考量與審酌的重
+點。
+
+      當然，在一些特定的情形，法律對外在環境所產生之政策影
+響，確實會透過立法目的，或是比例原則中手段是否有助目的達成
+之類的法概念媒介，而構成個案合法性判斷的重要環節，進而成為
+法院考量與審酌之內容。此類情形尤其常見在行政法院判決或憲法
+解釋，若從Luhmann的理論來分析，這正是因為行政法院所面對的
+各類管制法規，以及憲法解釋所面對的憲法規範，其在本質上都扮
+演著法律與政治兩大溝通系統之間的重要結構性配對171。圍繞著這
+些中間媒介所衍生之爭訟，自然也因此較容易將外在政策影響納入
+考量。相較之下，醫療糾紛訴訟作為民刑法議題，其對外所產生的
+政策影響就較少─當然也並非不可能─成為訴訟過程中法院進
+行合法性判斷時的重要議題。
+
+      必須強調的是，本文的上述分析，絕非主張醫療糾紛領域的法
+律概念解釋，完全不會產生、也因此不用特別考量外部的政策影
+響。相反地，本文上述分析之目的，是希望突顯法律與政策之間並
+非如一般所假定的，是一種線性的因果關係，而更應該被理解為間
+接、多樣、非線性的複雜互動。
+
+
+
+
+    供之醫療紛爭結案報告（closed claims）                  ，並將內容轉換為標準化資料供研究者
+    進一步研究分析。Anesthesia Closed Claims Project, Welcome to the Anesthesia
+    Closed Claims Project and Its Registries, ANESTHESIA PATIENT SAFTY FOUND.,
+    http://depts.washington.edu/asaccp/ (last visited Mar. 26, 2018). 此計畫所建立的資
+    料庫，便明顯存在偏向嚴重傷害或死亡結果，而未反映醫療傷害全貌的現
+    象 。 See Karen L. Posner, Closed Claims Project Shows Safety Evolution,
+    ANESTHESIA PATIENT SAFETY FOUND., http://www.apsf.org/newsletters/html/2001/
+    fall/02closedclaims.htm (last visited Mar. 26, 2018) (stating that “[t]he nature of the
+    U.S. legal system creates a bias toward severe injuries in claims data”).
+171 LUHMANN, supra note 26, at 403-12.
+342                                          《中研院法學期刊》第24期（2019年3月）
+
+
+       以醫療糾紛訴訟與補償此一政策目的的互動關係為例，如上所
+述，美國過失注意義務水準的法律實體定義調整，一方面固然是法
+律體系回應社會變遷的必然，但同時也並非影響病人是否受到適當
+補償的主要因素。相較之下，反而是以下兩股源自法律系統外部環
+境的發展，對於受害病家是否能獲得有效補償，往往起著更為直接
+的影響，這兩項發展分別是：一、美國各州政治部門常受到來自醫
+療體系的遊說，而對時效、專家證人資格或賠償上限施加限制，藉
+由增加當事人進入訴訟之成本，以限縮所能發揮的訴訟補償功能
+（俗稱侵權行為改革─Tort Reform）172；以及二、各州政治部門
+與醫療體系也常發展出訴訟外紛爭處理、保險或無過失救濟等相關
+制度，透過建立繞過訴訟制度的爭端處理與補償機制，拓展醫療傷
+害受害者的受補償範圍。
+
+       而若將焦點轉向醫療糾紛訴訟與病人安全作為政策目的的互動
+關係，此處存在的一個常見誤解，是認為過失注意義務水準之定
+義，應具體明確至醫事人員可事先預期行為是否構成過失之程度，
+才能透過提供事前的行為指引，有效發揮促進病人安全之功能。然
+而此一假定同樣未能完全掌握醫療糾紛與病人安全彼此互動關係的
+全貌，以美國醫療體系為例，醫療糾紛訴訟對於病人安全與醫療品
+質之價值，一直都不在於過失概念定義所提供的事前行為指引，而
+主要在於醫療機構藉助訴訟程序發現原本被遺漏的證據或資料，或
+是對訴訟結果進行事後的檢討分析，透過將訴訟理解為從錯誤中學
+習的反省教材，來事後達成提升醫療品質與病人安全的目的。而此
+種強調事後學習之功能，具體又反映在如已結案檔案分析（closed
+
+
+172 學者Eleanor Kinney將此類立法稱為醫療糾紛領域侵權行為改革的第一代改革
+      方案（first generation reforms），其目的在管控病患提告之頻率與金額。See
+      Eleanor D. Kinney, Malpractice Reform in the 1990s: Past Disappointments, Future
+      Success?, 20 J. HEALTH POL. POL’Y & L. 99, 101-02 (1995) (arguing that the first
+      generation reforms “ aim[ed] to change the behavior of litigants…by making it more
+      difficult for claimants to sue or try to control the frequency or severity of claims”).
+論跨領域法律解釋適用之原則與挑戰                                                             343
+
+
+claim analysis）或醫事機構內部糾紛處理流程改革之類的（法律系
+統）外部變遷，而超越了法律體系所能直接控制的範圍173。
+
+   法律與政策之間的複雜互動，進一步又反映在醫療水準與專家
+程序的互動關係。理論上，中介概念不論如何具體化，最終都需藉
+由專家程序，來將醫療場域的訊息轉譯為可供法院為合法性判斷的
+資訊型態。而若依循前述法律與政策之間存在線性因果關係的傳統
+假定，本文以醫療水準取代醫療常規之主張，理論上似乎也應該要
+能透過改變鑑定提問等方式，來改變醫法雙方在鑑定程序中的互
+動，進而達成提升鑑定甚至判決品質之政策目標。然而在現實上，
+此一線性因果機轉同樣往往並不明顯，相反地，起源於法律系統外
+部環境，由立法與行政機關針對專家程序─尤其是鑑定制度─
+之制度設計所做出的各類政策決定，對於專家程序中跨領域對話的
+方式與品質，往往同樣存在著更實質的影響。例如我國採機關鑑
+定、僅得由法院與檢察機關申請、鑑定人不出庭接受詰問、鑑定委
+員並僅就委託鑑定機關提問作答（俗稱不問不答）的現行鑑定制
+度，常被批評造成不具醫療專業的法官或檢察官，因為不知如何正
+確提問，使得鑑定意見無法有效回答法律爭點，甚至造成重複多次
+
+173 美國歷史上最著名的已結案檔案分析計畫是1984年起由美國麻醉師學會主導
+  建立之麻醉醫學結案檔案計畫。Anesthesia Closed Claims Project, supra note
+  169。而在醫事機構內部糾紛處理流程改革部份，最有名的案例則是俗稱密西
+  根模式的美國密西根大學附設醫院之改革經驗。See The Michigan Model:
+  Medical Malpractice and Patient Safety at UMHS, UNIVERSITY OF MICHIGAN
+  HEALTH SYSTEM , http://www.uofmhealth.org/michigan-model-medical-malpractice-
+  and-patient-safety-umhs (last visited Mar. 26, 2018). 密西根模式的核心在於同時
+  追求資訊公開、誠懇道歉、事故檢討、與快速補償，其經驗日後常被稱為溝
+  通解決模式（communication-and-resolution programs, CRPs）         。關於密西根模式
+  的 歷 史 、 成效 、 及 其 對溝 通 解 決模式 之 發 展的後 續 影 響， see generally
+  Michelle M. Mello et al., Communication-And-Resolution Programs: The
+  Challenges and Lessons Learned from Six Early Adopters, 33 HEALTH AFF. 20
+  (2014); Michelle M. Mello et al., Implementing Hospital-Based Communication-
+  And-Resolution Programs: Lessons Learned in New York City, 33 HEALTH AFF. 30
+  (2014); Allen Kachalia & Michelle M. Mello, New Directions in Medical Liability
+  Reform, 364 NEW ENG. J. MED. 1564, 1569 (2011).
+344                  《中研院法學期刊》第24期（2019年3月）
+
+
+鑑定之問題，而長期被一些學者認為是妨礙醫療糾紛場域醫法跨領
+域對話的重要障礙174。
+
+      若能理解前述法與政策之間的複雜互動，則本文以醫療水準取
+代醫療常規之主張，無疑絕非討論的終點，而僅是進一步分析的起
+點。一方面，法律體系內部應持續省思醫療水準概念如何持續具體
+化，並與其他過失構成要件（例如因果關係）之概念解釋相互配
+合，以符合法院認事用法之實務需求；但另方面，此一法概念的調
+整，無疑也需要其他領域的政策配套，才能真正發揮醫療糾紛訴訟
+被期待發揮之法政策功能。例如在強化補償以提早解決紛爭部分，
+包括訴訟外真相發現、訴訟外調解、醫療事故補償/救濟機制、醫
+療過失責任保險機制，便都是不可或缺之基礎建設。而若著眼於提
+升病人安全之目的，則醫療機構內部風險管理機制的改革，以及結
+案檔案分析制度的建置，或許才是刺激醫療體系從錯誤中學習的關
+鍵環節。最後，若希望有效活化專家程序中的醫法跨領域互動，則
+除了檢討現行鑑定制度是否有大幅翻修之必要外，醫療糾紛訴訟是
+否應善用鑑定以外的其他證據方法、是否應納入證據開示程序、或
+如何透過法學教育提升法院證據調查之能力，也都是具有高度討論
+價值的政策議題。
+
+      上述醫療糾紛處理所涉及、面向廣泛的政策配套，無疑超越法
+律體系─或任何單一專業─所能理解的範圍。此種單一專業在
+解決複雜議題時所面臨的侷限，其實毋寧說是現代社會複雜性之必
+然結果，也更為突顯跨領域對話互動之重要性，因為唯有透過不同
+專業與背景之人之合作與溝通，才能突破個別專業的思維限制，進
+而發展多面向的問題解決方案。而在此一多重領域圍繞醫療糾紛處
+
+
+174 我國鑑定制度的不問不答特徵，具體表現在衛生福利部醫療糾紛鑑定作業要
+      點第9條：「本部辦理醫療糾紛鑑定案件，不負責證據之調查或蒐集；悉以委
+      託鑑定機關提供之相關卷證資料為之。」之規定。對相關運作模式的進一步
+      批評，參見吳志正（註2）。
+論跨領域法律解釋適用之原則與挑戰                      345
+
+
+理進行跨領域互動的過程中，醫療水準這類法律實體概念調整的核
+心功能，主要並非在於達成具體的外部政策結果，而是在於提升個
+案的判決品質。而此處所謂之判決品質，除了法律人熟悉的概念體
+系邏輯一致性，更重要的，是法院對個案合法性的判斷內容，是否
+能在醫學上具有相當依據─具體表現在對醫事人員的說服力─
+進而讓法院判決能夠反過來對醫療系統的內部運作產生有意義的擾
+動（irritate）
+          ，而產生跨越系統邊界的實質影響。
+
+  在此意義上，本文所提出最低限度專業能力之門檻，確實隱含
+著希望透過法院對於醫療品質門檻的討論，有意識地擾動醫療體系
+對醫學教育或醫院管理進行反省，以達成提升醫療品質與病人安全
+之目的。然而此處必須再次強調的是，判決品質終究只是促成此種
+跨領域擾動的必要（necessary）
+                  、但絕非充分（sufficient）條件，法
+律體系受制其運作上的獨立性，並無法控制此種跨領域擾動的發展
+方向，很多時候，現實反而會朝向與法院意願相反的方向發展。但
+即便如此，透過法律概念之積極調整，一方面解決法院在判斷個案
+合法性時所面臨的問題（例如解決在地慣習造成美國法院找不到專
+家證人的困境），另方面積極創造讓此種跨領域擾動成為可能的潛
+在條件（例如透過提倡全國水準概念嘗試降低未與時俱進之醫療行
+為），仍然是在跨領域法律解釋適用的層次上，法律體系在現代社
+會必須追求、無可取代、具有規範性意義的重要功能。我們甚至可
+以主張，培養法律人做出具有跨領域對話功能的判決，將會是下一
+個世代的法學教育，無可迴避的重要任務。
+
+
+
+陸、結語與展望：本研究可能進一步衍生之法社
+  會學議題
+
+  本文從跨領域法律解釋適用的理論視角切入，以社會學理論作
+346              《中研院法學期刊》第24期（2019年3月）
+
+
+為研究方法，提出各國法院在面對醫療糾紛這類的高度專業案件
+時，常發展出以中介概念和專家程序為媒介的法律跨領域互動模
+型。而美國法上在地慣習與全國水準之辯證，背後便反映法院嘗試
+透過中介概念之調整，以回應醫療體系近年逐漸走向全國化及標準
+化之背景變遷。上述比較經驗，提供研究者面對最高法院106年度
+台上字第227號民事判決時，一個不同的思考方向，亦即將本案理解
+為法院嘗試對醫療常規作為我國傳統中介概念之適當性做出反省，
+而參考美國與日本經驗，嘗試發展醫療水準作為替代指標之努力。
+
+      筆者肯定我國法院以醫療水準取代醫療常規作為中介概念的上
+述努力，並於本文「伍」參考Gostin等人之醫療品質光譜理念，發
+展出「醫療水準＝最低限專業能力＋醫療資源」之概念定義，並進
+而針對民事領域，提出本文之醫療水準概念在我國進一步推廣時，
+難以迴避、必須面對的以下三點挑戰，分別是：一、如何釐清醫療
+資源在醫療水準概念中所扮演之角色；二、於2018年1月24日修正
+公布之我國醫療法第82條以臨床裁量概念取代醫療常規，是否侷限
+本文醫療水準概念的適用空間；以及最後三、以最低限專業能力加
+上醫療資源作為定義的醫療水準概念，具體又能夠達成什麼樣的法
+政策目的。
+
+      然而必須延伸說明的是，以醫療水準取代醫療常規，其實亦僅
+是我國法律體系嘗試調整其跨領域法律解釋適用模式之第一、甚至
+最簡單的一步。一方面，法律與醫療系統之間的跨領域互動，除了
+圍繞注意義務水準以外，也包含因果關係、賠償範圍、與舉證責任
+等議題。另方面，在完成中介概念的調整之後，法律體系進一步又
+需面對專家程序是否確實有助法院判讀中介概念的挑戰，而此一議
+題具體又表現在：一、專家程序之設計與執行；以及二、法院與法
+律體系應如何面對科學證據的證據法與科學教育議題。
+
+      除了需持續省思與發展上述的法律與政策面配套外，最終，本
+論跨領域法律解釋適用之原則與挑戰                     347
+
+
+文以醫療水準取代（日益被法院理解為慣習的）醫療常規之主張，
+進一步又會衍生以下兩項值得未來更深入研究的法社會學式提問，
+分別是175：一、相較於美國從慣習走向水準的發展相當程度反映醫
+療體系的整體背景變遷，我國法院實務對中介概念的發展軌跡—尤
+其是早期醫療常規概念的提出─其背後是否也反映了某些我國獨
+特的社會條件？以及二、更為本質性地，水準與慣習間又是否真的
+是完全截然二分的兩個概念，還是說兩者間其實存在一些模糊空間
+與互動關係？若答案為肯定，此一模糊空間對法院認事用法來說，
+又可能帶來什麼樣的影響？
+
+  上述第一項提問─探求我國實務中介概念發展背後的歷史社
+會脈絡─對於理解我國醫療糾紛法制如何發展至今日之現況，具
+有高度的學術參考價值，然而較可惜的是，我國學界一直以來均未
+從歷史或實證研究的視角，對此提問進行較深入的研究。例如，我
+國法律體系是否因為觀察到我國地狹人稠，故將我國醫療體系想像
+為一在訓練、資源、運作模式上具高度同質性的單一社群，進而發
+展出反映此同質性想像的醫療常規概念？還是其因為觀察到臨床指
+引或教科書（例如威廉氏產科學（WILLIAMS OBSTETRICS）教科書）
+對當代醫療行為之廣泛影響，故將醫療行為想像為具有明確的行為
+指引和規範，進而發展出醫療常規概念來加以形容？這些乍聽似乎
+均言之成理的推論，由於缺乏具體研究證據之支持，因此仍然只能
+停留在直觀推論層次，而無法成為可信、可作為進一步學術論述基
+礎的假說。
+
+  而誠實地說，本文由於同樣未從上述法社會學式的視角，對我
+國中介概念（尤其是醫療常規）之歷史與社會背景加以探討，因此
+不敢妄稱能對此一提問做出肯定的回答。然而本文可以肯定的是，
+
+
+175 以下討論之寫作靈感來自於匿名審查人與編輯委員會之修改建議，至感謝
+  忱。
+348                  《中研院法學期刊》第24期（2019年3月）
+
+
+醫療常規概念發展至今，不論是學說、初鑑手冊、或法院日後所發
+展的各種定義，在現況下均無法成為我國法院醫療糾紛跨領域認事
+用法的有效工具。而如本文「伍」所述，此一侷限非常可惜地在醫
+療法第82條（2018年1月24日版）之修法過程中並未能有效被加以
+修正，反而使得相關法律解釋適用走向更為複雜的方向。這些演
+變，似乎反映出我國法律體系相較於美日法院，其在觀察及透過概
+念解釋回應社會發展時的整體侷限。此一侷限，於是也再次突顯本
+文所提跨領域法律解釋適用之分析視角，對於當代我國法學學說和
+實務發展的重要時代價值。
+
+      另外關於上述第二項提問─水準與慣習之間是否可截然二分
+─理論上，水準與慣習的區分主要是為了協助法院理解醫療專業
+社群自身在面對「大家通常怎麼做（醫學上的實然）」和「醫學上
+應該怎麼做（醫學上的應然）」這兩個重要問題時，常常產生的判
+斷歧異。而對後者（醫學上應然）的判斷，邏輯上又可能從「醫學
+發展上的最前端」與「一般臨床上可期待的程度」兩種不同的角度
+來加以思考。例如美國從慣習走向水準的發展，主要涉及大家通常
+怎麼做和一般臨床上已可期待的程度之間的差異，而日本醫療水準
+的早期指標案件，則涉及醫學上剛出現（最前端）的眼科光凝固治
+療方法176，是否已達一般臨床上已可期待的程度，而可被認定為過
+失注意義務水準的判斷指標。
+
+      有趣的是，若放在醫學發展的動態歷程脈絡下，上述這些不同
+的法院切入點，或許可以進一步被理解為此一動態歷程的不同階
+段。最尖端的醫學發展，往往需要一段時日才能普及為臨床上可被
+期待的醫療實踐內容。而醫療專業在當下時空所認定臨床上可被期
+待的醫療實踐內容，也常常會在一段時日之後，便由於醫學的發
+展，而成為被習以為常的慣習，或甚至需要被改革的陋習。例如何
+
+
+176 本案之中文介紹，可參見陳聰富（註1）
+                     ，頁337-339。
+論跨領域法律解釋適用之原則與挑戰                          349
+
+
+種藥物使用方式可構成合理的仿單外使用，就並非一個在任何時空
+均維持一致的靜態議題，而是會隨著實證醫學的發展，而不斷變動
+其內涵177。
+
+  從此一動態歷程的角度來思考，水準與慣習其實又並非截然二
+分，而是一漸進式發展過程的不同階段，甚至在同一時空下，兩者
+間很可能會高度重疊，僅在例外情況才會產生慣習明顯偏離臨床上
+可被期待之醫療實踐內容的情狀。而這些偏離的例外情狀，又特別
+容易發生在醫學專業發展已達一定共識，但尚未能普及到所有（特
+別是較低或在地）醫療社群的尷尬時點，尤其容易具體表現在一國
+整體醫療社群內部因醫療層級或地理空間之差異，而衍生之技術水
+準或軟硬體資源之落差（例如我國初鑑手冊便強調醫療水準因醫院
+層級而異，而美國全國水準與在地慣習之分則在處理不同地域醫療
+社群之分歧）178。
+
+  若從學術研究的角度來思考，此一醫學動態歷程具體究竟如何
+發展？尤其醫學尖端知識、臨床醫療水準、與實務常見慣習三者之
+間會在何時、何種條件下產生跨範疇的性質變化（亦即從尖端知識
+普及為臨床水準，或從臨床水準轉換為慣習或甚至陋習）？均是學
+術上十分值得進一步探討的法社會學議題。而對於法院的實務運作
+來說，此種水準與慣習間的動態關係，也進一步會造成法院在使用
+水準概念（不論是美國的全國水準、日本的醫療水準、或是本文所
+倡議的醫療水準）時的嚴峻挑戰，亦即需要時刻擔心是否一不小心
+
+
+177 廖建瑜，論臺灣處方藥仿單外使用之管制，國立成功大學法律學系博士論
+  文，頁127-146（2012年）
+                  。
+178 事實上，從美國法院對在地慣習與全國水準之概念定義，也可以觀察出兩者
+  之間有著一定程度的重疊關係。如本文「參」之分析，不論在地慣習或全國
+  水準，性質上均屬傳統侵權行為法理性人原則之具體化，也因此，法院在定
+  義相關概念時，往往均會援用理性（reasonable）或合理小心（reasonably
+  careful）等理性人原則之傳統用字。全國水準部分參見前揭（註92、93）及相
+  應之本文，在地慣習部分參見前揭（註43）所援引的Hall v. Hilbun案判決之見
+  解。
+350                《中研院法學期刊》第24期（2019年3月）
+
+
+就以醫學上並未受到支持的（偽）醫療水準來挑戰合理的醫療慣
+習。例如本文所提到，由法院跳過專家程序，而依其自身判斷逕行
+設定醫療水準的美國Helling案或我國的多力維他案，就是此一風險
+的最典型案例。
+
+      然而即便認同水準與慣習之間的動態關係，及其對法院概念解
+釋所帶來的嚴峻挑戰，法院終究不可能因為任務的艱難，就放棄其
+為合理裁判的職責，保守地以慣習作為判案唯一依據，而不去判斷
+個案所涉及的慣習是否已成為偏離臨床可期待醫療實踐內容之例外
+狀態。例如本文主要分析的最高法院106年度台上字第227號民事判
+決，就涉及我國最頂尖的臺大醫院急診部門，因人力緊繃而疏於記
+錄留院觀察病人之生命徵象等相關紀錄。事實上，急診爆滿可說是
+我國高層級醫院之常見現象，假設此現象未來衍生多數醫院不詳實
+記載留觀病人相關記錄之慣習，此時法院是否可僅因其構成慣習，
+即不顧醫學專業上對相關記載之應然面需求呢？另外在我國喧騰一
+時的童綜合醫院顱內壓監測器案179，則涉及醫療機構因健保不給付
+之因素，而選擇未於頭部手術置入顱內壓監測器，進而導致後續病
+患腦壓回升時未能及時監測。先不論本案醫師是否構成過失的實體
+議題，假設實務上醫院因為健保因素，而形成醫學專業上不見得有
+足夠理由支撐的處置型態，此時法院真的可以僅以慣習作為唯一的
+注意義務判斷標準嗎？答案恐怕仍然是否定的。本文因此認為，即
+便認同水準與慣習之間的動態關係，此一概念區分即便對在地狹人
+稠的我國之法院來說，也仍有其不可避免的存在必要性，是法院面
+對現代醫療體系之發展，口袋裡必須擁有的重要概念工具。
+
+
+
+
+179 參見臺灣臺中地方法院97年度醫字第2號民事判決。
+論跨領域法律解釋適用之原則與挑戰                351
+
+
+
+
+          附件一 醫療專業之運作邏輯
+
+
+
+
+資料來源：國立臺灣大學醫學院麻醉科王明鉅教授上課講義（已獲作者同意使
+    用）。
+     352                                      《中研院法學期刊》第24期（2019年3月）
+
+
+
+                 附件二 實證醫學不同領域文獻之證據力分級
+ 證據力                                                        鑑別診斷、症狀             經濟分析、
+           治療、病因、預防              預後             診斷
+  等級                                                          盛行率研究               決策分析
+Level 1    RCT 的 系 統 性 回 世 代 研 究 的 系統性回顧Level 1文 前瞻世代研究之 系統性回顧Level 1
+           顧 ； 或 Confidence 系 統 性 回 獻；或以公認標準驗 系統性回顧；或 證據；或比較好壞
+           Interval窄的RCT       顧 ； 或 達 到 證的世代研究；或臨 追蹤完整之前瞻 方向的研究
+                               80% 比 例 的 床指引                世代研究
+                               世代研究；
+                               或經驗證的
+                               臨床指引
+Level 2    世代研究的系統性 回 溯 性 世 代 系統性回顧Level 2文 回溯世代研究之 系統性回顧 Level 2
+           回 ； 或 低 品 質 的 研 究 ； 或 追 獻；或僅在小族群驗 系統性回顧；或 文獻；或重要臨床
+           RCT 或 追 蹤 小 於 蹤 RCT 中 未 證的臨床指引                   追蹤不全之回溯 方法或成本的單一
+           80%；或預後研究 治 療 的 對 照                              世代研究；或生 研究；或預後研究
+                               組；或由小                        態（ecological ）
+                               族群推測或                        研究
+                               驗證的臨床
+                               指引；或預
+                               後研究
+Level 3    有對照組                         系統性回顧Level 3文 不連續或小族群 其他臨床方法或成
+          （controlled study）            獻；或不連續或缺乏 的世代研究                      本的研究，包括敏
+                                        公認標準驗證的研究                            感 度 （ sensitivity ）
+                                                                             分析
+Level 4    病例系列                病例系列     對照病例研究（case- 病例系列                    未分析敏感度
+                                        control study）
+Level 5    專家意見                專家意見     專家意見                專家意見             專家意見
+RCT：Randomized control test（隨機分派且有對照組的研究）
+世代研究： Cohort study
+臨床指引：此表原文用 CDR (clinical decision rules)，目前的通用語是 clinical practice guidelines (CPG)
+預後研究：Outcome study
+ 2005年根據牛津實證醫學中心（Oxford Center for EBM, May 2001）的列表摘譯
+（網址為http://www.cebm.net/levels_of_evidence.asp ; 原出於NHS R&D團隊Bob Philips and Chris Ball et al,
+since 1998）
+
+     資料來源：奇美醫療財團法人網頁，http://www.chimei.org.tw/main/cmh_department/
+                   59002/ebm/level.htm（最後瀏覽日期：2017年10月31日）。
+論跨領域法律解釋適用之原則與挑戰                353
+
+
+                參考文獻
+
+1. 中文部分
+
+甘添貴（2015），醫療常規與臨床裁量，第八屆「臺北醫法論壇：
+  實務判決與實證研究」學術研討會，臺北榮民總醫院主辦，
+  2015年5月23日。
+吳志正（2014），從鑑定意見談醫療過失責任之認定，臺北：元
+  照。
+吳俊穎、楊增暐、陳榮基（2015），醫療糾紛鑑定意見對法官心證
+  之影響，科技法學評論，12卷1期，頁97-138。
+吳振吉（2017），醫療行為之過失認定─簡評最高法院106年度台
+  上字第227號民事判決之「醫療常規」與「醫療水準」
+                          ，月旦醫
+  事法報告，10期，頁69-85。
+沈冠伶（2017），重大醫療瑕疵與因果關係之舉證責任─最高法
+  院106年度台上字第227號判決簡評，月旦醫事法報告，10期，
+  頁96-110。
+沈冠伶、莊錦秀（2012），民事醫療訴訟之證明法則與實務運作，
+  政大法學評論，127期，頁167-266。
+林工凱（2016），以「臨床裁量權」取代「醫療常規」─適用法
+  律於醫療案件的根本省思，銘傳大學法律學系在職專班碩士論
+  文。
+邱琦（2016）                  ，月旦醫
+        ，臺日民事醫療訴訟─實務比較研究（上）
+  事法報告，2期，頁185-204。
+─（2017），臺日民事醫療訴訟─實務比較研究（下）
+                         ，月旦
+  醫事法報告，3期，頁159-178。
+姚念慈（2017），最高法院106年度台上字第227號判決之四不一沒
+  有，月旦醫事法報告，10期，頁111-124。
+陳杰峰、陳可欣（2016），基於實證之臨床處置，醫療品質雜誌，
+354                                《中研院法學期刊》第24期（2019年3月）
+
+
+
+      10卷4期，頁25-31。
+陳聰富（2014）
+        ，醫療責任的形成與展開，臺北：臺大出版中心。
+楊秀儀（2014），論初步鑑定對醫療糾紛處理之意義，收於：陳聰
+      富編，醫療糾紛處理之新思維（一）
+                     ，頁79-98，臺北：元照。
+楊秀儀、黃鈺媖（2015），當法律遇見醫療：醫療糾紛立法論上的
+      兩個主張，司法新聲，115期，頁7-31。
+詹森林（2007），德國醫療過失舉證責任之研究，臺北大學法學論
+      叢，63期，頁47-80。
+廖建瑜（2017），醫療水準與醫療慣行之注意義務，月旦醫事法報
+      告，10期，頁86-95。
+─（2012），論臺灣處方藥仿單外使用之管制，國立成功大學
+      法律學系博士論文。
+劉邦揚（2011），我國地方法院刑事醫療糾紛判決的實證分析：
+      2000年至2010年，科技法學評論，8卷2期，頁257-294。
+
+2. 外文部分
+
+Bhandari, Mohit, Michael Zlowodzki, and Peter A. Cole. 2004. From
+      Eminence-based Practice to Evidence-based Practice: A Paradigm
+      Shift. Minnesota Medicine 87:51-54.
+Brennan, Troyen A., and Donald M. Berwick. 1996. New Rules:
+      Regulation, Markets, and the Quality of American Health Care. San
+      Francisco, LA: Jossey-Bass Publishers.
+Brennan, Troyen, Lucian L. Leape, Nan M. Laird, Liesi Hebert, A.
+      Russell Localio, Ann G. Lawthers, Joseph P. Newhouse, Paul C.
+      Weiler, and Howard H. Hiatt. 1991. Incidence of Adverse Events
+      and Negligence in Hospitalized Patients: Results of the Harvard
+      Medical Practice Study I. The New England Journal of Medicine
+      324:370-376.
+Dobbs, Dan B. 2000. The Law of Torts. St. Paul, MN: West Group.
+論跨領域法律解釋適用之原則與挑戰                                                   355
+
+
+Drapp, John C. III. 2002. The National Standard of Care in Medical
+    Malpractice Actions: Does Small Area Analysis Make It Another
+    Legal Fiction?. Quinnipiac Health Law Journal 6:95-131.
+Eddy, David M., Lauri E. Sanders, Judy F. Eddy. 1983. The Value of
+    Screening for Glaucoma with Tonometry. Survey of Ophthalmology
+    28:194-205.
+Erlanger, Howard, Bryant Garth, Jane Larson, Elizabeth Mertz, Victoria
+    Nourse, and David Wilkins. 2005. Foreword: Is It Time for a New
+    Legal Realism?. Wisconsin Law Review 2005:335-363.
+Furrow, Barry, Thomas L. Greaney, Sandra H. Johnson, Timothy S. Jost,
+    and Robert L. Schwartz, eds. 2008. Health Law: Cases, Materials
+    and Problems. Abridged 6th ed. St. Paul, MN: Thomson/West.
+─, eds. 2013. Health Law: Cases, Materials and Problems. 7th ed.
+    St. Paul, MN: Thomson/West.
+Gostin, Lawrence O., and Peter D. Jacobson. 2006. Law and the Health
+    System. New York, NY: Foundation Press.
+Gostin, Lawrence O., Peter D. Jacobson, David M. Studdert, and David
+    A. Hyman. 2014. Law and the Health System. St. Paul, MN:
+    Foundation Press.
+Hyman, Carey. 2010. Setting the “Bar” in North Carolina Medical
+    Malpractice Litigation: Working with the Standard of Care that
+    Everyone Loves to Hate. North Carolina Law Review 89:234-273.
+Institute of Medicine. 2011. Clinical Practice Guidelines We Can Trust.
+    Washington, D.C.: National Academy Press.
+James, John T. 2013. A New, Evidence-based Estimate of Patient Harms
+    Associated with Hospital Care. Journal of Patient Safety 9:122-128.
+Kachalia, Allen, and Michelle M. Mello. 2011. New Directions in
+    Medical Liability Reform. The New England Journal of Medicine
+    364:1564-1572.
+356                                《中研院法學期刊》第24期（2019年3月）
+
+
+
+Kinney, Eleanor D. 1995. Malpractice Reform in the 1990s: Past
+      Disappointments, Future Success?. Journal of Health Politics,
+      Policy and Law 20:99-135.
+Leape, Lucian L., Ann G. Lawthers, Troyen A. Brennan, and William G.
+      Johnson. 1993. Preventing Medical Injury. Quality Review Bulletin
+      19:144-149.
+Leape, Lucian L., Troyen A. Brennan, Nan M. Laird, Ann G. Lawthers,
+      A. Russell Localio, Benjamin A. Barnes, Liesi Hebert, Joseph P.
+      Newhouse, Paul C. Weiler, and Howard H. Hiatt. 1991. The Nature
+      of Adverse Events in Hospitalized Patients: Results of the Harvard
+      Medical Practice Study II. The New England Journal of Medicine
+      324:377-384.
+Lewis, Michelle H., John K. Gohagan, and Daniel J. Merenstein. 2007.
+      The Locality Rule and the Physician’ s Dilemma: Local Medical
+      Practices vs the National Standard of Care. JAMA 297:2633-2637.
+Liang, Chih-Ming. 2013. Boundary Doctrine as a Research Approach for
+      New Governance: The Healthcare Quality Movement and Its
+      Implication on Malpractice Liability as a Case Study. Unpublished
+      S.J.D. thesis. University of Wisconsin-Madison (on file with the
+      University of Wisconsin-Madison Law Library).
+─. 2015. Rethinking the Tort Liability System and Patient Safety:
+      From the Conventional Wisdom to Learning from Litigation.
+      Indiana Health Law Review 12:327-381.
+Localio, A. Russell, Ann G. Lawthers, Troyen A. Brennan, Nan M. Laird,
+      Liesi Hebert, Lynn M. Peterson, Joseph P. Newhouse, Paul C.
+      Weiler, and Howard H. Hiatt. 1991. Relation between Malpractice
+      Claims and Adverse Events Due to Negligence — Results of the
+      Harvard Medical Practice Study III. The New England Journal of
+      Medicine 325:245-251.
+論跨領域法律解釋適用之原則與挑戰                                                    357
+
+
+Luhmann, Niklas. 2008. Law as a Social System, edited by Fatima
+    Kastner, Richard Nobles, David Schiff, and Rosamund Ziegert,
+    translated by Klaus A. Ziegert. New York, NY: Oxford University
+    Press.
+Macaulay, Stewart. 1963. Non-Contractual Relations and Business: A
+    Preliminary Study. American Sociological Review 28:55-67.
+Markary, Martin A. 2016. Medical Error—The Third leading Cause of
+    Death in the US. British Medical Journal, 353:1-5. Available at
+    http://www.mj.com/content/bmj/353/bmj.i2139.full.pdf.
+McGlynn, Elizabeth A., Steven M. Asch, John Adams, Joan Keesey,
+    Jennifer Hicks, Alison DeCristofaro, and Eve A. Kerr. 2003. The
+    Quality of Health Care Delivered to Adults in the United States.
+    The New England Journal of Medicine 348: 2635-2645.
+Mello, Michelle M. 2001. Of Swords and Shields, The Role of Clinical
+    Practice Guidelines in Medical Malpractice Litigation. University of
+    Pennsylvania Law Review 149:645-710.
+Mello, Michelle M., and David M. Studdert. 2006. The Medical
+    Malpractice System: Structure and Performance. Pp. 11-29 in
+    Medical Malpractice and the U.S. Health Care System: New
+    Century, Different Issues, edited by William M. Sage and Robert
+    Kersh. Cambridge: Cambridge University Press.
+Mello, Michelle M., Richard C. Boothman, Timothy McDonald, Jeffrey
+    Driver, Alan Lembitz, Darren Bouwmeester, Benjamin Dunlap, and
+    Thomas Gallagher. 2014. Communication-And-Resolution Programs:
+    The Challenges and Lessons Learned from Six Early Adopters.
+    Health Affairs 33:20-29.
+Mello, Michelle M., Susan Senecal, Yelena Kuznetsov, and Janet S.
+    Cohn. 2014. Implementing Hospital-Based Communication-And-
+    Resolution Programs: Lessons Learned in New York City. Health
+358                                《中研院法學期刊》第24期（2019年3月）
+
+
+
+      Affairs 33:30-38.
+Mertz, Elizabeth, William K. Ford, and Gregory Matoesian, eds. 2016.
+      Translating the Social World for Law: Linguistic Tools for a New
+      Legal Realism. New York, NY: Oxford University Press.
+Moffett, Peter, and Gregory Moore. 2011. The Standard of Care: Legal
+      History and Definitions: The Bad and Good News. Western Journal
+      of Emergency Medicine 12:109-112.
+Peters, Philip G. Jr. 2000. The Quiet Demise of Deference to Custom:
+      Malpractice Law at the Millennium. Washington and Lee Law
+      Review 57:163-205.
+─. 2002. The Role of the Jury in Modern Malpractice Law. Iowa
+      Law Review 87:909-969.
+Rosoff, Arnold J. 2001. Evidence-Based Medicine and the Law: The
+      Courts Confront Clinical Practice Guidelines. Journal of Health
+      Politics, Policy and Law 26:327-368.
+Sackett, David L., William M. C. Rosenberg, J. A. Muir Gray, R. Brian
+      Haynes, and W. Scott Richardson. 1996. Evidence-Based Medicine:
+      What It Is and What It Isn’t. British Medical Journal 312:71-72.
+Schwartz, Joanna C. 2013. A Dose of Reality for Medical Malpractice
+      Reform, N.Y.U. Law Review 88:1224-1307.
+Star, Susan Leigh. 2010. This Is Not a Boundary Object: Reflections on
+      the Origin of a Concept. Science, Technology, & Human Values
+      35:601-617.
+Star, Susan Leigh, and James R. Griesemer. 1989. Institutional Ecology,
+      'Translations’ and Boundary Objects: Amateurs and Professionals in
+      Berkeley’s Museum of Vertebrate Zoology, 1907-39. Social Studies
+      of Science 19:387-420.
+Suchman, Mark C., and Elizabeth Mertz. 2010. Toward a New Legal
+      Empiricism: Empirical Legal Studies and New Legal Realism.
+論跨領域法律解釋適用之原則與挑戰                                                  359
+
+
+    Annual Review of Law and Social Science 6:555-579.
+Thomas, Eric J., David M. Studdert, Helen R. Burstin, E. John Orav,
+    Timothy Zeena, Elliott J. Williams, K. Mason Howard, Paul C.
+    Weiler, and Troyen A. Brennan. 2000. Incidence and Types of
+    Adverse Events and Negligent Care in Utah and Colorado. Medical
+    Care 38:261-271.
+Wennberg, John E., and Alan Gittelsohn. 1973. Small Area Variations in
+    Healthcare Delivery: A Population-based Health Information
+    System Can Guide Planning and Regulatory Decision-making.
+    Science 182:1102-1108.
+Wennberg, John E., and Philip G. Peters, Jr. 2002. Unwarranted
+    Variations in the Quality of Health Care: Can the Law Help
+    Medicine Provide a Remedy/Remedies?. Wake Forest Law Review
+    37:925-942.
+360                                   《中研院法學期刊》第24期（2019年3月）
+
+
+
+
+        Theorizing Interdisciplinary Legal
+        Interpretation and Application with
+              Sociological Theories:
+Debates between Local Customs and National Standard
+  in the U.S. and between the Medical Norm and the
+       Medical Standard in Taiwan as Examples
+
+
+                            Chih-Ming Liang＊
+
+                                  Abstract
+      By applying the sociological theories of Susan L. Star and Niklas
+Luhmann to the subject of interdisciplinary legal application and
+reasoning in the field of medical malpractice dispute resolution, this
+paper proposes a theoretical framework for such application and
+reasoning that includes the mediating concept, reference point, and
+expert process as critical elements. From this framework, the evolution
+from local customs toward the national standard in the field of medical
+malpractice in the U.S. reflects the judicial effort, by switching or
+modifying the mediating concepts, to respond to the underlying
+systematic changes in the healthcare industry. The U.S. experience
+inspired the author to interpret the Supreme Court Civil Judgment 106
+Tai Shang Zi No. 227 (2017), in which the court distinguished and
+prioritized the medical standard from the traditionally dominant concept
+of the medical norm, as a judicial effort to overcome the limitation of the
+latter as a mediating concept. The author agrees with the overall
+
+
+＊ Assistant Professor, Graduate Institute of Health and Biotechnology Law, Taipei
+  Medical University.
+論跨領域法律解釋適用之原則與挑戰                                                     361
+
+
+direction of the court’s effort, but argues that the current judicial
+interpretation of the medical standard centering upon resources available
+to physicians might lead to the risk of information overload. Therefore,
+the paper, drawing upon the concept of health quality continuum
+developed by Lawrence O. Gostin, defines the medical standard as
+including two aspects simultaneously: a minimum required professional
+capability and resources available to physicians. The paper concludes by
+examining potential challenges and obstacles to this conceptualization,
+in particular in the context of civil liability for medical malpractice.
+
+KEYWORDS: boundary objects, structural coupling, medical norm,
+          medical custom, medical standard, reasonable physician,
+          Civil Judgment 106 Tai Shang Zi No. 227 (2017) of the
+          Supreme Court, Helling v. Carey, Hall v. Hilbun, Medical
+          Care Act Art. 82.
+

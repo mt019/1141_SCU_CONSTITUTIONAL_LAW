@@ -1,0 +1,692 @@
+      The Seminal Contributions of
+      the Institutum Iurisprudentiae
+     Academia Sinica to the Study of
+            Judicial Behavior
+                                                                   *
+
+
+
+
+                                    Lee Epstein**
+
+
+
+
+                                        Contents
+
+    1. Theoretical Contributions                  1.3 “Thinking-Fast” Judging
+       1.1 The Attitudinal Model               2. Substantive Contributions
+       1.2 Strategic Accounts                  3. Methodological Contributions
+
+
+
+      The analysis of judicial behavior is thriving. Once the sole province of US
+scholars — and mostly political scientists at that — researchers throughout the
+world are drawing on economics, history, law, psychology, and sociology to
+analyze how and why judges make the choices they do. This is welcome news
+because studies of judicial behavior are valuable in more ways than one. Not
+only do they add to the store of knowledge on law and legal institutions; they
+also provide guidance to policymakers about the possible effects of
+institutional change on judges and their decisions, educate the public about
+
+*
+   Written to commemorate the 10th anniversary of the founding of Institutum Iurisprudentiae
+   Academia Sinica.
+**
+   Ethan A.H. Shepley Distinguished University Professor, Washington University in St.
+   Louis.
+Online: http://publication.iias.sinica.edu.tw/71518012.pdf;
+        http://publication.iias.sinica.edu.tw/71418012.pdf (Chinese version).
+    研之得法：中央研究院法律學研究所成立十週年文集
+126 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+how their courts work, help practicing lawyers develop winning strategies, and
+even prompt judges to rethink their choices in light of unearthed biases.1
+      The global growth in the study of judicial behavior traces, in no small
+part, to researchers at the Institutum Iurisprudentiae Academia Sinica (IIAS).
+By moving Taiwanese courts and judges to the fore, IIAS scholars have put to
+the test ideas that had been assessed (mostly) in the USA and a handful of
+other common law countries. Even more consequentially, IIAS research on
+Taiwan has generated new insights that have proved illuminating for studies
+on judging throughout the world.
+      The upshot is that when it comes to the analysis of judicial behavior, the
+IIAS has more than lived up to its founding goals of “breaking new ground
+with the spirit of creativity” and “yielding first-rate, internationally
+recognized scholarship”;2 it has surpassed them.
+      No one essay could do justice to the many contributions of IIAS
+scholars. For this reason, I limit my commentary to but a few of the
+theoretical, substantive, and methodological breakthroughs that relate directly
+to the study of judicial behavior.3
+
+1. Theoretical Contributions
+      Guiding work on judicial behavior is a range of theories, reflecting
+different disciplinary traditions, as Table 1 shows.
+
+
+
+
+1
+    See generally RICHARD A. POSNER, HOW JUDGES THINK (2008); LEE EPSTEIN ET AL., THE
+    BEHAVIOR OF FEDERAL JUDGES: A THEORETICAL AND EMPIRICAL STUDY OF RATIONAL
+    CHOICE (2013); Andrew J. Wistrich et al., Heart Versus Head: Do Judges Follow the Law
+    or Follow Their Feelings, 93 TEX. L. REV. 855 (2015) (all listing the benefits of studying
+    judicial behavior).
+2
+    INSTITUTUM IURISPRUDENTIAE ACADEMIA SINICA, https://www.iias.sinica.edu.tw/en/intro
+    duction (last visited Jun. 15, 2021).
+3
+    For the sake of inclusiveness, I also discuss relevant works by scholars from other institutes
+    of Academia Sinica.
+                      The Seminal Contributions of the Institutum Iurisprudentiae
+                              Academia Sinica to the Study of Judicial Behavior 127
+
+
+            Approach
+     (Disciplinary Origin(s))                              Description
+Attitudinal Model                     Judges’ votes reflect their ideological attitudes
+(Political Science, Psychology)       toward case facts4
+Legalism (strong version)             Judges “find” the meaning of legal rules through
+(Law)                                 politically neutral methods5
+“Thinking-Fast” Judging
+                                      Judges rely on heuristics, intuitions, and the like
+(Psychology, Behavioral
+                                      to make fast decisions without much effort6
+Economics)
+Identity Accounts                     Judges’ biographies, personal characteristics,
+(Psychology, Sociology)               and identities affect their choices7
+                                      Judges are motivated and constrained by
+Labor Market Model                    (mostly) non-pecuniary costs (e.g., effort,
+(Economics)                           criticism) and benefits (e.g., esteem, influence,
+                                      self-expression)8
+                                      Judges are strategic actors who realize that their
+                                      ability to achieve their goals depends on the
+Strategic Accounts
+                                      preferences of other actors, the choices they
+(Economics, Political Science)
+                                      expect others to make, and the institutional
+                                      context in which they interact9
+          TABLE 1. Six Approaches to the Study of Judicial Behavior10
+Source: See supra note 10.
+
+
+4
+    Best articulated in JEFFREY A. SEGAL & HAROLD J. SPAETH, THE SUPREME COURT AND
+    THE ATTITUDINAL MODEL REVISITED (2002), especially Chapters 3 and 8.
+5
+   Under a weaker version of legalism, “law” (broadly defined) constrains judges from acting
+   on their personal preferences, intuitions, biases, and emotions.
+6
+   See generally DANIEL KAHNEMAN, THINKING, FAST AND SLOW (2011); RICHARD H. THALER,
+   MISBEHAVING: THE MAKING OF BEHAVIORAL ECONOMICS (2015).
+7
+   Examples include national identity (e.g., Eric A. Posner & Miguel F. P. de Figueiredo, Is
+   the International Court of Justice Biased?, 34 J. LEGAL STUD. 599 (2005)); race (e.g., Adam
+   Cox & Thomas J. Miles, Judging the Voting Rights Act, 108 COLUM L. REV. 1 (2008)),
+   gender (e.g., Christina L. Boyd et al., Untangling the Causal Effects of Sex on Judging, 54
+   AM. J. POL. SCI. 389 (2010)); and religion (Moses Shayo & Asaf Zussman, Judicial Ingroup
+   Bias in the Shadow of Terrorism, 126 Q. J. ECON. 1447 (2011)).
+8
+   See, e.g., BENJAMIN ALARIE & ANDREW J. GREEN, COMMITMENT AND COOPERATION ON HIGH
+   COURTS: A CROSS-COUNTRY EXAMINATION OF INSTITUTIONAL CONSTRAINTS ON JUDGES
+   (2017); Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing
+   Everybody Else Does), 3 SUP. CT. ECON. REV. 1 (1993).
+9
+   See LEE EPSTEIN & JACK KNIGHT, THE CHOICES JUSTICES MAKE (1998).
+10
+   See Adopted from LEE EPSTEIN & KEREN WEINSHALL, THE STRATEGIC ANALYSIS OF
+   JUDICIAL BEHAVIOR: A COMPARATIVE PERSPECTIVE (2021).
+    研之得法：中央研究院法律學研究所成立十週年文集
+128 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+      IIAS scholars have made important contributions to each. Suffice it here
+to highlight studies pertaining to three: the attitudinal model, thinking-fast
+judging, and strategic accounts.11
+
+1.1 The Attitudinal Model
+      Under the “attitudinal model,” judges’ votes reflect their political
+preferences toward the facts raised in cases — with political preferences
+usually defined by the judges’ ideology or partisan identity. 12 Although
+various versions of this model have been around in the USA for nearly a
+century, the model continues to hold sway because political preferences, no
+matter how measured, remain drivers of judicial decisions — and not just in
+US courts. In virtually all studies that measure it, partisanship or ideology
+affects judging on apex courts, whether in Chile,13 Norway,14 France,15 and
+Spain,16 among many others.17
+      I emphasize “virtually all” because several early studies suggested that
+
+
+11
+   For work relating to identity judging, see Yun-chien Chang & Geoffrey Miller, Do Judges
+   Matter?, J. INST. & THEORETICAL ECON. (forthcoming). (finding that, among U.S. state
+   justices, social identities (e.g., race, gender) have little effect on whether justices dissent and
+   which kinds of authorities they reference, among other decisions). For work related to
+   legalism, see Yun-chien Chang et al., Non-Pecuniary Damages for Defamation, Personal
+   Injury, and Wrongful Death: An Empirical Analysis of Court Cases in Taiwan, 4 CHINESE J.
+   COMP. L. 69 (2016) (showing that in Taiwanese courts “in concordance with the Supreme
+   Court precedents, plaintiffs’ and defendants’ annual incomes are highly relevant to court-
+   adjudicated pain and suffering damages for defamation”).
+12
+   See SEGAL & SPAETH, supra note 4.
+13
+   See Lydia B. Tiede, The Political Determinants of Judicial Dissent: Evidence from the
+   Chilean Constitutional Tribunal, 8 EUR. POL. SCI. REV. 377 (2016).
+14
+   See GUNNAR GRENDSTAD ET AL., POLICY MAKING IN AN INDEPENDENT JUDICIARY: THE
+   NORWEGIAN SUPREME COURT (2015).
+15
+   See Christoph Hönnige, The Electoral Connection: How the Pivotal Judge Affects
+   Oppositional Success at European Constitutional Courts, 32 W. EUR. POL. 963 (2009).
+16
+   See Chris Hanretty, Dissent in Iberia: The Ideal Points of Justices on the Spanish and
+   Portuguese Constitutional Tribunals, 51 EUR. J. POL. RES. 671 (2012).
+17
+   For a review, see Lee Epstein et al., The Role of Comparative Law in the Analysis of
+   Judicial Behavior, AM. J. COMP. L. (forthcoming).
+                      The Seminal Contributions of the Institutum Iurisprudentiae
+                              Academia Sinica to the Study of Judicial Behavior 129
+
+
+Taiwan Constitutional Court (TCC) justices were the exception to this general
+finding; that they were not ideological or political in their decision making.18
+IIAS researchers, Su, Ho, and Lin, however, conclusively demonstrate that this
+initial finding was illusory. 19 Deploying a clever research strategy, which
+focused on the justices’ opinion alignments in constitutional cases, the
+researchers unearthed clear evidence of ideological voting. As they succinctly
+summarize their findings: “All judges are political, and the TCC Justices are no
+exceptions.”
+     This is a very important study because it both builds on and adds to the
+existing literature. Su and his colleagues considered not only the justices’
+ideology — as suggested by the attitudinal model — but also the justices’
+philosophy: whether or not they were restraintists, generally deferring to the
+political branches. So defined, restraintism turned out to be a consequential
+factor in certain kinds of TCC cases. I suspect the same holds in the US
+Supreme Court, but that is an empirical matter worthy of assessment using the
+approach proposed by the IIAS team.
+     The Taiwan Constitutional Court study is hardly the only one that
+researchers at Academia Sinica have conducted on the role of politics in
+judicial decisions.20 Especially noteworthy is Wu’s research in an area where
+political factors might expect to play a role — in vote-buying litigation (cases
+in which someone has been accused of exchanging money or gifts for votes).21
+
+
+18
+   See Nuno Garoupa et al., Explaining Constitutional Review in New Democracies: The Case
+   of Taiwan, 20 PAC. RIM L. & POL. J. 1 (2011); Lucia Dalla Pellegrina et al., Judicial Ideal
+   Points in New Democracies: The Case of Taiwan, 7 NATIONAL TAIWAN U. L. REV. 123
+   (2012).
+19
+   Yen-Tu Su et al., Are Taiwan Constitutional Court Justices Political? (2020) (Working
+   paper) (on file with the authors).
+20
+   See, e.g., Chang & Miller, supra note 11, at 14 (finding that “that greater ideological spread
+   between judges on a panel generates more dissents, which in turn generate longer opinions
+   with more citations”).
+21
+   See Chung-Li Wu, Charge Me If You Can: Assessing Political Biases in Vote-buying
+   Verdicts in Democratic Taiwan (2000-2010), 2012 CHINA Q. 786 (2012).
+    研之得法：中央研究院法律學研究所成立十週年文集
+130 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+Focusing on Taiwanese district courts, high courts, and the Supreme Court, Wu
+found that political considerations, such as the partisanship of the defendant
+and whether the candidate was elected, play less of a role than expected in the
+disputes’ outcomes.
+     Whether Wu’s findings transport to other societies is an interesting
+question that Wu himself commends to other researchers. I concur with his
+recommendation.
+
+1.2 Strategic Accounts
+     As Table 1 suggests, strategic accounts of judging contain three essential
+components: (1) judges’ actions are directed toward the attainment of goals; (2)
+judges are strategic or interdependent decision makers, meaning they realize
+that to achieve their goals, they must consider the preferences and likely
+actions of other relevant actors; and (3) institutions (formal and informal rules)
+structure the judges’ interactions with these other actors.
+     Some studies investigating strategic behavior center on the judges’
+relations with their colleagues and judicial superiors.22 Nonetheless the bulk
+of modern-day strategic work worldwide, I daresay, has focused on relations
+between courts and external actors. This focus may reflect concerns among
+judges, lawyers, and scholars alike about threats posed by governments to
+courts in many societies.23 These days, politicians have not been reluctant to
+take to social media to deride court decisions or even threaten particular
+judges. 24 The rise of populism also has led to backlashes against both
+international and domestic courts.25
+     External strategic accounts speak to these concerns. They suggest that
+
+22
+   For a review of this literature, see EPSTEIN & WEINSHALL, supra note 10.
+23
+   See Bojan Bugaric & Tom Ginsburg, The Assault on Postcommunist Courts, 27 J.
+   DEMOCRACY 69 (2016); Erik Voeten, Populism and Backlashes Against International
+   Courts, 18 PERSP. ON POL. 407 (2020).
+24
+   E.g., Chris Krewson et al., Twitter and the Supreme Court: An Examination of
+   Congressional Tweets about the Supreme Court, 39 JUST. SYS. J. 322 (2018).
+25
+   See Voeten, supra note 23.
+                       The Seminal Contributions of the Institutum Iurisprudentiae
+                               Academia Sinica to the Study of Judicial Behavior 131
+
+
+judges must render efficacious rulings (those that members of their society will
+respect and with which they will comply) if they are to achieve their goals,
+whatever those goals may be. The accounts further identify various methods
+available to judges to maximize the efficacy of their decisions26 — including
+strategically timing them. The basic idea is that judges can adjust when they
+issue decisions with an eye toward to staving off attacks and controversy, as
+well as building their institution’s legitimacy.27
+       Although this idea seems plausible, large-scale empirical evidence in its
+support is quite limited.28 For this reason, a study by IIAS scholars Su and Ho
+on the timing of decisions in the Taiwan Constitutional Court (TCC) is a very
+welcome addition.29 Using a sophisticated statistical strategy, Su and Ho show
+that the TCC tends to give priority to governmental petitions and to high-
+profile cases — findings that refute the assumption that the “TCC usually
+organizes its plenary docket on a first-come, first-serve.”
+       Su and Ho conclude their study with these words:
+     We suspect that strategic decision timing is not unique to the TCC; every
+     Constitutional Court that has a rolling docket may just have to accept the
+     fact that all cases are not created equal, and prioritize its plenary docket
+
+26
+   For a review, see Lee Epstein & Jack Knight, Efficacious Judging on Apex Courts, in
+   COMPARATIVE JUDICIAL REVIEW 272 (Erin F. Delaney & Rosalind Dixon eds., 2018).
+27
+   See David Fontana, Docket Control and the Success of Constitutional Courts, in
+   COMPARATIVE CONSTITUTIONAL LAW 624 (Tom Ginsburg & Rosalind Dixon eds., 2011);
+   Erin F. Delaney, Analyzing Avoidance: Judicial Strategy in Comparative Perspective, 66
+   DUKE L.J. 1 (2016).
+28
+   For exceptions, see Diego Werneck Arguelhes & Ivar A. Hartmann, Timing Control
+   Without Docket Control: How Individual Justices Shape the Brazilian Supreme Court’s
+   Agenda, 5 J.L. & CTS. 105 (2017) (establishing that Brazilian Supreme Court justices delay
+   hearing a case or announcing a decision until the justices believe there is a more favorable
+   political climate or a court more inclined to rule their way); and Lee Epstein et al., The Best
+   for Last: The Timing of U.S. Supreme Court Decisions, 64 DUKE L.J. 991 (2015) (showing
+   that the US Supreme Court issues its most important, controversial, and divisive decisions at
+   the end of its term for “public-relations reasons”).
+29
+   Yen-Tu Su & Han-Wei Ho, Judging, Sooner or Later: A Study of Decision Timing in
+   Taiwan’s Constitutional Court (2014) (Working paper) (on file with the authors).
+    研之得法：中央研究院法律學研究所成立十週年文集
+132 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+     on the basis of case importance — if it wants to do the right thing at the
+     right time.
+       Again, I agree; and again I trust that other scholars will build on Su and
+Ho’s excellent work.
+
+1.3 “Thinking-Fast” Judging
+       Strategic accounts assume that the judge “is a rational maximizer of his
+ends in life, his satisfactions…his ‘self-interest’.” 30 This is a reasonable
+assumption, or at least one that gets us pretty far in understanding the choices
+judges make. But it will not get us all the way there. It is just too late in the
+day to question the “thinking-fast” approach to judging (see Table 1), which
+amounts to decades’ worth of studies showing that in many situations, people
+rely heavily on heuristics, intuitions, and the like to make fast decisions
+without much effort. 31 These responses are not invariably wrong or even
+unhelpful. 32 But in many circumstances fast thinking, unchecked by
+deliberative assessments, can lead to mistakes and biased decisions, 33
+enticing people “away from making optimal decisions in terms of utility
+maximization.”34
+       Although judges seem to believe that they are the exceptions to the rule —
+that they can “suppress or convert” their biases, prejudices, and sympathies,
+and the like into rational decisions35 — experiments conducted on thousands
+of judges demonstrate otherwise. What the experiments show is that judges
+respond more favorably to litigants they like or with whom they sympathize,36
+
+
+
+30
+   RICHARD A. POSNER, ECONOMIC ANALYSIS OF LAW 3 (8th ed. 2011).
+31
+   See KAHNEMAN, supra note 6; THALER, supra note 6.
+32
+   See Wistrich et al., supra note 1.
+33
+   See KAHNEMAN, supra note 6; THALER, supra note 6.
+34
+   T.K. Das & Bing-Sheng Teng, Cognitive Biases and Strategic Decision Processes: An
+   Integrative Perspective, 36 J. MGMT. STUD. 757 (1999).
+35
+   See Wistrich et al., supra note 1.
+36
+   See Wistrich et al., supra note 1.
+                      The Seminal Contributions of the Institutum Iurisprudentiae
+                              Academia Sinica to the Study of Judicial Behavior 133
+
+
+fall prey to hindsight bias when assessing probable cause,37 “find” evidence to
+confirm their beliefs,38 and favor insiders and disfavor outgroups.39
+     Most scholars take the experimental evidence quite seriously, but
+members of the legal community (especially judges) do not; they complain
+that the experiments are artificial and so do not capture the real courtroom
+environment. This critique counsels for observational studies — that is,
+studies making use of data generated by judges in their workaday world, not
+by researchers in their labs.
+     Observational studies are not easy to do, but neither are they impossible,
+as demonstrated by Chang, Chen, and Lin’s first-rate paper on the anchoring
+effect (“a cognitive bias in which human decisions rely too much on the first
+piece of information encountered, or other conspicuous, but irrelevant,
+information in their consciousness”).40 Experiments establish that judges, like
+most humans, fall prey to this bias; and Chang and his colleagues show the
+experimental findings transport to the real world. In a clever analysis of
+Taiwanese court decisions relating to compensation to landowners in trespass
+disputes, the researchers find that the judges’ awards “are influenced by the
+requests of the plaintiffs, that is, plaintiffs’ claims regarding the annual yield
+rate of their land are an anchor for the judgment in an actual civil litigation
+setting.”
+     Because this finding meshes with experimental results, it is important in
+its own right, for when the experimental and the observational converge, we
+can have more confidence in the underlying theory. But the Chang, Chen,
+and Lin study is consequential in another way: It shows that the anchoring
+
+
+37
+   See Jeffrey J. Rachlinski et al., Probable Cause, Probability, and Hindsight, 8 J. EMPIRICAL
+   LEGAL STUD. 72 (2011).
+38
+   See Jeffrey J. Rachlinski et al., Contrition in the Courtroom: Do Apologies Affect
+   Adjudication?, 98 CORNELL L. REV. 1189 (2013).
+39
+   See Wistrich et al., supra note 1.
+40
+   See Yun-chien Chang et al., Empirical Evidence of Anchoring Effect in Real Litigation
+   (2019) (Working paper) (on file with the authors).
+    研之得法：中央研究院法律學研究所成立十週年文集
+134 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+effect can be offset if defendants “explicitly counter the claim rates, rather
+than being silent about this issue.” In other words, when defendants counter, it
+can serve as a “powerful debiaser” — a result that carries implications both for
+lawyering and judging.
+
+2. Substantive Contributions
+     Falling under the rubric of “judicial behavior” are perhaps a dozen
+substantive topics, including judicial independence, the selection and
+retention of judges, access to judicial power, public opinion, and the role of
+attorneys and litigants. 41 IIAS scholars have contributed to many of these
+literatures but worthy of special emphasis is their research on attorneys and
+litigants.
+     In addition to their study on anchoring effects, Chang, Chen, and Lin
+have produced important work on whether attorney experience affects pain and
+suffering damages in cases litigated in Taiwanese courts.42 Their finding that
+experienced plaintiff attorneys tend to claim higher damages (thereby setting
+the anchor higher than novice attorneys) fits compatibly with literature
+showing that experience matters in litigation.43 But Chang, Chen, and Lin go
+further and attempt to identify the mechanism — that is, why does attorney
+experience matter? Their answer is that “senior and junior attorneys have
+
+
+41
+   For a review of work on these and other topics, see Lee Epstein, Some Thoughts on the
+   Study of Judicial Behavior, 57 WM. & MARY L. REV. 2017 (2016).
+42
+   Yun-chien Chang, Kong-Pin Chen, & Chang-Ching Lin, Knowledge in Youth is Wisdom in
+   Age: An Empirical Study of Attorney Experience in Torts Litigation, 63(105913) INT’L REV.
+   L. & ECON. 1, 1-12 (2020).
+43
+   E.g., David S. Abrams & Albert H. Yoon, The Luck of the Draw: Using Random Case
+   Assignment to Investigate Attorney Ability, 74 U. CHI. L. REV. 1145 (2007); Catherine T.
+   Harris et al., Does Being a Repeat Player Make a Difference? The Impact of Attorney
+   Experience and Case-Picking on the Outcome of Medical Malpractice Lawsuits, 8 YALE J.
+   HEALTH POL’Y L. & ETHICS 253 (2008); Michael Nelson & Lee Epstein, Human Capital in
+   Court: The Role of Attorney Experience in U.S. Supreme Court Litigation, J.L. & CTS
+   (forthcoming).
+                      The Seminal Contributions of the Institutum Iurisprudentiae
+                              Academia Sinica to the Study of Judicial Behavior 135
+
+
+different business models”:
+     Experienced attorneys are more likely to have a firmer client base. With a
+     longer track record and reputation, their business is to a lesser extent
+     influenced by an increase in average court fee percentage. Senior
+     attorneys thus are more willing to make bolder claims than junior
+     colleagues. If this explanation holds, attorney experience is better
+     understood as a proxy for practice stability. Attorneys make bolder claims
+     because their practice is less likely to be affected by a few losses.44
+       In an equally terrific study, Huang, Chin, and Lin explore the relative
+effectiveness of criminal defense counsel by taking advantage of a 2003 reform
+in Taiwan.45 Under that reform defendants who could not afford a lawyer were
+randomly assigned to one of two types of counsel: public defenders or legal aid
+attorneys. The study’s findings are fascinating. It turns out that both attorney
+types are “equally effective,” but they “adopt different litigation strategies”
+that affect the fate of their clients: “the defendants represented by public
+defenders tend to have higher conviction rates, but shorter sentences if they are
+convicted.”
+       Moving to litigants, IIAS researchers have contributed mightily to the
+rather large literature that derives from Galanter’s famous article, “Why the
+‘Haves’ Come Out Ahead.”46 The basic idea is that well-resourced litigants
+(the “haves”) are more successful in court than the “have-nots” (or “one-
+shotters”) by virtue of their experience and expertise.
+       Research coming out of Academia Sinica on Taiwanese courts has mostly
+supported this hypothesis, while offering some interesting twists. Chen, Huang,
+and Lin, for example, find that some haves — especially the government —
+do, in fact, come out ahead of lower-status litigants in civil cases in the Taiwan
+
+44
+   See Chang et al., supra note 42.
+45
+   See Kuo-Chang Huang et al., Does the Type of Criminal Defense Counsel Affect Case
+   Outcomes?: A Natural Experiment in Taiwan, 30 INT’L REV. L. & ECON. 113 (2010).
+46
+   See Marc Galanter, Why the “Haves” Come Out Ahead: Speculations on the Limits of Legal
+   Change, 9 LAW & SOC’Y REV. 95 (1974).
+    研之得法：中央研究院法律學研究所成立十週年文集
+136 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+Supreme Court (TSC). 47 The reason, though, may have less to do with
+resources than with the TSC judges’ predisposition to view themselves as part
+of the government. Then, in an article that explores public-land usurpation trial
+decisions in Taiwan’s district courts, Wu finds that the Galanter hypothesis
+mostly holds in civil cases but not for probationary verdicts in criminal cases,
+in which “the effects of resource factors on trial outcomes are considerably less
+than expected.”48
+
+3. Methodological Contributions
+     Many of the IIAS studies referenced so far contribute to the scientific
+advancement of the analysis of judicial behavior. Especially impressive is the
+attention IIAS researchers have drawn to the obstacles of making causal
+inferences with observational data, as well as the clever designs they have
+devised to overcome them.49
+     Almost needless to write, implementing those designs requires high-
+quality data and, on this score, IIAS scholars have truly proved their mettle. In
+study after study, they have compiled original and remarkably rich datasets of
+litigation in Taiwan, at all court levels. Noteworthy, in particular, is the IIAS
+Taiwan Constitutional Court (TCC) Database, which houses all kinds of
+interesting data on decisions of the TCC. Not only have IIAS scholars put this
+
+
+
+47
+   See Kong-Pin Chen et al., Party Capability versus Court Preference: Why do the “Haves”
+   Come Out Ahead?—An Empirical Lesson from the Taiwan Supreme Court, 31 J.L. ECON. &
+   ORG. 93 (2015).
+48
+   See Chung-Li Wu, Do the “Haves” Come Out Ahead? Resource Disparity in Public-Land
+   Usurpation Litigation in Taiwan, 100 SOC. SCI. Q. 1215 (2019). See also Chung-Li Wu,
+   Assessing the Effects of Political Factors on Court Decisions in Corruption Litigation in
+   Taiwan, 59 ASIAN SURV. 295 (2019).
+49
+   See, e.g., Huang et al., supra note 45 (exploiting a Taiwan reform to study criminal defense
+   lawyers, as described in the text); and Chang, Chen & Lin, supra note 42 (using cutting-
+   edge methods to ensure balance on observed covariates between experienced and novice
+   attorneys).
+                        The Seminal Contributions of the Institutum Iurisprudentiae
+                                Academia Sinica to the Study of Judicial Behavior 137
+
+
+Database to great use, producing many excellent papers;50 but the Database
+itself is a valuable product, joining only a handful of others worldwide. With
+these kinds of foundational datasets in hand, scholars can truly meet the
+promise of the study of judicial behavior — whether educating the public,
+informing policy making and lawyers, and prompting judges to consider how
+various biases seep into their decisions.
+
+                                           *********
+       At the outset I noted that IIAS researchers have played a large role in
+spurring the worldwide growth of the analysis of judicial behavior. Their
+contributions over the last decade have been creative, powerful, and
+consequential. No doubt their work over the next ten years and beyond will be
+equally as important; and equally without doubt IIAS research will help ensure
+that the best days for the analysis of judicial behavior are yet to come.
+
+
+
+
+50
+     See, e.g., Su et al., supra note 19; Su & Ho, supra note 29.
+    研之得法：中央研究院法律學研究所成立十週年文集
+138 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+                             References
+Abrams, David S., and Albert H. Yoon. 2007. The Luck of the Draw: Using
+    Random Case Assignment to Investigate Attorney Ability. University of
+    Chicago Law Review 74:1145-1177.
+Alarie, Benjamin, and Andrew J. Green. 2017. Commitment and Cooperation on
+    High Courts: A Cross-Country Examination of Institutional Constraints on
+    Judges. New York, NY: Oxford University Press.
+Arguelhes, Diego Werneck, and Ivar A. Hartmann. 2017. Timing Control
+    without Docket Control: How Individual Justices Shape the Brazilian
+    Supreme Court’s Agenda. Journal of Law and Court 5:105-140.
+Boyd, Christina L., Lee Epstein, and Andrew D. Martin. 2010. Untangling the
+    Causal Effects of Sex on Judging. American Journal of Political Science
+    54:389-414.
+Bugaric, Bojan, and Tom Ginsburg. 2016. The Assault on Postcommunist
+    Courts. Journal of Democracy 27:69-82.
+Chang, Yun-chien, and Geoffrey Miller. Forthcoming. Do Judges Matter?.
+    Journal of Institutional and Theoretical Economics.
+Chang, Yun-chien, Han-Wei Ho, and Jimmy Chia-Shin Hsu. 2016. Non-
+    Pecuniary Damages for Defamation, Personal Injury, and Wrongful Death:
+    An Empirical Analysis of Court Cases in Taiwan. The Chinese Journal of
+    Comparative Law 4:69-97.
+Chang, Yun-chien, Kong-Pin Chen, and Chang-Ching Lin. 2019. Empirical
+    Evidence of Anchoring Effect in Real Litigation. Working paper.
+———. 2020. Knowledge in Youth is Wisdom in Age: An Empirical Study of
+    Attorney Experience in Torts Litigation. International Review of Law and
+    Economics 63(105913):1-12.
+Chen, Kong-Pin, Kuo-Chang Huang, and Chang-Ching Lin. 2015. Party
+    Capability versus Court Preference: Why Do the “Haves” Come Out
+    Ahead? — An Empirical Lesson from the Taiwan Supreme Court. Journal
+    of Law, Economics and Organization 31:93-126.
+                  The Seminal Contributions of the Institutum Iurisprudentiae
+                          Academia Sinica to the Study of Judicial Behavior 139
+
+
+Cox, Adam, and Thomas J. Miles. 2008. Judging the Voting Rights Act.
+    Columbia Law Review 108:1-54.
+Das, T.K., and Bing-Sheng Teng. 1999. Cognitive Biases and Strategic Decision
+    Processes: An Integrative Perspective. Journal of Management Studies
+    36:757-778.
+Delaney, Erin F. 2016. Analyzing Avoidance: Judicial Strategy in Comparative
+    Perspective. Duke Law Journal 66:1-67.
+Epstein, Lee. 2016. Some Thoughts on the Study of Judicial Behavior. William
+    & Mary Law Review 57:2017-2073.
+Epstein, Lee, and Jack Knight. 1998. The Choices Justices Make. Washington,
+    D.C.: CQ Press.
+———. 2018. Efficacious Judging on Apex Courts. Pp. 272-289 in Comparative
+    Judicial Review, edited by Erin F. Delaney and Rosalind Dixon.
+    Cheltenham: Edward Elgar Publishing.
+Epstein, Lee, and Keren Weinshall. 2021. The Strategic Analysis of Judicial
+    Behavior: A Comparative Perspective. Cambridge: Cambridge University
+    Press.
+Epstein, Lee, Urkša Šadl, and Keren Weinshall. Forthcoming. The Role of
+    Comparative Law in the Analysis of Judicial Behavior. American Journal
+    of Comparative Law.
+Epstein, Lee, William M. Landes, and Richard A. Posner. 2013. The Behavior of
+    Federal Judges: A Theoretical and Empirical Study of Rational Choice.
+    Cambridge, MA: Harvard University Press.
+———. 2015. The Best for Last: The Timing of U.S. Supreme Court Decisions.
+    Duke Law Journal 64:991-1022.
+Fontana, David. 2011. Docket Control and the Success of Constitutional Courts.
+    Pp. 624-642 in Comparative Constitutional Law, edited by Tom Ginsburg
+    and Rosalind Dixon. Cheltenham: Edward Elgar Publishing.
+Galanter, Marc. 1974. Why the “Haves” Come Out Ahead: Speculations on the
+    Limits of Legal Change. Law and Society Review 9:95-160.
+    研之得法：中央研究院法律學研究所成立十週年文集
+140 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+Garoupa, Nuno, Veronica Grembi, and Shirley Ching-ping Lin. 2011.
+    Explaining Constitutional Review in New Democracies: The Case of
+    Taiwan. Pacific Rim Law and Policy Journal 20:1-40.
+Grendstad, Gunnar, William R. Shaffer, and Eric N. Waltenburg. 2015. Policy
+    Making in an Independent Judiciary: The Norwegian Supreme Court.
+    Colchester: ECPR Press.
+Hanretty, Chris. 2012. Dissent in Iberia: The Ideal Points of Justices on the
+    Spanish and Portuguese Constitutional Tribunals. European Journal of
+    Political Research 51:671-692.
+Harris, Catherine T., Ralph Peeples, and Thomas B. Metzloff. 2008. Does Being
+    a Repeat Player Make a Difference? The Impact of Attorney Experience
+    and Case-Picking on the Outcome of Medical Malpractice Lawsuits. Yale
+    Journal of Health Policy, Law, and Ethics 8:253-282.
+Hönnige, Christoph. 2009. The Electoral Connection: How the Pivotal Judge
+    Affects Oppositional Success at European Constitutional Courts. Western
+    European Politics 32:963-984.
+Huang, Kuo-Chang, Kong-Pin Chen, and Chang-Ching Lin. 2010. Does the
+    Type of Criminal Defense Counsel Affect Case Outcomes?: A Natural
+    Experiment in Taiwan. International Review of Law and Economics
+    30:113-127.
+Kahneman, Daniel. 2011. Thinking, Fast and Slow. New York, NY: Farrar,
+    Straus and Giroux.
+Krewson, Chris, David Lassen, and Ryan J. Owens. 2018. Twitter and the
+    Supreme Court: An Examination of Congressional Tweets about the
+    Supreme Court. Justice System Journal 39:322-330.
+Nelson, Michael, and Lee Epstein. Forthcoming. Human Capital in Court: The
+    Role of Attorney Experience in U.S. Supreme Court Litigation. Journal of
+    Law and Courts.
+                  The Seminal Contributions of the Institutum Iurisprudentiae
+                          Academia Sinica to the Study of Judicial Behavior 141
+
+
+Pellegrina, Lucia Dalla, Nuno Garoupa, and Shirley Ching-Ping Lin. 2012.
+     Judicial Ideal Points in New Democracies: The Case of Taiwan. National
+     Taiwan University Law Review 7:123-165.
+Posner, Eric A., and Miguel F.P. de Figueiredo. 2005. Is the International Court
+     of Justice Biased?. Journal of Legal Studies 34:599-630.
+Posner, Richard A. 1993. What Do Judges and Justices Maximize? (The Same
+     Thing Everybody Else Does). Supreme Court Economic Review 3:1-41.
+———. 2008. How Judges Think. Cambridge, MA: Harvard University Press.
+———. 2011. Economic Analysis of Law. 8th ed. New York, NY: Aspen.
+Rachlinski, Jeffrey J., Chris Guthrie, and Andrew J. Wistrich. 2011. Probable
+     Cause, Probability, and Hindsight. Journal of Empirical Legal Studies
+     8:72-98.
+———. 2013. Contrition in the Courtroom: Do Apologies Affect Adjudication?.
+     Cornell Law Review 98:1189-1243.
+Segal, Jeffrey A., and Harold J. Spaeth. 2002. The Supreme Court and the
+     Attitudinal Model Revisited. Cambridge: Cambridge University Press.
+Shayo, Moses, and Asaf Zussman. 2011. Judicial Ingroup Bias in the Shadow of
+     Terrorism. Quarterly Journal of Economics 126:1447-1484.
+Su, Yen-Tu, and Han-Wei Ho. 2014. Judging, Sooner or Later: A Study of
+     Decision Timing in Taiwan’s Constitutional Court. Working paper.
+Su, Yen-Tu, Han-Wei Ho, and Chien-Chih Lin. 2020. Are Taiwan
+     Constitutional Court Justices Political?. Working paper.
+Thaler, Richard H. 2015. Misbehaving: The Making of Behavioral Economics.
+     New York, NY: W.W. Norton & Company.
+Tiede, Lydia B. 2016. The Political Determinants of Judicial Dissent: Evidence
+     from the Chilean Constitutional Tribunal. European Political Science
+     Review 8:377-403.
+Voeten, Erik. 2020. Populism and Backlashes against International Courts.
+     Perspectives on Politics 18:407-422.
+    研之得法：中央研究院法律學研究所成立十週年文集
+142 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+Wistrich, Andrew J., Jeffrey J. Rachlinski, and Chris Guthrie. 2015. Heart
+    Versus Head: Do Judges Follow the Law or Follow Their Feelings. Texas
+    Law Review 93:855-924.
+Wu, Chung-Li. 2012. Charge Me If You Can: Assessing Political Biases in
+    Vote-buying Verdicts in Democratic Taiwan (2000-2010). China Quarterly
+    211:786-805.
+———. 2019. Assessing the Effects of Political Factors on Court Decisions in
+    Corruption Litigation in Taiwan. Asian Survey 59:295-314.
+———. 2019. Do the “Haves” Come Out Ahead? Resource Disparity in Public-
+    Land Usurpation Litigation in Taiwan. Social Science Quarterly
+    100:1215-1227.
+

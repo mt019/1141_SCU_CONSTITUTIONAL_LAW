@@ -1,0 +1,411 @@
+\documentclass[12pt]{article}
+\usepackage[paperwidth=297mm,paperheight=210mm,margin=10mm]{geometry}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{eso-pic}
+\usepackage{etoolbox}
+\pagestyle{empty}
+
+% ── palette ───────────────────────────────────────────────────────────────────
+\definecolor{paper}{HTML}{F7F0E6}
+\definecolor{paperwarm}{HTML}{EFE2D1}
+\definecolor{ink}{HTML}{2F2924}
+\definecolor{muted}{HTML}{7A6A5D}
+\definecolor{rule}{HTML}{D7C5B0}
+\definecolor{accent}{HTML}{8B5E46}
+\definecolor{scbadge}{HTML}{B5622A}      % 簡體字庫
+\definecolor{partialbadge}{HTML}{9A3B2E} % 繁體但缺字
+\definecolor{weakbadge}{HTML}{7A6220}    % 繁體但標點弱
+
+% ── fonts ─────────────────────────────────────────────────────────────────────
+\setmainfont{Avenir Next}
+\setsansfont{Avenir Next}
+\setCJKmainfont{Songti TC}
+
+\setCJKfamilyfont{songti}{Songti TC}
+\setCJKfamilyfont{chiron}[Path=../../_Assets/fonts/fonts/]{ChironSungHK-Text-R.ttf}
+\setCJKfamilyfont{huiwen}[Path=../../_Assets/fonts/fonts/]{HuiwenMincho-Improved.ttf}
+\setCJKfamilyfont{iming}[Path=../../_Assets/fonts/fonts/]{I.Ming-8.10.ttf}
+\setCJKfamilyfont{iansui}[Path=../../_Assets/fonts/fonts/]{Iansui-Regular.ttf}
+\setCJKfamilyfont{mizuki}[Path=../../_Assets/fonts/fonts/]{MizukiMing-Regular.ttf}
+\setCJKfamilyfont{zhisong}[Path=../../_Assets/fonts/fonts/]{LXGWZhiSongMN.ttf}
+\setCJKfamilyfont{chenyu}[Path=../../_Assets/fonts/fonts/]{ChenYuluoyan-2.0-Thin.ttf}
+\setCJKfamilyfont{qiji}[Path=../../_Assets/fonts/fonts/]{qiji-combo.ttf}
+
+\setCJKfamilyfont{genryuEL}[Path=../../_Assets/fonts/fonts/]{GenRyuMin2-EL.ttc}
+\setCJKfamilyfont{genryuL}[Path=../../_Assets/fonts/fonts/]{GenRyuMin2-L.ttc}
+\setCJKfamilyfont{genryuR}[Path=../../_Assets/fonts/fonts/]{GenRyuMin2-R.ttc}
+\setCJKfamilyfont{genryuM}[Path=../../_Assets/fonts/fonts/]{GenRyuMin2-M.ttc}
+\setCJKfamilyfont{genryuSB}[Path=../../_Assets/fonts/fonts/]{GenRyuMin2-SB.ttc}
+\setCJKfamilyfont{genryuB}[Path=../../_Assets/fonts/fonts/]{GenRyuMin2-B.ttc}
+\setCJKfamilyfont{genryuH}[Path=../../_Assets/fonts/fonts/]{GenRyuMin2-H.ttc}
+
+\setCJKfamilyfont{genwanEL}[Path=../../_Assets/fonts/fonts/]{GenWanMin2-EL.ttc}
+\setCJKfamilyfont{genwanL}[Path=../../_Assets/fonts/fonts/]{GenWanMin2-L.ttc}
+\setCJKfamilyfont{genwanR}[Path=../../_Assets/fonts/fonts/]{GenWanMin2-R.ttc}
+\setCJKfamilyfont{genwanM}[Path=../../_Assets/fonts/fonts/]{GenWanMin2-M.ttc}
+\setCJKfamilyfont{genwanSB}[Path=../../_Assets/fonts/fonts/]{GenWanMin2-SB.ttc}
+
+\setCJKfamilyfont{genyoEL}[Path=../../_Assets/fonts/fonts/]{GenYoMin2-EL.ttc}
+\setCJKfamilyfont{genyoL}[Path=../../_Assets/fonts/fonts/]{GenYoMin2-L.ttc}
+\setCJKfamilyfont{genyoR}[Path=../../_Assets/fonts/fonts/]{GenYoMin2-R.ttc}
+\setCJKfamilyfont{genyoM}[Path=../../_Assets/fonts/fonts/]{GenYoMin2-M.ttc}
+\setCJKfamilyfont{genyoSB}[Path=../../_Assets/fonts/fonts/]{GenYoMin2-SB.ttc}
+\setCJKfamilyfont{genyoB}[Path=../../_Assets/fonts/fonts/]{GenYoMin2-B.ttc}
+\setCJKfamilyfont{genyoH}[Path=../../_Assets/fonts/fonts/]{GenYoMin2-H.ttc}
+
+\setCJKfamilyfont{tsukiji}[Path=../../_Assets/fonts/categories/typewriter-ink/]{huiwen-tsukiji-5-mincho.otf}
+\setCJKfamilyfont{oradano}[Path=../../_Assets/fonts/categories/typewriter-ink/]{oradano-mingchao-cc0.ttf}
+\setCJKfamilyfont{qijihl}[Path=../../_Assets/fonts/categories/typewriter-ink/]{qiji-huanglingdong.ttf}
+\setCJKfamilyfont{taisyo}[Path=../../_Assets/fonts/categories/typewriter-ink/]{taisyo-katsuji-ppoi7.ttf}
+\setCJKfamilyfont{kinghwa}[Path=../../_Assets/fonts/categories/typewriter-ink/]{kinghwa-oldson.ttf}
+\setCJKfamilyfont{homuraEL}[Path=../../_Assets/fonts/categories/typewriter-ink/]{homura-m-extralight.otf}
+\setCJKfamilyfont{homuraL}[Path=../../_Assets/fonts/categories/typewriter-ink/]{homura-m-light.otf}
+\setCJKfamilyfont{homuraSL}[Path=../../_Assets/fonts/categories/typewriter-ink/]{homura-m-semilight.otf}
+\setCJKfamilyfont{homuraM}[Path=../../_Assets/fonts/categories/typewriter-ink/]{homura-m-medium.otf}
+\setCJKfamilyfont{homuraSB}[Path=../../_Assets/fonts/categories/typewriter-ink/]{homura-m-semibold.otf}
+\setCJKfamilyfont{homuraB}[Path=../../_Assets/fonts/categories/typewriter-ink/]{homura-m-bold.otf}
+\setCJKfamilyfont{homuraH}[Path=../../_Assets/fonts/categories/typewriter-ink/]{homura-m-heavy.otf}
+\setCJKfamilyfont{youyou}[Path=../../_Assets/fonts/categories/typewriter-ink/]{youyou-yisong.ttf}
+\setCJKfamilyfont{xiangcuiKS}[Path=../../_Assets/fonts/categories/typewriter-ink/]{xiangcui-kesong.ttf}
+\setCJKfamilyfont{xiangcuiTW15}[Path=../../_Assets/fonts/categories/typewriter-ink/]{xiangcui-typewriter-w15.ttf}
+\setCJKfamilyfont{xiangcuiTW35}[Path=../../_Assets/fonts/categories/typewriter-ink/]{xiangcui-typewriter-w35.ttf}
+\setCJKfamilyfont{xiangcuiTW40}[Path=../../_Assets/fonts/categories/typewriter-ink/]{xiangcui-typewriter-w40.ttf}
+\setCJKfamilyfont{kangxi}[Path=../../_Assets/fonts/categories/typewriter-ink/]{runzhijia-kangxi.ttf}
+\setCJKfamilyfont{xinyugong}[Path=../../_Assets/fonts/categories/typewriter-ink/]{xinyugong-zhengrong.ttf}
+\setCJKfamilyfont{maokenFull}[Path=../../_Assets/fonts/categories/typewriter-ink/]{maoken-kangzhong-zusong-full.ttf}
+\setCJKfamilyfont{maokenSC}[Path=../../_Assets/fonts/categories/typewriter-ink/]{maoken-kangzhong-zusong-sc.ttf}
+\setCJKfamilyfont{tegomin}[Path=../../_Assets/fonts/categories/typewriter-ink/]{new-tegomin-regular.ttf}
+\setCJKfamilyfont{hina}[Path=../../_Assets/fonts/categories/typewriter-ink/]{hina-mincho-regular.ttf}
+\setCJKfamilyfont{tongwen}[Path=../../_Assets/fonts/categories/typewriter-ink/]{tongwen-zidian.ttf}
+\setCJKfamilyfont{huanming}[Path=../../_Assets/fonts/categories/typewriter-ink/]{huan-mingchao.otf}
+\setCJKfamilyfont{tekoming}[Path=../../_Assets/fonts/categories/typewriter-ink/]{teko-mincho.ttf}
+
+% ── Latin typewriter font families ───────────────────────────────────────────
+\newfontfamily\fEssays[Path=../../_Assets/fonts/categories/typewriter-latin/]{essays1743.ttf}
+\newfontfamily\fMystery[Path=../../_Assets/fonts/categories/typewriter-latin/]{mystery-typewriter.ttf}
+\newfontfamily\fRoman[Path=../../_Assets/fonts/categories/typewriter-latin/]{roman-antique.ttf}
+\newfontfamily\fCarbon[Path=../../_Assets/fonts/categories/typewriter-latin/]{carbon.ttf}
+\newfontfamily\fCuomo[Path=../../_Assets/fonts/categories/typewriter-latin/]{cuomotype.otf}
+\newfontfamily\fGabriele[Path=../../_Assets/fonts/categories/typewriter-latin/]{gabriele-d.ttf}
+\newfontfamily\fHarting[Path=../../_Assets/fonts/categories/typewriter-latin/]{harting-plain.ttf}
+\newfontfamily\fHolstein[Path=../../_Assets/fonts/categories/typewriter-latin/]{holstein.ttf}
+\newfontfamily\fJackwrite[Path=../../_Assets/fonts/categories/typewriter-latin/]{jackwrite.ttf}
+\newfontfamily\fKingthings[Path=../../_Assets/fonts/categories/typewriter-latin/]{kingthings-trypewriter-2.ttf}
+\newfontfamily\fMcgarey[Path=../../_Assets/fonts/categories/typewriter-latin/]{mcgarey-regular.ttf}
+\newfontfamily\fRadio[Path=../../_Assets/fonts/categories/typewriter-latin/]{radio-newsman.ttf}
+\newfontfamily\fSchreibmaschine[Path=../../_Assets/fonts/categories/typewriter-latin/]{schreibmaschine.ttf}
+\newfontfamily\fTypeo[Path=../../_Assets/fonts/categories/typewriter-latin/]{typeo.ttf}
+\newfontfamily\fVeteran[Path=../../_Assets/fonts/categories/typewriter-latin/]{veteran-typewriter.ttf}
+% Page XII: new additions
+\newfontfamily\fTTBase[Path=../../_Assets/fonts/categories/typewriter-latin/]{tt2020-base-regular.ttf}
+\newfontfamily\fTTStyleB[Path=../../_Assets/fonts/categories/typewriter-latin/]{tt2020-style-b-regular.ttf}
+\newfontfamily\fTTStyleD[Path=../../_Assets/fonts/categories/typewriter-latin/]{tt2020-style-d-regular.ttf}
+\newfontfamily\fHermes[Path=../../_Assets/fonts/categories/typewriter-latin/]{hermes-ewd.ttf}
+\newfontfamily\fSpecialElite[Path=../../_Assets/fonts/categories/typewriter-latin/]{special-elite-regular.ttf}
+\newfontfamily\fCutive[Path=../../_Assets/fonts/categories/typewriter-latin/]{cutive-mono-regular.ttf}
+% Page XIII: German typewriter fonts (Erika series + Tippa)
+\newfontfamily\fErikaOrmig[Path=../../_Assets/fonts/categories/typewriter-latin/]{erika-ormig.ttf}
+\newfontfamily\fErikasFarbband[Path=../../_Assets/fonts/categories/typewriter-latin/]{erikas-farbband.ttf}
+\newfontfamily\fErikasFarbbandB[Path=../../_Assets/fonts/categories/typewriter-latin/]{erikas-farbband-bold.ttf}
+\newfontfamily\fErikasBuero[Path=../../_Assets/fonts/categories/typewriter-latin/]{erikas-buero.ttf}
+\newfontfamily\fErikasBueroB[Path=../../_Assets/fonts/categories/typewriter-latin/]{erikas-buero-bold.ttf}
+\newfontfamily\fErikaType[Path=../../_Assets/fonts/categories/typewriter-latin/]{erika-type.ttf}
+\newfontfamily\fErikaTypeB[Path=../../_Assets/fonts/categories/typewriter-latin/]{erika-type-bold.ttf}
+\newfontfamily\fTippa[Path=../../_Assets/fonts/categories/typewriter-latin/]{tippa.ttf}
+
+% ── background texture ────────────────────────────────────────────────────────
+\AddToShipoutPictureBG{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[paper] (current page.south west) rectangle (current page.north east);
+    \foreach \i in {1,...,72}{
+      \pgfmathsetmacro{\x}{rnd*297}
+      \pgfmathsetmacro{\y}{rnd*210}
+      \pgfmathsetmacro{\len}{8+rnd*36}
+      \draw[paperwarm!34!paper,line width=0.22pt]
+        ([xshift=\x mm,yshift=\y mm]current page.south west)
+        .. controls +(\len mm,1.4mm) and +(-\len mm,-1.1mm) ..
+        ([xshift=\x mm+\len mm,yshift=\y mm+0.6mm]current page.south west);
+    }
+    \foreach \i in {1,...,520}{
+      \pgfmathsetmacro{\x}{rnd*297}
+      \pgfmathsetmacro{\y}{rnd*210}
+      \pgfmathsetmacro{\r}{0.035+rnd*0.12}
+      \fill[ink!8!paper] ([xshift=\x mm,yshift=\y mm]current page.south west) circle (\r mm);
+    }
+  \end{tikzpicture}%
+}
+
+% ── sample text corpus ────────────────────────────────────────────────────────
+% 憲法主題金句：字符覆蓋廣、兼含冷僻字
+\newcommand{\sampletitle}{人性尊嚴不可侵犯，基本自由受憲法保障。}
+\newcommand{\samplebody}{憲法法院之職責，在於審視國家行為之合憲性，確保各人之基本權利受到充分尊重與保護。}
+\newcommand{\sampletitleSC}{人性尊严不可侵犯，基本自由受宪法保障。}
+\newcommand{\samplebodySC}{宪法法院之职责，在于审视国家行为之合宪性，确保各人之基本权利受到充分尊重与保护。}
+\newcommand{\sampletitleNoComma}{人性尊嚴不可侵犯  基本自由受憲法保障}
+\newcommand{\samplebodyNoComma}{憲法法院之職責  在於審視國家行為之合憲性  確保各人之基本權利受到充分尊重與保護}
+\newcommand{\sampletitlePlain}{人性尊嚴不可侵犯基本自由受憲法保障}
+\newcommand{\samplebodyPlain}{憲法法院之職責在於審視國家行為之合憲性確保各人之基本權利受到充分尊重與保護}
+
+% ── page heading ──────────────────────────────────────────────────────────────
+\newcommand{\pageheading}[2]{%
+  \vspace*{-2mm}
+  {\sffamily\bfseries\fontsize{18}{21}\selectfont #1}\par
+  \vspace{1mm}
+  {\sffamily\fontsize{9.2}{12.5}\selectfont\color{muted}#2}
+  \vspace{4.5mm}
+}
+
+% ── badge ─────────────────────────────────────────────────────────────────────
+% Usage: \fontbadge{color}{label}
+% Note: uses Songti TC for CJK characters inside badge
+\newcommand{\fontbadge}[2]{%
+  \tikz[baseline=-0.6ex]{%
+    \node[
+      fill=#1, rounded corners=1.2pt,
+      inner xsep=2.8pt, inner ysep=0.8pt,
+      text=white, anchor=base
+    ]{{\sffamily\CJKfamily{songti}\fontsize{5.2}{6}\selectfont\bfseries #2}};%
+  }%
+}
+
+% ── sample entry ──────────────────────────────────────────────────────────────
+% \sample{display-name}{filename|description}{cjk-family}{flag}
+%
+%   flag  badge       sample text
+%   tc    (none)      繁體標準
+%   sc    SC 橙棕     簡體
+%   partial 缺 磚紅   繁體標準（字庫缺字，見描述）
+%   weak  標△ 暗金   無標點版（標點支援弱）
+%   plain 標✗ 暗金   純字形版（標點極弱）
+%
+\newcommand{\sample}[4]{%
+  \noindent
+  \begin{minipage}[t]{0.255\textwidth}
+    {\sffamily\footnotesize\color{accent}#1}%
+    \ifstrequal{#4}{sc}{\,\fontbadge{scbadge}{SC}}{}%
+    \ifstrequal{#4}{partial}{\,\fontbadge{partialbadge}{缺}}{}%
+    \ifstrequal{#4}{weak}{\,\fontbadge{weakbadge}{標弱}}{}%
+    \ifstrequal{#4}{plain}{\,\fontbadge{weakbadge}{無標}}{}%
+    \\[-1mm]
+    {\sffamily\scriptsize\color{muted}#2}
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{0.705\textwidth}
+    {\CJKfamily{#3}\color{ink}\fontsize{19.2}{25.5}\selectfont%
+      \ifstrequal{#4}{sc}{\sampletitleSC}{%
+        \ifstrequal{#4}{weak}{\sampletitleNoComma}{%
+          \ifstrequal{#4}{plain}{\sampletitlePlain}{\sampletitle}%
+        }%
+      }%
+    }\par
+    \vspace{1mm}
+    {\CJKfamily{#3}\color{ink!86}\fontsize{10.5}{16}\selectfont%
+      \ifstrequal{#4}{sc}{\samplebodySC}{%
+        \ifstrequal{#4}{weak}{\samplebodyNoComma}{%
+          \ifstrequal{#4}{plain}{\samplebodyPlain}{\samplebody}%
+        }%
+      }%
+    }%
+  \end{minipage}
+  \par\vspace{2.35mm}
+  {\color{rule}\hrule height 0.22pt}
+  \vspace{2.35mm}
+}
+
+% ── Latin sample text (English) ───────────────────────────────────────────────
+\newcommand{\latintitle}{The dignity of man is inviolable.}
+\newcommand{\latinbody}{No person shall be deprived of liberty without due process of law. The court's duty is to examine whether state action remains within constitutional bounds.}
+
+% ── German sample text (für Seite XIII) ───────────────────────────────────────
+\newcommand{\germantitle}{Die Würde des Menschen ist unantastbar.}
+\newcommand{\germanbody}{Sie zu achten und zu schützen ist Verpflichtung aller staat\-lichen Gewalt. Das Verfassungs\-gericht prüft, ob staat\-liches Handeln die verfassungs\-recht\-lichen Grenzen wahrt.}
+
+% \latinsample{display-name}{filename|description}{\font-cmd}{flag}
+%   flag: en (default English) | de (German — uses germantitle/germanbody)
+\newcommand{\latinsample}[4]{%
+  \noindent
+  \begin{minipage}[t]{0.255\textwidth}
+    {\sffamily\footnotesize\color{accent}#1}%
+    \ifstrequal{#4}{de}{\,\fontbadge{weakbadge}{DE}}{}%
+    \\[-1mm]
+    {\sffamily\scriptsize\color{muted}#2}
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{0.705\textwidth}
+    \tolerance=1000\relax\emergencystretch=2em\relax
+    {#3\color{ink}\fontsize{19.2}{25.5}\selectfont%
+      \ifstrequal{#4}{de}{\germantitle}{\latintitle}%
+    }\par
+    \vspace{1mm}
+    {#3\color{ink!86}\fontsize{10.5}{16}\selectfont%
+      \ifstrequal{#4}{de}{\germanbody}{\latinbody}%
+    }%
+  \end{minipage}
+  \par\vspace{2.35mm}
+  {\color{rule}\hrule height 0.22pt}
+  \vspace{2.35mm}
+}
+
+% ══════════════════════════════════════════════════════════════════════════════
+\begin{document}
+\color{ink}
+
+% ── I: 優雅知性 ───────────────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 I：優雅知性款}{穩定可讀的明宋字體，適合憲法、法學、人文金句與長段落。Songti TC 只作 macOS 系統基準。}
+
+\sample{Songti TC}{系統基準：macOS 內建，正式穩定}{songti}{tc}
+\sample{Chiron Sung HK / 昭源宋體}{ChironSungHK-Text-R.ttf｜乾淨現代宋體}{chiron}{tc}
+\sample{Huiwen Mincho / 匯文明朝體修正}{HuiwenMincho-Improved.ttf｜舊書印刷感}{huiwen}{tc}
+\sample{I.Ming / 一點明體}{I.Ming-8.10.ttf｜古典明體}{iming}{tc}
+\sample{Mizuki Ming / 水木明體}{MizukiMing-Regular.ttf｜克制印刷風格}{mizuki}{tc}
+\sample{LXGW ZhiSong / 霞鶩緻宋}{LXGWZhiSongMN.ttf｜細緻清瘦宋體}{zhisong}{tc}
+
+\newpage
+% ── II: 手寫點綴 ──────────────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 II：手寫點綴款}{適合標題、簽名、短句點綴；長段落需另外看閱讀疲勞。}
+
+\sample{ChenYuluoyan / 辰宇落雁體}{ChenYuluoyan-2.0-Thin.ttf｜細、飄逸、手寫}{chenyu}{tc}
+\sample{Iansui / 芫荽}{Iansui-Regular.ttf｜楷宋混合、親切}{iansui}{tc}
+
+\newpage
+% ── III: 源流明體全權重 ───────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 III：源流明體全權重}{GenRyuMin2 全套；Regular 適合正文，M/SB/B/H 可作標題。}
+
+\sample{GenRyuMin2 EL}{GenRyuMin2-EL.ttc｜ExtraLight}{genryuEL}{tc}
+\sample{GenRyuMin2 L}{GenRyuMin2-L.ttc｜Light}{genryuL}{tc}
+\sample{GenRyuMin2 R}{GenRyuMin2-R.ttc｜Regular}{genryuR}{tc}
+\sample{GenRyuMin2 M}{GenRyuMin2-M.ttc｜Medium}{genryuM}{tc}
+\sample{GenRyuMin2 SB}{GenRyuMin2-SB.ttc｜Semibold}{genryuSB}{tc}
+\sample{GenRyuMin2 B}{GenRyuMin2-B.ttc｜Bold}{genryuB}{tc}
+\sample{GenRyuMin2 H}{GenRyuMin2-H.ttc｜Heavy}{genryuH}{tc}
+
+\newpage
+% ── IV: 源雲明體全權重 ───────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 IV：源雲明體全權重}{GenWanMin2 全套；整體比源流明體更溫潤。}
+
+\sample{GenWanMin2 EL}{GenWanMin2-EL.ttc｜ExtraLight}{genwanEL}{tc}
+\sample{GenWanMin2 L}{GenWanMin2-L.ttc｜Light}{genwanL}{tc}
+\sample{GenWanMin2 R}{GenWanMin2-R.ttc｜Regular}{genwanR}{tc}
+\sample{GenWanMin2 M}{GenWanMin2-M.ttc｜Medium}{genwanM}{tc}
+\sample{GenWanMin2 SB}{GenWanMin2-SB.ttc｜Semibold}{genwanSB}{tc}
+
+\newpage
+% ── V: 源樣明體全權重 ────────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 V：源樣明體全權重}{GenYoMin2 全套；比源流／源雲更偏傳統印刷感。}
+
+\sample{GenYoMin2 EL}{GenYoMin2-EL.ttc｜ExtraLight}{genyoEL}{tc}
+\sample{GenYoMin2 L}{GenYoMin2-L.ttc｜Light}{genyoL}{tc}
+\sample{GenYoMin2 R}{GenYoMin2-R.ttc｜Regular}{genyoR}{tc}
+\sample{GenYoMin2 M}{GenYoMin2-M.ttc｜Medium}{genyoM}{tc}
+\sample{GenYoMin2 SB}{GenYoMin2-SB.ttc｜Semibold}{genyoSB}{tc}
+\sample{GenYoMin2 B}{GenYoMin2-B.ttc｜Bold}{genyoB}{tc}
+\sample{GenYoMin2 H}{GenYoMin2-H.ttc｜Heavy}{genyoH}{tc}
+
+\newpage
+% ── VI: 打字機／油墨主力款 ──────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 VI：打字機／油墨主力款}{先看最接近金句卡氣質的候選：打字機、舊活字、油墨、刻本。}
+
+\sample{Xiangcui Typewriter W15 / 香萃打字機}{xiangcui-typewriter-w15.ttf｜細，打字機感}{xiangcuiTW15}{sc}
+\sample{Xiangcui Typewriter W35 / 香萃打字機}{xiangcui-typewriter-w35.ttf｜中細，打字機感清楚}{xiangcuiTW35}{sc}
+\sample{Xiangcui Typewriter W40 / 香萃打字機}{xiangcui-typewriter-w40.ttf｜較厚，適合標題短句}{xiangcuiTW40}{sc}
+\sample{Qiji / 齊伋體}{qiji-combo.ttf｜雕版油墨；標點弱}{qiji}{weak}
+\sample{Qiji Huang Lingdong / 黃令東齊伋體}{qiji-huanglingdong.ttf｜標點極弱；純字形比較}{qijihl}{plain}
+\sample{Taisyo Katsuji / 大正活字}{taisyo-katsuji-ppoi7.ttf｜舊活字、印字不均；缺：查每為，}{taisyo}{partial}
+
+\newpage
+% ── VII: 打字機／舊印刷延伸款 ───────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 VII：打字機／舊印刷延伸款}{2904 復古懷舊包候選；授權需另行確認後再公開使用。}
+
+\sample{Huiwen Tsukiji 5 / 匯文筑地五號}{huiwen-tsukiji-5-mincho.otf｜舊明朝、印刷感}{tsukiji}{tc}
+\sample{Oradano Ming / Oradano 明朝}{oradano-mingchao-cc0.ttf｜舊日文活字感；已知缺：邏}{oradano}{partial}
+\sample{KingHwa OldSong / 京華老宋體}{kinghwa-oldson.ttf｜老宋、重油墨}{kinghwa}{tc}
+\sample{Xiangcui Kesong / 香萃刻宋}{xiangcui-kesong.ttf｜刻宋、厚重標題候選}{xiangcuiKS}{tc}
+\sample{Youyou Yisong / 又又意宋}{youyou-yisong.ttf｜復古裝飾風格參考}{youyou}{sc}
+\sample{Runzhijia Kangxi / 潤植家康熙字典美化體}{runzhijia-kangxi.ttf｜字典風格參考}{kangxi}{sc}
+
+\newpage
+% ── VIII: 焰明朝全權重 ──────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 VIII：焰明朝全權重}{2904 包中的焰明朝系列；偏復古明朝，適合比較標題重量。}
+
+\sample{Homura Mincho EL}{homura-m-extralight.otf｜ExtraLight}{homuraEL}{tc}
+\sample{Homura Mincho L}{homura-m-light.otf｜Light}{homuraL}{tc}
+\sample{Homura Mincho SL}{homura-m-semilight.otf｜SemiLight}{homuraSL}{tc}
+\sample{Homura Mincho M}{homura-m-medium.otf｜Medium}{homuraM}{tc}
+\sample{Homura Mincho SB}{homura-m-semibold.otf｜SemiBold}{homuraSB}{tc}
+\sample{Homura Mincho B}{homura-m-bold.otf｜Bold}{homuraB}{tc}
+\sample{Homura Mincho H}{homura-m-heavy.otf｜Heavy}{homuraH}{tc}
+
+\newpage
+% ── IX: 厚重與特殊顯示款 ────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 IX：厚重與特殊顯示款}{更偏海報、標題、裝飾；長文使用前要看缺字與閱讀性。}
+
+\sample{XinYuGong ZhengRong / 新愚公崢嶸體}{xinyugong-zhengrong.ttf｜厚重顯示款}{xinyugong}{tc}
+\sample{Maoken Heavy Labourer / 貓啃網扛重族宋}{maoken-kangzhong-zusong-full.ttf｜完整版，厚重標題}{maokenFull}{tc}
+\sample{Maoken Heavy Labourer SC / 貓啃網扛重族宋簡}{maoken-kangzhong-zusong-sc.ttf｜風格比較用}{maokenSC}{sc}
+\sample{New Tegomin / 特高敏}{new-tegomin-regular.ttf｜OFL；日文復古顯示款}{tegomin}{tc}
+
+\newpage
+% ── X: 2025 新增字體 ─────────────────────────────────────────────────────────
+\pageheading{繁體中文字體分類對照 X：新增字體（2025）}{打字機包新增四款；繁體支援待驗，使用前建議全字測試。}
+
+\sample{Hina Mincho / ひな明朝}{hina-mincho-regular.ttf｜日文明朝、輕盈打字機感}{hina}{tc}
+\sample{Tongwen Zidian / 同文新字典體}{tongwen-zidian.ttf｜字典風格，宋體骨架；缺：，。及部分字}{tongwen}{partial}
+\sample{Huan Ming / 幻影明朝}{huan-mingchao.otf｜暗色調明朝、海報感}{huanming}{tc}
+\sample{Teko Mincho / 特高明朝}{teko-mincho.ttf｜高對比明朝顯示款；缺：全形標點}{tekoming}{partial}
+
+\vfill
+{\sffamily\scriptsize\color{muted}刻意不列：NoroshiCode（已判定不適合金句卡風格）。\ 標記說明：\fontbadge{scbadge}{SC} 僅有簡體字庫\ \ \fontbadge{partialbadge}{缺} 繁體但已知缺字（描述欄註明）\ \ \fontbadge{weakbadge}{標弱} 標點支援弱\ \ \fontbadge{weakbadge}{無標} 標點極弱}
+
+\newpage
+% ── XI: 英文打字機字體 ───────────────────────────────────────────────────────
+\pageheading{拉丁字體對照 XI：英文打字機款}{配合中文金句卡使用；以憲法主題英文金句測試節奏與氣質。授權需另行確認。}
+
+\latinsample{Essays 1743}{essays1743.ttf｜典雅舊體羅馬，可搭配知性款中文}{\fEssays}{en}
+\latinsample{Mystery Typewriter}{mystery-typewriter.ttf｜磨損感打字機，偏懸疑神秘}{\fMystery}{en}
+\latinsample{Roman Antique}{roman-antique.ttf｜古典羅馬顯示款，裝飾感強}{\fRoman}{en}
+\latinsample{Carbon / Carbontype}{carbon.ttf｜複寫紙質感，文件感強}{\fCarbon}{en}
+\latinsample{Cuomotype}{cuomotype.otf｜純粹機械打字機，節奏整齊}{\fCuomo}{en}
+\latinsample{Gabriele}{gabriele-d.ttf｜義大利打字機風格，輕盈}{\fGabriele}{en}
+\latinsample{Harting}{harting-plain.ttf｜基本等寬打字機字形}{\fHarting}{en}
+\latinsample{Holstein}{holstein.ttf｜厚實打字機，飽滿可讀}{\fHolstein}{en}
+\latinsample{Jackwrite}{jackwrite.ttf｜個性手感打字機}{\fJackwrite}{en}
+\latinsample{Kingthings Trypewriter 2}{kingthings-trypewriter-2.ttf｜粗糙質感，復古海報感}{\fKingthings}{en}
+\latinsample{McGarey}{mcgarey-regular.ttf｜比例打字機字形，較正式}{\fMcgarey}{en}
+\latinsample{Radio Newsman}{radio-newsman.ttf｜新聞播報感，歷史感強}{\fRadio}{en}
+\latinsample{Schreibmaschine}{schreibmaschine.ttf｜德式打字機；適合德語法律文本搭配}{\fSchreibmaschine}{en}
+\latinsample{TypeO}{typeo.ttf｜輕度磨損，乾淨可讀}{\fTypeo}{en}
+\latinsample{Veteran Typewriter}{veteran-typewriter.ttf｜重油墨老打字機，厚重}{\fVeteran}{en}
+
+\newpage
+% ── XII: 新增拉丁字體 ────────────────────────────────────────────────────────
+\pageheading{拉丁字體對照 XII：新增款（超寫實 · Hermes · Smith Corona）}{OFL / Apache 2.0；TT2020 為超寫實打字機字體，含多種沾墨風格變體。}
+
+\latinsample{TT2020 Base}{tt2020-base-regular.ttf｜OFL；超寫實打字機，標準基礎款}{\fTTBase}{en}
+\latinsample{TT2020 Style B}{tt2020-style-b-regular.ttf｜OFL；較乾燥的油墨風格}{\fTTStyleB}{en}
+\latinsample{TT2020 Style D}{tt2020-style-d-regular.ttf｜OFL；較厚實的油墨沉積感}{\fTTStyleD}{en}
+\latinsample{Hermes EWD}{hermes-ewd.ttf｜Hermes Techno Elite 打字機；Dijkstra 使用款}{\fHermes}{en}
+\latinsample{Special Elite}{special-elite-regular.ttf｜Apache 2.0；Smith Corona Special Elite 復刻}{\fSpecialElite}{en}
+\latinsample{Cutive Mono}{cutive-mono-regular.ttf｜OFL；IBM Executive / Smith-Premier 打字機風格}{\fCutive}{en}
+
+\newpage
+% ── XIII: 德語打字機字體 ─────────────────────────────────────────────────────
+\pageheading{拉丁字體對照 XIII：德語打字機款（Erika · Adler · Freeware）}{Peter Wiegel 數位化；樣本文字取自《基本法》第一條。Schreibmaschine 見頁 XI。}
+
+\latinsample{Erika Ormig}{erika-ormig.ttf｜東德 Erika 打字機；Ormig 型（仿複寫油印感）}{\fErikaOrmig}{de}
+\latinsample{Erikas Farbband}{erikas-farbband.ttf｜東德 Erika 色帶款；輕盈節奏}{\fErikasFarbband}{de}
+\latinsample{Erikas Farbband Bold}{erikas-farbband-bold.ttf｜Erika 色帶加重}{\fErikasFarbbandB}{de}
+\latinsample{Erikas Büro}{erikas-buero.ttf｜Erika 辦公款；稍偏等寬}{\fErikasBuero}{de}
+\latinsample{Erikas Büro Bold}{erikas-buero-bold.ttf｜Erika 辦公加重；公文標題感}{\fErikasBueroB}{de}
+\latinsample{Erika Type}{erika-type.ttf｜Erika 標準字型，輕盈優雅}{\fErikaType}{de}
+\latinsample{Erika Type Bold}{erika-type-bold.ttf｜Erika 標準字型加重}{\fErikaTypeB}{de}
+\latinsample{Tippa}{tippa.ttf｜Adler Tippa 1（1966）德製輕型打字機復刻}{\fTippa}{de}
+
+\vfill
+{\sffamily\scriptsize\color{muted}德語樣本：〈基本法〉第一條第一款。GG Art.~1 Abs.~1: \textit{Die Würde des Menschen ist unantastbar. Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.}}
+
+\end{document}

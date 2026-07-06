@@ -1,0 +1,917 @@
+ 主題演說
+《中研院法學期刊》第 37 期                                                                  1
+頁 1-26（2025 年 9 月）
+
+                                主題演說
+
+    Secondary Use of Government Information
+                            ＊
+                 in Germany
+
+                            Keynote Address
+
+                      (Delivered on December 15, 2023)
+
+                                                ＊＊
+                           Matthias Bäcker
+
+
+                                  Contents
+ I. Introduction
+ II. General legal framework for the secondary use of government
+      information
+      A. Secondary use by public authorities
+      B. Secondary use by private actors
+      C. Functional limitations of the general rules
+ III. Sector-specific requirements for the secondary use of government
+      information
+      A. Transmission of sensitive data – example: results of surveillance by
+          security authorities
+      B. Inter-agency information systems
+      C. Platforms for complex analyses – example: central platform for health
+          data
+ IV. Conclusion
+
+
+＊  Submission Date: December 3, 2024. [Line Editor: Mu-Wei Hsu & Chun-Neng
+   Cheng].
+＊＊ Professor, Johannes Gutenberg-Universität Mainz.
+   Online: https://publication.iias.sinica.edu.tw/31906052.pdf
+2                                        《中研院法學期刊》第37期（2025年9月）
+
+
+
+I. Introduction
+
+      For a long time, German administrative law was essentially
+concerned with legally binding acts of the administration. Administrative
+proceedings were a matter of law mainly insofar as they directly
+prepared such acts. This also applied to the exchange of information
+between public authorities, for which there were few legal limits. By
+contrast, official secrecy characterised the informational relationship
+between public authorities and private bodies. Only if a person could
+demonstrate a specific interest did they have a limited right of access to
+government information.
+
+      The legal situation has changed fundamentally in recent decades.
+The “discovery” of data protection law led to the internal informational
+relations of the administration being comprehensively covered by legal
+rules. Germany was a pioneer in this field of law, with the milestones of
+the Hessian Data Protection Act of 1970, the first data protection law
+worldwide, and the fundamental 1983 census judgement of the Federal
+                                                                     1
+Constitutional Court (Bundesverfassungsgericht, BVerfG). In contrast,
+German law lagged behind international developments when it came to
+releasing government information to the public. Nevertheless, the federal
+government and most of the states (Länder) now have freedom of
+information acts that give private actors a general right of access to such
+information.
+
+
+
+
+1   BVerfG, 1 BvR 209, 269, 362, 420, 440, 484/83, Dec. 15, 1983, english translation
+    available at https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/
+    EN/1983/12/rs19831215_1bvr020983en.html.
+Secondary Use of Government Information in Germany                        3
+
+
+     More recently, the idea that government information can contribute
+to the efficient fulfilment of public tasks and the creation of social value
+has gained ground in Germany. Today, the metaphor of government
+information as raw material to be refined by public authorities and
+private actors is common. From this perspective, the law should provide
+a framework for the most efficient secondary use of such information. In
+this contribution, I will give a broad outline of this legal framework.
+
+     Beforehand, I would like to clarify the subject of this contribution,
+i.e. the concept of secondary use. Public authorities collect information
+to fulfil specific tasks and usually in the context of specific
+administrative proceedings. For example, a law enforcement authority
+collects information in order to investigate a criminal offence as a
+concrete historical event. Secondary use of government information
+removes this information from its original context and processes it for a
+new purpose. This concept includes secondary use by the public
+authority that originally obtained the information and by another public
+or private body. Secondary use in this sense already occurs, for example,
+if a law enforcement agency uses information that it has obtained to
+investigate a specific criminal offence to prosecute another criminal
+offence. The purpose of data collection and the purpose of secondary
+data use are further apart if, for example, a research organisation uses
+health data originally obtained in the course of treating patients for a
+study on the effectiveness of a drug.
+
+     My contribution consists of two parts. German law contains a
+general framework for the secondary use of government information.
+This framework applies in principle to all government information,
+regardless of its subject matter, and to all secondary uses, regardless of
+their purpose. I will present these general rules in the first part of my
+4                                   《中研院法學期刊》第37期（2025年9月）
+
+
+
+contribution. It will become clear that the general rules reach their limits
+in certain situations. In order to enable secondary use in those situations,
+more specific rules are required. These are usually limited to specific
+information or specific purposes. In the second part of my contribution, I
+will provide examples of sector-specific rules on the secondary use of
+government information, which have recently attracted particular
+attention in Germany.
+
+
+
+II. General legal framework for the secondary use
+    of government information
+
+     The general legal framework for the secondary use of government
+information must overcome a conflict of objectives. On the one hand,
+the law should enable the smoothest possible further processing of
+government information. Further processing is an essential building
+block for the efficient fulfilment of public tasks and can make a
+significant contribution to value creation. On the other hand, the
+confidentiality of sensitive information must be safeguarded. The rules
+on further processing therefore have both an enabling function and a
+limiting function.
+
+     This conflict of objectives arises differently in the case of secondary
+use by a public authority and by a private actor. Public authorities have
+far-reaching powers at their disposal. They may only act, however,
+within the scope of their tasks and must comply with a variety of public
+law requirements. In contrast, private actors are, in principle, free to
+decide on their objectives and are generally not accountable to the public
+for their actions. In view of these differences, the general requirements
+Secondary Use of Government Information in Germany                     5
+
+
+for the secondary use of government information by public authorities
+and private actors differ considerably. I will therefore present these
+requirements separately.
+
+A. Secondary use by public authorities
+     Secondary use of government information by public authorities
+requires an efficient public informational infrastructure. German law
+contains numerous general provisions to ensure such an infrastructure.
+These aim at the greatest possible digitisation of administrative
+processes and the interoperability of public information systems. They
+include, for example, the general obligation to keep digital files or
+obligations to use standardised file formats. However, the actual
+development of digital administration in Germany currently lags
+considerably behind the legal target status. For example, electronic file
+management has not yet been introduced across the board. In addition,
+there are still numerous historically grown databases that work with
+outdated or unusual file formats and cannot be seamlessly networked
+with other systems. Many administrative processes are also subject to
+media discontinuities. These not only impair the efficiency of individual
+processes, but also make the secondary use of the processed data
+considerably more difficult.
+
+     The general requirements for the digital administration intend to
+create an informational infrastructure. They say nothing directly about
+which authorities should have which information and with which other
+authorities they should share this information. However, general
+principles of German administrative law provide guidelines for these
+questions. For instance, public authorities are generally obliged to keep
+6                                        《中研院法學期刊》第37期（2025年9月）
+
+
+                                                                     2
+files on their procedures and thus document their actions. In addition,
+public authorities must support each other in the fulfilment of their
+         3
+tasks.       This administrative assistance includes the transfer of
+government information.
+
+     Nevertheless, the general rules provide only a rudimentary legal
+framework to enable the secondary use of government information.
+More specific, albeit still quite open, rules can be found on the limits of
+such use. These limits result primarily from individual rights. Data
+protection law takes centre stage. The requirements under data
+protection law generally arise from the General Data Protection
+Regulation of the European Union (GDPR). In addition, German law
+                                                                           4
+specifies this regulation on the basis of various opening clauses.
+
+     The secondary use of government information is subject to data
+protection requirements insofar as this information contains personal
+data. The concept of personal data is very broad and includes information
+about a merely identifiable natural person. It is therefore sufficient that
+government information can be linked to a person by means of additional
+                5
+information.        As a result, a large proportion of all government
+information falls within the scope of European data protection law.
+
+
+
+2 This obligation arises from the constitutional principle of the rule of law
+  (Rechtsstaatsprinzip) laid down in Grundgesetz [GG] [Basic Law], art. 20 (3), the
+  German constitution, cf. BVerwG, NVwZ 1988, S. 621 (622).
+3 GG, art. 35 (1).
+4 E.g., Regulation (EU) 2016/679, of the European Parliament and of the Council of 27
+  April 2016 on the Protection of Natural Persons with regard to the Processing of
+  Personal Data and on the Free Movement of such Data, and Repealing Directive
+  95/46/EC (General Data Protection Regulation), 2016 O.J. (L 119) 1, art. 6 (2), (3)
+  and (4), art. 9 (2), art. 10, art. 23, art. 85 et seqq. [hereinafter GDPR].
+5 Cf. Case C-582/14, Patrick Breyer v. Bundesrepublik Deutschland, ECLI:EU:C:2016:779,
+  paras. 31 et seqq. (Oct. 19, 2016).
+Secondary Use of Government Information in Germany                                   7
+
+
+      According to European data protection law, the processing of
+                                                                  6
+personal data is only permitted if there is a legal basis. This applies to
+each individual processing operation. In the secondary use of
+government information, processing operations that require a legal basis
+include the original collection of certain data, the storage of the data, the
+transfer of the data to another body and the use of the data by the
+recipient.
+
+      The GDPR lists the possible legal bases for processing exhaustively.
+For the secondary use of government information by public authorities,
+it is particularly important that processing is lawful if it is necessary for
+                                         7
+the performance of a public task. In this case, a further legal basis in
+EU law or Member State law is needed. German data protection law
+contains general authorisation regulations that largely correspond to the
+                           8
+wording of the GDPR.
+
+      Accordingly, the necessity for the performance of a task is the
+central legal requirement for the storage, transmission and use of
+government information. In addition, data processing must also be
+proportionate. The criteria of necessity and proportionality require the
+public interest in data processing to be balanced against the conflicting
+rights and freedoms of the data subject.
+
+      In addition, the principle of purpose limitation must be observed.
+According to this principle, the controller must collect data for a
+specified purpose. They may in principle only process the data for
+
+
+6   GDPR, art. 5 (1) (a), art. 6 (1).
+7   GDPR, art. 6 (1) (e).
+8   E.g., with regard to federal public authorities, Bundesdatenschutzgesetz [BDSG]
+    [Federal Data Protection Act], Jan 27, 1977, BGBl. I at 201, last amended by Gesetz
+    [G], June 30, 2017, BGBl. I at 2097, § 3 (Ger.).
+8                                            《中研院法學期刊》第37期（2025年9月）
+
+
+
+purposes that are compatible with the purpose for which it was collected.
+Further processing for archiving, research and statistical purposes is
+privileged and therefore always compatible with the purpose of
+            9
+collection. In addition, provisions of EU law or Member State law may
+provide for a change in the purpose of processing if they serve a
+                                                       10
+sufficiently important public or private interest.
+
+      In addition to the requirements for the lawfulness of data processing,
+data protection law contains procedural and organisational requirements.
+                                         11
+The rights of the data subject                are particularly important for the
+secondary use of government information. On the one hand, these rights
+guarantee the transparency of the processing. For example, the controller
+must provide the data subject with information about the intended
+processing. In addition, the data subject has a right of access. This
+includes a right to obtain a copy of the processed data as well as meta-
+information about, among others, the purpose of processing, the origin
+of the data or the recipients of the data. On the other hand, the data
+subject's rights grant the data subject some influence on the data
+processing. For example, the data subject can request that the controller
+erase data that is no longer required or correct inaccurate data. If the data
+processing causes particular hardship for the data subject due to their
+specific situation, the data subject may object to the processing.
+
+      By ensuring that the controller only processes data that is necessary
+and accurate, the rights of the data subject contribute to data quality. In
+this respect, these rights indirectly promote the public purposes served
+by the secondary use of government information. It hence falls short of
+
+9 GDPR, art. 5 (1) (b).
+10 GDPR, art. 6 (4); cf. e.g., BDSG, § 23.
+11 GDPR, arts. 12 et seqq.
+Secondary Use of Government Information in Germany                               9
+
+
+the mark to understand data protection law solely as a restriction on
+secondary use. Rather, the provisions of data protection law have a
+structuring effect, which also benefits the public interest in effective and
+efficient secondary use.
+
+B. Secondary use by private actors
+     The legal framework for the secondary use of government
+information by private actors differs from the secondary use by public
+authorities in several respects. Public authorities are not generally
+obliged to provide data access to interested private parties. Since the turn
+of the millennium, however, the federal government and most states
+have introduced provisions that guarantee private actors unconditional
+access to government information.
+
+     The oldest rules on access to government information can be found
+                                                                          12
+in the Freedom of Information Acts of the federal government                   and
+             13
+most states.      These statutes allow anyone to request access to most
+government information. In recent years, some states have expanded
+                                                                                14
+their freedom of information laws into transparency laws.
+Transparency laws oblige state authorities to publish certain information
+on a transparency platform independently of a request. This includes, for
+instance, legislative materials, official statistics, or information on the
+economic activities of the public sector.
+
+
+
+12 Federal Act Governing Access to Information held by the Federal Government,
+   Gesetz zur Regelung des Zugangs zu Informationen des Bundes [IFG] [Freedom of
+   Information Act], Sept. 5, 2005 (Ger.).
+13 The only states that have not yet passed a Freedom of Information Act are Lower
+   Saxony (Niedersachsen) and Bavaria (Bayern).
+14 The first German transparency law was the Hamburgisches Transparenzgesetz
+   [HmbTG] [Hamburg Transparency Act], June 19, 2012 (Ger).
+10                                       《中研院法學期刊》第37期（2025年9月）
+
+
+
+     The Freedom of Information Acts grant access to government
+information to private actors who wish to utilise that information
+commercially. In principle, access petitioners can also request access to
+machine-readable raw data and the associated meta-information based
+on these laws. However, these laws do not provide for the
+comprehensive publication of such data.
+
+     To close this gap, the federal legislature and some states have
+                                                    15
+recently introduced open data regulations.               These regulations oblige
+public authorities to make their raw data sets and associated metadata
+publicly available in unprocessed, machine-readable form. The metadata
+must be published on a central platform. The open data regulations are
+intended to enable private actors to process the published data directly
+and automatically.
+
+     Finally, sector-specific regulations oblige public authorities to
+publish certain data sets in machine-readable form. Examples include
+         16                                                        17
+geodata       or certain information about the environment.
+
+     According to both the Freedom of Information Acts and the open
+data regulations, government information must be provided in the form
+in which it is available to the authority. These regulations do not provide
+for the data to be checked before it is passed on or for other specific
+measures to ensure data quality.
+
+
+
+15 E.g., with regard to federal public authorities, Gesetz zur Förderung der
+   elektronischen Verwaltung [EGovG] [Federal E-Government Act], July 25, 2013, §
+   12a (Ger.).
+16 E.g., with regard to federal public authorities, Gesetz über den Zugang zu digitalen
+   Geodaten [GeoZG] [Spatial Data Access Act], Feb. 10, 2009, §§ 5 et seqq. (Ger.).
+17 E.g., with regard to federal public authorities, Umweltinformationsgesetz [UIG]
+   [Federal Environmental Information Act], Dec. 22, 2004, § 10 (Ger.).
+Secondary Use of Government Information in Germany                             11
+
+
+    All regulations that provide for access to government information
+by private bodies are subject to restrictions. These restrictions go well
+beyond the regulations for data exchange between public authorities.
+                                                                               18
+      On the one hand, access restrictions result from individual rights.
+As with the exchange of information between public authorities, data
+protection must be observed. The Freedom of Information Acts stipulate
+that the obligated authorities may only disclose personal data if the data
+subject consents or if the access interest of the access petitioner
+outweighs the rights and freedoms of the data subject. In addition, all
+regulations on data access contain provisions to ensure the protection of
+trade secrets and intellectual property rights.
+
+      On the other hand, public interests can restrict access to
+              19
+information. For example, a public authority may not release any
+information that is classified. Access to data is also excluded if it could
+frustrate the objective of an official procedure or jeopardise public safety.
+Some authorities are even excluded completely from the scope of the
+Freedom of Information Acts. For example, the Federal Freedom of
+                                                             20
+Information Act does not apply to the intelligence services.
+
+     More recent regulations go beyond the access of private bodies to
+government information and deal with the use of the information
+obtained. The aim of these regulations is to ensure the efficient use of
+government information and to rule out discriminatory conditions of use.
+For instance, they limit fees for access to government information and
+                                          21
+rule out granting exclusive rights of use.
+
+18 E.g., IFG, §§ 5 et seq.
+19 E.g., IFG, §§ 3 et seq. er.
+20 IFG, § 3 no. 8.
+21 Gesetz für die Nutzung von Daten des öffentlichen Sektors [DNG] [Data Use Act],
+   July 16, 2021, §§ 6, 10 (Ger.).
+12                                              《中研院法學期刊》第37期（2025年9月）
+
+
+
+C. Functional limitations of the general rules
+       The general rules on the secondary use of government information
+for public authorities and private actors differ significantly. They are,
+however, similar in terms of their performance and limitations.
+
+       The general rules provide a legal framework that enables the
+secondary use of government information in principle. Secondary use is,
+however, limited to data currently held by public authorities. The general
+rules do not oblige public authorities to collect or store certain data or to
+process the data stored by them in a certain form to enable secondary use.
+Moreover, there are no general requirements for data quality that are
+specifically tailored to the secondary use of government information.
+
+       Further limitations of the general regulations arise from the
+restrictions on access to government information. The regulations on
+data access by private bodies contain far-reaching exceptions to protect
+individual rights and public interests. The general rules on data exchange
+between public authorities are formulated more broadly. Nevertheless, as
+far as the exchange of personal data is concerned, the scope of these
+provisions is limited due to higher-ranking law. Under European and
+German law, data protection is not merely a regulatory objective, but
+                                    22
+also a fundamental right.                  The legal bases for data processing must
+therefore comply with the fundamental right to data protection and must
+be interpreted in accordance with this fundamental right. With the
+requirements of necessity and proportionality, the general legal bases
+under data protection law provide for minimum requirements only. They
+therefore cannot be applied to more intrusive data processing, which
+
+
+22 Charter of Fundamental Rights of the European Union art. 8, 2012 O.J. (C 326) 391,
+     397; GG, art. 2 (1) and art. 1 (1).
+Secondary Use of Government Information in Germany                                13
+
+
+encroaches intensively on the fundamental right to data protection. Such
+encroachment requires a specific legal basis that is tailored to the
+                                                                                  23
+purpose of the processing in question and contains specific safeguards.
+
+       With regard to the secondary use of government information,
+specific legal bases are required for the following types of use in
+particular:
+1.     the transmission and use of data that is particularly sensitive,
+2.     the creation of comprehensive information systems that enable the
+       exchange of data for many participating bodies,
+3.     the use of complex analysis technology that can generate far-
+       reaching new information.
+
+
+
+III. Sector-specific requirements for the secondary use
+     of government information
+
+       The need for specific rules for these types of use is largely
+undisputed. However, the exact requirements for data access and data
+use are not yet completely clear. In the following, I will present
+examples of the various types of use, which have recently been the
+subject of key court decisions or are the subject of pending proceedings.
+I should disclose that I am acting as representative or advisor to the data
+subjects in all pending proceedings that I will discuss.
+
+
+
+
+23 Cf. e.g., with respect to CCTV surveillance, BVerfG, 1 BvR 2368/06, Feb. 23, 2007,
+     paras. 41 et seqq.
+14                                          《中研院法學期刊》第37期（2025年9月）
+
+
+
+A. Transmission of sensitive data – example: results of
+   surveillance by security authorities
+       The simplest form of access to government information consists of
+a public authority transmitting data to another body. A specific legal
+basis is needed if the data is particularly sensitive. Sensitivity may result
+from the subject matter of the data. For example, data concerning a
+                                                                            24
+person's health or sexual orientation is sensitive in this sense.                By
+contrast, the case law of the Federal Constitutional Court has so far
+focussed on the transmission of data that an authority has collected using
+particularly intrusive means. The security authorities, i.e. the police, law
+enforcement agencies and intelligence agencies, are primarily authorised
+to use such means.
+
+       The regulatory problem which arises from the transmission of
+sensitive data can be illustrated using the example of criminal procedure
+law. The German Code of Criminal Procedure only authorises the use of
+intrusive data collection measures, such as the surveillance of
+telecommunications, under strict conditions. Firstly, the law enforcement
+authorities may only use such measures to prosecute serious criminal
+offences. Secondly, intrusive measures must be based on a substantiated
+                                       25
+suspicion of a criminal offence.
+
+       If the law enforcement authorities were allowed to transfer the
+information they have gained through intrusive measures to other public
+authorities based on the general rules, the transfer would only depend on
+whether that information is necessary to fulfil the tasks of these
+
+
+24 Cf. GDPR, art. 9 (1).
+25 E.g., with respect to telecommunications surveillance, Strafprozeßordnung [StPO]
+     [Code of Criminal Procedure], § 100a (Ger.).
+Secondary Use of Government Information in Germany                                   15
+
+
+authorities. This could serve to circumvent the legal requirements for
+intrusive surveillance. The recipient of the data could receive
+information that they are not authorised to collect themselves. This is
+because not all official tasks are so significant that they would warrant
+intrusive surveillance. Furthermore, the principle of necessity under data
+protection law does not presuppose particularly substantiated factual
+grounds for a transfer of data.
+
+      The Federal Constitutional Court has in its case law derived a
+criterion for the transfer of sensitive data which serves to avoid such
+circumvention. The Court refers to this criterion as hypothetical re-
+collection of data. According to this criterion, the legislator may only
+authorise such a data transfer if its purpose is so important that it could
+                                                                       26
+justify the collection of the data by the measure in question.
+
+      The criterion of hypothetical re-collection of data significantly
+restricts the secondary use of information that a security authority has
+obtained by intrusive means. This criterion primarily allows data transfers
+to other security authorities. Data transfers to authorities that are not
+specifically tasked with protecting public security and fighting crime are,
+as a matter of principle, only permitted where there is grave and imminent
+danger. Furthermore, the recipient may only use the data to avert that
+        27
+danger.      The recipient must therefore not use the transmitted data for
+
+26 BVerfG, 1 BvR 966/09, 1 BvR 1140/09, Apr. 20, 2016, paras. 286 et seqq., english
+   translation available at https://www.bundesverfassungsgericht.de/SharedDocs/Entsche
+   idungen/EN/2016/04/rs20160420_1bvr096609en.html; BVerfG, 1 BvR 1619/17, Apr.
+   26, 2022, paras. 230 et seqq., english translation available at https://www.bundesver
+   fassungsgericht.de/SharedDocs/Entscheidungen/EN/2022/04/rs20220426_1bvr16191
+   7en.html.
+27 Cf. e.g., Gesetz über die Zusammenarbeit des Bundes und der Länder in Angelegenheiten
+   des Verfassungsschutzes und über das Bundesamt für Verfassungsschutz [BVerfSchG]
+   [Federal Act on the Protection of the Constitution], Dec. 20, 1990, § 19 (1) (Ger.).
+16                                    《中研院法學期刊》第37期（2025年9月）
+
+
+
+the regular fulfilment of its tasks, insofar as those tasks go beyond a
+mere crisis response. Accordingly, the recipient may not store the data in
+its own databases beyond the specific occasion of the data transfer.
+
+     Furthermore, there is little leeway for the transfer of data that a
+security authority has obtained by intrusive means to private bodies.
+Such transfers are primarily permitted to avert serious threats by
+                                                                28
+enabling the recipient to take self-protection measures.             However,
+transfers for research purposes, which are authorised under many
+security law statutes, have a special status. For example, research
+institutions may receive files from criminal proceedings if a research
+project cannot otherwise be carried out. To protect the data subjects, the
+transferred files are subject to strict purpose limitation. In addition, the
+persons reviewing the files are under a special obligation to maintain
+                29
+confidentiality.
+
+B. Inter-agency information systems
+     Inter-agency information systems, in which several public
+authorities share their data, pose more complex regulatory problems than
+the mere transfer of data. Such systems create specific risks for the data
+subjects. They usually store data for long periods of time, even if the
+public authority that originally collected the data no longer needs it to
+fulfil its tasks. By removing data from the context in which it was
+collected, information systems may lead to misinterpretations when the
+data are used. The storage of personal data in inter-agency information
+
+
+
+   Exceptional cases of data transfers without imminent danger are regulated in
+   BVerfSchG, § 20.
+28 Cf. e.g., BVerfSchG, § 22a.
+29 Cf. e.g., StPO, § 476.
+Secondary Use of Government Information in Germany                         17
+
+
+systems can significantly restrict the privacy of the data subjects due to
+the sheer volume of data stored. Finally, storing large volumes of data
+inevitably entails risks for the confidentiality of the data.
+
+     These risks arise from the data storage itself, not only from the
+subsequent transmission and use of the stored data. Data storage therefore
+requires a legal basis that limits the scope of storage to what is necessary
+and minimises the remaining risks through substantive, procedural and
+technological requirements. The subsequent transmission and use of the
+stored data must be understood as independent processing operations,
+which in turn harbour risks of their own. Therefore, specific legal bases
+are also required for the transmission and use of the stored data.
+
+     In Germany, there is still considerable uncertainty as to which
+regulatory approaches are appropriate to mitigate the risks of the storage
+and use of data in inter-agency information systems. I will illustrate this
+uncertainty with the example of two information systems. One of them
+was the subject of a recent landmark decision by the Federal
+Constitutional Court. The other is currently being challenged in
+proceedings before several administrative courts.
+
+    1. Example 1: Information network of the Federal Criminal
+       Police Office
+     My first example is the information network of the Federal
+Criminal Police Office (Bundeskriminalamt, BKA). The Federal
+Criminal Police Office is a federal police authority. There are several
+                                                30
+other federal and state police authorities.          The fulfilment of general
+
+
+30 Cf. in more detail MATTHIAS HERDEGEN ET AL. EDS., CONSTITUTIONAL LAW IN
+   GERMANY, at § 28 paras. 77 et seq. (2024).
+18                                         《中研院法學期刊》第37期（2025年9月）
+
+
+
+police tasks is the responsibility of the states. By contrast, the main task
+of the Federal Criminal Police Office is to support and coordinate the
+other German police authorities. The information network is paramount
+to that task. It is a central database for law enforcement purposes in
+which all German police authorities participate.
+
+         The legal basis of the information network was the subject of a
+                                                                              31
+recent landmark judgment by the Federal Constitutional Court.                      In this
+judgment, the Court had to decide for the first time on the constitutional
+framework of information systems, in which public authorities store data
+as a precautionary measure for use in future proceedings.
+
+         The Federal Constitutional Court declared a provision of the
+Federal Criminal Police Office Act unconstitutional that permits
+precautionary storage of data relating to a person who is charged with a
+criminal offence. Such storage is generally permitted even if the charges
+are ultimately dropped or the data subject is acquitted in a criminal
+         32
+trial.        The Federal Constitutional Court held that this provision is
+unconstitutional as far as it permits data storage. According to the Court,
+the precautionary retention of police data is only constitutionally
+permissible if it is based on a sufficiently clear factual basis. If personal
+data is retained for law enforcement purposes, this prerequisite is only
+met if the data subject is likely to be connected to future crimes and the
+data can make a reasonable contribution to the prevention and
+prosecution of such crimes. The mere fact that the data subject has been
+
+31 Disclosure: I acted as representative of the complainants in the proceedings before the
+     Federal Constitutional Court.
+32 Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der
+     Länder in kriminalpolizeilichen Angelegenheiten [BKAG] [Federal Criminal Police
+     Office Act], Jan. 1, 1951, BGBl. I at 165, last amended by Gesetz [G], June 1, 2017,
+     BGBl. I at 1354, § 18 (1) no. 2 and (5) (Ger.).
+Secondary Use of Government Information in Germany                             19
+
+
+charged with a criminal offence is not sufficient. Since it is uncertain
+whether the data subject committed the offence, such a charge does not
+by itself justify the conclusion that the data subject will be linked to
+future offences. By contrast, the provision in question does not require a
+                                                                     33
+more concrete prediction of such offences by the data subject.
+
+     Moreover, the legal basis of the information network does not
+distinguish between the processing operations of data storage and data
+use. It regulates both operations in the same provisions under the
+common term of further processing. This approach inevitably leads to
+the legal basis falling short of the mark with respect to data use. Once
+the police have stored personal data, they are free to use it for all kinds
+of analyses without further justification. This means that little remains of
+the principle of purpose limitation, which is of central importance for the
+fundamental right to data protection. It is therefore essential that the use
+of the stored data depend on specific conditions. These conditions must
+relate to the purpose of the use and effectively guide this processing
+operation. Unfortunately, the Federal Constitutional Court did not decide
+on data use, since the Court considered the constitutional complaint
+                               34
+inadmissible in that respect.
+
+     2. Example 2: Central Register of Foreign Nationals
+     The judgment on the information network of the Federal Criminal
+Police Office is also significant for other inter-agency information
+systems. The Central Register of Foreign Nationals provides another
+
+
+
+33 BVerfG, 1 BvR 1160/19, Oct. 1, 2024, paras. 178 et seqq., english translation
+   available at https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/
+   EN/2024/10/rs20241001_1bvr116019en.html.
+34 Ibid. paras. 72 et seq.
+20                                         《中研院法學期刊》第37期（2025年9月）
+
+
+
+example of such a system. This register is a database maintained by the
+Federal Office for Migration and Refugees (Bundesamt für Migration
+und Flüchtlinge, BAMF). It contains information on all foreign nationals
+who are permanently resident in Germany or who otherwise have a close
+connection to Germany. With around 26 million records, it is one of the
+most comprehensive public registers in Germany. Exactly what data is
+                                                                                 35
+stored about a person depends on the reason for the storage.                          For
+example, a particularly extensive set of data is stored on people who
+arrive in Germany as refugees. With respect to these persons, the register
+contains, among other data, biometric data such as photographs and
+fingerprint samples as well as information on religious affiliation,
+education or occupation. Moreover, the Central Register of Foreign
+Nationals serves as a central document repository, which stores the full
+text of official and court decisions relating to asylum and residence law.
+
+      All public authorities in Germany can access data from the Central
+Register of Foreigners. In total, more than 16,000 public authorities with
+over 150,000 individual users have access to this database. However,
+most agencies are only authorised to access part of the data stored. Some
+                                                                                       36
+authorities, such as the security authorities, have comprehensive access.
+
+      Several foreign nationals have recently filed lawsuits before various
+administrative courts in which they challenge parts of the legal basis of
+                                                     37
+the Central Register of Foreign Nationals.                These lawsuits provide an
+
+
+35 Gesetz über das Ausländerzentralregister [AZRG] [Central Register of Foreign
+   Nationals Act], Sept. 2, 1994, last amended by Gesetz [G], May 8, 2024, BGBl. I at
+   152, § 12 (1) no. 3 (Ger.).
+36 AZRG, §§ 10 et seqq.
+37 Cf. for more detailed information on the proceedings, english available at GFF, THE
+   CENTRAL REGISTER OF FOREIGNERS – A DATA COLLECTION OUT OF CONTROL,
+   https://freiheitsrechte.org/en/themen/gleichbehandlung/azr (last visited Dec. 4, 2024).
+Secondary Use of Government Information in Germany                               21
+
+
+opportunity for the administrative courts to evaluate the constitutional
+and European law standards for the relationship between the scope of
+data storage and the conditions of data use with respect to a complex
+inter-agency collection of sensitive data. The plaintiffs argue that the
+register contains some very sensitive information. This is particularly
+true for the full texts of asylum decisions. The examination of an asylum
+application requires a comprehensive examination of the applicant's
+claim to be politically persecuted. The reasoning of such a decision may
+therefore include information on ethnicity, physical and mental health,
+sexual identity, violence suffered or the religious, ideological, and
+political beliefs of the data subject. It is not immediately clear why these
+documents need to be stored centrally. Moreover, the threshold for
+accessing them is quite low. The law only requires that knowledge of the
+data be necessary to fulfil the tasks of the receiving authority. The
+requirements for access therefore do not go beyond the minimum
+standard under data protection law. It appears questionable whether this
+is sufficient to justify the encroachment on the fundamental right to data
+protection given its considerable intensity.
+
+C. Platforms for complex analyses – example:
+   central platform for health data
+     Finally, the so-called data transparency platform provides an
+example of an extensive information system that provides data for
+                          38
+complex analyses.              The Federal Institute for Drugs and Medical
+Devices (Bundesamt für Arzneimittel und Medizinprodukte, BfArM) runs
+this information system, acting as a research data centre. The data
+
+
+38 Sozialgesetzbuch Fünftes Buch [SGB V] [Volume 5 of the Social Insurance Code], §§
+   303a et seqq (Ger.).
+22                                         《中研院法學期刊》第37期（2025年9月）
+
+
+
+transparency platform contains health data of all persons insured by the
+statutory health insurance scheme. This is just under 90 per cent of the
+German population. The data transparency platform makes this data
+available for various purposes, including medical research, the
+development and evaluation of pharmaceuticals, planning, analysing and
+evaluating healthcare and health reporting. It stores basic data such as
+age and gender as well as information on illnesses, medical treatments,
+and prescribed medications in pseudonymised form for a period of up to
+100 years. Potential users of the data transparency platform include
+public health authorities, research institutions and pharmaceutical
+companies.
+
+       In the context of an evaluation project, the research data centre
+generally carries out the necessary calculations as specified by the
+authorised user. The research data centre then transmits the results to the
+authorised user in anonymised and aggregated form. If required for the
+purpose of the analysis, the research data centre may provide the
+authorised user with pseudonymised individual data sets. Data
+processing is only permitted in a secure physical or virtual environment
+under the control of the research data centre.
+
+       Two lawsuits are currently pending, which were filed by persons
+with statutory insurance who are objecting to the transfer of their
+                                                      39
+insurance data to the research data centre.                The plaintiffs are of the
+opinion that the legal basis of the data transparency platform infringes
+
+
+39 Cf. for more detailed information on the proceedings, english available at GFF,
+     DATABASE WITH HEALTH DATA OF 73 MILLION STATUTORILY INSURED INDIVIDUALS
+     MUST NOT BECOME A DATA LEAK, https://freiheitsrechte.org/en/themen/digitale-
+     grundrechte/datenbank-mit-gesundheitsdaten-von-73-millionen-gesetzlich-versicherten-
+     darf-nicht-zum-datenleak-werden (last visited Dec. 4, 2024).
+Secondary Use of Government Information in Germany                                23
+
+
+European data protection law and the fundamental right to data
+protection. They state two grounds for their actions.
+
+     Firstly, the plaintiffs criticise the centralisation of data storage at the
+research data centre. They believe that the health insurance funds could
+carry out the analyses in a decentralised manner through distributed
+calculations. This would avoid the security risks associated with
+centralised data storage. In addition, decentralised data storage would
+strengthen the rights of data subjects. For example, the research data
+centre is not able to provide a data subject with information about the
+stored pseudonymised data, as it does not know and is not permitted to
+know which persons the individual data records relate to. With
+decentralised data storage, on the other hand, a request for access to the
+stored data could easily be granted.
+
+     Secondly, the plaintiffs consider it disproportionate that their health
+data is stored in the data transparency platform even against their
+declared will. In the opinion of the plaintiffs, they must have a right to
+object to the storage and use of their data, which could be limited to
+individual analysis projects if necessary. At the very least, particularly
+vulnerable persons who could be identified with little additional
+information should have such a right to object. For example, one of the
+plaintiffs suffers from a combination of rare diseases that only occurs in
+a small number of people throughout Germany.
+
+     Together with their lawsuits, the plaintiffs filed applications for
+interim measures to prevent the transfer of their health data to the
+                                                                   40
+research data centre. These applications were successful.               By contrast,
+
+
+40 Sozialgericht [SG] [Social Welfare Court] June 1, 2022, S 25 KR 932/22 DS ER,
+   https://www.sozialgerichtsbarkeit.de/node/172283; Landessozialgericht [LSG] [State
+24                                       《中研院法學期刊》第37期（2025年9月）
+
+
+
+the main proceedings are currently suspended as the research data centre
+is not yet operational. In one of the lawsuits, however, the court has
+indicated that it is considering a referral to the Court of Justice of the
+European Union for a preliminary ruling. The proceedings could
+therefore lead to a landmark decision on the balance between research
+interests and data protection in the healthcare sector. Such a decision
+could be significant beyond the scope of the pending proceedings since
+several current legislative proposals in Germany and the European
+Union provide for an expansion of the secondary use of health data.
+
+
+
+IV. Conclusion
+
+       German law contains a general framework for the secondary use of
+government information, which is supplemented by numerous sector-
+specific regulations. This regulatory technique means that the legal basis
+for secondary use is not very clear. It is fair to assume that nobody has a
+complete overview of the multitude of public information systems and
+the associated regulations on the storage and use of data. However, in
+view of the diversity of official tasks and the data collected in the
+fulfilment of these tasks, the sector-specific regulatory approach seems
+unavoidable.
+
+       Data protection law currently poses the biggest regulatory challenge
+in relation to the secondary use of government information. In particular,
+the data protection requirements for cross-authority information systems
+are still unclear in several respects. Nevertheless, it would be a
+
+
+     Social Welfare Court], Sept. 14, 2022, L 8 KR 168/22 DS B ER, https://www.sozial
+     gerichtsbarkeit.de/node/172282.
+Secondary Use of Government Information in Germany                       25
+
+
+misconception to view data protection law merely as an obstacle to the
+secondary use of government information. Data protection law largely
+permits such use, provided that it takes sufficient account of the interests
+of the data subjects through substantive, organisational and procedural
+requirements. The associated regulatory problems appear to be solvable.
+The rights of data subjects can even contribute to data quality and thus
+favour efficient secondary use.
+
+     The biggest obstacle on the way to efficient secondary use of
+government information in Germany is likely to be the unsatisfactory
+state of digitisation of the administration. The legal requirements for
+administrative digitisation have so far done little to change the fact that
+Germany is lagging behind other comparably developed countries.
+Whether and how better regulation can help to catch up is a key question
+for modern administration from a German perspective. In this respect, it
+is important to learn from successful models abroad.
+26                              《中研院法學期刊》第37期（2025年9月）
+
+
+
+
+                            References
+
+Herdegen, Matthias, Johannes Masing, Ralf Poscher, and Klaus
+     Ferdinand Gärditz, eds. 2024. Constitutional Law in Germany.
+     München: C. H. Beck.
+

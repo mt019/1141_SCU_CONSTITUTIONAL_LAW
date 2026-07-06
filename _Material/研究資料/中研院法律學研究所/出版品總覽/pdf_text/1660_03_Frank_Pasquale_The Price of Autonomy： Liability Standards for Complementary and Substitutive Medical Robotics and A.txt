@@ -1,0 +1,1497 @@
+ Article
+Academia Sinica Law Journal                                                          41
+Issue 34, pp. 41-80 (March 2024)
+
+
+                                                                   ＊
+                  The Price of Autonomy:
+ Liability Standards for Complementary and Substitutive
+       Medical Robotics and Artificial Intelligence
+
+                                                     ＊＊
+                              Frank Pasquale
+
+
+                                     Abstract
+      When AI or robotics assist a professional, they are tools. In
+medicine, the doctrine of “competent human intervention” has tended to
+shift liability away from those who make devices and toward the
+professionals who use them. However, the professional in such scenarios
+should not bear the entire burden of responsibility. Tools can be
+defective, and vendors of defective, complementary AI and robotics
+should be held responsible for negligence. The burden of proof should
+still be on the plaintiff to demonstrate that not only a skilled medical
+professional, but also the maker of the tools used by such a professional,
+should be held liable for a preventable adverse outcome.
+     When AI and robotics replace, rather than merely assist, a skilled
+medical professional, the vendor of such computational systems needs to
+take on more responsibility for errors and accidents. In the medical field,
+
+＊  Submission Date: July 31, 2019; Acceptance Date: January 3, 2023. [Line Editor:
+   You syuan Lu & Chia Yo Yan].
+   I wish to thank expert audiences at National Taiwan University and Academia
+   Sinica for greatly enriching my understanding of this area. I also wish to thank
+   anonymous peer reviewers and Anita Bernstein for thoughtful comments. Any
+   errors remain my own responsibility. By mutual agreement of all publication
+   venues, a version of this article has also appeared in The Cambridge Handbook off
+   Artificial Intelligence: Global Perspectives on Law and Ethics, and in Ius et Praxis.
+＊＊ Professor of Law, Cornell Tech and Cornell Law School.
+   Online: https://publication.iias.sinica.edu.tw/40306142.pdf.
+42                                     《中研院法學期刊》第34期（2024年3月）
+
+
+there has long been a standard of competent professional supervision of
+the deployment of advanced technology. When substitutive automation
+endangers patients by short-circuiting that supervision, it is both
+defective and unreasonably dangerous. Nevertheless, at the damages
+phase of litigation, the vendor of the substitutive AI should be entitled to
+explain how damages should be mitigated based on its AI’s performance
+relative to the extant human- or human-machine-based standard of care.
+Such responsibility for explanation will serve an important information-
+forcing function in areas where public understanding is often limited by
+trade secrecy.
+     As law and political economy methods demonstrate, law cannot be
+neutral with respect to markets for new technology. It constructs these
+markets, making certain futures more or less likely. Distinguishing
+between technology that substitutes for human expertise and that which
+complements professionals is fundamental not just to labor policy and
+the political economy of automation, but also to tort law.
+
+KEYWORDS: artificial intelligence (AI), robotics, liability, automation,
+          automated decision making, malpractice, enterprise
+          liability, professions, political economy, clinical decision
+          support software.
+
+
+                                   Contents
+
+ I.     Introduction
+ II.    A Negligence Standard for Complementary Robotics
+ III.   Strict Liability for Substitutive Automation
+ IV.    Concluding Remarks: Virtues of a Mixed Negligence-Strict Liability
+        Regime
+The Price of Autonomy                                                                   43
+
+
+I. Introduction
+
+      There are now robotic applications for nursing home patients, the
+mentally ill, and other vulnerable populations. These advanced
+technologies raise critical liability questions for the medical profession.
+Consider the case of robotically assistive surgical devices (RASDs)
+which surgeons use to control small cutting and grasping devices. If a
+surgeon’s hand slips with a scalpel, and a vital tendon is cut, our intuitive
+sense is that the surgeon bears the primary responsibility for the resultant
+malpractice suit. But the vendor of an RASD may eventually market a
+machine which has a special “tendon avoidance subroutine,” akin to the
+alarms that automobiles now sound when their sensors indicate a likely
+collision. If the tendon sensors fail, and the warning does not sound
+before an errant cut is made, may the harmed patient sue the vendor of
+the RASD? Or only the physician who relied on it?
+
+      Similar problems arise in the context of some therapy apps. For
+example, a counselor may tell a patient with substance use disorder
+(SUD) to use an app in order to track cravings, states of mind, and other
+information helpful to those trying to cure addictions. The app may
+recommend certain actions in case the counselor cannot be reached. If
+these actions are contraindicated and result in harm to the patient or
+others, is the app to blame? Or the doctor who prescribed it? Or both?
+Home health care businesses may encounter similar dilemmas as they
+                                      1
+deploy so-called “care robots.”
+
+
+
+1   For a fascinating overview of legal issues raised by care robots, see Valarie K. Blake,
+    Regulating Care Robots, 92 TEMP. L. REV. 551 (2020). For examples of medical
+    automation gone awry, see ROBERT WACHTER, THE DIGITAL DOCTOR: HOPE, HYPE,
+    AND HARM AT THE DAWN OF MEDICINE’S COMPUTER AGE (2015).
+44                                         《中研院法學期刊》第34期（2024年3月）
+
+
+
+      Of course, in neither the surgical nor the mental health scenario is
+the answer necessarily binary. There may be shared liability, based on an
+apportionment of responsibility. But before courts can trigger such an
+apportionment, they must have a clear theory upon which to base the
+responsibility of vendors of technology.
+
+      This article develops such an approach. What is offered here is not
+a detailed blueprint for liability determinations in any particular
+jurisdiction. Instead, this article presents a binary approach toward ideal-
+typical liability situations intended to structure policy discussions on
+                                                                                  2
+liability for harm caused by AI and robotics in medical contexts. The
+binary is the distinction between substitutive and complementary
+              3
+automation. When AI and robotics substitutes for a physician, strict
+liability is more appropriate than standard negligence doctrine. When the
+same technology merely assists a professional, a less stringent standard
+is appropriate. Such standards will help ensure that the deployment of
+advanced medical technologies is accomplished in a way that
+complements extant professionals’ skills, while promoting patient safety.
+
+      As law and political economy methods demonstrate, law cannot be
+                                                                4
+neutral with respect to markets for new technology. It constructs these
+
+
+
+2 This article will draw on common law principles in many jurisdictions, in order to
+  inform a general policy discussion. It does not attempt to give detailed legal guidance,
+  or map how courts presently do handle cases involving AI and complex computation
+  in medical contexts. Rather, cases and other legal materials are drawn upon to
+  illustrate the complement/substitute distinction.
+3 This distinction may also be styled as a contrast between artificial intelligence (AI)
+  and intelligence augmentation (IA). However, that contrast would probably confuse
+  matters at present, given that much of what is called AI in contemporary legal and
+  policy discussions is narrow enough to be IA.
+4 See Martha T. McCluskey, Frank Pasquale & Jennifer Taub, Law and Economics:
+  Contemporary Approaches, 35 YALE L. & POL’Y REV. 297 (2016).
+The Price of Autonomy                                                                  45
+
+
+markets, making certain futures more or less likely. Distinguishing
+between technology that substitutes for human expertise and that which
+complements professionals is fundamental to both labor policy and the
+political economy of automation.
+
+      For example, in the case of computerized physician order entry
+(CPOE) for prescriptions, a “drug-drug interaction” alert (DDI) could
+simply warn a physician about possible side effects from simultaneous
+                            5
+ingestion of two pills. That is complementary automation. If the DDI
+alert were, in fact, incorrect, a harmed patient could sue both the
+physician and the vendor of the CPOE system, but the burden should be
+on the patient to demonstrate the CPOE system’s vendor failed to follow
+the proper standard of care in updating data or improving algorithms in
+order to avoid the problem. And the physician might still bear all or most
+of the responsibility, under the doctrine of competent human intervention.
+
+      By contrast, some CPOE systems of the future may simply “decide
+everything” with respect to the prescription of the two pills, preventing
+the doctor from prescribing them together. In such a scenario, the
+physician is no longer responsible—she or he cannot override the system.
+Given this extraordinary deviation from ordinary professional standards
+in medicine—which require a skilled person to mediate between
+technology and the patient—it is appropriate to impose strict liability up
+and down the distribution chain of such a substitutive AI. Under a strict
+liability standard, in case of a preventable adverse event, the
+manufacturer, distributor, and retailer of the product may be liable, even
+if they were not at fault.
+
+5   For a good typology of potential scenarios arising in the context of assistive AI, see
+    generally W. Nicholson Price, II, Sara Gerke & I. Glenn Cohen, Potential Liability for
+    Physicians Using Artificial Intelligence, 322 JAMA 1765 (2019).
+46                                         《中研院法學期刊》第34期（2024年3月）
+
+
+
+      This may seem like an unduly harsh standard. However, the
+doctrine of strict liability arose in response to those who sold “any
+product in a defective condition unreasonably dangerous to the user or
+                                   6
+consumer or to his property.” In the medical field, there has long been a
+standard of competent professional supervision and monitoring of the
+                                                7
+deployment of advanced technology. When substitutive automation
+short-circuits that review, it is both defective and unreasonably
+dangerous. It also tends toward the diminution of the distributed
+                                                 8
+expertise so critical to medical advance.
+
+      This article develops the complementary and substitutive categories
+via two case studies. Part II explores the complementary role of RASDs,
+and some litigation that has arisen regarding them. Part III introduces
+substitutive AI and robotics, and demonstrates the ways in which strict
+liability standards are likely necessary to promote accountability in their
+development and deployment, to preserve a unitary standard of care, and
+to promote public awareness of their shortcomings. Part IV concludes
+with reflections on the current utility of, and potential challenges to, the
+substitutive/complementary dichotomy.
+
+
+
+6 RESTATEMENT (SECOND) OF TORTS § 402A (AM. L. INST. 1979).
+7 This article addresses policymakers governing health systems with this standard of
+  care. Those in charge of less developed health systems (coping with physician or
+  other staff shortages) may well decide that strict liability is too harsh a standard: if
+  there is no viable human alternative, why discourage direct access to a machine?
+  Those in many of the more developed health systems need to acknowledge their own
+  responsibility for this state of affairs. See Frank Pasquale, Access to Medicine in an
+  Era of Fractal Inequality, 19 ANNALS HEALTH L. 269 (2010) (describing direct and
+  indirect ways in which medical resources are directed away from the developing and
+  toward the developed world).
+8 For an extended argument for the ideal of distributed expertise, see generally FRANK
+  PASQUALE, NEW LAWS OF ROBOTICS: DEFENDING HUMAN EXPERTISE IN THE AGE OF
+  AI (2020).
+The Price of Autonomy                                                               47
+
+
+II. A Negligence Standard for Complementary Robotics
+
+      Prostate surgery has seen rapid adoption of robotics with over 80%
+of the surgeries are performed robotically. Hundreds of urological
+surgeons have adopted the Da Vinci Surgical Robot over the past decade.
+The rapid adoption of the RASDs in prostate surgery demonstrates just
+how fast a new machine can change the face of practice for hundreds of
+                          9
+thousands of patients.
+
+      At the outset, it is important to be clear about the terminology and
+effects of machines like the da Vinci robot. The device itself does not
+complete the surgery. Rather, it is an extremely sophisticated tool
+deployed by a skilled surgeon. The surgeon operates at a console,
+manipulating instruments from afar. What distinguishes robotic surgery
+from its predecessor, laparoscopic surgery, is that rather than merely
+deploying a tube with a cutter and a grabber at each end, the surgeon
+using an RASD has more dexterity—the device can twist around and act
+as a second wrist or eleventh finger. These RASDs took off at first in
+urology, because many urological and gynecological procedures involve
+very sensitive tissue that can only be accessed through a small opening
+
+
+9   See Gina Kolata, Results Unproven, Robotic Surgery Wins Converts, N.Y. TIMES (Feb.
+    13, 2010), http://www.nytimes.com/2010/02/14/health/14robot.html?pagewanted=1&hp;
+    compare Giacomo Novara et al., Systematic Review and Meta-analysis of Perioperative
+    Outcomes and Complications After Robot-assisted Radical Prostatectomy, 62 EUR.
+    UROLOGY 431 (2012), with Surgical Robots Market Size, Share & Trends Analysis
+    Report By Application (Orthopedics, Neurology, Urology, Gynecology), By Region
+    (North America, Europe, Asia Pacific, LATAM, MEA), and Segment Forecasts,
+    2023 – 2030, GRAND VIEW RES. (Apr. 2016), http://www.grandviewresearch.com/
+    industry-analysis/surgical-robot-market. Legal scholarship addressing the surgical
+    robotics market includes Andrew Chin, Surgically Precise but Kinematically Abstract
+    Patents, 55 HOUS. L. REV. 267 (2017) (describing how intellectual property law helps
+    enable monopolistic business practices).
+48                                  《中研院法學期刊》第34期（2024年3月）
+
+
+
+at the base of the pelvic bowl. The device can achieve forms of
+movement and illumination of tissue that would be impossible using
+human hands alone.
+
+     That is not to say that the transition from open to robotic
+prostatectomy was an easy one. Surgeons who had worked their entire
+lives through direct manual touch had to adopt their practice to what
+could start off as an unintuitive imaging and manipulation system. At the
+beginning, for many surgeons, the lack of direct touch—the so-called
+haptic interface—made surgery more difficult or time-consuming.
+However, over time, surgeons developed the ability to detect other cues
+for the feel of tissue—for example, how quickly it moves once probed,
+or how blood vessels blanch when the metallic ends of the robotic probe
+contact them. For a surgeon who has already seen and more directly
+prodded bodily tissue hundreds or thousands of times, the association of
+certain sights with other feelings—of softness or hardness, thickness or
+thinness—provide a reservoir of intuition about what the video from the
+RASD is showing. One can think of adapting to a surgical RASD as the
+development of skills somewhat like those required in a videogame
+console control—so that just as the flick of a trigger on a joystick could
+result in a kick for a player’s avatar in a game, so too can a small
+movement in the Da Vinci console cause a cut or lift a vein. Moreover,
+as video proliferates, the “second nature” of the screen may become a
+“first nature” for trainees, and a source of data for machine learning
+programs to identify past errors and deter future ones.
+
+     According to some critics of health technology, the dissemination
+of RASDs is yet another tale of healthcare spending gone out of control.
+The devices can cost over $1 million, with high upkeep and maintenance
+The Price of Autonomy                                                                   49
+
+
+     10
+fees.     Surgeons must invest valuable time to learn the ins and outs of
+                                                                                   11
+the new system. Some have questioned the value of the technology.
+
+        But it is important to take this early medical evidence with a grain
+of salt. One key problem emerges in many areas of clinical innovation—
+those completing robotic surgeries in the first decade of studies could
+only have had 5 to 10 years of experience using the robot, since it was so
+new, while their output was sometimes being compared to the surgeries
+of those who had perfected their skills in open prostatectomies for
+decades. Outcome measures can also be unfairly narrow. For example,
+according to some accounts, those who undergo a robotic surgery for
+prostate cancer can often return home after just four days at the hospital,
+while those undergoing open prostatectomies often take six or seven
+days. In the case of kidney cancer, the smaller incision used for robotic
+surgeries can lead to less pain and shorter recovery times. Surgeons who
+use the RASDs tend to agree that the tools make surgery much easier
+than pure manual manipulation. The human hand has not evolved to
+manipulate a scalpel to make fine distinctions between healthy and
+cancerous tissue; surgical robots can be specifically designed to take on
+
+
+10 Cameron Scott, Is da Vinci Robotic Surgery a Revolution or a Rip-off?, HEALTHLINE
+   (Aug. 10, 2016), https://www.healthline.com/health-news/is-da-vinci-robotic-surgery-
+   revolution-or-ripoff-021215.
+11 See Michelle Andrews, Gynecologists Question Use of Robotic Surgery For
+   Hysterectomies, NPR (Apr. 23, 2013), http://www.npr.org/blogs/health/2013/04/23/
+   178576759/gynecologists-question-use-of-robotic-surgery-for-hysterectomies; see also
+   Statement on Robotic Surgery by ACOG President James T. Breeden, MD, DR. WHITTED
+   (Mar. 14, 2013), http://drwhitted.net/statement-on-robotic-surgery; Hospitals Misleading
+   Patients About Benefits of Robotic Surgery, Study Suggests, JOHNS HOPKINS MED. (May
+   18, 2011), http://www.hopkinsmedicine.org/news/media/releases/hospitals_misleading_
+   patients_about_benefits_of_robotic_surgery_study_suggests; Robotic Surgery: More
+   Complications, Higher Expense for Some Conditions, COLUM. U. IRVING MED. CTR.
+   (Oct. 8, 2014), http://newsroom.cumc.columbia.edu/blog/2014/10/08/robotic-surgery-
+   complications-higher-expense-conditions/.
+50                                       《中研院法學期刊》第34期（2024年3月）
+
+
+
+this task. Videorecording via miniaturized cameras may also enable new
+research on body tissue. This recording already helps speed the diffusion
+of surgical innovations, as doctors share videos of particularly successful
+surgical techniques at medical conferences.
+
+     Complementary robotics are dominant now. To promote its
+regulatory agenda in the area of robotic surgery in 2015, the Food and
+Drug Administration (FDA) announced a public workshop on
+         12
+RASDs.        Speakers included cutting edge physicians and firms. Neither
+actual implementations of, nor planned development of, fully
+autonomous surgical devices were high on the agenda. Admittedly, firms
+planning fully autonomous systems may be in stealth mode—they could
+lose current surgeons as clients if they talked too openly about replacing
+them. And in 2016, a stitching robot did mark one notable exception to
+                13
+this pattern.        While acknowledging that “the current paradigm of
+robot-assisted surgeries (RASs) depends entirely on an individual
+surgeon’s manual capability,” inventors demonstrated that a robot could
+stitch a split pig intestine together, besting the performance of human
+surgeons. Billed as the “first autonomous robot” to operate, it managed
+to bind a hole in soft tissue with speed and precision. The question, now,
+is whether further industrial development in this area should try to
+change the dominant trend in robotics, by replacing human surgeons—or
+
+
+12 Public Workshop—Robotically-Assisted Surgical Devices: Challenges and Opportunities,
+   July 27-28, 2015, U.S. FOOD & DRUG ADMIN. (2015), http://wayback.archive-it.org/
+   7993/20170112084805/http://www.fda.gov/MedicalDevices/NewsEvents/Workshops
+   Conferences/ucm435255.htm.
+13 See Azad Shademan et al., Supervised Autonomous Robotic Soft Tissue Surgery, 8 SCI.
+   TRANSLATIONAL MED. 337ra64 (2016); Beth Mole, First Autonomous Robot to
+   Operate on Soft Tissue Outdoes Human Surgeons, ARS TECHNICA (May 6, 2016),
+   http://arstechnica.com/science/2016/05/smart-sewing-machine-nails-worlds-first-auto
+   nomous-soft-tissue-surgery.
+The Price of Autonomy                                                                    51
+
+
+if the present path of human-computer interaction is something to
+maintain.
+
+      In theory, it would seem obvious that a robot with minuscule, nimble,
+even laparoscopic probes would be a better interventionist than the
+average surgeon—and perhaps, eventually, even the best ones. “We rely
+on the dexterity of human surgeons but now we know machines are quite
+a bit more precise than humans. If you want to do things with extreme
+                                                                                         14
+precision, a machine would be better,” said one Google researcher.
+And if the “Smart Tissue Autonomous Robot (STAR) could sew more
+evenly and consistently than even an experienced surgeon” on a pig
+intestine, there is no reason in principle it could not do the same with
+                15
+human flesh.         However, “STAR was still dependent on a surgeon to
+make the initial incision, take out the bowel, and line up the pieces”
+                                  16
+before it began suturing.              As leading health technology scholars
+observed in a review article, it will likely be many years or decades until
+                                                                             17
+fully autonomous robots take on a surgery from start to finish.
+
+
+14 Mark Harris, Founder of Google’s Stealthy Surgical Robotics Project Speaks, WIRED
+   (Dec. 14, 2015), https://backchannel.com/founder-of-google-s-stealthy-surgical-robotics-
+   project-speaks-c2f7e0dfe13c#.8brbfi1co.
+15 James Vincent, A Robot Surgeon Has Passed a Major Milestone—Sewing up Pig
+   Guts, THE VERGE (May 4, 2016), https://www.theverge.com/2016/5/4/11591024/robot-
+   surgery-autonomous-smart-tissue-star-system/.
+16 Id. The STAR system has advanced since 2016, according to a recent study, whose
+   authors claim that “Although the system does require manual fine adjustment of the
+   robot to correct positioning if a stitch is missed, more than 83% of the suturing task is
+   completed autonomously using this workflow.” Hamed Saeidi et al., Autonomous
+   Robotic Laparoscopic Surgery for Intestinal Anastomosis, 7 SCI. ROBOTICS eabj2908,
+   at 2 (2022). However, it still involves a human operator, who “selects among
+   autonomously suggested suture plans or approves a replanning step and monitors the
+   robot for repeating a stitch as needed.” Id.
+17 Drew Simshaw et al., Regulating Healthcare Robots: Maximizing Opportunities
+   While Minimizing Risks, 22 RICH. J.L. & TECH. 1, 3 (2016) (“Such autonomy includes
+   the supervisory control paradigm, in which certain functions are automated with a
+52                                           《中研院法學期刊》第34期（2024年3月）
+
+
+
+      Direct-to-consumer medical automation and robotics is currently
+not a plausible step forward in many areas. First, scientific evidence is
+often extremely difficult for the layman to interpret. Large corporations
+can and often do market products in unscrupulous ways. Large
+pharmaceutical firms and device manufacturers have systematically
+                                                 18
+skewed data to support their products.                Responsibility for harms is also
+                                       19
+often defused or deflected.                 Information is scattered, and those
+untrained in medicine may not be able to interpret conflicting studies.
+Uncomplicated medical devices, like joint replacements and screws,
+have continued to be implanted in patients years after serious safety
+concerns were raised. Moreover, firms may impose on individuals “hold
+                                                            20
+harmless” clauses, preventing future lawsuits.                   In other words, even in
+a field as technical and, in principle, automatable as surgery, it is vital to
+
+
+   human supervising the system, all the way to fully autonomous robots. Similarly,
+   health care environments that are reliant on or dominated by all-purpose ‘healthcare
+   companions’ and robotic ‘doctors,’ utilizing artificial intelligence, will raise fascinating
+   questions. However, these technologies will not be available for purchase or be
+   deployed in our hospitals any time soon.”).
+18 Frank Pasquale, Grand Bargains for Big Data: The Emerging Law of Health
+   Information, 72 MD. L. REV. 682, 689 (2013) (“This massive misallocation of
+   resources may be attributed, in part, to failures to act on current data, but it also occurs
+   because useful data is not available, does not exist, or is actively hidden.”); BEN
+   GOLDACRE, BAD PHARMA: HOW DRUG COMPANIES MISLEAD DOCTORS AND HARM
+   PATIENTS 27 (2013) (“First, as we saw in the case of reboxetine, doctors and patients
+   are misled about the effects of the medicines they use, and can end up making
+   decisions that cause avoidable suffering, or even death.”); see also JEANNE LENZER,
+   THE DANGER WITHIN US: AMERICA’S UNTESTED, UNREGULATED MEDICAL DEVICE
+   INDUSTRY AND ONE MAN’S BATTLE TO SURVIVE IT (2017).
+19 Anita Bernstein, (Almost) No Bad Drugs: Near-Total Products Liability Immunity for
+   Pharmaceuticals Explained, 77 WASH. & LEE L. REV. 3, 8 (2020). “Modern products
+   liability identifies three categories of product defect; courts insulate drug
+   manufacturers from responsibility for all three.”
+20 MARGARET JANE RADIN, BOILERPLATE: THE FINE PRINT, VANISHING RIGHTS, AND THE
+   RULE OF LAW 199 (2012). “In the case of a [technological protection measures
+   (TPMs)], the curtailing of user rights is much more literally a part of a digital product
+   than is a set of boilerplate terms that comes with a physical product or a service.”
+The Price of Autonomy                                                           53
+
+
+keep some person in the loop as a source of information and advice for
+laypeople. MIT economist David Autor offers a general reality check
+about automation that applies with even more force here:
+
+    Most automated systems lack flexibility—they are brittle.
+    Modern automobile plants, for example, employ industrial
+    robots to install windshields on new vehicles as they move
+    through the assembly line. But aftermarket windshield
+    replacement companies employ technicians, not robots, to
+    install replacement windshields. Why not robots? Because
+    removing a broken windshield, preparing the windshield frame
+    to accept a replacement, and fitting a replacement into that
+    frame demand far more real-time adaptability than any
+                                           21
+    contemporary robot can approach.
+
+     Of course, futurists can probably imagine a robot in a self-driving
+car that can navigate itself to your car, drive it to a garage, and order
+other robots to replace the windshield. But even that scenario depends on
+a chain of contingencies and potential human interventions when things
+go wrong. When the stakes are higher—for instance, replacing a kidney
+instead of a windshield—then even more back-up systems and planning
+will be necessary.
+
+     To be sure, even in situations where a human health care provider is
+fully in charge, there is some level of responsibility, and perhaps even
+agency, in AI tools used. Bruno Latour puts the matter starkly, claiming
+that “any thing that does modify a state of affairs by making a difference
+
+
+21 David Autor, Polanyi’s Paradox and the Shape of Employment Growth 31 (Nat’l
+   Bureau of Econ. Res. Working Paper No. 20485, 2014), http://www.nber.org/papers/
+   w20485.
+54                                       《中研院法學期刊》第34期（2024年3月）
+
+
+               22
+is an actor.”       He concedes that “it is hard to see how a hammer, a
+                                                                                   23
+basket, a door closer, a cat, a rug, a mug, a list, or a tag could act.”
+However, as one of his more insightful reviewers observes:
+
+      Contrary to some caricatures, actor-network approaches do not
+      fight sociology by proclaiming a contrary religion in which
+      objects and scallops are mysteriously endowed with agency:
+      they simply refuse to ignore, a priori, large realms of activity.
+      Close empirical observation—and not only ethnography,
+      incidentally—may reveal that objects, animals, plants, theories,
+      chemicals, texts, and people may be jostling and pushing in
+      ways that escape observers who already know that the truth lies
+      under the facts, in fields, class structure, etc. What is or is not
+      an actor is a matter for empirical investigation; there is no
+                         24
+      general theory.
+
+       A similar resistance to a totally generalized theory of tort liability is
+evident in U.S. doctrine, in ways that lend some credence to actor-
+network-driven approaches in law. For example, a leading case
+promoting a national (rather than local) and unitary (rather than tiered)
+standard of care in malpractice, also recognized a “resource-based
+caveat:” a doctor in a resource-constrained setting cannot be expected to
+meet a standard of care established in a more resource-supplied
+        25
+locale.      Thus medical equipment in such a case may be considered
+
+
+22 BRUNO LATOUR, REASSEMBLING THE SOCIAL: AN INTRODUCTION TO ACTOR-NETWORK-
+     THEORY 71 (2005).
+23 Id.
+24 Mariana Valverde, Reassembling the Social: An Introduction to Actor-Network Theory.
+   By Bruno Latour, 41 LAW & SOC’Y REV. 744, 745 (2007) (reviewing BRUNO LATOUR,
+   REASSEMBLING THE SOCIAL: AN INTRODUCTION TO ACTOR-NETWORK-THEORY (2005)).
+25 Hall v. Hilbun, 466 So.2d 856 (1985).
+The Price of Autonomy                                                                55
+
+
+something of an actant in the court’s conceptualization of medical
+responsibility. Similarly, the development of theories of enterprise
+liability in health care indicate a level of responsibility for outcomes to a
+non-human “person,” the corporation. Nevertheless, the distinction
+between a (still-putative) robotic surgeon, and a robotic tool operated by
+a person, is clear. Even if the tool acquires sophisticated sensing and
+clinical decision support capabilities, it is ultimately aiding a person in a
+task, rather than completing the task itself.
+
+      Even profit-minded robotics manufacturers may want to keep
+human beings “in the loop”—both to assure better use of their products,
+and to deflect liability. Legal reform will be needed to avoid
+opportunism built around excessively deflective doctrines. If something
+goes wrong with a mechanical system—be it an autopilot on a plane or a
+device used in surgery—doctrines of “competent human intervention,”
+“the learned intermediary,” or “captain of the ship” have tended to shift
+liability to the person operating (or merely capable of taking control
+                                                               26
+from) the device, rather than the device maker.                     But even when
+robotics and AI only complement a professional, there still need to be
+opportunities for plaintiffs and courts to discover whether the
+technology’s developers and vendors acted reasonably. Such inquiry is
+                                                                                27
+endangered by expansive interpretations of the above doctrines.                      As
+
+
+26 Madeleine Elish & Tim Hwang, Praise the Machine! Punish the Human! The
+   Contradictory History of Accountability in Automated Aviation 7, 21 (Data & Soc’y
+   Res. Inst. Working Paper No. 1, 2015) (on captain of the ship and the learned
+   intermediary respectively); Sharona Hoffman & Andy Podgurski, Finding a Cure:
+   The Case for Regulation and Oversight of Electronic Health Record Systems, 22
+   HARV. J.L. & TECH. 103, 133 (2008) (on competent human intervention).
+27 The learned intermediary doctrine holds that the manufacturer of a new technology
+   “discharges their duty of care to consumers by providing adequate warnings” about its
+   potential for harm to professionals using the technology. James Nelson, Arizona High
+56                                        《中研院法學期刊》第34期（2024年3月）
+
+
+
+the example of the tendon-cutting device showed, all responsibility for
+an error should not rest on a doctor when complementary robotics fails
+to accomplish what it promised to do. To hold otherwise would again be
+                                                                    28
+an open invitation to technologists to rest on their laurels.
+
+      Even if technologists develop fully autonomous robot surgeons, the
+ultimate “backup system” would be a skilled human surgeon with some
+                                            29
+experience, flexibility, and creativity.         Our aim should not be to replace
+such individuals, but to aid in their efficiency and effectiveness. The
+sequence and shape of automation in health care cannot simply be
+dictated from on high by engineers. Rather, domain experts need to be
+consulted, and they need to buy into a larger vision of progress in their
+field. Perhaps more of medicine should indeed be automated—but law
+should help ensure that physicians themselves are lasting partners in that
+process. They should be helped, not replaced, by machines, for the short
+to medium term.
+
+      Of course, in the long term, new arrangements may arise. The
+distinction between complementary and substitutive robotics may
+become more a difference of degree rather than kind in some routinized
+aspects of medical practice. The right tools make a job easier—and at
+
+
+
+   Court Reestablishes the “Learned Intermediary” Doctrine, A.B.A. (Feb. 25, 2016),
+   https://www.americanbar.org/groups/litigation/committees/mass-torts/practice/2016/
+   learned-intermediary-doctrine.
+28 Aaron S. Kesselheim, Permitting Product Liability Litigation for FDA-Approved
+   Drugs and Devices Promotes Patient Safety, 87 CLINICAL PHARMACOLOGY &
+   THERAPEUTICS 645, 645 (2010). Note that both physicians and technologists may
+   share responsibility for preventable errors. The amount of compensation in both
+   negligence and strict liability regimes may be limited by state legislatures to avoid
+   over-deterring innovation. But compensation is still due.
+29 NICHOLAS CARR, THE GLASS CAGE: HOW OUR COMPUTERS ARE CHANGING US 155
+   (2015).
+The Price of Autonomy                                                              57
+
+
+times even more engaging. An analogy from the use of technology in
+driving is useful. A truck driver may find that cruise control frees his
+foot from the gas pedal. Automatic transmission makes it easier to shift
+from high to low gear. Collision avoidance software can warn him about
+                           30
+cars in his blind spot.         Technology can make the job much easier—
+until it replaces the driver altogether. So, there is delicate balance
+between inventions that help workers and those which replace them
+altogether. Economists tend to call the former “complementary” to labor,
+and the latter “substitutive.”
+
+     The “be careful what you wish for” story of a worker gradually
+replaced by his tools has a long history. Aristotle speculated about the
+effects of self-driving looms centuries before they transformed
+                  31
+manufacturing.         Hegel tells the story of a master who gradually
+becomes weaker and less competent in comparison with a slave whom
+he forces to perform ever more tasks. Labor economists have worried
+that “deskilling” is the natural consequence of a more mechanized
+                                                          32
+workplace, paving the way to mass automation.
+
+     However, a smooth transition from “being helped” to “being
+replaced” by technology is not an inevitability. Nor should it be in
+
+
+
+30 Karen E. C. Levy, The Contexts of Control: Information, Power, and Truck-Driving
+   Work, 31 INFO. SOC’Y 160, 166 (2015); NAT’L HIGHWAY TRAFFIC SAFETY ADMIN.,
+   ACCELERATING THE NEXT REVOLUTION IN ROADWAY SAFETY 2-3 (2016), https://www.
+   transportation.gov/sites/dot.gov/files/docs/DOT_AV_Policy.pdf.
+31 ARISTOTLE, POLITICS 1-18 (Benjamin Jowett trans., Indo-European Publishing 2012)
+   (350 B.C.E.) (if “shuttles wove and picks played kitharas [stringed instruments] by
+   themselves, master-craftsmen would have no need of assistants and masters no need
+   of slaves.”).
+32 HARRY BRAVERMAN, LABOR AND MONOPOLY CAPITAL: THE DEGRADATION OF WORK
+   IN THE TWENTIETH CENTURY, at xiii (1974); CLAUDIA GOLDIN & LAWRENCE F. KATZ,
+   THE RACE BETWEEN EDUCATION AND TECHNOLOGY 2 (2008).
+58                                          《中研院法學期刊》第34期（2024年3月）
+
+
+
+medicine. While fields like driving have a relatively simple goal (getting
+to a destination as quickly and safely as possible), much of medicine
+entails difficult and subtle trade-offs. There is a much better case for
+aspiring to build drivers’ skills into autonomous vehicles, than trying to
+                                       33
+do the same for physicians.                 Whereas the relevant data about
+autonomous cars will be relatively transparent to potential buyers,
+performance data for autonomous medical equipment is likely to be
+                                  34
+more opaque and contested.             For that reason alone, keeping a “human
+in the loop” is critical. When there are complicated value judgments at
+stake (for example, whether to try a riskier or experimental knee surgery
+in order to try to increase the patient’s ability to run afterwards), there
+are all manner of trade-offs that demand a skilled and experienced
+domain expert’s attention.
+
+
+
+III. Strict Liability for Substitutive Automation
+
+      Insurance contracts, licensure, and certification rules have a
+                                                                  35
+powerful impact on technological development.                          There is no
+autonomous robotic surgeon today—only “robotically assistive surgical
+devices.” Even if some genius were to invent a fully autonomous
+surgical machine, it would need to be vetted by years of tests and
+
+33 Moreover, even in the realm of driving, some firms are focused on keeping human
+   beings in the picture. For example, Toyota has promoted cars with a spectrum of
+   machine involvement, from chauffeur mode (which requires minimal monitoring by a
+   driver) to guardian mode (which focuses the car’s computing systems on accident
+   avoidance, while a person helms the vehicle). Planes have had autopilot capacities for
+   decades, but commercial carriers still tend to have at least two persons at the helm.
+34 GOLDACRE, supra note 18, at 12.
+35 Meghan Hamilton-Piercy, Cybersurgery: Why the United States Should Embrace This
+   Emerging Technology, 7 J. HIGH TECH. L. 203, 216 (2007).
+The Price of Autonomy                                                                 59
+
+
+                                                   36
+research before mass adoption occurred.                 Reimbursement rules may
+create another hurdle for rapid adoption of robotics. When robots
+generate marginally better outcomes, public and private insurers will
+think twice about paying high fees to guarantee access to them.
+
+     Liability concerns will also slow the development of autonomous
+systems. For example, anesthesia may seem like the ideal use case for an
+autonomous robot, since machine-readable reports of bodily states may,
+in principle, be able to indicate any untoward development meriting an
+intervention. However, the field still seems to be focused on assistive
+models. The Sedasys anesthesia machine, for instance, was licensed by
+the FDA to assist anesthesiologists in relatively straightforward
+              37
+operations.         It could monitor patients’ breathing and heart rate,
+administer set doses of anesthesia, and alter those doses in response to
+            38
+new data.          Like the “guardian” mode of cars, designed to prevent
+accidents, Sedasys robots could spot warning signs of adverse events in
+advance of their actually occurring.
+
+     The FDA observed that Sedasys’s technology might lay the
+foundations for higher levels of technological intervention in
+anesthesiology:
+
+
+
+36 Margo Goldberg, The Robotic Arm Went Crazy! The Problem of Establishing Liability
+   in A Monopolized Field, 38 RUTGERS COMPUTER & TECH. L.J. 225, 250 (2012).
+37 U.S. FOOD & DRUG ADMIN., SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+   38 (2013), https://www.accessdata.fda.gov/cdrh_docs/pdf8/p080009b.pdf.
+38 PAUL G. BARASH ET AL., CLINICAL ANESTHESIA 1291 (8th ed. 2017) (“In May 2013,
+   the FDA approved Sedasys, a computer-assisted patient-controlled sedation system
+   that administers propofol for colonoscopies/endoscopies. Patients are monitored with
+   electrocardiography, pulse oximetry, noninvasive blood pressure monitoring, and end-
+   tidal carbon dioxide. Sedation is also further monitored via an earpiece through which
+   the computer tells the patient to squeeze a handset. Based on these parameters,
+   Sedasys will algorithmically adjust the infusion rate of propofol.”).
+60                                       《中研院法學期刊》第34期（2024年3月）
+
+
+
+      The approval of the SEDASYS System represents a notable
+      advancement in the field of semi-autonomous control of drug
+      administration in medicine. The device utilizes negative
+      feedback from specialized physiological monitors to assess and
+      limit drug dosing and thereby control the depth of sedation. The
+      principle of negative feedback control may be applicable to a
+      variety of drugs and clinical scenarios different from those
+                                                  39
+      associated with sedation management.
+
+       However, the agency also stated that “the use of the device is
+restricted to settings where a practitioner trained in the administration of
+general anesthesia is immediately available to the user for assistance or
+consultation as needed. Immediate availability in this context means that
+an anesthesia professional will be available on site to respond to an
+                            40
+emergency situation.”            This type of safeguard both reflects and
+complicates the larger argument of this article that human control or
+monitoring should be required no matter how autonomous the robotic
+system. While the core case of complementarity is a physician directly
+operating or supervising the relevant medical AI and robotics, a
+secondary application of the concept may include a physician (here, an
+anesthesiologist) maintaining presence in case of complications, or
+                                                41
+taking over upon notice of complications.
+
+       There are many possible future developments for such anesthesia
+technology. In Europe, national health authorities will be pulled in
+opposing directions. Health cost cutters may favor full robotization as a
+
+
+39 U.S. FOOD & DRUG ADMIN., supra note 37, at 37.
+40 Id. at 38.
+41 BARASH ET AL., supra note 38, at 1291; Basavana G. Goudra & Preet M. Singh,
+     SEDASYS, Sedation, and the Unknown, 26 J. CLINICAL ANESTHESIA 334, 335 (2014).
+The Price of Autonomy                                                                 61
+
+
+cost-cutting measure. On the other hand, European workers have, in
+general, been able to play a larger role in the deployment of technology
+than their American peers. That trend would encourage a slow roll-out of
+the devices, as they gradually proved their worth, and health care
+workers (including anesthesiologists and nurse-anesthetists) transitioned
+toward positions monitoring and improving the machines—or migrated
+toward jobs still requiring the “human touch.”
+
+      In the US, there are also conflicting political and economic currents.
+In the country with the highest health care expenditures on the planet,
+costs are always a concern. But risk-averse hospitals may only permit
+patients to opt for cheaper, robotic anesthesiology if they waive liability,
+promising not to sue the hospital if something goes wrong—and may
+                                                       42
+ultimately find such a waiver unenforceable.                The dubious legal status
+of such waivers in the past has cast a long shadow over advocacy of
+                                                                     43
+“consumer directed health care” in the United States.                     While some
+doctors wanted to give patients the option of “last year’s medicine at last
+year’s prices,” they did not want to be sued for malpractice if the cheaper
+option proved ineffective. Similar concerns will arise as device makers
+market robotic systems for hospitals and doctors’ offices.
+
+
+
+42 For an influential discussion of general waivers of liability in a medial context, see
+   Tunkl v. Regents of the Univ. of Cal., 383 P.2d 441 (Cal. 1963) (disallowing waivers
+   of liability); but see Colton v. N.Y. Hosp., 414 N.Y.S.2d 866 (1979) (upholding
+   exculpatory clause in a case where an experimental treatment was the only option for
+   the patient).
+43 Matthew J.B. Lawrence, In Search of an Enforceable Medical Malpractice
+   Exculpatory Agreement: Introducing Confidential Contracts as a Solution to the
+   Doctor-Patient Relationship Problem, 84 N.Y.U. L. REV. 850, 856 n.20 (2009) (noting
+   that “courts typically disfavor exculpatory agreements in the healthcare context,” in
+   the context of a larger examination of scholarly efforts to advocate for a different
+   approach with respect to consumer-directed health care.).
+62                                            《中研院法學期刊》第34期（2024年3月）
+
+
+
+      Assume, for now, that such disclaimers and exculpatory clauses
+prove ineffective. What would be the proper liability regime for a fully
+autonomous anesthesia machine? Assume for purposes of this article that
+the machine’s operations were not explicable to the surgeons and other
+medical personnel among whom it was deployed—so that there is no
+                                                                                 44
+sense in which it could be considered merely “helping” them.                          What is
+the proper way to the responsibility of designers, manufacturers, vendors,
+and users of such a machine for preventable adverse outcomes?
+
+      In a jurisdiction where human anesthesiologists are widely
+available, strict liability may turn out to be a compelling approach with
+respect to designers, given compelling scholarship on other, similar
+                        45
+design scenarios.            A negligence regime risks undermining proper
+                               46
+levels of accountability.           Consider, for instance, a machine that fails to
+
+
+44 On the critical distinction between explainable and non-explainable AI in medical
+   automation and robotics, see Barbara J. Evans & Frank Pasquale, Product Liability
+   Suits for FDA-Regulated AI/ML Software, in THE FUTURE OF MEDICAL DEVICE
+   REGULATION: INNOVATION AND PROTECTION 22, 26-27 (I. Glenn Cohen et al. eds.,
+   2022).
+45 For an example of such scholarship, see Eric Lindenfeld, 3D Printing of Medical
+   Devices: CAD Designers as the Most Realistic Target for Strict, Product Liability
+   Lawsuits, 85 UMKC L. REV. 79, 98-100 (2016). Lindenfeld argues that “[s]trict
+   [l]iability for CAD [d]esigners [w]ould [n]ot be a [b]ig [l]eap for the [c]courts.” Id. at 98.
+   One reason for this is that “while most courts refrain from finding architects and
+   engineers strictly liable, there is at least some authority which suggests that those
+   engaged in design related services could be considered ‘sellers’ as opposed to ‘service
+   providers’ under the Second Restatement.” Id. at 99.
+46 Joseph L. Reutiman, Defective Information: Should Information Be a “Product”
+   Subject to Products Liability Claims?, 22 CORNELL J.L. & PUB. POL’Y 181, 187 (2012)
+   (“Proving negligence can be an impossible proposition in certain cases where
+   evidence has been destroyed because of the product defect itself or misfeasance on the
+   part of the defendant and can potentially result in the complete denial of recovery.”).
+   There are also many troubling ways to shift blame in the complex relationships
+   between medical professionals, hospitals, vendors of AI, and others in the distribution
+   chain—particularly given “hold harmless” clauses or other exculpatory contract terms
+   that may be foisted on providers. Frank Pasquale, Six Horsemen of Irresponsibility, 79
+The Price of Autonomy                                                                   63
+
+
+include data about certain vulnerable groups. If persons in such groups
+are harmed because of such a lack of data, they may not be able to
+recover damages under negligence standards, since the device’s vendor
+may claim (if there is adequate statistical evidence) that the device met
+the standard of care for the physicians it replaced. By contrast, strict
+liability requires vendors of substitutive AI and robotics to anticipate and
+correct such predictable defects, and to invest in monitoring for and
+anticipating less predictable errors. Note, too, that strict liability does not
+require a vendor of substitutive AI to be “perfect.” Expected damages
+will be balanced against expected profits. To the extent a strict liability
+standard appears to be undermining valuable innovation, limits on
+                                                                                        47
+damages can temper the potential unfairness of liability without fault.
+Just as they do with respect to malpractice exposure, insurers may offer
+liability insurance to assist innovators in risk-shifting. And if the
+substitutive AI has a performance record clearly as good as, or better
+than, the extant standard of care (be that unaided human care, or, more
+likely, human-machine cooperation), policymakers should step in to pay
+damages out of the public fisc, or to provide cheap insurance against
+such damages to vendors of substitutive AI and others potentially held
+                                              48
+liable under a strict liability standard.
+
+
+   MD. L. REV. 105, 109-13 (2019) (discussing mutually reinforcing strategies of liability-
+   deflection).
+47 By contrast, if the extant performance standards are much better than those of
+   substitutive automation, the significant damages available pursuant to strict liability
+   for substitutive automation will be a critical prod toward the restoration of a unitary
+   standard of care.
+48 Strict liability could also transition into a no-fault compensation scheme like the US’s
+   National Vaccine Injury Compensation Program (NVICP), which compensates those
+   who have suffered side effects from vaccinations. See, e.g., Frances E. Zollers et al.,
+   No More Soft Landings for Software: Liability for Defects in an Industry That Has
+   Come of Age, 21 SANTA CLARA COMPUTER & HIGH TECH. L.J. 745, 773 (2005) (“we
+   favor an approach that accepts strict product liability for software and lets the case
+64                                        《中研院法學期刊》第34期（2024年3月）
+
+
+
+      However, the definition of “as good, or better” performance records
+needs to be granular, so as to be sensitive to historical victims of health
+disparities. There has been growing concern that the data used for
+diagnostic AI may not adequately represent all groups in society. For
+                                                                                      49
+example, minority groups may be poorly represented in databases.
+                                                            50
+Women are seriously disadvantaged as well.                       Diagnostic AI that
+ignores all these problems, and which still generally delivers better
+results than unaided human observation, may not be actionable under a
+negligence standard for those it fails to help—particularly if the standard
+of care is unaided human observation. However, under a strict liability
+standard, failure to include available, more representative databases, that
+leads to preventable accidents, would leave vendors liable for adverse
+events even if they managed to do better on average than the standard of
+care. Such liability may be critical to incentivizing them to address
+health disparities.
+
+      Efthimios Parasidis has convincingly argued that courts need to
+recognize and counteract automation bias—that is, the tendency of
+persons to assume without proper evidence that a machine has better
+
+
+   law find the point of maximum social benefit through the application of a rigorous
+   cost/benefit analysis. In the rare case where a beneficial software product is being
+   kept out of the market because of liability concerns and that claim is corroborated,
+   there are a number of public policy strategies that can be employed in mitigation. For
+   example, there is federal legislation limiting vaccine manufacturers’ liability for
+   certain vaccines.”). The NVICP is funded by an excise tax on each vaccine dose.
+49 See Adewole S. Adamson & Avery Smith, Machine Learning and Health Care
+   Disparities in Dermatology, 154 JAMA DERMATOLOGY 1247 (2018). This lack of
+   diversity also afflicts genomics research. Non-European groups tend not to be as well-
+   represented in DNA databases as European groups. Alice B. Popejoy et al., The
+   Clinical Imperative for Inclusivity: Race, Ethnicity, and Ancestry (REA) in Genomics,
+   39 HUM. MUTATION 1713, 1717-18 (2018).
+50 See CAROLINE CRIADO PEREZ, INVISIBLE WOMEN: DATA BIAS IN A WORLD DESIGNED
+   FOR MEN (2019).
+The Price of Autonomy                                                                   65
+
+
+                             51
+judgment than persons.            The problem of automation bias is recurrent
+and is a persistent temptation when often-overworked professionals seek
+tools to ease their workload. More stringent liability standards are a way
+                                                                    52
+of gradually ensuring a lower risk level in the industry.
+
+      A vehicle manufacturer may be held responsible for an accident if
+the manufacturer failed to design or manufacture the vehicle properly.
+Similarly, AI and robotics may be designed or developed in a way that
+fails to conform to basic standards of safety and reliability. The product
+                                                                                        53
+analogy increases accountability for safety, reliability, and security.
+Unpredictability of advanced AI systems means that forms of
+accountability reflecting classic legal standards are critical. For example,
+those keeping particularly vicious or wild animals (like lions and tigers)
+
+
+
+51 See Efthimios Parasidis, Clinical Decision Support: Elements of a Sensible Legal
+   Framework, 20 J. HEALTH CARE L. & POL’Y 183, 225 (2018) (“As to the coding phase
+   of software development, a strong argument can be made that coding should be
+   encompassed under the category of manufacturing defects [and this is critical because
+   U.S. courts typically employ strict or product liability analysis for manufacturing
+   defects]… [A]llowing products liability claims for CDS systems also may be a way to
+   counter disclaimers of liability that typically are found in CDS contracts.”) See also
+   Kevin R. Pinkney, Putting Blame Where Blame is Due: Software Manufacturer and
+   Customer Liability for Security-Related Software Failure, 13 ALB. L.J. SCI. & TECH.
+   43, 51-62 (2002) (focusing on security-related failures); Michael D. Scott, Tort
+   Liability for Vendors of Insecure Software: Has the Time Finally Come?, 67 MD. L.
+   REV. 425, 469-70 (2008).
+52 Zollers et al., supra note 48, at 768-73.
+53 However, as Jamil Ammar warns, “From the perspective of product liability, courts in
+   the U.S. consider computer software to be a service rather than a product. To date,
+   courts have been reluctant to extend theories of product liability to software.” Jamil
+   Ammar, Defective Computer-Aided Design Software Liability in 3D Bioprinted
+   Human Organ Equivalents, 35 SANTA CLARA HIGH TECH. L.J. 37, 40 (2019). One
+   purpose of this article is to urge courts (both in the U.S. and elsewhere) to reconsider
+   this approach in the context of substitutive AI in medicine, particularly given its
+   integration of software into complex sociotechnical apparatuses that include persons,
+   hardware, and data.
+66                                            《中研院法學期刊》第34期（2024年3月）
+
+
+                                                                             54
+are strictly liable if these beasts escape and cause harm.                        Enterprise
+liability “asserts that actors should bear the costs of those accidents that
+are characteristic of their activities and then distribute those costs among
+                                                                                            55
+all those who benefit from the imposition of the risks at issue.”
+Professor Danielle Keats Citron inventively applied these ideas to the
+digital age by analogizing massive data holdings to early water
+reservoirs which, if breached, could cause death and destruction to
+                                                          56
+communities immediately adjacent to them.                      Much the same could be
+said of autonomous robotics or AI in critical medical situations when an
+irresponsible user decides to simply let them run autonomously. When
+they are marketed or developed to be used in autonomous mode, their
+developers and vendors must take responsibility. AI and robotics systems
+                                                 57
+are ultimately attributable to humans.
+
+       A strict liability standard will be controversial. The legal scholar
+Ryan Abbott has argued that, if an autonomous vehicle is, in general,
+safer than the typical human driver, only a negligence cause of action
+                            58
+should be available.             If accepted, such a comparison would make
+negligence, rather than strict or product liability, the proper judicial
+
+
+54 Animals Act 1971, c. 22, § 2(1) (Eng.); RESTATEMENT (THIRD) OF TORTS: PHYS. &
+     EMOT. HARM § 22 WILD ANIMALS (AM. L. INST. 2023).
+55 Gregory Keating, The Theory of Enterprise Liability and Common Law Strict Liability,
+     54 VAND. L. REV. 1285, 1334 (2001).
+56 See Danielle Keats Citron, Reservoirs of Danger: The Evolution of Public and
+     Private Law at the Dawn of the Information Age, 80 S. CAL. L. REV. 241 (2007).
+57 And they should be kept that way. PASQUALE, supra note 8, at 109 (proposing a fourth
+     law of robotics requiring all AI and robotics to be attributable to responsible persons).
+58 Ryan Abbott, The Reasonable Computer: Disrupting the Paradigm of Tort Liability,
+     86 GEO. WASH. L. REV. 1, 1 (2018) (“Under current legal frameworks, suppliers of
+     computer tortfeasors are likely strictly responsible for their harms. This Article argues
+     that where a supplier can show that an autonomous computer, robot, or machine is
+     safer than a reasonable person, the supplier should be liable in negligence rather than
+     strict liability.”).
+The Price of Autonomy                                                                   67
+
+
+response to errors. For Abbott, the standard of a “reasonable computer”
+would then supplant that of the “reasonable person,” in judicial
+considerations of the type and level of responsibility to assign. Such an
+approach would help ensure that there are not undue impediments to the
+development of autonomous vehicles. However, it is likely less
+appropriate in the medical field, since health care providers are likely to
+be far more valuable in guiding the deployment of technology, long-term,
+than “guardian drivers” who have been deployed to restrain self-driving
+cars when they errantly threaten to crash into a person or another vehicle.
+That ongoing need for guidance and development by present, expert,
+professionals counsels in favor of a strict liability standard in the case of
+substitutive automation in medicine, to promote ongoing complementarity.
+
+      There are other problematic dimensions of a “reasonable computer”
+standard. As Jacob Turner argues in his book Robot Rules, a negligence
+standard may be very difficult to apply here, because “[a] reasonable
+human person is fairly easy to imagine. The law’s ability to set an
+objective standard of behaviour takes as its starting point the idea that all
+humans are similar… AI, on the other hand, is heterogeneous in nature:
+there are many different techniques for creating AI and the variety is
+likely only to increase in the future as new technologies are
+              59
+developed.”        This is a valuable reminder of the plasticity of the
+                                                                 60
+mechanical world, at least relative to that of humans.
+
+
+59 JACOB TURNER, ROBOT RULES 90 (2019).
+60 Any attribution of robot interests or rights based on analogy to humans, for instance,
+   is incoherent because the very conceptions of well-being or desire that are the
+   foundation of such rights and interests may be reprogrammed in the robot. Such
+   “reprogramming” is, by contrast, exceptionally difficult and damaging when
+   undertook with respect to a person, if it can be done at all. Given the limited advances
+   made toward robotics, we must turn to fiction to see an illustration of this point. The
+   television series Westworld tried to attribute something like the human fixity I have
+68                                       《中研院法學期刊》第34期（2024年3月）
+
+
+
+     It is not unreasonable for persons to expect that AIs unleashed upon
+the world will have some basic rules of engagement, such as being
+programmed and designed to limit human harm. This ethical principle
+was articulated as the first of Isaac Asimov’s Laws of Robotics and
+shows up in various forms in many other works on human-machine
+             61
+interaction.      Strict liability for autonomous machines and AI is one
+more way to ensure that prevention of harm is prioritized.
+
+
+
+IV. Concluding Remarks: Virtues of a Mixed
+    Negligence-Strict Liability Regime
+
+     While promoting AI as a substitute for competent medical personnel,
+some firms will fail to engage in the quality control and other steps
+necessary to avoid disastrous outcomes. Tort lawsuits will follow, with
+plaintiffs demanding damages for the firms’ failures to meet the relevant
+standard of care. Legislators and courts will need to develop approaches
+to liability adequate to the new technological environment. As they do so,
+they will effectively set nuanced and contextualized standards for the
+deployment of AI. Distinguishing between complementary and
+substitutive AI is one conceptual tool that will help them do so.
+
+
+
+
+   described in its episodes featuring the mental breakdown of the robot Teddy after he
+   was reprogrammed to be hard-hearted and violent by the series’ protagonist, Delores.
+   However, the depiction is unconvincing because the original programming connecting
+   breakdown to personality trait discordance could itself have been reprogrammed.
+61 See ISAAC ASIMOV, I, ROBOT (1950); Colin P.A. Jones, Robot Rights: From Asimov to
+   Tezuka, JAPAN TIMES (Mar. 6, 2019), https://www.japantimes.co.jp/community/2019/
+   03/06/issues/robot-rights-asimov-tezuka.
+The Price of Autonomy                                                            69
+
+
+     When AI or robotics simply assist a professional, they are tools. In
+medicine, the doctrine of “competent human intervention” has shifted
+liability away from those who make devices and toward the
+professionals who use them. However, the professional in such scenarios
+should not bear the entire burden of responsibility. His or her tools can
+be produced well or badly, and vendors of defective, complementary AI
+and robotics should be held responsible for negligence. Both legislators
+and courts will need to develop standards of care designed to incentivize
+proper safety, security, and risk avoidance. But the burden of proof will
+be on the plaintiff to demonstrate that not only a skilled medical
+professional, but also the maker of the tools used by such a professional,
+should be held liable for a preventable adverse outcome.
+
+     When AI and robotics replace a skilled medical professional, the
+burden shifts. The vendor of such computational systems needs to take
+on the responsibility for errors and accidents. At the damages phase of
+litigation, the vendor may explain how its damages should be mitigated
+based on its AI’s performance relative to the extant human or human-
+machine based standard of care. Such responsibility for explanation will
+serve an important information-forcing function in areas where public
+                                                      62
+understanding is often limited by trade secrecy.
+
+     Accountability is a contested and complex concept in tort law. It is
+all too easy to reduce the problem of preventable adverse events in
+medicine as a simple matter of providers’ responsibility to patients.
+However, a broader political economy perspective goes beyond the dyad
+
+
+62 For another example of information-forcing regulation, see Frank Pasquale, Ending
+   the Specialty Hospital Wars: A Plea for Pilot Programs as Information-Forcing
+   Regulatory Design, in THE FRAGMENTATION OF U.S. HEALTH CARE: CAUSES AND
+   SOLUTIONS 235 (Einer Elhauge ed., 2010).
+70                                         《中研院法學期刊》第34期（2024年3月）
+
+
+
+of provider-patient, incorporating larger concerns about the nature of the
+labor force, the explainability of AI, and the power of dominant
+                      63
+technology firms.          As AI and robotics take on more roles, there will be
+cost pressures for technology to prematurely replace providers. Strict or
+enterprise liability for such adverse events arising out of particular
+replacements will generally help deter its happening too quickly. By
+ensuring that vendors of medical AI and robotics are more accountable
+to those whom they harm, administrative agencies and courts may renew
+an ongoing quality movement within the profession of medicine. They
+may even spark the professionalization of AI research itself, since
+professions are institutions of accountability that help assure ongoing
+self-review and improvement. And if there are concerns about liability
+over-deterring innovation, damages caps may be imposed to calibrate
+incentives accordingly.
+
+       From an individualistic, utilitarian perspective (dominant in
+mainstream economics), substitutive automation of machines to replace
+humans in many fields seems to be a foregone conclusion, thanks to a set
+of interlinked value judgments about the value of cheapening tasks. But
+within a profession like medicine, matters are more complicated. A
+renewed political economy of automation demands a role for
+
+
+
+63 On the critical distinction between explainable and non-explainable AI in medical
+     automation and robotics, see Evans & Pasquale, supra note 44, at 26-27. (“To use
+     engineering parlance, the FDA can regulate AI/ML CDS software if it is not intended
+     to function as explainable artificial intelligence. CDS software that makes
+     recommendations falls under the FDA’s regulatory jurisdiction if those
+     recommendations are not intended to be transparent to the health care professionals
+     using the software. On the other hand, if CDS software is transparent enough that a
+     healthcare professional would be able to understand its recommendations and
+     challenge them—that is, when it is not a black box—then Congress excludes it from
+     FDA regulatory oversight.”)
+The Price of Autonomy                                                              71
+
+
+professionals to mediate between patients and complex technologies.
+Professionals enjoy forms of autonomy, and are burdened by constraints,
+rare in non-professional fields. Professionals are charged with protecting
+distinct, non-economic values that society has deemed desirable. Their
+labor, in turn, reflects, reproduces, and is enriched by those values.
+                                                                     64
+Knowledge, skill, and ethics are inextricably intertwined.                In the face
+of well-hyped automation, professionals ought to reaffirm their own
+norms. The threat of tort liability for the firms they work for (including
+AI vendors) gives them some leverage to push back against management
+demands for premature automation. Indeed, when Marc Law and
+Sukkoo Kim examined the history of professionalization and
+occupational licensure, they found patterns of worker self-organization
+in the United States in the early 20th century that substantially increased
+                        65
+consumer protection.         By deterring premature substitutive automation,
+a liability regime that reduces potential exposure of AI vendors when
+they complement (rather than substitute for) medical professionals will
+help ensure a democratization of expertise, including ongoing critical
+evaluation of medical AI and robotics by physicians and other providers.
+
+     Of course, as courts develop such evolving standards of care, they
+will also face predictable efforts by owners of AI to deflect liability. For
+example, firms may require their customers or users to sign exculpatory
+clauses and other contractual limitations on liability by waiving their
+
+
+
+64 See Frank Paquale, Synergy and Tradition: The Unity of Research, Service, and
+   Teaching in Legal Education, 40 J. LEGAL PROF. 25 (2015).
+65 Marc T. Law & Sukkoo Kim, Specialization and Regulation: The Rise of
+   Professionals and the Emergence of Occupational Licensing Regulation, 65 J. ECON.
+   HIST. 723, 725 (2005) (“Thus, professionals may choose to self regulate, or
+   professionals and consumers may seek government regulation to eliminate charlatans,
+   incompetents or frauds and protect the safety and welfare of consumers.”).
+72                                        《中研院法學期刊》第34期（2024年3月）
+
+
+
+right to sue. Asymmetries of power are important here. For example, in
+medicine, many courts have resisted exculpatory clauses purporting to
+relieve physicians of responsibility for malpractice, thanks in part to the
+                                                                66
+asymmetrical power of hospitals and their patients.                  They should be
+similarly wary in AI-intensive scenarios, where even greater imbalances
+of power and knowledge are common.
+
+      Policymakers are currently struggling to keep pace with the speed
+of technological development. Legislators have been hesitant to pass
+broad statutes, as they are fearful of inhibiting growth and innovation in
+the space. However, increasingly there is public demand for policy
+                                                                            67
+interventions and protections regarding critical technology.                     These
+demands do not necessarily impede economic or technological
+advancement. Some fields may never get traction if customers cannot be
+assured that someone will be held accountable if an AI fails.
+Developing appropriate standards of responsibility along the lines
+prescribed in this article should advance the quality of both artificial
+intelligence (AI) and intelligence augmentation (IA).
+
+
+
+
+66 Nadia N. Sawicki, Choosing Medical Malpractice, 93 WASH. L. REV. 891, 893 (2018)
+   (“most courts do ultimately reject defenses based on contract or assumption of risk in
+   medical malpractice cases,” though “they often do so only after carefully examining
+   the characteristics of the patient’s acceptance—an adjudicative approach that is
+   inconsistent with a categorical bar.”).
+67 Nathalie A. Smuha, From a “Race to AI” to a “Race to AI Regulation”: Regulatory
+   Competition for Artificial Intelligence, 13 LAW, INNOVATION & TECH. 57, 59, 71 (2021)
+   (“In fact, all over the world, regulators at regional, national, international and
+   supranational level have started assessing the desirability and necessity of new or
+   revised regulatory measures to minimise AI’s adverse impacts, while at the same time
+   maximising its benefits”).
+The Price of Autonomy                                                  73
+
+
+
+
+                             References
+
+Abbott, Ryan. 2018. The Reasonable Computer: Disrupting the Paradigm
+     of Tort Liability. George Washington Law Review 86:1-45.
+Adamson, Adewole S., and Avery Smith. 2018. Machine Learning and
+     Health Care Disparities in Dermatology. Journal of the American
+     Medical Association Dermatology 154:1247-1248.
+Ammar, Jamil. 2019. Defective Computer-Aided Design Software
+     Liability in 3D Bioprinted Human Organ Equivalents. Santa Clara
+     High Technology Law Journal 35:37-67.
+Aristotle. 2012 (350 B.C.E.). Politics, translated by Benjamin Jowett.
+     Los Angeles, CA: Indo-European Publishing.
+Asimov, Isaac. 1950. I, Robot. New York, NY: Gnome Press.
+Autor, David. 2014. Polanyi’s Paradox and the Shape of Employment
+     Growth. Working Paper No. 20485. National Bureau of Economic
+     Research, Cambridge, MA. Available at http://www.nber.org/
+     papers/w20485.
+Barash, Paul G., Bruce F. Cullen, Robert K. Stoelting, Michael K.
+     Cahalan, M. Christine Stock, Rafael Ortega, Sam R. Sharar, and
+     Natalie F. Holt. 2017. Clinical Anesthesia. 8th ed. Philadelphia, PA:
+     Wolters Kluwer.
+Bernstein, Anita. 2020. (Almost) No Bad Drugs: Near-Total Products
+     Liability Immunity for Pharmaceuticals Explained. Washington and
+     Lee Law Review 77:3-96.
+Blake, Valarie K. 2020. Regulating Care Robots. Temple Law Review
+     92:551-594.
+74                                《中研院法學期刊》第34期（2024年3月）
+
+
+
+Braverman, Harry. 1974. Labor and Monopoly Capital: The
+     Degradation of Work in the Twentieth Century. New York, NY:
+     Monthly Review Press.
+Carr, Nicholas. 2015. The Glass Cage: How Our Computers Are
+     Changing Us. New York, NY: W. W. Norton & Company.
+Chin, Andrew. 2017. Surgically Precise but Kinematically Abstract
+     Patents. Houston Law Review 55:267-319.
+Citron, Danielle Keats. 2007. Reservoirs of Danger: The Evolution of
+     Public and Private Law at the Dawn of the Information Age.
+     Southern California Law Review 80:241-297.
+Elish, Madeleine, and Tim Hwang. 2015. Praise the Machine! Punish the
+     Human! The Contradictory History of Accountability in Automated
+     Aviation. Working Paper No. 1. Data & Society Research Institute,
+     New York, NY.
+Evans, Barbara J., and Frank Pasquale. 2022. Product Liability Suits for
+     FDA-Regulated AI/ML Software. Pp. 22-35 in The Future of
+     Medical Device Regulation: Innovation and Protection, edited by I.
+     Glenn Cohen, Timo Minssen, W. Nicholson Price, II, Christopher
+     Robertson and Carmel Shachar. New York, NY: Cambridge
+     University Press.
+Goldacre, Ben. 2013. Bad Pharma: How Drug Companies Mislead
+     Doctors and Harm Patients. London: Fourth Estate.
+Goldberg, Margo. 2012. The Robotic Arm Went Crazy! The Problem of
+     Establishing Liability in A Monopolized Field. Rutgers Computer
+     & Technology Law Journal 38:225-253.
+Goldin, Claudia, and Lawrence F. Katz. 2008. The Race Between
+     Education and Technology. Cambridge, MA: Harvard University
+     Press.
+The Price of Autonomy                                                75
+
+
+Goudra, Basavana G., and Preet M. Singh. 2014. SEDASYS, Sedation,
+     and the Unknown. Journal of Clinical Anesthesia 26:334-336.
+Hamilton-Piercy, Meghan. 2007. Cybersurgery: Why the United States
+     Should Embrace This Emerging Technology. Journal of High
+     Technology Law 7:203-226.
+Hoffman, Sharona, and Andy Podgurski. 2008. Finding a Cure: The
+     Case for Regulation and Oversight of Electronic Health Record
+     Systems. Harvard Journal of Law & Technology 22:103-165.
+Keating, Gregory. 2001. The Theory of Enterprise Liability and Common
+     Law Strict Liability. Vanderbilt Law Review 54:1285-1335.
+Kesselheim, Aaron S. 2010. Permitting Product Liability Litigation for
+     FDA-Approved Drugs and Devices Promotes Patient Safety.
+     Clinical Pharmacology and Therapeutics 87:645-647.
+Latour, Bruno. 2005. Reassembling the Social: An Introduction to Actor-
+     Network-Theory. Oxford: Oxford University Press.
+Law, Marc T., and Sukkoo Kim. 2005. Specialization and Regulation:
+     The Rise of Professionals and the Emergence of Occupational
+     Licensing Regulation. Journal of Economy History 65:723-756.
+Lawrence, Matthew J.B. 2009. In Search of an Enforceable Medical
+     Malpractice Exculpatory Agreement: Introducing Confidential
+     Contracts as a Solution to the Doctor-Patient Relationship Problem.
+     New York University Law Review 84:850-879.
+Lenzer, Jeanne. 2017. The Danger Within Us: America’s Untested,
+     Unregulated Medical Device Industry and One Man’s Battle to
+     Survive It. New York, NY: Little, Brown and Company.
+Levy, Karen E.C. 2016. The Contexts of Control: Information, Power,
+     and Truck-Driving Work. The Information Society 31:160-174.
+76                                 《中研院法學期刊》第34期（2024年3月）
+
+
+
+Lindenfeld, Eric. 2016. 3D Printing of Medical Devices: CAD Designers
+     as the Most Realistic Target for Strict, Product Liability Lawsuits.
+     University of Missouri-Kansas City Law Review 85:79-103.
+McCluskey, Martha T., Frank Pasquale, and Jennifer Taub. 2016. Law
+     and Economics: Contemporary Approaches. Yale Law and Policy
+     Review 35:297-308.
+Novara, Giacomo, Vincenzo Ficarra, Raymond C. Rosen, Walter
+     Artibani, Anthony Costello, James A. Eastham, Markus Graefen,
+     Giorgio Guazzoni, Shahrokh F. Shariat, Jens-Uwe Stolzenburg,
+     Hendrik Van Poppel, Filiberto Zattoni, Francesco Montorsi,
+     Alexandre Mottrie, and Timothy G. Wilson. 2012. Systematic
+     Review and Meta-analysis of Perioperative Outcomes and
+     Complications    After   Robot-assisted   Radical    Prostatectomy.
+     European Urology 62:431-452.
+Parasidis, Efthimios. 2018. Clinical Decision Support: Elements of a
+     Sensible Legal Framework. Journal of Health Care Law and Policy
+     20:183-228.
+Pasquale, Frank. 2010. Access to Medicine in an Era of Fractal
+     Inequality. Annals of Health Law 19:269-310.
+─. 2010. Ending the Specialty Hospital Wars: A Plea for Pilot
+     Programs as Information-Forcing Regulatory Design. Pp. 235-278
+     in The Fragmentation of U.S. Health Care: Causes and Solutions,
+     edited by Einer Elhauge. Oxford: Oxford University Press.
+─. 2013. Grand Bargains for Big Data: The Emerging Law of
+     Health Information. Maryland Law Review 72:682-772.
+─. 2015. Synergy and Tradition: The Unity of Research, Service,
+     and Teaching in Legal Education. Journal of the Legal Profession
+     40:25-49.
+The Price of Autonomy                                                   77
+
+
+─. 2019. Six Horsemen of Irresponsibility. Maryland Law Review
+     79:105-113.
+─. 2020. New Laws of Robotics: Defending Human Expertise in
+     the Age of AI. Cambridge, MA: Belknap Press.
+Perez, Caroline Criado. 2019. Invisible Women: Data Bias in a World
+     Designed for Men. New York, NY: Abrams Press.
+Pinkney, Kevin R. 2002. Putting Blame Where Blame Is Due: Software
+     Manufacturer and Customer Liability for Security-Related Software
+     Failure. Albany Law Journal of Science and Technology 13:43-82.
+Popejoy, Alice B., Deborah I. Ritter, Kristy Crooks, Erin Currey,
+     Stephanie M. Fullerton, Lucia A. Hindorff, Barbara Koenig, Erin M.
+     Ramos, Elena P. Sorokin, Hannah Wand, Mathew W. Wright, James
+     Zou, Christopher R. Gignoux, Vence L. Bonham, Sharon E. Plon,
+     Carlos D. Bustamante, and Clinical Genome Resource (ClinGen),
+     Ancestry and Diversity Working Group (ADWG). 2018. The
+     Clinical Imperative for Inclusivity: Race, Ethnicity, and Ancestry
+     (REA) in Genomics. Human Mutation 39:1713-1720.
+Price, W. Nicholson, II, Sara Gerke, and I. Glenn Cohen. 2019. Potential
+     Liability for Physicians Using Artificial Intelligence. The Journal of
+     the American Medical Association 322:1765-1766.
+Radin, Margaret Jane. 2012. Boilerplate: The Fine Print, Vanishing
+     Rights, and the Rule of Law. Princeton, NJ: Princeton University
+     Press.
+Reutiman, Joseph L. 2012. Defective Information: Should Information
+     Be a “Product” Subject to Products Liability Claims?. Cornell
+     Journal of Law and Public Policy 22:181-203.
+Saeidi, Hamed, Justin D. Opfermann, Michael Kam, Shuwen Wei,
+     Simon Leonard, Michael H. Hsieh, Jin U. Kang, and Axel Krieger.
+78                                《中研院法學期刊》第34期（2024年3月）
+
+
+
+     2022. Autonomous Robotic Laparoscopic Surgery for Intestinal
+     Anastomosis. Science Robotics 7:eabj2908.
+Sawicki, Nadia N. 2018. Choosing Medical Malpractice. Washington
+     Law Review 93:891-966.
+Scott, Michael D. 2008. Tort Liability for Vendors of Insecure Software:
+     Has the Time Finally Come?. Maryland Law Review 67:425-484.
+Shademan, Azad, Ryan S. Decker, Justin D. Opfermann, Simon Leonard,
+     Axel Krieger, and Peter C. W. Kim. 2016. Supervised Autonomous
+     Robotic Soft Tissue Surgery. Science Translational Medicine 8:
+     337ra64.
+Simshaw, Drew, Nicolas Terry, Kris Hauser, and M.L. Cummings. 2016.
+     Regulating Healthcare Robots: Maximizing Opportunities While
+     Minimizing Risks. Richmond Journal of Law & Technology 22:1-
+     38.
+Smuha, Nathalie A. 2021. From a “Race to AI” to a “Race to AI
+     Regulation”: Regulatory Competition for Artificial Intelligence.
+     Law, Innovation and Technology 13:57-84.
+Turner, Jacob. 2019. Robot Rules. London: Palgrave Macmillan.
+Valverde, Mariana. 2007. Reassembling the Social: An Introduction to
+     Actor-Network Theory. By Bruno Latour (book review). Law and
+     Society Review 41:744-746.
+Wachter, Robert. 2015. The Digital Doctor: Hope, Hype, and Harm at
+     the Dawn of Medicine’s Computer Age. New York, NY: McGraw-
+     Hill.
+Zollers, Frances E., Andrew McMullin, Sandra N. Hurd, and Peter
+     Shears. 2005. No More Soft Landings for Software: Liability for
+     Defects in an Industry That Has Come of Age. Santa Clara
+     Computer and High Technology Law Journal 21:745-782.
+The Price of Autonomy                    79
+
+
+
+
+                        自主權的代價
+   — 輔助性與替代性醫療機器人和人工智慧技術的
+           侵權責任標準
+
+                        Frank Pasquale
+
+
+                            摘要
+  在醫療領域，當人工智慧或機器人技術僅為專業人士提供工具
+性協助時，「有效的人為介入原則」傾向於將侵權責任從設備製造
+供應商轉移到操作設備之專業人員身上。然而，專業人員在此種情
+況下不應承擔所有責任。工具可能帶有瑕疵，而販售有瑕疵的輔助
+性人工智慧及機器人技術的製造供應商則應對其過失負責。此時原
+告則仍應舉證，證明專業醫事人員及提供工具的製造商，應對本可
+防免的負面結果負有賠償責任。
+
+  相對地，當人工智慧和機器人技術取代、而非只輔助醫事專業
+人員時，此類計算系統的供應商，則須對失誤和事故擔負更多責
+任。醫療領域對專業人士監督先進技術運用有既存標準。一旦醫療
+自動化完全替代真人操作，避開專業人員的人為監督，從而危及患
+者時，即對患者構成有瑕疵且不合理的危險。不過在損害賠償之訴
+中，替代性人工智慧技術的製造供應商，應得以人工智慧之表現，
+相對於現有人為或人機的照護標準，來解釋應如何減輕其賠償金
+額。此種解釋責任將能發揮重要的資訊強制作用，因為這個領域的
+公眾理解，常受限於營業秘密。
+
+
+
+
+   康乃爾大學法學院教授。
+80            《中研院法學期刊》第34期（2024年3月）
+
+
+
+  正如法律和政治經濟學方法所表明的，法律對於新技術市場不
+可能保持中立。法律構建了新技術市場，促使某些未來發展更易成
+真，或使另一些發展不易實現。區分一項技術，究竟係替代、或輔
+助人類專業知識或者輔助專業人士，不僅對勞工政策、對自動化的
+政治經濟學、也對侵權法，均至關重要。
+
+關鍵詞：人工智慧（AI）、機器人技術、責任、自動化、自動化決
+    策、醫療事故、企業責任、專業人員、政治經濟學、臨床
+    決策支援軟體。
+

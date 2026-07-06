@@ -1,0 +1,1408 @@
+    Hong Kong’s Changing Rule of Law
+Academia Sinica Law Journal                                                             159
+2022 Special Issue, pp. 159-194 (May 2022)
+
+
+
+
+     The Bad Birth and Premature Death of
+        “One Country, Two Systems” in
+                  Hong Kong
+                                                            ＊
+                               Victoria Tin-bor Hui
+
+
+                                        Abstract
+      Hong Kong’s “One Country, Two Systems” model, which already
+suffered from gradual erosion since the handover in 1997, experienced a
+dramatic death in 2020. On the eve of the 23rd anniversary of Hong
+Kong’s handover to Chinese rule on July 1, 2020, the Chinese
+Communist Party (CCP) imposed a National Security Law (NSL) — or,
+more accurately, a regime security law — to bring its secret police and
+public security agents to openly operate in the city. The authorities claim
+that the NSL is an immediate response to the anti-extradition protest, but
+the premature death of “One Country, Two Systems” was long in the
+making. Hong Kong people might have viewed the “One Country, Two
+Systems” promise as a shield to protect preexisting freedoms and rights
+against intrusion of the mainland’s one-party dictatorship. However, the
+CCP understood the model in economic-financial terms and envisioned a
+city of “capitalism without freedom.” The divergent interpretations were
+already evident in the discrepancy between the 1984 Sino-British Joint
+Declaration and the 1990 Basic Law: while the former guarantees “a
+high degree of autonomy, except in foreign and defense affairs,” the
+latter allows Beijing to retain the final interpretation and opens the door
+to the central government’s interference in all aspects of local governance.
+
+
+＊     Associate Professor, Department of Political Science, University of Notre Dame.
+      Online: http://publication.iias.sinica.edu.tw/82511022.pdf.
+160                               《中研院法學期刊》2022特刊（2022年5月）
+
+
+Hongkongers have responded to broken promises with waves of ever-
+broadening protest. The CCP, which has displayed no tolerance for
+dissent in mainland China since the Tiananmen crackdown in 1989, has
+met protests in Hong Kong with ever more direct control. This article
+details the death of “One Country, Two Systems” through the ever-
+escalating cycles of repression and resistance over the decades.
+
+KEYWORDS: “One Country, Two Systems”, Sino-British Joint Declaration,
+          Basic Law, Tiananmen, National Security Law, anti-
+          extradition protest, umbrella movement, Liaison Office,
+          Hong Kong and Macao Affairs Office (HKMAO), Central
+          Coordination Group for Hong Kong and Macau Affairs.
+
+
+                                  Contents
+
+ I. Introduction: The Premature Death of “One Country, Two Systems”
+ II. The Bad Birth of the “One Country, Two Systems” Model
+      A. The First Cycle: The Anti-National Security Protest of 2003 Followed
+         by Beijing Imposing a “Second Administration” over Hong Kong
+      B. The Second Cycle: The Umbrella Movement of 2014 and Beijing’s
+         “Comprehensive Jurisdiction” over Hong Kong
+      C. The Third Cycle: The Anti-Extradition Protests of 2019 with Beijing’s
+         Abrogation of “One Country, Two Systems”
+ III. The Axe Comes Down
+ IV. “One Country, Two Economic Systems”?
+The Bad Birth and Premature Death of                                          161
+“One Country, Two Systems” in Hong Kong
+
+I. Introduction: The Premature Death of “One
+   Country, Two Systems”
+
+     Hong Kong’s “One Country, Two Systems” model, which already
+suffered from erosion since the handover in 1997, experienced a
+premature and dramatic death in 2020. On the eve of the 23rd
+anniversary of Hong Kong’s handover to Chinese rule on July 1, 2020,
+the Chinese Communist Party (CCP) imposed a National Security Law
+(NSL) — or, more accurately, a regime security law — to “prevent, stop,
+and punish” the crimes of “secession,” “subversion,” “terrorism,” and
+                                     1
+“collusion with foreign forces.” These terms are vaguely defined to
+cover any forms of dissent. The UN Human Rights Council Special
+Rapporteurs encouraged the Chinese government to “urgently repeal and
+independently review” the NSL, expressing grave concern that
+“[t]errorism and sedition charges are being improperly used to stifle the
+exercise of fundamental rights, which are protected under international
+     2
+law.” Jerome A. Cohen, “godfather” of the China law field, declared
+                                                              3
+that the NSL amounted to “a Takeover” of Hong Kong.
+
+     The NSL effectively abrogates Hong Kong’s constitutional
+structure, the “One Country, Two Systems” model, under which Hong
+
+
+
+1 SCMP Reporters, National Security Law: Tough New Reality for Hong Kong as
+  Offenders Face Maximum Sentence of Life in Jail, SOUTH CHINA MORNING POST
+  (June 30, 2020), https://www.scmp.com/news/hong-kong/politics/article/3091241/
+  national-security-law-chinese-president-xi-jinping-signs.
+2 Fionnuala Ní Aoláin et al., The Office of the High Commissioner for Human Rights,
+  Hong Kong: Arrests under Security Law, a Serious Concern, OHCHR (Oct. 12, 2021),
+  https://news.un.org/en/story/2021/10/1102882 [https://perma.cc/7WAS-XZZE].
+3 Jerome A. Cohen, My Quick Reading of the Troubling National Security Law for
+  Hong Kong, JERRY’S BLOG (July 2, 2020), http://www.jeromecohen.net/jerrys-blog/
+  my-quick-reading-of-the-troubling-national-security-law-for-hong-kong.
+162                                   《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+Kong was reverted to Chinese rule in 1997. The Basic Law states in
+Article 22 that “no department of the Central People’s Government…
+                                                                                4
+may interfere in the affairs” of the special administrative region. The
+NSL establishes in Hong Kong the Office for Safeguarding National
+Security to “guide, oversee, and supervise” local officials with a Hong
+Kong budget of HK$8 billion and an undisclosed central government
+          5
+budget. It is Beijing’s cynical response to the explosion of anger and
+frustrations with the extradition law in 2019: If Hongkongers did not
+want to be sent across the border to mainland China, the central
+government simply brings its secret police and public security agents to
+openly operate in the city.
+
+      The entirety of pro-democracy politicians and activists have now
+been arrested or driven into exile. The national security police have
+arrested 175 individuals with 104 formally charged as of January 17,
+      6
+2022. The accused are set to be convicted by Beijing’s handpicked
+national security judges, with punishment as severe as life imprisonment.
+The police have additionally deployed the city’s colonial-era public
+order laws to arrest 10,260 people related to the anti-extradition protest
+
+
+
+4 The Basic Law of the Hong Kong Special Administrative Region of the People’s
+  Republic of China [hereinafter Basic Law], Apr. 4, 1990, effective July 1, 1997,
+  https://www.basiclaw.gov.hk/en/basiclaw/index.html.
+5 Christy Leung & Tony Cheung, Beijing’s National Security Permanent Office Gets
+  New Site at Hong Kong’s West Kowloon Waterfront after Land Grant from City
+  Government, SOUTH CHINA MORNING POST (Apr. 23, 2021), https://www.scmp.com/
+  news/hong-kong/law-and-crime/article/3130842/new-site-hong-kongs-west-kowloon-
+  waterfront-beijings.
+6 Lydia Wong & Thomas E. Kellogg, New Data Show Hong Kong’s National Security
+  Arrests Follow a Pattern, CHINAFILE (May 3, 2021), https://www.chinafile.com/
+  reporting-opinion/features/new-data-show-hong-kongs-national-security-arrests-follow-
+  pattern (last visited Jan. 26, 2022) (Note, the data have been regularly updated since
+  original publication).
+The Bad Birth and Premature Death of                                            163
+“One Country, Two Systems” in Hong Kong
+
+                      7
+since June 9, 2019. To stop opposition figures from fleeing, the Hong
+Kong Immigration Director is given unlimited power to ban anyone
+                                     8
+from entering or leaving the city.
+
+     Beijing has further destroyed the Basic Law’s framework for
+democracy. Articles 45 and 68 of the Basic Law promises the “ultimate
+aim” of “universal suffrage” in the selection of the Chief Executive and
+the Legislative Council. In reality, the mini-constitution’s detailed
+electoral arrangements have kept the pro-democracy camp out of the top
+office and in perpetual minority in the Legislative Council. NSL-era
+Hong Kong would not tolerate even such a constrained, semi-democratic
+role. The Hong Kong authorities disqualified a large number of
+previously elected pro-democracy Legislative Councilors and District
+Councilors in 2020-21 while many pro-democracy members resigned en
+masse in protest. The completely subservient Legislative Council then
+passed new electoral arrangements in 2021 to conform to China’s new
+Basic Law amendments and ensure that only “patriots” can run in
+                          9
+subsequent elections. The Election Committee is expanded from 1,200
+to 1,500 members fully stacked with “patriots” to rubber-stamp Beijing’s
+chosen candidates. The Legislative Council increases from 70 to 90
+members, with 40 selected by the Election Committee. Directly elected
+legislative seats are reduced from half to 20, and such candidates require
+nomination by the Election Committee. The remaining 30 seats are
+
+
+
+7 See SOCIAL MOVEMENT DATABASE (社運資料庫), https://www.hkprotestdb.com/ (last
+  visited Jan. 26, 2022).
+8 Marius Zaharia, Hong Kong Passes Immigration Bill, Raising Alarm over ‘Exit Bans’,
+  REUTERS (Apr. 28, 2021), https://www.reuters.com/world/asia-pacific/hong-kong-
+  passes-immigration-bill-raising-alarm-over-exit-bans-2021-04-28/.
+9 Hong Kong Electoral Reform: LegCo Passes ‘Patriots’ Law, BBC (May 27, 2021),
+  https://www.bbc.com/news/world-asia-57236775.
+164                                   《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+returned by narrowly-based functional-corporate constituencies that
+guarantee the selection of “patriots.” As if the Election Committee
+cannot be fully trusted, all candidates are vetted by a Candidate
+Eligibility Review Committee with each candiate investigated by the
+                              10
+national security police.          The legislature thus newly constituted in
+2022 is expected to speedily pass any laws and budget presented by the
+government.
+
+      As if the NSL and electoral changes may not be enough to silence
+recalcitrant and resilient Hong Kong people, the authorities are aiming
+                    11
+for an “overkill”        by introducing new national security legislation to
+cover offences not yet included, such as treason, theft of state secrets, a
+ban on foreign political organisations from conducting political activities
+in the city and local political bodies from establishing ties with their
+                         12
+foreign counterparts.
+
+      Beijing claims that the NSL and related measures are immediate
+responses to the anti-extradition protest, but the premature death of “One
+Country, Two Systems” was long in the making. According to William
+
+
+
+10 AFP, Hong Kong Will Vet Political Candidates’ Entire Past to Ensure Loyalty to
+   China — Justice Chief, HONG KONG FREE PRESS (Apr. 3, 2021), https://hongkongfp.
+   com/2021/04/03/hong-kong-will-vet-political-candidates-entire-past-to-ensure-loyalty-
+   to-china-justice-chief/.
+11 This term is adopted from the treatment of the Apple Daily. The Editorial Board,
+   Hong Kong’s Apple Daily Overkill, WALL STREET JOURNAL (July 30, 2021),
+   https://www.wsj.com/articles/hong-kong-apple-daily-next-digital-investigation-paul-
+   chan-jimmy-lai-11627683569.
+12 Jeffie Lam, National Security: What Is Article 23 in Hong Kong and Why Is the Issue
+   Back in the Spotlight? SOUTH CHINA MORNING POST (June 28, 2021), https://www.
+   scmp.com/news/hong-kong/politics/article/3138956/national-security-what-article-23-
+   hong-kong-and-why-issue; Grenville Cross, National Security Law: Progress and
+   Unfinished Business, CHINA DAILY (Dec. 10, 2021), https://www.chinadailyasia.
+   com/article/251270#National-Security-Law:-Progress-and-unfinished-business.
+The Bad Birth and Premature Death of                                               165
+“One Country, Two Systems” in Hong Kong
+
+Overholt, when Chinese leaders “saw demonstrations in Hong Kong,
+they feared another Tiananmen Square”; when they “heard demands for
+                                                                              13
+democracy, they feared a Taiwan-style independence movement.”                       In
+2012, Zhang Xiaoming, former Director of the Hong Kong and Macao
+Affairs Office (HKMAO), remarked that Beijing’s ultimate policy
+                                                                                    14
+toward the democratic camp was to “push them to death (往死裡整).”
+In 2014, Zhang further told pan-democratic legislators that “the fact that
+you are still living is a sign of the central government’s tolerance (你們
+能活著，已顯出中央的包容).” In 2016, Chen Zuoer, former HKMAO
+deputy director, instructed Hong Kong to “hunt down” pro-independence
+                           15
+“rats” with “no mercy.”         When Carrie Lam, current Chief Executive of
+                                                                            16
+Hong Kong, called protesters “enemies of the people” in 2019,                    she
+was merely regurgitating Beijing’s long-standing position.
+
+
+
+
+13 William H. Overholt, Hong Kong: The Rise and Fall of “One Country, Two Systems”,
+   ASH CENTER 11 (Dec. 2019), https://ash.harvard.edu/files/ash/files/overholt_hong_
+   kong_paper_final.pdf.
+14 Quoted in Ching Cheong (程翔), Xianggang Yunluoji Zhiyi: Shei Shuaixian Pohuai
+   he Fenhua Xianggang? (香港隕落記之一：誰率先破壞和分化香港？) [Record on
+   Hong Kong’s Fall No. 1: Who Took the Lead in Destroying and Dividing Hong
+   Kong?], HONG KONG CITIZEN NEWS ( 眾 新 聞 ) (Jan. 21, 2021), https://www.
+   hkcnews.com/article/37400/香港工委統戰部大專生支部-泛民-初選大搜捕-37596/
+   香港隕落記之一：誰率先破壞和分化香港？.
+15 Christy Leung, ‘No Mercy’ for Hong Kong’s Pro-Independence ‘Rats’ Says Head of
+   Top Beijing Think Tank, SOUTH CHINA MORNING POST (Nov. 30, 2016),
+   https://www.scmp.com/news/hong-kong/politics/article/2050425/no-mercy-hong-kongs-
+   pro-independence-rats-says-head-top.
+16 Holmes Chan & Tom Grundy, ‘Wishful Thinking’ to Believe Hong Kong Gov’t Will
+   Yield to Protesters’ Demands, Leader Carrie Lam Says, HONG KONG FREE PRESS
+   (Nov. 12, 2019), https://hongkongfp.com/2019/11/12/wishful-thinking-believe-hong-
+   kong-govt-will-yield-protesters-demands-leader-carrie-lam-says/.
+166                                  《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+II. The Bad Birth of the “One Country, Two
+    Systems” Model
+
+      In a post-mortem exercise, the “One Country, Two Systems” model
+suffered from a premature death because it had a bad birth with multiple
+complications.
+
+      The 1984 Sino-British Joint Declaration officially outlines the
+model by promising “Hong Kong people ruling Hong Kong” under a
+“high degree of autonomy” for 50 years until 2047. The model was
+problematic from the start. The UK and Hong Kong focused on the
+political side of the “Two Systems,” believing that the arrangement
+would create a firewall shielding the city’s much cherished rule of law,
+independent judiciary, neutral civil service, impartial police, freedom of
+speech and free press from the one-party dictatorship across the border.
+Beijing, however, viewed the “Two Systems” in economic-financial
+terms — Hong Kong’s capitalism versus China’s socialism. More
+specifically, while Hong Kong understood the model as protection for
+preexisting freedoms and rights, Beijing’s design for Hong Kong was
+                                      17
+“capitalism without freedom.”              Chinese officials in recent years
+reiterated that the Joint Declaration, though it was filed with the United
+Nations and counts as a treaty, was “now void and only covered the
+                                                                       18
+period from the signing in 1984 until the handover in 1997.”
+
+
+
+17 See Victoria Tin-bor Hui, Crackdown: Hong Kong Faces Tiananmen 2.0, 31(4) J.
+   DEMOCRACY 122 (2020).
+18 Danny Lee & Gary Cheung, Beijing Tells Britain It Has No ‘Moral Responsibility’ for
+   Hong Kong — Remarks Come after Ambassador Told UK Lawmakers Joint
+   Declaration Is ‘Void’, SOUTH CHINA MORNING POST (Dec. 3, 2014), http://www.scmp.
+   com/news/hong-kong/article/1654603/china-says-british-complaints-over-hong-kong-
+   visit-ban-useless.
+The Bad Birth and Premature Death of                                             167
+“One Country, Two Systems” in Hong Kong
+
+     Whether or not Beijing leaders ever meant to abide by the Joint
+Declaration, by the time the Basic Law was promulgated in 1990, the
+1989 Tiananmen crackdown fully exposed the structural contradiction of
+the “One Country, Two Systems” model. When protests swept through
+China in 1989, Hong Kong people marched under the slogan “Today’s
+                                              19
+Tiananmen, Tomorrow’s Hong Kong.”                  In the hope that a more open
+China would bode well for the city, Hongkongers donated money and
+material to show solidarity. After the bloody repression, hope gave way
+to despair: If the CCP could shoot its own people today, what would they
+do to Hongkongers tomorrow? This fear gave rise to the conviction that
+only full democratization could safeguard the city’s fundamental rights
+and freedoms, giving birth to Hong Kong’s democracy movement.
+Beijing, on the other hand, came to view Hong Kong as a subversive
+base and was determined to make Hong Kong safe for the CCP.
+                                                                                  20
+     The Basic Law enacted in 1990 rolls back critical promises.
+Recently declassified documents show that London complained about
+                                                       21
+key discrepancies between the two documents.                The Joint Declaration
+guarantees “a high degree of autonomy, except in foreign and defense
+
+
+
+19 Victoria Tin-bor Hui, Yesterday’s Tiananmen, Today’s Hong Kong, BLOG (June 4,
+   2020), https://victoriatbhui.wordpress.com/2020/06/04/yesterdays-tiananmen-todays-
+   hong-kong/.
+20 See Michael C. Davis, Hong Kong’s Umbrella Movement: Beijing’s Broken Promises,
+   26(2) J. DEMOCRACY 101 (2015). This rollback would continue step by step in the
+   years to follow. See MICHAEL C. DAVIS, MAKING HONG KONG CHINA: THE ROLLBACK
+   OF HUMAN RIGHTS AND THE RULE OF LAW (2020).
+21 Ying Zaozhi Jibenfa Zhenggai Shifa Loudong Xiang Jing Ti Xiudin Caogao Beiju (英
+   早知基本法政改 釋法漏洞 向京提修訂草稿被拒) [UK Knew Early about Holes
+   with Political Reforms and Interpretation in the Basic Law, Raised Amendments with
+   Beijing but Rejected], BIBLIOTHÈQUE (果靈聞庫) (Jan. 5, 2020), https://collection.
+   news/appledaily/articles/G7EYD5UKPU7XUBQ3CK4YFK5GBI [https://perma.cc/
+   TK74-BSKU].
+168                                  《中研院法學期刊》2022特刊（2022年5月）
+
+
+         22
+affairs.”     The important qualifier is omitted in Article 2 of the Basic
+Law — while “[t]he National People’s Congress authorizes the Hong
+Kong Special Administrative Region to exercise a high degree of
+                                                           23
+autonomy,” it could also limit that authorization.               In addition, Article
+158 gives the final interpretation power over the Basic Law to the
+National People’s Congress Standing Committee (NPCSC) — a power
+                                                            24
+that Beijing did not hesitate to wield over the years.
+
+      If pre-NSL Hong Kong needed any clue to what the future might
+                                       25
+hold, Macau was the role model.             When President Xi Jinping presided
+over celebrations marking the twentieth anniversary of Macau’s return
+on December 20, 2019, he championed Macau as the “shining chapter”
+in the practice of “One Country, Two Systems”: accepting “One
+Country” as the prerequisite and basis of “Two Systems,” integrating the
+central government’s “comprehensive jurisdiction” over the city, passing
+national security and national anthem laws, forming a National Security
+
+
+22 Joint Declaration of the Government of the United Kingdom of Great Britain and
+   Northern Ireland and the Government of the People’s Republic of China on the
+   Question of Hong Kong, Dec. 19, 1984, effective May 27, 1985, https://www.cmab.
+   gov.hk/en/issues/jd2.htm.
+23 Basic Law art. 2 (H.K.).
+24 Karen Cheung, China’s Power to Interpret Hong Kong’s Basic Law ‘Greatest Threat
+   to Rule of Law,’ Bar Assoc. Head, HONG KONG FREE PRESS (Mar. 6, 2018),
+   https://hongkongfp.com/2018/03/06/chinas-power-interpret-hong-kongs-basic-law-
+   greatest-threat-rule-law-bar-assoc-head/.
+25 State Leader Li Zhanshu Tells HK to Fall in Line, Like Macau, THE STANDARD (Dec. 3,
+   2019), https://www.thestandard.com.hk/breaking-news/section/4/137930/State-leader-
+   Li-Zhanshu-tells-HK-to-fall-in-line,-like-Macau [https://perma.cc/Z2TW-YE7D];
+   Xianggang Shiwei: Li Zhanshu Jie Aomen Jinggao Xianggang Ruhe Jiedu (香港示
+   威：栗戰書借澳門警告香港如何解讀？) [Hong Kong Protest: How to Read Li
+   Zhanshu’s Warning to Hong Kong With the Macau Example], BBC NEWS CHINESE
+   (BBC中文網) (Dec. 4, 2019), https://www.bbc.com/zhongwen/trad/chinese-news-
+   50654646; Steven Lee Myers, In Macau, China Sees a Model for a Rebellious Hong
+   Kong, N.Y. TIMES (Dec. 18, 2019), https://www.nytimes.com/2019/12/18/world/asia/
+   macau-china-hong-kong-protest.html.
+The Bad Birth and Premature Death of                                             169
+“One Country, Two Systems” in Hong Kong
+
+Committee chaired by the Chief Executive, respecting the Chief
+Executive’s paramount authority over executive, legislative and judicial
+branches of government, promoting patriotic education, adopting
+mainland textbooks in schools, and rejecting all forms of foreign
+              26
+interference.      This was clearly meant to be a stab at Hong Kong which
+long rebelled against national security and national anthem laws,
+national education, and executive control over legislative and judicial
+branches.
+
+     Charles Tilly and Sidney Tarrow point out that the “structural
+disjunction” between “the largely authoritarian Communist Chinese state
+and its quasi-democratic enclave” builds in “an unstable mix of
+conventional, confrontational, and violent behavior” with “unpredictable
+             27
+outcomes.”         Since 1990, Beijing denied Hongkongers’ democratic
+aspirations at every step of the way. Hongkongers responded to broken
+promises with waves of ever-broadening protest. Beijing, in turn, further
+undercut Hong Kong’s autonomy and asserted ever more direct control,
+which only radicalized dissent. The rest of this article details ever-
+escalating cycles of repression and resistance that led to the premature
+death of “One Country, Two Systems” in 2020: Hong Kong’s protest
+against national security legislation in 2003 followed by Beijing’s
+subsequent imposition of “two administrations,” the Umbrella
+Movement of 2014 leading to Beijing’s struggles against pillars of
+dissent, and the anti-extradition protest of 2019 with Beijing’s
+imposition of the NSL.
+
+
+26 Xinhua, Xi Lauds Macao’s “Shining Chapter” of “One Country, Two Systems”
+   Practice, PEOPLE (Dec. 21, 2019), http://en.people.cn/n3/2019/1221/c90000-9642639.
+   html.
+27 CHARLES TILLY & SIDNEY TARROW, CONTENTIOUS POLITICS 75, 89, 91, 93 (2d ed.
+   2015).
+170                                 《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+A. The First Cycle: The Anti-National Security Protest of
+   2003 Followed by Beijing Imposing a “Second
+   Administration” over Hong Kong
+      The cycle of repression and resistance picked up steam not long
+after the handover in 1997. Beijing wanted Hong Kong to pass a national
+security law in 2002. While Article 23 of the Basic Law requires its
+enactment, the legal profession took the lead in contesting that the
+proposed bill did not provide for sufficient safeguards as required by the
+                                                               28
+International Covenant on Civil and Political Rights.                The bill would
+probably have been passed, if not because the Severe Acute Respiratory
+Syndrome (SARS) alerted Hongkongers that Beijing had an expansive
+understanding of state secrets that included the secret emergence and
+spread of a deadly virus. Once SARS subsided in the summer of 2003,
+half a million protested on July 1. The bill was shelved as a result.
+
+      While Hongkongers championed the victory, Beijing did not take
+this setback lightly and sped up the erosion of “One Country, Two
+           29
+Systems.”
+
+      In addition to the long-standing HKMAO, Beijing formed a Central
+Coordination Group for Hong Kong and Macau Affairs (renamed in
+2020 as the Central Leading Group on Hong Kong and Macau Affairs)
+to oversee the Special Administrative Regions from the capital. It also
+
+
+
+28 SCMP Reporter, The Article 23 Argument, SOUTH CHINA MORNING POST (July 1,
+   2003), https://www.scmp.com/article/420333/article-23-argument.
+29 Chi-kin Lo (盧子健), Zhengdun Gangaoban: Jiaqian Gjiquan, Gengjia Weixian (整
+   頓 港 澳 辦 ： 加 強 集 權 、 更 加 危 險 ) [Reshuffling HKMAO: Strengthening
+   Centralization and Heightening Danger], HONG KONG CITIZEN NEWS (眾新聞) (Feb.
+   16, 2020), https://www.hkcnews.com/article/26956/港澳辦-夏寶龍-駱惠寧-26956/
+   整頓港澳辦：加強集權、更加危險.
+The Bad Birth and Premature Death of                                                  171
+“One Country, Two Systems” in Hong Kong
+
+                                                                        30
+created a structure of “two administrations” in Hong Kong.                    The “first
+administration” was headed by the Chief Executive, who was technically
+selected by the 1,200-member Election Committee but was in fact
+handpicked by Beijing. The Chief Executive enjoyed “overriding
+                                                                              31
+power” over the executive, legislative, and judicial branches.                     In this
+so-called executive-led system, the Chief Executive was guaranteed
+majority votes to push through any bills. S/he exercised the power of
+appointments and promotions to fill the Department of Justice, the police,
+and the civil service with loyalists. S/he could control even non-
+governmental sectors through funding and licensing. In the aftermath of
+the 2003 protest, Beijing’s Liaison Office in Hong Kong, created in 2000,
+became      the    “second      administration”       to    supervise        the    “first
+administration.” The former director Wang Zhimin famously commented
+that, “It is good that Central (the Hong Kong government) and Western
+                                                            32
+Districts (the Liaison Office) work together.”                   “Western District”
+intervened not only at the top levels of the Hong Kong government but
+also reached deep into all 18 administrative districts and mobilized for
+pro-Beijing candidates in elections. These arrangements effectively
+turned the promise of “Hong Kong people ruling Hong Kong” into
+
+
+30 See Russell Hsiao’s interview, Hong Kong, 11 July 2019. Russell Hsiao, A
+   Preliminary Survey of CCP Influence Efforts in Hong Kong, 19(14) CHINA BRIEF
+   (July 31, 2019), https://jamestown.org/program/a-preliminary-survey-of-ccp-influence-
+   efforts-in-hong-kong/.
+31 Vivian Zeng, Hong Kong’s Leader Has Special ‘Overriding Power’ over Executive,
+   Legislature and Judiciary — Top Official, HONG KONG FREE PRESS (Sept. 12, 2015),
+   https://www.hongkongfp.com/2015/09/12/hong-kongs-leader-has-overriding-power-
+   over-executive-legislature-and-judiciary-top-official-in-hk/.
+32 Wang Zhimin “Zhonghuan Xihuan Xingmai” Lun Zeng Re Reyi (王志民「中環西環
+   行埋」論曾惹熱議) [Wang Zhimin’s “Central and Western Districts Coming
+   Together” Once Stirred Up Controversy], BASTILLE POST (Jan. 5, 2020), https://www.
+   bastillepost.com/australia/article/1338247- 王 志 民 「 中 環 西 環 行 埋 」 論 曾 惹 熱
+   議?variant=zh-cn [https://perma.cc/6DFM-4ZWR].
+172                                  《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+“Beijing appointees ruling Hong Kong” and “Western District ruling
+Hong Kong.”
+
+B.     The Second Cycle: The Umbrella Movement of 2014 and
+       Beijing’s “Comprehensive Jurisdiction” over Hong Kong
+       The Basic Law stipulates “gradual and orderly progress” in the
+selection of the Hong Kong chief executive up to 2007 and the election
+of the Legislative Council up to 2008, with the “ultimate aim” of
+“universal suffrage.” This language gave Hong Kong people the
+expectation that universal franchise would begin a decade after 1997.
+That did not happen — in 2007, Beijing issued a decision to postpone
+any changes for 10 years. By 2013, Benny Tai, a Hong Kong University
+Law School professor, began to agitate for universal suffrage by
+threatening to mobilize an occupation of the city’s central business
+district. However, in August 2014, Beijing issued yet another decision,
+backed up by a white paper that proclaimed the central government’s
+                                                         33
+“comprehensive jurisdiction” over the city.                   The decision also
+restricted “one person, one vote” in the election of the Chief Executive
+by allowing only two or three vetted candidates.
+
+       Student leaders such as Joshua Wong took the lead in protesting
+against the decision. They had come of age by protesting against the
+high-speed railway and national education in 2009 and 2012,
+respectively. By 2014, these youthful faces had become seasoned
+
+
+33 Information Office of the State Council, The Practice of the ‘One Country, Two
+     Systems’ Policy in the Hong Kong Special Administrative Region (June 10, 2014),
+     http://www.scio.gov.cn/zfbps/ndhf/2014/Document/1373163/1373163.htm; National
+     People’s Congress, Full Text of NPC Decision on Universal Suffrage for HK Chief
+     Executive Selection, XINHUA (Aug. 31, 2014), http://www.china.org.cn/china/2014-
+     08/31/content_33390388.htm.
+The Bad Birth and Premature Death of                                             173
+“One Country, Two Systems” in Hong Kong
+
+activists with territory-wide appeal. When they were forcibly dragged
+away from a protest at the Central Government Offices, other residents
+poured in to show support. The “Occupy Central” campaign promoted
+by Benny Tai mutated into the Umbrella Movement after protesters
+opened their umbrellas to shield themselves from tear gas. From late
+August to early December, protesters occupied busy roads to decry “fake
+universal franchise” and demand “genuine universal suffrage.” A
+Chinese University study estimates that 1.2 million people out of a
+population of 7.2 million participated at various times and in various
+       34
+forms.      Despite its unprecedented scale, the movement did not achieve
+its goal and only temporarily blocked Beijing’s plan for vetted elections.
+
+     The Umbrella Movement took Hong Kong by storm. To prevent
+Umbrella 2.0, Chen Zuoer, former deputy director of HKMAO, vowed
+                                                                   35
+in December 2014 to tighten “Hong Kong’s governance.”                   He declared
+“a long-term struggle with the forces that bring calamity to Hong Kong,”
+taking the fight “from the street to the law courts, to the Legislative
+Council, to inside the government, and to universities and secondary
+            36
+schools.”
+
+
+
+34 Center for Communication and Public Opinion Survey, Public Opinion & Political
+   Development in Hong Kong: Survey Results, CHINESE UNIVERSITY OF HONG KONG
+   (Dec. 18, 2014), http://www.com.cuhk.edu.hk/ccpos/images/news/TaskForce_Press
+   Release_141218_English.pdf.
+35 Tony Cheung & Fanny W. Y. Fung, Now Hong Kong Must Face the Big Questions in
+   Wake of Occupy, SOUTH CHINA MORNING POST (Dec. 13, 2014), http://www.scmp.
+   com/print/news/hong-kong/article/1661573/now-city-must-face-big-questions-wake-
+   occupy; Chen Zuoer: Rijun Zengzai Xianggang Shibao Xianzai Yingguo Riben Du Bu
+   gan Ti Zhe Shi（陳佐洱：日軍曾在香港施暴 現在英國日本都不敢提這事）
+   [Chen Zuoer: Japanese Troops Once Raped Hong Kong, Now Neither the UK Nor
+   Japan Dares to Raise This History], PHOENIXTV (Dec. 13, 2014), https://news.ifeng.
+   com/a/20141213/42711406_0.shtml.
+36 Id.
+174                                《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+      The Hong Kong government duly complied. Ahead of the
+Legislative Council elections in 2016, the authorities barred an
+independence advocate Edward Leung from running. Two like-minded
+candidates, Wai-ching Yau and Chung-hang Leung of Youngspiration,
+were elected and displayed a “Hong Kong is not China” flag during their
+swearing-in ceremony in October 2016. The then Chief Executive Chun-
+ying Leung asked the court to disqualify them. But before the court
+issued a verdict, Beijing issued a binding interpretation of the Basic Law
+in November that was then used to retroactively disqualify any
+                                                                                37
+legislator-elect who made revisions or additions to the formal oath.
+The court duly expelled the duo from the Legislative Council. The
+Department of Justice sought to disqualify four more legislators who
+never supported independence but played with the language in their oath
+of office: Democracy Groundwork’s Lau Siu-lai, Demosisto’s Nathan
+Law, the League of Social Democrats’ Leung Kwok-hung and
+architectural sector lawmaker Edward Yiu. Beijing’s interpretation was a
+                                                             38
+direct interference with the judiciary’s independence.            As Hong Kong
+Watch puts it,
+
+      “In this instance, [Beijing] has effectively issued an amendment
+      to Hong Kong’s constitution to ensure that candidates are
+      successfully politically screened. Although the CCP do
+      technically have the right to ‘interpret’ the constitution, they do
+      not, under Hong Kong’s Basic Law, have the right to amend
+      local laws. In order to disqualify candidates, they have
+
+
+37 See Cheung, supra note 24.
+38 Elson Tong, HK20: Interview — Beijing’s Restraint with Hong Kong’s Rule of Law
+   Has Expired, Says Law Prof. Johannes Chan, HONG KONG FREE PRESS (June 25,
+   2017), https://hongkongfp.com/2017/06/25/hk20-interview-beijings-restraint-hong-
+   kongs-rule-law-expired-says-law-prof-johannes-chan/.
+The Bad Birth and Premature Death of                                               175
+“One Country, Two Systems” in Hong Kong
+
+     effectively amended local laws: and therefore, committed a
+     violation of… the ‘high degree of autonomy’ guaranteed for
+                                           39
+     Hong Kong in the constitution.”
+
+     Pro-Beijing voices were never reticent about their displeasure with
+Hong Kong’s judicial independence as promised in the Basic law. The
+Chief Executive’s “overriding power” over appointments already turned
+the Justice Department into a trusted agency to charge the arrested with
+the heaviest crimes. Even judges’ impartiality was partially weakened by
+promotions and appointments of loyalists. Nonetheless, the courts were
+still buttressed by professional judges who issued verdicts strictly based
+on evidence and who followed the common law tradition sensitive to the
+free speech rights of public order defendants.
+
+     In the aftermath of the Umbrella Movement, central officials and
+local pro-regime politicians repeatedly complained that judges released
+the majority of protest-related defendants or gave very lenient
+community service sentences to the convicted few, while jailing police
+officers convicted of abuse. Chen Zuoer lamented that Occupy leaders
+                                                                              40
+were not being dealt with harshly enough in local courts.                          The
+Department of Justice took the cue and appealed against the light
+community service given to young activists. By August 2017, the Court
+of Appeal handed down jail terms of six months to eight months for
+
+39 HONG KONG WATCH, WHY HONG KONG MATTERS: UNDERSTANDING THE IMPORTANCE
+   OF THE CITY TO CHINA AND THE WORLD 29 (2019), https://static1.squarespace.com/
+   static/58ecfa82e3df284d3a13dd41/t/5e569c77e76e6430d0eb0108/1582734469230/
+   Why+Hong+Kong+matters_web.pdf.
+40 In November 2016, Chen Zuoer complained about judges in a closed-door meeting:
+   “The price of committing an offence was too low in some situations in Hong Kong…
+   Taking the Occupy Movement as an example, how many movement leaders were
+   brought to the court up until now? Why were they not in the court?” See Leung, supra
+   note 15.
+176                                   《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+student leaders Joshua Wong, Nathan Law (also one of the disqualified
+legislators) and Alex Chow, all youthful leaders in the Umbrella
+             41
+Movement.         Although they won a final appeal against the jail terms in
+February 2018, they had served some or most of the sentences and their
+                                42
+conviction was reaffirmed.           By April 2019, Benny Tai and eight more
+Occupy leaders were also handed down prison sentences of up to 16
+months for conspiracy to cause public nuisance, inciting others to cause
+public nuisance, and inciting people to incite others to cause public
+nuisance, all rarely used common law crimes. (By 2021-22, Chow Hang-
+tung, a former leader of the defunct Alliance in Support of Patriotic
+Democratic Movement in China, was sentenced to 10 months for
+commemorating the June 4 massacre in 2020 and 15 months for posting
+                                      43
+about lighting a candle in 2021. )
+
+      Beijing also struggled against other pillars of “One Country, Two
+Systems.” As the Umbrella Movement was led by university professors
+and students, the Chief Executive stacked universities with loyalists and
+
+
+
+41 Jasmine Siu, Joshua Wong and Other Jailed Hong Kong Student Leaders See Political
+   Careers Halted, SOUTH CHINA MORNING POST (Aug. 17, 2017), https://www.scmp.
+   com/news/hong-kong/politics/article/2107216/occupy-activists-joshua-wong-and-
+   nathan-law-jailed-hong-kong.
+42 Kris Cheng, Jailed Hong Kong Democracy Activists Joshua Wong and Nathan Law
+   Freed on Bail by Court of Final Appeal, HONG KONG FREE PRESS (Oct. 24, 2017),
+   https://hongkongfp.com/2017/10/24/breaking-jailed-hong-kong-activists-joshua-wong-
+   nathan-law-freed-bail-court-final-appeal/; Jasmine Siu, Hong Kong Democracy Activist
+   Joshua Wong Wins Appeal Against Jail Term over Protest in Run-Up to Occupy,
+   SOUTH CHINA MORNING POST (Feb. 6, 2018), https://www.scmp.com/news/hong-
+   kong/law-crime/article/2132248/hong-kong-democracy-activist-joshua-wong-wins-
+   appeal.
+43 Candice Chau, Ex-organiser of Hong Kong Tiananmen Massacre Vigil Jailed for 15
+   Months over Banned 2021 Commemoration, HONG KONG FREE PRESS (Jan. 4, 2022),
+   https://hongkongfp.com/2022/01/04/breaking-hong-kong-tiananmen-massacre-vigil-
+   group-ex-leader-convicted-over-2021-banned-rally/.
+The Bad Birth and Premature Death of                                              177
+“One Country, Two Systems” in Hong Kong
+
+                                          44
+forced out pro-democracy faculty . In secondary schools, patriotic
+education was re-introduced in piecemeal fashion.
+
+     To many Hongkongers, Beijing was turning “One country, Two
+systems” into “One Country, 1.5 Systems,” ever closer to Macau’s “One
+          45
+System.”       As Tsang Yok-sing, a long-standing pro-Beijing politician,
+put it in 2015: “If the central government’s interference goes deeper and
+deeper into Hong Kong’s internal affairs, at some point quantitative
+changes will become qualitative changes. Even if Beijing does not
+abrogate ‘One Country, Two Systems’ by name, the central government
+                                                           46
+will exert de facto direct rule over Hong Kong.”                His warning would
+come true with the NSL.
+
+C. The Third Cycle: The Anti-Extradition Protests of 2019
+   with Beijing’s Abrogation of “One Country, Two
+   Systems”
+     By early 2019, it looked as if the “two administrations” had firmly
+reined in Hong Kong. In February, the Hong Kong government proposed
+to amend the Fugitive Offenders Ordinance and the Mutual Legal
+Assistance in Criminal Matters Ordinance to allow extradition from
+Hong Kong to mainland China. Carrie Lam pledged that the bill came
+
+
+44 Vivian Wang, As Hong Kong Law Goes after ‘Black Sheep,’ Fear Clouds Universities,
+   N.Y. TIMES (Nov. 7, 2020), https://www.nytimes.com/2020/11/07/world/asia/hong-
+   kong-china-national-security-law-university.html.
+45 Ken Moriyasu, Hong Kong Trimmed to ‘One Country, 1.5 Systems’ — Student
+   Activists Argue that the Next Decade is Crucial to Secure Democracy, NIKKEI ASIA
+   (June 14, 2017), https://asia.nikkei.com/Politics/Hong-Kong-trimmed-to-one-country-
+   1.5-systems.
+46 Gary Cheung & Tony Cheung, Outgoing Hong Kong Legco Chief Warns ‘One
+   Country, Two Dystems’ Will Fall Apart If Beijing Keeps on Interfering, SOUTH CHINA
+   MORNING POST (Aug. 30, 2015), http://www.scmp.com/news/hong-kong/politics/
+   article/1853845/exclusive-hong-kong-legco-chief-says-urgent-review-needed.
+178                                 《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+from her own volition and not from Beijing. But Reuters reports that the
+order came from the Central Commission for Discipline Inspection
+which was seeking a less politically damaging mechanism than
+                              47
+extrajudicial kidnappings.         Lee Bo, a bookseller at Causeway Bay
+Books, had been kidnapped from Hong Kong and taken across the
+border in January 2016. Xiao Jianhua, a businessman with close ties to
+China’s political elite, had been abducted from the Four Seasons Hotel
+on January 27, 2017.
+                                                         48
+      Hong Kong people staged their “last stand.”             The extradition bill
+would take down the last pillar of the “Two Systems”: the protection of a
+still relatively professional judiciary in Hong Kong versus politicized
+courts subservient to the one-party dictatorship across the border. When
+jailed Occupy leaders called for a mass demonstration against the
+extradition law, 130,000 turned out on April 28. On June 9, a million
+marched. On June 12, tens of thousands surrounded the Legislative
+Council to block legislators from going in for a scheduled reading of the
+bill. The police used excessive force against protesters in full view of
+local and international media. At nightfall, the government labeled the
+day’s events as “riots” and charged the arrested for “rioting.” Lam
+vowed to push on but then “suspended” the bill on June 15.
+Hongkongers were both emboldened by the small “victory” and enraged
+by police brutality on June 12. Up to 2 million demonstrated on June 16
+demanding that the government formally withdraw the extradition bill,
+
+
+47 David Lague, James Pomfret & Greg Torode, How Murder, Kidnappings and
+   Miscalculation Set off Hong Kong’s Revolt, REUTERS (Dec. 20, 2019), https://www.
+   reuters.com/investigates/special-report/hongkong-protests-extradition-narrative/.
+48 Victoria Tin-bor Hui, Hong Kong’s ‘Last Stand’? How to Keep the Freedom Struggle
+   Alive, THE GLOBE POST (June 13, 2019), https://theglobepost.com/2019/06/13/hong-
+   kong-last-stand/.
+The Bad Birth and Premature Death of                                               179
+“One Country, Two Systems” in Hong Kong
+
+open an independent investigation into police abuses, drop the “riot”
+characterization of the protests, release those arrested on rioting charges,
+and reopen a dialogue on genuine universal suffrage truncated in 2014.
+Lam refused to formally withdraw the bill (until September 4) or make
+any concessions. Another 1.8 million turned out on August 18. The
+protest raged on through the summer into fall and winter. Confrontations
+spread from the streets to train stations, shopping malls and residential
+buildings across all major neighborhoods.
+
+       Beijing’s response was to have “One Country” completely take
+over “Two Systems,” which quickly added fuel to the fire for the rest of
+2019. This time, the central government bypassed the “two
+administrations” altogether and asserted thinly veiled direct rule. The
+Central Coordination Group for Hong Kong and Macau Affairs chaired
+by Vice Premier Han Zheng began to mete out directives from Bauhinia
+Villa, Beijing’s command center in Shenzhen across the border. Before
+Lam “suspended” the extradition bill on June 15, she had met with
+     49
+Han.      When a Reuters correspondent asked in August if Lam had the
+                                                             50
+autonomy to withdraw the bill, she had no answer.                 She admitted in a
+leaked audio that, “Once an issue has been elevated… to a sort of
+sovereignty and security level…, the political room… for maneuvering
+                                51
+is very, very, very limited.”
+
+
+
+49 See Lague, Pomfret & Torode, supra note 47.
+50 HK Leader Challenged: ‘Have Your Hands Been Tied by Beijing?’, REUTERS (Aug.
+   13, 2019), https://www.reuters.com/video/2019/08/13/hk-leader-challenged-have-your-
+   hands-bee?videoId=586904474.
+51 Reuters Staff, The Chief Executive ‘Has to Serve Two Masters’ — HK Leader Carrie
+   Lam — Full Transcript, REUTERS (Sept. 12, 2019), https://www.reuters.com/article/
+   us-hongkong-protests-lam-transcript-excl/exclusive-the-chief-executive-has-to-serve-
+   two-masters-hk-leader-carrie-lam-full-transcript-idUSKCN1VX0P7.
+180                                   《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+      Beijing’s public security ministry joined the coordination group in
+Fall 2019. When Lam met with Xi on November 4, Minister of Public
+Security Zhao Kezhi was in attendance. When Lam delivered her annual
+work report to Xi on December 16, Guo Shengkun, China’s “security
+czar” (Zhao’s boss) and head of the Central Political and Legal Affairs
+                                52
+Commission, was present.             When Chris Tang made his first official
+visit as Hong Kong’s new police chief to Beijing on December 6-7, 2019,
+he met with Guo and Zhao in addition to the then HKMAO director.
+
+      The central government also directly issued warnings to protesters.
+On July 31, 2019, the Chinese military garrison in Hong Kong released a
+video showing Chinese troops practicing anti-riot drills in Hong Kong-
+like urban setting. In early August, 12,000 troops, likewise captured in
+                                                                        53
+media reports, participated in more drills in Shenzhen.                      HKMAO
+called rare pressers to comment on the unrests. Spokespersons pledged
+support for the Hong Kong Chief Executive and the police on the first
+                               54                    55
+two pressers on July 29             and August 6.         They soon escalated the
+
+
+
+52 Jun Mai, Echo Xie & William Zheng, Why Was China’s Domestic Security Chief Guo
+   Shengkun at Carrie Lam’s Meeting with Xi Jinping?, SOUTH CHINA MORNING POST
+   (Dec. 17, 2019), https://www.scmp.com/news/china/politics/article/3042352/why-was
+   -chinas-domestic-security-chief-guo-shengkun-carrie-lams.
+53 Phoebe Zhang, Chinese Police Mass 12,000 Anti-Riot Officers in Shenzhen for Drill,
+   SOUTH CHINA MORNING POST (Aug. 6, 2019), https://www.scmp.com/news/china
+   /military/article/3021597/chinese-police-mass-12000-anti-riot-officers-shenzhen-drill.
+54 SCMP Reporters, As It Happened: How Beijing Expressed ‘Resolute Support’ for Hong
+   Kong’s Government, SOUTH CHINA MORNING POST (July 29, 2019), https://www.scmp.
+   com/news/hong-kong/politics/article/3020466/hong-kong-and-macau-affairs-office-
+   speak-extradition-bill.
+55 SCMP Reporters, Hong Kong’s Government and Police ‘Completely Capable’ of
+   Protecting Law and Order, Key Beijing Official Says, Ruling out Need for PLA to be
+   Mobilized, SOUTH CHINA MORNING POST (Aug. 6, 2019), https://www.scmp.com/
+   news/hong-kong/politics/article/3021584/will-beijing-press-briefing-offer-way-defuse-
+   hong-kongs.
+The Bad Birth and Premature Death of                                                 181
+“One Country, Two Systems” in Hong Kong
+
+                                                                          56
+rhetoric to accusations of a “color revolution” on August 8,                   “signs of
+                              57                                                58
+terrorism” on August 12,           and “political terror” on September 3.
+
+      Beijing officials from Xi on down urged the Hong Kong police to
+“punish violent and unlawful acts” and praised their “forceful actions”
+                      59
+against “rioters.”         The Hong Kong’s police, once “Asia’s finest,”
+                                                                                       60
+quickly became “just another mainland force” acting with impunity.
+Police abuses on June 9 were just the beginnings. When Beijing’s
+warnings did not deter protesters, the authorities’ plan was to “arrest as
+many as possible… until there [was] nobody left (拉得幾多得幾多，拉
+到 無 人 為 止 ).” 61 Moreover, as Hong Kong’s judiciary was still
+relatively autonomous and many of the arrested were not expected to be
+convicted or sentenced, the police resorted to a decapacitation campaign
+
+
+56 Kris Cheng, Beijing Deems Hong Kong Protests ‘Colour Revolution,’ Will Not Rule
+   out Intervention, HONG KONG FREE PRESS (Aug. 8, 2019), https://www.hongkongfp.
+   com/2019/08/08/beijing-deems-hong-kong-protests-colour-revolution-will-not-rule-
+   intervention/.
+57 Sarah Zheng, Beijing Warns of ‘Signs of Terrorism’ in Violent Unrest in Hong Kong,
+   SOUTH CHINA MORNING POST (Aug. 12, 2019), https://www.scmp.com/news/china/
+   politics/article/3022438/beijing-warns-signs-terrorism-violent-unrest-hong-kong.
+58 SCMP Reporters, As It Happened: All Branches of Government, Including Judiciary,
+   Must Help Stop Violence and Restore Order, Says Beijing’s Top Hong Kong Office,
+   SOUTH CHINA MORNING POST (Sept. 3, 2019), https://www.scmp.com/news/hong-
+   kong/politics/article/3025479/beijings-top-office-hong-kong-affairs-holds-fourth-press.
+59 Laura Zhou, Xi Jinping Again Backs Hong Kong Police Use of Force in Stopping
+   Unrest, SOUTH CHINA MORNING POST (Nov. 14, 2019), https://www.scmp.com/
+   news/china/politics/article/3037811/xi-jinping-again-backs-hong-kong-police-use-force-
+   stopping.
+60 Chris Yeung, HK Police Now Just Another Mainland Force, VOICE OF HONG KONG
+   (Aug. 13, 2019), http://www.vohk.hk/2019/08/13/hk-police-now-just-another-mainland-
+   force/.
+61 Sha Boon Shan (沙半山), Xiaoxi: Zhengfu Buhui Dayun Wudasuqiu, “Xiaohaozhan”
+   Kangheng Shiweizhe (消息：政府不會答允五大訴求 「消耗戰」抗衡示威者)
+   [Sources: Government Would Not Agree to Five Demands, Using “War of Attrition”
+   to Counter Protesters], HK01 (香港01) (Aug. 27, 2019), https://www.hk01.com/政情
+   /368236/政圈風聲-消息-政府不會答允五大訴求-消耗戰-抗衡示威者.
+182                                  《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+to inflict maximizing injuries on protesters short of outright killing. They
+regularly fired tear gas, rubber bullets, beanbag rounds, and water
+cannons at high velocity, at head level, and at close range, so that even
+                                                                                    62
+technically non-lethal crowd-control weapons caused severe injuries.
+At the same time, the police minimized protesters’ access to medical
+treatment by blocking first responders and ambulances at protest sites
+and rounding up suspected protesters at hospitals. After August 11, 2019,
+police officers routinely beat up the arrested with batons, pinned them
+down and rubbed their faces against the ground, pepper-sprayed their
+                                      63
+wounds, and broke their bones.             Officers even fired live ammunition
+with near-fatalities on October 1 and November 11.
+
+      Chris Tang, immediately after his promotion to police chief in
+November 2019, assumed command of an assault on protesters at Hong
+Kong Polytechnic University. Hong Kong analysts suspect that he had a
+deliberate strategy to lure hardcore protesters to “defend” Polytechnic
+                           64
+and then arrest them.           In this single operation, the police detained
+                                                             65
+1,377 and registered 318 below the age of 18.                     When supporters
+poured into nearby areas to divert the police, police vehicles rammed
+
+
+62 K.K. Rebecca Lai & Austin Ramzy, 1,800 Rounds of Tear Gas: Was The Hong Kong
+   Police Response Appropriate?, N.Y. TIMES (Aug. 18, 2019), https://www.nytimes.
+   com/interactive/2019/08/18/world/asia/hong-kong-tear-gas.html.
+63 Barbara Marcolini, Police Dressed as Protesters: How Undercover Police in Hong
+   Kong Severely Injured People, N.Y. TIMES (Sept. 22, 2019), https://www.nytimes.
+   com/2019/09/22/world/hong-kong-police-protests.html.
+64 Chi-kin Lo (盧子健), Zhizao Lida Canan Suowei Heshi? (制造理大慘案、所為何
+   事？) [What Was the Purpose for Manufacturing the Polytechnic Tragedy?], HONG
+   KONG CITIZEN NEWS ( 眾 新 聞 ) (Nov. 19, 2019), https://www.hkcnews.com/
+   article/24918/圍困理工-1117理工衝突-鄧炳強-24918/制造理大慘案、所為何事.
+65 A Total of over 10,000 Petrol Bombs Seized from Various Universities, 4000 from Poly
+   U, 5,890 Protesters Arrested since June, DIMSUM DAILY HONG KONG (Nov. 29, 2019),
+   https://www.dimsumdaily.hk/a-total-of-over-10000-petrol-bombs-seized-from-various-
+   universities-4000-from-poly-u-5890-protesters-arrested-since-june/.
+The Bad Birth and Premature Death of                                                   183
+“One Country, Two Systems” in Hong Kong
+
+                                                                                  66
+them at high speed, causing a stampede with traumatic injuries.                         In
+detention centers, especially the infamous San Uk Ling Holding Center,
+                                                                                        67
+the arrested were denied access to families and lawyers for hours.
+They also complained of torture resulting in bone fractures and brain
+           68                           69
+bleeding,       even sexual assault.         In mid-August, doctors and nurses,
+who saw first-hand the severity of injuries, staged sit-ins with the slogan
+                                                                         70
+“Hong Kong police attempt to murder Hong Kong citizens.”
+
+      If there is any doubt as to who is in charge in the crackdown, events
+surrounding the Yuen Long incident on July 21, 2019 are instructive. At
+the suburban train station, white-clad assaulters armed with wooden
+sticks and metal rods indiscriminately attacked rail commuters and
+
+
+66 Kris Cheng, Hong Kong Police Accused of Driving Vehicles into Protesters during
+   Clearance Operation, HONG KONG FREE PRESS (Nov. 19, 2019), https://www.
+   hongkongfp.com/2019/11/19/hong-kong-police-accused-driving-vehicles-protesters-
+   clearance-operation/.
+67 Kanis Leung, Arrest and Detention of Children over Hong Kong’s Anti-Government
+   Protests Raise Questions on Police Treatment and Legal Process, SOUTH CHINA
+   MORNING POST (Oct. 20, 2019), https://www.scmp.com/news/hong-kong/politics/
+   article/3033706/arrest-and-detention-children-over-hong-kongs-anti.
+68 Hong Kong: Arbitrary Arrests, Brutal Beatings and Torture in Police Detention
+   Revealed, AMNESTY INTERNATIONAL (Sept. 19, 2019), https://www.amnesty.org/en/
+   latest/news/2019/09/hong-kong-arbitrary-arrests-brutal-beatings-and-torture-in-police-
+   detention-revealed/; MICHAEL C. DAVIS & THOMAS E. KELLOGG, THE PROMISE OF
+   DEMOCRATIZATION IN HONG KONG, DISCONTENT AND RULE OF LAW CHALLENGES,
+   GEORGETOWN CENTER FOR ASIAN LAW (Apr. 2020), https://www.ndi.org/sites/
+   default/files/Final_04.11.20_The%20Promise%20of%20Democratization%20in%20
+   Hong%20Kong.pdf.
+69 Chris Lau, Hong Kong Student Who Accused Police of Sexual Violence Against
+   Protesters Has Taken Legal Advice and Plans Further Action, SOUTH CHINA
+   MORNING POST (Oct. 11, 2019), https://www.scmp.com/news/hong-kong/law-and-
+   crime/article/3032610/hong-kong-student-who-accused-police-sexual-violence.
+70 Kimmy Chung & Elizabeth Cheung, More than 1,000 Health Care Staff Stage Sit-In
+   to Condemn ‘Excessive Use of Force’ by Hong Kong Police on Anti-government
+   Protesters, SOUTH CHINA MORNING POST (Aug. 13, 2019), https://www.scmp.
+   com/news/hong-kong/politics/article/3022650/more-1000-health-care-staff-stage-sit-
+   condemn-excessive-use.
+184                                     《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+pedestrians. The police did not show up until the thugs had left. Senior
+officers were filmed speaking with the men in white shirts prior to the
+attacks. A pro-regime legislator, Junius Ho, was seen shaking hands with
+gang leaders. These encounters led to suspicions that the police were
+                                   71
+colluding with the attackers.           When the then Chief Secretary Matthew
+Cheung, second in command to Carrie Lam, apologized that “the
+police’s handling [of the Yuen Long incident] fell short of the residents’
+expectations,” he was publicly rebuked by the Police Inspectors’
+               72
+Association.        One anonymous statement read: “Matthew Cheung, why
+do you deserve to represent the police force? If you want to apologise,
+you should resign. If you don’t step down or apologises to the whole
+                                                           73
+force, you will be a sworn enemy of the police!”                (Chris Tang, then the
+Yuen Long district commander, became the police commander on
+November 19, 2019, before further promotion to be the Secretary for
+Security in June 2020; his then Chief of Police boss, John Lee was
+promoted to Chief Secretary, the number two position in the Hong Kong
+government, before being further tipped as Beijing’s choice for the next
+                              74
+Chief Executive in 2022. )
+
+
+71 Lok-kei Sum, Hong Kong Police Chief Tangles with Opposition Councillors for
+   Second Time in Week over Force’s Handling of Protests, SOUTH CHINA MORNING
+   POST (Jan. 22, 2020), https://www.scmp.com/news/hong-kong/politics/article/3047251/
+   hong-kong-police-chief-tangles-opposition-councillors.
+72 Christy Leung & Victor Ting, Police Anger after Hong Kong No 2 Matthew Cheung
+   Says Sorry for Yuen Long Attack Response, SOUTH CHINA MORNING POST (July 26,
+   2019), https://www.scmp.com/news/hong-kong/politics/article/3020251/hong-kong-
+   no-2-matthew-cheung-says-sorry-police-response.
+73 Holmes Chan, Hong Kong’s Chief Sec. Apologises over Handling of Yuen Long
+   Attacks, Stirring Dissent from Police, HONG KONG FREE PRESS (July 26, 2019),
+   https://hongkongfp.com/2019/07/26/hong-kongs-chief-sec-apologises-handling-yuen-
+   long-attacks-stirring-dissent-police/.
+74 In the same reshuffle, Cheung was retired. Donny Kwok, Hong Kong’s Police Chief,
+   Security Secretary to be Promoted-Report, REUTERS (June 25, 2021), https://www.
+   reuters.com/world/asia-pacific/hong-kongs-police-chief-security-secretary-be-promoted-
+The Bad Birth and Premature Death of                                                185
+“One Country, Two Systems” in Hong Kong
+
+      The police targeted not only protesters, but also reporters, social
+workers, and elected councilors who might provide assistance to
+protesters by virtue of performing their professional duties to report on
+police abuses, mediate between the police and protesters, and offer legal
+         75
+counsel.      Media and civic organizations, both international and local,
+compiled mountains of reports on police brutality.
+
+      The authorities highlight that there was unprecedented violence on
+the part of protesters. In Hong Kong as elsewhere in the world, state
+repression, thuggish violence and police brutality contributed to
+escalation and radicalization. On July 1, 2019, hundreds stormed into the
+Legislative Council building. On July 21, protesters defaced the national
+emblem outside Beijing’s Liaison Office. There was much uneasiness
+among moderates about violent actions even against properties. However,
+any reservation was overshadowed by the indiscriminate attacks by
+thugs in apparent collusion with the police in Yuen Long also on July 21.
+Carrie Lam’s unresponsiveness to the massive showing of the popular
+will generated much sympathy for the slogan “It is [you] who taught us
+                                                   76
+that peaceful demonstration is ineffective.”
+
+      To further push the developing trend of radicalization, the
+authorities increasingly closed off nonviolent means of expressing
+dissent. After August 18, 2019, the police routinely refused to issue “no-
+objection notices” to organizers, thereby rendering protests “unlawful”
+and subjecting protesters to arrests. Throughout the summer,
+
+   report-2021-06-25/.
+75 See Victoria Tin-bor Hui, Beijing’s Hard and Soft Repression in Hong Kong, 64 ORBIS
+   289 (2020).
+76 Victoria Tin-bor Hui, Beijing’s All-Out Crackdown on the Anti-Extradition Protests in
+   Hong Kong, CHINA LEADERSHIP MONITOR (Dec. 1, 2019), https://www.prcleader.org/
+   victoria-hui.
+186                                《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+Hongkongers formed human chains, sang the protest anthem “Glory to
+Hong Kong” in shopping malls, staged flash gatherings, put up giant
+slogans on mountain tops and buildings, and posted sticky notes and
+public art on “Lennon Walls.” These peaceful displays of the five
+demands were subject to the same risks as “unlawful assemblies.”
+Moreover, many of the artworks were destroyed as quickly as they were
+put up. Make-shift memorials for those who died in suspicious
+circumstances were likewise readily demolished. Hongkongers also
+engaged in strikes and boycott. However, Beijing equated nonviolent
+democracy protests with color revolutions and regime change. The
+China Daily, for example, stated that the “nonviolent approaches” show
+“common elements of color revolutions,” which “include strong specific
+political demands, interference by external forces, attempts to motivate
+the public, social standoffs and turmoil,… and pursuit of a power
+          77
+transfer.”     HKMAO condemned the general strikes on August 5 as
+“radical violations of public order and laws, challenging the bottom lines
+                                                                 78
+of ‘One Country, Two Systems’ and national dignity.”                    Another
+spokesman lashed out at the strikes as well because they were intended
+to “paralyze the Hong Kong government, seize power for governing the
+                                                                   79
+[city] and make ‘one country, two systems’ an empty concept.”
+
+      Given that Beijing’s understanding of “One Country, Two Systems”
+had no tolerance for either violent or nonviolent resistance and that
+violence helped to justify a hard crackdown, it may make sense why
+uniformed police committed much of the atrocities in plain view of live-
+
+
+
+77 Yunbi Zhang, HK ‘Color Revolution’ Signs Seen, CHINA DAILY (Sept. 6, 2019),
+   www.chinadaily.com.cn/a/201909/06/WS5d71ac70a310cf3e3556a085.html.
+78 See SCMP Reporters, supra note 55.
+79 See Zhang, supra note 77.
+The Bad Birth and Premature Death of                                               187
+“One Country, Two Systems” in Hong Kong
+
+                                                      80
+streaming professional and citizen cameras.                It is often argued that
+police brutality backfires, but it is not a backfire if the police intended to
+                            81
+incite violent reactions.        With police atrocities making a sharp uptake
+from August 11 on (see above), protesters went from throwing bricks
+and water bottles at officers to making firebombs, stabbing officers,
+meting out vigilante justice to regime supporters, and setting fire to pro-
+                                            82
+Beijing businesses and train stations.           This violent turn then opened up
+the opportunity for agent provocateurs to flame the “riots” and “terrorist
+acts.” People looking like vandals were repeatedly filmed identifying
+themselves as “our own people” to uniformed officers and then being
+                 83
+escorted away.        As images of masked black-clad people emerged from
+burning shops and train stations, it was difficult to sort out who was a
+protester and who was in disguise.
+
+
+
+
+80 See Hui, supra note 17.
+81 See Hui, supra note 76.
+82 Victoria Tin-bor Hui, Hong Kong Citizens Just Voted for More Democracy. What
+   Happens Now?, WASH. POST (Nov. 26, 2019), https://www.washingtonpost.com/
+   politics/2019/11/26/hong-kong-citizens-just-voted-more-democracy-what-happens-
+   now/.
+83 LOU, “Heijing Ban Shiweizhe Tiezheng 3” Qiaozhuang Jing Tuizhuang Jizhe Han
+   “Zijiren” Jihuo Sulong Yanhu Cheli (《黑警扮示威者鐵證3》喬裝警推撞記者喊
+  「自己人」即獲速龍掩護撤離) [Police Dressed as Protester Pushed Reporter and
+   Called Out “Our Own People”], YOUTUBE (Sept. 29, 2019), www.youtube.com/
+   watch?v=6MYxOGkR_9I&feature=share&fbclid=IwAR1aex3luZzc6h0llSLawRPIX
+   urCo0CdZu-7KugOMkFRfO9HIu8UM7CfVFM; Person Dressed as Protester
+   Vandalized the Yaumatei-Tsimshatsui Police Station and Ran Inside, FACEBOOK (Oct.
+   20, 2019), www.facebook.com/FixingHK/photos/a.608452522619273/174601114553
+   0066/?type=3&theater. (This piece has been erased from the site. The link represents
+   what it was.)
+188                                《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+III. The Axe Comes Down
+
+      By the end of 2019, street confrontations yielded to nonviolent
+actions. Frontline protesters had suffered high attrition with over 7,000
+arrests and thousands of injuries. The pro-democracy camp turned to
+more sustainable actions than confronting riot police. A “yellow
+economic circle” was created to connect pro-democracy “yellow
+businesses” and customers, and employers and employees, and, at the
+same time, to boycott pro-regime “blue businesses.” Various professions
+formed new unions so as to launch more effective strikes in the future.
+Most of all, pro-democracy candidates who campaigned on the 5 protest
+demands won in a landslide in the District Council elections on
+November 24, capturing 388 out of 452 seats and dominating 17 of 18
+                   84
+District Councils.      The pro-democracy camp was emboldened by these
+electoral victories to strategize to win “35 + 1” out of 70 seats in the
+                                                                 85
+Legislative Council elections slated for September 2020.              This would
+give them a majority in the Legislative Council.
+
+      Yet, Beijing was already sharpening its axe. On November 1, 2019,
+the Fourth Plenum of the 19th Central Committee of the Communist
+
+
+84 Feijianzhipai Ying 388xi Dasheng (非建制派贏388席大勝) [The Non-Establishment
+   Camp Won Major Victories with 388 Seats], HKEJ (信報財經新聞) (Nov. 25, 2019),
+   https://www2.hkej.com/instantnews/current/article/2311686/[區選]非建制派贏388席
+   大勝 [https://perma.cc/HC3K-84UE]; Jason Poon (潘焯鴻), 2019 Quyihui Xuanjude
+   Chenggong Zhide Xiyue? (2019區議會選舉的成功值得喜悅？) [Victories in 2019
+   District Council Elections Deserve Joy?], INDEPENDENT MEDIA (獨立媒體), (Nov. 26,
+   2019), https://www.inmediahk.net/node/1068977.
+85 Zoe Low, Hong Kong National Security Law: A 35-plus Ambition, ‘Colour
+   Revolution’ and the ‘Resistance’ — What Led to Biggest Mass Arrests under
+   Legislation?, SOUTH CHINA MORNING POST (Jan. 6, 2021), https://www.scmp.com/
+   news/hong-kong/politics/article/3116586/hong-kong-national-security-law-35-plus-
+   ambition-colour.
+The Bad Birth and Premature Death of                                          189
+“One Country, Two Systems” in Hong Kong
+
+Party formally announced that it would “exercise governance” in Hong
+        86
+Kong.         It also called for national security legislation, patriotic
+education and other measures to end the turmoil. In early 2020, Beijing
+appointed senior-ranked hardline leaders, Xia Baolong and Luo Huining,
+to head HKMAO in Beijing and the Liaison Office in Hong Kong,
+respectively.
+
+     Luo Huining wasted no time to declare that the opposition would
+never be allowed to take over half of the seats to “seize governance
+         87
+power.”       Carrie Lam announced that a coordinated effort by democrats
+to win a majority in the legislature with “the ultimate goal” of “rejecting,
+resisting every policy initiative” of the government would count as
+              88
+subversion.        Despite — or because of — the warnings, over 610,000
+turned out at an informal primary to coordinate candidate choices in July
+2020. Convinced that pro-Beijing candidates were certain to lose to pro-
+democracy ones even in restricted and manipulated elections, the
+authorities disqualified 12 pro-democracy candidates and postponed the
+elections. The National Security Police arrested 53 involved with the
+primary in January and formally charged 47 among them in February
+2021, with the court denying bail to most except 14. More opposition
+
+
+86 Zhongguo Gongchandang 19th Sizhongquanhui Xinwen Fabuhui (中國共產黨十九
+   屆四中全會新聞發布會) [Press conference of the Fourth Plenum of the 19th Central
+   Committee of the Chinese Communist Party], THE PEOPLE’S REPUBLIC OF CHINA (Nov.
+   1, 2019), http://www.gov.cn/xinwen/2019-11/01/content_5447495.htm.
+87 Luo Huining Shouwu Shetuan Cheng Fanduipai Bukeneng Duoqu Quanzhiquan (駱
+   惠寧首晤社團 稱反對派不可能奪取管治權) [Luo Huining Met Social Groups,
+   Claimed that the Opposition Could Not Seize governance power], NOW NEWS (Feb.
+   21, 2020), https://news.now.com/home/local/player?newsId=381522&fbclid=IwAR2
+   NunjGKahPxlSkq9kKUic0x6kW54e-bOVcG70l82qFhmuAX82gH8Ynjys.
+88 Frank Ching, Hong Kong: National Security Law Likely to Tip Election Scales,
+   MANILA TIMES (July 21, 2020), https://www.manilatimes.net/2020/07/21/opinion/
+   columnists/hong-kong-national-security-law-likely-to-tip-election-scales/743785.
+190                                  《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+leaders have been arrested, and independent media and civil society
+                             89
+organizations shut down.          When elections were held in December 2021,
+only “patriots” were allowed to run under new electoral rules. The “One
+Country, Two Systems” model is being buried deeper and deeper in the
+NSL era.
+
+
+
+IV. “One Country, Two Economic Systems”?
+
+      It would be a mistake to think that even if “One Country, Two
+Political Systems” is dead, “One Country, Two Economic Systems” has
+stayed on. Beijing is tearing down remaining differences between the
+two economic systems as well. The Heritage Foundation dropped Hong
+Kong from its Index of Economic Freedom in 2021 because “the loss of
+political freedom and autonomy suffered by Hong Kong over the past
+two years has made that city almost indistinguishable in many respects
+from other major Chinese commercial centers like Shanghai and
+           90
+Beijing.”       The Hong Kong Association of Banks advised its members,
+both local and international, to disclose property held by any client who
+                                             91
+is arrested or charged under the NSL.             The pro-democracy newspaper
+Apple Daily’s bank accounts were frozen to force its abrupt closure in
+
+
+89 Rhoda Kwan, Explainer: Over 50 Groups Disband — How Hong Kong’s Pro-
+   democracy Forces Crumbled, HONG KONG FREE PRESS (Nov. 28, 2021),
+   https://hongkongfp.com/2021/11/28/explainer-over-50-groups-gone-in-11-months-how-
+   hong-kongs-pro-democracy-forces-crumbled/.
+90 Edwin J. Feulner, Hong Kong Is No Longer What It Was, HERITAGE FOUNDATION (Apr.
+   5, 2021), https://www.heritage.org/asia/commentary/hong-kong-no-longer-what-it-was.
+91 Kane Wu, Hong Kong Banks to Disclose Related Property of Clients Who Breach
+   Security Law, REUTERS (Oct. 24, 2021), https://www.reuters.com/world/asia-pacific/
+   hong-kong-banks-disclose-related-property-clients-who-breach-security-law-2021-10-
+   24/.
+The Bad Birth and Premature Death of                                               191
+“One Country, Two Systems” in Hong Kong
+
+              92
+June 2021.         HSBC particularly stands out in facilitating Beijing’s
+                                                                        93
+efforts to “undermine democratic freedoms in Hong Kong.”                     It openly
+declared its support for the NSL and freezed accounts of prodemocracy
+individuals and entities, including self-exiled legislator Ted Hui and his
+family, pastor Ray Chan and the Good Neighbour North District
+         94
+Church.       HSBC has further followed the government requirement to
+refuse to recognize the British National (Overseas) passport as
+documentation for withdrawing pensions — of importance to
+                                                       95
+Hongkongers who choose to flee the city.                    Google, an American
+multinational, handed over user data to the Hong Kong authorities
+
+
+
+92 Anne Marie Roantree, HK’s Apple Daily to Shut within Days, Says Jimmy Lai Adviser,
+   REUTERS (June 21, 2021), https://www.reuters.com/business/retail-consumer/exclusive-
+   adviser-jailed-hk-tycoon-jimmy-lai-says-apple-daily-shut-within-days-2021-06-21/;
+   Greg Torode, James Pomfret & Sumeet Chatterjee, Hong Kong Threatens Lai’s
+   Bankers with Jail if They Deal in His Accounts, REUTERS (May 27, 2021),
+   https://www.reuters.com/world/china/exclusive-hong-kong-security-chief-threatens-
+   tycoon-lais-bankers-with-jail-if-2021-05-27/.
+93 Congressional-Executive Commission on China, Commissioners Ask Whether HSBC
+   Is Undermining Democratic Freedoms in Hong Kong (Mar. 3, 2022), https://www.
+   cecc.gov/media-center/press-releases/cecc-commissioners-ask-whether-hsbc-is-under
+   mining-democratic-freedoms.
+94 Alison Tudor-Ackroyd & Chad Bray, What HSBC and Cathay Pacific’s Bow to
+   Beijing on Hong Kong National Security Law Tells Investors about Management in
+   Political Crises, SOUTH CHINA MORNING POST (June 9, 2020), https://www.scmp.
+   com/business/companies/article/3088056/what-hsbc-and-cathay-pacifics-bow-beijing-
+   hong-kong-national; Reuters staff, Former Hong Kong Lawmaker Rejects HSBC’s
+   Explanation over Frozen Accounts, REUTERS (Jan. 18, 2021), https://www.reuters.
+   com/article/us-hongkong-hsbc/former-hong-kong-lawmaker-rejects-hsbcs-explanation-
+   over-frozen-accounts-idUSKBN29N0HP; Candice Chau, Hong Kong Church Says
+   HSBC Account Frozen ‘in Retaliation’ for Helping Protesters Last Year, HONG KONG
+   FREE PRESS (Dec. 8, 2020), https://hongkongfp.com/2020/12/08/hong-kong-church-
+   says-hsbc-account-frozen-in-retaliation-for-helping-protesters-last-year/.
+95 Laura Mannering, Banks Accused of Beijing-Backed ‘Asset Grab’ as Hongkongers in
+   UK Denied Access to Pension Savings, HONG KONG FREE PRESS (July 7, 2021),
+   https://hongkongfp.com/2021/07/04/banks-accused-of-beijing-backed-asset-grab-as-
+   hongkongers-in-uk-denied-access-to-pension-savings/.
+192                                 《中研院法學期刊》2022特刊（2022年5月）
+
+
+                                                 96
+despite an earlier pledge to the contrary.            Beijing also has a plan to
+introduce a Hong Kong version of an anti-sanctions law which would
+make it impossible for international businesses to comply with US
+                           97
+sanctions requirements.
+
+      It may seem that Beijing has successfully achieved its goal of
+“capitalism without freedom,” killing Hong Kong’s preexisting rights
+and the rule of law while keeping its international financial status. But
+this is mistaking correlation for causation. If international businesses
+stay in Hong Kong, it is because they are also heavily invested in the
+China market so that it does not matter that Hong Kong has become like
+the rest of China. Hong Kong will continue to look like “business as
+usual” so long as international investors continue to see profit-making
+opportunities in China. Yet, the cost-benefit calculation is changing as Xi
+Jinping’s imposition of an ideological zero-covid policy in Hong Kong is
+driving an exodus. Xi’s efforts to rein in China’s own tech and property
+giants have also sent shock waves through global markets. The Hong
+Kong economy is now so mainlandized that its fate is irretrievably tied
+to whatever happens in the rest of China.
+
+
+
+
+96 Sebastian Moss, Google Handed over User Data to the Hong Kong Government —
+   Claims there Was a Credible Threat to Human Life, DATA CENTER DYNAMICS (Sept.
+   13, 2021), https://www.datacenterdynamics.com/en/news/google-handed-over-user-
+   data-to-the-hong-kong-government/; Katie Paul, U.S. Tech Giants Suspend Review of
+   Hong Kong Data Requests, TikTok to Pull out, REUTERS (July 6, 2020),
+   https://www.reuters.com/article/us-facebook-whatsapp-law-hongkong/u-s-tech-giants-
+   suspend-review-of-hong-kong-data-requests-tiktok-to-pull-out-idUSKBN2471E7.
+97 Chris Lau, Beijing’s Anti-Sanctions Law for Hong Kong: Why Is It Being Postponed?
+   What Do We Know and Don’t Know about the Delay?, SOUTH CHINA MORNING POST
+   (Aug. 21, 2021), https://www.scmp.com/news/hong-kong/politics/article/3145857/
+   anti-sanctions-law-hong-kong-look-lead-beijings-surprise.
+The Bad Birth and Premature Death of                                 193
+“One Country, Two Systems” in Hong Kong
+
+
+
+                              References
+
+Davis, Michael C. 2015. Hong Kong’s Umbrella Movement: Beijing’s
+     Broken Promises. Journal of Democracy 26(2):101-110.
+─. 2020. Making Hong Kong China: The Rollback of Human
+     Rights and the Rule of Law. Ann Arbor, Mich.: Association for
+     Asian Studies.
+Davis, Michael C., and Thomas E. Kellogg. 2020. The Promise of
+     Democratization in Hong Kong, Discontent and Rule of Law
+     Challenges. In Georgetown Center for Asian Law, https://www.ndi.
+     org/sites/default/files/Final_04.11.20_The%20Promise%20of%20D
+     emocratization%20in%20Hong%20Kong.pdf.
+Hong Kong Watch. 2019. Why Hong Kong Matters: Understanding the
+     importance of the city to China and the world. Available at
+     https://static1.squarespace.com/static/58ecfa82e3df284d3a13dd41/t
+     /5e569c77e76e6430d0eb0108/1582734469230/Why+Hong+Kong+
+     matters_web.pdf.
+Hsiao, Russel. 2019. A Preliminary Survey of CCP Influence Efforts in
+     Hong Kong. China Brief 19(14). Available at https://jamestown.org/
+     program/a-preliminary-survey-of-ccp-influence-efforts-in-hong-kong/.
+Hui, Victoria Tin-bor. 2019. Beijing’s All-Out Crackdown on the Anti-
+     Extradition Protests in Hong Kong. In China Leadership Monitor,
+     https://www.prcleader.org/victoria-hui.
+─. 2020. Beijing’s Hard and Soft Repression in Hong Kong. Orbis
+     64:289-311.
+─. 2020. Crackdown: Hong Kong Faces Tiananmen 2.0. Journal of
+     Democracy 31(4):122-137.
+Overholt, William H. 2019. Hong Kong: The Rise and Fall of “One
+194                             《中研院法學期刊》2022特刊（2022年5月）
+
+
+
+      Country, Two Systems”. In Ash Center, https://ash.harvard.edu/
+      files/ash/files/overholt_hong_kong_paper_final.pdf.
+Tilly, Charles, and Sidney Tarrow. 2015. Contentious Politics. 2d ed.
+      New York, NY: Oxford University Press.
+

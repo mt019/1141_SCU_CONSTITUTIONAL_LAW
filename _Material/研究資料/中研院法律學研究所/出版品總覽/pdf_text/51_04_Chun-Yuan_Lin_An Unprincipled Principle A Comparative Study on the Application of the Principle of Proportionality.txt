@@ -1,0 +1,2163 @@
+  Comparative Administrative Law in Asia
+Academia Sinica Law Journal                                                    99
+Issue 19, pp. 99-158 (Sep. 2016)
+
+
+                                                                   ＊
+              An Unprincipled Principle?:
+ A Comparative Study on the Application of the Principle
+     of Proportionality in Environmental Cases in
+                 Taiwan and the EU
+
+                                                 ＊＊
+                                   Chun-Yuan Lin
+
+
+                                      Abstract
+     The principle of proportionality has been widely accepted across
+the globe as an objective principle of administrative law, including in
+new democracies such as Taiwan and supranational organizations such
+as the EU. The question is, whether the allegedly objective and universal
+legal doctrine adapts to different social context and nature of cases.
+      Through the review of judgments on environmental cases of
+Taiwanese Administrative Court and the European Court of Justice, this
+article takes a closer look at how the principle of proportionality is
+applied in different regimes and distinctive environmental cases.
+     This article finds that the principle is applied differently according
+to the social context and social needs. In Taiwan, a new democracy with
+a short history of legal succession, the court usually applies the principle
+superficially or incorrectly; in the EU, the court correctly understands
+the principle but strategically interprets it to promote European
+integration. In addition, the principle also adapts to the distinctiveness of
+
+＊  Submission Date: June 2, 2015; Acceptance Date: January 13, 2016. [Line Editor:
+   Yu-Wen Chang].
+＊＊ Assistant Professor, Department of Financial & Economic Law, School of Law,
+   Chung Yuan Christian University.
+   Online: http://publication.iias.sinica.edu.tw/03805161.pdf.
+100                                 《中研院法學期刊》第19期（2016年9月）
+
+
+environmental cases. The court in Taiwan shifts the standard of review
+and includes multiple interests into the balance; the EU court places an
+emphasis on the necessity test, compromising the principle with the
+precautionary principle to develop the concept of procedural
+proportionality.
+
+KEYWORDS: the principle of proportionality, uncertainty, environmental
+          issues, regional integration, democratization, precautionary
+          principle.
+
+
+
+                                Contents
+
+ 1. Introduction
+ 2. A Shared Principle of Administrative Law in Taiwan and the EU
+    2.1 Taiwan: An Imported Constitutional Principle Becomes a
+         Foundation of Administrative Law
+    2.2 The EU: The Community’s General Principle Derives from Legal
+         Tradition
+    2.3 The Shared Understanding of the Proportionality Principle
+ 3. The Proportionality Principle for a New Democracy and for the European
+    Integration
+    3.1 Taiwan: A Young Principle in a New Democracy
+    3.2 EU: A Deep-rooted Principle in the Context of Regional Integration
+ 4. Adapting to Environmental Cases in Taiwan and the EU
+    4.1 The Proportionality Principle Confronting Environmental Cases
+    4.2 Adapting to Environmental Cases in Taiwan
+    4.3 Adapting to Environmental Cases in the EU
+ 5. An Unprincipled Principle?
+ 6. Conclusion
+An Unprincipled Principle?                                                          101
+
+
+1. Introduction
+
+      Courts in many jurisdictions have examined the legality of
+administrative measures on the basis of the principle of proportionality.
+The principle has spread throughout continental Europe as well as the
+                     1
+United Kingdom. Today, it forms part of administrative law in many
+new democracies such Taiwan, South Korea and regional organization
+                                2
+such as European Union. The principle is commonly viewed as an
+objective legal tool to protect individual rights from arbitrary
+government regulation. Scholars such as Kingsbury and Steward even
+argue that the principle of proportionality has become a general principle
+                                    3
+of global administrative law.
+
+      The question is whether a legal principle can be reasonably applied
+universally not only across borders but also in various kinds of cases.
+This question can be separated into two different contexts. First, since
+every jurisdiction has its own unique legal system, culture and social
+context, it is not necessarily true that they understand and apply legal
+doctrines the same way. Second, some legal issues have distinctive
+features that might make the universal application of one administrative
+legal principle difficult, even within a single jurisdiction. For example,
+
+
+
+1 See Julian Rivers, Proportionality and Variable Intensity of Review, 65 CAMBRIDGE
+  L.J. 174, 174 (2006); Margit Cohn, Legal Transplant Chronicles: The Evolution of
+  Unreasonableness and Proportionality Review of the Administration in the United
+  Kingdom, 58 AM. J. COMP. L. 583, 583-85 (2010).
+2 The spread of proportionality principle and their explanation, see Moshe Cohen-Eliya
+  & Iddo Porat, Proportionality and the Culture of Justification, 59 AM. J. COMP. L. 463,
+  464-74 (2011); Vicki C. Jackson, Constitutional Law in an Age of Proportionality,
+  124 YALE L.J. 3094, 3096 (2015).
+3 See Benedict Kingsbury et al., The Emergence of Global Administrative Law, 68 LAW
+  & CONTEMP. PROBS. 15, 18 (2005).
+102                                  《中研院法學期刊》第19期（2016年9月）
+
+
+when there is high uncertainty regarding the environmental deterioration
+caused by a new technology, it is not clear how to determine whether a
+given regulation is necessary and proportional. Although the principle of
+proportionality has been widely accepted as an objective principle to
+restrain administrators from overly infringing on individual rights,
+different social contexts and the distinctiveness of environmental cases
+challenge the objective application of the principle.
+
+      By analyzing judgments of environmental cases made by the
+European Court of Justice (ECJ) and by the Administrative Court in
+Taiwan, this article discusses the question of how different paths of legal
+transplantation and the unique nature of environmental cases affect the
+application of the principle of proportionality. In the following section,
+this article briefly explores the path of legal transplantation and
+acceptance of the principle of proportionality in two legal systems,
+demonstrating the path and the context where the principle was
+integrated into an existing legal system. The third and fourth sections
+examine the application and interpretation of the principle of
+proportionality on environmental cases. The third section suggests the
+context of new democracy and how the progress of regional integration
+affects the courts’ interpretation of the same legal doctrine. The fourth
+section examines how the features of environmental cases affect the
+application of the principle by the courts. The article argues that while
+the principle of proportionality is widely purported to be an objective
+legal principle, it is in fact not applied in a universally consistent way. It
+changes over time and adapts to different social contexts and the varying
+nature of cases.
+An Unprincipled Principle?                                                             103
+
+
+2. A Shared Principle of Administrative Law in
+   Taiwan and the EU
+
+      In Taiwan and the EU, the principle of proportionality has been
+accepted as the governing principle of administrative law. The principle
+itself, however, was not invented in these two jurisdictions. How has a
+principle refined in German law been transplanted into Taiwan’s
+administrative law while at the same time developing into the general
+                                     4
+guiding principle of the EU? Is it understood differently in these two
+jurisdictions? Interestingly enough, the path and context of legal
+transplantation was quite different, yet the two jurisdictions share similar
+understandings of the principle of proportionality.
+
+2.1 Taiwan: An Imported Constitutional Principle Becomes a
+    Foundation of Administrative Law
+      In Taiwan, the principle of proportionality is not a grass-roots legal
+principle that can be found in its legal tradition. One cannot find any
+provision enacting this principle in the Constitution of R.O.C of 1947. It
+was borrowed by the Constitutional Court from German jurisprudence to
+deal with the history of arbitrary exercise of government power by the
+past authoritarian regime, which helped pave the path toward
+
+
+4   The Principle of Proportionality aims to restrain the exercise of public authority from
+    overly infringe individual rights. Similar idea can be found in some legal principles of
+    other jurisdictions. For example, William Stuntz argues that the prohibition of cruel
+    and unusual punishments could be plausibly read to imply a proportionality principle
+    of sentencing. See William Stuntz, The Uneasy Relationship between Criminal
+    Procedure and Criminal Justice, 107 YALE L.J. 1, 72-73 (1997); see also E. THOMAS
+    SULLIVAN & RICHARD S. FRASE, PROPORTIONALITY PRINCIPLES IN AMERICAN LAW:
+    CONTROLLING EXCESSIVE GOVERNMENT ACTIONS (2009). The principle of
+    proportionality in this article specifically refers to the German-refined principle with
+    three-step test.
+104                                         《中研院法學期刊》第19期（2016年9月）
+
+
+democratization. In addition to the need for legal doctrine to restrain
+government power, the background study by early law scholars also
+contributed to the transplant of the principle of proportionality. Many
+early law students who studied abroad chose to pursue their master or
+doctoral degree in Germany because of the relatively low tuition and
+living expenses. Some of them became important scholars or Justice
+later and are devoted to the introduction of the German Jurisprudence of
+                                                         5
+the proportionality principle to Taiwan.                     Through its continued
+application in one interpretation after another, the principle has become
+the most important principle in the practice of constitutional review in
+Taiwan.
+
+       The first constitutional interpretation that directly and literally
+mentions the principle of proportionality is the J.Y. Interpretation No.
+       6
+409.       Interestingly, the court did not derive it from a specific
+
+
+5 Before the term “the principle of proportionality” appeared in official Interpretation of
+  Taiwanese Constitutional Court, textbooks of Constitutional Law and Administrative
+  Law in Taiwan have mentioned the principle of proportionality as a general principle
+  of law. Relevant studies please see, e.g., Tzung-Jen Tsai, Preliminary Research on the
+  Principle of Proportionality of Public Law—Focus on German Law, 62 NCCU L.
+  REV. 75, 77 (1999)（蔡宗珍，公法上之比例原則初論—以德國法的發展為中
+  心 ， 政 大 法 學 評 論 ， 62 期 ， 頁 77 （ 1999 年 ））; Jau-Yuan Hwang, Judicial
+  Standards of Review for Restrictions on Constitutional Rights: Comparative Analysis
+  of the U.S. Categorized Multiple Tests Approach, 33(3) NTU L.J. 45, 53-54 (2004)
+  （黃昭元，憲法權利限制的司法審查標準：美國類型化多元標準模式的比較分
+  析，臺大法學論叢，33卷3期，頁53-54（2004年）                           ）. In addition, Wen-Chen Chang
+  and Jiunn-Rong Yeh also found that, Justice who studied in Germany for master or
+  doctoral degrees open cited German precedents in their opinions. See Wen-Chen
+  Chang & Jiunn-Rong Yeh, The Use of Foreign Precedents by the Constitutional Court
+  in Taiwan, paper presented at The Conference on the Use of Foreign Precedents by
+  Constitutional Judges, Interest Group of International Association of Constitutional
+  Law, London, at 10-11 (Nov. 14-15, 2008).
+6 J.Y. Interpretation No. 409 (Taiwan). English translation please visit official website of
+  Judicial Yuan, R.O.C., http://www.judicial.gov.tw/constitutionalcourt/EN/p03_01.asp?
+  expno=409 (last visited Jun. 14, 2013). Because the principle of proportionality was
+An Unprincipled Principle?                                                             105
+
+
+constitutional provision or from the general spirit of the constitution, but
+from the Land Act. The court first resorted to Article 48 of the Urban
+Planning Act, which provides that “relevant organizations or
+undertakings should, according to law, expropriate the land which has
+been designated as reserve land for public facilities to be used by public
+utilities.” The court then suggested that, “the state should still be
+restricted by the principle of proportionality which is implied in the
+relevant provisions of the Land Act and Article 49 of the Enforcement
+Act of Land Act.” Without once mentioning proportionality, Article 49
+of the Enforcement Act of Land Act prescribed that “in accordance with
+the aims of the expropriation, land expropriation should be conducted in
+such a way as to cause the minimum damage and to avoid encroachment
+                              7
+upon agricultural land.” Through an elaboration on this clause in the
+regulation of existing Acts, the court introduced the principle of
+proportionality, stating that all land expropriation must serve public
+interest and should simultaneously be implemented so as to cause the
+minimum amount of infringement on the property rights of individuals.
+
+      After the J.Y Interpretation No. 409, the Constitutional Court
+asserted a constitutional basis for the principle of proportionality through
+the interpretation of Article 23 of the R.O.C. Constitution, which
+prescribes that “[a]ll the freedoms and rights enumerated in the
+preceding Articles shall not be restricted by law except by such as may
+
+
+
+  derived from statutes in the J.Y. Interpretation No. 409, it is arguably the first case in
+  which the Court introduced the “constitutional” principle. See also, Jau-Yuan Hwang,
+  Development of Standards of Review by the Constitutional Court from 1996 to 2011:
+  Reception and Localization of the Proportionality Principle, 42(2) NTU L.J. 215,
+  218-219 (2013)（黃昭元，法官解釋審查標準之發展（1996-2011）                                 ：比例原則的
+  繼受與在地化，臺大法學論叢，42卷2期，頁218-219（2013年）                                    ）.
+7 J.Y. Interpretation No. 409 (Taiwan).
+106                                      《中研院法學期刊》第19期（2016年9月）
+
+
+be necessary to prevent infringement upon the freedoms of other
+persons…” Based on the word “necessary” in this article, the court
+developed the current jurisprudence of proportionality used to justify the
+principle today.
+
+      In J.Y. Interpretation No. 428, the Court was dealing with the
+question about whether or not Article 25 of the Act Governing the
+Administration of Post Offices, which provides the Post Office
+compensate only for the loss of certain categories of registered mails and
+parcels, is constitutional. The court referred to the principle of
+proportionality and stated that, “Article 25 of the Act Governing the
+Administration of Post Offices is formulated by taking into consideration
+the balance among such factors as the fees charged, the nature of the
+services, the operating cost, and the degree of injury to the interest of the
+people, and is necessary for maintaining the operation of the postal
+services and essential to the furtherance of the public interest. The
+statute … is consistent with the principle of proportionality embodied in
+                                    8
+Article 23 of the Constitution.”
+
+      In J.Y. Interpretation No. 476, the Constitutional Court reviewed the
+constitutionality of capital punishment under special criminal laws and
+further elaborated the content of the principle of proportionality in full in
+                9
+the following:
+
+      “…these special criminal laws should be deemed consistent
+
+
+8 J.Y. Interpretation No. 428 (Taiwan). English translation, please see Judicial Yuan,
+  R.O.C., http://www.judicial.gov.tw/constitutionalcourt/EN/p03_01.asp?expno=428 (last
+  visited Sep. 23, 2015).
+9 J.Y. Interpretation No. 476 (Taiwan). English translation, please see Judicial Yuan,
+  R.O.C., http://www.judicial.gov.tw/constitutionalcourt/EN/p03_01.asp?expno=476 (last
+  visited Jun. 14, 2013).
+An Unprincipled Principle?                                               107
+
+
+     with the principle of proportionality (Verhältnismäßigkeits-
+     prinzip) under Article 23 of the Constitution if the methods
+     used to achieve such purposes are necessary to correct and
+     prevent mistakes and are also reasonable actions to take even
+     though they restrict the people’s fundamental rights. The
+     balance between the means and ends is prescribed in these
+     special criminal laws. In consideration of protecting legal
+     interests, special criminal laws contrary to the regulations set
+     forth in the general criminal laws should not be deprived of
+     their legal value solely based on personal judgment. In addition,
+     the special criminal laws will not be held unconstitutional
+     solely because they may infringe upon people’s lives and
+                                                        10
+     physical freedom guaranteed by the Constitution.”
+
+     The constitutional court elaborated the principle of proportionality
+to include three concepts: appropriateness, necessity, and the principle of
+proportionality in a narrow sense. In both interpretations, the English
+translation specifically noted the phrase “Verhältnismäßigkeitsprinzip”
+after the translated phrase “principle of proportionality.” Although the
+court did not refer to the German concept directly in the original Chinese
+version of J.Y. interpretations, the note of German in the English
+translation implies one typical understanding that the principle was
+borrowed from German jurisprudence. The Constitutional Court has
+consistently applied the principle of proportionality to evaluate and
+nullify various laws afterwards.
+
+     The principle of proportionality was further inscribed as a
+fundamental principle of administrative law with the enactment of the
+
+
+10 Id.
+108                                    《中研院法學期刊》第19期（2016年9月）
+
+
+Administrative Procedure Act in 2000. Article 7 prescribes clearly that,
+“[a]dministrative acts shall be performed in pursuance of the following
+principles: 1) The method adopted must be helpful to the achievement of
+the objectives thereof; 2) Where there are several alternative methods
+which will lead to the same result in achievement of the objectives, the
+one with the least harm to the rights and interest of the people shall be
+adopted; and 3) The harm that may be caused by the method to be
+adopted shall not be clearly out of balance against the interest of the
+                                           11
+objectives anticipated to be achieved.”
+
+      Nowadays, the principle of proportionality is frequently applied to
+evaluate the legality of administrative acts by administrative courts in
+Taiwan.
+
+2.2 The EU: The Community’s General Principle Derives
+    from Legal Tradition
+      The principle of proportionality is enshrined in EU law. Article 5 (4)
+of the Treaty on European Union (TEU) of 2012 states that, “under the
+principle of proportionality, the content and form of Union action shall
+                                                                                 12
+not exceed what is necessary to achieve the objectives of the Treaties.”
+Accordingly, all actions taken by the EU should take the principle of
+proportionality into consideration.
+
+      Although prescribed in treaty, the root of the principle of
+proportionality lies in the legal tradition of some member states. A
+product of the interpretation of Platonic and Cicerian theory, the
+principle of proportionality was codified in the late 18th Century and
+
+
+11 XINGZHENG CHENGXU Fa (Administrative Procedure Act) art. 7 (2000) (Taiwan).
+12 Article 5(4) of the Treaty on European Union.
+An Unprincipled Principle?                                                          109
+
+
+                                                            13
+refined by the German courts in the 19th Century.                By the 1970s at the
+latest, the German-refined principle had affected EU law. In the
+Internationale Handelsgesellschaft case in 1970, the court wrote that, “a
+public authority may not impose obligations on a citizen except to the
+extent to which they are strictly necessary in the public interest to attain
+                                      14
+the purpose of the measure.”               The principle took further hold in
+continental Europe after the Second World War when proportionality
+became embedded in the new German constitution. The process of
+integration and the frequent legal communication between EU members
+have provided fertile soil for some jurisdictions that lack the tradition of
+the principle to incorporate it into their own jurisprudence, since it has
+                                                               15
+become a central part of the EU’s supranational law.
+
+      As a ground for review, the principle of proportionality was first
+developed by the court to counter-balance the effects of market
+regulation measures restricting economic freedom adopted under the
+Treaty that established the European Coal and Steel Community (ECSC
+Treaty). In 1956 the Court referred to “a generally accepted rule of law
+according to which the reaction by the high authority to illegal action
+                                                          16
+must be in proportion of the scale of that action.”
+
+      It was then taken up by the European Court of Human Rights upon
+
+
+13 Thomas Poole, Proportionality in Perspective (LSE Law, Society and Economy,
+   Working Paper, 2010), http://www.lse.ac.uk/collections/law/wps/WPS2010-16_Poole.
+   pdf.
+14 Case 11/70, Internationale Handelsgesellschaft mbH v. Einfuhr - und Vorratsstelle für
+   Getreide und Futtermittel [1970] ECR 1125.
+15 It is arguably the Wednesbury unreasonableness doctrine in UK common law a milder
+   version of the principle of proportionality. Cf. Paul Craig, Unreasonableness and
+   Proportionality in UK Law, in THE PRINCIPLE OF PROPORTIONALITY IN THE LAWS OF
+   EUROPE 85, 85-106 (Evelyn Ellis ed., 1999).
+16 Case 8/55, Fedechar v. High Authority [1955-56] ECH 211, at 228.
+110                                        《中研院法學期刊》第19期（2016年9月）
+
+
+its founding in 1959 and later by the fledgling European Community as a
+                                                               17
+conceptual “meta principle of judicial governance”.                 The integration of
+European countries triggered a convergence in national administrative
+                                                                             18
+law, leading to the “Europeanisation of administrative law.”                        In this
+process the European Court of Justice adopted the principle of
+                                                                               19
+proportionality from German Law but has since made it its own.
+
+      The TEU has not fully elaborated on its definition of “the principle
+of proportionality.” The court, however, has explained the content in its
+decisions. For example, in one case concerning a measure taken by the
+European Community, the European Court of Justice (ECJ) explained
+the full steps for proportionality test as follows:
+
+      [T]he principle of proportionality … requires that measures
+      adopted by Community institutions should not exceed the limits
+      of what is appropriate and necessary in order to attain the
+      legitimate objectives pursued by the legislation in question, and
+      where there is a choice between several appropriate measures,
+      recourse must be had to the least onerous, and the
+      disadvantages caused must not be disproportionate to the aim
+                  20
+      pursued…
+
+
+
+17 Alec Stone-Sweet & Jud Mathews, Proportionality, Judicial Review and Global
+   Constitutionalism, in REASONABLENESS AND LAW 173, 192 (Giorgio Bongiovanni,
+   Giovanni Sartor & Chiara Valentini eds., 2009).
+18 See, e.g., KARL HEINZ LADEUR ED., THE EUROPEANISATION OF ADMINISTRATIVE LAW:
+   TRANSFORMING NATIONAL DECISION-MAKING PROCEDURES (2002).
+19 The opinion shared by other author, see, e.g., ROBERT THOMAS, LEGITIMATE
+   EXPECTATIONS AND PROPORTIONALITY IN ADMINISTRATIVE LAW 78 (2000).
+20 Case C-331/48, The Queen v. Minister of Agriculture, Fisheries and Food and
+   Secretary of State for Health, Fedesa et al. [1990] ECR I-4023, para 13. The Court
+   referred to this paragraph in some subsequent cases, such as Pfizer case. See also Case
+   T-13/99, Pfizer [2002] ECR II-3305, para. 411-13.
+An Unprincipled Principle?                                                     111
+
+
+     The ECJ understands the principle as a three-test principle. EU
+legislation or administrative acts have to be appropriate, necessary, and
+proportional to be legally valid. The principle of proportionality and the
+three-step test are widely used and recognized in European law by the
+ECJ now. The court now regards the principle of proportionality as a
+general principle for EU law and all administrative measures taken by
+              21
+EU agencies.
+
+2.3 The Shared Understanding of the Proportionality
+    Principle
+     Despite the different paths of transplantation, the principle of
+proportionality operates similarly in Taiwan and the EU. To satisfy the
+requirement of the principle of proportionality, an administrative
+measure should be appropriate, necessary, and proportionate. The
+appropriateness clause indicates that the legislation must be able to
+achieve a proper purpose. In the context of administrative law, the
+principle asks the administrative agency to choose an effective measure
+to fulfill the purpose of the legislation. The necessity clause requires
+administrative agencies to act in accordance with the law and consider
+all the relevant elements in order to make sure that individuals suffer the
+minimum burden. The principle of proportionality in a narrow sense
+(proportionality stricto sensu) asks administrative bodies to ensure they
+have legitimate purposes for their actions and then to balance the
+damage to the rights of individuals and the interests of the administrative
+purpose. If the damage to citizens’ rights outweighs the pursued interests
+
+
+
+21 See Takis Tridmas, Proportionality in the European Community Law: Searching for
+   the Appropriate Standard of Scrutiny, in THE PRINCIPLE OF PROPORTIONALITY IN THE
+   LAWS OF EUROPE 65, 75 (Evelyn Ellis ed., 1999).
+112                                  《中研院法學期刊》第19期（2016年9月）
+
+
+of the measure, the measure could be unconstitutional. The third test,
+proportionality stricto sensu, involves a fair balance between the
+disadvantage suffered by the rights holders and the interests of the state
+in pursuing its legitimate aims. That is to say interference with rights
+needs to be proportionate to the policy aims that underlie them. The third
+test is indispensable because legitimate state measures can still cause
+excessive harm to individual rights. In some situations, an administrative
+measure can overly infringe on individual rights even though it is the
+only effective and necessary measure. It is after a finding of necessity
+that careful balancing and weighing will come into play.
+
+      Core to the principle of proportionality is interest-balancing and
+cost-benefit analysis. In order to analyze the costs and benefits and make
+a balance, in applying the principle of proportionality the court has to
+conduct a two-stage test. In the first stage, the court has to identify the
+protected right or interest first and then identify the extent to which the
+right is interfered with or restricted. The next step is to identify the
+reasons and interest pursued for that restriction.
+
+      The second stage is to assess whether the interference was
+excessive, and this balancing of interests is done based on the
+proportionality test. The court first assesses whether the measure in
+question was a useful, suitable or effective means of achieving the
+pursued objective. Secondly, the court examines whether the measure
+was necessary to achieve the objective, or whether it could have been
+achieved with a less restrictive alternative. Third, when the measure is
+the least restrictive, the court examines whether the measure has an
+excessive impact on individuals’ rights.
+
+      Nowadays, the principle of proportionality is regarded as a general
+An Unprincipled Principle?                                                             113
+
+
+principle—a principle that is inherent to the legal system in both Taiwan
+and the EU. Following a general principle, rather than merely a
+methodological rule, the court is bound by the fact that all cases that are
+of the same nature would have to be decided in the same way. In other
+                                                                   22
+words, the court is bound by how it reaches the result.
+
+     The acceptance of the principle of proportionality and its shared
+understanding requires an explanation: How can we identify a successful
+application of the principle of proportionality? Why does this doctrine fit
+the needs of different countries and jurisdictions?
+
+     One major argument focuses on the nature of administrative law
+and its need for justification. For example, Kingbury suggests that, the
+central concern of modern administrative law is how to curb the
+discretion of administrative agencies without straightjacketing modern
+administration. The principle of proportionality has been regarded as a
+successful doctrine and useful tool for the balancing of agency discretion
+and protection of human rights. The principle of proportionality is
+widely accepted, not only because of foreign imitation or regional
+integration but also because of the substantive value of administrative
+                                                              23
+law’s publicness as well as the need of justification.
+
+     From this aspect we may better understand the spread of the
+proportionality principle in Taiwan and the EU. For Taiwan, the progress
+of democratization created the space for more expansive judicial
+                 24
+interpretations.      Concerning the poor record of human rights violations
+
+
+22 Tor-Inge Harbo, The Function of the Proportionality Principle in EU Law, 16 EUR. L.
+   J. 158, 159 (2010).
+23 Benedict Kingsbury, The Concept of ‘Law’ in Global Administrative Law, 20 EUR. J.
+   INT’L L. 23, 32-33 (2009); see also Cohen-Eliya & Porat, supra note 2, at 464-65.
+24 See Jiunn-Rong Yeh, Constitutional Reform and Democratization in Taiwan: 1945-
+114                                       《中研院法學期刊》第19期（2016年9月）
+
+
+and abuse of power by the government, the Constitutional Court, as has
+been the case with many other courts in new democracies, was aware of
+the importance of restraining the power of the government. When the
+Constitution’s provisions and domestic jurisprudence at that time
+provided little inspiration, leading Taiwanese legal scholars and some of
+the Court’s Justices with German educational background introduced the
+doctrine of proportionality and required administrative authority to
+                        25
+justify their actions.       For the EU, with the path of integration, the EU
+exercises more power that could lead to restraining the power of member
+states and rights of their people. The legal tradition of justification thus
+inscribes the doctrine into EU law.
+
+      Yet some others believe it is the flexibility of the principle that
+serves the need of a developing legal system and their courts so that the
+principle can be widely accepted. Proportionality is a standard-based
+doctrine that allows for flexibility in the development of law, and its
+empty concept provides the court the opportunity to do whatever they
+      26
+want.
+
+      How do courts adapt the doctrine to serve the need of development
+of law for different social contexts and different natures of cases despite
+the same belief in justifying administrative action?
+
+
+
+
+   2000, in TAIWAN’S MODERNIZATION IN GLOBAL PERSPECTIVE 47, 52-60 (Peter Chow
+   ed., 2002).
+25 See, e.g., Tom Ginsburg, Constitutional Courts in East Asia: Understanding Variation,
+   3 J. COM. L. 80, 83 (2008). See Ming-Sung Kuo, From Administrative Law to
+   Administrative Legitimation? 61 INT’L & COMP. L.Q. 855, 855-59 (2012). One study
+   finds the foreign educational background of Justice can explain the frequent use of
+   German legal doctrine in Taiwan. Chang & Yeh, supra note 5, at 14-15.
+26 Cohen-Eliya & Porat, supra note 2, at 466.
+An Unprincipled Principle?                                             115
+
+
+3. The Proportionality Principle for a New
+   Democracy and for the European Integration
+
+     Taiwan and the EU both accept the principle of proportionality as a
+general principle of law, yet different social contexts result in different
+applications. Taiwan imported the principle in the process of
+democratization, but the lack of a legal tradition behind the principle
+often leads the court to applying the principle incompletely,
+inconsistently and in a confusing manner. In the process of regional
+integration, the EU employs the principle strategically to promote
+integration and applies it differently to measures of the EU as a whole
+and measures of individual member states.
+
+3.1 Taiwan: A Young Principle in a New Democracy
+     The acceptance of the principle of proportionality is relatively new
+to Taiwan. The proportionality principle was inscribed in the
+Administrative Procedure Act in 1999 as an administrative legal
+principle. It was an effort to respond to the progress of democratization
+and prevent the abuse of power by the government that haunted the
+Taiwanese people during the past authoritarian regime. The principle has
+rapidly become the foundational rule for administrative law. Yet, the
+content and meaning of the principle have not yet been fully understood
+in Taiwan’s judiciary.
+
+     Despite the short period of history for legal transplantation, the
+legacy of the past authoritarian regime still substantially affects the
+administrative court. Rather than protecting human rights, the
+administrative court before democratization tended to endorse the
+116                                         《中研院法學期刊》第19期（2016年9月）
+
+
+                                                                                27
+legitimacy of executive orders and served political interests.                       In the
+early period of democratization, judges in administrative courts were not
+well trained; some of them were executive officers or judges of military
+courts. The administrative courts were widely criticized for their
+tendency to favor the decisions of agencies and downplay the interests of
+citizens. This lingering mentality may deter the court from exercising its
+power to scrutinize agencies and make decisions strictly according to the
+principle of proportionality.
+
+      Environmental cases are no exception. An overview of
+environmental cases heard by administrative courts in Taiwan indicates
+three shortcomings of the review process in applying the principle:
+incomplete understanding, confusion with other legal doctrines, and
+unclear standards for balancing interests.
+
+      3.1.1 Incomplete Understanding
+      The principle of proportionality has become one of the most
+frequently applied legal principles in environmental law cases in Taiwan.
+
+27 Taiwan adopts a dual litigation system. All disputes arising out of legal relations in the
+   area of the public law are tried by administrative courts, and controversies arising out
+   of relations under private laws are tried at courts of general jurisdiction. See J.Y.
+   Interpretation No. 448 (Taiwan). During the authoritarian era, the administrative court
+   can review only cases regarding revocation of an administrative disposition and
+   constructed the concept of disposition, lawfulness and standing to sue narrowly. The
+   XINGZHENG SUSONG FA (Administrative Litigation Act) (1998) (Taiwan) expanded
+   the types of administrative litigation. With the effort of the Constitutional Court and
+   Administrative Court, the exercise of government power can be effectively restraint
+   by the court. For example, before the enactment of the XINGZHENG SUSONG FA, the
+   rate of judgment in favor of the plaintiff was only 7%. The rate grew to 12-15% after
+   2000, indicating that courts are more willing to substantially examine the legality of
+   government act. See Wen-Chen Chang, Courts and Judicial Reform in Taiwan:
+   Gradual Transformations Towards the Guardian of Constitutionalism and Rule of
+   Law, in ASIAN COURTS IN CONTEXT 143, 176 (Jiunn-Rong Yeh & Wen-Chen Chang
+   eds., 2015).
+An Unprincipled Principle?                                                     117
+
+
+Yet ironically, plaintiffs in environmental cases raising the claim of
+proportionality often fail to clearly define the principle and its
+application. In many cases, even the court fails to present its reasons for
+applying the principle in concrete cases.
+
+    Take the Supreme Administrative Court 85 Pan No. 127 Judgment
+( 最 高 行 政 法 院 85 年 度 判 字 第 127 號 判 決 , hereinafter “Animal
+Husbandry case”) as an example. The plaintiff asked for permission to
+run an animal husbandry business on a piece of farmland. The authority
+                                                                          28
+denied the application on the basis of water pollution prevention.             The
+plaintiff believed that the authority did not understand the situation and
+thus applied the law incorrectly, yet the plaintiff alleged that the decision
+of the authority “violated the principle of proportionality.” Whether the
+agency correctly investigates the facts and interprets the law is hardly
+relevant to the principle of proportionality, but the plaintiff challenged
+the administrative decision in the name of proportionality without further
+explanation. Even more interestingly, in the judgment, the court simply
+stated that the farmland was within the regulated area of water
+preservation and then concluded the decision satisfied the principle of
+                 29
+proportionality.      In this case, the plaintiff and the court both mentioned
+the principle of proportionality, indicating that they recognized the
+importance and the acceptance of the legal doctrine. However, it seems
+that neither the plaintiff nor the court correctly applied the principle
+despite mentioning it so blatantly.
+
+     The court sometimes makes judgments based on proportionality,
+but fails to provide sufficient analysis and reasoning. Take the example
+
+
+28 Zuigao Xingzheng Fayuan [Sup. Admin. Ct.] 85 Pan No. 127 (1996) (Taiwan).
+29 Id.
+118                                    《中研院法學期刊》第19期（2016年9月）
+
+
+of waste disposal cases. In the Supreme Administrative Court 92 Pan No.
+1754 Judgment (最高行政法院92年度判字第1754號判決, hereinafter
+“Waste Disposal case”), the appellee was fined 6,000 NTD for
+improperly disposed waste. The court concluded that the measures taken
+by the administrative agency do not significantly restrict the appellee’s
+right, thereby satisfying the requirement of the proportionality
+          30
+principle.     The court tends to sustain an administrative measure if it
+may help achieve a legitimate purpose.
+
+      Arguments such as those in the cases mentioned above are common
+in the judgments of administrative courts in Taiwan. In comparison to
+constitutional cases made by the Constitutional Court of Taiwan, the use
+of the principle of proportionality used by plaintiffs and judges in
+administrative courts are not carefully elaborated or correctly understood.
+Whenever people make claims against agency decisions, they simply
+link whatever argument they give to proportionality. Then, when the
+court denies these claims, they in turn often state that the administrative
+decision the claim is made against does not violate the principle of
+proportionality. Despite this routine invocation of the principle of
+proportionality, considerations regarding the goal, affected interests, and
+the proportionality between them are usually absent from the legal
+discussion when the principle is applied.
+
+      3.1.2 A Principle Confused with Other Principles
+      The second problem is that the court sometimes confuses the
+proportionality principle with other legal doctrines. The three legal
+doctrines that are sometimes confused with the proportionality principle
+
+
+
+30 Zuigao Xingzheng Fayuan [Sup. Admin. Ct.] 92 Pan No. 1754 (2003) (Taiwan).
+An Unprincipled Principle?                                                     119
+
+
+are the principle of undue burden, the principle of prohibiting improper
+connection, and principle of legal reservation (Gesetzesvorbehalt).
+
+     In the Kaohsiung Administrative High Court 92 Su-Geng No. 80
+Judgment (高雄高等行政法院92年度訴更字第80號判決, hereinafter
+“Time-limited Pollution Reducing case”), it seems that the court confuses
+the principle of undue burden with the proportionality principle. The
+plaintiff argued that the demand on them by the EPA to reduce pollution
+in 20 days is illegal for such demand fails to satisfy the principle of
+                  31
+proportionality.       Yet the plaintiff then went on to say that, considering
+the cost and time of renewing technology and facilities, it is almost
+impossible to comply with the demand in time. The court pointed out
+that, whether or not the time-limited requirement is appropriate should
+be examined on the basis of the situation in which it was demanded. The
+court then concluded that, the decision made by the EPA satisfies the
+proportionality principle, for its deadline was not beyond reasonable
+             32
+expectation.
+
+     If an administrative requirement is beyond reasonable expectation,
+                                             33
+it may cause undue burden to citizens.            It may not necessarily violate
+the principle of proportionality. However, both the plaintiff and the court
+suggested that a measure that is beyond reasonable expectation is
+disproportional. It is true that, an administrative measure that is
+impossible to comply with can be inappropriate, meaning that the
+
+
+31 Kaohsiung Gaodeng Xingzheng Fayuan [Kaohsiung Admin. High Ct.] 92 Su-Geng
+   No. 80 (2003) (Taiwan).
+32 Id.
+33 The principle of undue burden prohibits the government from taking measures that
+   might cause significant difficulty or expenses beyond reasonable expectation to
+   citizens. When government demands a citizen a legal obligation that is beyond
+   reasonable expectation, it may violate the principle of undue burden.
+120                                          《中研院法學期刊》第19期（2016年9月）
+
+
+decision in question can be disproportional and beyond reasonable
+expectation at the same time. Yet, without additional analysis and
+explanation, it is hard to tell whether the court failed to distinguish the
+two principles.
+
+      In another controversial case, the Supreme Administrative Court
+100 Pan No. 1022 Judgment (最高行政法院100年度判字第1022號判
+決, hereinafter “An-Kang Incineration Plant case”),34 the court applied
+the principle in a way similar to the principle of prohibiting improper
+              35
+connection.        The case was about whether the decision to not proceed to
+carry out a second stage Environmental Impact Assessment (EIA) was
+        36
+illegal.     One of the most controversial issues was whether the second
+                                                                             37
+stage EIA can be skipped “for the cause of convenience.”                          The court
+believed that the decision on whether to proceed to the second stage of
+the EIA should be based on professional evaluation. In this case, if the
+EIA commission fails to consider necessary elements, or considers
+elements that should not be included, the decision is arbitrary. Moreover,
+if the commission gives too much weight to a single element and
+undermines the precedented proportion of weight accorded to an
+analysis of a specific profession without due cause, the decision violates
+
+
+34 Zuigao Xingzheng Fayuan [Sup. Admin. Ct.] 100 Pan No. 1022 (2011) (Taiwan).
+35 The principle of prohibiting improper connection means that the exercise of public
+   authority should have proper connection with its purpose. The XINGZHENG CHENGXU
+   FA (Administrative Procedure Act) (2000) (Taiwan) does not prescribe this principle,
+   but it is recognized as a general principle of administrative law by the courts. See, e.g.,
+   J.Y. Interpretation No. 612 (Taiwan).
+36 According to the HUANJING YINGXIANG PINGGU FA (Environmental Impact
+   Assessment Act) (2003) (Taiwan), a developer should prepare an environmental
+   impact statement for the phrase one environmental assessment. If the review suggests
+   that the project may significantly impact the environment, developer should prepare a
+   more detailed assessment report for the phrase two.
+37 Id.
+An Unprincipled Principle?                                                   121
+
+
+the principle of proportionality as well. Concerning the case, the court
+concluded that, the EIA commission’s decision failed to properly
+consider elements that may impact the environment and placed
+unwarranted weight on the element of convenience in their
+considerations, thus violating the principle of proportionality. The court
+further elaborated that the decision to refuse to proceed to carrying out a
+second phase EIA not only infringed on the procedural and substantial
+rights of residents but also damaged public interests, because it was
+unjust to the residents who were boycotting the construction expecting
+that the proper procedure would follow before construction could begin.
+
+     The court believed that each professional subject should be
+considered in proportion and required the authorities to follow the rules
+of proportionality when making EIA decisions. The court invalidated the
+decision to not require a second stage EIA because the EIA
+commission’s decision was primarily based on the consideration of
+“convenience” and “urgency,” which should not be so heavily weighted.
+
+     Yet, instead of evaluating the proportionality between purpose and
+means, the court was actually saying that the EIA commission’s decision
+should exclude an irrelevant basis of consideration and instead base its
+decision on a reasonable consideration of all professional opinions. As
+one scholar commented, the application of the principle in this case
+concerns not the balance between means and ends, but the interpretation
+of legal provision and facts. It is an issue of improper connection
+                                                                     38
+between administrative discretion and the elements considered.            In this
+
+
+38 Chien-Liang Lee, Environmental Impact Assessment Review and the Principle of
+   Proportionality: The Meaning and Concerns of the Supreme Administrative Court
+   100 Pan No. 1022 Judgment, 185 TAIWAN L.J. 101, 109 (2011)（李建良，環境法實
+   務專題講座（四）          ：環評審查與比例原則—最高行政法院100年度判字第1022
+122                                    《中研院法學期刊》第19期（2016年9月）
+
+
+judgment, however, the court interpreted the principle of proportionality
+as the principle of prohibiting improper connection.
+
+      In another case, the Supreme Administrative Court 89 Pan No. 3272
+Judgment (最高行政法院89年度判字第3272號判決, hereinafter “Air
+Pollution Penalty case”), it seems the court confuses the principle of
+                                                          39
+legal reservation with the proportionality principle.          The court suggests
+that, if the plaintiff polluted the air and the measure taken by the
+administrative agency was within the discretion authorized by the law,
+the measure is considered “necessary” to maintain social order and
+improve public welfare. The way the court determined whether the
+measure was “necessary” under the proportionality principle was by
+seeing whether the measure taken had gone beyond the powers
+authorized by the law. Yet, the issue of legal authorization derives from
+the demand of rule of law, which requires all administrative measures to
+be made on the formal basis of law. The requirement of formal legal
+authorization is different from the principle of proportionality that
+emphasizes substantive legitimacy between purpose and means.
+
+      3.1.3 Inconsistent Identification of Interests
+      The principle of proportionality requires each administrative
+decision to be made with a reasonable balance between the pursued
+public interest and infringed individual rights, requiring all means
+undertaken to be proportionate to the objective. Accordingly, the court
+should compare the interests pursued by an administrative measure with
+
+
+   號判決的意義與隱憂，台灣法學雜誌，185期，頁109（2011年）
+                                   ）.
+39 The principle of legal reservation means that administrative actions restraining
+   people’s rights should be prescribed by law. Many Interpretations made by the
+   Constitutional Court of Taiwan had emphasized this principle. See, e.g., J.Y.
+   Interpretation No. 380, 394 (Taiwan).
+An Unprincipled Principle?                                                      123
+
+
+the damage it would cause. Yet, the judgments of environmental cases
+often fail to appropriately incorporate its applications of the principle of
+proportionality.
+
+     In the Supreme Administrative Court 89 Pan No. 3272 Judgment
+(最高行政法院89年度判字第3272號判決, hereinafter “Chemical
+Factory Penalty case”), the proportionality principle is used to evaluate
+whether the punishment is proportional to the damage caused by the
+         40
+plaintiff.    The plaintiff owned a chemical factory that was investigated
+by the EPA and fined 300,000 NTD for its illegal emission of air
+pollutants. When the plaintiff failed to improve the facility and
+manufacturing process, the EPA continued to fine it on a daily basis,
+amounting to a total of 1,800,000 NTD. The plaintiff brought the suit to
+the court, saying that the EPA should evaluate the degree of pollution
+and the protected interests and choose the measure causing the least
+harm according to the principle of proportionality. The plaintiff believed
+that the pollution created by their factory was not serious and should not
+be so heavily fined for it. The plaintiff thus challenged the measure in
+court by claiming the fine violated the principle of proportionality. The
+plaintiff did not examine whether the purpose of the administrative
+measure overweighed its damage to the plaintiff but instead looked at the
+amount of pollution caused as the basis for the degree of the
+administrative punishment. The plaintiff’s approach seems to be an
+incorrect application of the principle of proportionality. The primary
+purpose of administrative punishment is to ensure compliance with
+administrative law. Sanctioning the violation of administrative
+regulations should be regarded as the method to achieve the purpose of
+
+
+
+40 Zuigao Xingzheng Fayuan [Sup. Admin. Ct.] 89 Pan No. 3272 (2000) (Taiwan).
+124                                    《中研院法學期刊》第19期（2016年9月）
+
+
+compliance. The degree of violation can be considered when deciding
+the punishment, but addressing the degree of violation alone is not the
+purpose of the administrative measure under the Article 7 of the
+Administrative Procedure Act. Although the degree of pollution
+produced by the plaintiff is one important consideration in the choice of
+administrative measures, it is not equivalent to the entire purpose of the
+          41
+measure.
+
+3.2 EU: A Deep-rooted Principle in the Context of Regional
+    Integration
+      With a long history of applying the principle of proportionality,
+judgments produced by the ECJ generally provide more detailed
+reasoning for how the court applied the principle in concrete contexts.
+The understanding of the principle of proportionality presented in the
+court’s judgments mostly adheres to the original definition devised by
+scholars. Yet when applying the principle in cases concerning the
+legality of EU administrative action and cases concerning the legality of
+measures taken by EU member states, the court seems to differentiates
+the standard of review and the purpose, making the principle not
+coherent.
+
+      Although the Treaty of European Union was not passed until 1991,
+the principle of proportionality had been prevalent prior to that in
+European countries. Despite the fact that Article 5 of the EC Treaty
+regulates community institutions only, the court has been applying the
+principle both to community and national measures (when applying
+
+
+41 In the judgment, the court considered the fine as default surcharge rather than
+   administrative punishment and concluded that the amount of fine should be
+   comparable to the degree of failed compliance of the plaintiff. Id.
+An Unprincipled Principle?                                                         125
+
+
+community law) in regards to both legislative and administrative action.
+The court requires that all administrative acts or decisions and all
+                                                                              42
+legislation conform to the general principle of proportionality.
+
+     The Fedesa case reflects the way the ECJ understands and applies
+the principle. The judgment states that “by virtue of that principle, the
+lawfulness of the prohibition of an economic activity is subject to the
+condition that the prohibitory measures are appropriate and necessary in
+order to achieve the objectives legitimately pursued by the legislation in
+question; when there is a choice between several appropriate measures,
+recourse must be the least onerous, and the disadvantages caused must
+                                                       43
+not be disproportionate to the aims pursued.”
+
+     3.2.1 Strategic Application for the Sake of Integration
+     The progress of integration affects the interpretation of legal
+doctrines. In addition to its traditional function of restraining
+government power, the proportionality principle in EU law is also used
+to prevent national constitutional review from trumping EU law.
+
+     The Internationale Handelsgesellschaft case was the first case that
+applied the principle at the EU level. Its application was made in the
+context of common agricultural policy. As the court put it, “respect for
+fundamental rights forms an integral part of the general principles of law
+protected by the Court of Justice. The protection of such rights, whilst
+inspired by the constitutional traditions common to the Member States,
+must be ensured within the framework of the structure and objectives of
+
+
+42 Protocol (No. 30) on the application of the principles of subsidiarity and
+   proportionality (1997).
+43 Case C-331/48, The Queen v. Minister of Agriculture, Fisheries and Food and
+   Secretary of State for Health, Fedesa et al. [1990] ECR I-4023, para 13.
+126                                      《中研院法學期刊》第19期（2016年9月）
+
+
+                   44
+the community.”         In order to prevent the supremacy of EU law being
+undermined by challenges from national law regarding fundamental
+rights, the ECJ adopted fundamental rights and proportionality as
+principles of EU law, attempting to strengthen the constitutional
+credentials of the EU. In some cases, the interests of the community
+mingle with individual rights during the application of the
+proportionality principle.
+
+      3.2.2 Different Standards for the EU and Its Member States
+      In order to endorse the goal of regional integration, the ECJ seems
+to adopt different standards of scrutiny depending on whether it is
+applying the principle of proportionality to the EU or to an individual
+member state. The ECJ tends to support the measures adopted by EU
+institutions and reviews them with less strict standards, while it strictly
+examines administrative decisions made by member states.
+
+      In the Fedesa case, the court asserted that “with regard to judicial
+review of compliance with those conditions it must be stated that in
+matters concerning the common agricultural policy the Community
+legislature has a discretionary power which corresponds to the political
+responsibilities given to it by Articles 40 and 43 of the Treaty.
+Consequently, the legality of a measure adopted in the sphere can be
+affected only if the measure is manifestly inappropriate having regard to
+                                                                               45
+the objective which the competent institution is seeking to pursue.”                In
+one judgment, the court repeats the argument by saying that, “[w]ith
+regard to judicial review of the conditions for application of such a
+
+
+44 Case 10/70, Internationale Handelsgesellschaft, bH v. Einfuhr-und Vorratsstelle für
+   Getreide und Futtermittel [1070] ECR 1125, at 3.
+45 Case C-331/88, Fedesa and Others [1990] ECR I-4023.
+An Unprincipled Principle?                                                      127
+
+
+principle, having regard to the broad discretion which the Community
+legislature is allowed in an area such as that involved in the present case,
+which entails political, economic and social choices on its part, and in
+which it is called upon to undertake complex assessments, the legality of
+a measure adopted in that area can be affected only if the measure is
+manifestly inappropriate having regard to the objective which the
+                                                 46
+competent institution is seeking to pursue.”
+
+     The ECJ suggests the court should opt for a less rigid standard of
+                                                                              47
+review in certain fields where political responsibility is involved.               It
+seems that the court applies a highly deferential or marginal test,
+examining whether a certain decision or measure is “manifestly
+inappropriate” or is “vitiated by a manifest error.”
+
+     Yet, in certain other cases, especially involving measures that might
+undermine the EU goal of economic integration by member states, the
+court adopts a much stricter test. The court requires the member states to
+demonstrate the necessity of the chosen instruments and the importance
+of the aims pursued. For example, in Danish Bottles case, the interests
+                                                                  48
+evaluated by the ECJ are between the EU and Demark.                    The Danish
+government approved a stringent regulatory measure, which requires
+beer and soft drinks producers to use re-usable containers approved by
+the Danish government only. Some drink companies believed the
+measure violates EU law. EU prohibits the restriction on the free
+movement of goods for the interest of an integrated market. The
+
+
+46 Judgment of The Court (Third Chamber) 12 January 2006, Case C-504/04.
+47 Case C-535/03, The Queen on the application of: Unitymark Ltd and North Sea
+   Fishermen’s Organisation v. Department for Environment, Food and Rural Affairs 23
+   March 2006.
+48 Case 302/86, Commission v. Demark [1988] ECR 4607; [1989] 1 CMLR 619.
+128                                《中研院法學期刊》第19期（2016年9月）
+
+
+Commission argued that the Danish rules are contrary to the principle of
+proportionality because other less restrictive means can also achieve the
+aim of environmental protection.
+
+      The court endorsed the deposit and return system, viewing it as
+proportionate and necessary to achieve the aims. As for the approval
+requirements, the court found it disproportionate. The court believed that,
+the producer would have to purchase already approved containers, which
+would involve substantial costs according to Danish law, making
+importation difficult. The court concluded that if a foreign manufacturer
+could comply with the Danish re-use policy by establishing its own
+system, the approval system was not necessary and did not violate the
+EC principle of free trade. However, the judgment was not only based on
+the degree of rights infringement or the proportion between damage and
+benefits. In this case, the court changed the balance by adding the EU
+interests of free trade on the infringed right of manufacturer. The
+infringed rights along with the interests of the EU exceed the pursued
+interest, and the court thus held the measure disproportionate. As the
+court put it, “it is therefore necessary to examine whether all the
+restrictions which the contested rules impose on the free movement of
+                                                                       49
+goods are necessary to achieve the objectives pursued by those rules.”
+
+      The original meaning of the proportionality principle is to balance
+the pursued interests and the infringement of individual rights. In pursuit
+of the goal of regional integration, however, the interpretation of the
+principle has to be compromised with the community goal, so that the
+principle sometimes even becomes a tool to promote deeper integration
+at the expense of individual rights. The interpretation and application of
+
+
+49 Id. para. 17.
+An Unprincipled Principle?                                               129
+
+
+the principle have thus been criticized as inconsistent and arbitrary.
+
+
+
+4. Adapting to Environmental Cases in Taiwan and
+   the EU
+
+     Key features of environmental cases are uncertainty, multiple and
+conflicting interests, and the need for a future-oriented perspective.
+These features also challenge the objectivity of the proportionality
+principle. Interestingly, the principle has been adapted to environmental
+cases in Taiwan and the EU in different ways.
+
+4.1 The     Proportionality                Principle         Confronting
+    Environmental Cases
+     The distinctiveness of environmental cases may also affect the
+application of the principle by courts in the two jurisdictions. The
+principle of proportionality is a way to evaluate and balance interests of
+a specific administrative measure or legislation. For the balancing to be
+effective and objective, there are some pre-conditions, such as a
+specified goal and knowledge of the means and ends. Since
+environmental cases tend to feature uncertainty, complicated interests,
+and the necessity for a forward-looking perspective, they may bring
+challenges to the application of the proportionality principle.
+
+     4.1.1 Uncertainty in Environmental Issues
+     First, the uncertainty of environmental issues is usually high.
+“Uncertainty” refers to cases in which the probability of alternative
+future scenarios cannot be determined. Robert Duncan suggests three
+components that contribute to environmental uncertainty: 1) the lack of
+130                                     《中研院法學期刊》第19期（2016年9月）
+
+
+information regarding the environmental factors associated with a given
+decision-making situation; 2) not knowing the outcome of a specific
+decision in terms of how [insert what could be lost] could be lost if the
+decision was incorrect; 3) inability to assign probabilities with any
+degree of confidence with regard to how environmental factors are going
+to affect the success or failure of the decision unit in performing its
+          50
+function.
+
+      In the presence of uncertainty, the proportionality principle would
+balance an ex ante measure of policy benefits with an ex ante measure of
+policy costs. When probabilities are unavailable, it is not obvious how
+the balance can be calculated. A scientific warning may turn out to be
+valid after being ignored at first, and it can also be heeded but turn out to
+have been unwarranted. Both mistakes depend on the policy chosen ex
+                                                                                 51
+ante and the scientific finding that turns out to be true ex post.
+Moreover, the assessment of appropriateness and necessity also depends
+on the knowledge available. When the knowledge available to
+practitioners and policy makers alike is fragmentary and not systemized,
+the effectiveness of regulation is difficult to assess.
+
+      One commentator has questioned how we can weigh whether such
+potential damage to human health or environment is disguised by a
+                                               52
+larger or smaller degree of uncertainty.            The proportionality principle
+
+
+50 Robert B. Duncan, Characteristics of Organizational Environments and Perceived
+   Environmental Uncertainty, 17(3) ADMIN. SCI. Q. 313, 318 (1972).
+51 Terrence Iverson & Charles Perrings, Precaution and Proportionality in the
+   Management of Global Environmental Change, 22 GLOBAL ENVT’L CHANGE 161,
+   165 (2012).
+52 Hannes Veines, Determination of the Level of Environmental Protection and the
+   Proportionality of Environmental Measures in Community Law, IX JURIDICA INT’L 89,
+   95 (2004).
+An Unprincipled Principle?                                              131
+
+
+turns out to be a mechanism for trade-off: how much cost you would
+accept to exchange for the expected interests. The more resources
+society commits to environmental protection, the more likely it is that
+                                    53
+unnecessary costs also increase.
+
+     4.1.2 Complicated Interests and Competing Values
+     The proportional principle is powerful in the single objective case.
+However, the difficulty of identifying interests and conflicting values
+also tests the applicability of the principle of proportionality.
+Environmental regulation involves competing values, which cannot
+always be translated into clearly defined rights or interests to be
+                          54
+objectively balanced.          The application of the three-step test of
+proportionality is based on the specified interests pursued and infringed.
+In environmental legal issues, several difficulties may be encountered
+during the operation of the proportionality three-step test. For example,
+complicated environmental interests may not be identified, calculated or
+fairly represented through rights-holders. How much does an occupied
+reef island cost? How do we calculate the costs and benefits of the
+construction of a nuclear power plant on an island? One might find the
+answer depends on not any objective calculation but some incompatible
+division of ideology or belief.
+
+     Moreover, the interest of environmental protection is always
+intertwined with the need for development. This feature is present in the
+guiding legal principles—the principle of sustainable development—of
+environmental law. Both Taiwan and the EU embrace the principle of
+
+
+53 Id.
+54 Laurence Tribe, Ways Not to Think about Plastic Tree: New Foundations for
+   Environmental Law, 83 YALE L.J. 1315, 1318 (1974).
+132                                     《中研院法學期刊》第19期（2016年9月）
+
+
+sustainable development. In Taiwan, Section 2, Article 10 of the R.O.C
+Constitutional Amendment states, “Environmental and ecological
+protection shall be given equal consideration with economic and
+technological development.” Article 3 of the Basic Environment Act also
+states that “economic, technological and social development shall
+equally emphasize environmental protection based on long-term national
+           55
+interests.”     The EU also incorporates other values into environmental
+policy in addition to the principle of proportionality. Article 3.3 TEU
+states that the Union “shall work for the sustainable development of
+Europe based on balanced economic growth and price stability, a highly
+competitive social market economy, aiming at full employment and
+social progress, and a high level of protection and improvement of the
+quality of the environment.”
+
+      Sustainable development principles reflect the complexity of
+environmental issues and the compromises inherent in environmental
+decision-making.
+
+      Environmental cases always involve multiple goals and interests,
+making the evaluation of proportionality difficult. Veines suggests that,
+in assessing environmental regulations, “not only the benefits and costs
+                                             56
+but also values must be weighed.”                 Tribe also argues, “analytic
+techniques can be of virtually no use outside the few situations (rarely
+encountered in the environmental field) where one is optimizing a single,
+                                                                       57
+well-defined objective subject to agreed-upon constraints.”
+
+
+
+
+55 HUANJING JIBEN FA (Basic Environment Act) art. 3 (2002) (Taiwan).
+56 Veines, supra note 52, at 95.
+57 Tribe, supra note 54, at 1322.
+An Unprincipled Principle?                                           133
+
+
+
+     4.1.3 A Forward-looking Perspective
+     Third, resolving environmental cases require a forward-looking
+perspective, which also challenges the application of the proportionality
+principle. The principle of proportionality is basically a retrospective,
+rather than ex nunc principle. The court can objectively examine the
+proportionality of administrative measures only if the interests pursued
+and infringed are known.
+
+     Environmental protection concerns future generations and requires
+a forward-looking perspective. Due to the uncertainty and cumulative
+character of environmental cases, there often exists a time lag between
+the human behavior and the moment at which the problem caused by
+this behavior becomes clear. Take the RCA case in Taiwan as an
+example. The U.S. company RCA (Radio Corporation of America) was
+established in 1919 and closed in 1986 when General Electric took over.
+Decades later, it was found to have dumped toxic wastes at its Taoyuan
+factory, polluting the soil and underground water and leading to
+alarmingly frequent reports of cancer among workers.
+
+     A multitude of international and domestic sources have
+acknowledged that the actions of present generations can interfere with
+the needs of future generations. To address this situation, legal
+documents commonly highlight the interests of future generations and
+state that they should receive attention alongside those of present
+generations. For example, Article 3 of the Basic Environment Act of
+Taiwan also states that sustainable development means satisfying
+contemporary needs without sacrificing the ability of future generations
+to satisfy their needs. Environmental regulation thus pursues long-term
+interests for future generations.
+134                                      《中研院法學期刊》第19期（2016年9月）
+
+
+      The legal principle that best highlights the forward-looking aspect
+of environmental law is the precautionary principle. The precautionary
+principle emphasizes avoidance of potentially damaging actions even
+when there is uncertainty about the consequence of those actions.
+Section 2, Article 174 of the Treaty Establishing the European
+Community emphasizes the precautionary principle in forming
+environmental policy, stating that “Community policy on the
+environment shall aim at a high level of protection taking into account
+the diversity of situations in the various regions of the Community. It
+shall be based on the precautionary principle and on the principles that
+preventive action should be taken, that environmental damage should as
+                                                                             58
+a priority be rectified at source and that the polluter should pay.”
+
+      The enactment of the precautionary principle stresses the need to
+look ahead in environmental policy-making rather than taking the
+retrospective perspective more typical in the application of the
+proportionality principle. The requirement of a future-oriented
+perspective makes the interest-balance of the proportionality more
+difficult. When interests cannot be evaluated using the same timeline,
+cost and benefit analysis is difficult.
+
+4.2 Adapting to Environmental Cases in Taiwan
+      In order to deal with the distinctive features of environmental cases,
+the courts of Taiwan adapt the principle of proportionality in at least
+three ways: shifting standard of review, procedural proportionality, and
+proportional consideration on conflicting interests.
+
+
+
+
+58 Treaty Establishing the European Community, The Section 2, Article 174.
+An Unprincipled Principle?                                                             135
+
+
+
+     4.2.1 Shifting Standard of Review
+     The first way for the court to adapt the principle to environmental
+cases is the through the choice of standard of review. The court does not
+apply the same standard of review consistently. Only occasionally will
+the court take uncertainty into consideration and review cases with less
+strict standard when considering the proportionality of the involved
+measure. While in some other cases, the court applies the principle in a
+stricter way that ignores the distinctive features of environmental cases.
+
+  Taipei High Administrative Court 100 Su No. 1349 Judgment (臺北
+高等行政法院100年度訴字第1349號判決, hereinafter “Concentrated
+Townhouses Construction case) is an example where the court adopted a
+                                     59
+less strict standard of review.             In order to protect the productivity of
+farms, Article 18 of the Agricultural Development Act regulates the
+construction of farmhouses in agricultural lands. The order of the
+Council of Agriculture provides that, “in order to protect farm lands
+from being excessively and improperly used and to sustain good farms
+for agricultural production, concentrated townhouses cannot be
+constructed in specific agricultural zones.” Both individual farmhouses
+and concentrated townhouse developments need to apply for approval
+                                       60
+from the competent authorities.              The plaintiffs in this case were famers
+who applied to the Hsin-Chu County Government for the construction of
+
+59 Taipei Gaodeng Xingzheng Fayuan [Taipei Admin. High Ct.] 100 Su No. 1349 (2011)
+   (Taiwan).
+60 NONGYE FAZHAN TIAOLI (Agricultural Development Act) art. 18 (2000) (Taiwan)
+   provides that, “farmers, who acquire agricultural lands after the enactment of this
+   revised Act of January 4, 2000 and do not possess a farmhouse for their own use, may
+   apply for the construction of individual farmhouses or concentrated townhouses on
+   their own agricultural land with the approval of the competent authorities at the city or
+   county/municipality, provided that the construction does not affect agricultural
+   production environment and the development of farm villages.”
+136                                    《中研院法學期刊》第19期（2016年9月）
+
+
+concentrated townhouses. The Hsin-Chu government denied the
+application because the Council of Agriculture considered the land in
+concern to be located in specific agricultural zones of the regional plan.
+The farmers were dissatisfied with the decision and contested that the
+executive order violated the principle of proportionality. They argued
+that concentrated townhouse will boosts the economy by maintaining a
+productive agricultural environment.
+
+      One of the parties involved in the suit, namely, the Council of
+Agricultural Affairs, attempted to justify its order by arguing that,
+
+      “[T]he farms are declining off rapidly recently in Taiwan. As
+      climate changes and the crisis of food shortage increase, farm
+      protection is one priority of national policy. However, specific
+      agricultural areas that have been regarded as high-quality
+      agricultural land, often becomes the site of farmhouses due to
+      its better location and public infrastructure, decreasing the
+      quality and quantity of good agricultural lands and impacting
+      the environment of agricultural productivity. In order to ensure
+      food security, protect high-quality agricultural land, and create
+      a sustainable agricultural environment, the applications for
+      farmhouse construction should be more restricted. Food
+      security has become an issue of national security and the
+      government has determined to protect specific agricultural
+      areas in order to ensure the quantity of high-quality agricultural
+                                                                  61
+      lands and maintain the capability of the food supply.”
+
+      The court accepted the argument of the Council of Agriculture by
+
+
+61 Taipei Gaodeng Xingzheng Fayuan [Taipei Admin. High Ct.] 100 Su No. 1349 (2011)
+   (Taiwan).
+An Unprincipled Principle?                                                      137
+
+
+referring to the principle of proportionality. The court pointed out that,
+the amount of farmland has declined rapidly and impacted the country’s
+agricultural productivity. The administrative order made by the Council
+of Agriculture is necessary to prevent good farmland from being
+overused. Moreover, the court believed that the order could be used as
+reference for other authorities in making decisions, which would help
+maintain good farms for agricultural use and facilitate sustainable
+agriculture development. The court then concluded that the order was
+necessary to achieve the administrative purpose and satisfied the tests of
+the proportionality principle. Strict adherence to the three tests of the
+proportionality principle would indicate that the restriction of the use of
+personal property for the purpose of furthering the nation’s agricultural
+policy could hardly be necessary. On the one hand, the order failed to
+limit the restriction on farmhouse beyond certain size or with specific
+conditions; it may not justify the necessity of restriction. On the other
+hand, whether the purpose of protecting farmland is proportional against
+the rights of many farmland owners is an issue that needs to be clearly
+examined. However, when the court took into consideration the
+uncertainty of climate change and the risk of food shortages, the
+principle of sustainable development led the court to make a
+compromise in its standard of review.
+
+     In some other cases the court adopted a strict standard of review
+without explanation. In the Supreme Administrative Court 101 Pan No.
+567 Judgment (最高行政法院101年度判字第567號判決, hereinafter
+“Canal pollution case”), the court examined whether fining the plaintiff
+                                                                          62
+would be an appropriate means to achieve the pursued interest.                  The
+
+
+
+62 Zuigao Xingzheng Fayuan [Sup. Admin. Ct.] 101 Pan No. 567 (2012) (Taiwan).
+138                                  《中研院法學期刊》第19期（2016年9月）
+
+
+case was about waste disposal. The appellant, the South Office of
+National Property Administration, was fined because the escape canal of
+a piece of national land was found to be dirty. The appellant claimed that,
+although it is in charged with managing the property, the canal is subject
+to the administration of Kaohsiung City Government. The appellant
+suggested that the decision was neither appropriate nor effective and was
+not the least restrictive measure preventing the entire 420-meter canal
+from being polluted. The court accepted the argument, recognizing that
+to ask the appellant to clean the said section of canal would not help the
+pollution of the entire canal. It would be more effective if the Kaohsiung
+City Government could manage the pollution of the canal as a whole.
+The court thus concluded that the fine imposed by the Environmental
+Protection Bureau of the Kaohsiung City Government was neither
+                            63
+appropriate nor necessary.       In this case, the court seemed to suggest
+that a measure is appropriate and necessary only if it can completely
+fulfill the pursued goal. This standard is obviously stricter than the
+standard usually adopted by the court.
+
+      Perhaps because of the different contexts and degrees of uncertainty,
+court in Taiwan changes its standard of review when applying the
+principle of proportionality in environmental cases. The fluctuation
+indicates that the court might not apply a legal principle with consistent
+standard. However, the court in Taiwan fails to elaborate on a more
+convincing theory to justify its application.
+
+
+
+
+63 Id.
+An Unprincipled Principle?                                                       139
+
+
+
+     4.2.2 Proportionate Consideration on Multiple Interests in
+           EIA Procedure
+     In cases involving Environmental Impact Assessment (EIA), the
+application of the proportionality principle by the court is distinctive in
+two ways. First, the court introduces many more interests to the balance
+even though some of them were not included in the original
+understanding of the doctrine. Second, the court has begun to apply the
+concept of proportionality to procedural matters.
+
+     In environmental cases, especially cases regarding Environment
+Impact Assessments (EIA), an emerging tendency is that the court
+includes more interests when examining whether a measure is
+proportional. Moreover, the court applies the principle of proportionality
+and requires the EIA decision makers to consider all elements
+proportionally.
+
+     The abovementioned An-Kang Incineration Plant case is one
+          64
+example.       The court held that the decision to not carry out the second
+stage EIA violated the principle of proportionality. The plaintiff claimed
+that the construction of the incineration plant in An-Kang (安康),
+Xindian may cause significant environmental impacts and an EIA should
+be carried out according to the law. Nonetheless, the committee of
+Environmental Impact Assessment decided that the project did not need
+to complete a detailed second phrase EIA, because it would be
+“inconvenient”. The plaintiff thus challenged the decision of the
+authority for failing to comply with the law.
+
+     Again, the court did not examine the purpose of the measure and
+
+
+64 Zuigao Xingzheng Fayuan [Sup. Admin. Ct.] 100 Pan No. 1022 (2011) (Taiwan).
+140                                        《中研院法學期刊》第19期（2016年9月）
+
+
+the damage caused when applying the principle of proportionality. The
+court states that the authority should consider various elements to
+determine whether a project would significantly impact the environment
+and decide whether to carry out a second stage EIA accordingly. The
+court first suggests that, the decision of the EIA fails to fulfill the EIA’s
+purpose to “prevent and eliminate the environmental impact caused by
+constructions” and hence is not proper. The court further compared the
+damages and the benefits of the decision, stating, “the decision infringes
+the procedural and substantial rights of residents, as well as damaging
+the constructors’ interests and public interests since it may invite
+residents’ protestation and eventually result in delayed construction.”
+The court thus believed that the damage outweighed the benefit,
+concluding that the decision to not enter the second phrase of EIA
+violated the principle of proportionality.
+
+      The argument of the court seems to be odd from a legal perspective.
+The principle of proportionality aims to restrain the abuse of government
+power from overly infringing human rights. It is only the public interest
+and the directly resulting right-infringement that matter. As Alexy puts,
+“the Law of Balancing requires the increasing intensity of interference
+with liberty to be matched by an increasing weight of reasons justifying
+                   65
+the interference.”
+
+      If the court adheres to the original understanding strictly, it should
+examine the purpose of an EIA and its direct infringement on private
+rights. But the court did not mention the purpose of the EIA and the
+environmental interest in its decision, nor did it take the residents’
+
+
+65 ROBERT ALEXY, A THEORY OF CONSTITUTIONAL RIGHTS 231 (Julian Rivers trans.,
+   Oxford University Press 2010) (2002).
+An Unprincipled Principle?                                                       141
+
+
+                                         66
+interest as pursued public interests.         Instead, the court considered the
+interests of the developer and the interests of the residents jointly, stating
+that the damage of the EIA decision on the residents and the developer
+was too much and hence not proportional. It seems that the court
+regarded all private interests as the opposite of the public interests
+pursued by a government agency.
+
+     EIA was designed to include understated environmental costs in the
+decision-making process of the government, preventing damage to the
+environment. EIA provides information for the government in order to
+balance environmental protection and other public interests such as
+economic development. It is an internal decision for reference and
+should not be examined under the logic of proportionality.
+
+     The way the court applies the proportionality principle to EIA cases
+in Taiwan can be explained from the aspect of late legal transplantation.
+While Taiwan learned the EIA system from the U.S. and the German-
+refined principle of proportionality, the court is required to adapt both
+doctrines to the local context. It is possible that the court applies the
+doctrine in EIA cases without careful consideration or out of insufficient
+understanding of the principle due to a shorter history of use and more
+recent transplantation. Yet, the distinctive design of EIA in Taiwan may
+better explain why the court applies the principle in EIA cases. In
+Taiwan, the EIA committee of the Environmental Protection Agency,
+instead of the responsible government agency, examines EIAs. In
+addition, the EIA decision has veto power for major development
+projects. The whole project becomes illegal if the assessment does not
+pass the EIA committee’s examination. However, if the EIA concludes
+
+
+66 Zuigao Xingzheng Fayuan [Sup. Admin. Ct.] 100 Pan No. 1022 (2011) (Taiwan).
+142                                《中研院法學期刊》第19期（2016年9月）
+
+
+that a project passes its review, it permits the project and subsequent
+environmental damages. Because EIA decisions directly impact the
+environment and the rights of the developers and citizens, it is
+understood as an exercise of public power that may threaten individuals’
+rights and freedom.
+
+      However, the “public interests” of EIA can be very different from
+different points of view. From the developers’ point of view, if EIA
+rejects a project, it is because the public interest in protecting the
+environment outweighs the infringed rights of the developer. To
+environmental groups, if EIA permits a project, the court should consider
+both the interests of the development project and the impact on the
+environment. For other persons of interest, such as involved residents, it
+is the environmental interests and other rights of citizens that should be
+balanced against the interests of the projects. In the Supreme
+Administrative Court 100 Pan No. 1022 Judgment, the court examined
+the impact of the EIA on both the residents and the developer but left the
+environmental interest and the interest of the incineration plant
+unmentioned.
+
+      The case also exposes the problem of the principle of
+proportionality in confronting complex and conflicting interests in the
+EIA process. First, the balance of pursued government interests and the
+threatened private rights is only one part of environmental cases. The
+tension between economic growth and environmental protection as well
+as the resulting struggle between the developer and other citizens
+challenge the capability of the proportionality principle. Through
+including various interests in the balance, the principle is not merely a
+legal doctrine to restrain the government from power abuse but a
+platform reflecting and comparing different interests and policy goals.
+An Unprincipled Principle?                                             143
+
+
+     In addition, the notice of multiple interests also contributes to
+shifting the focus from substantive justice to procedural justice. As
+discussed above, the Supreme Administrative Court 100 Pan No. 1022
+Judgment suggests that the principle of proportionality requires EIA to
+consider all relevant elements and weigh each properly according to its
+               67
+proportion.         If the EIA commission fails to consider a necessary
+element, or places too much weight on certain elements, the decision
+violates the principle of proportionality. Different from the original
+requirement for substantive outcomes, the court requests a legitimate
+decision to be made under proportional consideration of necessary
+          68
+elements.
+
+     By doing so, the court transforms the function of the principle of
+proportionality from restraining government power to facilitating better
+decisions through proportional procedure.
+
+4.3 Adapting to Environmental Cases in the EU
+     Regarding environmental cases, the ECJ’s application of the
+principle of proportionality is affected by not only the distinctive
+features of environmental issues but also the politics and normative
+structure of EU law. If the bounds of normative or executive power are
+widely drawn, or if decision making requires difficult political choices or
+complex assessments of social and economic factors to be made, the
+court usually considers marginal review to be appropriate.
+
+     Although the integration into the EU was initiated for economic
+reasons, the protection of environmental interests is highly valued under
+
+
+67 Id.
+68 Id.
+144                                   《中研院法學期刊》第19期（2016年9月）
+
+
+the current regime. Article 2 of the Treaty Establishing the European
+Community required the Community to promote a high level of
+protection for the quality of the environment; while Article 174(2)
+further emphasizes that the Community policy on the environment shall
+aim for a high level of protection. In addition, Article 37 of the Charter
+of Fundamental Rights of the European Union states that a high level of
+environmental protection and the improvement of the quality of the
+environment must be integrated into the policies of the Union and
+ensured in accordance with the principle of sustainable development.
+Under these provisions, a high level of environmental protection has
+become an essential goal of the EU, and therefore all policies should
+take the environment into consideration.
+
+      In order to achieve the highest level of environment protection, the
+EU endorses the precautionary principle. The interesting question is
+whether the ECJ applies the principle of proportionality differently in
+environmental cases considering that the EU considers environmental
+protection as one of the highest goals of EU law. How does the
+enactment of the precautionary principle affect the interpretation of the
+principle of proportionality? How does the court adapt the principle of
+proportionality to deal with uncertainty in environmental cases?
+
+      4.3.1 Threading Proportionality with Environmental Values
+      As a general principle of EU law, the court applies the principle of
+proportionality to precautionary measures taken by member states. The
+combination of the two principles serves as a more practical and
+reasonable guide for future policy.
+
+      First, the emphasis on environmental value and the enactment of
+the precautionary principle incorporates environmental value into the
+An Unprincipled Principle?                                                   145
+
+
+value-neutral principle of proportionality, which may prevent the
+marginalization of environmental value in policy-making. In order to
+assess the proportionality of environmental protection measures, not
+only economic costs but also environmental value should be weighted.
+The Communication from the European Commission on the
+precautionary principle points out that society may be ready to pay a
+disproportionately high cost to protect prioritized values such as the
+                                           69
+environment and human health.                   In the case of Artegodan v.
+Commission the court noted, “It followed that the precautionary
+principle can be defined as a general principle of Community law,
+requiring the competent authorities to take appropriate measures to
+prevent specific risks to public health, safety and the environment, by
+giving precedence to the requirements related to the protection of those
+                                         70
+interests over economic interests.”
+
+     The proportional review on precautionary measures was combined
+with the precautionary principle. In the Pfizer case, the plaintiff argued
+the authorities should wait for scientific studies on the risk of the
+virginiamycin before it imposed restrictions. The Court of First Instance,
+in assessing the necessity of the regulation, stated that the regulation was
+consistent with the precautionary principle “by reason of which a public
+authority can be required to act even before any adverse acts have
+                       71
+become apparent.”           The court was also convinced that the use of
+antibiotics is not “strictly necessary in animal husbandry and that there
+are alternative methods of animal husbandry even if they can lead to
+
+
+
+69 The precautionary principle: The Communication from the European Commission on
+   the precautionary principle, COM(2000) 1 final of 2 at 19-20 (2000).
+70 Case T-74/00, Artegodan GmbH v. Commission [2002], para. 184.
+71 Case T-13/99, Pfizer [2002] ECR II-3305, para. 444.
+146                                     《中研院法學期刊》第19期（2016年9月）
+
+
+                                                             72
+higher costs for farmers, and ultimately, consumers.”             Although the
+court confirmed the proportionality principle as a general principle of
+Community Law, it concluded that the regulation satisfied the necessity
+test.
+
+        The court recalled the explanation from an already well-settled case
+from the European Court: “where there is uncertainty as to the existence
+or extent of risks to human health, protective measures may be taken
+without having to wait until the reality and seriousness of those risks
+                              73
+become fully apparent.”            Therefore, the court concluded that the
+interpretation of the safeguard clause in light of the precautionary
+principle is permitted for a certain relaxation of the above-enumerated
+conditions. It may happen, according to the court, that in particular
+circumstances it is impossible to carry out “as full a risk assessment as
+possible” because of “the inadequate nature of available scientific
+         74
+data.”
+
+        In the application of the principle of proportionality, the ECJ does
+not evaluate whether the measure adopted was useful, suitable or
+effective, but whether it was manifestly inappropriate. “Where the
+community legislature is obliged to assess the future effects of rules to
+be adopted and those effects cannot be accurately foreseen, its
+assessment is open to criticism only if it appears manifestly incorrect in
+the light of the information available to it at the time of the adoption of
+                         75
+the rules in question.”
+
+
+72 Id. para. 456.
+73 Id. para. 162.
+74 Id.
+75 See Case C-504/04, Agrarproduktion Staebelow GmbH [2006] ECR I-679, para. 38.
+   See also Case 43/72, [1973] ECR 1055, para. 24.
+An Unprincipled Principle?                                                         147
+
+
+     Applying the principle of proportionality may also contribute to
+reducing concerns over excessiveness and cost of precautionary
+measures, making the principle more pragmatic and economically
+efficient. Precautionary measures have often been criticized for not
+                                     76
+being economically efficient.             Under uncertainty, an environment-
+oriented regime may take excessive measures to prevent any
+environmental derogation. These measures may not only be unnecessary
+and costly but also sometimes leading to unexpected risks. For example,
+constructing a dam for a possible drought may interrupt the ecological
+system and become a threat to the maintenance of land and water. The
+proportionality principle pursues a “desirable” level of environmental
+protection and requires that all measures “cannot be used to accomplish
+                                                                              77
+anything more or less than necessary to achieve such a level.”                     The
+proportionality principle may not examine precautionary measures with
+strict standards, yet it may help make precautionary measures more
+pragmatic. The above-mentioned Communication from the European
+Commission on the precautionary principle states that “measures based
+on the precautionary principle must not be disproportionate to the
+                                                                    78
+desired level of protection and must not aim at zero risk.”              The court in
+the Pfizer case echoes that precautionary measures should be based on
+“the most reliable scientific evidence available and the most recent
+                                                                             79
+results of international research” when scientific data is available.
+
+
+76 See Cass R. Sunstein, Precautions Against What? Perceptions, Heuristics and Culture,
+   in THE REALITY OF PRECAUTION: COMPARING RISK REGULATION IN THE UNITED
+   STATES AND EUROPE 492, 498-504 (Jonathan B. Wiener, Michael D. Rogers, James K.
+   Hammitt & Peter H. Sand eds., 2010).
+77 See Natalie McNelis, EU Communication on the Precautionary Principle, 3(3) J.
+   INT’L ECO. L. 545, 547 (2000).
+78 Commission Communication, supra note 69, at 4.
+79 Id. See also Case T-70/99, Alpharma Inc v. Council [2002] ECR II-3495.
+148                                     《中研院法學期刊》第19期（2016年9月）
+
+
+      In the EU, the applications of two principles—the principle of
+proportionality and the principle of precaution—interact with each other.
+The emphasis of precautionary measures in situations of environmental
+uncertainty facilitates the embodiment of environmental value in the
+application of the principle of proportionality. By the same token, the
+requirement of proportionality may also contribute to the reduction of
+unnecessary and costly precautionary measures.
+
+      4.3.2 A Narrow Version of Proportionality with an Uncertain
+            Standard of Review
+      The ECJ usually applies the principle rigorously and explains how
+the three-step test is applied when reviewing administrative measures.
+Theoretically, the three-step test of proportionality forms a package;
+each step is equally important. In some other cases, the court indeed
+strictly adopts the test and demands a demonstration of the costs and
+                                80
+benefits of the measure.             However, when measures and their
+environmental impacts are highly uncertain, the court tends to bypass the
+test of appropriateness and ignore the test of proportionality in the
+                                                                         81
+narrow sense, focusing most of its efforts on the test of necessity.          As a
+result, in cases involving environmental issues, the test of necessity is
+the core. However, the uncertainty of the meaning of “necessity” results
+in an inconsistent standard of review in the ECJ’s judgments. Take the
+judgments concerning biodiversity as an example. In the German
+Crayfish case, which concerns the banning of commercial imports of all
+species of live crayfish, the court found that the measure violated the
+
+
+
+80 E.g., Jointed case C-369/96 and C-376/96 [1999] ECR I 8453, para. 78.
+81 See PAUL CRAIG, EU ADMINISTRATIVE LAW 670 (2006). See also, Case C-28/05, G. J.
+   Dokter and Others [2006] ECR I-05431, paras. 74-76.
+An Unprincipled Principle?                                                149
+
+
+necessity test. According to the court, a measure having discriminatory
+effects can only be justified under the expressed public grounds
+prescribed in Article 30 of the EC Treaty. The court applied the necessity
+test and found that the German measure can be replaced by alternative
+measures with less restrictive effects. As a result, the contested measure
+                     82
+is disproportionate.
+
+     In another case involving biodiversity and the free movement of
+goods, however, the court adopted a less strict standard of review. The
+Bluhme case concerns a Danish ban on importing yellow bees to a small
+island to protect against fauna falsification. The claimant argued the
+                                                           83
+measure violates the free trade interest of the EU.             The objective
+recognized by the court is to maintain specific species of brown bees
+inhabiting the island. The court found the objective justified and
+suggested that only an outright import ban would be effective to
+conserve the species. Thus, the court concludes that the Danish ban
+satisfied the test of necessity.
+
+     One commentator writes, “in practice, this would imply that the
+court took a less coherent approach when applying the suitability and
+necessity test, applying a strict test in cases where it believed that the
+individual interests should prevail and a less strict approach when it
+believed that public interest should prevail. Whether the third test is
+                                                    84
+applied or not depends on the desired outcome.”
+
+
+
+
+82 Case C-131/93, Commission v. Germany [1994] ECR 3513.
+83 Case C-67/97, Ditle v. Bluhme [1998] ECR I-08033.
+84 Harbo, supra note 22, at 166.
+150                                     《中研院法學期刊》第19期（2016年9月）
+
+
+
+      4.3.3 The Development of Procedural Proportionality
+      Recently the EU applies the principle of proportionality in a
+procedural fashion. In the case of Vodafone and Others, instead of
+second-guessing the merits of the substantive choices made by the EU
+legislator, ECJ required the EU legislator to show that it has taken all
+                                                                   85
+relevant interests into consideration when making a law.                Perhaps
+because substantive evaluation of the means and goals is difficult in
+cases involving environmental uncertainty, the ECJ has gradually
+applied the principle of proportionality to procedural rights in
+environmental cases. The Bluhme case involved prohibiting marketing
+                                   86
+beers that contain additives.           When the court looked into the
+proportionality of the German regulation, it reviewed the procedural
+reasonableness. The court concluded that if a person has no opportunity
+to challenge administrative decision before the court, the decision cannot
+be considered as satisfying the principle of proportionality. The court
+pointed out that proportionality required an easily accessible and swift
+                          87
+authorization procedure.       In other words, the German regulation failed
+the proportionality tests, not only because of the substantive rights it
+may infringe, but also because it leaves no procedural opportunity for
+traders to obtain authorization. It seems that, in the case of
+environmental issues where uncertainty is high, the court shifts its focus
+to procedural protection, which is analogous to the doctrine of due
+                                        88
+process of U.S. Constitutional Law.
+
+
+85 See Case C-58/08, Vodafone and Others [2010] ECR I4999.
+86 Case 178/84, Commission v. Germany [1987] ECR 1227.
+87 Id.
+88 Similar opinion, please see Sacha Prechal, Free Movement and Procedural
+   Requirements: Proportionality   Reconsidered,   35(3)   LEGAL ISSUES   ECON.
+   INTEGRATION 201, 214 (2008).
+An Unprincipled Principle?                                               151
+
+
+5. An Unprincipled Principle?
+
+     The principle of proportionality is portrayed as a general principle
+of administrative law that can be transplanted across boundaries and
+should be accepted universally. Both in a new democracy like Taiwan or
+in a supranational organization such as the EU, the principle of
+proportionality is codified and widely applied. In Taiwan, scholars and
+the Constitutional Court introduced the principle of proportionality in
+order to restrain the arbitrary use of government power during the
+process of democratization. The principle was then codified into the
+Administrative Procedure Act of 2000, becoming the foundational
+principle of administrative law. In the EU, however, the principle was
+derived from legal traditions of European states and then adopted by the
+law of the supranational organization. Despite the very different routes
+of legal transplantation, the principle is surprisingly similar in the law of
+the two jurisdictions. It is a legal tool to evaluate the costs and benefits
+of an administrative measure, and it is structured with the famous three-
+step test.
+
+     Yet if we take closer look at how the principle is interpreted,
+applied and adapted by courts, we arrive at a different understanding of
+the universality of the principle.
+
+     Through an analysis of the judgments of the European Court of
+Justice and the Administrative court of Taiwan in environmental cases,
+this article suggests that the principle is used differently according to the
+context and the nature of cases.
+
+     The first observation is a general one. In Taiwan, the principle is
+frequently used in incorrect or incomplete ways. The court sometimes
+152                                 《中研院法學期刊》第19期（2016年9月）
+
+
+mentions the principle without substantial application, sometimes
+confuses it with other legal doctrines, and sometimes misinterprets
+which interests should be evaluated. The short history of the principle’s
+legal transplantation in Taiwan may well indicate that these problems
+will eventually resolve when the legal community of Taiwan becomes
+more mature. However, the experience of the EU suggests that even in a
+jurisdiction with a solid tradition of using the principle, the principle is
+strategically applied. The ECJ generally adheres to the original meaning
+and provides more thorough reasons when it applies the principle.
+However, the court strategically uses the principle to highlight the goal
+of integration and to endorse measures taken by EU institutions.
+
+      The second observation considers the differences inherent in
+environmental cases. Due to features of uncertainty, multiple but
+conflicting values, and the need for a future-oriented perspective,
+environmental law has becomes a distinctive research field of
+administrative law. The distinctiveness of environmental cases also
+challenges the claim of universality of the proportionality principle. In
+both Taiwan and the EU, courts do not consistently maintain the same
+standard of scrutiny when reviewing environmental cases. Taiwanese
+courts seem to be arbitrary, shifting between different standards of
+scrutiny without a convincing basis for the shifts. The ECJ
+asymmetrically favors the step of necessity among the three-step test,
+which also results in an inconsistent standard of review.
+
+      Furthermore, this article argues that the principle’s content and
+formula are adopted contextually in both jurisdictions, but in somewhat
+different ways. In Taiwan, the salience of Environmental Impact
+Assessment cases and their unique form push the court to include
+multiple interests when evaluating the proportionality of an EIA decision.
+An Unprincipled Principle?                                                       153
+
+
+The court also closely examines the decision-making process applied in
+EIA and requires each element to be considered proportionally. In the
+EU, where environmental protection is highly valued, the codification of
+the principle of precaution “greens” the application of the proportionality
+principle. In addition, the gradual emphasis on procedural justice has
+also led to the development of procedural proportionality.
+
+     The principle of proportionality, though widely claimed to be an
+objective way to protect human rights, is as varied in its application as it
+is widespread. The way the proportionality principle is applied by courts
+covers a spectrum ranging from a very deferential approach to a quite
+rigorous and thorough examination of the justification for a measure that
+                         89
+has been challenged.          The paths of legal transplantation and specific
+social contexts lead to different strategies applied by the courts to
+interpret the principle of proportionality. The distinctive nature of
+environmental issues further exaggerates the arbitrariness. The
+application of the proportionality principle is now largely determined by
+the value and ideology of the court that applies it. Without proper
+monitoring and balancing, the proportionality principle could become a
+convenient excuse for courts to pursue their own agendas. In such
+situation, a supposedly objective legal principle can come to justify a
+breach of democratic accountability. It is worth noting that the
+development of climate change has increased the uncertainty of
+environmental issues to a high degree. Whether the court can deal with
+increasing environmental uncertainty while maintaining its legitimacy in
+applying the principle of proportionality is an issue we need to examine
+closely.
+
+
+89 G. de Búrca, The Principle of Proportionality and Its Application in EC Law, 13(1)
+   YEARBOOK EUR. L. 105, 111 (1993).
+154                                 《中研院法學期刊》第19期（2016年9月）
+
+
+
+
+                              Reference
+
+Alexy, Robert. 2010 (2002). A Theory of Constitutional Rights,
+      translated by Julian Rivers. Oxford: Oxford University Press.
+Chang, Wen-Chen. 2015. Courts and Judicial Reform in Taiwan:
+      Gradual     Transformations      Towards         the    Guardian    of
+      Constitutionalism and Rule of Law. Pp. 143-182 in Asian Courts in
+      Context, edited by Jiunn-Rong Yeh and Wen-Chen Chang.
+      Cambridge: Cambridge University Press.
+Chang, Wen-Chen, and Jiunn-Rong Yeh. 2008. The Use of Foreign
+      Precedents by the Constitutional Court in Taiwan. Paper presented
+      at The Conference on the Use of Foreign Precedents by
+      Constitutional Judges, Interest Group of International Association
+      of Constitutional Law. Nov. 14-15, 2008, London.
+Cohen-Eliya, Moshe, and Iddo Porat. 2011. Proportionality and the
+      Culture of Justification. American Journal of Comparative Law
+      59:463-490.
+Cohn, Margit. 2010. Legal Transplant Chronicles: The Evolution of
+      Unreasonableness     and      Proportionality      Review    of    the
+      Administration in the United Kingdom. American Journal of
+      Comparative Law 58:583-629.
+Craig, Paul. 1999. Unreasonableness and Proportionality in UK Law. Pp.
+      85-106 in The Principle of Proportionality in the Laws of Europe,
+      edited by Evelyn Ellis. Oxford: Hart Publishing.
+─. 2006. EU Administrative Law. Oxford: Oxford University Press.
+de Búrca, G. 1993. The Principle of Proportionality and Its Application
+      in EC Law. Yearbook of European Law 13(1):105-150.
+Duncan,     Robert    B.   1972.     Characteristics     of   Organizational
+An Unprincipled Principle?                                          155
+
+
+     Environments        and   Perceived   Environmental    Uncertainty.
+     Administrative Science Quarterly 17(3):313-327.
+Ginsburg, Tom. 2008. Constitutional Courts in East Asia: Understanding
+     Variation. Journal of Comparative Law 3:80-99.
+Harbo, Tor-Inge. 2010. The Function of the Proportionality Principle in
+     EU Law. European Law Journal 16:158-185.
+Hwang, Jau-Yuan. 2004. Judicial Standards of Review for Restrictions
+     on Constitutional Rights: Comparative Analysis of the U.S.
+     Categorized Multiple Tests Approach. National Taiwan University
+     Law Journal 33(3):45-148.（黃昭元（2004），憲法權利限制的
+     司法審查標準：美國類型化多元標準模式的比較分析，臺大法
+     學論叢，33卷3期，頁45-148。）
+─. 2013. Development of Standards of Review by the
+     Constitutional Court from 1996 to 2011: Reception and
+     Localization of the Proportionality Principle. National Taiwan
+     University Law Journal 42(2):215-258.（黃昭元（2013），法官
+     解釋審查標準之發展（1996-2011）：比例原則的繼受與在地
+     化，臺大法學論叢，42卷2期，頁215-258。）
+Iverson, Terrence, and Charles Perrings. 2012. Precaution and
+     Proportionality in the Management of Global Environmental
+     Change. Global Environmental Change 22:161-177.
+Jackson, Vicki C. 2015. Constitutional Law in an Age of Proportionality.
+     Yale Law Journal 124:3094-3196.
+Kingsbury, Benedict. 2009. The Concept of ‘Law’ in Global Administrative
+     Law. European Journal of International Law 20:23-57.
+Kingsbury, Benedict, Nico Krisch, and Richard B. Stewart. 2005. The
+     Emergence of Global Administrative Law. Law and Contemporary
+     Problems 68:15-62.
+Kuo, Ming-Sung. 2012. From Administrative Law to Administrative
+156                                《中研院法學期刊》第19期（2016年9月）
+
+
+
+      Legitimation?. International and Comparative Law Quarterly
+      61:855-879.
+Ladeur, Karl Heinz, ed. 2002. The Europeanisation of Administrative
+      Law:   Transforming    National      Decision-Making   Procedures.
+      Aldershot: Ashgate Publishing Ltd.
+Lee, Chien-Liang. 2011. Environmental Impact Assessment Review and
+      the Principle of Proportionality: The Meaning and Concerns of the
+      Supreme Administrative Court 100 Pan No. 1022 Judgment.
+      Taiwan Law Journal 185:101-115.（李建良（2011），環境法實
+      務專題講座（四）
+             ：環評審查與比例原則—最高行政法院100
+      年度判字第1022號判決的意義與隱憂，台灣法學雜誌，185
+      期，頁101-115。）
+McNelis, Natalie. 2000. EU Communication on the Precautionary
+      Principle. Journal of International Economic Law 3:545-551.
+Poole, Thomas. 2010. Proportionality in Perspective. Working Paper.
+      London School of Economics and Political Science. Available at
+      http://www.lse.ac.uk/collections/law/wps/WPS2010-16_Poole.pdf.
+Prechal, Sacha. 2008. Free Movement and Procedural Requirements:
+      Proportionality Reconsidered. Legal Issues of Economic Integration
+      35(3):201-216.
+Rivers, Julian. 2006. Proportionality and Variable Intensity of Review.
+      Cambridge Law Journal 65:174-207.
+Stone-Sweet, Alec, and Jud Mathews. 2009. Proportionality, Judicial Review
+      and Global Constitutionalism. Pp. 173-214 in Reasonableness and
+      Law, edited by Giorgio Bongiovanni, Giovanni Sartor, and Chiara
+      Valentini. New York, NY: Springer Science & Business Media.
+Stuntz, William. 1997. The Uneasy Relationship between Criminal
+      Procedure and Criminal Justice. Yale Law Journal 107:1-76.
+Sullivan, E. Thomas, and Richard S. Frase. 2009. Proportionality
+An Unprincipled Principle?                                        157
+
+
+     Principles in American Law: Controlling Excessive Government
+     Actions. New York, NY: Oxford University Press.
+Sunstein, Cass R. 2010. Precautions Against What? Perceptions,
+     Heuristics and Culture. Pp. 492-517 in The Reality of Precaution:
+     Comparing Risk Regulation in the United States and Europe, edited
+     by Jonathan B. Wiener, Michael D. Rogers, James K. Hammitt, and
+     Peter H. Sand. Oxford: Routledge.
+Tsai, Tzung-Jen. 1999. Preliminary Research on the Principle of
+     Proportionality of Public Law—Focus on German Law, National
+     Chengchi University Law Review 62:75-103.（蔡宗珍（1999）
+                                                       ，
+     公法上之比例原則初論—以德國法的發展為中心，政大法學
+     評論，62期，頁75-103。）
+Thomas, Robert. 2000. Legitimate Expectations and Proportionality in
+     Administrative Law. Oxford: Hart Publishing.
+Tribe, Laurence. 1974. Ways Not to Think about Plastic Tree: New
+     Foundations for Environmental Law. Yale Law Journal 83:1315-
+     1348.
+Tridmas, Takis. 1999. Proportionality in the European Community Law:
+     Searching for the Appropriate Standard of Scrutiny. Pp. 65-84 in
+     The Principle of Proportionality in the Laws of Europe, edited by
+     Evelyn Ellis. Oxford: Hart Publishing.
+Veines, Hannes. 2004. Determination of the Level of Environmental
+     Protection and the Proportionality of Environmental Measures in
+     Community Law. Juridica International IX:89-98.
+Yeh, Jiunn-Rong. 2002. Constitutional Reform and Democratization in
+     Taiwan: 1945-2000. Pp. 47-77 in Taiwan’s Modernization in Global
+     Perspective, edited by Peter Chow. Westport, CT: Greenwood
+     Publishing Group.
+158              《中研院法學期刊》第19期（2016年9月）
+
+
+
+
+         差別適用的普世原則？
+      — 比例原則在歐盟與臺灣環境案件的比較研究
+
+               林春元＊
+
+
+               摘 要
+  比例原則已經成為許多國家檢視行政行為合法性的重要判斷原
+則。然而，被認為是客觀、普世的比例原則，是否因為不同社會脈
+絡與法律架構、不同案件類型而調整其解釋與適用？
+
+  本文檢視臺灣行政法院與歐洲法院關於環境爭議的判決，嘗試
+分析臺灣與歐盟不同發展脈絡與環境案件之特殊性對比例原則客觀
+性之衝擊。
+
+  本文發現，比例原則會因為社會脈絡與案件性質而調整適用。
+從社會脈絡而言，臺灣尚淺的繼受傳統導致法院經常誤解或誤用比
+例原則；歐洲法院策略性適用以促成歐洲整合。從環境案件性質而
+言，臺灣法院因不確定性而有寬狹不一的標準並納入對多元價值的
+權衡；歐洲法院強調必要性、與預警原則妥協且發展出程序性比例
+原則。
+
+關鍵詞：比例原則、環境議題、不確定性、區域整合、民主化、預
+    警原則。
+
+
+
+
+＊ 中原大學法學院財經法律學系助理教授。
+

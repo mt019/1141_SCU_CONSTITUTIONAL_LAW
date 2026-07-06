@@ -1,0 +1,3291 @@
+《2015 行政管制與行政爭訟》 李建良主編
+身心障礙行不行                                                  239
+臺北 中央研究院法律學研究所 專書 (22)
+民國 107 年 12 月，頁 239-326
+
+
+
+
+              食品標示規範之檢討＊
+                — 以美國法之發展為例
+
+                  吳全峰＊＊、林勤富＊＊＊
+
+
+                         摘 要
+    食品標示（labeling）制度之建立，係為保護消費者與同類商
+品競爭者之經濟上期待利益而設，故該制度在食品安全規範下有其
+重要性；但食品標示管制亦有其複雜性，尤其相關法令之競合、不
+同權利之衝突，更使法院在相關爭議之判斷上出現落差。為充分了
+解食品標示之法律規範基礎，本文以美國法為例，除簡述美國食品
+標示規範之內容外，亦深入探討不同法規範─食品、藥物與化妝
+品 管 理 法 （ Food, Drug, and Cosmetics Act, FDCA ）、 商 標 法
+（Lanham Act）
+           、消費者保護法─在食品標示架構下之衝突與調和
+（尤其是在POM Wonderful LLC. v. Coca–Cola乙案後之發展）      ，以及
+憲法權利（言論自由）之保障與界限，並以此重新反思我國之食品
+標示規範。
+
+關鍵詞：食品標示、POM Wonderful LLC. v. Coca–Cola、食品藥物
+    化妝品管理法、商標法、言論自由。
+
+
+
+
+＊   投稿日：2017年10月24日；接受刊登日：2018年8月24日。［責任校對：鄭雅
+    文］
+     。
+＊＊ 中央研究院法律學研究所副研究員。
+＊＊＊ 國立清華大學科技法律研究所副教授。
+    穩定網址：http://publication.iias.sinica.edu.tw/22016181.pdf。
+240                                          2015 行政管制與行政爭訟
+
+
+
+                             目 次
+
+    壹、美國食品標示規範                        Coca–Cola Company案之
+     一、定義之擴張                          影響
+     二、不當標示（Misbranded）             五、消費者保護法在食品標示
+       之禁止                            案件應用之可能性？
+     三、食品標準之內涵建立                   參、美國食品標示規範與言論自
+    貳、美國食品標示規範與其他法                   由之保障
+      規範之競合                         一、言論自由之影響
+     一、聯邦法效力優先原則在食                  二、食品標示意義之擴張
+       品標示案件之應用                    肆、美國食品標示規範對臺灣現
+     二、聯邦法效力優先原則在食                   行規範制度之啟發
+       品標示案件應用之檢討                   一、食品標示意義之重新檢視
+     三、Lanham Act與食品標示規             二、商業性言論自由之保障
+       範之關聯性                        三、商業性言論自由之過度限制
+     四、POM Wonderful LLC. v.       伍、結論
+
+
+
+
+      食品標示（labeling）制度之建立，係為保護消費者與同類商
+品競爭者之經濟上期待利益而設，故該制度著重在規範食品業者以
+適當、誠實之方式描述其產品，並藉由相關資訊之提供滿足民眾知
+的權利，並協助民眾在購買食品時能做出適當判斷1。然而，食品
+標示規範雖有其重要性，但所涉及之面向卻十分複雜，往往不限於
+食品管制事務本身，更可能與其他法律或民眾權利產生交集，使得
+實務管制內涵上出現不同之挑戰與困境；以美國法為例，食品標示
+規範便可能涉及不同主管機關管制權限、法規競合（如商標法）、
+憲法權利保障（如言論自由）、個人權利主張（如侵權損還賠償請
+
+1   MARC C. SANCHEZ, FOOD LAW AND REGULATION FOR NON-LAWYERS: A US
+    PERSPECTIVE 101 (2015).
+食品標示規範之檢討                                                                     241
+
+
+求權）等。而食品標示複雜之本質，若未能配合完善之制度設計，
+便可能引起疊床架屋、權責不清之批評，甚至影響民眾對食品標示
+之 信 心 。 舉 例 而 言 ， 當 美 國 已 將 一 般 理 性 民 眾 （ reasonable
+audience）觀點作為判斷食品標示是否虛偽不實或引人錯誤之依據
+時，並以不同案例發展完整之不當食品標示判斷標準（見本文
+「壹、二」之說明）
+        ，臺灣卻多仍以主管機關之檢驗方法作為判斷不
+當食品標示之依據2，便引起批評。
+
+     進一步，在食品標示管制之實務上，亦不可否認可能摻雜不同
+政策目的，如我國健康食品管理法之標示要求，便包含維護國民健
+康之目的（參見健康食品管理法第13條，將「攝取量、食用時應注
+意事項、可能造成健康傷害以及其他必要之警語」列為應標示內
+容 ）； 甚 至 有 些 自 願 標 示 之 目 的 係 在 滿 足 特 殊 消 費 族 群 （ 如
+Kosher、有機食品）、消費習慣（如公平交易）、或價值取向（如環
+境友善）之附加價值3。惟，政府管制食品標示之核心目標，基本
+上仍在建立並維持食品重要資訊能藉由標示正確而完整地傳達予消
+費者 4 。如美國曾拒絕建立基因改造食品（Genetically Modified
+Organisms, GMO）強制標示之原因（暫不論合理與否），便是其政
+府 認 為 食 品 是 否 屬 基 因 改 造 ， 並 非 重 要 資 訊 （ material
+information），而標示與否亦不會使消費者對該產品有不正確之認
+識 5 （但美國國會於2016年所通過之National Bioengineered Food
+
+
+2 林昱梅，論食品標示不實之判斷─以德國法及我國法為中心，月旦法學雜
+  誌，236期，頁92（2015年）             。
+3 Timothy D. Lytton, Competitive Third-Party Regulation: How Private Certification
+  Can Overcome Constraints That Frustrate Government Regulation, 15 THEORETICAL
+  INQUIRIES L. 539, 540 (2014).
+4 Lars Noah, The Imperative to Warn: Disentangling the “Right to Know” from the
+  “Need to Know” about Consumer Product Hazards, 11 YALE J. ON REG. 293, 341-43
+  (1994). See also Frederick H. Degnan, The Food Label and the Right-to-Know, 52
+  FOOD & DRUG L.J. 49, 49 (1997).
+5 Neil D. Hamilton, Forced Feeding: New Legal Issues in the Biotechnology Policy
+  Debate, 17 WASH. U. J.L. & POL’Y 37, 40-46 (2005).
+242                                                       2015 行政管制與行政爭訟
+
+
+
+Disclosure Standard已改變此狀況6，但原因亦係因認為GMO屬重要
+資訊之民眾比例上升7）
+          ；甚至有學者認為，不適當地將消費者對安
+全與風險之主觀感知納入食品標示規範中，將可能減損食品標示更
+重要之功能（傳遞正確客觀之重要資訊）8。因此，相較於食品安
+全（food safety）本身，食品標示制度更重視如何避免業者不當標
+示（misbrand）之詐欺（fraud）行為，食品安全僅為食品標示規範
+之間接政策效果9。
+
+      立基於食品標示之核心政策目的，本文就食品標示規範之分析
+重心，將著重於如何在主管機關規範範圍內，確保食品業者之標示
+內容可完整且正確地傳達真實食品資訊，並以美國食品標示規範為
+借鑑，討論食品標示規範可能面臨之法律層面挑戰。惟限於篇幅，
+本文並未處理科技進步（如基因改造食品）所造成食品標示管制之
+衝擊與因應；尤其美國對食品標示所作之細緻類型化規範、法院針
+對不同議題所進行之論理分析，均有值得借鑑之處。而藉由檢視美
+國食品標示規範，將可反饋思考臺灣食品安全管理體系之可能問題
+與挑戰，並作為我國未來架構更完整食品標示規範之參考。另須說
+明 者 為 ， 除 保 障 消 費 者 對 正 確 食 品 資 訊 之 知 的 權 利 （ right to
+know），本文論述中亦可能旁及食品標示規範中可能之其他附加目
+的（如維持公平交易與市場秩序），但僅是舉例說明食品標示規範
+之可能侷限。
+
+
+
+
+6 Emily Shanks, The National Bioengineered Food Disclosure Standard: Texas and the
+  Genetically Modified Organism Food Fight, 49 TEX. TECH L. REV. 987, 993 (2017).
+7 Id. at 992-93. See also Julie M. Muller, Naturally Misleading: FDA’s Unwillingness to
+  Define “Natural” and the Quest for GMO Transparency through State Mandatory
+  Labeling Initiatives, 48 SUFFOLK U. L. REV. 511, 516-17 (2015); John Bovay & Julian
+  M. Alston, GMO Food Labels in the United States: Economic Implications of the New
+  Law, 78 FOOD POL’Y 14, 14-25.
+8 Noah, supra note 4, at 384.
+9 SANCHEZ, supra note 1, at 101.
+食品標示規範之檢討                                                                        243
+
+
+壹、美國食品標示規範
+
+     美國食品標示規範之發展，從著重在消費者知的需要（need to
+know）並消極地避免消費者受食品標示誤導及因此受有經濟損
+害，逐漸發展至積極要求食品業者提供資訊以保障消費者主動知的
+權利10，甚至將食品安全與消費者健康納入考量11，發展過程不僅
+經歷管制典範之調整，更重要的是技術性管制實務操作之充實。尤
+其 在 市 場 秩 序 之 維 護 上 與 聯 邦 貿 易 委 員 會 （ Federal Trade
+Commission ， 簡 稱 FTC ） 之 呈 現 衝 突 與 競 合 、 在 言 論 自 由
+（freedom of speech）上面對美國憲法第一增修條文之挑戰，均使得
+美國食品標示規範原則與內容不斷地進行調整，並呈現多元發展之
+趨勢，但相對而言，亦造成過度繁複之管制規範。爰此，本章將先
+就FDA之食品標示之規範，包括定義、不當標示、認定標準等議
+題，進行簡單介紹，並以此作為後續分析基礎，以充分理解FDCA
+在食品標示規範面對之法律挑戰，及如何調整以達成憲法權利、不
+同法規範利益之平衡（詳見本文「貳」
+                ）。
+
+一、定義之擴張
+     在美國食品管制實務上，食品標示為食品安全事件中常受到關
+注之焦點12。而美國關於食品標示之法律規範主要包括：
+
+     食品、藥物與化妝品管理法（Food, Drug, and Cosmetics Act，
+簡稱FDCA），早於1937年甫制訂時便已定義食品標示之內涵，並
+明文規定不當標示為法律所禁止之行為（prohibited act）
+                                。
+
+
+
+10 Jennifer Zwagerman, Recognizing Challenges and Opportunities in the Quest to End
+   Hunger, 4 TEX. A&M L. REV. 315, 321 (2017). See also Noah, supra note 4, at 342-43.
+11 Noah, supra note 4, at 328.
+12 See generally NEAL D. FORTIN, FOOD REGULATION: LAW, SCIENCE, POLICY, AND
+   PRACTICE 49-148 (2009).
+244                                                     2015 行政管制與行政爭訟
+
+
+
+（1） 包裝與標示管理法（Fair Packaging and Labeling Act，簡稱
+       FPLA），除規範所有食品13 均須揭露品名、內容物規格、包
+       裝製造與銷售之廠商名稱，並明文規範不當標示之非法
+       性14。
+（2） 營養標示與教育法（Nutrition Labeling and Education Act，簡
+       稱NLEA），修訂原FDCA之內容15，除（A）確保民眾可以近
+       用（access）並取得與食品相關之資訊，且資訊為真實、可
+       靠、非誤導且具科學實證依據外；並進一步（B）確認食品藥
+       物管理局（Food and Drug Administration，簡稱FDA）在食品
+       標示管制上之職權（authority）範圍，包括有權力定義與食品
+       相關之描述、宣示與標準16 ，要求食品公司提供符合規定之
+       食品標示內容並得加以檢視17 ，有權要求特定食品標示營養
+       資訊（nutrition labeling）
+                            ，或得自訂管制標準以規範食品業者
+       在標示中所為之特定表示/宣稱（claims）18等；最後（C）創
+       造全國一致性之食品標示標準，並禁止各州採取與聯邦規範
+       相衝突或不一致之食品標示要求19。
+（3） FDA 現 代 化 法 （ FDA Modernization Act ， 以 下 簡 稱
+       FDAMA），該法案進一步放寬食品標示之健康宣稱（health
+       claims），廠商得以經具權威性之機構確認食品所宣稱營養成
+       分與疾病之關係後，逕行使用此宣稱20。
+
+
+13 此法另亦同時規範藥物、醫療器材、化妝品與其他零售消費品（consumer
+   commodities）等之標示內容。
+14 15 U.S.C. § 1452.
+15 Sylvia Zarski, Can You Judge Your Food by Looking at Its Cover? How Courts’
+   Application of Federal Preemption Allows Misleading Food Labeling to Slip Through
+   the Regulatory Cracks, 64 DEPAUL L. REV. 1119, 1121 (2015).
+16 NLEA § 3, sec. 403(b)(1)(A)(iii), NLEA § 7, sec. 403(i).
+17 NLEA § 2, sec. 403(q)(1), NLEA § 3, sec. 403(r)(3)(B)(ii).
+18 SANCHEZ, supra note 1, at 101.
+19 NLEA § 6, sec. 403A.
+20 Sec. 303(C) FDAMA.
+食品標示規範之檢討                                                                                245
+
+
+      在進一步論述美國食品標示規範前，須先說明者為，「標籤
+（label）」與「標示（labeling）」在FDCA中之定義並不相同且有細
+緻之區分。就「標籤」而言，FDCA第201(k)條將其定義為「任何
+商品之直接容器（immediate container）上之標籤與其他書面、印刷
+或圖形內容」21，而「標示」之定義涵蓋範圍則更廣，依FDCA第
+201(m)條規定係指「所有標籤與書寫、印刷或圖像式標示，係
+（1）附著於產品或其容器、包裝，或（2）伴隨該產品」22。
+
+      FDCA將標籤與標示在定義上做出區隔，並將後者之定義大幅
+擴張以涵蓋幾乎所有與產品有關之描述型態與類型23，與FDCA之
+立法意旨與架構有密切之關聯性。就FDCA於1906年與1938年之立
+法架構而言，其政策目的有二：避免民眾之實體損失（physical
+                        ，而違規產品（adulteration）24
+harm）與經濟損失（economic harm）
+之規範主要係在保障民眾之實體利益，食品標示之規範則在維護民
+眾之經濟利益25。就後者而言，因民眾並無法判斷標籤或標示之資
+訊是否正確真實，故FDCA在制度設計上便嘗試廣泛地擴張標示之
+定義，使FDA（有時也包括法院）能有較大之介入空間以保障民眾
+
+
+21 Sec. 201(k) of Food, Drug, and Cosmetics Act [hereinafter FDCA], “[f]or the
+   purposes of this Act… (k) The term ‘label’ means all labels and other written, printed,
+   or graphic matter upon the immediate container of any article; and a requirement
+   made by or under authority of this Act that any word, statement, or other information
+   appear on the label shall not be considered to be complied with unless such word,
+   statement, or other information also appears on the outside container or wrapper, if
+   any there be, of the retail package of such article, or is easily legible through the
+   outside container or wrapper.”
+22 Sec. 201(m) of FDC, “[f]or the purposes of this Act… (m) The term ‘labeling’ means
+   all labels and other written, printed, or graphic matter (1) upon any article or any of it
+   containers or wrappers, or (2) accompanying such article.”
+23 Sara A. Kornblet, Fat America: The Need for Regulation under the Food, Drug, and
+   Cosmetic Act, 49 ST. LOUIS U. L.J. 209, 231 (2004).
+24 「Adulteration/adulterated」於國內常見之翻譯為「攙偽假冒」                             ，但因其內涵在
+   FDCA中不單指攙偽或假冒，亦包含產品受到污染及其他不符合產品（藥品、
+   醫療器材或食品）安全相關法規之情形，故本文將其翻譯為「違規產品」                                                  。
+25 SANCHEZ, supra note 1, at 102-03.
+246                                                      2015 行政管制與行政爭訟
+
+
+
+之權利26。蓋FDCA第201(k)條對「標籤」之廣泛定義雖已足使大部
+分對食品之描述均可能落入FDCA之規範，同法第201(m)(2)條所謂
+「伴隨產品（accompanying such article）之資訊均可被視為標示」之
+概念，更賦予FDA足夠之彈性得在FDCA規範下擴張對食品標示管
+制之內涵，而不僅限於直接附著於食品產品之標籤27。換言之，在
+FDCA之規範體系下，對產品之描述是否構成「標示」，並非取決
+於其呈現之樣態（form），而是在於該描述是否與產品本身具有伴
+隨（accompany）之關聯性，而其判斷標準便包括與產品間是否具
+整 體 性 （ integration ）、 關 聯 性 （ relationship ）、 解 釋 性
+（explanation）或補充性（supplements）之關係28。
+
+      由於FDCA賦予標示較為寬鬆之概括性定義，實務操作上絕大
+多數併同食品產品銷售之相關資訊，均得解釋為標示的一部分；而
+法院在操作FDCA對標示之定義時，亦鮮少挑戰立法者對標示有意
+為之之寬鬆定義29，因基於對公共利益之保障，法院並不希望對食
+品標示之過度嚴格解釋，導致廠商得以利用法律解釋空隙傳遞錯誤
+或不實訊息 30 。舉例而言，在Kordel v. United States一案中 31 ，
+Kordel主張其銷售產品屬健康食品，其主要成分為維他命、礦物質
+與植物草藥，而其於銷售時所提供之簡介手冊與文獻資料，僅供消
+費者參考。FDA在該案中認定簡介手冊與文獻資料仍屬FDCA定義
+下之產品標示，而依其使用目的（intended use）將Kordel之產品視
+為FDCA下之藥品。美國聯邦最高法院於此案中，對FDCA標示一
+詞採擴張解釋，並指出所謂「附隨於商品」並不代表「必須在產品
+
+
+
+26 Id. at 103, 106.
+27 Id. at 106.
+28 Id. at 110.
+29 Id. at 106.
+30 States v. 250 Jars “Cal’s Tupelo Blossom U.S. Fancy Pure Honey”, 344 F.2d 288, 289
+   (1965).
+31 See Kordel v. United States, 335 U.S. 345 (1948).
+食品標示規範之檢討                                                                                247
+
+
+包裝或容器內」；因此，系爭簡介手冊與文獻資料，既與產品本身
+均為同一業者提供，並由同一消費者取得，消費者亦無從於產品其
+他 部 分 獲 知 相 關 資 訊 ， 便 即 構 成 整 體 銷 售 組 成 （ integrated
+distribution scheme）之一部分，屬於FDCA標示之定義範圍。States
+v. 250 Jars “Cal’s Tupelo Blossom U.S. Fancy Pure Honey”乙案中，美
+國聯邦地區法院（district court）亦將與產品分開獨立放置（置於店
+面櫥櫃）之手冊視為食品標示32，因該手冊中有廠商對於該產品相
+關之描述；聯邦第二巡迴上訴法院在U.S. v. 24 Bottles “Sterling
+Vinegar Honey”乙案中甚至以該手冊擺放方式是否與產品銷售產生
+關聯性（joint promotion）作為判斷標準 33 。此外，最高法院於
+United States v. Urbuteit一案中指出，與系爭醫療器材分別寄出的手
+冊，因具足夠關聯性（interrelated enough）
+                             ，亦落入FDCA定義之標
+示範圍，不因其物理上分開寄送而無標示相關規範之適用34。依據
+前述判決，FDCA第201(m)條所定義之標示範圍可大幅擴張並涵括
+單張（leaflet）、說明書、影像、錄影、聲音、網站、社群軟體、元
+資料（metadata）等35 ；FDA亦依據相關判決之意涵，進一步做成
+函釋，說明網路頁面與產品相關之訊息亦可能符合FDCA第201(m)
+條定義之標示36。
+
+      惟當資訊提供與產品銷售不具整體性（integrated）時，法院則
+傾向不將該資訊之提供解釋為標示37。舉例而言，在Wilson v. Frito-
+Lay N. Am., Inc.乙案中，食品廠商在其產品標籤上標示該公司之網
+
+
+32 250 Jars “Cal’s Tupelo Blossom U.S. Fancy Pure Honey”, 344 F.2d at 288-89.
+33 U.S. v. 24 Bottles “Sterling Vinegar Honey”, 338 F.2d 157, 158-59 (2d Cir. 1964).
+34 See United States v. Urbuteit, 335 U.S. 355 (1948). “The problem is a practical one of
+   consumer protection not dialectics. The fact that the literature leaves in a separate mail
+   does not save the article from being misbranded.” 335 U.S. at 358.
+35 SANCHEZ, supra note 1, at 110.
+36 Margaret M. Dotzel, FDA Letter on Labeling Food Products Presented Or Available
+   on the Internet (2001) (cited FORTIN, supra note 12, at 35).
+37 See, e.g., 24 Bottles “Sterling Vinegar Honey”, 338 F.2d 157.
+248                                                      2015 行政管制與行政爭訟
+
+
+
+站，但網站之內容是否便必然該當FDCA所稱之食品標示，法院卻
+持不同見解。在本案中，地區法院認為標籤上之文字並未有「詳細
+內容請參考網站」等導引消費者閱覽之文字，或暗示該網站內容係
+為產品之解釋性或補充性說明，且該網站之實質內容多屬一般性之
+公司概況描述，並未涉及特定產品，故該網站內容非屬產品標示而
+不受FDCA有關不當標示之規範38。
+
+      但在特定案件事實下，這些資訊提供仍可能構成廣告
+            ，而由聯邦貿易委員會管轄39。而由此規範差異，亦可
+（advertising）
+進一步發現，在聯邦法規體系下，食品標示與食品廣告之內涵，因
+兩者規範之目的及所欲產生之法律效果並非完全一致40，在定義上
+亦被細緻地加以區隔。簡言之，雖然食品廣告某種程度可被視為食
+品標示之延伸（extension of labeling），而仍可在FDCA之標示規範
+下受到管制41；但在國會架構FDCA對食品之管制體系時，仍十分
+清楚地區隔食品標示係由FDA管轄以確保民眾免受不當標示之經濟
+損 失 ， 食 品 廣 告 係 由 FTC 管 轄 以 避 免 不 當 競 爭 （ unfair
+competition）42。
+
+      惟如此區隔仍無法避免食品標示與食品廣告之管制上出現重疊
+或權責不清之困境43，並導致消費者保護不足44。舉例而言，雖然
+
+
+38 Wilson v. Frito-Lay N. Am., Inc., 2013 U.S. Dist. LEXIS 47216, at 4-5, 18-19 (N.D.
+   Cal. Apr. 1, 2013).
+39 15 U.S.C. § 52658 (Wheeler-Lea Amendment of 1938), Sec. 5. See also Kordel v.
+   United States, 335 U.S. 345 (1948).
+40 SANCHEZ, supra note 1, at 108.
+41 Claudia L. Andre, What’s in That Guacamole? How Bates and the Power of
+   Preemption Will Affect Litigation Against the Food Industry, 15 GEO. MASON L. REV.
+   227, 227-28 (2007).
+42 S. REP. NO. 75-91, at 3 (1938). See also 15 U.S.C. §§ 44-77 (1988).
+43 Peter E. Masaitis & Evan W. Woolley, Enforcement of FDA Qualified Health Claims:
+   Who’s on the Case?, INSIDE COUNSEL (Jan. 9, 2015), http://web3.insidecounsel.com/
+   2015/01/09/enforcement-of-fda-qualified-health-claims-whos-on. 但須說明者為，
+   FDA與FTC就食品標示與食品廣告之管制權限衝突與調和，所涉議題十分複
+食品標示規範之檢討                                                                         249
+
+
+FTC在食品廣告是否違法之判斷上，會盡量將FDA對食品標示之要
+求納入考量45，但兩者之判斷仍可能出現歧異46，如依FDA規定食
+品 健 康 宣 稱 （ health claims ） 基 本 上 應 需 具 「 科 學 顯 著 認 定
+（significant scientific agreement，由合格專家認定具科學一致性即
+可，詳本文「壹、三」
+         ），但在該健康宣稱得否作為食品廣告內容之
+認定上，FTC卻可能在不同個案採取較FDA寬鬆47（“competent and
+reliable scientific evidence standard”）48或嚴格（不能僅依科學認定
+作為判斷標準，甚至要求臨床試驗依據）49之標準（詳本文「貳、
+三」）。另如，某些食品標示在FDCA規範下並無法被認定有違法情
+事，但可能涉及商標法（Lanham Act）之不當廣告，惟法院若認為
+食品標示係專屬於FDA之權限而排除Lanham Act之適用（如美國聯
+邦地區法院及巡迴上訴法院在POM Wonderful LLC v. Coca–Cola
+Company乙案之見解（以下簡稱POM Wonderful案）50 ，詳見本文
+「貳、三」），則消費者將無法受到適當保障；抑或雖適用Lanham
+
+
+   雜，亦非本文所欲處理之主要議題，故本文僅能簡單說明兩機關在食品標示與
+   食品廣告管制上出現重疊或權責不清時，所可能產生之困境，但並無法於本文
+   進行更為詳盡之分析。
+44 Andrea M. Pezzullo, The Crusade Against Misleading Labels: Are Manufacturers the
+   Protectors of Consumer Interests?, 49 SUFFOLK U. L. REV. 323, 339-40 (2016).
+45 JAMES T. O’REILLY & KATHERINE A. VAN TASSEL, FOOD AND DRUG ADMINISTRATION
+   § 24:2 (4th ed. 2017).
+46 如在U.S. v. Lane Labs-USA, Inc.乙案中，被告便以其已與FTC達成協議命令
+  （consent order），故應無違反FDCA之虞作為抗辯，但並不為法院所接受。See
+   U.S. v. Lane Labs-USA, Inc., 324 F. Supp. 2d 547 (D.N.J. 2004). See also Douglas W.
+   Hyman, The Regulation of Health Claims in Food Advertising: Have the FTC and the
+   FDA Finally Reached a Common Ground?, 51 FOOD & DRUG L.J. 191, 204-05
+   (1996).
+47 See also Hyman, supra note 46, at 204.
+48 See Enforcement Policy Statement on Food Advertising, FED. TRADE COMMISSION
+   (May 13, 1994), https://www.ftc.gov/public-statements/1994/05/enforcement-policy-
+   statement-food-advertising.
+49 PETER BARTON HUTT ET AL., FOOD AND DRUG LAW: CASES AND MATERIALS 458
+   (2014).
+50 Derek Sagehorn, POM Wonderful LLC v. Coca-Cola Co. 134 S. Ct. 2228 (2014), 19
+   INTELL. PROP. L. BULL. 119, 119 (2014).
+250                                                         2015 行政管制與行政爭訟
+
+
+
+Act，但消費者在Lanham Act架構下卻無提起訴訟之權能，而僅能
+透過市場競爭廠商所提出之不當廣告訴訟（false advertising claim）
+間接獲得保障51，惟此制度設計亦同樣不利於消費者權益保障（尤
+其廠商與消費者之利益並非一致，詳本文「貳、四」
+                      ）。
+
+      因此，各州在食品標示管制上，面對聯邦層級法律規範之不
+足，便嘗試在不違背聯邦法效力優先原則（preemption）52 之空間
+下，另立州法53將食品標示與食品廣告一併規範54（詳本文「貳、
+一」），以加強對消費者之保障；換言之，雖然NLEA已嘗試建立食
+品 標 示 之 全 國 一 致 性 標 準 55 並 納 入 聯 邦 法 效 力 優 先 條 款
+（preemption provision）56，但各州在不改變NLEA規範內容之前提
+
+
+51 POM Wonderful LLC v. Coca-Cola Co., 134 S. Ct. 2228, 2238 (2014).
+52 依據美國憲法第6條第2項規定（“…[t]his Constitution, and the laws of the United
+   States which shall be made in pursuance thereof; and all treaties made, or which shall
+   be made, under the authority of the United States, shall be the supreme law of the
+   land…”），各州法令如有牴觸或妨礙聯邦法令之情事，應即失其效力，此即聯
+   邦法效力優先原則（或有學者譯為先占理論）；而在此原則下，美國國會有權
+   依據聯邦憲法授權，明示決定特定領域之聯邦法律效力高於各州法律並具有優
+   先權（supersede state laws and preempt state authority），NLEA第6條（修正
+   FDCA第403A條）         ，規範各州就食品標示不得訂定與NLEA衝突或牴觸之法律規
+   範，即屬此例（詳本文「貳、一」）。史慶璞，美國憲法理論與實務，頁24-25
+  （2007年）     。See also KATHLEEN SULLIVAN & GERALD GUNTHER, CONSTITUTIONAL
+   LAW 314 (2001).
+53 See Am. Bar Ass’n, The Impact of the Nutrition Labeling and Education Act of 1990
+   on the Food Industry, 47 ADMIN. L. REV. 605, 607 (1995).
+54 Roseann B. Termini, The Prevention of Misbranded Food Labeling: The Nutrition
+   Labeling and Education Act of 1990 and Alternative Enforcement Mechanisms, 18
+   OHIO N.U. L. REV. 77, 104 (1991).
+55 NLEA立法前，各州對於食品標示之法規範要求並不一致，造成食品廠商之法
+   遵（compliance）成本增加，故食品廠商均希望TFDA能在聯邦法律層級上就食
+   品標示要求有所規範。Am. Bar Ass’n, supra note 53, at 607.
+56 NLEA第6條（修正FDCA第403A條）明定州政府或其行政機構均無權就食品標
+   示 作 出 與 FDCA 標 準 直 接 或 間 接 不 一 致 之 規 範 。 Sec. 6(a) of NLEA,
+   “Preemption…no State or political subdivision of a State may directly or indirectly
+   establish under any authority or continue in effect as to any food in interstate
+   commerce … any requirement for [a food or the labeling of the food that is not
+   identical to the requirement of the FDCA.]”
+食品標示規範之檢討                                                                            251
+
+
+下（受限於聯邦法效力優先原則，詳本文「貳、二」
+                      ），仍不斷嘗試
+透過州法強化對食品標示之管制內容57。如加州之食品、藥物與化
+妝品管理法（California’s Sherman Food Drug & Cosmetics Law，簡
+稱Sherman Law）中，便在納入NLEA食品標示規範要求外，另外
+賦予消費者得以食品廠商違反FDA 管制規範為由，透過Unfair
+Competition Law、Consumer Legal Remedies Act、False Advertising
+Law 等法律規範，提起訴訟之權利 58 ；雖然廠商曾主張Sherman
+Law相關規範違反NLEA聯邦法效力優先條款，但美國聯邦地區法
+院卻多持反對見解59（聯邦最高法院在此議題上則尚未明確表態，
+但在POM Wonderful案後，FDCA、NLEA與州法間就食品標示管制
+之互動，卻可能出現變化，詳本文「貳、四」
+                   ）。
+
+      簡言之，透過食品標示定義與內容之擴張，FDCA將保護消費
+者不受不當食品標示之範圍逐漸擴張，包括在標示之認定上將併同
+食品產品銷售之相關資訊，不限直接容器之標籤60，尚包括伴隨產
+品之資訊，甚至是與產品分離之單張 61 ，均認屬食品標示之一部
+分，從而使得廠商所公開之食品資訊內容，需受FDA管制（認定非
+屬虛偽不實或引人錯誤）之範圍擴張，同時亦能充分保障消費者知
+的權利62。另方面，就食品應標示內容之擴張，亦使得FDA得以進
+
+
+57 Nicole E. Negowetti, Food Labeling Litigation: Exposing Gaps in the FDA’s
+   Resources and Regulatory Authority, GOVERNANCE STUDIES AT BROOKINGS (June
+   2014), http://www.brookings.edu/~/media/research/files/papers/2014/06/26-food-labeling-
+   litigation/negowetti_food-labeling-litigation.pdf.
+58 Mark Mansour et al., Will Evaporated Cane Juice Be Sweet for Class Action Plaintiffs?,
+   JONES DAY (Nov. 2014), http://www.jonesday.com/files/Publication/08af70a0-8cfd-
+   49ae-862d-47a6096852fb/Presentation/PublicationAttachment/cdc965b9-0ec5-4789-
+   9697-54eaaf96f15b/Will%20Evaporated%20Cane%20Juice.pdf.
+59 See, e.g., Chacanaca v. Quaker Oats Co., 752 F. Supp. 2d 1111, 1121 (N.D. Cal. 2010);
+   Ivie v. Kraft Foods Global, Inc., No. C-12-02554-RMW, 2013 WL 685372, at 11
+   (N.D. Cal. Feb. 25, 2013).
+60 SANCHEZ, supra note 1, at 106.
+61 250 Jars “Cal’s Tupelo Blossom U.S. Fancy Pure Honey”, 344 F.2d at 288-89.
+62 United States v. Cal’s Tupelo Honey, 344 F.2d 288, 289 (6th Cir. 1965).
+252                                                           2015 行政管制與行政爭訟
+
+
+
+一步在食品標示既有政策目的（提供正確資訊）外，納入不同管制
+考量：如NLEA修正成分標示（ingredient label）要求並強制全面成
+分標示63，便將其政策目的從滿足消費者認識並避免（identify and
+avoid）特定成分，擴張至經濟秩序維護考量64（亦即避免食品業者
+創造錯誤印象，混淆產品含特定成分而為某俗稱產品（commonly-
+          ）65。
+known food）
+
+二、不當標示（Misbranded）之禁止
+      既然標示之主要政策功能在保障民眾之知的權利與經濟利益
+（如民眾無法獲得正確之資訊，將無法在經濟活動中做出正確判
+斷），則FDCA體系中食品標示之相關規範便可概略區分為兩類：
+禁止（prohibitive）規定與應標示（affirmative）規定。禁止規定旨
+在防止詐欺行為，特別是透過禁止虛偽不實（false）或引人錯誤
+（misleading）之商品陳述，來確保食品供應者公平競爭，避免因劣
+幣驅逐良幣效應而致市場失靈。另一方面，應標示規定則是積極要
+求業者必須於標示中揭露特定重要資訊，使消費者能在獲充分告知
+（informed）之前提下進行購買行為66。
+
+      FDCA禁止虛偽不實或引人錯誤的標示，違反者視為「不當標
+示」（misbranded） 67 ；但如同前述FDCA在標示定義上之規範彈
+性，不當標示之內涵義亦在保障消費者經濟利益之相同理由下被擴
+張，不僅限於提供不實或錯誤資訊屬不當標示，未依FDA規定方式
+
+
+
+63 21 C.F.R. § 101.4.
+64 HUTT, supra note 49, at 392.
+65 邱文聰，從迷失的身分重新找尋食品攙偽假冒管制的可能途徑——以食品身分
+   標準為分析焦點，政大法學評論，141期，頁18-19（2015年）
+                                   。
+66 惟針對重要資訊而應充分揭露予消費者知悉之範圍，美國FDCA之法律要求較
+   為限縮。NLEA § 6, sec. 403A.
+67 Sec. 403(a) of FDCA, “A food shall be deemed to be misbranded (a) if (1) its labeling
+   is false or misleading in any particular.” (codified as 21 U.S.C. § 343(a)(1)).
+食品標示規範之檢討                                                                               253
+
+
+標示產品者亦屬之68。換言之，其他FDCA視為不當標示之行為態
+樣尚包含：以他種產品之名稱銷售69、未標示應標示事項70、不符
+合食品身分標準而為標示71、未標示所使用之人工調味劑、色素或
+化學保存劑等72。
+
+      實務上，法院對於虛偽不實或引人錯誤之標示，係採取較為寬
+鬆彈性之標準判斷。如FDCA第201(n)條對標示不實雖無直接定
+義，僅規範若廠商在標示中忽略（且不論是否故意）實質資訊
+（material facts）即可符合標示不實之定義73；但法院在此多會進一
+                               」作為判斷標準74，使
+步採取「實質內容審查（materiality analysis）
+食品標示中所應呈現之資訊，能在保障消費者利益之前提下，有更
+大之彈性。法院亦曾指出技術上正確（technically accurate）的文字
+敘述亦可能構成引人錯誤之標示75（如將含量甚少之營養成分列入
+食品標示，其內容雖屬正確，但因該標示可能造成消費者誤認該食
+
+
+
+68 SANCHEZ, supra note 1, at 102.
+69 Sec. 403(b) of FDCA.
+70 Sec. 403(e)(f) of FDCA.
+71 Sec. 403(g) of FDCA.
+72 Sec. 403(k) of FDCA.
+73 Sec. 201(n) of FDC, “[i]f an article is alleged to be misbranded because the labeling
+   or advertising is misleading, then in determining whether the labeling or advertising is
+   misleading there shall be taken into account (among other things) not only
+   representations made or sug- gested by statement, word, design, device, or any
+   combination thereof, but also the extent to which the labeling or advertising fails to
+   reveal facts material in the light of such representations or material with respect to
+   consequences which may result from the use of the article to which the labeling or
+   advertising relates under the conditions of use prescribed in the labeling or advertising
+   thereof or under such conditions of use as are customary or usual.”
+74 SANCHEZ, supra note 1, at 112.
+75 FORTIN, supra note 12, at 73. See also SANCHEZ, supra note 1, at 112; Alicia T.
+   Simpson, Buying and Eating in the Dark: Can the Food and Drug Administration
+   Require Mandatory Labeling of Genetically Engineered Foods? Alliance for Bio-
+   Integrity v. Shalala, et al., 116 F. Supp. 2d 166 (2000), 19 TEMP. ENVTL. L. & TECH. J.
+   225, 233-34 (2001).
+254                                                      2015 行政管制與行政爭訟
+
+
+
+品具有營養價值，故FDA多認仍構成虛偽不實或引人錯誤）76，且
+該食物是否對人體有害亦非判斷標示是否不當之依據77（如食品廠
+商加入不符番茄醬食品身分（standard of identity） 78 之防腐添加
+物，即令該物質屬廣泛使用且對人體無害，FDA仍認為該食品標示
+為 番 茄 醬 係 屬 虛 偽 不 實 或 引 人 錯 誤 ） 79 ， 標 示 內 容 之 正 確 性
+（accuracy）方為FDA判斷不當標示之重點 80 。另一點值得注意者
+為，民眾或政府並不需要證明所有人均受到該標示之誤導始能證立
+該標示有虛偽不實或引人錯誤之情事81，亦不需要證明食品廠商有
+故意為不當標示之意圖82。
+
+      舉例而言，在United States v. 95 Barrels of Alleged Apple Cider一
+案中（本案時序上先於FDCA而適用1906年Pure Food and Drug
+Act，但兩部法律採納之標準無異）83 ，最高法院認為一項產品若
+與其標示之品名所指稱者未完全相符（not identical）84，即屬標示
+不當。該案中Douglas Packing Company所銷售產品之品名標示為
+「由精選蘋果製成之頂級蘋果醋」（Excelsior Brand Apple Cider
+Vinegar Made from Selected Apples）
+                                 ，最高法院認為「頂級」一詞僅
+係業者企圖給消費者高水準產品的印象，尚未構成引人錯誤之標
+                    （apple cider vinegar
+示。然而，品名中「由精選蘋果製成之蘋果醋」
+
+
+
+
+76 United States v. An Article of Food…Nuclomin, 482 F.2d 581, 582 (8th Cir. 1973).
+77 SANCHEZ, supra note 1, at 116.
+78 「食品身分標準」如同食品之食譜（recipe）                      ，規範特定食品所應使用或得使用
+   之原料、成分與比例，有時也規定其製造方法與配方。邱文聰（註65）                                             ，頁13-
+   14。
+79 See Libby, McNeill & Libby v. United States, 148 F.2d 71 (2d Cir. 1945).
+80 SANCHEZ, supra note 1, at 116.
+81 United States v. An Article Sudden Change, 409 F.2d 734, 740 (2d Cir. 1969).
+82 See United States v. 95 Barrels of Vinegar, 265 U.S. 438 (1924).
+83 Id.
+84 “If an article is not the identical thing that the brand indicates it to be, it is
+   misbranded.” Id. at 444.
+食品標示規範之檢討                                                                        255
+
+
+made from selected apples）則為引人錯誤之標示85。詳言之，由於
+「apple cider」係指未濾渣、未加糖汁蘋果汁，屬眾所皆知之事實；
+而蘋果醋（apple cider vinegar）則指由未脫水的（unevaporated）蘋
+果所製成之新鮮蘋果汁，添加酒精進行醋酸發酵程序（acetous
+fermentation）後之成品。而本案系爭產品並非依此方法、使用未脫
+水之新鮮蘋果所製；因此，系爭廠商使用「蘋果醋」為其品名，卻
+非該品名所指稱之相同產品，足以引人錯誤而認為該產品為新鮮蘋
+果汁所製，即構成標示不當86。
+
+     但須注意者為，除FDCA外，商標法（Lanham Act）及聯邦貿
+易委員會法（Federal Trade Commission Act, FTCA）對於不當廣告
+（false advertising）之規範，亦應可作為虛偽不實（false）或引人錯
+誤（misleading）之判斷參考87 ；亦即以一般理性民眾（reasonable
+audience）之觀點觀察（“from the perspective of a consumer acting
+reasonably in the circumstances”）88，若其依據廣告資訊所採取之實
+質行動（material action）
+                   ，與獲得所有資訊（complete information）
+所採取之行動不一致時，該廣告便可能被視為不當廣告89。但一般
+理性民眾標準在法院判準中並非一體適用，如在United States v. An
+Article Sudden Change乙案中，法院便認為食品標示之影響不應完
+全以理性民眾之觀點作判斷，對於無知或輕信（the ignorant, the
+unthinking and the credulous）消費者之影響亦應考慮在內90。
+
+
+
+85 Id.
+86 Id.
+87 Kathryn Bi, What Is “False or Misleading” Off-Label Promotion?, 82 U. CHI. L. REV.
+   975, 993 (2015). HUTT, supra note 49, at 457. See also 67 Fed. Ref. 78002, 78003
+   (Dec. 20, 2002).
+88 103 F.T.C. 174 (1984).
+89 See Federal Trade Commission v. Cyberspace.com, LLC, 453 F.3d 1196, 1201 (9th
+   Cir 2006). See also Thompson Medical Co v. Federal Trade Commission, 791 F.2d
+   189, 196-97 (D.C. Cir 1986).
+90 An Article Sudden Change, 409 F.2d at 740.
+256                                                     2015 行政管制與行政爭訟
+
+
+
+      另需注意者為，儘管法院就FDCA標示不當之相關規範，採取
+較為寬鬆之判斷標準，但FDA於實務操作上卻無足夠經費與人力有
+效執法，管制工具亦不充分91，多數僅能以發布警告信函（warning
+letter）之方式敦促食品業者自願性遵循法律規定92。
+
+      簡言之，不當食品標示之認定，在FDCA之規範上仍有模糊不
+清之空間，除FDA嘗試借鏡其他聯邦機關（如FTC）之管制策略以
+充實管制內涵與標準外，實務上亦不難發現法院藉由不同判例之建
+立，針對何種情況下將構成不當品標示，嘗試詳細論述其內涵並加
+以類型化，如將實質內容審查與理性民眾標準納入判斷依據等。而
+從相關判決內容中，亦不難發現法院嘗試在虛偽不實與引人錯誤之
+FDCA法條文字架構下，仔細爬梳立法者之原意（保障消費者知的
+權利），並確認不需嚴格審視FDA判斷不當食品標示之標準，以確
+保能在最大範圍內保障消費者權益93。
+
+三、食品標準之內涵建立
+      依據FDCA規定，應標示事項必須以英文為標示語言（若含外
+國 語 標 示 須 另 附 上 英 文 翻 譯 ）， 並 以 一 般 消 費 者 （ ordinary
+consumer）通常購買與使用情形下得以閱讀並理解之方式展現94。
+              （principle display panel，係指在
+應標示事項以置於「主要展示面」
+
+
+91 Jennifer L. Pomeranz, A Comprehensive Strategy to Overhaul FDA Authority for
+   Misleading Food Labels, 39 AM. J.L. MED. 617, 619 (2013).
+92 詳言之，FDA在實務操作上多僅能透過警告信（warning letter）要求食品廠商
+   改善食品不當標示，但此措施僅屬建議措施（advisory action）                ，亦即有賴業者
+   願意自行修正違規事項；僅有在食品不當標示可能造成嚴重不良健康反應或死
+   亡（serious adverse health consequences of death ）時，FDA 方能採取召 回
+  （recall）、罰鍰（civil penalties）、扣押（seizure）等措施。至於禁制令/暫時處
+   分（injunction）、刑事訴追等措施，則較少在食品不當標示案件中出現，因
+   FDA認為就此類輕微違法事由（minor violations）採取強烈之管制手段，可能
+   不符合比例原則。Negowetti, supra note 57, at 3-4.
+93 SANCHEZ, supra note 1, at 116.
+94 FDCA Sec. 403(f); 21 C.F.R. § 101.15(c)(2).
+食品標示規範之檢討                                                                        257
+
+
+商業慣習中最有可能被陳列、展示、或檢視的產品表面）為原
+則95，如商品身分（identity）或名稱（product name）與淨量皆須
+標示於主要展示面96。其他應標示事項，例如內容物、營養標示、
+責任商（製造者、包裝者或銷售者）等，則可選擇標示於主要展示
+面或資訊面（information panel，係指與主要展示面緊連之右側表
+面）97。
+
+     食品標示之項目概述如下：
+
+一、食品品名（name）標示須以粗體等明顯方式列於食品標示前側
+     或主要展示面98，不得以圖像或產品設計使品名不顯眼；且食
+     品之品名須採用常見或慣用之名稱、不得隨意創設，或選擇適
+     當之描述性品名（appropriate descriptive name）99，避免使消
+     費者混淆。若一新產品模仿既有之產品，但其蛋白質、維生素
+     或礦物質含量有所減少，則需於品名處標明為模仿物
+     （imitation）100。
+二、內容數量（quantity & content）標示應於產品主要展示面下方
+     （ 面 積 自 底部 計 算 向 上 延 伸 30% 處 ） 標 明 產 品 之 重 量 或 容
+     量101，且需度量單位需併陳美國度量衡體系（U.S. customary
+     system）與標準度量體系（metric system）
+                                 ，不應包含包裝容器
+     或包裝紙之重量，且需避免可能造成誤會之修飾性之形容詞。
+三、原料（ingredient list）標示應按所佔重量之比例依序列出所使
+     用之原料，且應以使用顯著之字體字型、便於理解之通稱102。
+
+95  21 C.F.R. § 101.1.
+96  21 C.F.R. §§ 101.3(a) and 101.105(a).
+97  21 C.F.R. §§ 101.2(b) and (d). For more discussion, see FORTIN, supra note 12, at
+    59-71.
+98 21 C.F.R. § 101.
+99 21 C.F.R. § 101.3(b) & (d).
+100 21 C.F.R. § 101(e).
+101 21 C.F.R. § 101.105.
+102 21 C.F.R. § 101.4.
+258                                                            2015 行政管制與行政爭訟
+
+
+
+       若成份含已核准之化學防腐劑，需註記其功能（如防腐、持色
+       等）；若含有由多樣原料製造之食品，得逐一列出該食品之成
+       份，或於食品名稱後以括號方式列出。成份中若有食品過敏
+       源，應按食品過敏原標示與消費者保護法（Food Allergen
+       Labeling and Consumer Protection Act of 2004）之規範標示，且
+       屬主要過敏原（major food allergens）之成份應列出其科學名
+       稱與常見名稱，或於原料列舉下方附加其所屬之主要過敏源類
+       別之聲明（“contains” statement）
+                                。
+四、營養成分（nutrition）需標示於主要展示面或資訊面（nutrition
+       facts label）103，食品之外包裝亦同樣應有營養成分標示，且食
+       品標示均應符合營養成份宣稱（nutrient content claim）之規
+       範104，僅得列出FDA公告之須標示或得加註之營養成分，不得
+       擅自增添標示FDA所未規範之營養成分。但FDCA亦規範少數
+       例外，如由小型企業或餐廳、到府外送所製造之食物、無顯著
+       營養成分之香料、即溶咖啡等，則無須標示營養成分。21
+       C.F.R. § 101.9(d)並詳細規範各類營養成分之標示之格式，含字
+       體大小與標示位置105。
+
+
+
+103 21 C.F.R. § 101.9.
+104 21 C.F.R. § 101.13(c).
+105 如21 C.F.R. § 101.9(d)(a)(9)(ii)針對糖份之營養標示規範：“(ii) ‘Sugars’: A
+      statement of the number of grams of sugars in a serving, except that label declaration
+      of sugars content is not required for products that contain less than 1 gram of sugars
+      in a serving if no claims are made about sweeteners, sugars, or sugar alcohol content.
+      Except as provided for in paragraph (f) of this section, if a statement of the sugars
+      content is not required and, as a result, not declared, the statement ‘Not a significant
+      source of sugars’ shall be placed at the bottom of the table of nutrient values in the
+      same type size. Sugars shall be defined as the sum of all free mono- and
+      disaccharides (such as glucose, fructose, lactose, and sucrose). Sugars content shall
+      be indented and expressed to the nearest gram, except that if a serving contains less
+      than 1 gram, the statement ‘Contains less then 1 gram’ or ‘less than 1 gram’ may be
+      used as an alternative, and if the serving contains less than 0.5 gram, the content may
+      be expressed as zero.”
+食品標示規範之檢討                                                                                259
+
+
+五、健康宣稱（health claim）主要是指將食品或其成分與疾病/健
+      康狀態（disease/health conditions）加以鏈結之宣稱，同時受到
+      NLEA、FDAMA與FDA指導準則（guidance）之規範106。依相
+      關規定，僅有FDA核准（approve）/授權（authorize）之健康
+      宣稱可以合法在食品標示中使用，且FDA對健康宣稱之核准要
+      求相對嚴格，申請廠商需（1）依NLEA要求提出嚴格之「科學
+                                                」107，證明該
+      顯著認定（significant scientific agreement, SSA）
+      食品與降低疾病風險/改善健康狀態有關（但僅需經科學培訓
+      之合格專家達成科學一致性認定即可）108 ，方能依事前許可
+    （ pre-approval ） 程 序 取 得 FDA 之 核 准 使 用 健 康 宣 稱 109 ； 或
+    （2）不需證明科學上顯著關係，但依FDAMA規定由具公信力
+      之 學 術 / 研 究 機 構 ─ 美 國 政 府 或 國 家 科 學 院 （ National
+      Academy of Science）轄下之機構，如疾病管制局（Centers for
+      Disease Control, CDC）或國家衛生研究院（National Institutes
+      of Health, NIH ） ─ 提 出 具 一 定 條 件 110 之 授 權 聲 明
+
+
+106 SANCHEZ, supra note 1, at 122.
+107 21 C.F.R. § 101.14(c).
+108 Sec. 403(r)(3)(B)(i) of the FCTC, “The Secretary shall promulgate regulations
+    authorizing claims of the type described in subparagraph (1)(B) only if the Secretary
+    determines, based on the totality of publicly available scientific evidence (including
+    evidence from well-designed studies conducted in a manner which is consistent with
+    generally recognized scientific procedures and principles), that there is significant
+    scientific agreement, among experts qualified by scientific training and experience to
+    evaluate such claims, that the claim is supported by such evidence.”
+109 有稱為事前許可宣稱（pre –approved claims）                    。FORTIN, supra note 12, at 114.
+110 According to FDA’s Guidance for Industry, “FDAMA itself states that an
+    authoritative statement: (1) is ‘about the relationship between a nutrient and a disease
+    or health-related condition’ for a health claim, or ‘identifies the nutrient level to
+    which the claim refers’ for a nutrient content claim, (2) is ‘published by the scientific
+    body’ (as identified above), (3) is ‘currently in effect,’ and (4) ‘shall not include a
+    statement of an employee of the scientific body made in the individual capacity of
+    the employee.’ In addition, given the legislative history of sections 303 and 304 of
+    FDAMA, FDA currently believes authoritative statements also should: (5) reflect a
+    consensus within the identified scientific body if published by a subdivision of one
+260                                                         2015 行政管制與行政爭訟
+
+
+
+      （authoritative statement）111，仍可取得FDA之授權使用健康宣
+       稱（但僅需將聲明通知FDA即可使用健康宣稱，不需FDA之事
+       前 許 可 ） 112 ； 或 （ 3 ） 依 FDA 所 頒 布 之 臨 時 指 引 （ interim
+       guidance ） 113 ，雖然 僅能取得 可信賴之 科學證據 （credible
+       evidence）而非科學顯著之認定，亦即僅有新興（emerging）
+       但仍未形成共識之科學證據時，FDA有裁量權決定是否得核准
+       業者使用依證據強度分類之定型化健康宣稱文字114。
+
+
+    of the Federal scientific bodies, and (6) be based on a deliberative review by the
+    scientific body of the scientific evidence.” See Notification of a Health Claim or
+    Nutrient Content Claim Based on an Authoritative Statement of a Scientific Body,
+    FDA (June 11, 1998), https://www.fda.gov/Food/GuidanceRegulation/GuidanceDocu
+    mentsRegulatoryInformation/LabelingNutrition/ucm056975.htm.
+111 Sec. 303(C) of FDAMA.
+112 有稱為授權聲明許可宣稱（authoritative statement claims）                       。FORTIN, supra note
+    12, at 114.
+113 Guidance for Industry: Evidence-based Ranking System for the Scientific Evaluation
+    of Health Claims, HHS.GOV (Jan. 13, 2009), https://www.federalregister.gov/
+    documents/2009/01/16/E9-957/guidance-for-industry-evidence-based-review-system-
+    for-the-scientific-evaluation-of-health-claims (last visit Oct. 12, 2017).
+114 此類健康宣稱又被稱為保留健康宣稱（qualified health claims）                                ，除因其係屬
+    FDA所訂之定型化文字外，業者尚須加註特定保留事項（disclaimer）                                       ，而其相
+    關之文字內容如下表。陳鋕雄、陳庭妤，公眾健康與消費者自主權的平衡
+    ─重估我國保健食品的法制架構，司法新聲，107期，頁42（2013年）；
+    Interim Procedures for Qualified Health Claims in the Labeling Conventional
+    Human Food and Human Dietary Supplements, FDA (July, 2003), https://www.fda.
+    gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/Labelin
+    gNutrition/ucm053832.htm (last visit Oct. 12, 2017).
+      Scientific   FDA      Appropriate qualifying language
+           Ranking Category
+      Second Level B        … “although there is scientific evidence supporting the
+                                 claim, the evidence is not conclusive.”
+      Third Level  C        “Some scientific evidence suggests … however, FDA has
+                                 determined that this evidence is limited and not
+                                 conclusive.”
+      Forth Level  D        “Very limited and preliminary scientific research
+                                 suggests ... FDA
+                            concludes that there is little scientific evidence supporting
+                                 this claim.”
+食品標示規範之檢討                                                                             261
+
+
+六、生理結構/機能宣稱（structure/function claims）雖然也是與健
+      康有關之宣稱，但在FDCA體系下與健康宣稱並不相同115，因
+      其僅係描述食品對生理結構或機能影響116，而非如健康宣稱係
+      屬描述食品與降低疾病風險/改善健康狀態之關聯性117。相較
+      於業者須經一定程序使能標示健康宣稱，FDCA對生理結構/
+      機能宣稱並無規範，但其仍受一般食品標示之拘束，亦即不得
+      有錯誤或不實之情事118 119。但須注意者為，膳食補充品健康
+                                     、
+
+
+      與教育法（Dietary Supplement Health and Education Act of 1994,
+      DSHEA）對於膳食補充品（dietary supplement）之生理結構/
+      機能宣稱有特別規定（但一般食品亦可參考適用）120，要求其
+      必須加註特定保留事項（disclaimer）說明FDA並未評估該宣
+      稱121 ， 且 該 產 品 並 不 可 用 於 診 斷 、 治 療 、 治 癒 或 預 防 疾
+      病122，且須在該產品上市銷售後30日內通知FDA該產品標示之
+      生理結構/機能宣稱123。
+
+
+
+
+115 FORTIN, supra note 12, at 115.
+116 See, e.g., Sec. 403(r)(6)(A) of FDCA, “For purposes of paragraph (r)(1)(B), a
+    statement for a dietary supplement may be made if — (A) …. describes the role of a
+    nutrient or dietary ingredient intended to affect the structure or function in humans,
+    characterizes the documented mechanism by which a nutrient or dietary ingredient
+    acts to maintain such structure or function, or describes general well-being from
+    consumption of a nutrient or dietary ingredient.”
+117 簡言之，生理結構/機能宣稱是以正常機能為主，而健康宣稱是以疾病為主，
+    如「強化骨質」便屬生理結構/機能宣稱，但「改善骨質疏鬆症」或描述中暗
+    示與骨質疏鬆症有關，便屬健康宣稱。FORTIN, supra note 12, at 115.
+118 Sec. 403(r)(6)(B) of FDCA.
+119 舉例而言，在H1N1流感疫情爆發時，Kellogg’s於產品上標示「支持孩童免疫
+    系統」    ，雖屬生理結構/機能宣稱而不須送FDA審查即可標示；但因在當時情境
+    下可能構成對孩童不受流感感染之暗示，而有資訊誤導構成標示不實之可
+    能，Kellogg’s之後便將該標示移除。SANCHEZ, supra note 1, at 124.
+120 Id.
+121 Secs. 403(r)(6) and 101.93(b), (c) of FDCA.
+122 Sec. 403(r)(6)(C) of FDCA.
+123 Sec. 403(r)(6) of FDCA.
+262                                   2015 行政管制與行政爭訟
+
+
+
+貳、美國食品標示規範與其他法規範之競合
+
+      在FDCA之食品標示規範中，因著重在FDA之管制權限與標示
+內容之限制，故不可避免會引起美國憲法中對聯邦與州權限之劃分
+與對民眾權利保障之爭議；而前者著重在聯邦法效力優先原則
+（doctrine of preemption）之討論，後者則牽涉到美國憲法第一增修
+條文之言論自由（freedom of speech）保障與消費者選擇權之保障
+（consumer’s freedom of choice）124 。因此，在有關食品標示之規
+範，FDCA實際上便希望達成憲法權利、不同法規範利益之平衡
+（ 見 圖 1 ）。 詳 言 之 ， FDA 對 食 品 標 示 管 制 之 正 當 性 （ valid
+enforcement action），取決於是否能平衡不同利益之衝突，包括
+FDCA 禁 止 不 當 標 示 之 政 策 目 的 （ prohibition in FDCA against
+misbranding，主要是為保護消費者知的權利與經濟利益，詳前文
+「壹、一」）、個人自由與憲法權利保障（individual freedoms and
+constitutional rights ， 如 言 論 自 由 ， 詳 後 文 「 參 、 一 」）、 民 眾
+（private party）是否能在聯邦法效力優先原則下採取適當手段落實
+FDCA對食品標示之規範要求（preemption and the individual right to
+enforce，詳後文「貳、一」）。本文「貳」將以FDCA與消費者保護
+法之競合為例，先就聯邦法效力優先原則加以討論，而憲法權利保
+障將在後文第參節再予以分析。
+
+
+
+
+124 SANCHEZ, supra note 1, at 103.
+食品標示規範之檢討                                                                               263
+
+
+
+
+            圖1 FDCA食品標示規範之可能憲法爭議125
+資料來源：本文製圖。
+
+
+一、聯邦法效力優先原則在食品標示案件之應用
+      依美國憲法第6條第2項規定126，各州法令如有牴觸或妨礙聯邦
+法令之情事，應即失其效力，此即聯邦法效力優先原則，聯邦法律
+
+
+125 Id.
+126 Article VI section 2 of the U.S. Constitution, “[t]his Constitution, and the laws of the
+    United States which shall be made in pursuance thereof; and all treaties made, or
+    which shall be made, under the authority of the United States, shall be the supreme
+    law of the land; and the judges in every state shall be bound thereby, anything in the
+    Constitution or laws of any State to the contrary notwithstanding.”
+264                                                            2015 行政管制與行政爭訟
+
+
+
+應優先於州法適用，此即為聯邦法效力優先原則127（或有學者譯為
+先占理論）128，為美國聯邦與地方（州）之間權力劃分的憲法基礎
+（源自於憲法第6條第2項之聯邦優位條款（supremacy clause））；換
+言之，特定情況下，若州或地方之法規範與聯邦法有所衝突時（且
+不論是直接或間接衝突），州或地方法規範將失其效力129。而美國
+國會在立法時如何運用聯邦法效力優先原則，可能有三種型態130：
+
+（1） 明 示 優 先 （ express preemption ）： 國 會 明 示 （ express
+        statement）聯邦法律對州法律具優先效力。
+（2） 領域優先（field preemption）131 ：聯邦法律雖無明文規定，
+        但就該管制領域可以明確且合理推斷國會有意132授權聯邦管
+        轄（implying occupation of a regulatory field）
+                                                   ，聯邦法律因此
+        具備優先效力133。
+（3） 衝突優先（conflict preemption）134：州法律之執行將與聯邦
+
+
+127 SULLIVAN & GUNTHER, supra note 52, at 314.
+128 史慶璞（註52）     ，頁24。
+129 According to Stephen Gardbaum, “preemption is a doctrine of American
+    constitutional law under which state and local governments are deprived their power
+    to act in a given area, whether or not the state or local law, rule or action is in direct
+    conflict with federal law,” JAMES T. O’REILLY, FEDERAL PREEMPTION OF STATE AND
+    LOCAL LAW: LEGAL ACTION, REGULATION AND LITIGATION §1.1, at 1 (2006) (citing
+    Stephen A. Gardbaum, Nature of Preemption, 79 CORNELL L. REV. 767, 771 (1994)).
+130 SULLIVAN & GUNTHER, supra note 52, at 319. See also Pacific Gas & Elec. Co. v.
+    State Energy Resources Conservation & Development Comm’n, 461 U.S. 190
+    (1983).
+131 SULLIVAN & GUNTHER, supra note 52, at 319. See also Rice v. Santa Fe Elevator
+    Corp., 331 U.S. 218 (1947).
+132 聯邦最高法院於近年之判決中認為，僅有在國會之意圖明確（intent is
+    unmistakable）或是受管制領域本質屬聯邦管轄而無其他可能性（the nature of
+    the regulated subject matter permits no other conclusion）   ，始能認為聯邦法律有領
+    域優先之可能性。See generally Florida Lime & Avocado Growers v. Paul, 373
+    U.S. 132 (1963).
+133 LAURENCE TRIBE, AMERICAN CONSTITUTIONAL LAW 497 (1978).
+134 SULLIVAN & GUNTHER, supra note 52, at 319. See also Hines v. Davidowitz, 312
+     U.S. 52 (1941).
+食品標示規範之檢討                                                                               265
+
+
+       法律之立法目的衝突，此時相衝突之州法律應被排除
+      （implying preclusion of conflicting state regulations）
+                                                           ，否則該聯
+       邦法律立法目的將無法達成 135 ，聯邦法律因此具備優先效
+       力。
+
+      而就食品標示而言，NLEA係在第6條（修正FDCA第403A
+條）136中明確禁止各州採取與聯邦規範相衝突或不一致之食品標示
+要求，亦即其規範中已明示採取聯邦法效力優先原則，故多數情況
+均屬第一類之聯邦法效力明示優先137，相較後兩類聯邦法效力優先
+之形態，判斷上相對單純；雖然仍有個案就特定食品標示，在
+NLEA未明文規範之情形下，是否存在領域優先或衝突優先之情
+形，進行討論（如州法是否可規範有關「全天然（all natural）」宣
+稱之食品標示，因FDCA並未就此作出明文規範，法院在Holk v.
+Snapple Beverage Corp.乙案中，便就衝突優先之狀況，討論FDCA
+
+
+
+135 See, e.g., McDermott v. Wisconsin, 228 U.S. 115 (1913).
+136 Sec. 6(a) of NLEA, “…no State or political subdivision of a State may directly or
+    indirectly establish under any authority or continue in effect as to any food in
+    interstate commerce - (1) any requirement for a food which is the subject of a
+    standard of identity established under section 401 that is not identical to such
+    standard of identity or that is not identical to the requirement of section 403(g), (2)
+    any requirement for the labeling of food of the type required by section 403(c),
+    403(e), or 403(i)(2) that is not identical to the requirement of such section, (3) any
+    requirement for the labeling of food of the type required by section 403(b), 403(d),
+    403(f), 403(h), 403(i)(1), or 403(k) that is not identical to the requirement of such
+    section, (4) any requirement for nutrition labeling of food that is not identical to the
+    requirement of section 403(q), except a requirement for nutrition labeling of food
+    which is exempt under subclause (i) or (ii) of section 403(q)(5)(A), or (5) any
+    requirement respecting any claim of the type described in section 403(r)(1) made
+    in the label or labeling of food that is not identical to the requirement of section
+    403(r), except a requirement respecting a claim made in the label or labeling of food
+    which is exempt under clause (B) of such section.”
+137 Joe Dages, Comment, Private Parties and the FFDC: How Creative Litigants Have
+    Circumvented Section 310 and Undermined the NLEA’s Express Preemption
+    Amendments, 62 CATH. U. L. REV. 1061, 1068 (2014).
+266                                                          2015 行政管制與行政爭訟
+
+
+
+就此議題是否具優先效力）138，但因其非本文分析重點，且應如何
+在後兩類聯邦法效力優先類型上判斷聯邦法律與州法律之優先性有
+其複雜性，本文限於篇幅並無法深入討論。
+
+       此處須思考者為，食品不當標示所引發之問題並不限於FDA行
+政管制範疇，故NLEA就食品標示規範所揭示之聯邦法效力優先原
+則，是否可能因而影響（或限縮）消費者依州法（如消費者保護
+法）對食品廠商就不當食品標示為權利主張，便引起爭論139 （即
+圖 1左下角「preemption and the individual right to enforce」之利
+益）
+ 。舉例而言，食品廠商往往訴求NLEA之聯邦法效力優先條款已
+將消費者保護面向，由法院依州消費保護法判決以保障公共利益，
+轉移至由FDA採取有效且統一之標準140；進一步，州消費者保護法
+規範中與NLEA衝突之食品標示規範，亦應受NLEA聯邦法效力優
+先條款之拘束而無效 141 。而在食品業者對NLEA第6條（FDCA第
+403A條）之擴張解釋下，消費者排除不當食品標示並就所受損害
+求償之機會，亦因此而被犧牲142。
+
+       詳言之，食品標示有虛偽不實或引人錯誤之情事時，FDA固然
+可本於其職權與法律規範予以警告（warning letters）143、或在特定
+條件下處罰食品業者（包括扣押（seizure）或回收（recall））144，
+
+
+138 Holk v. Snapple Beverage Corp., 575 F. 3d 329, 332, 336, 340-42 (3d Cir. 2009).
+139 See generally Diane M. Allen, Federal Pre-Emption of State Food Labeling
+      Legislation or Regulation, 79 A.L.R. FED. 181, §§ 4[a][b] (2006).
+140 H. Bishop Dansby, Bates v. Dow Agrosciences: U.S. Supreme Court Restores Sanity
+      in Products Liability Law, 25 PESTICIDES & YOU 9, 9 (2005).
+141 Andre, supra note 41, at 251.
+142 Federal Nutritional Regulations Limit CFA Attack on McDonald’s Fat Notice, 91
+      Antitrust Trade & Reg. Rep. (BNA) 661 (Dec. 22, 2006).
+143 警告信之寄發為FDA非正式之執行手段（enforcement tool），僅在敦促並建議
+      廠商改正其違法行為。SANCHEZ, supra note 1, at 44-45.
+144 21 U.S.C. § 331. E.g., the prohibited acts are (1) “[t]he introduction or delivery for
+      introduction into interstate commerce of any food … that is ... misbranded”; (2)
+      “[t]he … misbranding of any food … in interstate commerce”; (3) [t]he receipt in
+食品標示規範之檢討                                                                               267
+
+
+但消費者應仍可就該食品屬消費性產品而提出訴訟145。而消費者在
+此依據各州之消費者保護法提起訴訟之途徑之所以重要，係因
+FDCA並未提供消費者適當之途徑，使其得以個人身分要求食品公
+司為適當之標示並保障其權利146 （而僅得由FDA依其職權進行規
+範）；尤其因FDA在實際操作上對不當標示之改正行動（correction
+enforcement）往往較不積極147，導致個人如何在食品不當標示之個
+案中能採取適當行動，便有其重要性。
+
+      然而，為使食品標示能有全國一致性之標準，NLEA在其規範
+中 採取 聯邦 法效 力優 先原 則， 並在 第 6 條 （修 正 FDCA 第 403A
+條）148 149中明確禁止各州採取與聯邦規範相衝突或不一致之食品
+         、
+
+
+
+
+    interstate commerce of any food … that is … misbranded, and the delivery or
+    proffered delivery thereof for pay or otherwise; and (4) “[t]he manufacture, with any
+    Territory of any food … that is … misbranded.”
+145 Zarski, supra note 15, at 1119.
+146 See 21 U.S.C. § 337(a), “[A]ll such proceedings for the enforcement, or to restrain
+    violations, of this chapter shall be by and in the name of the United States.”
+147 Pomeranz, supra note 91, at 625.
+148 Sec. 6(a) of NLEA, “…no State or political subdivision of a State may directly or
+    indirectly establish under any authority or continue in effect as to any food in
+    interstate commerce - (1) any requirement for a food which is the subject of a
+    standard of identity established under section 401 that is not identical to such
+    standard of identity or that is not identical to the requirement of section 403(g), (2)
+    any requirement for the labeling of food of the type required by section 403(c),
+    403(e), or 403(i)(2) that is not identical to the requirement of such section, (3) any
+    requirement for the labeling of food of the type required by section 403(b), 403(d),
+    403(f), 403(h), 403(i)(1), or 403(k) that is not identical to the requirement of such
+    section, (4) any requirement for nutrition labeling of food that is not identical to the
+    requirement of section 403(q), except a requirement for nutrition labeling of food
+    which is exempt under subclause (i) or (ii) of section 403(q)(5)(A), or (5) any
+    requirement respecting any claim of the type described in section 403(r)(1) made
+    in the label or labeling of food that is not identical to the requirement of section
+    403(r), except a requirement respecting a claim made in the label or labeling of food
+    which is exempt under clause (B) of such section.”
+149 因NLEA第6條係修正FDCA第403條（“Chapter IV is amended by adding after
+    section 403 the following new section…”）       ，而FDCA之引註方式又可分為FDCA
+    section number（FDCA sec. 403）與title 21 section listing（21 U.S.C. § 343-
+268                                               2015 行政管制與行政爭訟
+
+
+
+標示要求150。因此，即使消費者可依各州之消費者保護規範提出訴
+訟，但法院在該訴訟中並不能就食品標示之內容或標準做出判決，
+否則將違反聯邦法效力優先原則。而食品公司便進一步利用該原則
+要求各州法院不得就與食品標示相關之消費者訴訟進行審判151，並
+主張若法院在消費訴訟案件中作出與FDCA規範不同之食品標示要
+求，或要求食品公司增加FDCA規範中所無之食品標示內容，將直
+接違反聯邦法效力優先原則152。也因此，如果食品標示在形式上符
+合FDCA之要求，則即令消費者認為該標示有誤導之可能，其在訴
+訟中仍無法有效主張爭議之食品標示內容需做適度之修正。
+
+      舉例而言，在Turek v. General Mills, Inc.乙案（以下簡稱Turek
+案）153中，General Mills, Inc.在其產品之標示上宣稱其產品為「添
+加纖維素（fiber plus）
+               」之食品，且有「含有35%每日需攝取纖維素
+（35% of your daily fiber）
+                        」之字樣；而Turek則宣稱該食品標示有誤
+導消費者之可能，因其沒有進一步說明該產品所含之纖維素種類僅
+為濃縮之菊糖纖維素（inulin fiber）
+                      ，不僅與一般飲食中攝取之纖維
+素並不相同，且可能對身體有不確定之負面影響154。聯邦巡迴法院
+在本案中認為，Turek依據伊利諾州消費者保護法所提出之主張應
+受聯邦法效力優先原則之拘束，而因FDCA之食品標示標準並未要
+求食品公司就其產品中所含之纖維素種類進行揭露，故Turek之主
+張將增加FDCA所無之食品標示內容155，因此判決予以駁回。在此
+
+
+
+    1(a)），故在引註上可能出現差異。為避免誤解，本文已將其統一，於內文中
+    一概採FDCA section number（NLEA第6條（修正FDCA第403A條）                      ）之書寫方
+    式，但引註中則採title 21 section listing（21 U.S.C. § 343-1(a)）          。
+150 Sagehorn, supra note 50, 120-21.
+151 See, e.g., Samet v. Proctor & Gamble Co., No. 5:12-CV-0189 PSG, 2013 WL
+    3124647, at 6 (N.D. Cal. June 18, 2013).
+152 Id. See also Zarski, supra note 15, at 1131.
+153 See Turek v. General Mills, Inc., 662 F.3d 423 (7th Cir. 2011).
+154 Id. at 425-26.
+155 Id. at 427.
+食品標示規範之檢討                                                269
+
+
+案中，聯邦巡迴法院法官甚至認為，即令Turek對食品標示之主張
+與FDCA一致，仍違反聯邦法效力優先原則：因食品標示標準與要
+求之一致性並非本案之判斷核心，而是食品標示標準與要求之決定
+權限應屬FDA而非州政府或法院156。而在Samet v. Proctor & Gamble
+Co.乙案（以下簡稱Samet案）157中，聯邦地區法院亦做出相同之判
+斷，認為即令爭議之食品標示有所矛盾─該食品標示同時有新鮮
+水果萃取（made with real fruit）與人工風味（artificially flavored）
+之字樣─且可能造成誤導，但因FDCA僅要求以人工風味調製之
+食品於其標示中出現「人工風味」之字樣即可，其他以文字（如果
+汁萃取）或圖樣（如水果圖樣）等方式暗示其產品風味之標示並非
+FDCA所禁止158；故針對爭議食品標示中之「新鮮水果萃取」文字
+標示加以爭執，將可能增加FDCA所無之食品標示要求，而違反聯
+邦法效力優先原則159。
+
+二、聯邦法效力優先原則在食品標示案件應用之檢討
+   但在前述案例中，法院對於聯邦法效力優先原則在FDCA有關
+食品標示規範之適用上，卻明顯採取較為嚴格之態度160─強調須
+
+
+156 Id.
+157 See Samet, 2013 WL 3124647.
+158 21 U.S.C. § 343(k).
+159 Samet, 2013 WL 3124647, at 6.
+160 一般而言，美國聯邦最高法院對於是否採取聯邦法效力優先原則多採取保留
+  之態度，多不會輕易利用該原則推翻州法，除非國會明示或法律目的可明確
+  推斷聯邦法優先地位之存在；主要原因在於，聯邦與州所管轄之事務上往往
+  不易明確區分，導致州法是否與聯邦法有「明確」衝突亦不易判斷，故國會
+  通常不會「傲慢地（cavalierly）    」排除州法之適用（Medtronic, Inc. v. Lohr）
+                                                          ，
+  聯邦最高法院亦會透過不同原則仔細判斷州法是否應受聯邦法效力優先原則
+  之拘束。舉例而言，雖然聯邦政府之傳統管制領域應具聯邦法優先地位，但
+  聯邦最高法院仍認為應進一步就聯邦利益是否具主導地位（dominant）、聯邦
+  法是否充分全面（pervasive）而沒有留給州法補充之空間（Rice v. Santa Fe
+  Elevator Corp.）
+                ；或由聯邦法之立法目的上判斷，州法之干擾（interference）         、
+  限制（curtail）或補充（complement），是否會客觀上阻礙聯邦法立法目的之
+  落實（Hines v. Davidowitz）
+                        ；再如，聯邦最高法院亦不認為聯邦機構之成立必
+270                                                          2015 行政管制與行政爭訟
+
+
+
+嚴格遵守FDCA之食品標示要求規範，且僅重視標示標準之一致性
+（identical requirement）
+                      ，而忽略FDCA食品標示立法目的中亦應包含
+消費者保護、資訊正確等內涵161─從而使許多明顯誤導消費者之
+食品標示並無法在法院受到適當之挑戰162。舉例而言，在Samet案
+中，以水果圖樣暗示其產品風味之標示，或許沒有違反FDCA對食
+品標示之規範要求；但就產品整體而言，該圖品樣式的確有可能誤
+導消費者誤認其產品之成分為水果所新鮮萃取而來。
+
+      而學者對於法院在食品標示相關案例中，運用聯邦法效力優先
+原則之方式，亦迭有批評。首先，法院對於聯邦法效力優先原則在
+FDCA適用之判斷，可能造成僅有與FDCA對食品標示要求內容完
+全不符（not identical）之食品標示，方可能被視為誤導或詐欺之食
+品 標 示 ； 反 而 忽 略 該 標 示 是 否 錯 誤 或 誤 導 消 費 者 （ false or
+misleading in any particular，此應為食品標示之核心價值）
+                                         ，或以聯
+邦法效力優先原則加以排除，從而對消費者權利與市場經濟秩序產
+生不利之影響163。尤其FDCA第343(a)(1)條之概括條款本即要求食
+品標示不得「錯誤或誤導消費者」164，而後續較為詳細之相關要求
+
+
+    然代表國會有意在該管制領域建立聯邦法優先地位，若可證明特定事項具強
+    烈地方（local）屬性，仍會被認為不受聯邦法效力優先原則之拘束。也因
+    此，聯邦最高法院並不會單純以聯邦法與州法在文字上之差異，便認定必然
+    有隱含之聯邦法地位之存在；舉例而言，若聯邦法律之目的係在建立最低標
+    準（minimum standard）而非統一標準（uniform standard），則州法採較高標
+    準，即令州法與聯邦法之標準並非完全一致（identical）                                ，仍不被認為違反聯邦
+    法效力優先原則（Hillsborough County v. Automated Med. Lab.）                   。張千帆，美國
+    聯邦憲法，頁153（2011年）              。SULLIVAN & GUNTHER, supra note 52, at 314; Tribe,
+    supra note 133, at 502-04. See also Medtronic, Inc. v. Lohr, 518 U.S. 470 (1996);
+    Rice v. Santa Fe Elevator Corp., 331 U.S. 218; Hines v. Davidowitz, 312 U.S. 52
+    (1941); Hillsborough County v. Automated Med. Lab., Inc., 105 S. Ct. 2371 (1985).
+161 Erica LaPlante, Preemption under the MDA: Can Bates Mend the Wound?, 3 SETON
+    HALL CIR. REV. 231, 267 (2012).
+162 Zarski, supra note 15, at 1137.
+163 Id.
+164 Sec. 343(a) of FDCA, “A food shall be deemed to be misbranded - If (1) its labeling
+    is false or misleading in any particular, or (2) in the case of a food to which section
+食品標示規範之檢討                                                                                 271
+
+
+與標準均係在此一概念下所發展而來；因此，僅因聯邦法效力優先
+原則之要求，而將食品標示之規範重心放在FDCA詳細但瑣碎之標
+準上，反而忽略第343(a)(1)條之基本精神，似亦非妥適165。
+
+      其次，相較於聯邦地區法院在食品標示案例中對聯邦法效力優
+先原則採取較嚴格審查標準且擴大聯邦法效力優先適用之範圍
+（broaden preemption，包括不允許州法與聯邦法間之法條文字差
+異，甚或排除與該事務直接或間接相關之所有州法），聯邦最高法
+院在FDCA其他案例中對於聯邦法效力優先原則之適用上似乎較為
+限縮（narrow preemption，如仍允許州法與聯邦法間之法條文字差
+異，且未逕自排除與該事務有關之所有州法）。舉例而言，在殺蟲
+劑之標示與菸品之標示中，聯邦最高法院似乎採取較為寬鬆的立場
+去解釋聯邦法效力優先原則之適用範圍，並未輕易以聯邦法與州法
+在文字上之差異便排除州法之適用。如在Bates v. Dow Agrosciences
+LLC乙案（以下簡稱Bates案）中，聯邦最高法院便對州法有關殺蟲
+劑未能適當標示風險與警語即可能構成侵權法上個人請求經濟損失
+或個人傷害主張（personal or economic injury claims）之法律依據，
+是否違反聯邦殺蟲劑、殺真菌劑和滅鼠劑法（Federal Insecticide,
+Fungicide, and Rodenticide Act，以下簡稱FIFRA）之聯邦法效力優
+先原則166，有所討論167（且值得注意者為，FIFRA就標示規範之聯
+邦法效力優先條款，與NLEA類似）
+                。聯邦最高法院在本案中雖然同
+意州法之規範可能新增FIFRA所無之標示規定而違反聯邦法效力優
+先原則168（與食品標示之相關判決類似），但卻認為該原則在本案
+中並無適用之餘地。蓋聯邦最高法院雖然認為FIFRA第136(v)條之
+
+
+    350 of this title applies, its advertising is false or misleading in a material respect or
+    its labeling is in violation of section 350(b)(2) of this title.”
+165 Id.
+166 7 U.S.C. § 136v.
+167 See Bates v. Dow Agrosciences LLC, 544 U.S. 431 (2005).
+168 Id. at 443.
+272                                                          2015 行政管制與行政爭訟
+
+
+
+規範中係說明「不同於FIFRA之標示規範要求，或要求新增FIFRA
+所無之標示規範要求（“any requirements for labeling or packaging in
+addition to or different from those required under [FIFRA]”）
+                                                           」，將適用
+聯邦法效力優先原則；但若依據法條文字內容細究：
+                      （1）聯邦最高
+法院多數意見採較為限縮之解釋，認為僅有與殺蟲劑、殺真菌劑和
+滅鼠劑標示「要求（requirements）」有關之規定始有適用FIFRA第
+136v條之空間169，若有關產品設計之州法規範，因與「標示要求」
+無關，故不適用聯邦法效力優先原則170；進一步，
+                       （2）僅有州法之
+規範與FIFRA之規範不同時，始有聯邦法效力優先原則之適用（換
+言之，若州法之規範與FIFRA之規範完全一致（identical）時，則
+無聯邦法效力優先原則之適用）171。因此，在本案中有關州法對於
+產品設計缺失（defective design）或違反明示擔保條款（breach of
+express warranty）之規定，並無適用聯邦法效力優先原則之空間，
+而民眾仍得依州法關於侵權法之規範，針對殺蟲劑之標示內容進行
+求償 172 （並可能間接改變廠商處理標示內容之方式）；如John
+Stevens大法官在其主筆之多數意見中便說明，FIFRA第136(v)條並
+未排除州法提供FIFRA所無之不當標示求償機制，而該州法所規範
+之求償機制亦與FIFRA所規範之「標示要求」（受聯邦法效力優先
+條款拘束）無關，故本案中州法雖然增加聯邦法所無、允許個人得
+針對標示內容所造成之侵害請求損害賠償之訴因（cause of action）
+規 定 ， 但 因 在 「 標 示 要 求 」 上 仍 與 聯 邦 法 （ FIFRA ） 無 異
+（identical），故並未違反聯邦法效力優先原則173。而聯邦最高法院
+
+169 Id.
+170 Id. at 448-49.
+171 Id. at 445.
+172 Id. at 448, 458.
+173 “[A] state cause of action that seeks to enforce a federal requirement “does not
+      impose a requirement that is ‘different from, or in addition to,’ requirements under
+      federal law. To be sure, the threat of a damages remedy will give manufacturers an
+      additional cause to comply, but the requirements imposed on them under state and
+      federal law do not differ. … Accordingly, although FIFRA does not provide a federal
+食品標示規範之檢討                                                                             273
+
+
+在本案中之見解，明顯與聯邦巡迴法院在Turek案之見解不同，因
+後者認為不需判斷州法與聯邦法（FDCA/NLEA）之標準（食品標
+示要求）是否具一致性，並採擴張解釋認為FDCA/NLEA之聯邦法
+效力優先條款已將食品標示標準之決定權限限屬FDA而非州政府或
+法院174。
+
+      類似之見解亦可見於Medronic, Inc. v. Lohr案（以下簡稱Lohr
+案）175。在Lohr案中，當事人使用經FDA核准之起搏器而受傷，遂
+依州法提起過失（negligence）及嚴格責任（strict liability）之侵權
+訴訟 176 ；廠商主張州法允許當事人就產品設計缺陷（negligent
+design）提起侵權訴訟，已屬增加或改變（different from, or in
+addition to ） FDCA （ 依 醫 療 器 材 修 正 法 （ Medical Device
+Amendment of 1976，簡稱MDA）修正）所規範醫療器材設計之要
+求（requirement），類似之州法規定均應依FDCA第521條之聯邦法
+效力優先條款177加以排除（與聯邦巡迴法院在Turek案中，認為食
+品標示管制應排除州消費者保護法規範之見解類似）178。但美國聯
+邦巡迴法院認為州法有關侵權訴訟之規定，並非屬FDCA第521條
+之聯邦法效力優先條款所欲排之客體179；聯邦最高法院亦持相同態
+度，認為：（1）國會通過FDCA第521條聯邦法效力優先條款時之
+
+
+    remedy to farmers and others who are injured as a result of a manufacturer’s
+    violation of FIFRA’s labeling requirements, nothing in § 136v(b) precludes States
+    from providing such a remedy.” Id. at 448.
+174 Turek v. General Mills, Inc., 662 F.3d at 427.
+175 See Medronic, Inc. v. Lohr, 518 U.S. 470.
+176 Medronic, Inc. v. Lohr, 518 U.S. at 480-81.
+177 Sec. 521(a) of FDCA, “[N]o State or political subdivision of a State may establish or
+    continue in effect with respect to a device intended for human use any requirement
+    (1) which is different from, or in addition to, any requirement applicable under [the
+    MDA] to the device, and (2) which relates to the safety or effectiveness of the device
+    or to any other matter included in a requirement applicable to the device under [the
+    Act].”
+178 Medronic, Inc. v. Lohr, 518 U.S. at 486.
+179 Id.
+274                                                            2015 行政管制與行政爭訟
+
+
+
+立法者原意應納入考量180，
+             （2）而該條款之立法目的僅在統一各州
+衝突之規範標準，以免增加業者之法遵成本，而非排除業者在其他
+法律規範（包括州法）上有關醫療器材製造所應遵循之義務181。而
+聯邦最高法院在本案中，就聯邦法效力優先原則涵攝範圍係採相等
+性 （ equivalence ） 標 準 182 ， 亦 即 州 法 僅 在 醫 療 器 材 製 造 要 求
+（requirement）與FDCA不一致時，始受聯邦法效力優先原則之拘束
+而需排除183（與聯邦最高法院在Bates案之見解相同）。但更值得注
+意的是，相較於法院在食品標示案件中多要求州法須與
+FDCA/NLEA完全一致（identical），聯邦最高法院在本案中則是認
+為州法與聯邦法（FDCA/MDA）相同（equal to）或實質上一致
+（substantially identical to）即可通過相等性標準之檢視184，而對聯
+邦法效力優先原則採較為限縮之解釋方式。
+
+       由前述案件之分析不難發現，相較涉及FDCA其他議題之案
+件，法院在食品標示案件上就聯邦法效力優先原則所採之立場，似
+乎較為保守，而與Clarence Thomas與Antonin Scalia大法官在Bates案
+之不同意見（dissents），有若合符節之處。Thomas與Scalia大法官
+認為，不宜將FIFRA之聯邦法效力優先條款作限縮之解釋，因為即
+令州侵權法並未增加FIFRA所無之「標示要求」，卻仍可能因州侵
+權法允許個人就不當標示作為損害賠償之訴因（cause of action），
+而間接產生標示之「附帶要求」（supplemental requirement），故仍
+須受聯邦法效力優先原則之檢視185；而此見解與前述食品廠商在不
+
+
+180 Id. at 484.
+181 Id. at 491.
+182 Andre, supra note 41, at 237-38.
+183 Medronic, Inc. v. Lohr, 518 U.S. at 496-97.
+184 Id.
+185 Justice Thomas, with whom Justice Scalia joins, concurring in the judgment in part
+      and dissenting in part, “A state-law cause of action, even if not specific to labeling,
+      nevertheless imposes a labeling requirement “in addition to or different from”
+      FIFRA’s when it attaches liability to statements on the label that do not produce
+食品標示規範之檢討                                                                         275
+
+
+當食品標示訴訟中之主張類似，亦即認為州消費者保護法規範中與
+NLEA有關之食品標示規範（不論是否與「標示要求」有關）
+                           ，均應
+受NLEA聯邦法效力優先條款之拘束而無效。
+
+     但若暫時不論Bates案中Thomas與Scalia大法官之不同意見，仔
+細觀察NLEA中有關聯邦法效力優先原則之規定，似與FIFRA有相
+似之處；因此是否可依聯邦最高法院在Bates案之見解，在部分州
+法（如消費者保護法）上有排除聯邦法效力優先原則適用之空間，
+似非無討論之空間。
+
+     首先，NLEA第6條（FDCA第403A條）條中有關聯邦法效力優
+先原則之規定如下186：
+
+     (a) [N]o State . . . may directly or indirectly establish under
+           any authority or continue in effect as to any food in
+           interstate commerce --
+     (1) any requirement for a food which is the subject of a
+           standard of identity established under section 341 of this
+           title that is not identical to such standard of identity or that
+           is not identical to the requirement of section 343(g) of this
+           title . . .,
+     (2) any requirement for the labeling of food of the type
+           required by section 343(c), 343(e), 343(i)(2), 343(w), or
+           343(x) of this title that is not identical to the requirement
+           of such section . . .,
+     (3) any requirement for the labeling of food of the type
+
+
+
+    liability under FIFRA. The state-law cause of action then adds some supplemental
+    requirement of truthfulness to FIFRA’s requirement that labeling statements not be
+    “false or misleading.” Id. at 454.
+186 21 U.S.C. § 343-1(a).
+276                                                    2015 行政管制與行政爭訟
+
+
+
+           required by section 343(b), 343(d), 343(f), 343(h),
+           343(i)(1), or 343(k) of this title that is not identical to the
+           requirement of such section ...,
+      (4) any requirement for nutrition labeling of food that is not
+           identical to the requirement of section 343(q) of this
+           title . . .,
+      (5) any requirement respecting any claim of the type
+           described in section 343(r)(1) of this title, made in the
+           label or labeling of food that is not identical to the
+           requirement of section 343(r) of this title . . . .
+
+      由條文規定之內容可發現，不受NLEA聯邦法效力優先原則規
+範、州政府可自為規範之情形可能包括：
+                 （1）不在NLEA第343-1(a)
+條所例示規定的範圍內，如產地標示；（2）州法與FDCA之規範完
+全一致（identical）；（3）涉及FDCA所未規範之標示內容187。在此
+架構下，以Samet案為例，若Samet於訴訟中要求Proctor & Gamble
+Co.所標示者，並非新增FDCA所無之食品標示內容，而係要求在
+「人工風味」之文字中（此為FDCA有關食品標示需有之要求）釐
+清此產品與圖樣間之差距，以避免誤導消費者，該訴訟上之請求
+─若依Bates案或Lohr案之判決觀察─應非完全與FDCA/NLEA
+之規範不同，故是否得逕用聯邦法效力優先原則規範加以駁回排
+除，並非毫無爭論空間。但聯邦地區法院在Samet案，卻僅因Samet
+係依據州法（消費者保護法）提出訴訟，便逕認其違反
+FDCA/NLEA聯邦法效力優先原則而判決其敗訴，不僅未進一步檢
+視消費者請求之內容與FDCA/NLEA規範間之異同（相較於Bates
+案）、未檢視立法者制定聯邦法效力優先條款原意是否意欲排除
+「所有」州法或消費者訴訟權利在不當食品標示管制上之適用（相
+
+
+187 Zarski, supra note 15, at 1133.
+食品標示規範之檢討                                                                       277
+
+
+較於Lohr案）、亦未深入討論是否應限縮解釋聯邦法效力優先條款
+之適用範圍（亦即州法與聯邦法內涵相同（equal to）或實質一致
+（or substantially identical to）即可，而毋須完全一致（identical），
+參考Lohr案），在前述審查標準均未充分滿足之情形下，Samet案之
+判決見解似非妥適。亦有學者主張，與食品標示有關之州法，應僅
+在其條文內容可能影響FDCA立法目的之前提下，就該條文始有受
+聯邦法效力拘束之必要 188 （與聯邦最高法院在Bates案之立場一
+致）；而在消費者權利保障之前提下（與FDCA立法目的一致），法
+院應將聯邦法效力優先原則作限縮解釋（narrow preemption）
+                                   ，某種
+程度保留州法在不當食品標示管制上、或民眾依據州法對不當食品
+標 示 採 取 適 當 法 律 行 動 （ 即 圖 1 所 稱 之 the individual right to
+enforce）之彈性189。
+
+     而另一點需說明者為，Bates案、Lohr案之內容與食品標示並無
+直接關聯性（前者為與殺蟲劑標示爭議有關，後者責涉及醫療器
+材），因此美國聯邦最高法院是否可能係有意在不同法規範、不同
+事務領域中採取不同之司法審查標準（聯邦地區法院在Mills v.
+Giant of Md., LLC案中便採類似立場）190？本文並無從臆測聯邦最
+高法院之態度（且聯邦最高法院亦尚未就聯邦法效力優先原則在食
+品標示特定案例上表示意見），但仍可從以下幾點發現，聯邦最高
+法院在Bates案或Lohr案中就聯邦法效力優先條款所採寬鬆解釋之立
+場，的確逐漸對NLEA食品標示聯邦法效力優先條款之審查標準，
+產生影響：（1）不論FIFRA或MDA，其聯邦法效力優先條款之撰
+寫方式，均與NLEA相似（如聯邦地區法院在涉及食品標示之
+Vermont Pure Holdings, Ltd. v. Nestle Waters North America, Inc.案
+
+188 Howard L. Dorfman et al., Presumption of Innocence: FDA’s Authority to Regulate
+    the Specifics of Prescription Drug Labeling and the Preemption Debate, 61 FOOD &
+    DRUG L.J. 585, 593-95 (2006).
+189 Andre, supra note 41, at 252. See also Negowetti, supra note 57, at 7-10.
+190 Mills v. Giant of Md., LLC, 441 F. Supp. 2d 104, 107 (D.D.C. 2006).
+278                                                        2015 行政管制與行政爭訟
+
+
+
+中 ，便 仔細 比較 NLEA 與 FIFRA 之 聯邦 法效 力優 先條 款之 相似
+性 ）191 ， 且 均 在 處 理 標 示 （ labeling ） 或 設 定 規 範 要 求
+（requirement）之事務；甚且MDA與NLEA均屬FDCA之規範內容
+（亦均屬FDA所管轄之事務）
+             。在法條文字雷同與管制事務性質相似
+之前提下，聯邦最高法院在Bates案或Lohr案中就聯邦法效力優先原
+則所作之審查標準見解，應可作為食品標示案件之參考192。
+                           （2）進
+一步，雖然聯邦法院就聯邦法效力優先原則在食品標示案件之適用
+上，是否應採如聯邦最高法院在Bates案與Lohr案之限縮見解，仍無
+一致立場─如在Mills v. Giant of Md., LLC案中，聯邦地區法院便
+認為NLEA之聯邦法效力優先條款較FIFRA涵蓋範圍更廣193；而在
+Vermont Pure Holdings, Ltd. v. Nestle Waters North America, Inc.案
+中，聯邦地區法院在考量NELA立法目的與FDA對聯邦法效力優先
+條款之解釋後194 ，則採相反立場195 ──但不可否認，的確有法院
+受到聯邦最高法院在Bates案與Lohr案之見解影響，重新思考並檢討
+聯邦法效力優先原則在食品標示案件之應用，並同意聯邦法效力優
+先原則審查標準應將立法目的與立法者原意納入考量，且不應侷限
+於聯邦法與州法形式上文字異同之見解196。
+
+三、Lanham Act與食品標示規範之關聯性
+       承前述，雖然Bates案、Lohr案等案例事實與食品標示並無直接
+之關聯性，但因FIFRA、MDA與NLEA之聯邦法效力優先條款內容
+類似，且管制事務亦有其相似性，故聯邦最高法院在這些案例中對
+
+
+191 Vermont Pure Holdings, Ltd. v. Nestle Waters North America, Inc., NO. 03-11465-
+      DPW, 2006 U.S. Dist. Lexis 13683, at 18 (D. Mass. Mar. 28, 2006).
+192 Andre, supra note 41, at 238, 246.
+193 Mills v. Giant of Md., LLC, 441 F. Supp. 2d at 108.
+194 Vermont Pure Holdings, Ltd. v. Nestle Waters North America, Inc., NO. 03-11465-
+      DPW, 2006 U.S. Dist. Lexis 13683, at 18 (D. Mass. Mar. 28, 2006).
+195 Id. at 16-17, 21.
+196 Andre, supra note 41, at 245-46.
+食品標示規範之檢討                                                                           279
+
+
+聯邦法效力優先原則之審查標準，應可作為食品標示爭議中，判斷
+FDA是否有主管並獨占食品標示管制權力、得否排除「所有」涉及
+食品標示管制內容之州法（如侵權法或消費者保護法）適用之參考
+依據。
+
+      而至2014年POM Wonderful案中，聯邦最高法院在面對食品標
+示 之 不 同 聯 邦 法 規 範 衝 突 時 —— 即 FDCA 與 商 標 法 （ Lanham
+Act）——所採之立場，似乎為傳統食品標示案例中所採嚴格之聯
+邦法效力優先原則適用方向（不僅要求州法與FDCA之食品標示規
+範須完全一致，甚至連食品標示標準之決定權亦限僅屬FDA），創
+造出一個重新思考的空間197。
+
+      在進一步分析POM Wonderful案，本文需先簡單介紹另一個可
+能與食品標示管制相關之聯邦法：Lanham Act198。Lanham Act原係
+就可能影響市場公平競爭之虛偽不實或引人錯誤之商標進行管
+制199；而因該法案之立法目的在確保公平交易，其規範範圍亦逐漸
+擴張至商標保護以外200，亦納入不當廣告201─若產品廣告或促銷
+（advertisement or promotion）有「不實描述產品、服務或商業活動
+之本質、特色、品質、產地（misrepresents the nature, characteristics,
+qualities, or geographic origin of his or her or another person’s goods,
+services, or commercial activities）」 202 之情形時，則市場競爭者
+
+
+
+197 See POM Wonderful LLC, 134 S. Ct. 2228.
+198 但須說明，因Lanham Act管制規範十分複雜，且運用在食品標示時，如何調和
+    與FDCA之衝突，更涉及FTC不同內規、政策指引等文件，其內容遠非本文篇
+    幅所能處理；故本文僅能簡單就Lanham Act內容與其在處理食品標示議題上可
+    能與FDCA產生之差異，簡單介紹，而無法進行更深入之分析。
+199 15 U.S.C. § 1127. See also FORTIN, supra note 12, at 425.
+200 See, e.g., Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23, 29 (2003).
+201 See, e.g., Lexmark Int’l, Inc. v. Static Control Components, Inc., 134 S. Ct. 1377,
+    1395 (2014).
+202 15 U.S.C. § 1125(a)(1)(B).
+280                                                     2015 行政管制與行政爭訟
+
+
+
+（market competitor，需證明因此受有經濟損失203 ，但不包括消費
+者）可依Lanham Act提起暫時禁制令或訴訟204。因此，食品產品之
+描述若為虛偽不實或引人錯誤，因亦可能造成市場不公平競爭，自
+屬Lanham Act之規範客體；但因食品標示亦涉及食品產品之描述，
+故不當食品標示是否應受（FDCA以外）Lanham Act之規範，便引
+起爭議205。
+
+       而引起爭議之主要原因在於，雖然FTC就不當廣告之判斷標準
+（一般理性民眾標準）已被FDA納入作為不當標示之判斷參考 206
+（見本文「壹、二」），但兩者於不當標示與不當廣告之判斷標準仍
+非完全一致207，亦即符合FDCA要求之食品標示仍可能被視為不當
+廣告（反之亦然），而造成管制上之衝突。而食品業者則較傾向支
+持排除Lanham Act之適用208（如Coca-Coal在POM Wonderful案之主
+張，詳後述），主要原因便在於Lanham Act對不當食品標示之管制
+密度可能較FDCA更為嚴格（也相對對消費者保障較為有利）：
+（1）首先，FDCA為統一事權，不當食品標示均係由FDA加以管
+制，並未允許廠商得提起訴訟；但在FDA資源及管制工具均有限之
+情形下，其對不當食品標示之管制又往往力有未逮 209 （見本文
+「壹、二」，如研究便發現食品業者對於FDA之警告信多不與理
+會210），在管制不力與欠缺訴訟提起管道之雙重影響下，業者在食
+
+
+203 Id. See also Lujan v. Defenders of Wildlife, 503 U.S. 555, 560 (1992).
+204 See, e.g., Novartis Consumer Health, Inc. v. Johnson & Johnson-Merk Consumer,
+      290 F.3d 578 (3d Cir. 2002).
+205 FORTIN, supra note 12, at 426.
+206 67 Fed. Ref. 78002, 78003 (Dec. 20, 2002).
+207 HUTT, supra note 49, at 458.
+208 Stephen J. White, Jr., How Far Does the Apple (Pomegranate) Fall from the Tree?
+    Preclusion of Lanham Act Claims by the Food, Drug, & Cosmetic Act and POM
+    Wonderful, LLC v. Coca-Cola Co., 15 WAKE FOREST J. BUS. & INTELL. PROP. L. 262,
+    285 (2015).
+209 Pomeranz, supra note 91, at 619.
+210 Negowetti, supra note 57, at 8-9.
+食品標示規範之檢討                                                                       281
+
+
+品標示上便有較大之管制模糊空間。相較之下，Lanham Act允許市
+場競爭者提起訴訟，等於賦予欲維護（或爭取）市場占有之食品業
+者動機去挑戰不當食品標示，故即令FTC之管制能量不足，透過訴
+訟機制仍能達到管制食品標示之目的211。因此，在食品標示規範上
+納入Lanham Act，一方面將導致原本較可預測之FDCA食品標示要
+求，因訴訟機制之介入，增加業者在食品標示上需承受之風險與不
+確定性（但仍有業者支持食品標示規範不應排除Lanham Act，其理
+由便是因為允許訴訟之提出將可有效保障其市場競爭力）212；另方
+面，其亦能藉由業者之相互監督，間接達到保障消費者之目的213
+（惟須注意，此與直接賦予消費者訴訟之權利仍有差別，因業者與
+消費者之利益並非全然一致，詳本文「貳、四」
+                    ）。（2）Lanham Act
+對於不當廣告之判斷標準一般較FDCA更為全面（亦即對業者要求
+較為嚴格），因前者著重在防止市場不當競爭，故Lanham Act要求
+FTC檢視食品標示之內容與範圍將包括「任何」可能影響市場公平
+競爭之要素 214 ；相對而言，FDCA政策目標在保護消費者知的權
+利，故管制工具之設計僅著重確保食品業者在「特定」項目上之資
+訊提供與正確性215，因此範圍較為限縮。也因此，便可能發生食品
+業者於標示上已依FDCA要求就特定項目提供必要且正確之資訊，
+但在FDCA規範範圍外有引人錯誤之爭議時，FDA便無管制之權
+力；然若依Lanham Act，因其係整體檢視食品標示對市場競爭之影
+響（未如FDCA侷限於特定項目內容之要求），故就前述FDCA規範
+
+
+211 Jennifer Thurswell Radis, The Lanham Act’s Wonderful Complement to the FDCA:
+    POM Wonderful v. Coca-Cola Enhances Protection Against Misleading Labeling
+    through Integrated Regulation, 47 LOY. U. CHI. L.J. 369, 425 (2015).
+212 Pomeranz, supra note 91, at 619.
+213 Gene Markin, Misleading Food Labeling and Advertising under the Lanham Act and
+    the FDCA, 34 GP SOLO 18, 19 (2017).
+214 Johnson & Johnson v. Carter-Wallace, Inc., 631 F.2d 186, 189 (2d Cir. 1980). See
+    also Daniel J. Mulcahy, Section 43(a) of the Lanham Act: Its Development and
+    Potential, 3 LOY. U. CHI. L.J. 327, 327 (1972).
+215 Radis, supra note 211, at 427.
+282                                                     2015 行政管制與行政爭訟
+
+
+
+範圍外之食品標示內容，仍有管制之權力，從而可以提供市場競爭
+者 及 消 費 者 較 完 整 之 保 障 （ 此 即 John Roberts 大 法 官 在 POM
+Wonderful案之辯論庭中所說，即令食品標示完全符合FDCA規範，
+也可能是商業競爭上不當廣告（“label that fully complies with the
+FDA regulations [could also be] misleading on the entirely different
+question of commercial competition... that has nothing to do with
+health.” ） 之 情 形 ） 216 。（ 3 ） 至 若 在 法 規 範 要 求 上 ， FDCA 與
+Lanham Act可能互有寬嚴，因此難謂何者對消費者權利之保護比較
+完整；但若單獨僅以FDCA管制食品標示，則在特定領域便可能忽
+略較為嚴格（亦即對不當廣告認定標準較為寬鬆）之Lanham Act規
+範 ， 從 而 導 致 對 消 費 者 保 護 之 落 差 。 舉 例 而 言 ， FTC 對 POM
+Wonderful某個產品有關心臟病之健康宣稱，便要求業者應檢附兩
+個符合科學研究設計要求、隨機（randomized）、雙盲（double-
+blind）且妥善執行之臨床試驗，證明其健康宣稱217（因其認為該健
+康宣稱涉及嚴重且與生命相關之疾病，故有嚴格檢視之必要）218；
+但此並非FDA對健康宣稱之規範要求（即令是最嚴格之SSA，亦僅
+需要合格專家認定該健康宣稱具科學一致性即可，臨床試驗資料並
+非必要；更何況廠商尚可在不需證明科學上顯著關係、取得研究授
+權聲明後，便可使用健康宣稱，詳本文「壹、三」
+                     ）。
+
+四、POM Wonderful LLC. v. Coca–Cola Company案之影響
+      POM Wonderful案主要爭議便涉及Lanham Act與FDCA之衝突與
+競合，並改變傳統上法院認為食品標示規範應適用FDCA並排除
+
+
+
+216 Michael Bobelian, In POM v. Coca-Cola, Supreme Court Could Shake up Food
+    Labeling, FORBES (Apr. 22, 2014), https://www.forbes.com/sites/michaelbobelian/
+    2014/04/22/supreme-court-asked-to-referee-dispute-between-coca-cola-and-pom/#62
+    52fca21c15.
+217 In the Matter of POM Wonderful, 2013-1 Trade Case P 78220 (Jan. 16, 2013).
+218 Id.
+食品標示規範之檢討                                                                       283
+
+
+Lanham Act之見解219。在本案中，POM Wonderful銷售一款石榴混
+合藍莓之綜合果汁，而Coca–Cola旗下的美粒果產品同樣販售一款
+名為石榴藍莓之綜合果汁，惟其產品成分標籤上主要成分為蘋果與
+葡萄汁，只有極少數的石榴及藍莓成分，POM Wonderful主張
+Coca–Cola所生產產品（綜合果汁）之食品標示內容（非商標）可
+能造成消費者誤會該產品與POM Wonderful之產品（石榴藍莓綜合
+果汁）為同一產品（詳見後文「參、二」之說明）；由於POM
+Wonderful之主張主要係立基於Lanham Act之規範（亦即是否構成誤
+導或詐欺之判斷，係依Lanham Act中有關商標之規範加以判斷，而
+非依據FDCA之食品標示標準判斷），Coca–Cola因此主張，若法院
+依據Lanham Act做出判決，因Lanham Act與FDCA之規範不盡相
+同，便將可能違反FDCA在食品標示上排除（preclude）Lanham Act
+適 用 之 規 定 ， 甚 至 違 反 FDCA 採 聯 邦 法 效 力 優 先 原 則 之 精 神
+（Coca–Cola Company即主張FDCA第403A條中有關聯邦法效力優先
+原則之規定，暗示FDA應屬食品標示唯一且權威之主管機關，不僅
+排除州法，亦同時排除其他聯邦法規範之適用）220。
+
+     美 國 聯 邦 地 區 法 院 及 聯 邦 巡 迴 上 訴 法 院 （ circuit court of
+appeals）同意Coca–Cola之主張，而認為FDCA及FDA關於果汁標示
+之相關規定已直接對POM Wonderful（依據Lanham Act）所主張之
+食品標示議題作出規範，從而已無Lanham Act適用之空間221；其亦
+認為排除Lanham Act將可避免對FDA之專業判斷作出不適當之干
+
+
+
+219 Theodore H. Davis Jr. & Jaclyn T. Shanks, POM Wonderful LLC v. Coca–Cola Co.:
+    The Supreme Court Juices Up Section 43(a) of the Lanham Act, 7 LANDSKIDE 1, 3
+    (2014), https://www.americanbar.org/content/dam/aba/publications/landslide/2014_
+    september_october/ABA_LAND_v007n01__pom_wonderful_llc_v_cocacola_co_th
+    e_supreme_court_juices_up_section_43a_of_the_lanham_act.authcheckdam.pdf. See
+    also Pezzullo, supra note 44, at 333-34.
+220 POM Wonderful LLC, 134 S. Ct. at 2231, 2236.
+221 Sagehorn, supra note 50, 119.
+284                                                         2015 行政管制與行政爭訟
+
+
+
+預222。
+
+       但聯邦最高法院在此卻認為即令食品標示已嚴格遵守FDCA之
+食品標示規範標準，仍有可能構成不實或詐欺223；換言之，食品標
+示是否構成不實或詐欺，已非僅遵守FDCA之規範即可，而仍須符
+合Lanham Act之規範（即令此規範與FDCA之規範內容並非完全一
+致（identical）亦然），從而打破歷來法院在食品標示上對FDCA食
+品標示規範嚴格適用之態度。
+
+       詳言之，聯邦最高法院認為雖然NLEA採取聯邦法效力優先原
+則，暗示國會在FDA之管制上希望能達成統一管制之標準；但聯邦
+法效力優先原則僅限制州法與聯邦法衝突時，後者具優位效力，但
+並不排除其他聯邦法之適用224。且國會對於FDCA與Lanham Act間
+對不當標示規範之差異，（自1946年Lanham Act通過以來）並未曾
+嘗試加以整合（harmonize），似也在暗示國會並無意將FDA定位為
+食品標示管制之唯一且排他（exclusive）之管制者，並藉此排除
+（preclude）其他聯邦法規範之適用。換言之，與Bates案不同，聯邦
+最高法院在POM Wonderful 案之判決中明確認為美國國會訂定
+FDCA與Lanham Act之意圖在於使兩法皆能完善規範食品標示與商
+標事項，並未刻意排除彼此之適用；且Lanham Act立法已超過70
+年，國會並未曾針對FDCA修法以排除適用Lanham Act，故國會雖
+然立法使FDA擁有管理食品標示的權力，但該規定並非暗示或意味
+FDCA之規定可排除其他聯邦法規中有關私人權利保障之規定。
+
+       但須注意者為，聯邦最高法院在POM Wonderful案之判決中，
+並未直接觸及聯邦法效力優先原則225，而是間接地承認聯邦法律雖
+
+222 Id. at 120.
+223 POM Wonderful LLC, 134 S. Ct. at 2237.
+224 Id. at 2231, 2236.
+225 Matthew Busch, POM Wonderful v. Coca-Cola and the Implications of Granting
+      Competitors the Right to Challenging False or Misleading, 48 LOY. L.A. L. REV. 525,
+食品標示規範之檢討                                                                     285
+
+
+然獨立存在與執行，但彼此間亦有相輔相成之關係，而在不同法規
+（如FDCA與Lanham Act）可能有交集的情况下，若國會沒有明確排
+除其他聯邦聯邦法律之執行，則在特定議題上（如食品標示）仍須
+承認不同法規競合之可能性226；換言之，FDA不再是食品標示標準
+之惟一決策機關227。
+
+     而聯邦最高法院認為食品標示可同時受到FDCA與Lanham Act
+規範，後續可能產生之問題在於，管制上重疊或權責不清之困境是
+否可能更形惡化？本文認為答案並非絕對，而需視從何者之角度來
+檢視POM Wonderful案對食品標示管制之影響。（1）傳統上，食品
+標示管制重疊或權責不清之困境，來自於Lanham Act是否應被排除
+適用，在實務上並不確定228，而POM Wonderful案某種程度解決了
+這個爭議。（2）就FDA與FTC而言，將可藉此重新檢視FDCA與
+Lanham Act在食品標示管制上所可能出現之規範衝突性，並進一步
+加 以 調 和 。 在 POM Wonderful 案 前 ， 雖 然 FTC 已 不 斷 嘗 試 調 合
+（harmony）其就廣告之管制規範與FDA之食品標示管制規範之衝
+突229 （包括採納FDA在健康宣稱上所採之「科學顯著認定」標
+準）230，但在個案上仍不時出現與FDA不同之判斷（如FDA認定不
+得為健康宣稱之產品，FTC卻允許在廣告作健康訴求，反之亦
+
+
+
+    532 (2015).
+226 B. Brett Heavner, Supreme Court Holds Lanham Act Is Not Pre-empted by FDA
+    Regulation in POM Wonderful Decision, FINNEGAN (June 16, 2014), https://www.
+    finnegan.com/zh-CHT/insights/supreme-court-holds-lanham-act-is-not-pre-empted-
+    by-fda.html. See also Bobelian, supra note 216.
+227 Bety Javidzad, Floor or Ceiling: In POM Wonderful LLC v. Coca-Cola Company,
+    the U.S. Supreme Court Ruled That One Food Manufacturer May Sue Another Over
+    FDCA Compliant Food Labels, 37 L.A. LAW. 30, 32 (2015).
+228 Hilary G. Buttrick & Courtney Droms Hatch, Pomegranate Juice Can Do That?
+    Navigating the Jurisdictional Landscape of Food Health Claim Regulation in a
+    Post-POM Wonderful World, 49 IND. L. REV. 267, 280 (2016).
+229 FTC on FDA Regs: Harmonization Is the Key, FTC WATCH, Dec. 21, 1992.
+230 See 1994 Policy Statement, 59 Fed. Reg. at 28,393.
+286                                          2015 行政管制與行政爭訟
+
+
+
+然231；見本文「貳、三」
+            ）；而FDA亦屢次拒絕FTC就食品標示議題
+所提出之修法建議232 ，食品廠商因此得以遊走於FDCA與Lanham
+Act規範之灰色地帶。POM Wonderful案後，聯邦最高法院既已明確
+表示食品標示應同時受到FDCA與Lanham Act之規範，便可促成
+FDA與FTC重新思考，既然管制權限之重疊已不可避免，是否有需
+要調整管制上之衝突，以避免個案判斷不一致，所可能後續造成消
+費者混淆與市場不穩定之負面影響（如有學者便建議FTC應就允許
+未經FDA核准之食品標示作為廣告內容，進行成本效益分析233；亦
+有學者建議國會應進一步釐清FDA與FTC在食品標示管制上之權
+責234）。（2）就食品業者而言，在面對FDCA與Lanham Act之不同
+標準時，的確可能受到法律訴訟增加及成本攀升之不利益（如在
+Coca-Cola便可能不能再使用「石榴藍莓綜合果汁」之食品標示）；
+但從另一面向觀察，食品業者亦可因此受到較完整之保障（如
+POM Wonderful便可排除Coca-Cola產品之食品標示構成不當廣告，
+以避免對其市占造成負面影響）。故就整體食品產業而言，雖然食
+品標示內容可能因業者得依Lanham Act提起訴訟而處於較不確定之
+狀態235（相較於FDA之明確行政管制架構），但食品業者在食品標
+示之策略上便會同時將FDCA與Lanham Act納入考量，從而使食品
+標示與食品廣告之內涵在實務上趨於一致（但仍有待後續觀
+察）236 。（4）最後，就消費者而言，FDA（就食品標示）與FTC
+（就食品廣告）之管制目的本不相同，前者在提供正確資訊與確保
+消費者經濟利益，後者則是防止不當廣告進入市場而影響競爭廠商
+之利益237；因此，若食品標示得同時受到FDCA與Lanham Act之規
+
+
+231 Hyman, supra note 46, at 202.
+232 Id. at 198.
+233 Id. at 203.
+234 Buttrick, supra note 228, at 301, 304.
+235 White, supra note 208, at 284-85.
+236 Id. at 285.
+237 Hyman, supra note 46, at 204.
+食品標示規範之檢討                                                                        287
+
+
+範，消費者所受之保障將更為完整，而不致於發生該當不當廣告內
+容之食品標示，卻因符合FDCA對食品標示之規範（且FTC亦尊重
+FDA之管制權限）、法院亦排除Lanham Act之適用（認食品標示專
+         ，而落入無從管制之空窗238。
+屬FDA之管制權限）
+
+五、消費者保護法在食品標示案件應用之可能性？
+     詳言之，由POM Wonderful案之判決中不難發現，聯邦最高法
+院對於嚴格限制僅由FDCA管制食品標示之原則已有所鬆動，並且
+未排除FDCA與Lanham Act同時規範食品標示之可能性；雖然聯邦
+最高法院在該案中，對各州之消費者保護法是否能在聯邦法效力優
+先原則下與FDCA同時適用於食品標示案件，並未直接作出評
+斷239，但在相同之邏輯下（FDCA並非食品標示管制之唯一且排他
+規範，並藉此改變不同聯邦法律間之互動框架）240， 傳統上依聯
+邦法效力優先原則判斷FDCA在食品標示案例中之優位地位、完全
+排除消費者保護規範適用之法院見解，仍有可能受到挑戰241。而嘗
+試在不當食品標示案件中納入消費者保護規範之適用，其論述之所
+以重要，係因在目前美國法律體系下，FDCA與Lanham Act均未賦
+予消費者得就不當食品標示單獨提起訴訟之權利242─一方面，法
+院認定FDCA僅賦予聯邦政府（而非民眾）得就不當食品標示提起
+訴訟之權利243；另方面，在涉及廣告之不當食品標示上，Lanham
+
+238 Bobelian, supra note 216.
+239 Adam M. Reich et al., POM Wonderful LLC v. Coca-Cola Company: How the Tides
+    Turned in the Legal Food Fight?, PAUL HASTINGS (July 1, 2014), https://www.
+    paulhastings.com/publications-items/details/?id=3a7fe169-2334-6428-811c-ff00004c
+    bded.
+240 Busch, supra note 225, at 531.
+241 Reich et al., supra note 239. See also Javidzad, supra note 227, at 32.
+242 Negowetti, supra note 57, at 10. Buttrick, supra note 228, at 279. See also POM
+    Wonderful LLC, 134 S. Ct. at 2234.
+243 See, e.g., Merrell Dow Pharm. Inc. v. Thompson, 478 U.S. 804, 806–07, 810 (1986);
+    Holloway v. Bristol-Myers Corp., 485 F.2d 986, 997 (D.C. Cir. 1973); Buckman Co.
+    v. Plaintiffs’ Legal Comm., 531 U.S. 341, 349 n.4 (2001).
+288                                                      2015 行政管制與行政爭訟
+
+
+
+Act亦僅賦予市場競爭者（而非民眾）得就不當廣告可能造成之不
+當競爭提起訴訟之權利244 ─故若完全排除州消費者保護法之適
+用，民眾要求落實FDCA食品標示規範之權利（the private right to
+enforce）或排除不當食品標示之權利（the private right of action）均
+將受到大幅限縮。
+
+       一般而言，多數學者仍認為在POM Wonderful案後，欲直接適
+用各州消費者保護規範挑戰FDCA有關食品標示之標準，仍有相當
+之難度245。在POM Wonderful案中聯邦最高法院雖然試圖於食品標
+示管制架構中納入Lanham Act以彌補FDCA管制不足之企圖，但因
+NLEA 第 6 條 （ FDCA 第 403A 條 ） 規 定 屬 聯 邦 法 效 力 明 示 優 先
+（express preemption）246，故法院對於FDCA在食品標示管制之優位
+地位仍應予以尊重，加上聯邦最高法院在POM Wonderful案之判決
+中，對於是否在食品標示議題上放寬聯邦法效力優先原則並允許州
+法在食品標示案件中扮演更重要之角色，並未做出判斷247；因此，
+即令在POM Wonderful案之判決後，聯邦法效力優先原則對於消費
+者利用各州消費者保護規範挑戰不當食品標示（如透過集體訴訟
+（class action）之方式要求廠商修正不當食品標示），似仍構成相當
+嚴格之障礙248。且須注意者為，與聯邦最高法院在Bates案對於聯
+邦法效力優先原則應如何適用在殺蟲劑、殺真菌劑和滅鼠劑之標示
+規範上有較為細緻且類型化之分析，並不相同。聯邦最高法院在
+Bates案中，依據FIFRA之規範內容，將殺蟲劑、殺真菌劑和滅鼠劑
+之標示規範與其他州法之法律規範衝突加以區隔，僅限於特定客體
+在特定規範內容上有所差異，始有聯邦法效力優先原則適用之空
+
+
+244 Buttrick, supra note 228, at 279. See also 15 U.S.C. § 1125 (2012); POM Wonderful
+      LLC, 134 S. Ct. at 2234.
+245 Pezzullo, supra note 44, at 339-40.
+246 Dages, supra note 137, at 1068.
+247 Busch, supra note 225, at 532.
+248 Id. at 532.
+食品標示規範之檢討                                                                         289
+
+
+間；但聯邦最高法院在食品標示之規範上，似乎仍將食品標示之內
+涵視為一整體而不可分割之概念（僅POM Wonderful乙案有將食品
+標示之意義擴張之傾向，詳見後文「參、二」之說明），從而造成
+食品標示在規範上對於消費者之保護可能出現不足之處。
+
+     但即令在聯邦法效力優先原則之限制下，因POM Wonderful案
+之判決中已明白食品標示是否構成不實或詐欺並非以FDCA之規範
+為唯一依歸，從而使消費者有機會透過FDA以外之行政機關（即
+FTC，亦同時具有維持市場秩序與保護消費者之功能）挑戰既有之
+FDCA食品不當標示規範249，使不當食品標示在阻礙有效率且公平
+之市場競爭時，能夠不再僵化地僅適用FDCA標準進行判斷。換言
+之，不當食品標示之判斷是否仍如Samet案所採之標準─即令食
+品標示內容矛盾，只要不違反FDCA標準即屬適法─便有可能受
+到挑戰。
+
+     其次，消費者可能繞過各州消費者保護法之規範，而與食品廠
+商之市場競爭者合作，藉由Lanham Act達到實質要求廠商改變不當
+食品標示之目的250；換言之，相較於FDCA明顯賦予行政機關權力
+而私人無法據以提起訴訟（須另透過消費者保護法提出），Lanham
+Act則提供私人提起訴訟救濟之管道，而市場競爭者在Lanham Act
+下被賦予請求改正不當食品標示之主張（an injunction requiring a
+product label change）
+                    ，通常與消費者保護法或公平交易法之權利保
+障機制所欲達成之目標相似251（即可要求不當食品標示改善之暫時
+狀態處分（injunctive relief [for misleading food labels that affects or
+may affect State or its residents]） 252 ，而前者之權利既已在POM
+
+249 Pomeranz, supra note 91, at 619.
+250 See Reich et al., supra note 239.
+251 Id.
+252 See, e.g., Consumer Product Safety Act § 2073(b)(1); Cal. Bus. & Prof. Code §
+    17200 (California’s Unfair Competition Law, or “UCL,” authorizes injunctive relief
+    and restitution). See also Diane Hoffmann & Jack Schwartz, Stopping Deceptive
+290                                                     2015 行政管制與行政爭訟
+
+
+
+Wonderful乙案得到確認，此時即令消費者透過各州之消費者保護規
+範可能有所障礙（見本文「貳、一」
+               ），其仍可在Lanham Act架構下
+與廠商合作達到原來消費者集體訴訟所希望達成之目的。進一步，
+Lanham Act之管制規範可能較FDCA更為全面，且在特定領域認定
+不當廣告之標準亦較為寬鬆（見本文「貳、三」），且在其不受
+NLEA第343-1(a)條要求需與FDCA管制標準完全一致（identical）
+之前提下253，消費者（與廠商合作）反而可能有更大空間在訴訟中
+要求以較FDCA更為寬鬆之方式解釋食品不當標示之內涵，並進一
+步挑戰在聯邦法效力優先原則下無法改變FDCA僵化食品標示規範
+之困境。
+
+      但不可否認，前述間接迂迴透過Lanham Act以達成消費者在不
+當食品標示案件中之權利保障，僅是在目前美國法律體系下，
+FDCA與Lanham Act均未賦予消費者得就不當食品標示單獨提起訴
+訟254，所不得不然之次佳（second best）解決方式；然改變FDCA
+僵化食品標示規範困境、充分保障消費者權益之最好方式，仍是直
+接修改FDCA，允許消費者得直接就不當食品標示提起訴訟255。可
+能之方案有二：（1）刪除FDCA之聯邦法效力優先條款以允許消費
+者得逕依州法就不當食品標示提起訴訟256。但需注意者為，刪除聯
+邦法效力優先條款，將使食品標示管制之權限不再侷限於FDA，從
+而使食品業者廠商必須面對各州不同之食品標示要求，業者之成本
+將可能大幅提高；故為避免類似之情況，FDCA之聯邦法效力優先
+
+
+    Health Claims: The Need for A Private Right of Action under Federal Law, 42 AM.
+    J.L. & MED. 53, 79 (2016).
+253 POM Wonderful LLC, 134 S. Ct. at 2231.
+254 Negowetti, supra note 57, at 10. Buttrick, supra note 228, at 279. See also POM
+    Wonderful LLC, 134 S. Ct. at 2234.
+255 James Springer, The Success of the Citizen Suit: Protecting Consumers from
+    Inaccurate Food Labeling by Amending the Federal Food, Drug, and Cosmetic Act,
+    68 FOOD & DRUG L.J. 401, 420 (2013).
+256 Buttrick, supra note 228, at 301-02.
+食品標示規範之檢討                                                                          291
+
+
+條款似仍有保留之必要性257。（2）修改FDCA允許消費者得直接就
+不當食品標示提起訴訟258。但直接修改FDCA，將涉及許多複雜議
+題，包括FDA在食品標示上之管制權限（如食品標示標準之建立）
+是否限縮259 、是否允許消費者在無經濟損失之前提下仍得提起訴
+訟、適當食品標示是否可能因訴訟時程而遭延宕等，且仍無法解決
+FDCA與Lanham Act衝突之問題（故亦有學者建議在FTC下另立新
+法）260；另，實務操作上亦將面對食品標示數量龐大、民眾欠缺能
+力判斷判斷標示功能與應包含內容等挑戰，故聯邦政府如何建立
+FDA、廠商、民眾之溝通平臺，以確保訴訟不致過於浮濫261，亦應
+於修改FDCA納入消費者訴訟權利時納入考量。綜上所述，不難發
+現修改FDCA涉及相當複雜之分析，非本文篇幅所能處理，故在此
+將不再作進一步深入分析。
+
+      最後值得一提的是，依循Lanham Act路徑間接達到消費者保護
+之目的，將形同賦予市場競爭廠商在避免消費者權利受食品不當標
+示侵害之架構中佔有重要且決定性之地位，並非適當之解決方案。
+故有學者便主張，既然NLEA第343-1(a)條中有關聯邦法效力優先原
+則之規定，並不禁止州法可就食品標示為規範，只要其與FDCA規
+範一致即可；因此，若州法中對於食品標示有與FDCA一致標準之
+規定，則在食品不當標示之案件中，應不妨礙消費者自行依各州消
+費者保護之規範自行提起訴訟之權利262（而不需再仰賴市場競爭食
+品廠商依Lanham Act提起訴訟），而能有效改變既有食品標示之管
+制模式263 （如廠商可能因擔心相關訴訟而自行更正不當標示之內
+
+
+
+257 Springer, supra note 255, at 411.
+258 Hoffmann, supra note 252, at 81. See also Springer, supra note 255, at 409.
+259 Hoffmann, supra note 252, at 81-82.
+260 Id. at 82-83.
+261 Springer, supra note 255, at 409-10.
+262 Dages, supra note 137, at 1079-80. See also Negowetti, supra note 57, at 11.
+263 Pezzullo, supra note 44, at 341-42.
+292                                                         2015 行政管制與行政爭訟
+
+
+
+容）
+ 。
+
+       總結而言，（1）聯邦最高法院在POM Wonderful案中並未推翻
+FDCA之聯邦法效力優先條款，僅認為除FDCA外，亦得依Lanham
+Act（同為聯邦法）判斷食品標示是否虛偽不實或引人錯誤；換言
+之，FDA仍有統一全國食品標示要求之行政權限，各州仍不得自行
+做出與FDCA不同之規範（見本文「貳、三」分析）。（2）聯邦最
+高法院亦未主張消費者得依Lanham Act提起訴訟。因Lanham Act並
+未賦予消費者得就不當食品標示單獨提起訴訟之權利264，故即令聯
+邦最高法院對於嚴格限制僅由FDCA管制食品標示之原則已有所鬆
+動，並認為同時可依Lanham Act規範食品標示，但在Lanham Act未
+修正前，仍「僅」得由市場競爭者於商業利益受有損害時就涉及不
+當廣告之食品標示提起訴訟，消費者仍無提起訴訟之權利（如聯邦
+地區法院在Church & Dwight Co. v. SPD Precision Diagnosis, GmbH
+乙案中便持此見解）265。
+            （3）就消費者得否依州法（如消費者保護
+法、侵權法），在不與FDCA食品標示規範衝突之前提下，就不當
+食品標示提起訴訟，聯邦最高法院則未直接表態；但因聯邦最高法
+院已某種程度表明FDCA並非食品標示管制之唯一且排他規範（雖
+非直接處理聯邦法效力優先原則，但立場與Bates案、Lohr案中對
+NLEA第6條採限縮解釋之見解─州法若與FDCA管制目的相同，
+                      ），故學者多
+並非均需予排除─有相近之處，詳見本文「貳、二」
+認為POM Wonderful案後允許消費者就不當食品標示依州法提起訴
+訟，雖有挑戰但不無空間266。許多州政府亦嘗試通過法律，允許消
+費者得就不當食品標示提起訴訟（如前文「壹、一」所述，加州
+
+
+264 Negowetti, supra note 57, at 10. Buttrick, supra note 228, at 279. See also POM
+      Wonderful LLC, 134 S. Ct. at 2234.
+265 See, e.g., Church & Dwight Co. v. SPD Precision Diagnosis, GmbH, No. 14-cv-
+      5852015, 2015 U.S. Dist. LEXIS 67187, at 33 (S.D.N.Y. Mar. 24, 2015).
+266 Javidzad, supra note 227, at 32. See also Pezzullo, supra note 44, at 339-40; Reich et
+      al., supra note 239.
+食品標示規範之檢討                                                                          293
+
+
+Sherman Law便在納入FDCA食品標示規範後，同時賦予消費者得
+就不當食品標示提起訴訟之權利）267 。但因相關判決案例仍屬有
+限268，故本文尚無法體系化分析法院在POM Wonderful案後就此議
+題之態度。（4）聯邦最高法院在POM Wonderful案中，的確承認主
+管機關（FDA、FTC）就食品標示是否虛偽不實或引人錯誤，均有
+執行與判斷之行政權限，但FDA與FTC在POM Wonderful案後卻仍
+未就其管轄權限應如何區分或競合，有進一步之討論；或許係因
+FDA與FTC認為其管制權限在傳統上已區分為食品標示與食品廣
+告269，故無再進一步就管轄權重疊部分再行釐清或修法。但學者仍
+批評，食品標示與食品廣告之界線並不明確，若未適當釐清，相關
+爭議在POM Wonderful案後將會不減反增270：在POM Wonderful案
+前 ， 食 品 業 者 係 主 張 食 品 標 示 為 FDA 所 專 屬 管 轄 ， 故 應 排 除
+Lanham Act之適用；但在POM Wonderful案後，食品業者爭訟重心
+將在爭執之食品標示是否具廣告性質而應受Lanham Act規範271。
+
+
+
+參、美國食品標示規範與言論自由之保障
+
+     如本文在前一部分之分析，在POM Wonderful乙案後，聯邦最
+高法院已肯認在不同法規（如FDCA與Lanham Act）可能有交集的
+情况下，國會並未禁止個別聯邦法律之單獨執行，故FDCA在食品
+
+
+267 Negowetti, supra note 57, at 1. See also Pezzullo, supra note 44, at 341-42.
+268 See, e.g., Class Action Complaint at 1–2, Janney v. Gen. Mills, 944 F. Supp. 2d 806
+    (N.D. Cal. 2013) (No. 4:12-cv- 03919-PJH); Briseño v. ConAgra Foods, Inc., No.
+    CV11-05379MMM (AGBx), 2011 WL 7939790 (C.D. Cal. June 28, 2011);
+    Lockwood v. ConAgra Foods, Inc., 597 F. Supp. 2d 1028 (N.D. Cal. 2009) (No.
+    3:08-CV-04151-CRB).
+269 Hyman, supra note 46, at 204.
+270 See Buttrick, supra note 228, at 293-94; Radis, supra note 211, at 428-29.
+271 See, e.g., Fed. Trade Comm’n v. Gerber Products Co., No. 2:13-cv-06771-SRC-
+    CLW (D. N.J. Oct. 29, 2014).
+294                                                              2015 行政管制與行政爭訟
+
+
+
+標示之案例上並未如以往具有獨斷且決定性之影響力，而需同時兼
+及Lanham Act之判斷標準，從而使商業競爭者在不當食品標示訴訟
+案上，能有更大之空間272。但在確認FDCA與Lanham Act在食品標
+示管制上之競合關係後，進一步需確認者為兩這間對食品標示之判
+斷標準應如何調和，而這有涉及美國憲法對商業性言論自由之保
+障。
+
+一、言論自由之影響
+
+      （一）食品標示之性質
+       就FDA之傳統立場而言，其多認為未經核准食品標示（尤其是
+健康宣稱）之屬性，在其本質上便已屬誤導消費者之標示，故並非
+屬言論自由保障之範疇，而對其進行嚴格之管制（甚至禁止），並
+無正當性之疑慮。但須注意者為，因聯邦最高法院在相關案例中，
+已將政府在相關管制若欲限制商業性言論，則應負舉證責任
+（burden of proof）證明該管制手段係具正當性 273 （詳後述），故
+FDA雖然仍嘗試維持其一貫將食品標示視為管制性言論之立場，並
+主張食品標示是否屬商業性言論並非毫無爭議274；但因FDA考量其
+仍須面對可能之挑戰，故在擬定NLEA時，仍將對言論自由之可能
+影響考慮進去，並在其相關立法說明中強調，即令食品標示屬商業
+性言論，對食品標示之管制並未違反美國憲法第一增修條文而對言
+論自由造成侵害275，因FDA對具誤導消費者之商業性言論─且即
+令係僅具潛在性誤導（potentially misleading）可能性之商業性言論
+─進行管制，具有其正當性276。
+
+
+272 See Reich et al., supra note 239.
+273 See, e.g., Board of Trustees of the State Univ. of New York v. Fox, 492 U.S. 469, 480
+      (1989) (“the State bears the burden of justifying its restrictions”).
+274 58 Fed. Reg. 2478, 2525 (Jan. 6, 1993).
+275 58 Fed. Reg. 2478, 2526 (Jan. 6, 1993).
+276 Id.
+食品標示規範之檢討                                                               295
+
+
+     詳言之，依據美國憲法第一增修條文有關言論自由保障之規範
+內容，民眾公開發表言論不受限制或審查之權利，以及不受強制為
+特定言論之權利，均應受到保障277。由於FDCA對於食品標示有要
+求為特定內容之標示或禁止標示之規定，且在違反相關規定時可能
+構成不當標示而有後續之罰則規範，因此FDCA有關食品標示之規
+定便與食品廠商在其產品上得做何種說明與宣示之言論自由，有密
+切之關聯性，也因此產生FDCA是否限制言論自由、該限制是否具
+正當性之爭論278。
+
+     但言論自由並非完全不能限制，通說採取價值取向（the value
+approach）之解釋方式，藉由分析憲法保障言論自由之目的，分析
+系爭言論自尤之價值，並評斷其是否在言論自由之保障範圍內279。
+也因此，美國聯邦憲法法院針對言論自由保障之審查，便衍生出同
+一人權（言論自由）體系中，可能因言論性質之差異，而有不同之
+審查標準280；亦即以言論對於社會之價值加以判斷，並分別給予不
+同程度之保障（亦即雙階理論，the two-level theory）281。詳言之，
+政治性言論（political speech）因被視為民主憲政體係不可或缺之
+ㄧ環，因此就管制之正當性便需要受到最嚴格之審查282；但非政治
+性言論，如商業性言論（commercial speech）283，雖同樣為言論自
+由之保障對象，惟因其與民主政治運作之憲政核心間之關聯性，並
+未如政治性言論緊密，故管制正當性之判斷可能不適合完全適用嚴
+
+
+277 史慶璞（註52）      ，頁190-194。
+278 SANCHEZ, supra note 1, at 103.
+279 林子儀，言論自由導論，收於：李鴻禧等合著，台灣憲法之縱剖橫切，頁134
+  （2002年）
+        。
+280 黃銘傑，美國法上的言論自由與商業廣告—兼論司法院大法官會議釋字第
+    414號解釋，臺大法學論叢，27卷2期，頁349（2007年）
+                                  。
+281 林子儀（註279）       ，頁154。
+282 See generally CASS R. SUSTEIN, DEMOCRACY AND THE PROBLEMS OF FREE SPEECH
+    121-29 (1993); 劉靜怡，言論自由第三講：政治性言論與非政治言論，月旦法
+    學教室，30期，頁58-59（2005年）  。
+283 林子儀（註279）      ，頁154。
+296                                                        2015 行政管制與行政爭訟
+
+
+
+格之審查標準284；而就管制性言論（regulated speech）而言，如不
+實或誤導性之陳述（misleading or deceptive statements）
+                                           ，即可能被
+認為非屬美國憲法第一增修條文之保護範圍，而僅適用最寬鬆之審
+查標準285。但需注意者為，因言論自由案件類型複雜，故在判斷上
+並不容易，故如何提出整合性原則（a larger organizing principle）
+便成為重要議題286；而雙軌理論（the two-track theory）
+                                     ，便針對法
+律或政策對言論自由造成之限制效果，分為對「言論內容規制
+（content-based regulations）」與「非言論內容規制（content-neutral
+regulations）」兩類287；而在食品標示案件中，亦可發現法院有採類
+似之理論作為判決依據（如本節後述之International Dairy Foods
+Association, et. al. v. Boggs案，法院便認為對食品標示樣式之管制限
+制，並不構成言論自由之侵害）288。而美國聯邦最高法院通常在考
+量以下要素之後，才會針對政府對民眾言論自由之限制是否具正當
+性做出判斷：
+     （1）系爭言論對民主社會之重要性；
+                     （2）限制措施之
+性質與範圍；
+     （3）相對公共利益之形態與影響；
+                    （4）限制措施與公
+共利益間之關係與衡平289。
+
+      因此，在進一步分析FDCA食品標示管制規範與言論自由保障
+間之關聯性前，首先便須界定食品標示所牽涉之言論內涵為何。一
+般而言，在食品標示之管制策略上，FDA就其主管機關之角色而
+言，自然希望能主張所有食品標示之規範均僅為對管制性言論之規
+
+
+284 Rodney A. Smolla, Information, Imagery, and the First Amendment: A Case for
+    Expensive Protection of Commercial Speech, 71 Tex. L. Rev. 777, 783 (1993); 劉靜
+    怡（註282）       ，頁60。
+285 See, e.g., In re R.M.J. 455 U.S. 191 (1982); See also Pittsburgh Press Co. v. Human
+    Relations Commission, 413 U.S. 376 (1973); Central Hudson Gas & Electric Co. v.
+    Public Service Commission, 447 U.S. 557 (1980).
+286 林子儀（註279）          ，頁156。
+287 林子儀（註279）          ，頁157。
+288 International Dairy Foods Association, et. al. v. Boggs, 622 F.3d 628, 640 (6th Cir.
+    2010).
+289 史慶璞（註52）          ，頁192。
+食品標示規範之檢討                                                                           297
+
+
+範，僅適用最寬鬆之審查標準；但對法院而言，其多認為食品標示
+仍應屬商業性論之保障範疇290，至少應接受中度審查標準之檢視。
+如在Rubin v. Coors Brewing Co.乙案中，法院認為對酒精濃度標示
+之管制構成商業性言論自由之限制291。在International Dairy Foods
+Ass’n v. Boggs乙案中，聯邦地區法院同樣認為食品標示與商業活動
+間有密切之關聯性，故州政府對於食品標示之管制自應屬對商業性
+言論之管制292；而聯邦上訴法院在International Dairy Foods Ass’n v.
+Boggs乙案中，進一步主張州政府限制食品標示之商業性言論之理
+由，若僅籠統列出保障消費者利益與公眾知的權利，並無法通過限
+制言論自由之正當性檢視（尤其是對於社會利益是否有實質之影
+響）293。進一步需注意者為，雖然商業性言論之核心為與創造商業
+利益相關之言論294，但法院在不同案例中認定，產品標示不因其涉
+及公共辯論之議題便失其商業性言論之特質295（如標示若涉及性病
+與家庭計畫等公共議題之討論，並不就使其獲得非商業性言論之憲
+法保護）296，亦不因其涉及營利動機或產品簡介便可被逕行認定屬
+商業性言論297（如單張係附在產品包裝盒內之事實，並不足以使其
+
+
+290 SANCHEZ, supra note 1, at 125.
+291 Rubin v. Coors Brewing Co., 514 U.S. 476, 481 (1995).
+292 Int’l Dairy Foods Ass’n v. Amestoy, 898 F. Supp. 246, 253 (D. Vt. 1995).
+293 Int’l Dairy Foods Ass’n v. Amestoy, 92 F.3d 67, 73 (2d Cir. 1996).
+294 Bolger v. Youngs Drug Prods. Corp., 463 U.S. 60, 66 (1983) (the “core” notion of
+    commercial speech is “speech which does ‘no more than propose a commercial
+    transaction’” ); see also Central Hudson Gas & Elec. Corp. v. Pub. Serv. Comm’n of
+    N.Y., 447 U.S. at 561 (commercial speech is “expression related solely to the
+    economic interests of the speaker and its audience.”)
+295 Conn. Bar Ass’n v. United States, 620 F.3d 81, 93-94 (2d Cir. 2010) (“speech does
+    not cease to be commercial merely because it alludes to a matter of public debate”);
+    see also Bolger v. Youngs Drug Prods. Corp., 463 U.S. at 67-68 (“[t]he mailings
+    constitute commercial speech notwithstanding the fact that they contain discussions
+    of important public issues such as venereal disease and family planning”); see also
+    Bad Frog Brewery, Inc. v. New York State Liquor Authority, 134 F.3d 87, 97 (1988).
+296 Bolger v. Youngs Drug Prods. Corp., 463 U.S. at 66, 67; 陳仲嶙，商業性言論憲法
+    解釋十年回顧與評析，中原財經法學，27期，頁116（2011年）                                   。
+297 See, e.g., New York Times v. Sullivan, 376 U.S. 254, 265-66 (1964) (“[t]he mere fact
+298                                                       2015 行政管制與行政爭訟
+
+
+
+成為商業性言論）298 。換言之，食品標示之內容是否屬商業性言
+論，其界線並非明確299，但Bolger v. Youngs Drug Products, Corp.300
+乙案中所揭示之標準301─（1）是否為廣告？（2）是否指涉特定
+產品？（3）是否有獲得經濟利益之動機？─似可作為參考302，
+亦即當食品標示之特定內容符合前述「所有」標準時，法院多會將
+其視為商業性言論而非政治性言論303。
+
+      但法院之態度，並非認為所有食品標示均應屬商業性言論而需
+採取較為嚴格之審查標準，從而使FDA管制規範之正當性相對而言
+較容易受到挑戰。首先，以In re R.M.J.乙案為例，法院仍肯認若廣
+告被證實為誤導性陳述或濫用，則政府自得加以適當之管制304，且
+僅需適用最寬鬆之審查標準；法院在該案中僅強調，政府並不得絕
+對禁止所有潛在性（potentially）之誤導陳述，因相關標示之陳述
+是否構成詐欺，仍可能視其表現之方式而有所差異305。其次，再就
+非誤導性之商業性言論而言，政府亦非不得加以管制，僅是需證明
+
+
+    that these pamphlets are conceded to be advertisements clearly does not compel the
+    conclusion that they are commercial speech”), Associated Students v. Attorney
+    General, 368 F. Supp. 11, 24 (C.D. Cal. 1973) (“the reference to a specific product
+    does not by itself render the pamphlets commercial speech”), Bigelow v. Virginia,
+    421 U.S. 809, 818 (1975) (“[one] has an economic motivation for mailing the
+    pamphlets would clearly be insufficient by itself to turn the materials into
+    commercial speech”).
+298 陳仲嶙（註296）        ，頁116。
+299 Colleen Smith, A Spoonful of (Added) Sugar Helps the Constitution Go Down:
+    Curing the Compelled Commercial Speech Doctrine with FDA’s Added, 71 FOOD &
+    DRUG L.J. 442, 447-48 (2016).
+300 Bolger v. Youngs Drug Prods. Corp., 463 U.S. at 66-68.
+301 Id.
+302 Krista Hessler Carver, A Global View of the First Amendment Constraints on FDA,
+    63 FOOD & DRUG L.J. 151, 169-70 (2008); Edward Dunkelberger & Sarah E. Taylor,
+    The NLEA, Health Claims, and the First Amendment, 48 FOOD & DRUG L.J. 631,
+    639 (1993).
+303 Smith, supra note 299, at 448.
+304 In re R.M.J. 455 U.S. at 203.
+305 Id.
+食品標示規範之檢討                                                                       299
+
+
+其所欲保障之公益為實質性之利益（substantial interests）、公益是
+否因改管制手段而有所增進（directly advances）、管制措施是否為
+必要（not more extensive）之手段（此即所謂三階段審查基準（the
+three-part test），為聯邦最高法院於Central Hudson Gas & Electric
+Co. v. Public Service Commission乙案中所建立之標準）306。
+
+     換言之，（一）若FDA有確實證據足以證明食品標示之內容有
+誤導或詐欺之實，其便可以對該標示內容予以適當之限制而無違反
+美國憲法第一增修條文對（商業性）言論自由之保障；因這些誤導
+性之實品標示將不被視為商業性言論而僅屬於受管制之言論。
+（二）但就一般性之食品標示規範而言，因其標示內容可能仍為事
+實，而無法事前被證明在設計上或表現方式上確有誤導或詐欺消費
+者之實，因此自然仍需受到商業性言論自由之保障，並在管制上須
+受到三部測試法之審查。舉例而言，在本節稍早所提之
+International Dairy Foods Association, et al. v. Boggs乙案中，Ohio州
+農業部（Department of Agriculture）要求食品業者不得做出其牛奶
+產品「不含重組生長激素（rBST free）」之標示，且在做出「本牛
+奶產自未使用重組生長激素之乳牛（this milk is from cows not
+supplemented with rBST）」之宣稱時，亦需於該標示旁另外說明
+FDA並未發現科學證據證明是否使用重組生長激素之乳牛所生產之
+牛奶有顯著之不同307。法院在此便認為，州政府之規範違反三部測
+試法而對商業性言論構成不當之限制：首先，州政府並無法證明禁
+止「不含重組生長激素」之標示有誤導消費者之可能（因該宣稱經
+科學證時為事實之陳述），且其並非最小侵害之手段308；其次，就
+FDA要求食品業者為額外標示之管制措施而言，法院雖認為政府對
+
+
+306 Id. See also Central Hudson Gas & Electric Co. v. Public Service Commission, 447
+    U.S. 557.
+307 International Dairy Foods, 622 F.3d at 637.
+308 Id. at 640.
+300                                                       2015 行政管制與行政爭訟
+
+
+
+於該標示樣式之規範並不構成對商業性言論自由之限制，但對於該
+標示在產品上呈現之位置（要求緊鄰業者「本牛奶產自未使用重組
+生長激素之乳牛」標示旁），卻認為有過度限制商業性言論之可
+能。
+
+      （二）不同食品標示管制態樣之司法審查
+      進一步，在食品標示之管制上，適用商業性言論自由保障者，
+不僅限於FDA要求食品廠商在食品標示上為相關事實（如添加物、
+營養成分等）之揭露，亦包括特定陳述之禁止。
+
+      就前者（特定事實之揭露）而言，政府對食品標示之規範不得
+超過商業性言論自由之範疇，亦即對於食品標示須揭露內容之規定
+不得為強制性事實揭露（compelled factual disclosure）以外之內容
+管制 309 ；若否，則需受到較嚴格之審查標準檢視（舉例而言，
+Wooley v. Maynard、Miami Herald Publ’g Co. v. Tornillo、W. Va. State
+Bd. of Educ. v. Barnette等法院均一再重申政府不得強制民眾就政治
+或宗教或與價值有關之議題發表言論310）；因此，FDA對於食品標
+示之管制，僅得限於事實強制揭露之管制，而不得為額外之要
+求311。惟須注意者為，雖然食品標示一般被視為商業性言論，故對
+其管制須適用較為嚴格之審查標準；但單就政府強制要求標示或廣
+告 為 事 實 揭 露 之 規 定 ， 聯 邦 最 高 法 院 在 Zauderer v. Office of
+Disciplinary Counsel乙案（以下簡稱Zauderer案）中，似乎採取較
+商業性言論更為寬鬆之審查標準，並主張政府在類似之管制措施中
+
+
+
+309 Laura Murphy, Jillian Bernstein & Adam Fryska, More Than Curiosity: The
+    Constitutionality of State Labeling Requirements for Genetically Engineered Foods,
+    38 VT. L. REV. 477, 485 (2013).
+310 See, e.g., Wooley v. Maynard, 430 U.S. 705, 706-07, 715, 717 (1977); Miami Herald
+    Publ’g Co. v. Tornillo, 418 U.S. 241, 243, 258 (1974); W. Va. State Bd. of Educ. v.
+    Barnette, 319 U.S. 624, 642 (1943).
+311 See Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626, 651 (1985).
+食品標示規範之檢討                                                                   301
+
+
+僅需證明該管制措施與政府保障消費者不受詐欺之公共利益有關即
+可 （ “[A]n advertiser’s rights are adequately protected as long as
+disclosure requirements are reasonably related to the State’s interest in
+preventing deception of consumers”）312，而不需再受到三部測試法
+之檢視。詳言之，Zauderer乙案所建立之標準包括─若商業性言
+論自由之管制若係與（1）事實（purely factual）或（2）非誤導
+（uncontroversial）之要求有關，（3）該管制手段涉及政府保障消費
+者不受詐欺之公共利益，
+          （4）受管制之商業性言論與該公共利益之
+維護有適當關連性，且（5）要求為事實陳述之管制手段不構成不
+當障礙（unjustified or unduly burdensome）─若對食品標示之管
+制手段可符合前述五項要件，則商業性言論自由之限制將被視為具
+正當性313。
+
+     就後者（特定陳述之禁止）而言，引起較大之爭議點在於，
+FDA對食品標示特定內容是否不實或誤導而得為修正/禁止處分時
+之標準，往往因科學上之客觀限制而無法具備完全之明確性，此時
+是否允許此類標示內容仍可被歸類為管制性言論而不受言論自由保
+障之限制，或仍須視為商業性言論？一般而言，FDA對於食品標示
+所宣稱之內容（claims，多為健康宣稱）會加以審查，並依據審查
+結果做出通過、修正或禁止之決定，而其審查之主要依據便是該宣
+稱是否有科學證據 314 （詳見本文「壹、三」之內容）。但問題在
+於，科學證據往往需要時間與數據之累積，因此在食品廠商做出健
+康宣示之主張時，科學證據往往仍未能有決定性（inclusive）之結
+論；而FDA在此不確定（uncertain）狀況下，是否仍得僅依當時既
+有（但可能未達統計上顯著意義）之檢驗數據，逕行認定並主張該
+
+312 Id.
+313 Maggie C. Little, Yes, the FDA Can Make You Say That: Why the FDA’s Proposed
+    Nutrition Facts Label Changes Will Withstand First Amendment Challenges from
+    Food Industry Members, 13 IND. HEALTH L. REV. 233, 250 (2016).
+314 SANCHEZ, supra note 1, at 156-57.
+302                                                       2015 行政管制與行政爭訟
+
+
+
+宣稱係屬未具決定性科學證據之宣稱，應歸類為誤導性食品標示
+（管制性言論）而不受言論自由之保障315，並進一步作出廣泛禁止
+或限制之處分，不無討論之空間。在Pearson v. Shalala乙案中，法
+院首先確認食品廠商所做之宣稱，仍屬商業性言論之範疇（因商業
+性言論之保障有部分係在確保消費者知的權利，故禁止對商業性言
+論之全面壓制（“[a] preference for disclosure over outright suppression
+[of speech]”））316；而在此基礎上，法院認為僅能在反對食品廠商
+於標示中所為宣稱之科學證據，不論在強度、數據、研究品質上均
+高於支持該宣稱之科學證據時，FDA始得對該食品標示之宣稱加以
+禁止317。因此，FDA僅以未具決定性科學證據為理由，禁止食品廠
+商為特定之食品標示宣稱，不僅不適當地在未具科學基礎上便認為
+該宣稱誤導消費者，亦不當地限制其商業性言論自由。
+
+      詳言之，在未能證明針對該食品標示宣稱的科學基礎之反對陳
+述較為堅實時，該宣稱便不應被視為誤導消費者之言論（因「缺
+乏」決定性之科學證據並不能被視為「反對」之科學證據）318，故
+非屬管制言論而仍屬商業性言論，仍須受管制正當性之檢視；亦
+即，該禁止措施仍需受到憲法言論自由保障之三部測試法之檢視，
+但因缺乏決定性之科學證據，此絕對禁止之管制是否能通過「保障
+實質公共利益」
+      、「最小侵害手段」
+              、「衡平公立保障與權力限制」之
+檢驗，不無疑問。因法院在此可能認為：
+                 （1）食品標示之宣稱不僅
+（因缺乏決定性之科學證據）無法被證實可能侵害實質性利益319，
+（2）且即使有侵害也屬金錢上之損失─消費者購買原本無意購買
+之產品─而該損失與商業性言論自由之限制並無適當之平衡關
+
+
+
+315 Pearson v. Shalala, 164 F.3d 650 (D.C. Cir. 1999).
+316 Id. at 656-58.
+317 Id. at 659.
+318 Pearson v. Shalala, 130 F. Supp. 2d 105, 108-09 (D.D.C. 2001)
+319 Id. at 119.
+食品標示規範之檢討                                                                           303
+
+
+係320；
+    （3）進一步如FDA無法證明禁止之手段為唯一可防止民眾被
+該食品標示宣稱誤導之手段，則該禁止手段仍會被視為過度限制食
+品廠商之商業性言論自由321。
+
+      若禁止特定食品標示之宣稱在合憲性之判斷上有其難度，則
+FDA是否得藉由修正食品標示宣示之管制手段，迴避絕對禁止所可
+能面對之挑戰？美國法院在Alliance for Natural Health US v. Sebelius
+乙案中仍強調，即令FDA僅是修改食品標示之宣稱，仍須受到憲法
+言論自由保障之三部測試法之檢視322；因此，修正之內容必須精確
+且具是當之證據，FDA亦必須說明修正之文字（而非其他文字）為
+何可被視為最小侵害之手段323，而不得強迫食品廠商接受修正後之
+食品標示宣稱內容324。
+
+      綜上說明，不難發現美國FDA對於食品標示之規範雖然綿密，
+但仍受到言論自由保障之限制，如對特定陳述之禁止，便須通過
+「保障實質公共利益」、「最小侵害手段」、「衡平公立保障與權力限
+制」之檢驗，而不得任意或全面地加以禁止；惟就事實性之揭露，
+因考量對消費者之保護，故在審查上只要該管制措施與防止消費者
+受詐欺具有合理（reasonable）之關聯性，便可被視為未侵害美國
+憲法第一增修條文對言論自由之保障。
+
+二、食品標示意義之擴張
+      前述有關言論自由之分析，均係奠基在食品標示做為食品內容
+物成分揭露或宣稱其產品功效之前提；但POM Wonderful乙案的出
+現 卻使 這個 議題 更顯 複雜 325 。 如 本文 「貳 、三 」所 述， POM
+
+320 Id.
+321 Whitaker v. Thompson I, 284 F. Supp. 2d 1, 13 (D.D.C. 2002),
+322 Alliance for Natural Health US v. Sebelius, 714 F. Supp. 2d 48, 57 (D.D.C. 2010).
+323 Id. at 71.
+324 Alliance for Natural Health US v. Sebelius, 786 F. Supp. 2d 1, 24 (D.D.C. 2011).
+325 See POM Wonderful LLC, 134 S. Ct. 2228.
+304                                               2015 行政管制與行政爭訟
+
+
+
+Wonderful主張Coca–Cola所販售標示為石榴藍莓之綜合果汁（主要
+成分為蘋果與葡萄汁，只有極少數的石榴及藍莓成分）可能誤導消
+費者，並影響其所販售之石榴藍莓綜合果汁；且POM Wonderful並
+非僅依FDCA主張消費者對於食品本身之錯誤認識，而更進一步依
+商標法Lanham Act主張Coca–Cola之產品標示錯誤或使人陷於錯誤
+（可能混淆POM Wonderful與Coca–Cola之產品）而違反公平競爭。
+
+      若依前述有關商業性言論自由保障之分析，Coca–Cola所生產
+產品之食品標示並無誤導而有必須被限制之必要；蓋依FDCA第
+343(k)之規定，人工添加風味（artificial flavoring）之食品，食品廠
+商 只 要 於 標 示 中 陳 述 該 事 實 （ Coca–Cola 於 其 食 品 標 示 中 有
+“Pomegranate Blueberry Flavored Blend of 5 Juices”之字樣）
+                                                     ，則可被
+允許使用文字敘述或圖樣描繪其「風味」326，故其食品標示應無不
+實或誤導之可能，故應受到商業性言論自由之保障。換言之，
+Coca–Cola在該產品之標示上，並未違反FDA有關事實性揭露之規
+定，而若FDA欲禁止特定陳述（如禁止使用文字敘述或圖樣描繪其
+風味），則須證明該禁止之管制手段可通過憲法言論自由保障之三
+部測試法。換言之，FDA須先證明Coca–Cola所販售之果汁，雖已
+在標示中適當陳述產品成分之事實，但將其產品稱為「石榴藍莓綜
+合果汁」有誤導消費者之可能，始得加以禁止（如前述
+International Dairy Foods Association, et al. v. Boggs乙案之法院便主
+張政府對特定標示之禁止，須先證明有誤導消費者之可能）327﹔且
+因Coca–Cola在標示中陳述產品成分事實、說明其係風味產品，已
+兼顧消費者知的權利之保障，故若欲再進一步禁止Coca–Cola不得
+以文字或圖樣描繪其風味，亦可能違反最小侵害原則。
+
+      但有論者認為，前述討論某種程度將食品標示（商業性言論自
+
+
+326 Samet, 2013 WL 3124647, at 6.
+327 International Dairy Foods, 622 F.3d at 640.
+食品標示規範之檢討                                      305
+
+
+由）之管制，侷限在FDA之規範範圍內，而忽略Lanham Act有關商
+標與公平競爭之規範（可能新增FDCA所無之食品標示要求）對市
+場秩序維持與消費者權益保護之功能，而後者亦屬「實質公共利
+益」之一環，亦應屬可對商業性言論自由限制之正當理由（而不需
+僅 限 於 不 當 食 品 標 示 之 誤 導 消 費 者 之 定 義 ）。 而 法 院 在 POM
+Wonderful乙案似乎亦持類似之觀點，認為未存有任何文義或解釋原
+則認為FDCA排除適用Lanham Act（詳本文「貳、三」）。詳言之，
+FDCA之立法目的在於保障大眾健康與安全，並賦予FDA制定法規
+管理有關食品標示事項，包括無法清楚列舉各項果汁品名之混合果
+汁，其標示除須標明主要成分外，尚須記載其百分比或明確指出果
+汁呈現的味道；而Lanham Act對於錯誤廣告或標示提供訴因（cause
+of action）
+         ，亦即該法對於任何人使用文字、標語等方式而使人誤解
+或陷於錯誤之商業活動，課予民事責任。因此，FDCA原來對於不
+實或詐欺食品標示規範內容之想像，在於保障消費者不致因名稱或
+描述，導致無法識別食品種類或無法區別相混淆產品標示之內
+容328，在POM Wonderful乙案出現後便可能發生變化，食品標示不
+實與否之判斷與管制之正當性，將不僅限於食品本身，而應進一步
+將Lanham Act中有關商標保障之規範納入（Lanham Act中對於商標
+是否構成詐欺之判斷與FDCA並不完全相同）；而此改變（食品標
+示意義之擴張），一方面將使FDA對於何種文字可用於食品標示之
+權限受到限縮，另方面亦可能影響法院對於食品標示作為商業性言
+論受到管制之正當性判斷標準。進一步，是否可能對消費者或食品
+廠商形成標示內容之困擾，則尚有待觀察。
+
+     而POM Wonderful乙案將Lanham Act納入食品標示之管制架構
+中，對於FDA長久以來所建立之食品標示判斷基礎也將帶來衝擊：
+應依據FDCA或Lanham Act判斷食品標示是否有誤導消費者？
+
+
+328 See 95 Barrels of Vinegar, 265 U.S. 438.
+306                                                        2015 行政管制與行政爭訟
+
+
+
+FDCA之規範是否應考慮公平競爭之問題？尤其在對於食品之商標
+是否構成FDCA之不實食品標示，並應加以禁止，法院之態度明顯
+分歧，如United States v. 70 1/2 Dozen Bottles and 76 1/2 Dozen Bottles
+of “666”乙案中，法院便表現出較為審慎之態度，而傾向不認為食
+品商標得作為食品標示不實之判斷客體329；但United States v. An
+Article of Food … “Manischeqitz … Diet Thins”乙案之法院卻持較為
+正面之態度330。
+
+       總結而言，法院在POM Wonderful乙案認為，國會之意圖在於
+使FDCA與Lanham Act皆可運用以完善規範食品標示事項331，但食
+品標示意義之擴張是否可能影響FDA對食品標示之管制，甚至影響
+食品標示作為商業性言論受到管制時所應檢視之正當性要素，均有
+進一步觀察之必要。
+
+
+
+肆、美國食品標示規範對臺灣現行規範制度之啟發
+
+       我國食品標示之定義，依食品安全衛生管理法第3條第1項第8
+款之規定，包括「於食品、食品添加物、食品用洗潔劑、食品器
+具、食品容器或包裝上，記載品名或為說明之文字、圖畫、記號或
+附加之說明書」，而相關規範則主要規定在食品安全衛生管理法第
+22條、第23條及第24條，規定食品及其原料、食品添加物及其原料
+之容器或外包裝，應以中文及通用符號，明顯標示品名、內容物名
+
+
+329 United States v. 70 1/2 Dozen Bottles and 76 1/2 Dozen Bottles of “666”, 1938-1964
+      FDLI Jud. Rec. 89 (M.D. Ga. 1944).
+330 The defendants had labeled the “crackers” as “Diet Thins”, in fact the crackers were
+    the same caloric content as other crackers on the market.            The Judge
+    concluded….”It is not necessary to show that anyone was actually misled or
+    deceived, or that there was any intent to deceive. United States v. An Article of
+    Food … “Manischeqitz … Diet Thins”, F. Supp. 746 (E.D.N.Y. 1974).
+331 See POM Wonderful LLC, 134 S. Ct. 2228.
+食品標示規範之檢討                            307
+
+
+稱、淨重/容量/數量、食品添加物名稱、製造廠商或國內負責廠商
+名稱/電話號碼/地址、原產地（國）、有效日期、營養標示、含基
+因改造食品原料、或其他經中央主管機關公告之事項等，其規定不
+可不謂詳盡。其立法理由便在於希望能避免食品業者透過包裝設
+計、產品命名或標示排列等方式，誤導消費者而導致其權益受
+損332，並於同法第28條規定食品或食品添加物之標示不得有不實、
+誇張或易生誤解之情形，違者可依第45條第1項之規定處新臺幣四
+萬元以上四百萬元以下罰鍰，主管機關亦可依第52條第1項第3款之
+規定通知廠商限期回收產品並改正標示內容，且在改正前不得繼續
+販賣，屆期若仍未遵行改正事項者甚至可沒入銷毀產品。至於標示
+不實之型態，我國學者多認為，應標示而未標示、不應標示而標示
+（未依食品實際狀況標示）
+           、不依規定標示、虛偽或誇大標示，均屬
+之333。
+
+一、食品標示意義之重新檢視
+   在臺灣之相關食品標示規範中，雖然不至於產生如美國聯邦法
+效力優先原則之爭議，但美國聯邦最高法院在POM Wonderful乙案
+中所揭示食品標示之規範應考慮不同聯邦法規之影響，並兼及其不
+同功能之保障，對於臺灣食品標示規範應仍有所啟發。
+
+   首先，食品安全衛生管理法有關食品標示之規定多著重在食品
+安全之確保與國民健康之維護（以不危害消費者健康為前提）334，
+對於消費者知的權利之保障（獲得充分且正確之資訊，以利於消費
+選擇），似非食品安全衛生管理法食品標示規範之主要目的335。有
+
+
+332 邱錦添、李根永，食品安全衛生管理法之理論與實務，2版，頁47（2016
+  年）
+   。
+333 林昱梅（註2），頁84；甘添貴，食品攙偽假冒與標示不實之入罪化，月旦法
+  學雜誌，253期，頁55（2016年）
+                    。
+334 林昱梅（註2）
+          ，頁85。
+335 徐良維，從消費者保護的視角檢視我國食品標示法制之缺失，消費者保護研
+308                                              2015 行政管制與行政爭訟
+
+
+
+論者便認為，國內食品標示規範忽略「消費者保護」應為食品標示
+之指導原則，導致哪些資訊應屬業者應主動揭露與消費者知悉之必
+要資訊，不夠明確336；而在判斷食品標示是否涉及虛偽誇張或易生
+誤解時，亦可能出現不適當之判斷337。
+
+      舉例而言，在「進口貨物原產地認定標準」中 ，產品之加
+工、製造或原材料涉及二個或二個以上國家或地區者，以使該項產
+品產生實質轉型之國家或地區為原產地338，但依據該標準第7條之
+規定，實質轉型之要件卻非以消費者所需之資訊內容作為判斷標
+準，而係以形式上「原材料經加工或製造後所產生之貨物與原材料
+歸屬之海關進口稅則號列前6碼號列相異者」作為判斷標準，僅有
+在該產品「已完成重要製程或附加價值率超過百分之35以上」時，
+始例外不適用。但這卻會造成越南生產茶葉在臺灣加工製成茶包或
+茶飲時，因進口稅則號列改變或產品物理形狀改變超過35%，而得
+以標示臺灣為原產地339，而忽略消費者在使用該產品時所需之真正
+資訊為何。另舉一例，有學者以衛福部針對市售標示「百分之百葵
+花油」產品標示不實（因該產品之脂肪酸百分組成與資料庫所列不
+符）開罰之訴願決定書為例，認為衛福部在該訴願決定維持原處分
+之理由為「訴願人……應知且明知油槽分裝會造成混油污染情事，
+卻未積極改善生產設備……仍於系爭二項油品標示宣稱純度百分之
+百……罔顧國民健康，並導致社會大眾對食品安全恐慌」340，不適
+當地將單純標示不實之案件與國民健康連結，反而忽略標示不實禁
+
+
+
+      究，21輯，頁112-113（2017年）
+                          。
+336 徐良維（註335）
+            ，頁114。
+337 同前註。
+338 原產地標示Q&A，Q1，衛生福利部食品藥物管理署網站，https://www.fda.gov.
+    tw/tc/includes/GetFile.ashx?mid=133&id=9012&t=s（ 最 後 瀏 覽 日 ： 2017年 11
+    月 15日 ）。
+339 徐良維（註335）        ，頁114。
+340 衛福部103年4月8日衛部法字第1020114530號訴願決定書。
+食品標示規範之檢討                                      309
+
+
+止規定之目的亦應包括消費者之知情選擇權341。
+
+   其次，不當食品標示是否可能構成不當競爭，似亦非國內食品
+標示規範所考量之重點，迄亦未見有關食品標示是否可能構成公平
+交易法有關不公平競爭之討論。舉例而言，針對食品標示不實案件
+在食品衛生管理法及公平交易法間之適用關係上，公平交易委員會
+與行政院衛生署（現為衛生福利部，以下簡稱衛福部）在102年4月
+11日公競字第1021460413號函中便認為，「食品衛生管理法（現為
+食品安全衛生管理法）第19條（現為第28條）相對於公平交易法第
+21條乃為特別規定……[故]食品標示不實案件，優先適用食品衛生
+管 理 法 者 ， 由 行 政 院 衛 生 署 處 理 」。 也 因 此 ， 若 有 類 似 POM
+Wonderful案之事實發生─已充分陳述產品成份之事實，僅以圖案
+呈現產品風味，故非屬食品安全衛生管理法所規範之不當食品標
+示，因其在食品安全確保與國民健康維護上均無疑慮，亦已適當保
+障消費者知的權利─是否仍有公平交易法第21條之適用，而應將
+交易秩序之維護作為食品標示是否不當之判斷標準，應有討論空
+間。
+
+   舉例而言，我國「水果及蔬菜汁飲料（已包裝）」之國家標準
+便規定，只要廠商將商品標註為蔬果「口味」或「風味」等字樣，
+便可以果蔬之名販售完全不含果蔬汁在內之飲料342，但這類標示原
+則僅某種程度滿足消費者知的權利（且非完整），對於此類標示是
+否可能對生產果蔬汁之廠商形成不公平競爭，而在公平交易法上受
+到挑戰時，是否仍會依公競字第1021460413號函之精神，將其視為
+食藥署主管業務而僅由其單獨處理，並不明確。
+
+   至若我國消費者保護法是否能與食品安全衛生管理法共同架構
+
+
+
+341 林昱梅（註2），頁87。
+342 邱文聰（註65），頁37。
+310                                              2015 行政管制與行政爭訟
+
+
+
+食品標示之內涵，則應較無疑義343；因消費者保護法第4條已明文
+規範「企業經營者對於其提供之商品或服務，應重視消費者之健康
+與安全，並向消費者說明商品或服務之使用方法，維護交易之公
+平，提供消費者充分與正確之資訊」，而行政院消費者保護處（以
+下簡稱消保處）與衛福部亦肯認食品不當標示之消費爭議案件，雖
+由衛福部主政，但其仍應督促食品業者依消費者保護法第5條規定
+確保標示內容之真實性344。因此，美國因聯邦法效力優先原則導致
+各州消費者保護規範無法介入食品標示之管制內容，在臺灣應無類
+似之困境。
+
+二、商業性言論自由之保障
+       對於產品標示，我國憲法法院於司法院釋字第577號解釋（菸
+害防制法強制業者標示尼古丁等含量是否違憲）中，已承認「商品
+標示為提供商品客觀資訊之方式，為商業言論之一種」，並援引司
+法院釋字第414號解釋（藥事法規定藥物廣告應先經核准之規定是
+否違憲）主張因商品標示「具有資訊提供、意見形成進而自我實現
+之功能，與其他事務領域之言論並無二致，應屬憲法第11條言論自
+由保障之範圍」；故強制商品標示係對業者「就特定商品資訊不為
+表述之自由有所限制」，而屬為對言論自由之限制，而須受憲法11
+條保障人民言論自由及第23條比例原則之檢視。而就食品標示而
+言，其同樣具有提供商品客觀資訊、有助於消費大眾之合理經濟抉
+擇之功能，則在其內容非虛偽不實或不致產生誤導作用時，自應屬
+商業言論之一種，受言論自由之保障，應無疑義；而此見解與美國
+歷來聯邦最高法院之判斷標準（參閱本文「參、一」之討論），應
+屬一致。
+
+
+343 徐良維（註335）
+            ，頁112-120。
+344 業者應負廣告真實之義務─不得有引人誤解的食品標示及廣告，行 政 院 消
+      費 者 保 護 處 ， https://www.coa.gov.tw/ws.php?id=2448036 （ 最 後 瀏 覽 日 ：
+      2017年 11月 15日 ）。
+食品標示規範之檢討                                                                       311
+
+
+     但值得注意者為，單純商品成分標示是否涉及業者不表意自
+由，抑或屬單純營業行為規範，並非沒有爭議345；如余雪明大法官
+在司法院釋字第577號解釋中所提協同意見書中便主張，商品標示
+是否應受商業性言論自由之保障，仍須視其內容決定，若其「並未
+對廣告造成妨礙，並非企業之意見形成與意見發表受有影響，而是
+企業之職業執行受影響」，則其應僅屬單純之營業行為規範；至若
+「單純商品成分標示，不涉意見成分，自更無問題」，其說法則與
+FDA向來之立場相近。
+
+     進一步分析，則不難發現，就多數食品標示而言（如對產品之
+說明文字、圖畫、記號或說明書），雖經常與事實陳述之結合或混
+合，但因其多仍涉及價值判斷（如業者之標示種類與方式、編排格
+式等，皆有評價之意涵）346，如最高行政法院在101年度判字第443
+號判決中便認為，產品包裝亦可能具有不同形式之商業宣傳、促
+銷、建議或行動，其直接或間接目的或效果在於對不特定消費者推
+銷或促進產品使用347，故其應仍屬言論自由保障之範疇。
+
+     問題在於，單純就事實揭露之規定（如食品安全衛生管理法第
+22條、第23條及第24條要求揭露成分、重量、產地等資訊），是否
+仍涉及言論自由之限制？美國聯邦最高法院似仍持肯定之見解，如
+法院在Rubin v. Coors Brewing Co.案348、International Dairy Foods
+Association, et al. v. Boggs案349、New York State Rest. Ass’n v. New
+York City Bd. of Health案350中，便認為即令是對酒精濃度標示、營
+
+345 陳耀祥，論菸品內容標示義務與基本權利之限制─評司法院釋字第五七七
+    號解釋，月旦法學雜誌，116期，頁217（2005年）
+                              。
+346 陳耀祥（註345）
+            ，頁218。
+347 蔡嘉恩，菸品容器設計構成菸品廣告？─最高行政法院101年度判字第443
+    號判決評析，治未指錄：健康政策與法律論叢，1期，頁127（2013年）
+                                      。
+348 Rubin v. Coors Brewing Co., 514 U.S. at 481.
+349 International Dairy Foods, 622 F.3d at 635.
+350 New York State Rest. Ass’n v. New York City Bd. of Health, 556 F.3d 114, 131 (2d
+    Cir. 2009).
+312                                                       2015 行政管制與行政爭訟
+
+
+
+養標示或熱量標示等事實資訊之管制，仍然構成對商業性言論之限
+制，因法院認定食品標示（不論是否包含事實性之陳述）係屬消費
+者是否就該特定商品進行商業買賣行為之重要要素351。其差異僅在
+於，對於事實揭露強制規定可能對言論自由之限制，法院不採言論
+自由保障之三部測試法，而係採較寬鬆之標準（管制措施與政府保
+障消費者不受詐欺之公共利益有關即可，見本文「參、一」對
+Zauderer案352 之討論）。我國學者亦同樣認為，食品標示有關事實
+之陳述，並非「單純」重複客觀事實，而是提供消費者對產品正確
+之瞭解，使消費者能在自己之價值判斷上審慎判斷是否消費（如熱
+量標示便可能對健身之民眾有價值判斷之意義）353；加上消費者仍
+會將產品標示視為業者意見之表達354，故即令食品標示僅涉及事實
+之陳述，其應仍被視為商業性言論而受言論自由之保障，應無疑
+義。
+
+      再依司法院釋字第577號解釋之內容觀察，若食品標示係為保
+障消費者獲得真實而完整之資訊、避免商品標示內容造成誤導作
+用、維護國民健康等重大公共利益，則政府採取與目的達成有實質
+關聯之手段管制食品標示之商業性言論，與憲法第23條比例原則之
+規定並無違背。但此處較有爭議者為，司法院釋字第577號解釋雖
+肯認言論自由之保障內容包括主觀意見表達及客觀事實陳述，但卻
+未進一步說明商品標示內容之性質是否應進一步細緻區分，便概括
+地將所有商品標示內容納入並一體適用比例原則之檢視，而未若美
+國聯邦最高法院在相關案例中又進一步區分特定事實之揭露與特定
+
+
+
+
+351 Little, supra note 313, at 254; see also Melissa M. Card, America, You Are Digging
+    Your Grave with Your Spoon—Should the FDA Tell You That on Food Labels?, 68
+    FOOD & DRUG L.J. 309, 313 (2013).
+352 Zauderer v. Office of Disciplinary Counsel, 471 U.S. at 651.
+353 陳耀祥（註345）        ，頁220。
+354 同前註。
+食品標示規範之檢討                                                    313
+
+
+陳述之禁止，並賦予不同之違憲審查標準355─前者如Zauderer案
+僅須採合理關聯性標準即可356，後者如Pearson v. Shalala案尚須通
+過中度審查357（詳見本文「參、一」之討論）
+                     。司法院釋字第414號
+解釋雖然有說明「非關公意形成、真理發現或信仰表達之商業言
+論，尚不能與其他言論自由之保障等量齊觀」，但亦未有對商業性
+言論管制之審查有更細緻之區隔358。換言之，單純對食品標示事實
+陳述之管制規範，是否應一概如司法院釋字第577號解釋採言論自
+由保障之中度審查標準（司法院釋字第577號解釋余雪明大法官協
+同意見書），抑或應如美國改採合理關聯性審查（該管制與政府合
+法利益合理相關且未造成不當負擔），不無討論空間359。大法官在
+司法院釋字第744號解釋中不再認為商業性言論即應採「商業性言
+論非高價值言論」之寬鬆審查標準（司法院釋字第744號解釋黃昭
+元大法官協同意見書），解釋理由書所謂「化粧品廣告之事前審查
+乃對言論自由之重大干預，原則上應為違憲。系爭規定之立法資料
+須足以支持對化粧品廣告之事前審查，係為防免人民生命、身體、
+健康遭受直接、立即及難以回復危害之特別重要之公共利益目的，
+其與目的之達成間具直接及絕對必要關聯，且賦予人民獲立即司法
+救濟之機會，始符合憲法比例原則及保障言論自由之意旨」（底線
+為作者所加）即改以嚴格審查標準360檢視化妝品廣告事前審查之合
+憲性。故司法院釋字第744號解釋（化粧品衛生管理條例強制化妝
+品廣告應受事前審查）似乎提供一個重新檢視食品標示合憲性審查
+標準之契機，因其對商業性言論之管制不再以「較低階之言論」
+
+
+355 楊智傑，強制揭露資訊、商業言論與不表意自由，台灣法學雜誌，283期，頁
+   148（2015年）
+            。
+356 Zauderer v. Office of Disciplinary Counsel, 471 U.S. at 651.
+357 Pearson v. Shalala, 164 F.3d 650, at 656-59.
+358 楊智傑（註355）        ，頁155。
+359 楊智傑（註355）        ，頁148、157。
+360 吳信華，    「商業性言論」因「事前審查」而不採寬鬆標準？─釋字第744號
+   解釋評析，月旦裁判時報，59期，頁32（2017年）
+                            。
+314                          2015 行政管制與行政爭訟
+
+
+
+（或有稱「非高價值言論」361或「低價值言論」362）之方式作直接
+概括之分類（司法院釋字第744號解釋許宗力大法官協同意見書）
+                             ，
+而係以該商業性言論在不同情境下之不同管制模式進行更為細緻之
+判斷363，並進一步挑戰原來將所有商業性言論一概採同一審查標準
+之簡化思維364。司法院釋字第744號解釋雖係針對主管機關於審查
+化妝品廣告事前審查之合憲性，對食品標示實務操作之直接適用空
+間有限（蓋實務上，主管機關鮮少針對食品標示進行事前審查）；
+惟本文所欲強調者，係我國憲法規範體系不再以概括性視角，全面
+否定商業性言論之言論價值而予以低度審查標準之司法實務改變，
+且近年來國際間管制趨勢逐漸對於食品標示有強化規範之現象，本
+號解釋文未來似仍有相當參考價值。
+
+      雖然該號解釋僅係在檢視特定商業性言論管制手段（事前審
+查）後，摒棄司法院釋字第414號解釋「商業性言論非高價值言
+論」之寬鬆審查標準而改採嚴格審查標準（許宗力大法官在其協同
+意見書中便強調本號解釋「是秉一次一案原則，極為小心地不使本
+號解釋效力溢散」，黃昭元大法官在其協同意見書中亦強調，本號
+解釋就有關事前審查機制合憲性審查標準之論述，仍都扣緊系爭規
+定屬於對「化粧品廣告」之事前審查，而未將本號解釋所採審查標
+準明白擴張」
+     ）；但從其所揭示基本權利（商業性言論）於不同事實
+中具備不同情狀，從而無法於審查準上給予一致性量化標準之概
+念365 ，甚至有創設不同審查標準可能性之延伸意涵366 ，是否可能
+對食品標示之管制有進一步之後續影響，包括在個案中就食品標示
+
+
+
+361 司法院釋字第744號解釋黃昭元大法官協同意見書。
+362 司法院釋字第744號解釋許宗力、蔡明誠大法官協同意見書。
+363 司法院釋字第744號解釋許宗力、蔡明誠大法官協同意見書，頁32。
+364 司法院釋字第744號解釋許宗力、蔡明誠大法官協同意見書，頁33。
+365 司法院釋字第744號解釋許宗力、蔡明誠大法官協同意見書，頁37。
+366 劉靜怡，事前審查所為何事？─司法院釋字第七四四號解釋簡評，月旦法
+      學雜誌，267期，頁199（2017年）
+                         。
+食品標示規範之檢討                                                   315
+
+
+之特定管制模式改變司法院釋字第577號解釋所採之中度審查標
+準，而改採合理關聯性標準，值得後續觀察。
+
+三、商業性言論自由之過度限制
+   另一點值得注意者為，依據食品安全衛生管理法第22條第2項
+及第3項之規定，食品應標示之產品、主成分、項目、標示內容、
+方式、營養標示與含基因改造食品原料標示之應遵行事項，由中央
+主管機關另定，食藥署遂依該授權規定訂定相關食品標示之行政規
+定。但以包裝食品營養標示應遵行事項為例，食藥署之函釋要求廠
+商之標示內容與格式須與該遵行事項所附之附表「完全一致」，且
+「不可自行多加格線、不可擅自創造設計格式、不可擅自變動標示
+項目的順序，該縮排標示的項目就要縮排，熱量計算方式及小數點
+可標示到幾位」367，通通都必須完全依照該遵行事項之標準規定，
+違者可依食品安全衛生管理法第47條之規定，「處新臺幣三萬元以
+上三百萬元以下罰鍰；情節重大者，並得命其歇業、停業一定期
+間、廢止其公司、商業、工廠之全部或部分登記事項，或食品業者
+之登錄；經廢止登錄者，一年內不得再申請重新登錄」。但如此嚴
+格之規定是否對作為商業性言論之食品標示形成過度限制而有侵害
+言論自由之於，不無討論空間。
+
+   以美國International Dairy Foods Association, et. al. v. Boggs案為
+例（詳見本文「參、一」之討論），法院便認為，即令事實陳述之
+強制規定並不構成對商業性言論之侵害，但對如何陳述（包括格
+式、樣式、位置等）若做硬性規定，將可能構成對商業性言論自由
+之過度限制368。而反觀臺灣，食藥署對於食品標示之規定卻要求在
+
+
+367 包裝食品營養標示應遵行事項問答集Q&A（105.3.2修正）
+                                 ，Q5.2，衛生福利部
+    食品藥物管理署（以下簡稱食藥署）網站，https://www.fda.gov.tw/tc/includes/
+    GetFile.ashx?mid=133&id=245&t=s（最後瀏覽日：2017年11月15日）
+                                                     。
+368 International Dairy Foods, 622 F.3d at 640.
+316                                             2015 行政管制與行政爭訟
+
+
+
+食品標示已揭露相關事實之前提下，仍強制要求格線數量或文字縮
+排等與事實無關之格式，甚至當廠商提供更精確之數字時亦加以禁
+止（如包裝食品營養標示應遵行事項第9點規定熱量以整數或至小
+數點後一位標示，若廠商標示至小數點後二位，仍將被視為違
+規）369，這類型世上之要求應以非屬達成公共利益保障（維護消費
+者知的權利）之最小侵害手段，顯有檢討空間。
+
+
+
+伍、結論
+
+       相較於美國對食品標示所作之細緻類型化規範、食品標示與食
+品廣告管理權限之區分，臺灣食品標示之管制模式與密度仍有一段
+差距。舉例而言，在POM Wonderful案後，對於食品標示規範納入
+Lanham Act之利弊，各界便分別從FDA管制權力分散、規範要求去
+中心化（de-centralization）、食品業者之衝擊、消費者權利之擴張
+等面向，分析可能因應策略（如修法納入消費者訴訟權利）等；雖
+然目前仍未有定案而須更多政策討論，但至少食品標示議題已跳脫
+傳統食品安全衛生領域，而與不同典範（如公平交易、消費者保
+護、成本效益分析等）產生聯繫，從而使食品標示規範內涵更為豐
+富。但臺灣在食品標示之管制上，多仍僅以主管機關規範為依據，
+故美國法之發展方向或可作為我國之參考。
+
+       更何況食品標示之本質與內涵本就因產品特性、使用習慣、牽
+涉利益而呈現多元發展之趨勢，單一管制思維或論述本就有可能捉
+襟見肘，而臺灣如何思考不同管制架構之發展與競合，應是未來之
+重要挑戰。舉例而言，美國州政府在POM Wonderful案後，便已開
+
+
+369 潘子祁，鈉 含 量 誠 實 標 小 數 點 微熱山丘雞婆反而不合格，上下游，2015年
+      9月15日，https://www.newsmarket.com.tw/blog/75833/（ 最 後 瀏 覽 日 ： 2017
+      年 11月 15日 ）。
+食品標示規範之檢討                                 317
+
+
+始思考透過不同法律規範（包括消費者保護法、公平交易法等），
+填補FDCA在食品標示上之管制漏洞，並有相關訴訟提出370；但臺
+灣就不當食品標示是否可能構成不當競爭之議題，卻仍未有進一步
+之討論，似亦非國內食品標示規範所考量之重點。再舉一例，在食
+品標示規範中，不同法律規範之衝突與競合，應將其政策目的納入
+考量，並在此架構上思考如何填補管制之漏洞；而美國法院或立法
+者在討論不管是FDCA與 Lanham Act在食品標示管制權限之衝突、
+言論自由保障之界線等議題上，針對不同管制策略所對應之政策目
+的均有細緻之討論，以系統化地呈現食品標示管制上之多元特性。
+但臺灣在食品標示規範之政策目的上，往往混淆不同面向之議題
+（如將維護國民健康作為與消費者知的權利混淆）371；雖然食品標
+示規範是有可能涵括不同之政策目的已如前述，但相關政策目的仍
+應細緻地類型化，而不是將所有政策任務均一地套用在食品標示規
+範上，如此將可能使食品標示呈現過多而無用之資訊。
+
+     簡言之，食品標示並非純粹技術上之議題，往往涉及不同且複
+雜之管制面向，往往不限於食品管制事務本身，更可能與其他法律
+或民眾權利產生交集，使得實務之管制內涵出現不同之挑戰與困
+境；美國藉由不同管制規範或訴訟釐清食品標示與FDA與FTC之權
+限劃分、聯邦法與州法之競合、言論自由保障之關聯性、，其論述
+與理論基礎雖然複雜，但仍值得臺灣在未來進一步完善食品標示規
+範時，加以參考。
+
+
+
+
+370 Negowetti, supra note 57, at 10-19.
+371 林昱梅（註2）       ，頁91-92。
+318                           2015 行政管制與行政爭訟
+
+
+
+
+                       參考文獻
+
+1. 中文部分
+
+史慶璞（2007）
+        ，美國憲法理論與實務，臺北：三民。
+甘添貴（2016），食品攙偽假冒與標示不實之入罪化，月旦法學雜
+      誌，253期，頁55-68。
+吳信華（2017），「商業性言論」因「事前審查」而不採寬鬆標準？
+      ─釋字第744號解釋評析，月旦裁判時報，59期，頁27-37。
+林子儀（2002），言論自由導論，收於：李鴻禧等合著，台灣憲法
+      之縱剖橫切，頁103-179，臺北：元照。
+林昱梅（2015），論食品標示不實之判斷─以德國法及我國法為
+      中心，月旦法學雜誌，236期，頁67-93。
+邱文聰（2015），從迷失的身分重新找尋食品攙偽假冒管制的可能
+      途徑─以食品身分標準為分析焦點，政大法學評論，141
+      期，頁1-49。
+邱錦添、李根永（2016），食品安全衛生管理法之理論與實務，2
+      版，臺北：元照。
+徐良維（2017），從消費者保護的視角檢視我國食品標示法制之缺
+      失，消費者保護研究，21輯，頁97-130。
+張千帆（2011）
+        ，美國聯邦憲法，北京：法律出版社。
+陳仲嶙（2011），商業性言論憲法解釋十年回顧與評析，中原財經
+      法學，27期，頁101-150。
+陳鋕雄、陳庭妤（2013），公眾健康與消費者自主權的平衡─重
+      估我國保健食品的法制架構，司法新聲，107期，頁32-46。
+陳耀祥（2005），論菸品內容標示義務與基本權利之限制─評司
+      法院釋字第五七七號解釋，月旦法學雜誌，116期，頁215-
+      222。
+食品標示規範之檢討                                                         319
+
+
+黃銘傑（2007），美國法上的言論自由與商業廣告─兼論司法院
+    大法官會議釋字第414號解釋，臺大法學論叢，27卷2期，頁
+    347-393。
+楊智傑（2015），強制揭露資訊、商業言論與不表意自由，台灣法
+    學雜誌，283期，頁144-161。
+劉靜怡（2005），言論自由第三講：政治性言論與非政治言論，月
+    旦法學教室，30期，頁56-65。
+───（2017），事前審查所為何事？─司法院釋字第七四四號
+    解釋簡評，月旦法學雜誌，267期，頁194-201。
+蔡嘉恩（2013），菸品容器設計構成菸品廣告？─最高行政法院
+    101年度判字第443號判決評析，治未指錄：健康政策與法律論
+    叢，1期，頁109-143。
+
+2. 外文部分
+
+Allen, Diane M. 2006. Federal Pre-Emption of State Food Labeling
+    Legislation or Regulation. 79 A.L.R. Fed. 181.
+American Bar Ass’n. 1995. The Impact of the Nutrition Labeling and
+    Education Act of 1990 on the Food Industry. Administrative Law
+    Review 47:605-616.
+Andre, Claudia L. 2007. What’s in That Guacamole? How Bates and the
+    Power of Preemption Will Affect Litigation Against the Food
+    Industry. George Mason Law Review 15:227-256.
+Bi, Kathryn. 2015. What Is “False or Misleading” Off-Label Promotion?.
+    The University of Chicago Law Review 82:975-1021.
+Bobelian, Michael. 2014. In POM v. Coca-Cola, Supreme Court Could
+    Shake up Food Labeling. In Forbes, https://www.forbes.com/sites/
+    michaelbobelian/2014/04/22/supreme-court-asked-to-referee-
+    dispute-between-coca-cola-and-pom/#6252fca21c15.
+Bovay, John, and Julian M. Alston. 2018 (Forthcoming). GMO Food
+320                                              2015 行政管制與行政爭訟
+
+
+
+      Labels in the United States: Economic Implications of the New Law.
+      Food Policy 78:14-25.
+Busch, Matthew. 2015. POM Wonderful v. Coca-Cola and the
+      Implications of Granting Competitors the Right to Challenging
+      False or Misleading. Loyola of Los Angeles Law Review 48:525-
+      538.
+Buttrick, Hilary G., and Courtney Droms Hatch. 2016. Pomegranate
+      Juice Can Do That? Navigating the Jurisdictional Landscape of
+      Food Health Claim Regulation in a Post-POM Wonderful World.
+      Indiana Law Review 49:267-304.
+Card, Melissa M. 2013. America, You Are Digging Your Grave with
+      Your Spoon – Should the FDA Tell You That on Food Labels?.
+      Food and Drug Law Journal 68:309-332.
+Carver, Krista Hessler. 2008. A Global View of the First Amendment
+      Constraints on FDA. Food and Drug Law Journal 63:151-216.
+Dages, Joe. 2014. Comment, Private Parties and the FFDC: How
+      Creative   Litigants    Have   Circumvented   Section   310    and
+      Undermined the NLEA’s Express Preemption Amendments.
+      Catholic University Law Review 62:1061-1086.
+Dansby, H. Bishop. 2005. Bates v. Dow Agrosciences: U.S. Supreme
+      Court Restores Sanity in Products Liability Law. Pesticides and You
+      25:9-11.
+Davis, Theodore H. Jr., and Jaclyn T. Shanks. 2014. POM Wonderful
+      LLC v. Coca-Cola Co.: The Supreme Court Juices Up Section 43(a)
+      of the Lanham Act. Landskide 7(1):1-13. https://www.americanbar.
+      org/content/dam/aba/publications/landslide/2014_september_octob
+      er/ABA_LAND_v007n01__pom_wonderful_llc_v_cocacola_co_th
+      e_supreme_court_juices_up_section_43a_of_the_lanham_act.authc
+      heckdam.pdf.
+食品標示規範之檢討                                                         321
+
+
+Degnan, Frederick H. 1997. The Food Label and the Right-to-Know.
+    Food and Drug Law Journal 52:49-60.
+Dorfman, Howard L., Vivian M. Quinn, and Elizabeth A. Brophy. 2006.
+    Presumption of Innocence: FDA’s Authority to Regulate the
+    Specifics of Prescription Drug Labeling and the Preemption Debate.
+    Food and Drug Law Journal 61:585-622.
+Dunkelberger, Edward, and Sarah E. Taylor. 1993, The NLEA, Health
+    Claims, and the First Amendment. Food and Drug Law Journal
+    48:631-664.
+Fortin, Neal D. 2009. Food Regulation: Law, Science, Policy, and
+    Practice. New Jersey, NJ: John Wiley & Sons, Inc.
+Gardbaum, Stephen A. 1994. Nature of Preemption. Cornell Law Review
+    79:767-815.
+Hamilton, Neil D. 2005. Forced Feeding: New Legal Issues in the
+    Biotechnology Policy Debate. Washington University Journal of
+    Law and Policy 17:37-58.
+Heavner, B. Brett. 2014. Supreme Court Holds Lanham Act Is Not Pre-
+    empted by FDA Regulation in POM Wonderful Decision. In
+    Finnegan, https://www.finnegan.com/zh-CHT/insights/supreme-court-
+    holds-lanham-act-is-not-pre-empted-by-fda.html.
+Hoffmann, Diane, and Jack Schwartz. 2016. Stopping Deceptive Health
+    Claims: The Need for A Private Right of Action under Federal Law.
+    American Journal of Law & Medicine 42:53-84.
+Hutt, Peter Barton, Richard A. Merrill, and Lewis A. Grossman. 2014.
+    Food and Drug Law: Cases and Materials. New York, NY:
+    Foundation Press.
+Hyman, Douglas W. 1996. The Regulation of Health Claims in Food
+    Advertising: Have the FTC and the FDA Finally Reached a
+    Common Ground?. Food and Drug Law Journal 51:191-206.
+322                                            2015 行政管制與行政爭訟
+
+
+
+Javidzad, Bety. 2015. Floor or Ceiling: In POM Wonderful LLC v. Coca-
+      Cola Company, the U.S. Supreme Court Ruled That One Food
+      Manufacturer May Sue Another Over FDCA Compliant Food
+      Labels. LA Lawyer 37:30-34.
+Kornblet, Sara A. 2014. Fat America: The Need for Regulation under the
+      Food, Drug, and Cosmetic Act. Saint Louis University Law Journal
+      49:209-244.
+LaPlante, Erica. 2012. Preemption under the MDA: Can Bates Mend the
+      Wound?. Seton Hall Circuit Review 3:231-268.
+Little, Maggie C. 2016. Yes, the FDA Can Make You Say That: Why the
+      FDA’s Proposed Nutrition Facts Label Changes Will Withstand
+      First Amendment Challenges from Food Industry Members.
+      Indiana Health Law Review 13:233-271.
+Lytton, Timothy D. 2014. Competitive Third-Party Regulation: How
+      Private Certification Can Overcome Constraints That Frustrate
+      Government Regulation. Theoretical Inquiries in Law 15:539-572.
+Mansour, Mark, Jonathan Berman, Emily K. Strunk, and Stephanie L.
+      Resnik. 2014. Will Evaporated Cane Juice Be Sweet for Class
+      Action Plaintiffs?. In Jones Day, http://www.jonesday.com/files/
+      Publication/08af70a0-8cfd-49ae-862d-47a6096852fb/Presentation/
+      PublicationAttachment/cdc965b9-0ec5-4789-9697-54eaaf96f15b/
+      Will%20Evaporated%20Cane%20Juice.pdf.
+Markin, Gene. 2017. Misleading Food Labeling and Advertising under
+      the Lanham Act and the FDCA. GP Solo 34:18-21.
+Masaitis, Peter E, and Evan W. Woolley. 2015. Enforcement of FDA
+      Qualified Health Claims: Who’s on the Case?. In Inside Counsel,
+      http://web3.insidecounsel.com/2015/01/09/enforcement-of-fda-qual
+      ified-health-claims-whos-on.
+Mulcahy, Daniel J. 1972. Section 43(a) of the Lanham Act: Its
+食品標示規範之檢討                                                           323
+
+
+    Development and Potential. Loyola University Chicago Law
+    Journal 3:327-344.
+Muller, Julie M. 2015. Naturally Misleading: FDA’s Unwillingness to
+    Define “Natural” and the Quest for GMO Transparency through
+    State Mandatory Labeling Initiatives. Suffolk University Law
+    Review 48:511-536.
+Murphy, Laura, Jillian Bernstein, and Adam Fryska. 2013. More Than
+    Curiosity: The Constitutionality of State Labeling Requirements for
+    Genetically Engineered Foods. Vermont Law Review 38:477-553.
+Negowetti, Nicole E. 2014. Food Labeling Litigation: Exposing Gaps in
+    the FDA’s Resources and Regulatory Authority. In Governance
+    Studies at Brookings, http://www.brookings.edu/~/media/research/
+    files/papers/2014/06/26-food-labeling-litigation/negowetti_food-lab
+    eling-litigation.pdf.
+Noah, Lars. 1994. The Imperative to Warn: Disentangling the “Right to
+    Know” from the “Need to Know” about Consumer Product
+    Hazards. Yale Journal on Regulation 11:293-400.
+O’Reilly, James T. 2006. Federal Preemption of State and Local Law:
+    Legal Action, Regulation and Litigation. Chicago, IL: American
+    Bar Association.
+O’Reilly, James T., and Katherine A. Van Tassel. 2017. Food and Drug
+    Administration. Albuquerque, New Mexico: Thomson Reuters.
+Pezzullo, Andrea M. 2016. The Crusade Against Misleading Labels: Are
+    Manufacturers the Protectors of Consumer Interests?. Suffolk
+    University Law Review 49:323-342.
+Pomeranz, Jennifer L. 2013. A Comprehensive Strategy to Overhaul
+    FDA Authority for Misleading Food Labels. American Journal of
+    Law & Medicine 39:617-647.
+Radis, Jennifer Thurswell. 2015. The Lanham Act’s Wonderful
+324                                              2015 行政管制與行政爭訟
+
+
+
+      Complement to the FDCA: POM Wonderful v. Coca-Cola
+      Enhances Protection Against Misleading Labeling Through
+      Integrated Regulation. Loyola University Chicago Law Journal
+      47:369-435.
+Reich, Adam M., Devon E. Winkles, Sean D. Unger, Behnam Dayanim,
+      and Katherine F. Murray. 2014. POM Wonderful LLC v. Coca-Cola
+      Company: How the Tides Turned in the Legal Food Fight?. In Paul
+      Hastings, https://www.paulhastings.com/publications-items/details/?
+      id=3a7fe169-2334-6428-811c-ff00004cbded.
+Sagehorn, Derek. 2014. POM Wonderful LLC v. Coca-Cola Co. 134 S.
+      Ct. 2228 (2014). Intellectual Property Law Bulletin 19:119-122.
+Sanchez, Marc C. 2015. Food Law and Regulation for Non-Lawyers: A
+      US Perspective. New York, NY: Springer.
+Shanks, Emily. 2017. The National Bioengineered Food Disclosure
+      Standard: Texas and the Genetically Modified Organism Food Fight.
+      Texas Tech Law Review 49:987-1010.
+Simpson, Alicia T. 2001. Buying and Eating in the Dark: Can the Food
+      and Drug Administration Require Mandatory Labeling of
+      Genetically Engineered Foods? Alliance for Bio-Integrity v. Shalala,
+      et al., 116 F. Supp. 2d 166 (2000). Temple Environmental Law &
+      Technology Journal 19:225-242.
+Smith, Colleen. 2016. A Spoonful of (Added) Sugar Helps the
+      Constitution Go Down: Curing the Compelled Commercial Speech
+      Doctrine with FDA's Added. Food and Drug Law Journal 71:442-
+      481.
+Smolla, Rodney A. 1993. Information, Imagery, and the First
+      Amendment: A Case for Expensive Protection of Commercial
+      Speech. Texas Law Review 71:777-804.
+Springer, James. 2013. The Success of the Citizen Suit: Protecting
+食品標示規範之檢討                                                         325
+
+
+    Consumers from Inaccurate Food Labeling by Amending the
+    Federal Food, Drug, and Cosmetic Act. Food and Drug Law
+    Journal 68:401-422.
+Sullivan, Kathleen, and Gerald Gunther. 2001. Constitutional Law. New
+    York, NY: Foundation Press.
+Sustein, Cass R. 1993. Democracy and the Problems of Free Speech.
+    New York, NY: Simon and Schuster.
+Termini, Roseann B. 1991. The Prevention of Misbranded Food
+    Labeling: The Nutrition Labeling and Education Act of 1990 and
+    Alternative Enforcement Mechanisms. Ohio North University Law
+    Review 18:77-108.
+Tribe, Laurence. 1978. American Constitutional Law. New York, NY:
+    Foundation Press.
+White, Stephen J. Jr. 2015. How Far Does the Apple (Pomegranate) Fall
+    from the Tree? Preclusion of Lanham Act Claims by the Food,
+    Drug, & Cosmetic Act and POM Wonderful, LLC v. Coca-Cola Co.
+    Wake Forest Journal of Business and Intellectual Property Law
+    15:262-286.
+Zarski, Sylvia. 2015. Can You Judge Your Food by Looking at Its Cover?
+    How Courts’ Application of Federal Preemption Allows Misleading
+    Food Labeling to Slip Through the Regulatory Cracks. DePaul Law
+    Review 64:1119-1155.
+Zwagerman, Jennifer. 2017. Recognizing Challenges and Opportunities
+    in the Quest to End Hunger. Texas A&M Law Review 4:315-341.
+326                                                     2015 行政管制與行政爭訟
+
+
+
+
+      An Analysis of Food Labeling Law and
+           Policy in the United States
+
+                 Chuan-Feng Wu＊ & Ching-Fu Lin＊＊
+
+                                   Abstract
+     A food labeling system is established and designed primarily to
+protect the expected economic interests of consumers as well as business
+competitors over like products. Therefore, the food labeling system is of
+paramount importance under the overall food safety governance
+framework. However, the issue of food labeling is highly complex, in
+particular regarding potential overlaps between relevant laws and
+regulations as well as conflicts between different rights and interests,
+which result in discrepancies when different courts rule on relevant
+disputes. To better understand the normative bases and ramifications of
+food labeling law, this article takes the law and practice in the United
+States as an example. In addition to introducing food labeling regulations
+in the United States, this article further explores how different laws, such
+as Food, Drug, and Cosmetics Act (FDCA), Trademark Act (Lanham
+Act), and Consumer Protection Act interact and reconcile under the
+general food labeling framework (especially after the POM Wonderful
+LLC. v. Coca–Cola Company case), along with the potential boundaries
+for the protection of the constitutional right to free speech. Premised
+upon the normative trajectory and practical experience in the United
+States, this article concludes by offering a route map for rethinking the
+food labeling law and regulation in Taiwan.
+KEYWORDS: food labeling, POM Wonderful LLC. v. Coca–Cola, Food,
+          Drug, and Cosmetics Act (FDCA), Lanham Act, free speech.
+
+＊ Associate Research Professor, Institutum Iurisprudentiae, Academia Sinica.
+＊＊ Associate Professor, Institute of Law for Science and Technology, National Tsing
+      Hua University.
+

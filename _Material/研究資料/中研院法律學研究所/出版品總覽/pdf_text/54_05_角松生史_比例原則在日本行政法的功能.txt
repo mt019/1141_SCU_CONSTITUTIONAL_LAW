@@ -1,0 +1,1492 @@
+    Article
+ Academia Sinica Law Journal
+ Issue 22, pp. 203-242 (March 2018)
+
+
+
+ Functions of the Proportionality Principle
+                                      ＊
+    in Japanese Administrative Law
+                                                       ＊＊
+                           Narufumi Kadomatsu
+
+
+                                      Abstract
+     The proportionality principle (hereafter, the PP) was imported from
+Germany into Japan during the interwar period. The Japanese Supreme
+Court has never expressly mentioned the PP in its opinion except as
+obiter dictum. However, several judgments may have applied the PP in
+essence.
+     This article questions whether the PP functions “outside” or
+“inside” of administrative discretion and whether it performs the
+necessity control or the balancing control. It also builds upon the
+premise that administrative discretion takes place in the process of the
+
+＊  Submission Date: November 21, 2016; Acceptance Date: June 28, 2017. [Line
+   Editor: Wan-Ling Teng, Yu-Wen Chang].
+   This paper is based upon the author’s presentation at the 2nd Workshop on
+   Comparative Administrative Law in Asia—Proportionality and Democratic
+   Accountability (July 8-9, 2013 at Institutum Iurisprudentiae, Academia Sinica,
+   Taipei). Based upon the presentation, the author has also published an article in
+   Japanese. Narufumi Kadomatsu, Nihon Gyōseihō ni Okeru Hireigensoku no Kinō ni
+   Kansuru Oboegaki [Memorandum on the Functions of the Proportionality Principle
+   in Japanese Administrative Law], 21(4) SEISAKUKAGAKU 191, 191-200 (2014)（角
+   松生史，日本行政法におけ る比例原則の機能に関する覚え書き，政策科
+   学，21卷4号， 頁191-200（ 2014年））. The author would like to thank the
+   anonymous reviewers for their helpful comments as well as Dr. Steve Pickering
+   (Brunel University London) for great editing. This work was supported by JSPS
+   KAKENHI Grant Number 15H03290 and 16H03681.
+＊＊ Professor, Graduate School of Law, Kobe University, Japan.
+   Online: http://publication.iias.sinica.edu.tw/80207181.pdf.
+204                                 《中研院法學期刊》第22期（2018年3月）
+
+
+application of the law in the narrower sense, distinguished from the
+interpretation of law and from bare fact-finding, both of which are
+reserved for the judges.
+     The Supreme Court employs the rhetorical formula of “generally
+accepted social ideas” in judicial control of administrative discretion and
+has integrated “control of the judgment-making process” into this classic
+framework. This essay also examines the relationship between the PP
+and its control framework.
+     Regarding the necessity control, the purpose-means construction as
+the core of the PP is self-evident. As for the balancing control, the
+feature of the PP is that a particular interest is placed on one side of the
+scale and compared with various other interests. The Supreme Court is
+rather reluctant to perform such types of dual balancing, but does so in
+certain cases.
+     Whether such balancing is appropriate depends upon the
+desirability of judicial review, as well as an understanding of the legal
+structure in the relevant field. While such dual balancing provides an
+effective tool for judicial control, it also presents the risk of making the
+actual diversity of interests among various stakeholders invisible.
+
+KEYWORDS: proportionality principle, administrative discretion, control
+          of the judgment-making process, Japanese administrative
+          law.
+Functions of the Proportionality Principle in Japanese Administrative Law   205
+
+
+                                    Contents
+
+ I. Reception and Understanding of the PP
+ II. Judicial Control of Administrative Discretion and the PP
+      A. Outside? Inside?
+      B. Premises of the Discussion
+      C. “Generally Accepted Social Ideas” Control of Discretion
+      D. “Control of the Judgment-making Process” Regarding Administrative
+         Discretion
+ III. Discretion Control and the PP
+      A. Outside/Inside and Necessity/Balancing
+      B. Cautiousness of the Supreme Court in Setting Priority Rules
+      C. Kimigayo Disciplinary Action Case
+ IV. Summary
+
+
+
+
+     The doctrine known as the “proportionality principle” (hereafter,
+the PP) was imported from Germany into Japanese administrative law
+during the interwar period along with a number of other basic concepts
+and doctrines. This doctrine is now widely accepted as one of the
+“general principles of administrative law”. In this paper, we will first
+describe reception of the PP and explore discussions over its legal
+foundation and its scope (I.).
+
+     The main area in which the PP has been applied is that of
+administrative discretion control. We will analyze whether and how the
+principle is applied in this problematic area, and ask whether it limits
+discretion from outside or if it will control the rationality of the exercise
+of discretion from inside (II. A.). We will first present the premise of the
+discussion, namely where we place administrative discretion in the
+206                                       《中研院法學期刊》第22期（2018年3月）
+
+
+logical steps of the application of law (II. B.). We will then observe the
+classic “generally accepted social ideas” control of discretion employed
+by the Supreme Court (II. C.). We will discuss how the court later
+integrated “control of the judgment-making process” into the classic
+framework (II. D.).
+
+      We will then return to the question as to whether the PP functions
+outside or inside of discretion in Supreme Court judgments, keeping in
+mind the above distinction of necessity control and balancing control
+(III.). The overall summary follows (IV.).
+
+
+
+I. Reception and Understanding of the PP
+
+      The PP was imported from German doctrine into Japanese
+jurisprudence before the Second World War, as Tatsukichi Minobe, a
+leading figure of pre-war constitutional and administrative law, explores.
+He argues that Articles 22 et seq. of the Constitution of the Empire of
+                               1
+Japan (Meiji Constitution ), which guarantee liberties and safety of the
+subjects, require not only that (i) the infringement must be based on
+public interest necessities but also (ii) the degree of infringement shall
+maintain proper balance with the degree of necessities. Infringements
+which are not proportionate to the public interest necessities are
+therefore illegal. Minobe also mentions several judgments of the
+                          2
+Administrative Court as “examples” of his view. However, on closer
+
+
+1 DAI NIHON TEIKOKU KENPŌ [MEIJI KENPŌ] [CONSTITUTION], translated in
+  http://www.ndl.go.jp/constitution/e/etc/c02.html (Japan).
+2 In the pre-war period, administrative litigations under the enumerative principle were
+  handled by the single Administrative Court in Tokyo. In the post-war period,
+  administrative litigations are handled by ordinary courts, based on the Special Law on
+Functions of the Proportionality Principle in Japanese Administrative Law                 207
+
+
+analysis, we find that neither the term “proportionality” nor the
+underlying logic was used in the judgments themselves. It is not clear
+whether the main emphasis of Minobe’s view is on the application of the
+PP or on the denial of administrative discretion. Today, the German
+understanding of the concept (suitability, necessity and proportionality in
+the narrow sense) is also widely accepted among administrative law
+academics. They treat the PP as one of the “general principles of
+                               3
+(administrative) law”.             Some statutes can be understood as an
+                                                                                    4
+expression of the principle (e.g. Police Duties Execution Law Art. 1
+                                                                                   5
+para. 2, Law on Substitute Execution by Administration                                  Art.2)
+However, there is no unanimous understanding about its legal
+                                                                                             6
+foundation. Some say that it is Art. 13 of the present Constitution,
+some say that it is the rule of law, others say it is the rule of reason (jōri).
+While the practical benefits of this “legal foundation” discussion may be
+doubtful, some argue that it is necessary to find the foundation in the
+
+
+    Administrative Case Litigation (1948), followed by the Administrative Case
+    Litigation Law (1962).
+3   Hikaru Takagi mentions the three classical German tests ((1) the suitability test, (2)
+    the necessity test and (3) the proportionality test (in the narrow sense)) in his
+    textbook. HIKARU TAKAGI, GYŌSEIHŌ [ADMINISTRATIVE LAW] 66 (2015)（高木光，
+    行政法，頁66（2015年）             ）. On the other hand, Hiroshi Shiono mentions only (2) the
+    “necessity principle” and (3) “proportionality between the purpose and the means
+    (prohibition of excessive regulation (Übermaßverbot)), and omits (1) the suitability
+    test. HIROSHI SHIONO, GYŌSEIHŌ I [ADMINISTRATIVE LAW I] 93 (6th ed. 2015)（塩野
+    宏，行政法 I，6版，頁93（2015年）                   ）.
+4   Keisatsukan Shokumu Shikko Hō [Police Duties Execution Law], Law No. 36 of
+    1948 (Japan).
+5   Gyōsei Daishikkō Hō [Law on Substitute Execution by Administration], Law No. 43
+    of 1948 (Japan).
+6   “All of the people shall be respected as individuals. Their right to life, liberty, and the
+    pursuit of happiness shall, to the extent that it does not interfere with the public
+    welfare, be the supreme consideration in legislation and in other governmental
+    affairs.” NIHONKOKU KENPŌ [KENPŌ] [CONSTITUTION], art. 13, translated in
+    http://www.ndl.go.jp/constitution/e/etc/c01.html (Japan).
+208                                     《中研院法學期刊》第22期（2018年3月）
+
+
+constitutional text in order for the PP to serve as a basis of judicial
+review of statutory laws. As in Germany, the PP was first introduced in
+the field of police law, and as such, there would be little problem in
+expanding its scope to the area of regulatory administrative activities in
+general. The principle can also be applied to service-providing
+administrative activities such as social welfare, where state activity can
+be understood as an infringement upon the legitimate interests of
+citizens, for example, and the withdrawal of the livelihood protection
+                                                                                 7
+allowance (e.g. Judgment of the Fukuoka District Court 26 May 1998 ).
+More difficult theoretical problems are: (i) can the principle also be
+understood to be a general principle that restricts state activities (can the
+principle function in the direction of limiting social welfare service?
+How does it relate to the principle of subsidiarity?) (ii) Can the principle
+also limit inactions of the government, when the important interests of
+citizens are in danger (the inverse proportionality principle)? The
+Supreme Court of Japan is generally rather reluctant to mention abstract
+principles in its judgments, although they are in fact based on extensive
+research activities of the court on domestic and foreign legal academic
+materials. This is also true of the PP. The court has never mentioned the
+name of the principle itself in the opinion of the court except as an obiter
+                                                              8
+dictum (Judgment of the Supreme Court, Feb. 7, 2006 ) or in a negative
+                                                               9
+context (Judgment of the Supreme Court, June 4, 1964 ). Therefore, it is
+
+
+7 Fukuoka Chihō Saibansho [Fukuoka Dist. Ct.] May 26, 1998, 1994 (Gyō-Hi) 31,
+  1678 HANREI JIHŌ [HANJI] 72 (Japan).
+8 Saikō Saibansho [Sup. Ct.] Feb. 7, 2006, 2003 (Ju) 2001, 60(2) SAIKŌ SAIBANSHO
+  MINJI HANREISHŪ [MINSHŪ] 401, translated in http://www.courts.go.jp/app/hanrei_en/
+  detail?id=814 (Japan).
+9 Saikō Saibansho [Sup. Ct.] June 4, 1964, 1962 (O) 49, 18(5) SAIKŌ SAIBANSHO MINJI
+  HANREISHŪ [MINSHŪ] 745 (Japan) (quashing the judgment of the original court that
+  revoked an administrative disposition based on the PP).
+Functions of the Proportionality Principle in Japanese Administrative Law                  209
+
+
+always difficult to determine whether a particular court judgment
+employed the PP or not. For the sake of discussion in this essay, we find
+two main functions of the PP: necessity control and balancing
+         10
+control.      Both functions are based on purpose-means construction,
+which serves as the core of the principle. In examining court
+judgments, we will see how and in what context either or both of the
+functions may appear.
+
+
+
+II. Judicial Control of Administrative Discretion and
+    the PP
+
+A. Outside? Inside?
+      The first question to be asked is whether (a) the PP lies outside of
+the domain of administrative discretion, namely when the PP forms the
+boundary of the discretion or (b) the PP functions as an internal control
+directive of the discretion.
+
+
+
+10 “Necessity control” in this paper corresponds to (2) the necessity test (from the three
+   classical German tests) and “balancing control” corresponds to (3) the proportionality
+   test. In the authors’ view, (1) the suitability test is a prerequisite for necessity control;
+   if a means is not “suitable” for attaining the purpose of law, then it can never be
+   “necessary”. The author employs this dichotomy in order to emphasize the difference
+   in functions of the two controls. See Tadasu Watari, Rieki Kōryō Gata Shinsa to Hirei
+   Gensoku [Judicial Review Based on Balancing of Interests and the Proportionality
+   Principle], 339 HŌGAKU KYŌSHITSU 37, 43 (2008)（亘理格，利益衡量型司法審査
+   と比例原則，法学教室，339号，頁43（2008年）                                ）. Yoko Suto argues that (2) the
+   suitability test is not important in administrative discretion control, while the test is
+   essential in the review of the constitutionality of statutory laws. YOKO SUTO, HIREI
+   GENSOKU NO GENDAITEKI IGI TO KINŌ [CONTEMPORARY SIGNIFICANCE AND
+   FUNCTION OF THE PROPORTIONALITY PRINCIPLE] 258-259 (2010)（須藤陽子，比例
+   原則の現代的意義と機能，頁258-259（2010年）                               ）.
+210                                           《中研院法學期刊》第22期（2018年3月）
+
+
+      Minobe’s classical understanding seems to take the former view. He
+explains the PP in the framework of the distinction between (i) a fully
+bounded act (Kisoku Kōi), (ii) a legally bounded discretionary act
+(Kisoku Sairyō Kōi), (iii) and a free discretionary act (Jiyū Sairyō Kōi).
+The important practical distinction lies between (ii) and (iii). According
+to Minobe, the Administrative Court cannot deal with (iii) as the subject
+of an administrative litigation. When a suit is filed against such
+administrative acts, the court should dismiss the case declaring that the
+                                           11
+case is outside of its competence.              On the contrary, the administrative
+discretion granted in (ii) is the “finding of law” (Rechtsfindung), so that
+the Administrative Court should review the legality of the administrative
+act. Hence, it can be said that Minobe principally argues on the basis of a
+dichotomous distinction between fully reviewable judicial acts and non-
+                                         12
+reviewable discretionary acts.                  For Minobe, the most important
+standard for the distinction is whether the administrative act infringes
+upon pre-existing rights, interests or the freedom of the people. If this is
+the case, “the act cannot be a free discretionary act in any
+                   13
+circumstances”.         Since the Meiji Constitution Art. 22 guarantees the
+freedom and property of the subject, the infringement upon them must
+always be bound by the law. It is in this context that Minobe mentions
+the PP. Only in the case of (i) and (ii), which is subject to full review by
+the Administrative Court, can the PP be applied. The judgment as to
+
+11 However, the actual contemporary practice of the Administrative Court seems to have
+   been somewhat different. Minobe complains that the contemporary practice of the
+   Court did not dismiss the litigation against discretionary administrative act but let the
+   plaintiff lose on the merit of the case. TATSUKICHI MINOBE, GYŌSEI SAIBANHŌ
+   [ADMINISTRATIVE LITIGATION LAW] 157 (1929)（美濃部達吉，行政裁判法，頁
+   157（1929年）     ）.
+12 TATSUKICHI MINOBE, NIHON GYŌSEIHŌ [JAPANESE ADMINISTRATIVE LAW] 929-932
+   (1940)（美濃部達吉，日本行政法，頁929-932（1940年）                            ）.
+13 Id. at 933.
+Functions of the Proportionality Principle in Japanese Administrative Law       211
+
+
+whether to grant discretion precedes the application of the PP. Therefore,
+we can observe that the PP functions outside of the (free) discretion in
+Minobe’s theory.
+
+     The situation has changed today. As has already been mentioned,
+the Administrative Court was abolished and administrative litigations
+came to be handled by ordinary courts based on the Special Law on
+                                                  14
+Administrative Case Litigation in 1948,                and subsequently by the
+                                                                15
+present Administrative Case Litigation Law in 1962.                  Art. 30 of the
+latter stipulates that the court may revoke a discretionary administrative
+disposition “only in cases where the disposition has been made beyond
+the bounds of the agency’s discretionary power or through an abuse of
+such power”. This means that the administrative litigations against
+“discretionary administrative disposition” are not totally outside of the
+competence of the courts, but instead, they shall regard the litigations as
+legally valid so long as the other requirements (existence of
+administrative dispositions, standing to sue, period limitations etc.) are
+met. It is only that the degree of judicial control will be limited.
+
+     From this perspective, the problem of administrative discretion
+shall not be treated on the basis of dichotomous classification of fully
+reviewable judicial acts and non-reviewable discretionary acts. Instead,
+the problem will be on which issues in the application process of law
+discretion shall be admitted.
+
+     Before going into this issue, we must first examine the premises of
+
+
+14 Gyōsei Jiken Soshō Tokureihō [Special Law on Administrative Case Litigation], Law
+   No. 81 of 1948 (Japan).
+15 Gyōsei Jiken Soshōhō [Administrative Case Litigation Law], Law No. 139 of 1962,
+   translated in http://www.japaneselawtranslation.go.jp/law/detail/?id=1922&vm=02&
+   re=01&new=1 (Japan).
+212                                        《中研院法學期刊》第22期（2018年3月）
+
+
+the discussion, namely how Japanese legal theory and practice
+understands the legal process which leads to administrative disposition.
+
+B. Premises of the Discussion
+
+      1. Logical Steps of the Application of Administrative Law
+      Normally, the application process in cases of administrative
+dispositions can be classified in the following logical steps (legal
+syllogism). We can first distinguish (1) legal interpretation of the text of
+the statute as the basis of the disposition and (2) fact-finding of the
+circumstances in the concrete relevant case. Based on (1) and (2), the
+administrative agency will reach the final conclusion, which is
+understood as the application of a general legal norm to a concrete
+circumstance (Subsumption) (3). While this whole process can be
+referred to as “application”, this paper uses the term “application” in the
+                                                                                         16
+narrower sense, in order to contrast the term with “interpretation”.
+Namely, the “application of law” includes (2) and (3).
+
+      (2) Fact-finding can further be divided into (2-1) the decision of the
+
+
+
+16 The author has written a short memorandum on the distinction of “interpretation” and
+   “application” in administrative law based on so-called “Toulmin model” (See
+   STEPHEN E. TOULMIN, THE USES OF ARGUMENT (updated ed. 2003)), although it is
+   still under-developed. See Narufumi Kadomatsu, Gyōseihō ni Okeru Hō no Kaishaku
+   to Tekiyō ni kansuru Oboegaki [A Memorandum on Interpretation/Application of Law
+   in Administrative Law], in GENDAI GYŌSEIHŌ NO KŌZO TO TENKAI [STRUCTURE AND
+   DEVELOPMENT OF CONTEMPORARY ADMINISTRATIVE LAW] 383-400 (Katsuya Uga &
+   Hisashi Kōketsu eds., 2016)（角松生史，行政法における法の解釈と適用に関す
+   る覚え書き，收於：宇賀克也、交告尚史編，現代行政法の構造と展開，頁
+   383-400（2016年））. In short, the interpretation of law is an effort to present
+   “warrants” as a general proposition, which is minimally necessary to “bridge” “data”
+   and “claim”, both singular propositions. Finding “backing” for the “warrants” is also
+   included in the interpretation of law. As such, the interpretation of law is establishing
+   a general legal proposition.
+Functions of the Proportionality Principle in Japanese Administrative Law       213
+
+
+administration as to which factors shall be considered in the relevant case
+                                  17
+and weighting of the factors,          and (2-2) determination of bare facts.
+
+
+     Chart: Logical steps of the application of administrative law
+
+
+   Statutory
+   text
+
+
+
+
+(1) interpretation of law                                       (2‐1) which factors
+                                                                shall be considered
+                                                                and weighting of the
+                                                                factors
+                                   (2) Fact‐finding
+
+                                                                (2‐2) determination
+                                                                of bare facts
+
+
+
+
+            (3) conclusion for the
+            concrete case (Subsumption)
+
+        Source: author.
+
+
+     When the court reviews this application of law by an administrative
+agency, although there is no express legal ground, Japanese legal theory
+and practice takes it as a matter of fact that neither for (1) the
+
+
+17 Designing the procedure for judgment also belongs to this category, but will be
+   excluded from consideration in this paper.
+214                                        《中研院法學期刊》第22期（2018年3月）
+
+
+                         18
+interpretation of law         nor for (2-2) the determination of bare facts can
+                                              19
+administrative discretion be granted.              The court always performs full
+review of these issues and substitutes its judgment for the administrative
+judgment.
+
+      Therefore, administrative discretion can only be granted on (2-1)
+the decision of the administration as to which factors are to be
+considered and their weighting standard and on (3) reaching the final
+conclusion for the case (Subsumption), namely how the administration
+evaluates factors that have been considered and renders its decision after
+the balancing.
+
+      2. Distinction between Judgment on the Legal Requirements
+         and the Judgment on the Choice of Measures
+      Another premise of Japanese discussion on this issue is the
+distinction between judgment on the legal requirements and judgment on
+the choice of measures. Let us examine an example of disciplinary
+                                                                   20
+measures based on the National Public Service Law                       Art. 82. Para. 1
+stipulates the following:
+
+
+
+
+18 To be sure, it is sometimes difficult to distinguish interpretation and application, but
+   the former can be distinguished from the latter in that it is a making of general legal
+   proposition. See supra note 16.
+19 However, when the determination of facts requires expert technical knowledge across
+   a wide range of fields and future forecasts, administrative discretion may be granted.
+   Cf. Saikō Saibansho [Sup. Ct.] Oct. 29, 1992, 1985 (Gyō-Tsu) 133, 46(7) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 1174, translated in http://www.courts.go.jp/
+   app/hanrei_en/detail?id=1399 (Japan) (Ikata Atomic Power Plant).
+20 Kokka Kōmuin Hō [National Public Service Law], Law No. 120 of 1947, translated
+   in http://www.japaneselawtranslation.go.jp/law/detail/?id=2713&vm=02&re=01&new
+   =1 (Japan).
+Functions of the Proportionality Principle in Japanese Administrative Law   215
+
+
+           Article 82 (1) When an official falls under any of the
+     following items, the official may, as disciplinary action, be
+     dismissed, suspended from duty, suffer a reduction in pay or be
+     reprimanded:
+           (i) when the official has violated this Law, the National
+     Public Service Ethics Law or orders issued pursuant to these
+     laws . . . ;
+           (ii) when the official has breached the obligations in the
+     course of duties or has neglected duties;
+           (iii) when the official is guilty of malfeasance rendering
+     the official unfit to fulfill the role as a servant of all citizens.
+
+     When an officer with disciplinary authority considers filing
+disciplinary actions against a public employee, the officer should first
+determine whether conduct of the employee meets the (i) - (iii)
+requirements. This process is “judgment on legal requirements”. After
+coming to the conclusion that either of the requirements are met, the
+authority makes a decision on whether or not it will render disciplinary
+measures, and if it does, which measures—dismissal, suspension from
+duty, reduction in pay, admonishment—shall be taken. This process is
+the “choice of measures”.
+
+     Unlike the practice of German law, which uses the term
+“discretion” only for the latter process (choice of measures) and uses
+“room for judgment” (Beurteilungspielraum) for the former (judgment
+on requirements), Japanese legal theory and practice uses the term
+“discretion” (Sairyō, 裁量) for the both processes.
+
+     Given the above-mentioned premises of Japanese legal theory and
+practice, this paper argues as follows: (1) “Necessity control” functions
+216                                   《中研院法學期刊》第22期（2018年3月）
+
+
+primarily on the level of legal interpretation in the form of general
+proposition, and provides the prerequisites of the exercise of
+administrative discretion that takes place at the subsumption level.
+Hence it lies outside of the domain of discretion. (2) On the other hand,
+“balancing control” functions mainly as the control of the subsumption
+process under concrete circumstances and is therefore an internal
+control. However, the balancing control sometimes accompanies the
+statement of general legal propositions, which serves as the control from
+outside. This point will be illustrated in the examination of Japanese
+judicial decisions.
+
+C. “Generally Accepted Social Ideas” Control of Discretion
+      Based on these premises, how does the judiciary handle the
+discretion issue? In a case where the legality of the disciplinary action
+against a national public employee was questioned, the Supreme Court
+                                                        21
+Judgment Dec. 20, 1977 (Kobe Customs Office Case)            granted a wide
+range of administrative discretion in the choice of measures. Provided
+that the action of a national employee meets the requirements of the
+disciplinary measures according to National Public Service Law Art. 82
+para.1, the disciplinary authority must consider such various factors as
+the reason, motive, nature and influences of the action in deciding
+whether or not the action calls for disciplinary measures and what kind
+of measure should be chosen. “Since such decisions will be done on the
+basis of comprehensive consideration of such extensive factors, a proper
+judgment cannot be expected unless we give discretion to those in
+charge of supervising subordinate employees who have ample
+
+
+21 Saikō Saibansho [Sup. Ct.] Dec. 20, 1977, 1972 (Gyō-Tsu) 52, 31(7) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 1101 (Japan).
+Functions of the Proportionality Principle in Japanese Administrative Law            217
+
+
+knowledge of the situation in the office”.
+
+      The Court continues in stating that against this discretion which
+emphasizes the necessity of a decision based on the comprehensive
+consideration of various factors by “the person in charge on the spot”,
+judicial control will be limited. When the Court examines the legality of
+such discretionary decision, the court shall not substitute its decision
+for the administrative decision but the decision can be found illegal
+only when “it significantly lacks appropriateness in the light of
+generally accepted social ideas so that it shall be seen as abuse of
+discretion”.
+
+      Such a concept of judicial control based on “generally accepted
+                22
+social ideas”        against discretionary dispositions can also be observed in
+the following Supreme Court cases. This wording may puzzle foreign
+           23
+observers       who may have doubts about the reason why the court can
+introduce the idea of “society” into “the system of law”. The court
+probably uses the concept in order to explain why it can enforce its
+judgment against the decision of democratically accountable organs
+without falling into purely subjective evaluation by the judges. Such
+
+
+22 The earliest usages of the phrase “significantly lacks appropriateness in the light of
+   socially accepted ideas” by the Supreme Court can be found at Judgment of the
+   Supreme Court, Saikō Saibansho [Sup. Ct.] July 3, 1953, 1951 (O) 685, 7(7) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 811 (Japan) (land grant disposition in
+   farmland reform); Saikō Saibansho [Sup. Ct.] July 30, 1954, 1953 (O) 745, 8(7)
+   SAIKŌ SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 1501 (Japan) (disciplinary action
+   (expulsion from public university)).
+23 Ryuji Yamamoto, a professor at the University of Tokyo, confesses that he found
+   difficulty in translating and explaining the concept to German colleagues in his
+   presentation at the Japan-Germany Administrative Law Symposium on Feb. 11 2006.
+   Ryuji Yamamoto, Nihon ni Okeru Sairyō Ron no Henyō [Transformation of
+   Discretion Doctrine in Japan], 1933 HANREI JIHŌ 11, 15 (2006)（山本隆司，日本
+   における裁量論の変容，判例時報，1933号，頁15（2006年）                              ）.
+218                                          《中研院法學期刊》第22期（2018年3月）
+
+
+being the case, the degree of control is limited to the case when the
+administrative decision is “significantly inappropriate”. Hitoshi Murata,
+a high court judge, understands this concept to be “a loose application of
+          24
+the PP”.
+
+      Generally speaking, this “generally accepted social ideas” control
+has always been criticized as being too deferential toward the
+administration. But at the same time, the possibility of judicial control is
+still open. Except for the rhetorical formula of what is “significantly
+inappropriate”, there is no logical limit as to how far the judicial control
+            25
+might go.        How loose or stringent the control may be depends not upon
+a definite principle but rather upon the attitude of the Court.
+
+      Another point to be mentioned is that the Kobe Customs Office
+Supreme Court Judgment grants discretion only on the choice of
+measures. Discretion as to the legal requirements of disciplinary actions
+                                           26
+was not granted in this case.                   The court did not defer to the
+
+
+24 Hitoshi Murata, Gyōseihō ni Okeru Hireigensoku [Proportionality Principle in
+   Administrative Law], in GYŌSEI SŌSHŌ [ADMINISTATIVE LITIGATION AND
+   ADMINISTRATIVE APPEAL] 79, 87-88 (Masayuki Fujiyama & Hitoshi Murata eds., rev.
+   ed. 2012)（村田斉志，行政法における比例原則，收於：藤山雅行、村田斉志
+   編，行政争訟，改訂版，頁87-88（2012年）                          ）.
+25 This may be the result of the fact that this control is the variation of “abuse” control as
+   opposed to “boundary” control of discretion. Cf. Mitsuo Kobayakawa, Sairyō Mondai
+   to Hōritsu Mondai [Question of Discretion and Question of Law], in 2 HŌGAKU
+   KYŌKAI HYAKUSHŪNEN KINEN RONBUNSHŪ [FESTSCHRIFT FOR 100 YEAR
+   ANNIVERSARY OF THE JURISPRUDENCE ASSOCIATION VOL. 2] 331, 342-344 (1983)（小
+   早川光郎，裁量問題と法律問題，收於：法学協会編，法学協会百周年記念論
+   文集第2卷，頁342-344（1983年）                ）.
+26 This does not mean that the Supreme Court does not grant discretion on the judgment
+   of legal requirements. On the contrary, it often does so. Judgment of the Supreme
+   Court, Oct. 4, 1978 (Saikō Saibansho [Sup. Ct.] Oct. 4, 1978, 1975 (Gyō-Tsu) 120,
+   32(7) SAIKŌ SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 1223, translated in
+   http://www.courts.go.jp/app/hanrei_en/detail?id=56 (Japan) (Renewal of term of
+   sojourn by a foreigner. McLean Case).) and judgment of the Supreme Court Oct. 29,
+Functions of the Proportionality Principle in Japanese Administrative Law          219
+
+
+administrative decision but rendered its own judgment that the actions
+of the plaintiffs (national employees) meet the requirements of Art. 82
+para.1 item (1) and (3), although the conclusion is the same. This was
+done although item (3) employs vague legal concepts (unbestimmter
+Rechtsbegriff in German law) such as “misconduct as to render
+himself/herself unfit to be a servant of all citizens”.
+
+D. “Control of the Judgment-making Process” Regarding
+   Administrative Discretion
+
+     1. Nikkō Tarō Sugi Judgment
+     In 1973, the Tokyo High Court rendered a landmark judgment
+                     27              28
+(Nikkō Tarō Sugi          Judgment)       that found dispositions in the process
+of land expropriation illegal. Tochigi prefecture drafted a project plan to
+expand a national road which included a site owned by Nikkō Tōshōgu, a
+famous and historically significant Shinto shrine located within a special
+protection area based on Natural Parks Law. Because the shrine refused
+to sell the land voluntarily, the Minister of Construction authorized the
+use of land expropriation after it received an application from the
+prefecture. The shrine filed suit. The issue before the court was deciding
+                                                                                    29
+if the project plan met the requirement of the Land Expropriation Law,
+that the plan would “contribute to the appropriate and rational use of
+
+
+   1992 (Saikō Saibansho [Sup. Ct.] Oct. 29, 1992, 1985 (Gyō-Tsu) 133, 46(7) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 1174, translated in http://www.courts.go.jp/
+   app/hanrei_en/detail?id=1399 (Japan) (Ikata Atomic Power Plant).) are famous
+   examples for granting such discretion.
+27 Tarō Sugi is the name of the biggest ceder (Sugi) in Nikkō Tōshōgū Shrine that bears
+   the name “Tarō”, a typical name for firstborn sons in Japan.
+28 Tōkyō Kōtō Saibansho [Tokyo High Ct.] July 13, 1973, 1969 (Gyō-Ko) 12, 24(6/7)
+   GYŌSEI JIKEN SAIBAN REISHŪ [GYŌSAI REISHŪ] 533 (Japan).
+29 Tochi Shūyō Hō [Land Expropriation Law], Law No. 219 of 1951 (Japan).
+220                                          《中研院法學期刊》第22期（2018年3月）
+
+
+land” (Art. 20 Item 3).
+                                                                         30
+      Both the first-instance court (Utsunomiya District Court)               and the
+Tokyo High Court found the disposition by the minister illegal, but the
+methods of reasoning were different. Both judgments interpret the above
+requirement of Art. 20 Item 3 as follows: it requires a comparative
+balance between the public benefits to be gained by use of the contested
+area by the particular project and the harms suffered by such use (this
+harm includes not only private interests but sometimes also public
+interests). Only when the former benefits exceed the latter harms will the
+                                                                                   31
+requirement of Art. 20 Item 3 of the Land Expropriation Law be met.
+Since then, this interpretation has been almost unanimously followed in
+judicial/administrative practice and by academics.
+
+      However, while the first-instance court did not admit administrative
+discretion of the Minister of Construction, the Tokyo High Court
+acknowledged it. Nevertheless, the court submitted the following
+standard of review for such discretionary dispositions.
+
+           “There may be cases when the minister, in making
+      judgment over the above requirement, unjustly and carelessly
+      makes light of various elements and values which shall deserve
+      the utmost regard from the outset, with the result that it lacks
+      due consideration. There may also be cases when the minister
+      considers factors that should not be considered or overvalues
+      less significant factors. When the judgment of the minister is
+
+
+
+30 Utsunomiya Chihō Saibansho [Utsunomiya Dist. Ct.] Apr. 9, 1969, 1964 (Gyō-U) 4
+   & 1967 (Gyō-U) 2, 20(4) GYŌSEI JIKEN SAIBAN REISHŪ [GYŌSAI REISHŪ] 373 (Japan).
+31 The text is quoted from the Tokyo High Court judgment, but the understanding of the
+   first-instance court is virtually the same.
+Functions of the Proportionality Principle in Japanese Administrative Law   221
+
+
+     influenced by such improperness, the decision will be found
+     illegal because of the error in the manner and process of
+     discretionary judgment.”
+
+     Based on this standard, the court examined the actual judgment-
+making process of Tochigi prefecture in making the project plan and the
+examination process over the plan by the Minister of Construction. It
+reached the conclusion that the decision of the minister (i) unjustly and
+carelessly underestimated cultural values and the importance of
+environmental protection, factors which shall deserve utmost regard,
+therefore lacking due consideration, (ii) considered the prognosis of the
+increase of traffic due to the Tokyo Olympic Games (1964), which was a
+factor not to be considered because the increase would only be
+temporary, (iii) overestimated the risk of tree fall that may be caused by
+typhoons and the present weakening of the growing condition of the
+trees. Thus, the court summarizes the “manner and process” of
+discretionary judgment by the minister as “erroneous”. The court
+concluded that “if the judgment had been done without such errors, the
+minister might have reached the final conclusion” and held the
+disposition to be illegal.
+
+     The judgment of the Tokyo High Court captured the attention of the
+academic community. Contemporary case commentaries understood the
+judgment to have introduced “a new method of judicial control”
+regarding discretionary administrative activities from the perspective of
+control of the judgment-making process instead of just ratifying the
+administrative decision or giving the court the power of substantial
+decision on issues that confront the diversification of values in
+222                                       《中研院法學期刊》第22期（2018年3月）
+
+
+                           32
+contemporary society.           However, it should also be noted that some
+commentaries in later years doubt whether the approach taken by the
+High Court does not limit itself to control of the judgment-making
+process but instead has a tendency to enforce the courts’ substantial
+                   33
+value judgment.
+
+      While the Nikkō Tarō Sugi Judgment and its “control of the
+                                                              34
+judgment-making process” (Handan Katei Shinsa ) approach received
+extensive attention, there have not been many judicial decisions that
+have used this approach and have subsequently found administrative
+                                           35
+activities to be illegal until recently.
+
+
+
+
+32 See, e.g., Naohiko Harada, Hanhi—Tōkyō Kōhan Shōwa 48nen 7gatu 13nichi [Case
+   Comment—Judgment of the Tokyo High Court, July 13, 1973], 565 JURISUTO 41, 43
+   (1974)（原田尚彦，判批（東京高判昭和48年7月13日），ジュリスト，565号
+  （昭和48年度重要判例解説）），頁43（1974年）; Hiroshi Shiono, Hanhi—Tōkyō
+   Kōhan Shōwa 48nen 7gatu 13nichi [Case Comment—Judgment of the Tokyo High
+   Court, July 13, 1973], 178 HANREI HYŌRON 21, 25 (1973)（塩野宏，判批（東京高
+   判昭和48年7月13日）            ，判例評論，178号，頁25（1973年）                 ）.
+33 YASUTAKA ABE, GYŌSEI SAIRYŌ TO GYŌSEI KYŪSAI [ADMINISTRATIVE DISCRETION
+   AND ADMINISTRATIVE REMEDY] 126, 128 (1987)（阿部泰隆，行政裁量と行政救
+   済，頁126、128（1987年）             ）.
+34 I assume that “control of the decision-making process” forms a more natural
+   expression in English, however, since the original Japanese “Handan” has a more
+   cognitive rather than voluntaristic aspect, I chose “control of the judgment-making
+   process” as the translation.
+35 One of the exceptions may be the Nibutani Dam Judgment (Sapporo Chihō Saibansho
+   [Sapporo Dist. Ct.] Mar. 27, 1997, 1993 (Gyō-U) 9, 1598 HANREI JIHŌ [HANJI] 33
+   (Japan).) which declared the land expropriation disposition (Land Expropriation Law
+   Art. 47-2) for a project to construct a large dam which would also destroy the “sacred
+   places” of Japan’s indigenous Ainu people. (English translation of this judgment by
+   Mark Levin can be found at Mark Levin, Kayano et al. v. Hokkaido Expropriation
+   Committee: ‘The Nibutani Dam Decision’, 38 INT’L LEGAL MATERIALS 394, http://
+   ssrn.com/abstract=1635447.)
+Functions of the Proportionality Principle in Japanese Administrative Law            223
+
+
+
+     2. The Supreme Court: Integration of “Control of the
+        Judgment-making Process” into “Generally Accepted Social
+        Ideas Control”
+      On the other hand, the Supreme Court seems to have incorporated
+some elements of “control of the judgment-making process” into its
+decisions. In a Supreme Court Judgment on Mar. 8, 1996 (the Jehovah’s
+                  36                                                            37
+Witness case),         the court ruled that the expulsion disposition                of a
+municipal technical college student was illegal. In this case, the student
+had refused to take Kendō (Japanese fencing) practice in a physical
+education course for reasons of his religious faith. Therefore, he failed to
+receive credit for the course, which was a compulsory subject. At the end
+of the school year, the school principal presented a disposition against
+him to retain him in the same grade for another year. In the next year, the
+situation remained the same and the student was expelled from the
+school according to the school policy. The student filed a revocation suit
+against the disposition.
+
+      In judging the case, the court stood on the premise that the school
+principal has a discretion over such dispositions and that those
+dispositions can be found illegal only “when they have no foundation in
+fact or when they lack appropriateness in the light of generally accepted
+social ideas so that it shall be seen as beyond the bounds of discretion of
+
+
+36 Saikō Saibansho [Sup. Ct.] Mar. 8, 1996, 1995 (Gyō-Tsu) 74, 50(3) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 469, translated in http://www.courts.go.jp/
+   app/hanrei_en/detail?id=294 (Japan). Here and for other Supreme Court Judgments,
+   the author uses the provisional translation on the website of the court, but these
+   sometimes differ in the use of equivalents, which is necessary for the consistency of
+   this article.
+37 A disposition against the same student to retain in the same class for another year was
+   also found to be illegal.
+224                                        《中研院法學期刊》第22期（2018年3月）
+
+
+abuse of discretion”.
+
+      However, after employing the above traditional rhetorical formula,
+the court emphasizes that disposition of expulsion should be chosen
+“only if it is deemed unavoidable to expel the relevant student from
+school from an educational viewpoint. In determining the requirements
+therefore, utmost care should be taken, involving yet more prudence than
+when other types of disposition are chosen”. The utmost care should also
+be taken for the disposition to retain in the same class for the next year.
+
+      The court further held that (i) Kendō practice may not be a requisite
+for technical colleges and the educational purpose of physical education
+can also be accomplished in alternative ways, and (ii) the reason why the
+student refused to participate in Kendō practice was closely related to the
+core of his faith, while a consequence of his refusal to participate was
+                              38
+gravely disadvantageous.
+
+      The student had repeatedly requested his teachers to provide
+alternative activities, such as writing reports and the like, but the
+technical college bluntly refused the requests. The Court says:
+
+           “In light of the above nature of each of the said
+      dispositions, . . . sufficient consideration should have been
+
+
+
+38 The court first confirms that the case is not about direct restriction of religious
+   freedom (NIHONKOKU KENPŌ [KENPŌ] [CONSTITUTION], art. 20, para. 1 (Japan).
+   “Freedom of religion is guaranteed to all. No religious organization shall receive any
+   privileges from the State, nor exercise any political authority” per se, because neither
+   of the dispositions oblige the student to “take action incompatible with the doctrine
+   underlying his faith as far as its contents are concerned”. However, according to the
+   court, they are of such a nature that the student “had no choice but to participate in
+   Kendō practice, which was an activity in conflict with the doctrine underlying his
+   faith, to avoid grave disadvantages inflicted by these dispositions.
+Functions of the Proportionality Principle in Japanese Administrative Law            225
+
+
+                                                                            39
+     given to the rightness of offering any alternative activity , the
+     way and manner thereof, if any, and so on before each of the
+     said dispositions was handed down, but there is no proof of any
+     such consideration being given in this case.”
+
+      In conclusion, the court found that the judgment of the school
+principal in carrying out the above dispositions, based on the evaluation
+by the teacher who did not give ample consideration to alternative
+activities and “fails to take into account the matters to be considered, or
+obviously falls short of rationally evaluating the facts under
+                                                                 40
+consideration”, to be illegal “beyond the bounds                       of discretionary
+authority.”
+
+      Here the Supreme Court employs a method of judicial control that
+examines whether the administration has appropriately measured and
+evaluated the “matters to be considered”, although the decision does not
+use the term “judgment-making process”. The court also interprets the
+law and shows perspectives for this examination, namely (i) the dilemma
+between expulsion from the school or remaining in the same class on the
+one side and other disciplinary dispositions imposed on the other, and
+(ii) the analysis of the situation of the student from the viewpoint of
+religious freedom.
+                                                                41
+      In a Supreme Court Judgment on Nov. 2, 2006                     over the approval
+
+
+39 As a premise, the court also confirms that taking alternative measures will not be a
+   violation of Article 20, para. 3 of the Constitution which guarantees the separation of
+   religion and the state.
+40 Here the court uses “beyond the bounds of discretion” instead of “abuse of
+   discretion”.
+41 Saikō Saibansho [Sup. Ct.] Nov. 2, 2006, 2004 (Gyō-Hi) 114, 60(9) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 3249, translated in http://www.courts.go.jp/
+   app/hanrei_en/detail?id=863 (Japan).
+226                                          《中研院法學期刊》第22期（2018年3月）
+
+
+of a city-planning project of the Tokyo Metropolitan Government related
+to the elevated structure of an urban high-speed railroad, the court
+established a clearer formula for reviewing discretionary administrative
+dispositions.
+
+           “Therefore, when the court examines the legality of the
+      decision to adopt a city plan on city facilities or of the content
+      of the change of the plan, the court should regard such decision
+      or change as an exercise of the discretionary power granted to
+      the administrative authority, and should find illegality in such
+      decision or change only where the administrative agency’s
+      decision or change can be regarded to go beyond the bounds of
+      discretionary power or constituting an abuse of such power by
+                                                        42
+      reason that the decision or change (1) lacks a critical factual
+      basis due to errors in fact-finding based on which the decision
+      was made, or by reason that the decision seems (2)significantly
+      inappropriate in light of the generally accepted social ideas
+      because the agency’s (2-1)assessments of facts is obviously
+      unreasonable or (2-2)the agency has not taken into
+      consideration the matters that should have been considered in
+      the judgment-making process.”
+
+      Here the court integrates control of the “judgment-making process”
+                                                                                            43
+into the traditional “generally accepted social ideas” formula.
+
+
+42 Numbers in parentheses are inserted not by the court but by the author of this essay.
+43 Hiroyuki Hashimoto claims that there is at least one significant theoretical difference
+   in the premise of the Nikkō Tarō Sugi Judgment type of control and the present
+   Supreme Court control formula. Since the former judgment by the Tokyo High Court
+   revoked the decision of the minister, focusing on the “erroneous manners and
+   process” of the discretion by the minister, there is at least a theoretical possibility that
+   the minister will reach the same conclusion again, this time after a deliberate
+Functions of the Proportionality Principle in Japanese Administrative Law        227
+
+
+Discretionary dispositions may be found to be illegal by the courts when
+they:
+
+     (1) lack a critical factual basis (the premise is that the courts can
+exercise de novo control of fact finding)
+     (2) are significantly inappropriate in light of the generally accepted
+social ideas
+     because of
+     (2-1) obviously unreasonable assessment of facts
+     or
+     (2-2) failure in the judgment-making process such as the due
+consideration of matters to be considered
+
+     The above Supreme Court judgment did not find the approval of
+the city planning to be illegal. However, employing similar formulae, the
+Supreme Court has found two discretionary dispositions concerning
+                                                                 44
+permission of use of public facilities for other purposes.
+
+
+   consideration (Mitsuo Kobayakawa, Hanhi—Tōkyō Kōhan Shōwa 48nen 7gatu
+   13nichi [Case Comment—Judgment of the Tokyo High Court, July 13, 1973], 103
+   BESSATSU JURISUTO 118, 120 (1989))（小早川光郎，判批（東京高判昭和48年7
+   月13日），別冊ジュリスト，103号（街づくり・国づくり判例百選），頁120
+  （1989年））. Hashimoto seems to be skeptical that the Supreme Court formula,
+   however, will allow such a possibility of repetition. Cf. HIROYUKI HASHIMOTO,
+   GYŌSEI HANREI TO SHIKUMI KAISHAKU [ADMINISTRATIVE LAW CASE PRECEDENTS
+   AND SYSTEMATIC INTERPRETATION] 152 (2009)（橋本博之，行政判例と仕組み解
+   釈，頁152（2009年）          ）. On the other hand, some authors expressly affirm such a
+   possibility. Cf. HIROSHI SHIONO, GYŌSEIHŌ II [ADMINISTRATIVE LAW II] 187 (5th ed.
+   supplemented 2013)（塩野宏，行政法 II，5版補訂版，頁187（2013年））;
+   KATSUYA UGA, GYŌSEIHŌ GAISETSU II [ADMINISTRATIVE LAW TEXT, VOL. 2] 282 (5th
+   ed. 2015)（宇賀克也，行政法概説II，5版，頁282（2015年））; Yukio Okitsu,
+   §33, in JOKAI GYŌSEIJIKEN SOSHŌHŌ [COMMENTARIES OF ADMINISTRATIVE CASE
+   LITIGATION LAW] 661, 674 (H. Minami et al. eds., 4th ed. 2014)（興津征雄，第33
+   条，南博方等編，条解行政事件訴訟法，4版，頁674（2014年）                                 ）.
+44 Saikō Saibansho [Sup. Ct.] Feb. 7, 2006, 2003 (Ju) 2001, 60(2) SAIKŌ SAIBANSHO
+   MINJI HANREISHŪ [MINSHŪ] 401, translated in http://www.courts.go.jp/app/hanrei_en/
+228                                     《中研院法學期刊》第22期（2018年3月）
+
+
+
+III. Discretion Control and the PP
+
+A. Outside/Inside and Necessity/Balancing
+      We have described so far the development of the judicial control
+formula of administrative discretion in Japan. Now let us return to the
+first question at the beginning of this paper. Does the PP function
+outside or inside of the domain of administrative discretion?
+
+      As has been stated, the present administrative discretion control of
+the Supreme Court integrates the “control of the judgment-making
+process” method into the formula of “generally accepted social ideas”. Is
+this type of discretion control an application of the PP? The answer to
+this question depends upon how we understand the PP.
+
+      As mentioned above, we find two main functions of the PP,
+necessity control and balancing control. We also hold the premise that
+administrative discretion can only be granted for either (i) the decision as
+to which factors are to be considered and their weighting or (ii) reaching
+                                                            45
+the final conclusion for the case (Subsumption).                 The question of
+discretion is separated from the question of interpretation of law.
+
+      Under this premise, the classic “generally accepted social ideas”
+formula of the Supreme Court can be understood to perform a type of
+balancing control. It also functions not on the level of interpretation of
+law but in the application in the narrower sense. In this regard, this
+
+
+   detail?id=814 (Japan). Saikō Saibansho [Sup. Ct.] Dec.7, 2007, 2005 (Gyo-Hi) 163,
+   61(9) SAIKŌ SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 3290, translated in
+   http://www.courts.go.jp/app/hanrei_en/detail?id=924 (Japan) (permission for the
+   occupancy of a public seacoast area).
+45 See pp. 209, 212 of this paper.
+Functions of the Proportionality Principle in Japanese Administrative Law           229
+
+
+                                                                             46
+formula can be considered as a type of the PP loosely applied,                    which
+functions “inside” of the discretion.
+
+     What about the “control of the judgment-making process”, which
+has been recently integrated in the “generally accepted social ideas”
+formula? The essence of this control lies in the determination of which
+factors shall be considered, and in the weighting standard of the factors
+                     47
+(2-1 in the Chart ). The court oversees whether the administrative
+agency has conducted this process properly. The court may establish a
+general legal proposition as to which factors shall be considered. A
+factor may be classified as (i) factors that must be considered, (ii) factors
+that should not be considered, or (iii) factors that may be considered
+depending on the circumstances. This classification itself is the process
+of interpretation of law, therefore it lies “outside” of the discretion.
+
+     The court may further control the weighting of the factors. If the
+court establishes a general priority rule in the weighting standard as a
+general legal proposition, this is a balancing control, but it logically
+precedes actual balancing and functions “outside” of the domain of
+discretion.
+
+B. Cautiousness of the Supreme Court in Setting Priority
+   Rules
+     However, generally speaking, the Supreme Court is rather cautious
+in setting clear priority rules among diverse interests that leads to
+                                48                                      49
+stringent discretion control.        In a Supreme Court judgment             over the
+
+
+46 See Murata, supra note 24.
+47 See p. 213 of this paper.
+48 RYUJI YAMAMOTO, HANREI      KARA TANKYŪSURU GYŌSEIHŌ [EXPLORING
+   ADMINISTRATIVE LAW THROUGH JUDICIAL PRECEDENTS] 227 (2012)（山本隆司，判
+230                                     《中研院法學期刊》第22期（2018年3月）
+
+
+refusal of permission for the use of a public school facility for purposes
+other than the original purpose, the court declared the refusal illegal, but
+refrained from setting a general rule on putting weights on a particular
+         50
+interest.
+
+      Let us take another example: a case where the legality of a city
+planning project by the Tokyo Metropolitan Government to enlarge a
+public park was questioned. This became the subject of dispute when a
+decision was made to use private land in the enlargement plan when
+                                                            51
+public land was available. The first- instance court,            the Tokyo District
+Court, found the city plan to be illegal.
+
+            “When either privately owned land or its adjacent publicly
+      owned land is available for a certain public purpose, it goes
+      without saying that the fact that one of them is owned privately
+      is a factor to be considered in the choice of which land to use.
+      In such a case, the public authority may use the private land
+      only when, for example, the public land is already used for
+      another administrative purpose and such use is indispensable
+      because there is no alternative, so that the necessity of attaining
+      another administrative purpose surpasses the necessity of the
+      park.”
+
+      Here the District Court clearly applies the necessity control of the
+
+
+
+                        ）.
+   例から探究する行政法，頁227（2012年）
+49 Saikō Saibansho [Sup. Ct.] Feb. 7, 2006, 2003 (Ju) 2001, 60(2) SAIKŌ SAIBANSHO
+   MINJI HANREISHŪ [MINSHŪ] 401, translated in http://www.courts.go.jp/app/hanrei_en/
+   detail?id=814 (Japan).
+50 YAMAMOTO, supra note 48, at 227, 242-43.
+51 Tōkyō Chihō Saibansho [Tokyo Dist. Ct.] Aug. 27, 2002, 1997 (Gyō-U) 47, 1835
+   HANREI JIHŌ [HANJI] 52 (Japan).
+Functions of the Proportionality Principle in Japanese Administrative Law              231
+
+
+                                        52
+PP. The second-instance court,               the Tokyo High Court, reversed the
+first- instance court’s decision in favor of the defendant, but the Supreme
+Court once again quashed and reversed the decision of the Tokyo High
+        53
+Court.       However, the Supreme Court does not share the view of the
+first- instance court that the use of private land is allowed only when
+public land is not available. Rather, the court emphasizes the need for the
+rationality of “situating facilities of adequate scale at necessary
+              54
+locations”.        The choice between public land and private land is only
+one of the factors that may be considered. Here we can observe the
+court’s attitude that it is very careful in the establishment of a certain
+principle for necessity control or priority rules in balancing control,
+because such principle or priority rules might lead to reduction in the
+flexibility of the administration. As such, the Supreme Court did not talk
+about the PP in this case.
+
+      The evaluation of the Jehovah’s Witness Judgment of the Supreme
+        55
+Court        is difficult in this context. The court analyzed the situation from
+the standpoint of constitutional interpretation. Based on such
+interpretation, the court emphasized that the double-bind situation of the
+student—“he had no choice but to participate in kendō practice, which
+was an activity in conflict with the doctrine underlying his faith, to avoid
+
+
+
+52 Tōkyō Kōtō Saibansho [Tokyo High Ct.] Sept. 11, 2003, 2002 (Gyō-Ko) 234, 1845
+   HANREI JIHŌ [HANJI] 54 (Japan).
+53 Saikō Saibansho [Sup. Ct.] Sept. 4, 2006, 2003 (Gyō-Hi) 321, 1948 HANREI JIHŌ
+   [HANJI] 26 (Japan).
+54 Cf. Toshi Keikaku Hō [City Planning Law], Law No. 100 of 1968, art. 13, para. 1,
+   item 11, translated in http://www.japaneselawtranslation.go.jp/law/detail/?id=1923&
+   vm=02&re=01&new=1 (Japan). The law itself was not applied in the court decision
+   since the city plan had been decided before the law took effect, but the court applied it
+   as an unwritten principle.
+55 See p. 223 of this paper.
+232                                     《中研院法學期刊》第22期（2018年3月）
+
+
+grave disadvantages”—is a matter that should be considered seriously.
+The judgment of the school principal, however, “fails to take into
+account the matters to be considered, or obviously falls short of
+rationally evaluating the facts under consideration”, according to the
+court. Whether this ruling of the court can be understood to have
+established a general priority rule is open to question.
+
+C. Kimigayo Disciplinary Action Case
+      We will also examine this point by analysing a recent Supreme
+Court case that is said to have clearly applied the PP (Judgment of the
+                                                                                 56
+Supreme Court. Jan. 16, 2012 (Kimigayo Disciplinary Action Case)).
+This was a judgment concerning a disciplinary action against public
+school teachers in Tokyo who refused to stand up and sing Kimigayo,
+Japan’s national anthem, during school ceremonies (entrance or
+graduation ceremonies). Some Japanese people, including school
+teachers, consider Kimigayo and Hinomaru, Japan’s national flag, to be
+closely connected to Japan’s history of militarism and imperialism. On
+the other hand, since the late 1990s, the Ministry of Education has felt it
+to be important that the Hinomaru be raised at public school ceremonies
+and that Kimigayo is sung. In 2003, the Tokyo Metropolitan Government
+Board of Education issued a circular to public school principals that they
+should issue an official order against the protesting teachers, forcing
+them to stand up and sing Kimigayo during ceremonial occasions. The
+circular also noted that disobedience of the official order would lead to
+disciplinary action. Although not expressly mentioned in the circular, the
+Board of Education has a policy of issuing an “admonition” for the first
+
+
+56 Saikō Saibansho [Sup. Ct.] Jan. 16, 2012, 2011 (Gyō-Tsu) 263 & 2011 (Gyō-Hi) 294,
+   2417 HANREI JIHŌ [HANJI] 139 (Japan).
+Functions of the Proportionality Principle in Japanese Administrative Law           233
+
+
+occurrence of disobedience, “reduction of salary for one month” for the
+second occurrence, “reduction of salary for six month[s]” for the third,
+and “suspension from duty” for the fourth. The practice was
+                                    57
+“uniform . . . and automatic” . The plaintiffs were those teachers who
+suffered disciplinary actions as a result of this circular.
+
+     The plaintiffs in this case suffered from “suspension from duty”
+disciplinary dispositions. They argued, among other things, that the
+official order to stand up and sing was an infringement of freedom of
+                                                                            58
+thought and conscience (Art. 19 of the Constitution of Japan),                   but the
+Supreme Court had already ruled in prior decisions that it is
+                59
+constitutional.      The Court ruled that the act of standing in ceremonies,
+has a nature of a customary and formal behavior not inseparably
+connected to the view of history or the view of the world itself, therefore
+the order does not directly constrain an individual’s freedom of thought
+and conscience. However, at the same time, the court also noted that
+requiring a person to perform an act that has an expression of his/her
+respect of certain objects that he/she negatively evaluates (Hinomaru,
+Kimigayo) could be “indirect constraint” to freedom of thought and
+conscience.
+
+     It was against this backdrop that the Supreme Court Judgment on
+Jan. 16, 2012 was issued. The court first refers to the prior judgment of
+the court to confirm the constitutionality of the official order. It then
+
+
+57 Quoted from the supplementary opinion in the Judgment written by Justice Tatsuko
+   Sakurai.
+58 NIHONKOKU KENPŌ [KENPŌ] [CONSTITUTION], art. 19 (Japan). Freedom of thought
+   and conscience shall not be violated.
+59 E.g. Saikō Saibansho [Sup. Ct.] May 30, 2011, 2010 (Gyō-Tsu) 54, 65(4) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 1780, translated in http://www.courts.go.jp/
+   app/hanrei_en/detail?id=1106 (Japan).
+234                                   《中研院法學期刊》第22期（2018年3月）
+
+
+                                         60
+quotes the Kobe Customs Office Case           and other precedents in order to
+show that there is administrative discretion in the choice of measures
+when the disobedience took place.
+
+      However, the court goes on to point out that the refusal to stand up
+and sing brings about a contradiction between the action required by the
+official order and the external conduct that originates from her/his world
+views. The court also points out that mere refusal to stand up without
+active disruptive conducts would not hinder the performance of the
+ceremony, at least physically.
+
+      Based on this analysis, the court makes a distinction between
+“admonition” and other disciplinary measures such as salary reduction
+and more severe measures such as “suspension from duty” in this case.
+“Careful considerations” are required for the latter. “Suspension from
+duty” dispositions shall only be allowed when concrete circumstances
+are found that can serve as a basis of appropriateness of the choice of
+disposition in view of balancing between the necessity of preserving
+discipline and order, and disadvantages to the subject person. Mere
+repetition of not standing up will not suffice for finding such concrete
+circumstances.
+
+      We can observe here an argument similar to the Jehovah’s Witness
+case. The situation surrounding the plaintiffs in relation to constitutional
+rights is analyzed so that “careful considerations” are required. Although
+not quoting expressly, the court surely has an “indirect constraint”
+argument in the prior judgment in mind. As a result, the court makes a
+distinction among different disciplinary actions. It draws a line between
+
+
+60 Saikō Saibansho [Sup. Ct.] Dec. 20, 1977, 1972 (Gyō-Tsu) 52, 31(7) SAIKŌ
+   SAIBANSHO MINJI HANREISHŪ [MINSHŪ] 1101 (Japan).
+Functions of the Proportionality Principle in Japanese Administrative Law    235
+
+
+“admonition” and other more severe disciplinary measures. Here the
+court establishes a general legal proposition in the balancing control,
+which can be legitimately referred to as an application of the PP.
+
+     While establishing a general legal proposition, it should also be
+noted that the court also delivered a warning sign against “uniform . . .
+and automatic” practice of disciplinary actions. Some authors evaluate
+                                                        61
+this warning sign from the perspective of the PP.
+
+     Here we can observe two different orientations of the PP in regard
+to balancing control. On the one hand, it seeks establishment of a general
+legal proposition by giving priority to a certain interest. On the other
+hand, the principle tries to avoid being over-inclusive by setting a
+general rule and seeks an adequate judgment in individual particular
+circumstances.
+
+
+
+IV. Summary
+
+     This essay has examined the PP, whether it functions “outside” or
+“inside” of administrative discretion and whether it performs the
+necessity control or the balancing control. It also builds upon the
+premise that administrative discretion takes place in the process of the
+application of the law in the narrower sense, distinguished from the
+interpretation of law and from bare fact-finding, both of which are
+reserved for the judiciary.
+
+
+61 E.g. Takayoshi Tsuneoka, Shokumu Meirei Ihan ni Taisuru Chōkai Shobun to Shihō
+   Shinsa (1) [Disciplinary Actions against Disobedience to an Official Order and
+   Judicial Review (1)], 89(8) JICHI KENKYŪ 27, 36 (2013)（常岡孝好，職務命令違反
+   に対する懲戒処分と裁量審査(1)，自治研究，89卷8号，頁36（2013年）                                 ）.
+236                                       《中研院法學期刊》第22期（2018年3月）
+
+
+      The Japanese Supreme Court employs the rhetorical formula of
+“generally accepted social ideas” in the judicial control of administrative
+discretion, which is sometimes understood as a loose application of the
+PP. The control tends to be lax, but there is no inherent limit on the
+degree to which it is applied.
+
+      The court later integrated the “control of the judgment-making
+process” method into the “generally accepted social ideas” formula. In
+this method, the judiciary extracts (i) factors that must be considered, (ii)
+factors that should not be considered, or (iii) factors that may be
+considered depending on the circumstances as a result of legal analysis.
+It may further designate weighting of factors.
+
+      Needless to say, the core of the PP is the purpose-means
+construction. Regarding necessity control, this construction is self-
+evident. As for balancing control, whether the court focuses on a special
+weighting of a particular interest is the issue. The feature of the PP in
+balancing control is that a particular interest is placed on one side of the
+                                                            62
+scale and compared with various other interests.                 We have confirmed
+that the Supreme Court is rather reluctant to perform such types of
+dichotomic balancing, but does so in certain cases.
+
+      Whether such balancing is appropriate depends upon a
+determination of the desirable degree of judicial review, as well as an
+understanding of the legal structure in the relevant field. We should be
+aware that while such dichotomic balancing will provide an effective
+
+
+62 Such priority of a particular interest must be derived either from the Constitution or
+   from the (interpretation of) the law. See Ryuji Yamamoto, Gyōsei Sairyō no Handan
+   Katei Shinsa [“Control of the Judgment-making Process” Regarding Administrative
+   Discretion], 14 GYŌSEIHŌ KENKYŪ 1, 11-12 (2016)（山本隆司，行政裁量の判断
+   過程審査，行政法研究，14号，頁11-12（2016年）                         ）.
+Functions of the Proportionality Principle in Japanese Administrative Law   237
+
+
+tool for judicial control, it also presents the risk of making the actual
+diversity of interests among various stakeholders invisible. The issue of
+                                                                      63
+the legal governance of urban space can illustrate this risk.
+
+
+
+
+63 Cf. Narufumi Kadomatsu, Legal Management of Urban Space in Japan and the Role
+   of the Judiciary, in COMPARATIVE ADMINISTRATIVE LAw 497 (Susan Rose-Ackerman
+   et al. eds., 2d ed. 2017).
+238                               《中研院法學期刊》第22期（2018年3月）
+
+
+
+
+                              Reference
+
+1. English
+
+Kadomatsu, Narufumi. 2017. Legal Management of Urban Space in
+      Japan and the Role of the Judiciary. Pp. 497-512 in Comparative
+      Administrative Law, 2d ed., edited by Susan Rose-Ackerman, Peter
+      L. Lindseth and Blake Emerson. Northampton, MA: Edward Elgar.
+Toulmin, Stephen E. 2003. The Uses of Argument. Updated ed.
+      Cambridge: Cambridge University Press.
+
+2. Japanese
+
+Abe, Yasutaka. 1987. Gyōsei Sairyō to Gyōsei Kyūsai [Administrative
+      Discretion and Administrative Remedy]. Tokyo: Sanseido.（阿部泰
+      隆（1987）
+            ，行政裁量と行政救済，東京：三省堂。
+                             ）
+Harada, Naohiko. 1974. Hanhi—Tōkyō Kōhan Shōwa 48nen 7gatu
+      13nichi [Case Comment—Judgment of the Tokyo High Court, July
+      13, 1973]. Jurisuto 565:41-44.（原田尚彦（1974）
+                                              ，判批（東京
+      高判昭和48年7月13日），ジュリスト，565号（昭和48年度重
+      要判例解説）
+           ，頁41-44。
+                  ）
+Hashimoto, Hiroyuki. 2009. Gyōsei Hanrei to Shikumi Kaishaku
+      [Administrative   Law    Case    Precedents    and   Systematic
+      Interpretation]. Tokyo: Kōbundō.（橋本博之（2009）
+                                                ，行政判例
+      と仕組み解釈，東京：弘文堂。
+                   ）
+Kadomatsu, Narufumi. 2014. Nihon Gyōseihō ni Okeru Hireigensoku no
+      Kinō ni Kansuru Oboegaki [Memorandum on the Functions of the
+      Proportionality Principle in Japanese Administrative Law].
+      Seisakukagaku 21(4):191-200.（角松生史（2014），日本行政法
+Functions of the Proportionality Principle in Japanese Administrative Law    239
+
+
+     における比例原則の機能に関する覚え書き，政策科学，21卷
+     4号，頁191-200。
+                ）
+─. 2016. Gyōseihō ni Okeru Hō no Kaishaku to Tekiyō ni kansuru
+     Oboegaki [A Memorandum on Interpretation/Application of Law in
+     Administrative Law]. Pp. 383-400 in Gendai Gyōseihō no Kōzo to
+     Tenkai      [Structure      and      Development        of     Contemporary
+     Administrative Law], edited by Katsuya Uga and Hisashi Kōketsu.
+     Tokyo: Yūhikaku.（角松生史（2016），行政法における法の解
+     釈と適用に関する覚え書き，收於：宇賀克也、交告尚史編，
+     現代行政法の構造と展開，頁383-400，東京：有斐閣。
+                                ）
+Kobayakawa, Mitsuo. 1983. Sairyō Mondai to Hōritsu Mondai
+     [Question of Discretion and Question of Law]. Pp. 331-360 in vol.
+     2 of Hōgaku Kyōkai Hyakushūnen Kinen Ronbunshū [Festschrift
+     for 100 Year Anniversary of the Jurisprudence Association Vol. 2].
+     Tokyo: Yūhikaku.（小早川光郎（1983），裁量問題と法律問
+     題，收於：法学協会編，法学協会百周年記念論文集第2卷，
+     頁331-360，東京：有斐閣。
+                    ）
+─. 1989. Hanhi—Tōkyō Kōhan Shōwa 48nen 7gatu 13nichi [Case
+     Comment—Judgment of the Tokyo High Court, July 13, 1973].
+     Bessatsu Jurisuto 103:118-120.（小早川光郎（1989）
+                                              ，判批（東
+     京高判昭和48年7月13日），別冊ジュリスト，103号（街づく
+     り・国づくり判例百選）
+               ，頁118-120。
+                        ）
+Minobe, Tatsukichi. 1929. Gyōsei Saibanhō [Administrative Litigation
+     Law]. Tokyo: Chikura-Shobo.（美濃部達吉（1929），行政裁判
+     法，東京：千倉書房。
+              ）
+─. 1940. Nihon Gyōseihō [Japanese Administrative Law]. Tokyo:
+     Yūhikaku.（美濃部達吉（1940），日本行政法，東京：有斐
+     閣。
+      ）
+Murata, Hitoshi. 2012. Gyōseihō ni Okeru Hireigensoku [Proportionality
+240                                《中研院法學期刊》第22期（2018年3月）
+
+
+
+      Principle in Administrative Law]. Pp. 79-93 in Gyōsei Sōshō
+      [Administative Litigation and Administrative Appeal], revised ed.,
+      edited by Masayuki Fujiyama and Hitoshi Murata. Tokyo: Seirin
+      Shoin.（村田斉志（2012）
+                      ，行政法における比例原則，收於：
+      藤山雅行、村田斉志編，行政争訟，改訂版，頁79-93，東
+      京：青林書院。
+            ）
+Okitsu, Yukio. 2014. §33. Pp. 661-698 in Jokai Gyōseijiken Soshōhō
+      [Commentaries of Administrative Case Litigation Law], 4th ed.,
+      edited by H. Minami, S. Takahashi, H. Ichimura and R. Yamamoto.
+      Tokyo: Kōbundō.（興津征雄（2014），第33条，南博方、高橋
+      滋、市村陽典、山本隆司編，条解行政事件訴訟法，4版，頁
+      661-698，東京：弘文堂。）
+Shiono, Hiroshi. 1973. Hanhi—Tōkyō Kōhan Shōwa 48nen 7gatu
+      13nichi [Case Comment—Judgment of the Tokyo High Court, July
+      13, 1973]. Hanrei Hyōron 178:21-25.（塩野宏（1973），判批
+      （東京高判昭和48 年 7 月13 日），判例評論，178 号，頁21-
+      25。）
+─. 2013. Gyōseihō II [Administrative Law II]. 5th ed.
+      (supplemented). Tokyo: Yūhikaku.（塩野宏（2013），行政法 II，
+      5版補訂版，東京：有斐閣。）
+─. 2015. Gyōseihō I [Administrative Law I]. 6th ed. Tokyo:
+      Yūhikaku.（塩野宏（2015），行政法 I，6版，東京：有斐閣。）
+Suto, Yoko. 2010. Hirei Gensoku no Gendaiteki Igi to Kinō
+      [Contemporary Significance and Function of the Proportionality
+      Principle]. Kyoto: Hōritsu Bunkasha.（須藤陽子（2010）
+                                                    ，比例
+      原則の現代的意義と機能，京都：法律文化社。）
+Takagi, Hikaru. 2015. Gyōseihō [Administrative Law]. Tokyo: Yūhikaku.
+      （高木光（2015）
+               ，行政法，東京：有斐閣。）
+Tsuneoka, Takayoshi. 2013. Shokumu Meirei Ihan ni Taisuru Chōkai
+Functions of the Proportionality Principle in Japanese Administrative Law   241
+
+
+     Shobun to Shihō Shinsa (1) [Disciplinary Actions against
+     Disobedience to an Official Order and Judicial Review (1)]. Jichi
+     Kenkyū 89(8):27-49.（常岡孝好（2013），職務命令違反に対す
+     る懲戒処分と裁量審査(1)，自治研究，89卷8号，頁27-49。
+                                    ）
+Uga, Katsuya 2015. Gyōseiho Gaisetsu II [Administrative Law Text,
+     vol. 2]. 5th ed. Tokyo: Yūhikaku.（宇賀克也（2015）
+                                                ，行政法概
+     説II，5版，東京：有斐閣。）
+Watari, Tadasu. 2008. Rieki Kōryō Gata Shinsa to Hirei Gensoku
+     [Judicial Review Based on Balancing of Interests and the
+     Proportionality Principle]. Hōgaku Kyōshitsu 339:37-46.（亘理格
+    （2008），利益衡量型司法審査と比例原則，法学教室，339
+     号，頁37-46。
+             ）
+Yamamoto, Ryuji. 2006. Nihon ni Okeru Sairyō Ron no Henyō
+     [Transformation of Discretion Doctrine in Japan]. Hanrei Jihō
+     1933:11-22.（山本隆司（2006），日本における裁量論の変
+     容，判例時報，1933号，頁11-22。
+                        ）
+─. 2012. Hanrei Kara Tankyūsuru Gyōseihō [Exploring
+     Administrative Law through Judicial Precedents]. Tokyo: Yūhikaku.
+    （山本隆司（2012），判例から探究する行政法，東京：有斐
+     閣。
+      ）
+─. 2016. Gyōsei Sairyō no Handan Katei Shinsa [“Control of the
+     Judgment-making Process” Regarding Administrative Discretion].
+     Gyōseihō Kenkyū 14:1-24.（山本隆司（2016）
+                                       ，行政裁量の判断
+     過程審査，行政法研究，14号，頁1-24。
+                         ）
+242               《中研院法學期刊》第22期（2018年3月）
+
+
+
+
+       比例原則在日本行政法的功能
+
+                 角松生史∗
+
+
+                  摘要
+  日本在兩次世界大戰期間，從德國引入比例原則。除了作為傍
+論之外，日本最高裁判所從未明白在判決中提及比例原則。然而，
+有一些判決實質上應用了比例原則。本文的主要問題是：比例原則
+是否對於行政裁量的範圍內外均有所作用，以及是否進行必要性與
+狹義比例原則審查。本文的論證基礎預設了行政裁量發生於行政機
+關適用法律的最狹義過程中，無關乎解釋法律或發現事實的過程，
+蓋後二者屬於司法審查的範疇。最高裁判所在審查行政裁量時採用
+「一般社會通念」的公式，並在此一經典的公式中融入了「審查決
+策過程」的概念。本文也檢視比例原則與此一審查架構的關係。關
+於必要性審查，目的—手段的結構作為比例原則核心乃不證自明。
+至於狹義比例原則的審查，其特色在於將特定的單一利益放在天平
+的一端，與其他各式各樣的利益進行比較。最高裁判所毋寧排斥進
+行這種二分式的利益衡量，但仍在特定案件中進行比較。這種衡量
+是否妥適取決於司法審查的可欲程度以及對該領域中法律結構的理
+解。這種二分式的衡量雖然提供司法控制一個有效的工具，但也凸
+顯了一種論證上的風險：將各種利害關係人的多元利益結構變成隱
+形不察。
+
+關鍵詞：比例原則、行政裁量、控制決策過程、日本行政法。
+
+
+
+
+∗   神戶大學法學院教授。
+

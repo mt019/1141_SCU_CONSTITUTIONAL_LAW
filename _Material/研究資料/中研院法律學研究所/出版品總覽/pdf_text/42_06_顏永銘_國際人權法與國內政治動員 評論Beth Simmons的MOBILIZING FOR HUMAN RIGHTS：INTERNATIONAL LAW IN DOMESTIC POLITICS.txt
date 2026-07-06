@@ -1,0 +1,649 @@
+國際人權法與國內政治動員                                       281
+
+
+
+
+                    文獻評論
+
+
+       國際人權法與國內政治動員＊
+  — 評論 Beth Simmons 的 MOBILIZING FOR HUMAN
+  RIGHTS: INTERNATIONAL LAW IN DOMESTIC POLITICS
+
+
+                    顏永銘＊＊
+
+
+                     目 次
+壹、導言
+貳、內容介紹
+參、討論
+肆、Simmons 理論在台灣
+伍、結論
+
+
+
+
+＊ 投稿日：2011年8月11日；接受刊登日：2012年1月3日。
+                                ［責任校對：蔡秉錡］
+                                         。
+＊＊ 美國紐約州立大學水牛城分校政治學博士、國立臺灣大學政治學碩士、國立
+  臺灣大學政治學學士；中央研究院法律學研究所博士後研究。
+282                         《中研院法學期刊》第10期（2012年3月）
+
+
+                        摘 要
+   從1990年代以來，政治學界與國際關係學界對於國際人權規範
+的發展發生了相當的研究興趣。有異於法學界重視人權條約法條本
+身釋義的研究取向，國際關係學者試圖運用實證分析的方法來探詢
+相關人權規範演化背後的驅動因素，以及可能的影響。本書評即以
+哈佛大學教授 Beth Simmons 在2010年發表的專書 MOBILIZING FOR
+HUMAN RIGHTS: INTERNATIONAL LAW IN DOMESTIC POLITICS 為例，介
+紹了國際關係學界實證人權研究這一途徑近年來的研究成果，並嘗
+試對於這樣的研究取向進行整體性的評估。最後並以 Simmons 提
+出的國內政治動員觀點，針對台灣在批准兩項國際人權公約後可能
+的發展做一簡短的分析。
+
+
+關鍵詞：國際人權法、承諾、遵守、人權動員、虛假的否定、虛假
+    的肯定、實證分析、民主化、台灣。
+國際人權法與國內政治動員                                                                     283
+
+
+
+
+                                   Review
+
+  Not Only “International” Human Rights:
+   Reviewing Beth Simmons’ MOBILIZING FOR HUMAN
+   RIGHTS: INTERNATIONAL LAW IN DOMESTIC POLITICS
+
+
+                              Yung-Ming Yen＊
+
+                                   Abstract
+      After the end of the Cold War, human rights became one of the new
+topics that drew widespread attention from international relations
+scholars. Unlike legal scholars and constructivist theorists, a distinct
+body of literature on human rights is characterized by quantitative
+analysis with the help of cross-national data. This review intends to
+introduce this empirical approach by discussing Beth A. Simmons’
+award winning book MOBILIZING FOR HUMAN RIGHTS: INTERNATIONAL
+LAW IN DOMESTIC POLITICS. In addition to introducing Simmons’
+propositions regarding human rights treaty commitment and compliance,
+this article undertakes to evaluate the contribution of this approach to the
+general knowledge of human rights. Finally, a brief analysis of Taiwan’s
+human rights prospects after ratifying both ICCPR and ICESCR in 2009
+is conducted according to Simmons’ theory.
+
+
+KEYWORDS: human rights mobilization, commitment, compliance,
+          empirical analysis, Taiwan, democracy, false positives,
+          false negatives.
+
+
+
+＊ Ph.D., State University of New York at Buffalo; M.A., National Taiwan University;
+   B.A., National Taiwan University;        Post-Doctoral   Researcher,   Institutum
+   Iurisprudentiae, Academia Sinica.
+284                             《中研院法學期刊》第10期（2012年3月）
+
+
+
+壹、導言
+
+       Beth Simmons 博士是哈佛大學政府系 Clarence Dillon 國際
+事務教授，也是哈佛大學 Weatherhead 國際事務中心主任。她的研
+究專長為國際政治經濟學、國際金融、國際法與國際人權。本文所
+討論的是她在2009年出版的專書「人權動員：國內政治中的國際
+法」，該書得到美國政治學會2010年最佳出版書籍的威爾遜獎
+(Woodrow Wilson Award)以及國際研究協會2010年最佳書籍獎(ISA
+                            1
+Annual Best Book Award)等殊榮 。持平而論，這本書可以說是政治
+學界對於國際人權法研究的一個重要里程碑，是近30年來政治學界
+進行實證人權研究的集大成作品。
+
+       人權研究本身帶有跨學科的性質，不論是哲學、法學、人類學
+學者在二次大戰後皆開展出相當豐富的研究成果。政治學初期對於
+人權的分析是從政治哲學開始，關注人權理念背後意識形態基礎。
+而政治學學者從實證的視角去分析人權議題，最早可以追溯到1970
+年代。由於相關的跨國性觀察指標漸次出現，學者開始去探索、比
+較各國人權實踐的差異以及背後的影響因素。人權政治(human
+rights politics)所探討的是人權理念、規範，與實踐在不同政治力量
+互動過程中的呈現。其內容涵蓋了不同層次的人權表現(human
+rights performance)。在國際層次上，包括國際人權理念的發展與散
+佈、人權規範的法典化過程、以及主權國家對於國際人權法的參
+與；在區域層次，則涉及各區域人權保障體系的發展與運作；最後
+在國內層次，政治學學者關注的重心多為人權保障實際狀況、人權
+規範對於實際權利保障影響的跨國性分析。
+
+
+
+
+1 請參見Simmons教授個人網頁，http://scholar.harvard.edu/bsimmons/（最後瀏覽
+      日：2012年1月2日）
+                 。
+國際人權法與國內政治動員                                                              285
+
+
+
+
+貳、內容介紹
+
+     國際關係學者對於國際人權條約一直存在著兩個根本的困惑。
+首先，為何主權國家甘願放棄其部分的主權，締結並批准一項限制
+自身處事餘裕的法律公約？其次，在國際間缺乏一致性權威的狀況
+下，缺乏外部強制力執行的國際人權規範有何效用？
+
+     Simmons 的書對於這兩個重要的問題都有所回應。從本書的副
+標題可知，她把分析的重心放在國際人權法與國內政治的互動。為
+何要關注國際人權法？因為作者認為在二次大戰以後60餘年，國際
+人權運動的核心，即人權規範的成文法典化。從1948年世界人權宣
+言、1966年兩大人權公約、以及之後一系列針對弱勢群體的專屬公
+約，迄今生效運作的多邊國際人權法文件在數量上已經超過一
+百 2。對於研究者而言，人權規範法典化的成因與影響，是絕對須
+要認真加以處理的議題。作者在本書企圖回答的問題是：國際人權
+法典化為何發生？如何發生？更重要的，這樣的法典化對於實際的
+人權保障會產生怎樣的衝擊？用 Simmons 的話來說：「what have
+                                                                      3
+they contributed to the actual realization of the rights they proclaim?」 。
+
+     在章節安排上，本書區分成兩個部分。而主要的重心放在上面
+所提到的第二個議題，也就是人權條約的效力與影響。除導論外，
+本書的第一個部分包括了三個章節，第二章回顧了國際人權運動的
+歷史發展。在第三章，Simmons 探討國際人權條約的簽署╱批准的
+問題，針對影響國家對國際人權條約做出承諾(commitment)的因素
+進行討論與實證檢驗。在第四章，Simmons 探討人權條約批准後的
+效果，從國內政治層次上提出她的條約遵守(compliance)理論。本
+書的第二個部分，即依據第四章所開展出的理論觀點，檢視不同的
+
+2 See BETH SIMMONS, MOBILIZING FOR HUMAN RIGHTS: INTERNATIONAL LAW IN
+   DOMESTIC POLITICS 37 (2009).
+3 Id. at 199.
+286                                        《中研院法學期刊》第10期（2012年3月）
+
+
+
+人權類別下的條約實效性。在第五章，Simmons 討論了批准《公民
+與政治權利公約》(International Covenant on Civil and Political Rights)
+對於宗教自由、公平審判以及死刑的影響。在第六章，Simmons 分
+析了國家對於《消除一切形式婦女歧視公約》(Convention on the
+Elimination of Discrimination against Women)的批准行為，如何影響
+了婦女受教育權、生育權、以及工作權的落實。在第七章，作者分
+析對於聯合國《禁止酷刑和其他殘忍、不人道或有辱人格待遇或處
+罰公約》(Convention against Torture and Other Cruel, Inhuman and
+Degrading Treatment or Punishment, CAT)的批准，如何促進了締約
+國對相關人權侵害的反省。最後，第八章的分析聚焦在兒童權利，
+作者進行實證分析的主要議題包括兒童衛生保健（疫苗接種）、童
+工、以及兒童兵問題。
+
+        Simmons 在書中的一個主要的論點是挑戰國際關係學界普遍的
+「人權條約無用論」
+        。在國際關係理論來看，現實主義不重視國際人
+權法的價值，彼等以為國際人權規範所宣揚的道德性原則在一個權
+力至上的國際環境中是缺乏意義的，人權理念充其量只是強權國家
+在不影響自身利益下的宣傳手段；在國際間無政府狀態下，國家參
+與人權條約只是妝點門面、博取名聲的策略性行為4。締約國根本
+就不會有誠意去實踐條約所規範的內容，遑論推動人權理念會危害
+國際體系的穩定。許多實證研究也支持這樣的觀點，認為國際人權
+條約乃空泛的許諾5。建構主義論者認為人權條約的發展與簽署乃
+人權理念擴張並為國際社會所接受的顯著指標。所以，一旦國家接
+受並批准相關條約，代表該國已經跨越理念社會化過程的臨界點
+(tipping point)，遵守人權條約相關義務以及國內實踐自然水到渠
+
+
+
+4 See Oona Hathaway, Do Human Rights Treaties Make a Difference?, 111 YALE L.J.
+      1935, 1982 (2002).
+5 See Emile Hafner-Burton & Kiyoteru Tsutsui, Human Rights in a Globalizing World:
+      The Paradox of Empty Promises, 110 AM. J. SOC. 1373, 1373-1411 (2005).
+國際人權法與國內政治動員                                                                 287
+
+
+
+
+成 6。在這方面，建構論者與國際法學者的主張有些類似。一般而
+言，國際法學者對於條約批准問題較少關注7，國際法當中的「條
+約必須遵守」(pacta sunt servanda)原則讓法學家以為條約批准後的
+落實乃不證自明之理。根據實證主義(legal positivism)，多以條約形
+式呈現的國際人權法乃國家合意的產物，國家當然會信守其承諾實
+踐其國際法下的義務 8 。然而實際的情況真是如此嗎？在第三章
+中，Simmons 觀察到人權條約批准的兩個弔詭現象，他稱之為「虛
+假的否定」(false negatives)與「虛假的肯定」(false positives) 9。前
+者是說，某些在實踐上符合普世人權規範的政府在批准相關條約時
+往往猶豫遲疑，不肯輕易批准。反之，有些高度壓制人權的國家，
+則可以輕易的批准一些他們毫無意願加以落實的人權條約。
+
+     條約的批准與批准後的遵守行為雖然在概念上可以區分，但在
+理論解釋上是密切相關的。Chayes & Chayes 認為，隱藏在「條約
+必須遵守」背後的邏輯是國家不可能承諾超過其能力所及的法律義
+務10。所以，國際人權條約所採取的規範基本上不會超出國家現有
+的實踐情況，或是國家在內化相關國際規範時所需付出的調整成本
+很小。耶魯大學法學院教授 Oona Hathaway 在他著名的論文〈The
+Cost of Commitment〉中即指出，承諾的成本與預期的條約遵守成
+本息息相關11。
+
+     Simmons 認為上面所提到的兩種否定現象，事實上反映出國家
+對於人權條約的承諾並非像一般所說的耍耍嘴皮(lip service)而已。
+
+
+6 See generally THOMAS RISSE ET AL. EDS., THE POWER OF HUMAN RIGHTS:
+   INTERNATIONAL NORMS AND DOMESTIC CHANGE (1999).
+7 See Oona Hathaway, The Cost of Commitment, 55 STAN. L. REV. 1821, 1829 (2002).
+8 See TODD LANDMAN, PROTECTING HUMAN RIGHTS: A COMPARATIVE STUDY 15 (2005).
+9 See SIMMONS, supra note 2, at 111.
+10 See ABRAM CHAYES & ANTONIA HANDLER CHAYES, THE NEW SOVEREIGNTY:
+   COMPLIANCE WITH INTERNATIONAL REGULATORY AGREEMENTS 8 (1995).
+11 See Hathaway, supra note 7, at 1821.
+288                                     《中研院法學期刊》第10期（2012年3月）
+
+
+
+即便是看似成本很低的簽署╱批准舉動，國家仍仔細地的考量其成
+本與利益。每個國家內不同的制度結構都會影響決定批准的成本效
+益分析，例如國會審查過程中的關鍵否決者(veto player)，或者聯邦
+主義的政治結構對於條約執行的不利影響，甚至國內法律體系的特
+質是否有利於批准後的實踐，都是決策者在做出承諾時會考慮的因
+素12。此外，在第三章的實證分析中，Simmons 發現（事實上是再
+次確認她早年的研究結論）區域同儕效應對於批准行為的顯著影
+響。不論是人權條約、任擇議定書、或甚至是條約保留，實證分析
+的結果都顯示出很明顯的區域連動趨勢。這裡的考量可能是避免因
+成為局外人(Outlier)而受到更大的外在壓力。
+
+      關於國際人權條約是否有效的問題，Simmons 建議我們回到國
+內層次來尋找可能的因果機制。雖然國際人權團體在人權規範的發
+展與推廣上扮演重要角色，但作者認為真正持續關心條約遵守的，
+是那些有切身利害相關的人，也就是締約國的國內群眾。由此出
+發，Simmons 的動員理論認為人權條約的批准對於人權實踐有一定
+程度的正面影響。國家批准的行為開啟了政治機會，讓國內的行為
+者（不論是個人或組織）能據以動員，來要求政府部門落實已經承
+諾的權利保障義務。國內政治行為者發揮影響力的三個機制包括
+（在條約批准後）政治菁英的議程設定、批准對法律行動（訴訟）
+的鼓勵效果、以及正當化國內政治動員。
+
+      Simmons 承認這個因果關係會受到所涉及權利的特質、加害者
+的身分、與受益者的能力等因素所影響。本書主要的實證分析就是
+針對這些因素進行檢驗，判斷在何種條件下，條約批准能扮演重要
+的角色。如在第五章中，Simmons 檢驗了宗教自由、公平審判、以
+及廢除死刑等三個在公民政治權利中的重要議題。批准行為對宗教
+自由落實的促進效果較公平審判為佳，這是因為前者的受益人（宗
+
+
+12 See SIMMONS, supra note 2, at 111.
+國際人權法與國內政治動員                              289
+
+
+
+
+教團體）較後者（嫌疑犯）享有較佳的聲譽，且組織也較完整，容
+易進行社會動員來要求政府當局落實條約義務 13 。而在廢除死刑
+上，批准公民政治權利公約第二任擇議定書(optional protocol)與廢
+止死刑之間在統計上呈現高度相關性。Simmons 以為其主要因素有
+二，首先，死刑政策存廢有高度中央集權性質，在政策制定與執行
+上所面臨的障礙相對稀少。其次，死刑政策容易受到外在監督，這
+強化了條約的約束效果。
+
+      在第七章，Simmons 認為批准反酷刑公約看似無助於降低此類
+非人道待遇發生的狀況，但在納入不同的控制變數群組進行比較
+後，結果顯示在中度民主或經歷民主轉型的國家中，批准反酷刑公
+約的確有助於人權狀態的改善。這些國家國內政治狀態提供了一定
+的牽制力量(traction)，使得專斷的酷刑虐待不再是不受挑戰的政治
+實踐14。Simmons 分析了智利與以色列的案例，說明批准行為產生
+實際影響的過程。智利於1988年批准反酷刑公約，這個批准的結果
+讓保守的智利司法體系開始注意、並逐漸接納公約內的規範。智利
+最高法院甚至在2006年做出判決，認為智利的特赦法在涉及違反人
+道罪的情況下不能適用15。
+
+      另一方面，作為穩定的民主政體，批准反酷刑公約對於以色列
+政府的人權實踐理論上不易產生影響，尤其是當以色列仍面臨到棘
+手的巴勒斯坦問題時。不過 Simmons 的分析指出，批准行為仍對
+以色列的民權團體與司法體系產生了一定的鼓勵作用，讓以色列高
+等法院(High Court of Justice)在1999年做出一重要判決，認定相關
+當局的作為違反既有法律規範與以色列的國際法義務16。即便以色
+列在消除酷刑與非人道待遇上的表現進展仍屬有限，但是批准行為
+
+
+13 See id. at 200.
+14 See id. at 266-67.
+15 See id. at 293-94.
+16 See id. at 302.
+290                 《中研院法學期刊》第10期（2012年3月）
+
+
+
+確實有一定的作用。
+
+      整體來說，Simmons 替人權研究實證分析立下一個重要的里程
+碑。一方面，她呼籲我們把分析的焦點由國際層面轉移到國內政治
+的運作上。的確，今日對學界而言，人權研究的問題已經不是普世
+人權規範「是否」(whether or not)重要的問題，而是這些規範「如
+何」(how)在國內發揮影響？面對研究焦點的轉移，研究途徑的修
+正調整有其必要性與合理性。另一方面，Simmons 的貢獻在於理論
+上的精進。早期人權研究實證分析偏重於羅列變數，透過統計分析
+呈現相關性；但是在理論解釋上卻稍嫌薄弱，有淪為無意識的經驗
+主義(mindless empiricism)之危險，或是直接依賴既有的比較政治理
+論（如現代化理論），主張內部結構性因素（社經發展、政體等）
+對於人權表現的影響。Simmons 從國內政治能動者出發，開展出更
+為細緻且有原創性的理論主張，並進行實證檢驗，從而替過去一些
+相互矛盾的研究結論（如反酷刑公約究竟有效與否）提供了一致性
+的解答。從一個科學知識發展的觀點來看，本書的確有效提升了實
+證人權研究的價值。
+
+
+
+參、討論
+
+      人權研究實證分析過去十餘年來圍繞的一個主要問題是民主與
+人權表現的關係。根據1993年第二次世界人權會議的結論文件《維
+也納宣言與行動綱領》，人權、民主、與發展三者之間存在著相互
+依賴且彼此強化的關係。對於人權倡議者來說，三者互賴是理所當
+然的原則。但是對於學者而言，這是規範性的理念陳述，而其與實
+際情況之間的差距，正是科學研究的起點所在。有些學者認為民主
+與人權之間存在著正向線性關係，民主化可以導致人權改善（這大
+概也是一般人普遍的看法）。普林斯頓大學教授 Andrew Moravcsik
+國際人權法與國內政治動員                                                                 291
+
+
+
+
+則提出著名的 democratic lock-in 理論來探討歐洲人權公約(European
+                           17
+Convention on Human Rights) 的批准過程，他認為歐洲戰後新興的
+民主國家（義大利、奧地利等）比老牌穩定民主政體（英國、瑞典
+等）更有意願去支持一個限制國家主權的歐洲人權公約。根據他的
+觀點，民主與人權（條約參與）之間的關係呈現一倒 U 型曲線。
+最後，有些學者則認為，除非自由民主體制發展到相當程度，否則
+人權狀況難以出現顯著的改善18。在此種狀況下，民主與人權的關
+係呈現出的是一種階梯式模式。
+
+     Simmons 並不同意 Moravcsik 的 lock-in 主張，但是在人權條約
+對於人權實踐的影響上，她的看法與 lock-in 所呈現的倒 U 型曲線
+有類似之處。民主化國家或者轉型中政體並不見得比較容易去批准
+人權條約，但是人權條約的動員效果卻是在這些轉型中國家最為明
+顯。Simmons 強調批准人權條約對於人權動員的預期值(expected
+value of human rights mobilization)的影響，如書中第153頁的圖所示
+（如圖一）
+    。批准行為的正面效果，在於可以把預期值鐘形曲線的凸
+出部再往上移動。對於部分民主或是轉型中國家來說，進行社會動
+員以尋求落實條約義務的預期效用，遠大於在穩定民主、或穩定威
+權政體下進行動員的效果。穩定民主政體內的行為者缺乏動機來進
+行這樣的動員，而在穩定威權體制內的行為者則缺乏進行動員的手
+段。
+
+
+
+
+17 全名為《 歐洲保障人權和基本自由公約》 (Convention for the Protection of
+   Human Rights and Fundamental Freedoms)。
+18 See Bruce Bueno de Mesquita et al., Thinking Inside the Box: A Closer Look at
+   Democracy and Human Rights, 49 INT’L STUD. Q. 439, 439-57 (2005).
+292                                           《中研院法學期刊》第10期（2012年3月）
+
+
+
+                           圖一、人權動員預期效果
+
+
+
+
+                                                資料來源：Simmons，註2書，頁153。
+
+        出自於理性主義認識論立場，Simmons 強調國家的成本效益計
+算作為影響國家行為的主要驅動因素。在人權研究上，此一研究途
+徑以人權條約為核心，分析條約簽署之前與之後的國際規範與相關
+變數的一般趨勢。然而，此一分析取向不免對於整個變遷過程中的
+細微之處缺乏足夠的關注。例如來自建構論的一個重要批評，就是
+認為 Simmons 缺乏對於非國家行為者的關注19。在 Simmons 的個
+案分析時，常常可見她提到公民社會與人權倡議團體的努力，以及
+這些倡議行為對於相關權利落實的影響20。但是我們觀察各章節量
+化分析的研究設計，卻沒有看到她把非政府人權組織納入作為一個
+重要的控制變數，這樣的安排顯然會對於分析結果的可信度有不利
+
+19 See Hans Schmitz, Mobilizing for Human Rights: International Law in Domestic
+      Politics, 8 PERSP. POL. 994, 994-95 (2010) (book review).
+20 See SIMMONS, supra note 2, at 32-36.
+國際人權法與國內政治動員                                                                     293
+
+
+
+
+的影響。建構論者強調偏好(preference)決定國家行為，而 Simmons
+在第三章分析人權條約批准時，把民主、左派政府、與宗教立場當
+成國家偏好的觀察指標。但是這些指標並不能精確的測量服膺普世
+人權價值的公民社會力量，遑論某些指標可能反映了無法相容的理
+論意涵（如民主程度）21。
+
+     由於資料的不易取得，以及測量技術的限制，在人權研究實證
+分析中考慮理念性因素一直是很大的挑戰，而現有的操作化指標也
+多是替代性質，例如去記錄某一國家年度的人權團體數量多寡。即
+便如此，Simmons 在研究設計中全然未納入人權團體影響，確實不
+能不說是一個缺陷。
+
+     另外一個比較顯著的不足，則是對於國際人權規範的國內法化
+面向欠缺關心。如果把人權理念的擴散視為一個階段性的過程，人
+權政治可以區分成一開始的理念倡導發展、人權侵害國家的否認抗
+拒、到侵害者策略性的接受人權價值、以及後來人權價值取得權威
+性的地位、在國內法制化並得到有系統的落實保障（參見圖二）22，
+國際關係學者到目前為止研究的重心多放在前面三個階段。在《國
+際 組 織 》 (International Organization) 西 元 2000 年 的 「 法 制 化 」
+(legalization)專刊中，許多作者便已經意識到非預期的(unanticipated)
+政治後果對於國際政治法制化的正面影響，也對於法制化之後的國
+家遵守(compliance)進行探討23。不過，研究國際人權的學者對於人
+權規範在國內實踐程度的分析仍較少觸及。這當中固然有學科之間
+的偏好，國際關係學者比較難以去分析內國法化的面向（已經不算
+
+
+21 在第五章與第六章中，作者都檢視了批准人權條約對於締約國國內參與相關人
+   權非政府組織的影響。也就是說，Simmons 認為條約批准促進了支持人權理念
+   的公民社會的成長。這樣的觀點固然有其道理，但是並不能就此認定後者必然
+   依附於前者，而對人權保障實踐缺乏獨立的影響力。
+22 See RISSE ET AL., supra note 6, at 20.
+23 See Miles Kahler, The Causes and Consequences of Legalization, 54 INT’L ORG. 661,
+   681 (2000).
+294                              《中研院法學期刊》第10期（2012年3月）
+
+
+
+是「國際」的範圍了），然而政治學界忽略批准之後的內化過程的
+確是不爭的事實。從批准人權條約到持續有效的落實保障人權之
+間，還有諸如制定國內法、法院採納適用、行政部門執行等重要面
+向值得深究。而這些問題目前還沒有受到研究人權實證研究者的充
+分注意。在此，法律學界的研究可以提供相當的貢獻，對於個案的
+分析以及法院適用國際人權規範的討論，都是國際關係與政治學界
+應當參考學習之處。
+
+         圖二、國內人權規範的演變（政府當局的反應）
+                與台灣目前的位置
+                                                        台灣
+
+
+
+
+      人權侵害持續
+               拒絕
+
+
+
+
+                    策略性妥協（口頭上接受人權主張）
+                                        規範性位階（批准人權條約）
+
+
+                                                             遵守人權規範的行為（落實條約義務）
+
+
+                        資料來源：Risse 等（編）
+                                      ，註6書，頁20。
+國際人權法與國內政治動員                                                                     295
+
+
+
+
+     在研究方法上，本書以量化分析為主，但作者仍兼容個案研究
+來佐證其理路。本書實證分析的優點在於資料蒐集詳實完整，由書
+末作者所提供的兩項測量指標附錄，可知作者在資料整理與觀察指
+標設定上所下的心力。這些資料對於企圖進行實證研究的人權學者
+來說，提供了非常珍貴的參考。當然，這並不是說 Simmons 的研
+究設計已經完美無缺，如紐約州立大學賓漢頓分校政治學教授，也
+是著名人權指標資料庫 CIRI Human Right Data Project 創建者之一
+David Cingranelli 即指出，本書量化模式存在著選擇性偏誤的問
+題 24。也就是說，那些會對國家人權實踐（通常以國家人權侵害程
+度加以觀察）產生影響的因素，也多是影響國家批准相關人權條約
+的重要因素 25 。不過筆者認為這樣的批判似乎過為嚴苛。的確，
+Simmons 在方法論上或許並非最佳方案，但是她所採用的統計技術
+與研究設計，已經把可能同時產生影響的變數（除了上面所討論的
+非政府團體以外）納入加以控制。作者並非全然不加處理選擇性偏
+誤的問題，而 Cingranelli 教授也承認採用方法論上較為理想的兩階
+段計量模型(two-stage econometric model)不見得會產生不同的結
+果。若能以較容易為人所理解的方法，來證成自己的理論，這樣的
+作法並不能算有嚴重的瑕疵。
+
+
+
+肆、Simmons 理論在台灣
+
+     除開上面的討論分析，我們可以簡單的由台灣在人權表現上的
+發展，來檢驗 Simmons 的理論的適用性。我國於1967年簽署了兩
+項公約以及《公民與政治權利公約第一任擇議定書》，旋因我國退
+
+
+24 CIRI 是指資料庫兩位創建者 David L. Cingranelli 以及 David L. Richards 教授姓
+   名縮寫。本資料庫網址為：http://ciri.binghamton.edu/index.asp。
+25 See David Cingranelli, Mobilizing for Human Rights: International Law in Domestic
+   Politics, 32 HUM. RTS. Q. 761, 761-63 (2010) (book review).
+296                                  《中研院法學期刊》第10期（2012年3月）
+
+
+
+出聯合國而停止了後續的批准作為，也中斷了我國與國際人權保障
+體系的連結。在2000年政黨輪替後，陳水扁總統在就職演說中明確
+宣示「人權立國」理念，並主張將相關國際人權法典國內法化。不
+過在民進黨執政的8年期間，兩公約始終未能完成國內批准程序。
+馬英九總統當選後，也高舉「人權治國」大旗，在國民黨掌握國會
+多數的優勢下順利完成兩公約的批准案以及兩公約施行法的立法程
+序，並於2009年12月10日由總統正式宣布生效。在過去兩年間，我
+國官方對於落實兩公約的努力包括對公務人員進行人權教育、檢討
+並修正不符合兩公約的法令與行政措施、向社會大眾宣導兩公約內
+容等，法務部並在2011年10月公布兩公約國家人權報告初稿26。
+
+       不過，一些民間團體對於政府在落實兩公約上所作的努力仍表
+不滿，認為官方的作為過於被動消極，多只是行禮如儀，缺乏真誠
+顯著的積極行動。例如相關法令與行政措施的檢討已確定跳票27。
+
+       以 Simmons 的架構來觀察台灣批准兩項人權公約的案例，首
+先必須指出，我國目前已經通過了承諾(commitment)的階段而處於
+遵守(compliance)階段的初期（見圖二的黑色箭頭位置）。由前述的
+批准過程可以清楚見到民主化對於參與人權條約的影響，民主化使
+得人權的價值與理念容易為朝野政治力量所接受，而增加了批准的
+可能性28。此外，由2002年立法院未能完成批准程序以及2009年順
+利通過相關公約與施行法的發展來看，也印證了 Simmons 所言，
+具有實質政策影響力的國會將增加承諾行為的政治成本29。在國會
+
+
+26 可參見法務部「人權大步走」專區網站，http://www.humanrights.moj.gov.tw/mp
+      200.html（最後瀏覽日：2011 年 12 月 25 日）
+                                     。
+27 可參見兩公約施行監督聯盟，「2011 年政府落實兩公約及其施行法之檢討」：
+   https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxViEd1
+   ZNUfNMjNhNTQzODItYjQzYS00YWNkLWE1ZjMtMjI4ZDU2NmYwZTRk&hl=
+   zh_TW&pli=1（最後瀏覽日：2011 年 12 月 25 日）              。
+28 例如南韓也是在 1987 年開始民主化進程後，於 1990 年 4 月加入兩項人權公約。
+29 See SIMMONS, supra note 2, at 87.
+國際人權法與國內政治動員                             297
+
+
+
+
+具有實質否決能力時，朝小野大的格局就很容易造成批准案的延宕
+擱置。最後，我們也可以看到批准過程中政治人物為博取名聲的政
+治考慮，例如兩公約經立法院批准後不到一年便在2009年世界人權
+日宣布生效，忽略了許多配套措施與準備工作尚未就緒的困難。這
+並不是說我國批准兩公約的狀況是 Simmons 所言的「虛假的肯
+定」，而是要指出政治人物皆有自利性格，批准人權條約所能帶來
+的聲譽，正是承諾參與人權公約的重大誘因。
+
+  至於條約遵守階段的問題，人權團體的批評的確是點出了現存
+的困難；不過，這並非台灣獨有的狀況。基於人權議題的特質，行
+政部門與官僚體系本來就難以積極主動的落實改善，而更需要外在
+的壓力與刺激。而我們看到民間團體自2008年即開始積極串聯，組
+成兩公約施行監督聯盟，並對政府出建言批判。這都印證了
+Simmons 所言，批准後的人權條約，提供了政治動員的機會，批准
+生效的條約提供了社會團體現成的動員素材，對於國家機關任何違
+反人權的舉措，現在可以很方便地的運用違反已承諾之人權公約義
+務這樣的論點來進行批判與施壓。依據民主政治的遊戲規則，基於
+無法落實人民權益可能會面臨公民以選票懲罰的後果，政治人物終
+將逐步推動落實相關的國際人權標準。所以，由 Simmons 的理論
+來看，我國遵守落實人權條約的前景應當是審慎樂觀的。當然相關
+的前提必須充分滿足，這包括進步的社會團體與知識分子不斷的進
+行社會動員，以及穩定的民主體制運作。
+
+
+
+伍、結論
+
+  總而言之，MOBILIZING FOR HUMAN RIGHTS 是人權研究領域的
+重要作品，它可以說是近十餘年來實證分析人權研究累積下來的代
+表性成果。其範圍之廣泛、論述之細密、以及方法的嚴謹都可說是
+298                            《中研院法學期刊》第10期（2012年3月）
+
+
+
+前所罕見。透過本書，我們對於國家參與國際人權法體系的行為模
+式，以及批准行為對於國家人權實踐的影響，都可以得到深刻完整
+的理解。可以說，實證人權研究此一研究方案(research program)目
+前算是進入一個成熟穩定的階段。未來的發展方向，應可更進一步
+的去討論各不同類別下人權條約的影響力。Simmons 本書所處理的
+只涉及了四項國際人權公約，但是目前已經生效的國際人權協議已
+經超過四十件，許多重要的人權條約目前仍沒有被有系統的研究分
+析。例如2006年底通過的《保護所有人免遭強迫失蹤國際公約》
+(International Convention for the Protection of All Persons from
+Enforced Disappearance)是對於生命權與人身尊嚴保障的重要規範，
+若能針對此公約進行分析，並與反酷刑公約的研究進行比較。相信
+必能提供更多檢驗 Simmons 理論的機會，並且可以進一步探索不
+同性質的人權條約在國內動員上的差異。
+
+      不同法律學界個案為導向的研究途徑，提供深刻的質性觀察。
+政治學界運用實證方法，企圖尋找促進國際人權規範內化的因果機
+制，以及由跨國性比較研究中尋求可能的普遍性通則。兩學科之間
+值得、也應該努力的參照對方的成果，並進行對話，以充實人權研
+究的總體知識。
+國際人權法與國內政治動員                                                        299
+
+
+
+
+                             參考文獻
+
+Bueno de Mesquita, Bruce, George W. Downs & Alastair Smith (2005),
+    Thinking inside the Box: A Closer Look at Democracy and Human
+    Rights, 49 Int’l Stud. Q. 439-457.
+Chayes, Abram & Antonia Handler Chayes (1995), The New
+    Sovereignty: Compliance with International Regulatory Agreements,
+    Massachusetts: Harvard University Press.
+Cingranelli, David (2010), Mobilizing for Human Rights: International
+    Law in Domestic Politics, 32(3) Hum. Rts. Q. 761-763 (book
+    review).
+Hafner-Burton, Emilie & Kiyoteru Tsutsui (2005), Human Rights in a
+    Globalizing World: The Paradox of Empty Promises, 110 Am. J.
+    Soc. 1373-1411.
+Hathaway, Oona (2002), Do Human Rights Treaties Make a Difference?,
+    111 Yale L.J. 1935-2042.
+- (2003), The Cost of Commitment, 55 Stan. L. Rev. 1821-1862.
+Kahler, Miles (2000), The Causes and Consequences of Legalization, 54
+    Int’l Org. 661-683.
+Landman, Todd (2005), Protecting Human Rights: A Comparative Study,
+    Washington, D.C.: Georgetown University Press.
+Risse, Thomas, Stephen Ropp & Kathryn Sikkihnk eds. (1999), The
+    Power of Human Rights: International Norms and Domestic
+    Change, UK: Cambridge University Press.
+Schmitz, Hans (2010), Mobilizing for Human Rights: International Law
+    in Domestic Politics, 8(3) Persp. Pol. 994-995 (book review).
+Simmons, Beth (2002), Why Commit? Explaining State Acceptance of
+    International Human Rights Obligations (unpublished research
+300                                  《中研院法學期刊》第10期（2012年3月）
+
+
+
+      notes), available at http://www.wcfia.harvard.edu/sites/default/files/
+      752__SimmonsWhyCommit.pdf.
+

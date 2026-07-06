@@ -1,0 +1,270 @@
+       近十年個人研究之回顧與展望
+                                    黃舒芃*
+
+
+
+【前        言】
+     中央研究院法律學研究所於2011年7月1日正式成立時，我因取得德
+國宏博學術基金會（Alexander von Humboldt-Stiftung）獎學金，正在德
+國慕尼黑大學進行第二階段、為期九個月的研究進修，因此未能躬逢其
+盛。時光飛逝，如今法律所即將迎來十週年的紀念日，也令我頓時驚
+覺：原來當年那個還在摸索如何釐清不確定法律概念制度功能的階段，
+距今已有十年之久。回顧這十年來個人在研究方面的經歷、發展與成
+長，我很慶幸自己能夠徜徉在法律所優質的軟硬體環境之中，盡情享受
+研究的樂趣。以下這篇短文，除了簡要誌記我十年來的研究重點與主要
+成果之外，更希望能藉此表達我對法律所的祝賀與感謝。
+
+
+【框架理論的初步奠基：法律作為一種框架秩序】
+     前言曾經提到，法律所成所之際，正值我在慕尼黑大學研究進修的
+後半階段。當時我已經有一個清楚的構想，就是希望透過對德國行政法
+中不確定法律概念制度功能的檢討與重建，對於法律應如何拘束行政決
+定的問題，提出一套奠立在嚴謹方法論基礎之上的論述。由於在先前從
+事法學方法論相關研究的過程當中，我從Hans Kelsen與Karl Larenz方法
+論 的 比 對 裡 頭 得 到 很 大 的 啟 發 ， 也 發 現 Kelsen所 採 框 架 導 向 的 理 解 方
+式 ， 除 了 與 Larenz 理 論 的 實 質 化 色 彩 大 相 逕 庭 ， 也 與 Ernst-Wolfgang
+Böckenförde那種形式化的觀點有別，從而應能有助於從不同的角度，解
+答「法律如何在不可能預先窮盡所有決定的前提下，發揮它拘束法適用
+
+*
+  中央研究院法律學研究所特聘研究員。
+穩定網址：http://publication.iias.sinica.edu.tw/90617012.pdf。
+    研之得法：中央研究院法律學研究所成立十週年文集
+418 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+機關的功能」這個法學方法論與法釋義學的基本問題。因此，我在這個
+階段的主要目標，就是設法將Kelsen的規範理論加以活用，證明若能對
+法規範採取一種框架式的理解，將上位規範與下位規範之間，看成是一
+種「授權，同時課與義務」的關係，便可以突破既有主流見解向來以為
+法律只能在「徹底先決」與「大舉下放」之間作選擇的盲點。2012年結
+束慕尼黑的進修歲月，回到法律所之後，我把這個階段的研究心得做了
+系統性的整理，並將這部分的研究成果寫成德文專書《不確定情境下的
+拘束：環境法與電信法領域中不確定法律概念功能之制度性分析》，於
+2013年在德國Mohr Siebeck出版社出版 1。
+
+
+【框架理論的發展：憲法作為一種框架秩序】
+     以上的初步研究成果，引發我想要將框架理論進一步延伸應用到憲
+法與法律之間關係的念頭。追本溯源，這個發想其實是來自我2012年因
+為 閱 讀 了 波 昂 大 學 公 法 教 授 Klaus Ferdinand Gärditz與 刑 法 教 授 Rainer
+Zaczyk兩人關於刑罰正當性基礎的辯論，有感而發，進而發表的一篇德
+文期刊論文〈基本權框架秩序下的民主意志形成：從憲法觀點反思
+Gärditz與Zaczyk之辯論〉2。透過這篇論文的寫作，我對於「立法形成空
+間」這個憲法學的老問題重新燃起了研究的興趣，也評估框架理論應能
+對這個問題的進一步澄清帶來一些貢獻。透過這個研究重心的轉移，我
+開始致力於Kelsen規範理論與民主理論的深入考察，關注他與威瑪時期
+一些重要學者（如Carl Schmitt, Rudolf Smend等）的辯論，因而從中獲
+取了寶貴的思想史資源，讓我對Kelsen的框架觀點在德國憲法學界的邊
+緣位置，有了更深的體會，同時也更確信框架理論對於德國憲法學界發
+展主流可望帶來的反省意義。2018年，我在Mohr Siebeck出版了第二本
+以框架理論為方法論基礎的著作《憲法秩序作為框架秩序：一個從框架
+
+1
+    Shu-Perng Hwang, Bestimmte Bindung unter Unbestimmtheitsbedingungen: Eine
+    institutionelle Analyse zur Funktion der unbestimmten Rechtsbegriffe im Umwelt- und im
+    Telekommunikationsrecht, 2013.
+2
+    Shu-Perng Hwang, Demokratische Willensbildung vor grundrechtlicher Rahmenordnung:
+    Verfassungsrechtliche Überlegungen zur Auseinandersetzung von Gärditz und Zaczyk, Der
+    Staat 51 (2012), S. 233-250.
+                                                     近十年個人研究之回顧與展望                      419
+
+
+觀點對德國憲法實質化取向所進行的批判研究》 3。本書從思想史、法釋
+義學、法學方法論與國家理論的角度，對二次戰後德國憲法學界與實務
+界的實質化論述取向，提出了完整而深入的批評。本書旨在主張：實質
+化路線在戰後德國蔚為主流，但它針對「什麼是正義」、「什麼是正
+確」等等問題，往往預設了一種蘊含固定內容的想像，也就是傾向於篤
+信一種客觀絕對真理的存在，以致於往往在落實這種絕對真理的過程
+中，反而傷害了自由與民主。相對地，本書所提倡的框架理論，植基於
+以自由為本的信念，並以翔實的方法論與釋義學根據，證明其相較於實
+質化路線，更有助於讓憲法發揮拘束立法者、同時維護基本權利與民主
+秩序的功能。
+
+
+【框架理論的完整成形：歐洲法作為一種框架秩序】
+      由於框架理論在憲法領域的運用涉及了不少對德國聯邦憲法法院判
+決的觀察與檢討，在此過程當中，我逐漸發現：憲法法院對於憲法規範
+的實質化解讀，不僅止於影響憲法與法律、或者憲法法院與國會之間的
+關係，有時也會對德國憲法與歐盟法之間的關係帶來衝擊。2009年著名
+的里斯本判決（Lissabon-Urteil），就是一個顯著的例子。在2013年撰寫
+的一篇德文期刊論文〈多階層體系中的民主：抗拒整合抑或開放整合？
+從Schmitt與Kelsen之對立脈絡反思聯邦憲法法院在里斯本判決中提倡的
+民主概念〉 4當中，我發掘到歐洲整合趨勢在德國憲法學界引發的巨大迴
+響，以及這些迴響背後的意義。經由這番體會，我相信框架理論不僅可
+以為法律與行政、憲法與法律之間的關係，還可以進一步為國際法與國
+內法之間的關係，展現更強的說服力與問題解決能力。如果說前述行政
+法層次的框架理論主要的反省對象，是所謂對法律規範之「語義學式的
+（semantisch）」傳統理解方式，而憲法層次的框架理論主要的反省對
+
+
+3
+    Shu-Perng Hwang, Verfassungsordnung als Rahmenordnung. Eine kritische Untersuchung
+    zum Materialisierungsansatz im Verfassungsrecht aus rahmenorientierter Perspektive, 2018.
+4
+    Shu-Perng Hwang, Demokratie im Mehrebenensystem: Integrationsfest oder
+    integrationsoffen? Überlegungen zum Demokratiebegriff im Lissabon-Urteil des BVerfG
+    im Lichte des Schmitt-Kelsen-Gegensatzes, Rechtswissenschaft 2013, S. 166-192.
+    研之得法：中央研究院法律學研究所成立十週年文集
+420 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+象，是所謂「實質化」的論述取向，那麼繼之而起、試圖將框架理論總
+結成一套得以貫穿公法領域之完整學說的歐洲法層次的框架理論，其主
+要的反省對象，就是長期以來不僅在德國、同時也在許多國家與區域都
+蔚為主流的所謂「國際法與國內法二元論」。在2013年初次萌生研究歐
+盟法、歐洲法乃至於國際法的念頭時，我對這些法領域的許多相關問題
+還感到很陌生。不過，因為有完整建構框架理論的企圖心，再加上多年
+來的勤奮累積，我終於在2020年，在Mohr Siebeck出版了第三本框架理
+論系列著作《歐洲法秩序作為框架秩序：從框架觀點突破國家法與超國
+家法秩序二元建構的嘗試》 5。本書經由對「國際法與國內法一元論」此
+一框架導向觀點的釐清與具體應用，一方面證明了這個觀點相較於傳統
+二元論與當代各種所謂多元論的優越之處，另一方面也對當代背景下的
+自由、民主與國家概念，提出了不同於主流見解的創新思考。
+
+
+【框架理論視野下的憲法釋義學與比較憲法】
+      在 這 十 年 來 努 力 發 展 框 架 理 論 的 過 程 中 ， 我 深 刻 體 會 到 何 謂 Kurt
+Lewin 所 說 的 ： 「 沒 有 什 麼 比 一 個 好 理 論 更 加 實 用 」 （ Es gibt nichts
+Praktischeres als eine gute Theorie）。一個理論如果只是一味地追逐所謂
+熱門議題，或者只是在名稱及術語上標新立異，無論如何終將難以避免
+被歸類為學術象牙塔的產物。真正好的理論，往往有能力指出普遍盲點
+為何形成、如何根深蒂固，並且針對這些盲點所導致的種種問題提出具
+體的解決之道，進而展現它的實用性。上述三本系列著作的出版，除了
+見證了框架理論從行政法、憲法乃至於歐洲法與國際法的發展旅程，更
+讓我從中發掘到框架理論對當代憲法釋義學與比較憲法的發展可望帶來
+的貢獻。因為，在與語義學式的規範理解，實質化的理論取向，以及二
+元論觀點等主流思考路徑交鋒的過程當中，框架理論藉由不斷探索各種
+法律概念、學說、實務乃至於制度的歷史淵源、發展脈絡與當代困境，
+一方面更能意識到許多被視為理所當然的釋義學傳統值得重新檢討之
+
+
+5
+    Shu-Perng Hwang, Europarechtsordnung als Rahmenordnung. Versuch einer Überwindung
+    der dualistischen Konstruktion von staatlichen und überstaatlichen Rechtsordnungen, 2020.
+                                                      近十年個人研究之回顧與展望                      421
+
+
+處，另一方面也更能摒除一種先入為主、自我中心的法律觀點，進而更
+有能力揭示：所謂的「比較憲法」，應該如何避免流於表面對照或硬性
+地相互套用，方能發揮它釐清問題、甚至解決問題的功能。由於得到這
+些面向的啟發，我在2020年，於臺大出版中心出版了學術專論《什麼是
+法釋義學？以二次戰後德國憲法釋義學的發展為借鏡》，期能為多年來
+研究德國憲法釋義學的初步心得，留下一點紀錄。對我而言，這本書並
+不僅止於關乎德國憲法釋義學的發展來龍去脈，更是一份透過比較憲法
+研究的視野而產出的成果。因為，正是多次透過與美國、臺灣等地憲法
+發展的比對，方才成就了本書對德國憲法釋義學本質與特色的觀察。藉
+由本書的寫作，我對於憲法比較與憲法繼受等課題，也有更深一層的領
+悟。
+
+
+【框架理論之後：從民主理論到擬制理論】
+      如前所述，由於在框架理論的發展後期聚焦於國際法與國內法之間
+的關係，對於不同國家憲法秩序往往以不同方式看待國際法之角色與地
+位的現象產生濃厚的興趣，因此，藉由比較憲法的相關研究，我開始重
+視各國對民主概念與制度的理解如何影響其憲法理論與實務發展的問
+題。在這個問題意識引導之下，近年來我嘗試從民主理論的角度，分別
+針對美國與德國憲法學界與實務界的當前議題，提出了有別於傳統主流
+見 解 的 觀 察 、 解 讀 與 檢 討 。 包 括 分 別 刊 登 於 德 國 期 刊 Archiv des
+Völkerrechts（AVR）及美國期刊German Law Journal的兩篇英文文章 6，
+都是這個問題意識下的產物。這些初步成果的累積，不但讓我更清楚理
+解美國與德國兩地憲政發展傳統背後，根植著彼此大相逕庭的民主思想
+及預設，進而體會到更進一步深入掌握兩地民主理論發展軌跡與發展趨
+勢的重要性，同時也使我萌生從一個不同於過去的方法論角度來理解民
+
+
+6
+    Shu-Perng Hwang, “International Countermajoritarian Difficulty” Revisited: American
+    Understanding of and Resistance to International Law in Constitutional Interpretation from
+    a Comparative Perspective, AVR 56 (2018), S. 446-471; Shu-Perng Hwang, Foreign Law,
+    Democracy, and Constitutional Interpretation: A German-American Comparison, 20
+    GERMAN L.J. 1119-39 (2019).
+    研之得法：中央研究院法律學研究所成立十週年文集
+422 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+主理論與民主制度運作的研究構想。從2020年起，有感於民主在世界各
+地都遭受嚴峻的考驗及挑戰，我嘗試從根本處重新思考：民主作為一種
+制度與思想，在當代究應如何才能站穩根基，與人權、法治等理念相輔
+相成，共同促成人類文明的進步。也正是在這段期間，我有機會仔細閱
+讀 了 嚮 往 已 久 的 、 Hans Vaihinger 的 名 著 《 宛 如 的 哲 學 》 （ Die
+Philosophie des Als Ob），因而聯想到這本書所闡述的擬制（Fiktion）理
+念，或能有助於對民主相關問題更深入的洞察。這個構想帶給了我豐富
+的思考資源及創作靈感，讓我在2020年接連寫出4篇期刊論文，分別探
+討了「民意」、「制憲者原意」、「制憲權」等民主理論重要概念的擬
+制意涵，以及擬制的想法對於純粹法學「基本規範」之意義可望帶來的
+突破性理解 7。展望未來，我希望這4篇文章所奠定的基礎，能有助於精
+進自己接下來在民主理論相關研究上的討論深度，並且進一步開展「擬
+制」這個思考路徑更廣泛運用在法學相關問題討論上的可能性。
+
+
+【結          語】
+     回顧這過往的十年，我的研究在許多寶貴條件的支持下有所進展。
+其中最要感謝的，就是中研院及法律所無可挑剔的研究環境。在中研院
+這個世界少見沒有教學負擔、同時學術研究資源極其豐沛的研究單位當
+中，我可以全心投入研究，也因此不斷自我期許要做得更多、更好；法
+律所歷任所長的領導，與所內研究及行政同仁的齊心投入，更讓法律所
+成為一個讓我可以盡力發揮所長的地方。由衷感激法律所對我的栽培與
+鼓勵。
+
+7
+    這4篇著作分別為：Shu-Perng Hwang, Volkswille: Reale Substanz oder notwendige
+    Fiktion? Ernst-Wolfgang Böckenförde und Hans Kelsen im Vergleich, Der Staat 59 (2020),
+    S. 371-396; Shu-Perng Hwang, Der Wille des Verfassungsgebers als Fiktion. Dargestellt
+    am Beispiel der Debatte um den Ehebegriff des Art. 6 Abs. 1 GG, AöR 145 (2020), S. 264-
+    290; Shu-Perng Hwang, Verfassungsgebende Gewalt: Notwendiger Geltungsgrund der
+    Verfassung oder irreführendes Dogma? Eine verfassungstheoretische Überlegung zur
+    verfassungsbegründenden Bedeutung der verfassungsgebenden Gewalt am Beispiel des
+    Lissabon-Urteils des BVerfG, KritV 103 (2020), S. 289-314; Shu-Perng Hwang, Ist die
+    Grundnorm demokratisch? Grundnormfiktion und Demokratietheorie bei Hans Kelsen, ZöR
+    76 (2021), S. 501-522.
+                                            近十年個人研究之回顧與展望                 423
+
+
+
+                               參考文獻
+一、中文部分
+黃舒芃（2020），什麼是法釋義學？以二次戰後德國憲法釋義學的發展為
+    借鏡，臺北：臺大出版中心。
+
+二、外文部分
+Hwang, Shu-Perng (2012), Demokratische Willensbildung vor grundrechtlicher
+    Rahmenordnung: Verfassungsrechtliche Überlegungen zur Auseinanderset-
+    zung von Gärditz und Zaczyk, Der Staat 51, S. 233-250.
+─── (2013), Bestimmte Bindung unter Unbestimmtheitsbedingungen: Eine
+    institutionelle Analyse zur Funktion der unbestimmten Rechtsbegriffe im
+    Umwelt- und im Telekommunikationsrecht, Tübingen: Mohr Siebeck.
+─── (2013), Demokratie im Mehrebenensystem: Integrationsfest oder
+    integrationsoffen? Überlegungen zum Demokratiebegriff im Lissabon-
+    Urteil   des   BVerfG    im   Lichte   des   Schmitt-Kelsen-Gegensatzes,
+    Rechtswissenschaft, S. 166-192.
+─── (2018), “International Countermajoritarian Difficulty” Revisited: American
+    Understanding of and Resistance to International Law in Constitutional
+    Interpretation from a Comparative Perspective, AVR 56, S. 446-471.
+─── (2018), Verfassungsordnung als Rahmenordnung. Eine kritische
+    Untersuchung zum Materialisierungsansatz im Verfassungsrecht aus
+    rahmenorientierter Perspektive, Tübingen: Mohr Siebeck.
+───. 2019. Foreign Law, Democracy, and Constitutional Interpretation: A
+    German-American Comparison. German Law Journal 20:1119-1139.
+─── (2020), Der Wille des Verfassungsgebers als Fiktion. Dargestellt am
+    Beispiel der Debatte um den Ehebegriff des Art. 6 Abs. 1 GG, AöR 145, S.
+    264-290.
+─── (2020), Europarechtsordnung als Rahmenordnung. Versuch einer
+    Überwindung der dualistischen Konstruktion von staatlichen und
+    研之得法：中央研究院法律學研究所成立十週年文集
+424 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+    überstaatlichen Rechtsordnungen, Tübingen: Mohr Siebeck.
+─── (2020), Verfassungsgebende Gewalt: Notwendiger Geltungsgrund der
+    Verfassung oder irreführendes Dogma? Eine verfassungstheoretische
+    Überlegung     zur     verfassungsbegründenden       Bedeutung   der
+    verfassungsgebenden Gewalt am Beispiel des Lissabon-Urteils des
+    BVerfG, KritV 103, S. 289-314.
+─── (2020), Volkswille: Reale Substanz oder notwendige Fiktion? Ernst-
+    Wolfgang Böckenförde und Hans Kelsen im Vergleich, Der Staat 59, S.
+    371-396.
+─── (2021), Ist die Grundnorm demokratisch? Grundnormfiktion und
+    Demokratietheorie bei Hans Kelsen, ZöR 76, S. 501-522.
+

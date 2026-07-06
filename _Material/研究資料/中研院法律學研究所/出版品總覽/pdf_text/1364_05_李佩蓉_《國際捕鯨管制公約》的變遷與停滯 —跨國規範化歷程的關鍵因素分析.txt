@@ -1,0 +1,1830 @@
+ 薪傳論文
+《中研院法學期刊》第 30 期                                          291
+頁 291-340（2022 年 3 月）
+
+
+                                                     ＊
+    《國際捕鯨管制公約》的變遷與停滯
+          — 跨國規範化歷程的關鍵因素分析
+
+                        李佩蓉＊＊
+
+
+                         摘 要
+  本文探討《國際捕鯨管制公約》及國際捕鯨委員會數十年來的
+動態變遷，是否確實影響國家行為，且受哪些關鍵因素影響。傳統
+國際法及國際政治研究多著重於規範文本及機制分析，而未能結合
+國際法的規範性及機制的形塑脈絡，同時突顯規範的流動與滲透
+力。本文採跨國規範化歷程觀點，將法與社會的取徑投射至國際與
+內國層級，從脈絡化及多元行動者的角度，觀察規範如何變遷或邁
+向停滯。本文分析國際捕鯨規範機制四階段發展歷程，歸納出公約
+的部分規範內化現象及三大關鍵因素：(1)非國家行動者的角色從制
+衡轉為主導；(2)其他國際機制展現由外而內的強化力量；及(3)科
+學研究的工具化。本文認為，此一發現回應了跨國規範化歷程理
+論，除打破內國與國際法的傳統分界，也突顯國家以外的重要行動
+者、平臺社群等促進規範變遷的重要因素，而展現國際法的動態與
+規範性。
+
+關鍵詞：捕鯨、國際捕鯨管制公約、國際捕鯨委員會、跨國規範化
+    歷程、規範內化。
+
+
+＊  投稿日：2020年6月30日；接受刊登日：2021年1月20日。〔責任校對：郭宇
+   傑］
+    。
+   本文作者感謝兩位匿名審查人提供諸多寶貴意見，也感謝張文貞教授悉心指
+   導，在此一併致謝。惟一切文責，均由本人自負。
+＊＊ 國立臺灣大學法律學研究所博士候選人；國立臺灣大學法律學研究所碩士。
+   穩定網址：http://publication.iias.sinica.edu.tw/90012022.pdf。
+292                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+                                     目 次
+
+    壹、前言                                     一、跨國規範化歷程理論
+    貳、《國際捕鯨管制公約》發展                           二、公約規範變遷、停滯以及
+      歷程                                       部分規範內化現象
+     一、1920年代初期至1946年：                      肆、影響公約規範變遷、停滯及
+       議題浮現與公約締結                              內化進程的關鍵因素
+     二、1946年至1960年代中期：                       一、從制衡到主導的行動者：
+       捕鯨與管制需求消長                               非國家行動者的角色改變
+     三、1960年代後期至1982年：                       二、從外而內的強化力量：其
+       環境保護與生態保育意識                             他國際公約及相關機制的
+       滲入規範                                    影響
+     四、1982年迄今：暫止或終結                         三、從強轉弱的變遷動力：科
+       商業捕鯨？                                   學研究的工具化
+    參、《國際捕鯨管制公約》規範                          伍、結論
+      化歷程與「部分規範內化」
+      現象
+
+
+
+
+壹、前言
+
+      作為國際社會中起步最早的國際環境法規範機制1，《國際捕鯨
+    （International Convention for the Regulation of Whaling）
+管制公約》
+於1946年通過，並於1948年生效。在那個鯨魚製品全球普及、環保
+意識尚未崛起，而科學研究有待開展的年代裡，對於捕鯨產業進行
+規範，有著諸多挑戰。《國際捕鯨管制公約》與其所設的國際捕鯨
+委員會（International Whaling Commission）2，一方面需要應對捕
+
+1 Steinar Andresen, The International Whaling Commission (IWC): More Failure than
+  Success?, in ENVIRONMENTAL REGIME EFFECTIVENESS: CONFRONTING THEORY WITH
+  EVIDENCE 379, 381 (Edward L. Miles et al. eds., 2002).
+2 International Convention for the Regulation of Whaling art. III, Dec. 2, 1946, 161
+《國際捕鯨管制公約》的變遷與停滯                                                                 293
+
+
+鯨國家的國內產業發展或維護的需求，另一方面則需小心關注在當
+時仍屬未知的鯨魚生態。在這樣的時空背景之下，公約與委員會無
+論是放寬或限縮規範，都面臨極大壓力。但無論如何，《國際捕鯨
+管制公約》存續至今，並已運作七十多年。從結果觀之，《國際捕
+鯨管制公約》與其委員會似乎成功改變國家行為。許多捕鯨國家原
+本於公約通過後仍持續大量捕鯨而被戲稱為「捕鯨俱樂部」
+                         （whalers’
+        3
+club） ，但自1960年代後期起，國際規範逐漸轉為嚴格、各國捕鯨
+產業規模持續縮小，如今大多數捕鯨國家已經停止商業捕鯨行為4，
+也讓許多鯨類得以脫離瀕危狀態5。
+
+    《國際捕鯨管制公約》見證了全球捕鯨產業的崛起與沒落，但
+國際間對於公約與委員會的評價，相當兩極。環保團體於過去曾批
+判公約與委員會的態度徘徊於資源管理與物種保育之間，這正是因
+為公約本身缺乏保育意識6。此外，亦有論者指出，公約設計具有
+根本上的瑕疵，從而導致形成的規範無法被確切落實7，捕鯨產業
+的消亡恐怕仍著落在與國際規範機制無關的因素，例如人類對於鯨
+魚製品的需求因替代品的出現而逐漸降低8。但即便如此，認為外
+部因素影響比重較大的學者，亦注意到公約及委員會的態度確實從
+
+
+    U.N.T.S. 72.
+3   Kurk Dorsey, National Sovereignty, the International Whaling Commission, and the
+    Save the Whales Movement, in NATION-STATES AND THE GLOBAL ENVIRONMENT: NEW
+    APPROACHES TO INTERNATIONAL ENVIRONMENTAL HISTORY 43, 49 (Erika Marie
+    Bsumek, David Kinkela & Mark Atwood Lawrence eds., 2013).
+4   Steinar Andresen & Tora Skodvin, Non-state Influence in the International Whaling
+    Commission, 1970 to 2006, in NGO DIPLOMACY: THE INFLUENCE OF
+    NONGOVERNMENTAL ORGANIZATIONS IN INTERNATIONAL ENVIRONMENTAL
+    NEGOTIATIONS 119, 119 (Michele M. Betsill & Elizabeth Corell eds., 2008).
+5   Ian Hurd, Almost Saving Whales: The Ambiguity of Success at the International
+    Whaling Commission, 26 ETHICS & INT’L AFF. 103, 103 (2012).
+6   Dorsey, supra note 3, at 43.
+7   Jared Zemantauski, Has the Law of the Sea Convention Strengthened the
+    Conservation Ability of the International Whaling Commission?, 43 U. MIAMI INTER-
+    AM. L. REV. 325, 325-26 (2012).
+8   Andresen, supra note 1, at 399.
+294                                      《中研院法學期刊》第30期（2022年3月）
+
+
+
+早期的寬鬆，在1980年代後逐漸轉為嚴格，而稱許公約與委員會的
+效率由低走高，早期確實無力約束國家行為，而到了後期則展現出
+積極規範的決心9。
+
+      對於《國際捕鯨管制公約》與委員會的既有研究，有從機制量
+能與組織10、國際政治11 、科學研究角色12 ，或從未來發展的角度
+切入者13。而對於此一機制是否發揮應有功能的爭辯，在七十多年
+來從未停歇。在日本於2019年正式退出公約之後14，更引發學者關
+注捕鯨國家與國際規範機制間的關係未來將如何發展15。我們不免
+思索，這樣一個錯綜複雜且同時揉合國際及國內政治、經濟產業、
+環保主義、科學知識與規範形成的國際規範機制，在國際法學的研
+究脈絡下，可以如何評價。
+
+      對於國際規範機制的研究，無論是從國際法學或國際政治學的
+研究方法，都為國際規範機制的研究累積了豐富的底蘊。傳統國際
+法學研究，多傾向從法規範（法律形式主義，legal formalism）及國
+家本位（法律實證主義，legal positivism）的角度思考。而傳統國
+
+
+
+9 Id.
+10 See generally Andresen, supra note 1; Steinar Andresen, The Whaling Regime, in
+   SCIENCE AND POLITICS IN INTERNATIONAL ENVIRONMENTAL REGIMES: BETWEEN
+   INTEGRITY AND INVOLVEMENT 35 (Steinar Andresen et al. eds., 2000); Andresen &
+   Skodvin, supra note 4.
+11 See generally KURKPATRICK DORSEY, WHALES AND NATIONS: ENVIRONMENTAL
+   DIPLOMACY ON THE HIGH SEAS (2013).
+12 See generally MICHAEL HEAZLE, SCIENTIFIC UNCERTAINTY AND THE POLITICS OF
+   WHALING (2006); Marc Mangel, Whales, Science, and Scientific Whaling in the
+   International Court of Justice, 113 PROC. NAT’L ACAD. SCI. 14523 (2016).
+13 Andresen, supra note 1, at 379.
+14 Statement on Government of Japan Withdrawal from the IWC, INTERNATIONAL
+   WHALING COMMISSION (Jan. 14, 2019), https://iwc.int/statement-on-government-of-
+   japan-withdrawal-from-t.
+15 See generally Chris Wold, Japan’s Resumption of Commercial Whaling and Its Duty
+   to Cooperate with the International Whaling Commission, 35 J. ENVTL. L. & LITIG. 87
+   (2020).
+《國際捕鯨管制公約》的變遷與停滯                                                                  295
+
+
+際政治學研究，則著重於因果關係與行為預測16，並聚焦於特定議
+題領域中的互動結構17。但要面對國際捕鯨規範機制這樣一個複雜
+且充滿動盪起伏的規範機制，前者無法貼近規範歷程中的複雜脈絡
+與行動者間的互動關係，後者則在體現機制的規範性上有所侷限。
+
+     為了突破前述研究方法的侷限性18，國際法學研究中出現了跨
+越傳統國際法學及國際政治學藩籬的學派19，亦即跨國規範化歷程
+（transnational legal process）理論20。此一理論源自美國法律現實主義
+（American legal realism）以及程序法學（legal process school）21。
+程序法學對於法律的理解，在於從脈絡化的角度，不著重於平面且
+靜態的文字或機制22，而關心在法律建構出的動態秩序中行動者之
+間的互動以及與法律的關係，從而探討規範如何提供指引，同時如
+何在社會脈動的驅動下不斷演變與進化23 。在國際法學研究領域
+中，跨國規範化歷程理論修正了政治現實主義（political realism）
+偏重權力的見解24，對國際法的形成進行脈絡化的觀察，不以國家
+
+
+
+16 Harold Hongju Koh, Transnational Legal Process, 75 NEB. L. REV. 181, 191 (1996).
+17 Lung-chu Chen, Perspectives from the New Haven School, 87 AM. SOC’Y INT’L L.
+   PROC. 407, 407-08 (1993).
+18 Harold Hongju Koh, Michael Reisman, Dean of the New Haven School of
+   International Law, 34 YALE J. INT’L L. 501, 502 (2009).
+19 See Chen, supra note 17, at 407.
+20 See generally Chen, supra note 17; Harold Hongju Koh, Opening Remarks:
+   Transnational Legal Process Illuminated, in TRANSNATIONAL LEGAL PROCESSES:
+   GLOBALISATION AND POWER DISPARITIES 327 (Michael Likosky ed., 2002); Koh,
+   supra note 16; OONA A. HATHAWAY & HAROLD HONGJU KOH, FOUNDATIONS OF
+   INTERNATIONAL LAW AND POLITICS 190-204 (2005).
+21 Gregory Shaffer & Tom Ginsburg, The Empirical Turn in International Legal
+   Scholarship, 106 AM. J. INT’L L. 1, 2 (2012).
+22 See BERNARD F. CATALDO ET AL., INTRODUCTION TO LAW AND THE LEGAL PROCESS 1-
+   2 (3d ed. 1980).
+23 See CATALDO ET AL., supra note 22, at 1-2; Lon L. Fuller, Law and Human Interaction,
+   in SOCIAL SYSTEM AND LEGAL PROCESS: THEORY, COMPARATIVE PERSPECTIVES AND
+   SPECIAL STUDIES 59, 78-87 (Harry M. Johnson ed., 1978).
+24 Koh, supra note 18, at 502.
+296                                       《中研院法學期刊》第30期（2022年3月）
+
+
+
+為唯一行動者 25 ，而是關注規範的動態發展歷程中國際與國內層
+級、國家與非國家行動者的互動關係26，並能貼近各個不同的規範
+體系脈絡中，掌握推動規範形塑與變遷的關鍵因素27。由於國際法
+的規範性使然，跨國規範化歷程理論認為，國際規範在前揭的多層
+級互動歷程中產生規範內化（norm internalization）的效應並影響國
+家行為，同時亦藉由與不同層級的規範與行動者持續互動，達到自
+我修正的效果28。
+
+
+25 See Jiunn-Rong Yeh & Wen-Chen Chang, The Emergence of Transnational
+   Constitutionalism: Its Features, Challenges and Solutions, 27 PENN ST. INT’L L. REV.
+   89, 101-02 (2008).
+26 Koh, supra note 16, at 203-05; W. Michael Reisman, International Lawmaking: A
+   Process of Communication, 75 AM. SOC’Y INT’L L. PROC. 101, 104-07 (1981); W.
+   Michael Reisman, The View from the New Haven School of International Law, 86 AM.
+   SOC’Y INT’L L. PROC. 118, 121-22 (1992); Chen, supra note 17, at 409; Leila Nadya
+   Sadat, The Nuremberg Paradox, 58 AM. J. COMP. L. 151, 198-99 (2010); Sébastien
+   Jodoin & Sarah Mason-Case, What Difference Does CBDR Make? A Socio-Legal
+   Analysis of the Role of Differentiation in the Transnational Legal Process for REDD+,
+   5 TRANSNAT’L ENVTL. L. 255, 259 (2016)；參見：張文貞，NGO與跨國憲政主義
+   的發展：以台灣加入國際人權公約的實踐為例，台灣國際法季刊，9卷3期，頁
+   47（2012年）     。
+27 國內有數篇碩士論文將此研究方法分別運用在不同國際規範的發展脈絡當中，
+   並從中界定出推動規範發展與變遷的關鍵因素，參見：李佩蓉，程序環境人權
+   在區域組織的建構與發展：歐盟與東協的比較與反思，國立臺灣大學法律學研
+   究所碩士論文（2014年）；陳文葳，政府間氣候變遷小組的建構、組織與功能
+   演變：以跨國法制歷程觀點分析，國立臺灣大學科際整合法律學研究所碩士論
+   文（2015年）；陳子珺，反核子擴散條約之規範機制：以跨國規範化歷程為分
+   析途徑，國立臺灣大學科際整合法律學研究所碩士論文（2016年）；謝雨修，
+   形塑國際刑事法院的權威：以跨國規範化歷程與法院研究為方法，國立臺灣大
+   學法律學研究所碩士論文（2018年）。本文將此研究方法延伸適用至《國際捕
+   鯨管制公約》與國際捕鯨委員會，探討此一國際環境規範機制的發展脈絡、議
+   題特性、行動者互動關係與規範變遷歷程間的連結與影響，觀察國際規範如何
+   內化至內國層級，並提出影響規範化歷程的重要關鍵因素。本文所採脈絡化且
+   著重於行動者互動關係的分析方法，以及六大動因的運用，可適用在其他國際
+   規範機制發展歷程的研究上。此外，本文在《國際捕鯨管制公約》上觀察到的
+   規範內化態勢，應有助於分析國際規範如何在內國引動價值變遷，同樣可投射
+   至其他領域中國際規範與內國規範之間的關係。
+28 Koh, supra note 16, at 205; Anupam Chander, Globalization and Distrust, 114 YALE
+   L.J. 1193, 1229 (2005); Gregory Shaffer, Transnational Legal Process and State
+   Change, 37 L. & SOC. INQUIRY 229, 238-39 (2012).
+《國際捕鯨管制公約》的變遷與停滯                                                             297
+
+
+     基於前揭理解，本文將採用跨國規範化歷程理論研究框架，將
+觀察焦點放置在《國際捕鯨管制公約》與國際捕鯨委員會的發展與
+變遷上，從中觀察不同的行動者彼此間如何互動。而這樣的互動關
+係是否在適當的時機形成或改變規範，進一步產生規範內化的效
+應—與國家的內國價值秩序相互結合，從而改變國家行為。而當
+規範內化的效果不完全（partial internalization）
+                                  ，亦即只有部分規範
+展現內化效應29，而行為者之間的互動關係亦出現問題時，又會對
+規範的持續發展產生什麼樣的影響。
+
+     簡言之，本文將以跨國規範化歷程為理論框架，觀察行動者如
+何推動國際捕鯨規範機制的形塑與變遷並與其相互影響，再從中找
+出促動規範變遷歷程的關鍵因素。為此，本文將先梳理《國際捕鯨
+管制公約》發展歷程，將其分為四期，逐一探討從議題浮現到規範
+形成、變遷的過程30 。此後，本文將深入說明跨國規範化歷程理
+論，以此探討並歸納出《國際捕鯨管制公約》的規範內化現象。接
+著，本文依據跨國規範化歷程理論的六大動因，界定並檢視影響
+《國際捕鯨管制公約》規範化歷程的三大關鍵因素，分別為國家與
+非國家行動者的角色、《國際捕鯨管制公約》與其他國際公約以及
+相關機制的連結，以及科學研究的功能變化，並於文末提出結論。
+
+
+
+貳、
+ 《國際捕鯨管制公約》發展歷程
+
+     以國際規範對全球捕鯨行動進行管制的想法，出現在環境與經
+濟問題已經逐漸浮現的時空背景下。因此，針對捕鯨產業及捕鯨國
+家形成的國際規範其實是在問題發生之後，才從解決問題的角度切
+
+
+29 See generally Shaffer, supra note 28; Galit A. Sarfaty, The World Bank and the
+   Internalization of Indigenous Rights Norms, 114 YALE L.J. 1791 (2005).
+30 葉俊榮，全球環境議題—臺灣觀點，頁45-57（1999年）
+                               。
+298                                《中研院法學期刊》第30期（2022年3月）
+
+
+
+入此一議題。雖然各國都是抱持著「管制」的目的形成規範，但委
+員會對於捕鯨行為的態度，卻並非自始至終都展現一致的方向。數
+十年來，委員會因締約國的組成變化，從早期由捕鯨國家主導並偏
+向產業保護，到不得不進行較嚴格的資源管理，再到後來改由非捕
+鯨國家主導並偏向物種保育，其變動不可謂不大。本文將於以下探
+討《國際捕鯨管制公約》發展歷程，梳理其發展至今的生命流程31。
+本文將其分為：(1)議題浮現與公約締結的階段；(2)捕鯨與管制需
+求消長階段；(3)環境保護與生態保育意識滲入規範的階段；以及(4)
+暫止或終結商業捕鯨的階段32。
+
+一、1920年代初期至1946年：議題浮現與公約締結
+
+      早在1920年代初期，全球的捕鯨產業已初具規模，由於當時的
+航海及捕鯨技術尚未成熟，捕鯨船只能獵捕游速較慢的鯨魚，造成
+這些鯨魚數量下跌，捕鯨產業也首次面臨無魚可捕的威脅33。在試
+圖解決這個問題時，各國選擇不形成區域或國際性的捕鯨規範，而
+是投入資金推動捕鯨技術的研發與創新。因此，在1920年代到1930
+年代之間，無論是捕鯨設備或航海技術，都迎來新變革34。這些技
+術升級確實成功帶領捕鯨產業走出困境，例如捕鯨船航速的提升，
+讓捕鯨人可以獵捕到原本無法企及的、游速較快的鯨類如藍鯨
+（blue whale）以及長鬚鯨（fin whale）
+                           ，但相應地，也導致更多鯨類
+面臨過度捕殺的威脅35。
+
+
+31 葉俊榮（註30）       ，頁44。
+32 See also Andresen, supra note 1, at 383-89; 學者Steinar Andresen從組織量能將國際
+   捕鯨委員會的規範效率分為三階段：(1)1946年起至1960年代初期：無保育措施
+   也無有條理的發展；(2)1960年代中期至1970年代後期：效率逐漸提升；以及(3)
+   1970年代後期至今：難以評價效率提升或降低，在改變國家行為上表現優秀，
+   但在科學基礎建構的集體最適（collective optimum）目標上卻得到相反結論。
+33 DANIEL BODANSKY, THE ART AND CRAFT OF INTERNATIONAL ENVIRONMENTAL LAW
+   41 (2010).
+34 Id.; Andresen, supra note 10, at 35.
+35 DORSEY, supra note 11, at 18.
+《國際捕鯨管制公約》的變遷與停滯                                                                 299
+
+
+     由於當時國際社會對於環境議題的認識才剛起步，過度捕鯨導
+致的資源匱乏問題，成為各國首次應對的跨境環境挑戰36。為此，
+21個捕鯨國家於1931年簽署了《捕鯨管制公約》（1931 Convention
+                              37
+for the Regulation of Whaling） 。這份公約以挪威的內國法為樣
+本，內容相當精簡38，除了並未記載捕鯨限額（quota），也未縮短
+可以捕鯨的期間39，效果也因此有限。在此一公約通過前後時期，
+各國持續大量獵捕鯨魚，並產出遠超過市場需求的鯨魚油量，從而
+導致1931年至1932年間鯨魚油價格暴跌及市場崩潰40，捕鯨產業再
+次面臨重大衰退41。
+
+     鑒於第一份公約的黯然失敗，於1937年，在美國及幾個同意採
+取更嚴格限制的捕鯨國家的倡議下，1937年的《國際捕鯨管制協
+ （1937 International Agreement for the Regulation of Whaling）取
+定》
+代了1931年的《捕鯨管制公約》42。1937年的協定設下可獵捕鯨魚
+的最小身長，同時禁止獵捕灰鯨（gray whale）、弓頭鯨（bowhead
+                      ，也制定捕鯨季的期間限制43。
+whale）及露脊鯨（right whale）
+
+     雖然1937年的協定對於1931年公約的規範多有補充，但各國很
+快發現，用一份靜態的文本對於獵捕野生動物的行為進行規範的做
+法，不但缺乏彈性，也不實際44。由於當時許多捕鯨國家對於是否
+應當締結協定持保守態度，某些捕鯨大國如日本與德國並不願意參
+
+
+
+36 Dorsey, supra note 3, at 45.
+37 Gare Smith, The International Whaling Commission: An Analysis of the Past and
+   Reflections on the Future, 16 NAT. RESOURCES LAW. 543, 546 (1984).
+38 Andresen, supra note 1, at 382.
+39 Smith, supra note 37, at 546.
+40 Andresen, supra note 1, at 382.
+41 Anthony L.I. Moffa, Two Competing Models of Activism, One Goal: A Case Study of
+   Anti-Whaling Campaigns in the Southern Ocean, 37 YALE J. INT’L L. 201, 204 (2012).
+42 Smith, supra note 37, at 546.
+43 Id.
+44 DORSEY, supra note 11, at 44.
+300                                    《中研院法學期刊》第30期（2022年3月）
+
+
+
+與締約45，導致協定所能發揮的功能有限46。在協定通過之後，全
+球捕鯨量反而於1937年至1938年間創下歷史新高47。此一問題雖然
+在二戰期間因港口與船隻改為軍事用途而稍稍緩解48，但戰後的糧
+食危機卻讓許多原本不捕鯨的國家也開始捕鯨，再次導致資源枯
+竭。此時，捕鯨國家再度被迫坐回談判桌前協商如何解決問題。
+
+  1943年起，美國積極在國際社會中鞏固其國際領袖的地位，號
+召捕鯨國家如英國、挪威等對此議題進行商討49（對此，亦有論者
+認為，最初促成各國談判的行動者實為挪威，但其在捕鯨議題上的
+主導性與領袖地位維持不久即由美國取代50），促成《國際捕鯨管
+制公約》於1946年通過51 。《國際捕鯨管制公約》目前仍是規範並
+管理全球鯨魚資源的主要文本52。
+
+二、1946年至1960年代中期：捕鯨與管制需求消長
+
+      《國際捕鯨管制公約》於1946年通過，並在18個進行遠洋捕鯨
+的國家簽署及完成內國批准程序後，於1948年正式生效53。但在前
+一階段出現的管制難題，在《國際捕鯨管制公約》生效及國際捕鯨
+委員會形成後，仍然持續。在這個階段中，由於各國的共識是對捕
+鯨活動進行管制54，此時需要煩惱的，更多是在於如何平衡鯨類的
+資源永續性與捕鯨產業的需求。幾個捕鯨大國如美國、挪威與英國
+認為，在新規範秩序中，科學研究應當成為重要一環，同時承認世
+
+
+45 Id. at 82; Andresen, supra note 1, at 382.
+46 Andresen, supra note 10 at 35.
+47 Dorsey, supra note 3, at 45; Andresen, supra note 10, at 35.
+48 Dorsey, supra note 3, at 45.
+49 Id. at 46.
+50 Andresen, supra note 1, at 382.
+51 Dorsey, supra note 3, at 46.
+52 Moffa, supra note 41, at 205.
+53 Andresen, supra note 1, at 383.
+54 Robert L. Friedheim, Introduction: The IWC as a Contested Regime, in TOWARD A
+   SUSTAINABLE WHALING REGIME 3, 32 (Robert L. Friedheim ed., 2001).
+《國際捕鯨管制公約》的變遷與停滯                                                                       301
+
+
+界正面臨二次世界大戰後糧食危機，捕鯨產業的存續十分重要55。
+換言之，各國同意鯨魚是可以開發利用的資源，不過為了維護資源
+永續，必須予以適當管制。
+
+      以這樣的思考為基礎，1946年通過的《國際捕鯨管制公約》的
+原始規範目的，並非側重於鯨類保育，而是將鯨魚視為重要且可以
+使用的資源，對各國開發行為進行管制，以確保其永續性。換言
+之，公約期待各國能審慎應對，進行有效管理以避免資源耗竭。
+《國際捕鯨管制公約》前言即明確指出，公約應保護所有鯨類不遭
+受過度捕殺，而鯨魚數量如能成功回復，未來亦有望在不影響自然
+資源的情況下，提高年度捕鯨限額56。由此可見，公約的基本態度
+強調保護與開發兼籌並顧，將鯨魚視為重要資源，對其進行妥善管
+理，以利捕鯨產業的永續發展57。這樣的立場，也在公約的兩大特
+色中顯現，分別是公約附件58（Schedule）的設計，以及公約與科
+學研究間的互動關係。
+
+
+55 Dorsey, supra note 3, at 46.
+56 International Convention for the Regulation of Whaling pmbl., para. 2, Dec. 2, 1946,
+   161 U.N.T.S. 72: “Considering that the history of whaling has seen over-fishing of
+   one area after another and of one species of whale after another to such a degree that it
+   is essential to protect all species of whales from further over-fishing;” para. 3:
+   “Recognizing that the whale stocks are susceptible of natural increases if whaling is
+   properly regulated, and that increases in the size of whale stocks will permit increases
+   in the number of whales which may be captured without endangering these natural
+   resources.”
+57 International Convention for the Regulation of Whaling pmbl., para. 7, Dec. 2, 1946,
+   161 U.N.T.S. 72: “Having decided to conclude a convention to provide for the proper
+   conservation of whale stocks and thus make possible the orderly development of the
+   whaling industry.”
+58 有關Schedule一詞中譯，有將其譯為附件者，參見：陳隆豐，國際捕鯨協會，新
+   世紀智庫論壇，82期，頁58（2018年）；亦有將其譯為時程表者，參見：張愷
+   致，日澳南極捕鯨案評析，中華民國國際法學會，2014年6月13日，http://csil.org.
+   tw/home/2014/06/13/%E5%BC%B5%E6%84%B7%E8%87%B4%EF%BC%9A%E
+   6%97%A5%E6%BE%B3%E5%8D%97%E6%A5%B5%E6%8D%95%E9%AF%A
+   8%E6%A1%88%E8%A9%95%E6%9E%90/（最後瀏覽日：2020年6月20日）                                    ；由
+   於其內容涵蓋對於捕鯨的諸多細節規範，非僅限於時程，本文將其譯為附件。
+302                                       《中研院法學期刊》第30期（2022年3月）
+
+
+
+      首先，《國際捕鯨管制公約》的附件，記載針對捕鯨產業的細
+節與技術性規範，公約並明文指出附件為公約之一部分59，從而亦
+對締約國有拘束力。附件得由國際捕鯨委員會以四分之三的多數決
+方式修正60。委員會可以決議修正的內容包括受保護及不受保護的
+鯨類、捕鯨季的開始與結束、開放與不開放捕鯨的海域（包括設定
+鯨魚保護區）、可獵捕的個別鯨類尺寸限制、每季可獵捕鯨魚的時
+間、方式與密度等等61。
+
+      此外，
+        《國際捕鯨管制公約》亦明文要求所有針對附件的修正，
+必須基於科學研究成果62。換言之，國際捕鯨委員會的科學研究單
+位必須提出具體數據建議，使委員會得以從科學客觀角度，修正對
+於鯨魚資源的管理方式。這樣的做法是為了讓規範機制不完全由國
+際政治左右，而得以制度化的方式63，確保科學社群的專業意見可
+以介入規範形成過程64。另外，雖然公約條文並未提及科學研究單
+位，但國際捕鯨委員會成立初期，於首次會議中，即設立科學與技
+術小組（之後改制為科學研究小組，Scientific Committee）65。
+
+      將實體規範放在可以由委員會多數決修正的附件，以及強調規
+範須以科學研究成果為基礎的規定，讓《國際捕鯨管制公約》一方
+面能確保專業意見得以導入規範，同時亦確保規範能彈性修正，達
+到資源有效管理的效果。這樣的設計除了修正第一階段1937年的
+
+
+
+59 International Convention for the Regulation of Whaling art. I(1), Dec. 2, 1946, 161
+   U.N.T.S. 72.
+60 International Convention for the Regulation of Whaling art. III(2), Dec. 2, 1946, 161
+   U.N.T.S. 72.
+61 International Convention for the Regulation of Whaling art. V(1), Dec. 2, 1946, 161
+   U.N.T.S. 72.
+62 International Convention for the Regulation of Whaling art. V(2)(b), Dec. 2, 1946,
+   161 U.N.T.S. 72.
+63 Andresen & Skodvin, supra note 4, at 122.
+64 Andresen, supra note 10, at 36.
+65 Id. at 36-37.
+《國際捕鯨管制公約》的變遷與停滯                                                                 303
+
+
+《國際捕鯨管制協定》以靜態文本進行規範的缺點，也展現對於鯨
+魚進行彈性管理的企圖心。倘若科學研究成果證明鯨魚數量下跌，
+則委員會可以修正附件降低捕鯨限額，但若鯨魚數量顯著回升，委
+員會亦可放寬規範讓國家可以利用資源。
+
+     公約附件與對科學研究的重視，彰顯了公約將鯨魚視為資源的
+規範特色。除此之外，《國際捕鯨管制公約》另有兩項特殊設計。
+首先，公約留下國家異議的空間。依據公約第V條第3項規定，任
+何對於附件的修正，不適用於提出異議的締約國。另外，公約第
+VIII條第1項，則准許締約國於其國內對以科學研究為目的的捕鯨
+行為核發捕鯨許可。從這樣的設計亦可看出，早期各國希望藉由較
+為緩和的規範凝結共識，並推動機制發展66。
+
+     公約的文本設計雖然反映早期締約國的共識與需求，但在1948
+年公約生效起直至1960年代中期間，落實結果並不如預期。由於當
+時戰後多國急需開發糧食來源，雖然《國際捕鯨管制公約》如期通
+過生效，各國仍大力推動捕鯨產業發展67。國際捕鯨委員會雖然制
+定年度捕鯨限額，但因當時的締約國以捕鯨國家佔多數，在各國捕
+鯨利益夾攻之下，委員會於1940年代後期直至1960年代初期，設定
+了極高的捕鯨限額，甚至高達全球捕鯨產業無法用罄的程度68。此
+外，委員會設定的捕鯨限額為全球捕鯨總量，而非分配至個別區域
+或國家，也並未限制船隻與加工廠的數量，因此各國無不加快腳
+步、盡全力獵捕鯨魚，防止限額先被其他國家用完69。有論者因此
+
+
+66 Friedheim, supra note 54, at 9; 除了公約的異議制度及科學研究捕鯨之外，國際
+   捕 鯨 委 員 會 亦 有 限 度 地 開 放 原 住 民 生 存 捕 鯨 （ Aboriginal Subsistence
+   Whaling） ；See International Convention for the Regulation of Whaling sched., pp. 8-
+   9 (Sept. 2018), Dec. 2, 1946, 161 U.N.T.S. 72; Aboriginal Subsistence Whaling,
+   INTERNATIONAL WHALING COMMISSION, https://iwc.int/aboriginal (last visited June 20,
+   2020).
+67 Dorsey, supra note 3, at 44.
+68 Hurd, supra note 5, at 104.
+69 Andresen, supra note 1, at 385.
+304                                   《中研院法學期刊》第30期（2022年3月）
+
+
+
+戲稱此一時期為捕鯨奧林匹克競賽（Whaling Olympics）70。此一
+時期的委員會在平衡鯨魚及產業需求上並無明顯建樹71。這也導致
+鯨魚數量在1948年起將近二十年毫無節制的獵捕後再度告急，捕鯨
+產業也迎來又一波的生存危機72。
+
+      這樣的情況，引發一個重要問題。公約與委員會既然已形成科
+學研究小組，同時承認科學研究的重要性，為何無法依據鯨魚數量
+調整捕鯨限額？就此一問題，當時的科學研究小組雖然於一開始即
+發現鯨魚數量銳減，並多次向委員會提出下修捕鯨限額的提議，但
+各國當時大多對科學研究成果持保留意見73。一方面，當時的科學
+研究仍有許多侷限性，故各國認為並無足夠的資訊可以參考。另一
+方面，在當時的時空背景尚未出現國際環境法的預警原則
+（ precautionary principle ） 的 概 念 74 ， 各 國 對 於 科 學 不 確 定 性
+（scientific uncertainty）的解讀，往往更偏向現有利益的保護，而非
+避免未來且未知的環境損害75。因此，當時各國並非不採用科學研
+究成果進行規範，反倒是以科學研究可信度不足為藉口，認為科學
+家未能確定鯨魚正面臨瀕臨絕種的威脅，拒絕承認風險存在76。
+
+
+
+70 BODANSKY, supra note 33, at 254.
+71 Andresen, supra note 1, at 379.
+72 Id.
+73 HEAZLE, supra note 12, at 50.
+74 DAVID HUNTER, JAMES SALZMAN          & DURWOOD ZAELKE, INTERNATIONAL
+   ENVIRONMENTAL LAW AND POLICY 510 (3d ed. 2007); 預警原則為國際環境法重要
+   原則。由於面對快速變化的環境問題，科學研究難以一步到位提供決策者需要
+   的一切資訊，所以決策者偶爾需要在未知的情況下做出決定。預警原則即是為
+   了此一情形提供指引。預警原則的定義可參見《1992年里約環境與發展宣言》
+  （1992 Rio Declaration on Environment and Development）第15項原則，亦即為了
+   保護環境，各國應依據自身能力廣泛採取預警措施；如有嚴重或不可回復的損
+   害威脅，不得以缺乏科學確定性為由推遲採取防止環境退化的有效措施。此一
+   原則亦被納入1992年通過的《聯合國氣候變化綱要公約》（United Nations
+   Framework Convention on Climate Change）第3條當中。
+75 HEAZLE, supra note 12, at 51-52.
+76 Id. at 178.
+《國際捕鯨管制公約》的變遷與停滯                               305
+
+
+三、1960年代後期至1982年：環境保護與生態保育意識滲入
+  規範
+
+       國際捕鯨議題在第一階段形成規範之後，於第二階段面臨捕鯨
+產業與物種管理需求難以兼顧的問題，科學研究成果也未獲重視。
+這樣的情況持續到1960年代後期，開始出現轉變。公約與委員會由
+早期的寬鬆限制，逐漸轉為促進平衡管理的嚴格限制77，各國對於
+科學研究成果的遵守也逐年提升78。
+
+       上述改變受到三個重要因素所推動。首先，由於科學研究品質
+與可信度逐年提高，各國對於科學研究的態度開始出現轉變79。第
+二，由於鯨魚數量銳減使得捕鯨產業難以為繼，部分捕鯨國家決定
+退出捕鯨國家的行列80，或降低國內經濟對於捕鯨產業的依賴性81。
+最後，由於公約不禁止非捕鯨國家加入締約，在這個時期亦有許多
+非捕鯨國家加入成為締約國，這樣的設計讓委員會中開始出現反對
+捕鯨的聲音。在限制或開放捕鯨的討論上，雙方陣營勢必需要磨合
+與妥協82。
+
+       在實際作為上，委員會先是成功於1960年代後期下修捕鯨限
+  83
+額 ，由科學研究小組所提出的新型管理程序（New Management
+                     84
+Procedure）也順勢於1974年通過 。此一新型管理程序，限制委員
+會基於科學研究成果所能採取的規範措施，並強化科學研究與捕鯨
+限額分配之間的連結85。具體而言，新型管理程序將鯨魚分為三類，
+
+
+77 Andresen & Skodvin, supra note 4, at 124.
+78 Id. at 125.
+79 HEAZLE, supra note 12, at 49.
+80 Dorsey, supra note 3, at 44.
+81 HEAZLE, supra note 12, at 178-79.
+82 See DORSEY, supra note 11, at 210.
+83 Andresen, supra note 1, at 379.
+84 Andresen & Skodvin, supra note 4, at 120.
+85 Id.
+306                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+並依照個別族群的健康程度給予不同的保育及管理措施86。之後，
+委員會於1976年，捨棄以藍鯨為單位（Blue Whale Unit）決定當年
+度的捕鯨限額的做法，為不同的鯨類設定不同的捕鯨限額87，並為
+各國設定捕鯨限額，以此緩和前揭各國競賽現象88。此外，委員會
+也針對部分鯨類如藍鯨、灰鯨等，禁止各國對其進行商業捕鯨89。
+
+  1970年代另有一項重要的情勢轉變，亦即全球環境保護意識開
+始萌芽90。以美國國內環保團體為首，開始了由下往上的環境保護
+倡議浪潮，並逐漸在各國發揮影響力。由於捕鯨爭議存在已久，且
+鯨魚被發現具有感知力（whale as sentient being91）
+                                    ，許多環保團體
+無法接受將鯨魚認定為可以開發利用的資源。這樣的呼聲引動了全
+球公眾情緒，並在1972年的斯德哥爾摩人類環境會議（1972 UN
+                                                          92
+Conference on the Human Environment in Stockholm）中被突顯 。自
+此，鯨魚儼然成為環保團體的象徵性動物，國際間也首次出現應當
+全面禁止捕鯨的呼聲93。環保團體除了積極進行國際串聯之外，也
+試圖於內國推動改變。舉例而言，於1973年，雖然紐西蘭國內捕鯨
+產業已經凋零，紐西蘭更早在1968年便已退出公約，但國內許多環
+保團體仍要求政府重新加入國際捕鯨委員會，參與反對捕鯨陣營並
+制止捕鯨行為94。此外，許多具國際規模的環保倡議也讓許多原本
+的捕鯨大國如澳洲等，轉為反對捕鯨95。更為具體的例子還有，環
+保團體以協助支付會員費為交換條件，讓塞席爾（Republic of
+
+
+
+86 Andresen, supra note 1, at 386.
+87 Andresen, supra note 10, at 39.
+88 Andresen, supra note 1, at 386.
+89 Id. at 385.
+90 Andresen & Skodvin, supra note 4, at 120.
+91 Dorsey, supra note 3, at 52.
+92 Andresen, supra note 10, at 39.
+93 Id. at 40.
+94 Dorsey, supra note 3, at 51-52.
+95 Id. at 52.
+《國際捕鯨管制公約》的變遷與停滯                              307
+
+
+Seychelles）加入國際捕鯨委員會，並委任反對捕鯨的科學家為國
+家代表出席會議96。種種由環保團體推動的發展，使得國際捕鯨委
+員會中反對捕鯨的聲量日益壯大。
+
+     除了組織層面的影響，在環保倡議的浪潮下，一些國際環境法
+原則也逐漸成形，並滲入《國際捕鯨管制公約》的規範當中。以預
+警原則為例，早期各國對於科學不確定性的解讀，傾向於偏好維持
+產業發展，而在環保意識崛起之後，對於科學不確定性的解讀開始
+轉為偏好環境保護97。此一情況亦適用於國際捕鯨規範機制。假如
+國際社會對人類獵捕鯨魚的行為所帶來的環境風險存有疑慮，則對
+於科學不確定性的解釋應有利於鯨魚保育98。若不確定獵捕行為的
+風險是否符合安全標準，更應當完全停止捕鯨99。在這樣的背景之
+下，於1982年，在國際捕鯨委員會的會議中，支持捕鯨國家立場軟
+化，反對捕鯨國家一派取得勝利，以四分之三的多數通過了《商業
+     （Moratorium on Commercial Whaling）100。
+捕鯨暫止令》
+
+四、1982年迄今：暫止或終結商業捕鯨？
+
+    《國際捕鯨管制公約》發展歷程的第四階段，以1982年通過並
+為期十年的《商業捕鯨暫止令》為起點。《商業捕鯨暫止令》的通
+過一方面展現反對捕鯨國家陣營的勝利，另一方面也顯示第二階段
+的濫捕造成鯨魚數量下跌的危機感，成功於第三階段凝聚了應當
+「暫時」保護鯨魚的共識。但即便如此，
+                 《商業捕鯨暫止令》背後仍
+有三重隱憂。首先，在會議中投下反對票的國家如日本等，在《商
+業捕鯨暫止令》通過後，隨即提出異議101 ，顯見《商業捕鯨暫止
+
+
+96 Id. at 56.
+97 HEAZLE, supra note 12, at 179.
+98 Id.
+99 BODANSKY, supra note 33, at 61.
+100 Hurd, supra note 5, at 104.
+101 DORSEY, supra note 11, at 270.
+308                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+令》並非所有締約國樂見的結果，委員會內部的兩派角力仍在持續
+進行。此外，《商業捕鯨暫止令》也未獲得委員會科學研究小組的
+一致支持102。部分科學家認為，即便是在當時鯨魚數量下跌的情況
+中，也並沒有全面禁止商業捕鯨的必要性。甫於第三階段發展歷程
+中獲得重視的科學研究，再次與規範成果背道而馳。第三，各國同
+意暫時對鯨魚予以保護的共識並不穩固。由於鯨魚數量大減，兩派
+陣營無論是否支持「全面」暫止商業捕鯨，都同意不可放任情況繼
+續惡化而有嚴格管制必要。但兩派所持原因卻相當兩極：一派認為
+鯨魚是特殊生物應予以全面及永久的保護，另一派卻認為鯨魚是寶
+貴的蛋白質資源，應珍惜利用103。
+
+      《商業捕鯨暫止令》內容雖然引發諸多爭議，但在通過之後，
+大多數國家仍然願意在委員會的框架下遵守104。就連大力支持捕鯨
+的國家亦未忽視其內容，而是藉由公約異議制度以及科學研究的例
+外許可制度，持續其捕鯨行為。例如挪威與俄羅斯主張暫止令因其
+曾於委員會中提出異議而對其不適用105，日本原提出異議，但因美
+國介入106而於1987年至1988年間分階段撤回107，改主張以科學研究
+為目的而繼續捕鯨108。此外，由於反對捕鯨的國家在國際捕鯨委員
+會中逐漸成為多數，保護鯨魚的措施在1988年又往前邁進一步。首
+
+
+102 Andresen, supra note 10, at 40.
+103 DORSEY, supra note 11, at 208.
+104 《商業捕鯨暫止令》的通過，雖然顯示捕鯨國家與非捕鯨國家的暫時性妥
+    協，但亦不免在少數捕鯨國家間引發反彈，例如加拿大即於暫止令通過當年
+   （1982年）退出《國際捕鯨管制公約》，加拿大對暫止令的立場可參見：M.C.
+    MERCER, COMMISSIONER, CANADIAN DELEGATION REPORT, 32ND ANNUAL MEETING,
+    INTERNATIONAL WHALING COMMISSION, JULY 21-26, 1980 (Oct. 1980), https://waves-
+    vagues.dfo-mpo.gc.ca/Library/40592066.pdf.
+105 International Convention for the Regulation of Whaling sched., p. 5 (Sept. 2018),
+    Dec. 2, 1946, 161 U.N.T.S. 72.
+106 Friedheim, supra note 54, at 11.
+107 International Convention for the Regulation of Whaling sched., p. 5 (Sept. 2018),
+    Dec. 2, 1946, 161 U.N.T.S. 72.
+108 Hurd, supra note 5, at 105-06.
+《國際捕鯨管制公約》的變遷與停滯                                                                309
+
+
+次於1979年被提出的設立印度洋保護區（Indian Ocean Sanctuary）
+提案，在1988年經委員會通過，從此成為永久保護區109。1994年，
+委員會另決議設立南海保護區（Southern Ocean Sanctuary）110。在
+反對捕鯨國家陣營的大力推動下，公約與委員會「保護鯨魚」的色
+彩漸趨濃重111。
+
+     值得注意的是，1982年的《商業捕鯨暫止令》用意，原為暫時
+的保護措施，原定於1990年前對於鯨魚數量進行一次全盤檢驗112，
+假如瀕危的鯨種數量確實回復，即應由科學家重新審視並建議新的
+捕鯨規範113。換言之，
+           《商業捕鯨暫止令》原本預設了未來或可重啟
+捕鯨的立場。但自1987年起，委員會中反對及支持捕鯨的國家陣營
+各自形成相對穩定且不相上下的勢力，修正公約附件相關內容所需
+的四分之三多數已不易取得。此外，原本因鯨魚數量稀少，兩派立
+場勉強仍有交集，但在科學研究證實鯨魚數量已然顯著回升後114，
+各國需要對是否應重啟商業捕鯨行為進行表態，兩派立場也隨之邁
+向光譜兩端。支持捕鯨國家認為委員會應當遵守公約前言所示精
+神，兼顧環境與經濟，開放進行永續性捕鯨行為，反對捕鯨國家則
+認為鯨魚應當獲得全面性的保護115 。委員會內部談判因此陷入僵
+局。這樣的僵局使得委員會始終無法合意檢視暫止令的成效，每次
+會議都以維持現狀收場116，《商業捕鯨暫止令》因此續行至今117。
+原本針對公約目的解讀的爭議118，也逐漸擴大至如何處理締約國的
+
+
+109 DORSEY, supra note 11, at 280.
+110 Whale Sanctuaries, INTERNATIONAL WHALING COMMISSION, https://iwc.int/sanctuaries
+    (last visited June 20, 2020).
+111 See Andresen & Skodvin, supra note 4, at 124.
+112 Id. at 128.
+113 Hurd, supra note 5, at 105.
+114 Andresen, supra note 1, at 379.
+115 Id.
+116 Hurd, supra note 5, at 105-06.
+117 Id. at 105.
+118 Id. at 103.
+310                                       《中研院法學期刊》第30期（2022年3月）
+
+
+
+保留或異議，以及對於科學研究捕鯨的解釋119。
+
+      除了《商業捕鯨暫止令》因委員會每次會議，都無法修正相關
+附件內容而續行之外，由兩派陣營所提出、試圖打破僵局的提案也
+都以失敗告終。舉例而言，於2000年，委員會曾討論是否應於南太
+平洋（South Pacific）設立保護區120，但因日本長期利用資金援助
+尋找盟友，導致當年度會議中有數個加勒比海國家改變立場，成功
+阻擋該提案通過121 。1997年，愛爾蘭提出提案（亦稱為愛爾蘭提
+案，Irish Proposal）
+                ，希望可以弭平爭議。此一提案相對保守，其內
+容禁止所有遠洋捕鯨（pelagic whaling）及所有鯨魚製品貿易，但
+允許各國以地方性規模有限利用並適度開放近海捕鯨（coastal
+                   122
+whaling），惟此提案同樣未能通過 。另外，1998年由巴西主導的
+南大西洋鯨魚保護區提案（Proposal for a South Atlantic Whale
+Sanctuary），委員會曾多次對其進行討論，但直到最後一次2018年
+的委員會會議中，此一提案仍然無法通過123。
+
+      委員會原本寄望於科學研究小組，希望藉由專業意見的介入來
+打破僵局。科學研究小組也因此於1991年提出修正版管理程序
+（Revised Management Procedure）
+                             。在此研究過程中，科學家確認部
+分鯨魚的數量回升，並在修正版管理程序中開放對於部分鯨類進行
+獵捕124。國際捕鯨委員會雖然於同年通過研究小組提出的修正版管
+理程序，並於1994年通過細部規則，但仍然不願意修改公約附件、
+
+
+
+119 Id. at 104.
+120 Japan Exploits Loophole to Continue Whaling in Antarctic Sanctuary, WWF (Nov.
+    17, 2000), https://wwf.panda.org/wwf_news/?2166/Japan-exploits-loophole-to-
+    continue-whaling-in-Antarctic-Sanctuary.
+121 DORSEY, supra note 11, at 282.
+122 Andresen, supra note 10, at 62; Andresen, supra note 1, at 400.
+123 Proposal for a South Atlantic Whale Sanctuary, INTERNATIONAL WHALING
+    COMMISSION, https://iwc.int/the-south-atlantic-sanctuary (last visited Apr. 6, 2020).
+124 Andresen, supra note 1, at 387.
+《國際捕鯨管制公約》的變遷與停滯                                                           311
+
+
+重新制定新的捕鯨限額125。修正版管理程序的失敗顯示《國際捕鯨
+管制公約》以科學引導規範的期待落空。此一情形除了引發支持捕
+鯨國家的強烈不滿之外，當時科學研究小組的英國籍主席更為此辭
+去職務126。
+
+     為了解決此一問題，於2007年，國際捕鯨委員會參酌三場分別
+由日本、非政府組織，以及拉丁美洲國家所主辦的國際會議意見
+（三場皆為討論國際捕鯨委員會的未來）127。之後，委員會於2007
+年10月召開準備小組（Steering Group）會議，並在取得初步共識之
+後，於2008年年度會議中組成工作小組（Small Working Group）128，
+協助委員會研究國際捕鯨委員會之未來（Future of the IWC）129。
+在各方努力之下，委員會內部作成「改善鯨魚保育處境之合意提
+ （A Proposed Consensus Decision to Improve the Conservation of
+案」
+Whales），並於2010年的委員會會議中提出，惟當次會議未通過此
+份文件130 。委員會於2011年聲明將維護研析委員會未來的計畫進
+程，並同意採取下列行動：(1)鼓勵締約國針對委員會未來發展持續
+進行對話；(2)要求締約國於彼此間提高互信，並儘量於向委員會提
+案之前先行協調；(3)鼓勵締約國，無論其對於鯨魚保育及資源管理
+的立場為何，持續就委員會的工作進行合作131。
+
+     委員會內部無法打破僵局決定未來路徑的情形，在長期積累之
+下，引發兩個問題，亦即引發後來澳洲對日本提起的國際爭訟，以
+及公約無法留住採有不同立場的締約國。如前所述，在《商業捕鯨
+
+
+125 Andresen, supra note 10, at 40-41.
+126 Id.
+127 Chronological Overview, INTERNATIONAL WHALING COMMISSION, https://iwc.int/
+    future2 (last visited Sept. 4, 2020).
+128 Id.
+129 Future of the IWC, INTERNATIONAL WHALING COMMISSION, https://iwc.int/future
+    (last visited Apr. 6, 2020).
+130 Id.
+131 Id.
+312                                      《中研院法學期刊》第30期（2022年3月）
+
+
+
+暫止令》通過之後，日本以科學研究的名義持續獵捕鯨魚。澳洲於
+2010年向國際法院（International Court of Justice）控告日本的南極
+捕鯨研究計畫第二階段（JARPA II）違反《國際捕鯨管制公約》的
+限制，其中並涉及委員會決議的效力，以及科學研究捕鯨的定義判
+斷132。國際法院於2014年作成判決，認為日本的JARPA II計畫在設
+計與實踐上存有落差，捕鯨行為非完全以科學研究為目的，因而判
+決日本敗訴133。
+
+      日本多年來於委員會提案修正附件無果。於2014年，日本提案
+針對是否對鄂霍次克海—西太平洋區域鯨種之小鬚鯨（minke
+whale），開放小型沿岸捕鯨的問題，提請委員會討論，惟未獲委員
+會通過。日本復於2015年委請國際捕鯨委員會發送問卷予所有會員
+國以及經認證的觀察員，請其針對日本提出的小型沿岸捕鯨計畫表
+示意見，惟委員會所收集到的回覆內容皆為反對意見134。於2018年
+                  （Way Forward）提案，
+委員會會議中，日本再次提出「未來發展」
+提請委員會考慮重啟商業捕鯨，但委員會通過的，卻是強化既有保
+育立場的第2018-5號決議（亦稱Florianópolis Declaration）135 。第
+
+
+132 Jean d’Aspremont, The International Court of Justice, the Whales, and the Blurring
+    of the Lines between Sources and Interpretation, 27 EUR. J. INT’L L. 1027, 1032-33
+    (2016).
+133 Whaling in the Antarctic (Australia v. Japan: New Zealand Intervening), Judgment,
+    2014 I.C.J. Rep. 226 (Mar. 31).
+134 Government of Japan’s Consultation on Small-type Coastal Whaling, INTERNATIONAL
+    WHALING COMMISSION, https://iwc.int/stcw (last visited Sept. 4, 2020); 直至2020年
+    11月，國際捕鯨委員會收到歐盟及歐盟會員國共同回覆（歐盟為觀察員）以及
+    布宜諾斯艾利斯集團11國共同回覆，個別國家回覆則有紐西蘭、澳洲、美國、
+    以及以色列之回覆，內容皆為反對，參見：Responses to Japan’s Consultation
+    on Small Type Coastal Whaling, INTERNATIONAL WHALING COMMISSION, https://iwc.
+    int/stcw-responses (last visited Nov. 26, 2020).
+135 第2018-5號決議之提案係由當年度會議主辦國巴西所提出，並於會議中順利通
+    過，投票結果分別為40贊成及27反對；Brazil Meeting Votes to Protect World’s
+    Whale Population, BBC NEWS (Sept. 14, 2018), https://www.bbc.com/news/world-
+    latin-america-45516234; 有關國際捕鯨委員會2018年會議各國投票紀錄，請參
+    見國際捕鯨委員會資料庫：Vote Taken at IWC67, INTERNATIONAL WHALING
+《國際捕鯨管制公約》的變遷與停滯                                                                313
+
+
+2018-5號決議除指出國際捕鯨委員會在21世紀仍負有促進鯨魚數量
+回復的義務，而有必要繼續暫止商業捕鯨外，更指出在針對鯨魚進
+行的科學研究中，獵殺手段並非必要136。日本並於2019年正式退出
+《國際捕鯨管制公約》137。
+
+
+
+參、《國際捕鯨管制公約》規範化歷程與「部分
+  規範內化」現象
+
+     前述《國際捕鯨管制公約》的四階段發展歷程，顯示了需要受
+規範的國際環境議題，並不當然會因為公約締結，而能即時獲得解
+決，事態發展也不當然能夠依照規範文本所設想的方向進行。國際
+公約的動態發展特性，在《國際捕鯨管制公約》中，尤其明顯。
+《國際捕鯨管制公約》雖然在前言與機制設計上，預設了將鯨魚當
+作資源進行有效管理的立場，但這樣的價值觀並不就此鎖定，反而
+在第三階段後期開始，被環境保護與生態保育的立場逐步取代。
+
+     國際規範的生命流程，亦即從事實發展到形成規範，乃至於落
+實後的反饋引發的規範變遷138，涉及跨越國際與國內層級的多元行
+動者互動關係。加之捕鯨議題的複雜性、與科學研究對上國際政治
+情勢的窘境，使得規範文本與機制在投射到現實世界的脈絡後，呈
+現出相較於平面文本與靜態機制，更為活絡且立體的樣貌。在動態
+
+
+    COMMISSION, https://archive.iwc.int/pages/view.php?search=%21collection29772+&
+    k=&modal=&display=list&order_by=title&offset=0&per_page=240&archive=&sort
+    =DESC&restypes=&recentdaylimit=&foredit=&ref=10107 (last visited Sept. 4, 2020).
+136 The Florianópolis Declaration on the Role of the International Whaling Commission
+    in the Conservation and Management of Whales in the 21st Century, Resolution
+    2018-5, 67th meeting of the IWC (2018) [hereinafter Resolution 2018-5].
+137 Membership and Contracting Governments, INTERNATIONAL WHALING COMMISSION,
+    https://iwc.int/members (last visited Apr. 5, 2020).
+138 葉俊榮（註30）         ，頁45。
+314                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+機制下的規範內化效果，亦無法僅藉由規範本位及國家本位的視
+角，予以評析。為此，本文認為有必要先行建構跨國規範化歷程的
+理論框架，再以此界定《國際捕鯨管制公約》的規範內化程度。以
+下分別述明。
+
+一、跨國規範化歷程理論
+
+      跨國規範化歷程理論，源自美國耶魯大學法學院的國際法學
+派。由於耶魯大學法學院位於康乃狄克州新港（New Haven）
+                              ，此一
+學派亦被稱為新港學派（New Haven School，或稱紐哈芬學派）139，
+並由Harold Lasswell教授與Myres McDougal教授所創建140。新港學
+派認為國際法是持續不斷的權威性決策過程141，在探討國家為何服
+從或不服從國際法規範時142 ，應結合現實國際政治脈絡當中143 跨
+國行動者的互動所產生的規範解釋效應144，而非立足於自規範文字
+推演出的虛假世界當中145。
+
+   新 港 學 派 所 描 述 的 法 ， 實 為 一 互 動 過 程 （ process of
+              146
+communication） 。任何進入互動脈絡的行動者的論述，如具備
+對於未來行為的規範性期待，在形塑規範上皆有其意義147。立足於
+
+
+139 陳隆志，當代國際法引論，頁19（1999年）
+                         。陳隆志教授於著作中指出，新港
+    學派（政策科學派）的出現係為彌補傳統研究方法的天生缺陷，其基礎是美
+    國的現實主義法學，但已超越其基本觀點與研究範圍，不僅希望能夠推翻僵
+    硬且不切實際、以法條為中心的傳統研究方法，而且還要提供能解決問題的
+    建設性法學。
+140 Koh, supra note 18, at 501.
+141 陳隆志（註139）        ，頁20。
+142 Harold Hongju Koh, The 1998 Frankel Lecture: Bringing International Law Home,
+    35 HOUS. L. REV. 623, 626 (1998).
+143 Molly Land, Reflections on the New Haven School, 58 N.Y.L. SCH. L. REV. 919, 920
+    (2013-2014).
+144 Koh, supra note 142, at 626.
+145 陳隆志（註139）        ，頁20。
+146 Koh, supra note 18, at 502.
+147 Id.
+《國際捕鯨管制公約》的變遷與停滯                                                                 315
+
+
+此一學派的跨國規範化歷程理論，則從內國法與國際法的多層級的
+視野出發，著重描述國家與非國家行動者（例如國際組織、跨國企
+業、非政府組織及個人等）148，如何在一系列國際及國內的公私場
+域中互動，進而形塑、解釋、實踐國際法，並最終將其內化至內國
+層級當中149。
+
+     此一理論擁有四項特色，分別為：(1)打破區分內國與國際法，
+公部門與私部門的傳統；(2)不僅聚焦於國家，而同時納入非國家行
+動者的角色觀察；(3)理解國際法不斷變遷的動態特性；以及(4)具
+有規範性150。簡言之，跨國規範化歷程理論觀察國際法領域裡不同
+層級與不同機制當中或之間，國家以及非國家行動者彼此間如何藉
+由程序或平臺進行互動151，經由互動行為彼此產出對於規範的理解
+及解釋，再進一步形塑規範內涵。此處所指涉的「形塑」具有多重
+意義。除了經由不同的行動者之間的互動、交流而形成法律規範或
+機制之外152，這些被形塑的法律規範與機制亦將回過頭來引導或影
+響行動者之間的未來互動關係153，從而形成動態迴圈。
+
+     最後，跨國規範化歷程理論觀察動態決策過程的最終目的，是
+為了解釋國家行為，抑或國家同意遵守國際法（state compliance）
+的關鍵因素154。在國際法學者普遍認為國家將會且願意遵守國際法
+的同時155，此一理論所欲進一步探討的，在於解釋行動者互動與規
+
+
+148 Koh, supra note 20, at 327; 跨國規範化歷程理論偏好使用「跨國」
+                                                （transnational）
+    而非「國際」（international），則是因為隨著時代變遷帶動規範匯流的趨勢，
+    內國法與國際法之間以及公私部門之間的關係將變得越來越緊密，因而有必
+    要重新審視以國家間關係為基礎的國際性概念。
+149 Koh, supra note 16, at 183-84.
+150 Id. at 184.
+151 Land, supra note 143, at 923.
+152 Id. at 924.
+153 Koh, supra note 16, at 184.
+154 Sarfaty, supra note 29, at 1809.
+155 Koh, supra note 16, at 183; see also Stacy-Ann Elvy, Theories of State Compliance
+    with International Law: Assessing the African Union’s Ability to Ensure State
+316                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+範間持續進行的動態迴圈，如何引導國家改變行為。跨國規範化歷
+程理論認為，國家之所以願意遵守國際法規範，固然有受規範文本
+拘束的意思，但若再進一步觀察，最根本的原因是因為國家參與了
+跨國規範化歷程而催生出規範內化的現象。這個現象所表彰的意涵
+則在於，國家之所以願意改變行為，並非僅是因為簽署了必須遵守
+的協議，或是接受了國際規範的拘束，而是基於自身對於國際法規
+範的理解與接受，將國際法規範與其內在價值體系相互結合156。而
+在此一歷程中開啟規範內化進程的關鍵，則是行動者間的互動關
+係。正是藉由長期、不間斷的互動關係，國家與非國家行動者將共
+同構築對於國際法規範的理解、形成特定行為模式，進一步發展成
+穩固的規範內涵，再由多元行動者（政府或非政府）帶入內國層
+級，納入內國法制及政治結構當中157 。簡言之，在國際法的脈絡
+下，規範化歷程的思考框架為「互動—解釋—內化」的歷程158
+（如下圖所示）
+      。
+
+
+
+
+    Compliance with the African Charter and Constitutive Act, 41 GA. J. INT’L & COMP.
+    L. 75, 78-82 (2012).
+156 Koh, supra note 142, at 628; see also Shaffer, supra note 28, at 249.
+157 Koh, supra note 16, at 204.
+158 Koh, supra note 20, at 327-28; HATHAWAY & KOH, supra note 20, at 191.
+《國際捕鯨管制公約》的變遷與停滯                                            317
+
+
+
+
+   圖1 跨國規範化歷程中行動者與國際法規範間互動關係
+ 資料來源：作者製圖。
+
+
+      圖1所區分的國家與非國家行動者，是對於參與跨國規範化歷
+ 程的行動者的初步區分。而在結合行動者與互動場域等因素後，學
+ 者指出共有六大重要動因（agent）對於規範化歷程有重要影響。這
+ 些 動 因 分 別 為 ： (1) 跨 國 規 範 的 倡 議 者 （ transnational norm
+ entrepreneurs ）； (2) 內 國 政 府 規 範 的 提 供 者 （ governmental norm
+ sponsors）
+         ；(3)跨國議題網絡（transnational issue networks）
+                                                ；(4)解釋
+ 規範的社群與宣示規範形成的平臺（interpretive communities and
+ law-declaring fora ）； (5) 推 動 國 家 遵 守 國 際 規 範 的 官 僚 體 制
+（ bureaucratic compliance procedures ）； 以 及 (6) 議 題 連 結 （ issue
+             159
+ linkages）      。
+
+      除此之外，規範化歷程理論對於多層級規範的理解，亦在於不
+ 同層級之間的規範流動與相互影響。因此前揭規範形成、變遷與內
+ 化的現象，不僅反映出國際規範由國際層級往下滲透進入內國層級
+
+
+ 159 Koh, supra note 142, at 647-55.
+318                                    《中研院法學期刊》第30期（2022年3月）
+
+
+
+的現象，亦不排除國際規範在內化過程中與國內規範產生互動，從
+而往上反饋至國際層級，達到修正國際規範的效果160。在觀察國際
+規範內化現象時，可從三個途徑進行觀察，亦即社會內化（因規範
+具有高度正當性而廣泛的被社會大眾接受及遵守）；政治內化（國
+際規範以國內政策形式出現）；以及法律內化（國際規範融入國內
+法制）161。另有論者補充，規範內化現象亦可以從三個面向觀察，
+亦即是否產生國內法與實踐的變遷、是否造成政府機關的權限與組
+織變動，以及是否造成專業性與規範框架的改變162。
+
+二、公約規範變遷、停滯以及部分規範內化現象
+
+      《國際捕鯨管制公約》的規範於1982年前展現了從寬鬆到嚴格
+的發展趨勢。但到1982年後，兩派陣營間的互動僵局開始浮現。在
+這樣的發展歷程中，公約與委員會作為對話機構（conversation
+agency）或互動平臺，在過去確實成功凝聚持有不同利益的國家與
+非國家行動者163，使其有機會展開互動，並對於規範作出解釋或闡
+釋，從而推動規範變遷與發展。然而，在談判陷入僵局，兩派陣營
+無法進行有意義的互動之後，委員會既無法應保育派期待永久終止
+商業捕鯨，也無法依循捕鯨派與科學研究的建議重啟捕鯨行動。這
+也導致規範變遷或內化的進程陷入停滯。
+
+      如前文所述，國際規範可經由行動者之間的互動關係與對規範
+的持續論述與解釋，透過社會內化、政治內化與法律內化等三個途
+徑，逐漸滲入內國層級並與內國的價值相互融合。以下本文將先探
+討《國際捕鯨管制公約》在發展歷程中如何經由前揭三個途徑將規
+範價值帶入會員國，並從國際層級的觀點往下觀察規範的內化成果。
+
+
+
+160 Chander, supra note 28, at 1229.
+161 Koh, supra note 142, at 642.
+162 Shaffer, supra note 28, at 242.
+163 Dorsey, supra note 3, at 44.
+《國際捕鯨管制公約》的變遷與停滯                                                                319
+
+
+     首先，就社會內化現象而言，於1960年代後期至1980年代，國
+際捕鯨委員會開始採用嚴格限制的規範使得全球捕鯨數量下降164，
+其自身亦成為環保團體凝聚共識並提高聲量的平臺。雖然全球環保
+意識抬頭、鯨魚製品逐漸被其他產品所取代等因素，都使得捕鯨產
+業客觀上難以存續，但《國際捕鯨管制公約》與委員會的存在，亦
+與這樣的時代脈絡相互配合，從而引動、促進、加速許多國家脫離
+捕鯨行為的進程。另外，就法律及政策內化現象而言，1982年的
+《商業捕鯨暫止令》的通過，促使許多捕鯨國家直接放棄捕鯨產
+業，或在國內限制捕鯨執照的核發。商業捕鯨國家從12個降至個位
+數即是顯例165。在此之後，縱然有些捕鯨國家仍然持續捕鯨，例如
+在《商業捕鯨暫止令》通過之後，挪威利用公約異議機制進行商業
+捕鯨，日本及冰島則以科學研究捕鯨的名義持續捕鯨166。但就這一
+點而言，國家採取的行為也仍在公約的規範框架當中，顯示《國際
+捕鯨管制公約》的規範內涵，分別從國家政策與立法的不同路徑中
+滲透到內國層級。
+
+     以日本為例，其於2014至2015年間試圖透過國際捕鯨委員會此
+一平臺，提案開放地區性的小型沿岸捕鯨，開啟會員國之間的討
+論167。在跨國規範化歷程的脈絡下，此一行為最為直接的作用便是
+開啟「互動」，而日本所提出的帶有規範適用價值的問卷內容（亦
+即邀請會員國對其開放小型沿岸捕鯨之提案作出回應168）以及各國
+政府的回覆意見，則是對於規範所做的「解釋」，至於提案與問卷
+結果則進一步帶動規範內化的效用。以委員會未通過該提案而言，
+這樣的群體表態即會鞏固「不同意補鯨」或「支持繼續暫停捕鯨」
+
+164 Andresen, supra note 1, at 388.
+165 Id.
+166 Andresen & Skodvin, supra note 4, at 128.
+167 Government of Japan’s Consultation on Small-type Coastal Whaling, supra note 134.
+168 Japan’s Proposal on Small-type Coastal Whaling (Questionnaire), INTERNATIONAL
+    WHALING COMMISSION (Jan. 21, 2015), https://iwc.int/private/downloads/qec7Cvav
+    XIM9esUZ16FRpQ/Mr_Morishita_letter_on_small_type_coastal_whaling.pdf.
+320                                《中研院法學期刊》第30期（2022年3月）
+
+
+
+的立場，從國際脈絡中更為根深蒂固的植入各國政府的內國政治脈
+絡中。除此之外，2014年日本與澳洲在國際法院所進行的訴訟案
+件，同樣開啟了國家與國家在國際法層級的互動關係，雙方並於法
+庭前彼此競爭，請求國際司法機制對爭執的規範進行解釋。而國家
+對於該判決的服從，無論表現在內國修法或政策更迭上，則都顯示
+其接受並內化規範解釋成果至內國層級的態度。
+
+      在我們理解國際捕鯨規範如何透過三個途徑內化至內國層級
+後，須進一步觀察者則是國際規範的內化態勢是否符合理論的期
+待。跨國規範化歷程理論所關注的規範內化現象，重點不僅在於解
+釋哪些規範成功內化至內國層級，並與國家的內部價值觀相互結
+合。跨國規範化歷程理論所重視的「不間斷」或「持續性」的互動
+關係，更顯示此一理論除了著眼於內化成果，更著重於動態互動影
+響規範內涵變遷。因此，本文將以規範內化程度（國內國際價值觀
+是否趨於融合）與互動關係存續（行動者間互動是否持續進行）為
+標準，對《國際捕鯨管制公約》的內化成果進行探討。本文並主
+張，
+ 《國際捕鯨管制公約》的內化進程顯示了「部分內化」現象。
+
+      從規範內化程度觀之，本文認為《國際捕鯨管制公約》僅展現
+出部分內化現象的原因在於，在該時代背景中，國家行為之所以改
+變，背後原因亦有不涉及行動者互動關係的客觀因素，亦即出現代
+替鯨魚製品的其他蛋白質來源及生活用品，導致人類社會對於鯨魚
+製品的需求顯著下降的情形。換言之，國家行為之所以逐年改變，
+並不完全是因為國際規範已經融入內國價值秩序當中。除此之外，
+少數捕鯨國家雖然引用異議機制與科學研究捕鯨的例外制度，持續
+進行捕鯨，但仍有脫離國際規範的情形。例如日本當時雖聲稱其願
+意遵守《國際捕鯨管制公約》與其附件，僅以科學研究為目的獵捕
+小鬚鯨，但卻仍有其他種類的鯨魚肉流入日本市場169，顯見其所聲
+
+
+169 Dorsey, supra note 3, at 57.
+《國際捕鯨管制公約》的變遷與停滯                      321
+
+
+稱的規範遵守與實際行為出現落差。在第2018-5號決議出現定調了
+公約與委員會的保育態度之前，雖然委員會的態度以及對於公約的
+闡釋，已逐漸往保育方向傾斜，但這樣的立場變遷未能融入日本內
+國秩序的價值當中。
+
+     若從互動關係存續觀察，則有一個重要的前提問題，必須先行
+釐清。如前文所述，跨國規範化歷程本身即處在持續滾動前進的態
+勢，無論從哪一個時間點切入觀察，都只能看出部分內化的現象。
+簡言之，由於國際規範變遷持續進行，內化的歷程自然無法停止，
+本文為何認定《國際捕鯨管制公約》只有「部分內化」，而非正
+「邁向完全內化」？對此，本文認為，從現階段的時間點切入，並
+能將《國際捕鯨管制公約》的內化成果評價為「部分內化」的關鍵
+原因，正是在於《國際捕鯨管制公約》在第四階段的發展歷程中陷
+入談判僵局，並呈現規範化停滯的現象。
+
+     在陷入談判僵局之前，
+              《國際捕鯨管制公約》與委員會儘管立場
+浮動，但確實展現出促進互動的功能。委員會的運作模式讓多元行
+動者得以於其中尋找同盟（無論是傾向資源管理或是物種保育）
+                           ，從
+而努力改變其他國家的行為。但在兩派陣營之間出現談判僵局後，
+委員會無法解決兩派立場分歧日益嚴重的問題，規範的動態發展也
+隨之停擺。這不但減緩國際法規範內化的進程，也使得既有規範內
+化的深度及廣度長期滯留在單一階段170。舉例而言，科學研究小組
+所提出的修正版管理程序，雖然在1994年經委員會通過，但卻無法
+進一步反映在公約的附件修改上。這一點即顯示規範未能內化的問
+題，亦即締約國在投票時已不認為遵從科學研究成果修正附件為其
+國際法義務。而委員會通過管理程序又不修改附件的做法，也難謂
+能對規範的解釋帶來任何進展。從更直觀的角度觀察，跨國規範化
+
+
+
+170 See Koh, supra note 20, at 327.
+322                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+歷程的核心既然在於行動者的「持續」參與171，則日本2019年退出委
+員會的決定，也反映出公約規範對於捕鯨國家的影響力顯著降低172。
+
+
+
+肆、影響公約規範變遷、停滯及內化進程的關鍵
+  因素
+
+      本文將於以下探討影響《國際捕鯨管制公約》規範化歷程變
+遷、停滯與內化進程的三項關鍵因素，亦即行動者、外部機制與科
+學研究。依據前揭跨國規範化歷程理論中提到的六大動因173，本文
+認為在《國際捕鯨管制公約》規範化歷程中，這六大動因都發揮了
+關鍵作用，並在這三項關鍵因素中逐一體現。
+
+      第一項關鍵因素—非國家行動者角色變遷，即涉及六大動因
+中的跨國規範倡議者、政府規範提供者、官僚體制與跨國議題網路
+等四項動因。此處討論聚焦於「行動者」，其中包含國家與非國家
+行動者的功能消長，以及非國家行動者後來居上的趨勢。有關非國
+家行動者的討論，除了體現跨國規範倡議者的角色與策略之外，非
+國家行動者與國家間的互動，亦表現出其如何與政府規範提供者及
+官僚體制有效建立連結，執行策略，並協力建構出跨國議題網絡。
+
+      第二項關鍵因素—其他公約以及相關機制的影響，反映出的
+則是六大動因中的規範形成平臺以及議題連結等兩項動因。此處所
+
+
+
+171 Koh, supra note 142, at 635.
+172 日本外交部於2019年11月13日發表日本對於國際捕鯨議題的態度，並指出在國
+    際捕鯨委員會中，於不同立場的國家間找出共存的方法，幾乎已不可能實現；
+    See Japan and the Management of Whales, MINISTRY OF FOREIGN AFFAIRS OF JAPAN
+    (Nov. 13, 2019), https://www.mofa.go.jp/policy/economy/fishery/whales/japan.html.
+173 參見前文「參、一」說明，六大動因包括：跨國規範倡議者、政府規範提供
+    者、跨國議題網絡、解釋規範的社群與規範形成的平臺、推動國家遵守國際
+    規範的官僚體制，以及議題連結。
+《國際捕鯨管制公約》的變遷與停滯                                                                     323
+
+
+欲探討者為，行動者們在推動國際規範形成的平臺（於國際場域，
+通常是其他公約體系或規範機制）上，如何進行規範闡釋的互動關
+係及其成效174。除此之外，這項關鍵因素也展現不同議題之間連結
+的重要性，亦即不同領域間的規範連結與對話，亦能對規範的解釋
+與內化進程有所助益。
+
+      最後一項關鍵因素—科學研究的功能，雖為國際環境規範機
+制之特色，但亦貼近六大動因中的解釋規範的社群，以及跨國議題
+網路等兩大動因。此處須探討者在於，科學社群如何成為直接或間
+接影響政策形成的知識社群（epistemic community）175，進而成為
+國家與非國家行動者的著力點；其又如何與其他行動者共同建構跨
+國議題網絡。由於《國際捕鯨管制公約》對科學研究小組具有特殊
+期待，亦即要求實質捕鯨規範的修正應以科學研究成果為基礎，此
+處亦可直接探討科學研究小組是否確實回應公約期待，發揮促進規
+範變遷的倡議功能。
+
+一、從制衡到主導的行動者：非國家行動者的角色改變
+
+      國際環境法中的積極行動者往往不限於國家政府。內國量能在
+國際環境法上的重要性逐漸累積，甚或展現相互匯流的趨勢。國際
+規範形成過程中的參與者，除了主權國家之外，常常也及於國家內
+部的權力機關176，甚或是非政府組織。而作為最早發展的國際環境
+規範機制，《國際捕鯨管制公約》及國際捕鯨委員會的組成很早就
+展現這樣的特色。
+
+
+
+
+174 Koh, supra note 142, at 649-50.
+175 Id. at 649; see also M. J. Peterson, Whalers, Cetologists, Environmentalists, and the
+    International Management of Whaling, 46 INT’L ORG. 147, 148-49 (1992).
+176 有關內國環境法與國際環境法的匯流，參見：張文貞，環境影響評估作為國際
+    法上的義務：國際法院判決評析，台灣國際法季刊，9卷1期，頁43-45（2012
+    年）
+     。
+324                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+      以國家而言，在國際捕鯨委員會的歷次會議中，處處可見反對
+捕鯨與支持捕鯨國家的角力。1980年代前，支持捕鯨的締約國數量
+較有優勢177，1980年代後，反對捕鯨的締約國數量則明顯領先。這
+樣的委員會組成比例的改變，也反映在《國際捕鯨管制公約》的規
+範發展歷程當中，亦即從寬鬆的資源管理與利用逐漸轉為嚴格的物
+種保護。
+
+      在委員會中支持捕鯨的國家過去有挪威、日本等作為代表，而
+在反對捕鯨的國家當中，美國則為最有力的倡議者178。國家與國家
+間的角力裡並不乏收買或施壓於對方陣營等政治手段。例如美國便
+曾威脅將採取經濟制裁179，日本透過提供援助基金邀請非洲國家加
+入締約並支持捕鯨180，而挪威也曾資助美國國內團體於美國國會進
+行遊說等等181。
+
+      在國際規範的場域裡，雖然國家仍然是重要的行動者。但其立
+場與行動的背後，其實亦與非國家行動者有相當重要的連結182。舉
+例而言，非政府組織或環保團體在1970年代發現若要改變規範，其
+中一條重要途徑是改變委員會內部的投票架構183。換言之，必須鼓
+勵更多反對捕鯨的國家進入委員會。在環保團體的串聯之下，於過
+去已經退出捕鯨國家行列同時退出《國際捕鯨管制公約》的德國，
+重新加入締約並加入反對捕鯨的陣營，紐西蘭亦是如此；此外，亦
+有環保團體以支付會員費為交換條件，讓塞席爾得以加入締約，並
+委任反對捕鯨的科學家為國家代表出席委員會會議184。這些努力，
+
+
+
+177 Andresen & Skodvin, supra note 4, at 124.
+178 BODANSKY, supra note 33, at 263.
+179 Andresen & Skodvin, supra note 4, at 137.
+180 Dorsey, supra note 3, at 56-57.
+181 Andresen & Skodvin, supra note 4, at 143.
+182 Dorsey, supra note 3, at 45.
+183 Id. at 56.
+184 Id.
+《國際捕鯨管制公約》的變遷與停滯                                325
+
+
+成功讓委員會在1982年達到通過決議的四分之三多數門檻，並通過
+《商業捕鯨暫止令》
+        。而在此之後，締約國數量並無太大變動，而反
+對捕鯨國家亦持續在締約國中尋找盟友，雖然《商業捕鯨暫止令》
+原定期限為十年，但因委員會無法再次取得修改公約附件相關內容
+所需多數，其效果而能延續至今。
+
+     值得注意的是，非國家行動者即便在不直接與國家合作的情況
+下，亦能發揮重要的作用。就企業而言，捕鯨產業的利益常與捕鯨
+國家的利益相符，其於早期（1960年代）主導了國際捕鯨委員會的
+重要辯論，除了藉由國家代表團的團員身分，亦以觀察員的身分出
+席會議185。非政府組織或環保團體發揮的功能亦不遜色，其所能推
+動的效果並不限於規範形成，更進一步深入到規範的內化與落實之
+上186。許多非政府組織長期積極以觀察員的身分參與委員會會議。
+這樣的趨勢在1980年代全球環保意識崛起時尤其明顯，當時參與國
+際捕鯨委員會的非政府組織，在1972年仍不足10個，於1982年，固
+定出席會議的非政府組織已增至57個187，而到了2000年前後，固定
+出席委員會會議的非政府組織已有90多個188。此外，非政府組織亦
+能直接對國家施加壓力。舉例而言，綠色和平（Greenpeace）曾號
+召抵制挪威漁獲189，而在2011年，海洋守護者協會（Sea Shepherd
+Conservation Society）亦曾於海上與日本捕鯨船發生直接衝突，導
+致日本的捕鯨船隊中斷當年的捕鯨計畫190。
+
+     國家與非國家行動者做為行動者之所以能發揮功能，關鍵在於
+行動者是否積極互動。縱使行動者積極出席並參與會議，一旦會議
+陷入僵局無法推進，行動者的互動及討論密度必然受影響，而將影
+
+185 Andresen & Skodvin, supra note 4, at 121.
+186 Moffa, supra note 41, at 201.
+187 Andresen & Skodvin, supra note 4, at 127.
+188 Friedheim, supra note 54, at 10.
+189 Andresen & Skodvin, supra note 4, at 137.
+190 Moffa, supra note 41, at 201.
+326                                   《中研院法學期刊》第30期（2022年3月）
+
+
+
+響規範歷程的推行。就《國際捕鯨管制公約》以及委員會的情形而
+言，自1982年《商業捕鯨暫止令》通過直至部分鯨魚數量回升，委
+員會中反對及支持捕鯨的國家立場，由於逐漸失去生態危機做為共
+通點，而逐漸邁向光譜兩端。反對捕鯨的國家背負著環保團體的期
+許，其所在乎的是國內外保護鯨魚的倡議聲量與環保意識，支持捕
+鯨的國家更在乎的則是，部分鯨類數量已回復到即便重啟商業捕鯨
+也能永續發展的程度。兩派之間既無交集，也造成公約與委員會數
+十年來陷入停滯的局面。
+
+      數十年來，《國際捕鯨管制公約》與委員會雖然未曾有過公約
+文本及組織的大變動，但組成委員會的國家比例已與早期大不相
+同191，此外，參與的非國家行動者數量，以及其所產生的互動模式
+也不同。非國家行動者如環保團體所發揮的功能不容忽視。於早期
+捕鯨國家仍佔委員會多數時，非國家行動者藉由國內量能的累積與
+動員積極改變國家立場，制衡捕鯨國家的行為，而在反對捕鯨國家
+逐漸成為委員會多數時，這些非國家行動者更隱隱展現出引導規範
+發展的力道。如今委員會內部的談判僵局與暫止於保護主義的立
+場，亦與非國家行動者的影響有重要連結。
+
+二、從外而內的強化力量：其他國際公約及相關機制的影響
+
+      《國際捕鯨管制公約》的規範變遷除了受到行動者積極互動的
+影響之外，這些行動者亦常藉助外部機制如其他國際公約的助力，
+於機制內推動論述的發展或者鞏固立場。這一點可以從以下兩個現
+象分別觀察：(1)公約與其他國際環境規範機制的連結，以及(2)環
+保團體過去為了扭轉對於鯨魚的既定印象所提諸多倡議。
+
+      首先，從歷史的角度觀察，可看出《國際捕鯨管制公約》的發
+展歷程中，不乏與外部機制的連結。舉例而言，早期當許多國家對
+
+
+191 Andresen, supra note 10, at 60.
+《國際捕鯨管制公約》的變遷與停滯                                   327
+
+
+於公約與委員會逐漸失去信心時，美國外交官曾呼籲，《國際捕鯨
+管制公約》與委員會不僅與鯨魚有關，也與人類與海洋資源的互動
+共存關係有關，委員會的成功是對於海洋全球行政及管理的重要貢
+獻192。可見美國曾嘗試藉由連結範圍更廣泛的海洋法規範體系，強
+化公約與委員會的存在價值。此外，1982年的《商業捕鯨暫止令》
+得以順利通過，亦仰賴美國於1972年斯德哥爾摩人類環境會議中提
+案193 ，並通過記載著相同主張的決議194 。此一於外部機制通過的
+決議，雖然沒有拘束國際捕鯨委員會及締約國的效果195，但卻成功
+將商業捕鯨是否應當暫停的議題，從封閉的委員會內部帶到國際平
+臺上，更達到在國際捕鯨委員會召開正式會議前國家於場外先行結
+盟的效果。
+
+     除此之外，國際捕鯨委員會亦邀請許多國際組織以科學家或顧
+問的身分出席會議。例如1994年通過的修正版管理程序中便有聯合
+國環境規劃署（United Nations Environment Programme, UNEP）及
+聯合國糧食及農業組織（Food and Agriculture Organization of the
+United Nations, FAO）以跨政府組織的身分，從科學家的角度提供
+專業意見196。此外，於2007年，國際捕鯨委員會商討未來發展策略
+之際，亦將委員會外的三場（委員會）場外會議（這三場場外會議
+分別由日本、非政府組織與拉丁美洲國家所主辦）的結論納入討
+論197，顯見委員會在組織存續及發展的策略上，也持續與外部機制
+保持連結。
+
+     另在規範的實質內容上，《國際捕鯨管制公約》亦與《保護遷
+         （Convention on the Conservation of Migratory
+徙野生動物物種公約》
+
+192 Dorsey, supra note 3, at 50.
+193 Id. at 53.
+194 HEAZLE, supra note 12, at 179.
+195 Andresen & Skodvin, supra note 4, at 127-28.
+196 Andresen, supra note 10, at 47.
+197 Chronological Overview, supra note 127.
+328                                        《中研院法學期刊》第30期（2022年3月）
+
+
+
+Species of Wild Animals）有規範上的連結。許多鯨類都被列入《保
+護遷徙野生動物物種公約》的附件I或附件II而受到保護198，而針對
+附件II的物種的保護措施，
+            《保護遷徙野生動物物種公約》尊重相關
+的多邊條約，也因此，仍應回歸《國際捕鯨管制公約》的規定199。
+由此可見，
+    《保護遷徙野生動物物種公約》
+                 ，亦以外部機制的角度強
+化了《國際捕鯨管制公約》規範與措施。值得一提的是，並非所有
+外部機制都與委員會目前所採立場相符，例如聯合國糧食及農業組
+織，便認為部分鯨類的數量已經回復至可以開放利用的程度，因此
+建議自保護名單中移除200。
+
+       另一方面，環保團體於過去為了扭轉人類社會對於鯨魚的既定
+印象，更是多方引用不同體系的見解。以其中幾項重要論述為例，
+環保團體大力主張應從生命及藝術的角度欣賞鯨魚的價值，並且應
+視鯨魚為神聖的海洋哺乳動物201。此外，亦有較為極端的主張認為
+鯨魚作為具有智慧與思想的物種，其應有生命權202，或至少對其使
+用魚叉過於殘酷203。
+
+      《國際捕鯨管制公約》與外部機制的連結，即便在委員會內部
+陷入談判僵局之後，也仍然明顯。於1991年到2001年之間，基於支
+持捕鯨的國家提案，也因鯨魚數量處於穩定回復的趨勢，《保護遷
+徙野生動物物種公約》多數締約國投票支持將北大西洋小鬚鯨
+（North Atlantic minke whale）自保護名單中除名204，惟因投票國家
+未達到門檻而未能通過決議。此外，在日本退出《國際捕鯨管制公
+
+
+
+198 DORSEY, supra note 11, at 240.
+199 Wold, supra note 15, at 126; Convention on the Conservation of Migratory Species
+      of Wild Animals art. V(4)(f), June 23, 1979, 1651 U.N.T.S. 333.
+200 DORSEY, supra note 11, at 240.
+201 Dorsey, supra note 3, at 44.
+202 BODANSKY, supra note 33, at 191.
+203 Dorsey, supra note 3, at 54.
+204 Andresen & Skodvin, supra note 4, at 141.
+《國際捕鯨管制公約》的變遷與停滯                                                                  329
+
+
+約》之後，倘若日後日本有意於公海或專屬經濟海域捕鯨205，依據
+         （United Nations Convention on the Law of the
+《聯合國海洋法公約》
+Sea）規定，就高度洄游物種與海洋哺乳類的管理與保護，國家應
+與相應的國際組織合作206。如此亦有望開啟日本與國際捕鯨委員會
+的另一波互動關係。此外，在2018年委員會會議中通過的第2018-5
+號決議中，委員會亦要求秘書處持續與相關國際公約與組織深化合
+作207。
+
+     由此可見，其他國際公約與相關機制，對於《國際捕鯨管制公
+約》的規範發展以及委員會的運作，除了如同聯合國糧食及農業組
+織一般提供專業意見支援之外，不同體系間的規範連結與互動，亦
+對《國際捕鯨管制公約》的規範性與實際落實，達到鞏固，甚或是
+強化的效果。而在個別國家脫離或暫緩規範內化的進程時，
+                         《國際捕
+鯨管制公約》與外部機制的連動關係，亦能從外而內的發揮影響力。
+
+三、從強轉弱的變遷動力：科學研究的工具化
+
+     如前所述，科學研究在《國際捕鯨管制公約》及委員會中居於
+重要地位。但相較於一開始公約設計所期望的以科學主導決策，於
+更多時候，科學研究似乎只發揮了政策工具的功能。在捕鯨國家主
+導規範發展的階段，科學研究的不確定性即遭到政治解讀，認為研
+究成果不足以證明危險存在，而應繼續保有寬鬆的捕鯨限額。唯有
+在鯨魚數量顯著下跌的時候，科學研究發揮了加速規範形成與轉變
+的功能。但隨著環保意識的崛起，科學研究的地位再度弱化，這樣
+
+
+
+205 在退出國際捕鯨委員會後，日本隨即於2019年7月1日公布重啟商業捕鯨的計
+    畫，並表示將於其領海以及專屬經濟海域實施。See Resumption of Commercial
+    Whaling, FISHERIES AGENCY OF JAPAN (July 1, 2019), https://www.jfa.maff.go.jp/e/
+    whale/attach/pdf/index-5.pdf.
+206 Wold, supra note 15, at 108; United Nations Convention on the Law of the Sea arts.
+    64, 65 & 120, Dec. 10, 1982, 1833 U.N.T,S, 397.
+207 Resolution 2018-5, supra note 136.
+330                                     《中研院法學期刊》第30期（2022年3月）
+
+
+
+的現象雖然鞏固了反對捕鯨陣營的論述與立場，但卻削弱科學研究
+的影響力，同時挑戰公約及委員會的威信，從而失去捕鯨國家的支
+持。日本退出公約機制即為顯例。本文認為，《國際捕鯨管制公
+約》的規範化歷程陷入停滯，與科學研究的工具化具有重要關係。
+
+      國際捕鯨委員會的科學研究小組雖然獨立運作208，但自成立以
+來，科學研究小組提出的研究成果常淪為政策工具209，而無法體現
+公約的期待，成為主導決策的基石。在國際捕鯨委員會成立初期，
+由於當時科學研究技術未臻成熟，捕鯨國家多半忽略科學研究小組
+指出的過度獵捕現象210。科學不確定性也成為捕鯨國家拒絕採取限
+制措施的藉口。而到了1970年代，反對捕鯨的國家勢力崛起，科學
+不確定性則成為兩邊陣營都慣常引用的依據，並基於自身的內國利
+益提出不同解讀。例如支持捕鯨的國家引用科學不確定性主張其參
+考價值有限，反對捕鯨的國家則大力支持科學研究，並表示正因損
+害無法確定，而應即早採取措施211。由於無論從經濟或環境的角度
+出發，各國都不得不面對當時鯨魚數量銳減的危機，科學研究小組
+當時提出的縮減捕鯨限額的建議，得以順暢轉化為國際規範（由委
+員會修正公約附件）。捕鯨國家亦大多願意配合。此一時期的國際
+捕鯨規範因科學研究成果的加持，從寬鬆規範轉為嚴格限縮，並進
+一步內化至國家行為乃至於內國規範，反映了規範化歷程確實受科
+學研究的影響與推進。
+
+      但在1982年《商業捕鯨暫止令》通過前，科學家與反對捕鯨的
+國家的立場開始分裂。反對捕鯨的國家與環保團體堅持提出適用於
+所有鯨類的《商業捕鯨暫止令》提案，委員會中大部分科學家則對
+
+
+
+208 Andresen & Skodvin, supra note 4, at 122.
+209 HEAZLE, supra note 12, at 188.
+210 Andresen & Skodvin, supra note 4, at 125.
+211 HEAZLE, supra note 12, at 184.
+《國際捕鯨管制公約》的變遷與停滯                                331
+
+
+提案持否定見解，認為此一措施並無必要性212，也無科學根據213。
+而在1982年《商業捕鯨暫止令》通過之後，由於鯨魚數量逐漸回
+復，科學研究指出北大西洋小鬚鯨的數量已回復至可重啟利用的程
+度。委員會中各國對於科學研究成果的態度出現大幅反轉。原本對
+於科學研究成果不屑一顧的捕鯨國家，開始資助科學家研究鯨魚數
+量回升的數據，原先大力支持科學研究的環保團體及反對捕鯨國
+家，則開始選擇忽視此一研究成果，認為這樣的數據並不足信，或
+從道德及政治的角度繼續反對捕鯨214。
+
+     雖然公約初衷是要利用科學研究緩和國家間的對立215，但在科
+學研究出現工具化（受政治解讀）的傾向後，其地位弱化（受環保
+意識取代）的結果似乎無法避免。捕鯨派寄望於科學研究能夠回歸
+規範形成的基礎216，保育派則認為捕鯨議題是對錯問題，試圖擺脫
+科學研究的客觀評價，也迴避部分鯨種的數量已不存在威脅的挑
+戰。國家的立場變遷除了進一步削弱科學研究的倡議、形成規範形
+成的功能，所反映出的根本問題，在於國家對於政治與科學的分界
+認知模糊的問題217。而在失去了公約期待的客觀制高點之後，科學
+研究的工具化與地位弱化，不僅造成國際捕鯨委員會內部論述失
+衡，更挑戰機制的威信，同時也令委員會失去修正規範的基礎。在
+這樣的情況之下，各國對於公約解釋及規範性的想像同樣面臨弱化
+的威脅。在日本退出公約之後，《國際捕鯨管制公約》及委員會，
+未來要如何留住持有不同立場的締約國，將成為重要挑戰。
+
+     綜上所述，本文提出三個在《國際捕鯨管制公約》發展歷程中
+發揮重要影響的關鍵因素，亦即非國家行動者的角色轉變、《國際
+
+212 Andresen, supra note 10, at 40.
+213 Andresen & Skodvin, supra note 4, at 123.
+214 Id.
+215 Dorsey, supra note 3, at 57.
+216 Andresen & Skodvin, supra note 4, at 144.
+217 Andresen, supra note 1, at 386.
+332               《中研院法學期刊》第30期（2022年3月）
+
+
+
+捕鯨管制公約》與其他國際公約機制的互動，以及科學研究的工具
+化。其中，非國家行動者的角色逐漸強化，從原本的制衡轉為主
+導，間接導致後期兩派國家立場的極端對立並形成僵局。至於《國
+際捕鯨管制公約》與外部機制的連結展現強化規範的效果，則有助
+於規範內化進程。最後，科學研究雖然曾一度發揮促進規範發展與
+內化的效用，但在淪為政策工具之後，其地位逐漸被環保意識所取
+代，進而導致委員會內部論述失衡與停滯。地位弱化的科學研究，
+除了無法如同公約所期待的一般解決爭議之外，更深化了談判僵局。
+
+
+
+伍、結論
+
+      《國際捕鯨管制公約》歷經數十年動盪起伏，呈現出複雜的發
+展歷程。本文將《國際捕鯨管制公約》的發展歷程分為四階段，亦
+即議題浮現與公約締結的階段（1920年代初期至1946年）、捕鯨與
+管制需求消長階段（1946年至1960年代中期）、環境保護與生態保
+育意識滲入規範的階段（1960年代後期至1982年），以及暫止或終
+結商業捕鯨的階段（1982年迄今）。在觀察前揭規範發展歷程後，
+本文認為《國際捕鯨管制公約》在前期展現動態變遷的特性，到了
+第四階段則隨著委員會內部談判陷入僵局而邁入停滯期，行動者之
+間的互動關係未能在規範解釋上帶來明顯進展，國際規範的內化進
+程也隨之趨緩。從規範內化成果與互動關係存續觀之，《國際捕鯨
+管制公約》展現出部分規範內化的現象。
+
+      對此，本文也提出三個影響《國際捕鯨管制公約》規範化歷程
+變遷、停滯與內化進程的重要因素，亦即扮演主導角色的非國家行
+動者、從外部強化公約及委員會量能的外部公約與相關機制，以及
+對於論述發展進程舉足輕重的科學研究的功能性。這三個因素皆反
+映出跨國規範化歷程理論的重要特色。非國家行動者在機制中扮演
+《國際捕鯨管制公約》的變遷與停滯             333
+
+
+的主導角色，顯然脫離了傳統國際法研究聚焦於國家及規範文本的
+框架，展現國家以外的行動者所能發揮的影響力。而外部公約體系
+與機制以及科學研究，更顯現出國家與規範以外的獨立因素，對於
+國際法規範的發展以及國家遵守的樣態具有關鍵性的地位。
+
+  經歷風風雨雨的《國際捕鯨管制公約》在日本退出後面臨更新
+一波的質疑。惟國際捕鯨委員會維護公約存續的現有策略，仍聚焦
+於締約國之間的互信與合作，但未見具體成效。若從規範化歷程理
+論的角度觀之，維護公約存續意義的重大工程，應聚焦於如何重啟
+不限於國家的行動者間互動，並活絡化趨緩的規範內化進程。本文
+認為，有望和緩溝通僵局的關鍵，除了國家之外，亦在於佔據主導
+地位的非國家行動者。換言之，委員會應更重視與非國家行動者的
+對話。此外，加強《國際捕鯨管制公約》與外部公約機制的連結，
+以及提升國際捕鯨委員會內部科學社群的地位，亦將有助於公約與
+委員會脫離當今困境。
+334                              《中研院法學期刊》第30期（2022年3月）
+
+
+
+
+                            參考文獻
+
+1. 中文部分
+
+李佩蓉（2014），程序環境人權在區域組織的建構與發展：歐盟與
+      東協的比較與反思，國立臺灣大學法律學研究所碩士論文。
+張文貞（2012），環境影響評估作為國際法上的義務：國際法院判
+      決評析，台灣國際法季刊，9卷1期，頁7-48。
+—（2012），NGO與跨國憲政主義的發展：以台灣加入國際人
+      權公約的實踐為例，台灣國際法季刊，9卷3期，頁47-72。
+張愷致（2014），日澳南極捕鯨案評析，中華民國國際法學會，
+      http://csil.org.tw/home/2014/06/13/%E5%BC%B5%E6%84%B7%
+      E8%87%B4%EF%BC%9A%E6%97%A5%E6%BE%B3%E5%8D
+      %97%E6%A5%B5%E6%8D%95%E9%AF%A8%E6%A1%88%E
+      8%A9%95%E6%9E%90/。
+陳子珺（2016），反核子擴散條約之規範機制：以跨國規範化歷程
+      為分析途徑，國立臺灣大學科際整合法律學研究所碩士論文。
+陳文葳（2015），政府間氣候變遷小組的建構、組織與功能演變：
+      以跨國法制歷程觀點分析，國立臺灣大學科際整合法律學研究
+      所碩士論文。
+陳隆志（1999）
+        ，當代國際法引論，臺北：元照。
+陳隆豐（2018）
+        ，國際捕鯨協會，新世紀智庫論壇，82期，頁57-66。
+葉俊榮（1999）
+        ，全球環境議題—臺灣觀點，臺北：巨流。
+謝雨修（2018），形塑國際刑事法院的權威：以跨國規範化歷程與
+      法院研究為方法，國立臺灣大學法律學研究所碩士論文。
+
+2. 外文部分
+
+Andresen, Steinar. 2000. The Whaling Regime. Pp. 35-69 in Science and
+《國際捕鯨管制公約》的變遷與停滯                                                    335
+
+
+    Politics in International Environmental Regimes: Between Integrity
+    and Involvement, edited by Steinar Andresen, Tora Skodvin, Arild
+    Underdal    and     Jørgen   Wettestad.   Manchester:   Manchester
+    University Press.
+—. 2002. The International Whaling Commission (IWC): More
+    Failure than Success?. Pp. 379-404 in Environmental Regime
+    Effectiveness: Confronting Theory with Evidence, edited by Edward
+    L. Miles, Arild Underdal, Steinar Andresen, Jørgen Wettestad, Jon
+    Birger Skjærseth and Elaine M. Carlin. Cambridge, MA: The MIT
+    Press.
+Andresen, Steinar, and Tora Skodvin. 2008. Non-state Influence in the
+    International Whaling Commission, 1970 to 2006. Pp. 119-148 in
+    NGO Diplomacy: The Influence of Nongovernmental Organizations
+    in International Environmental Negotiations, edited by Michele M.
+    Betsill and Elizabeth Corell. Cambridge, MA: The MIT Press.
+d’Aspremont, Jean. 2016. The International Court of Justice, the Whales,
+    and the Blurring of the Lines between Sources and Interpretation.
+    The European Journal of International Law 27:1027-1041.
+Bodansky, Daniel. 2010. The Art and Craft of International
+    Environmental Law. Cambridge, MA: Harvard University Press.
+Cataldo, Bernard F., Frederick G. Kempin, Jr., John M. Stockton, and
+    Charles M. Weber. 1980. Introduction to Law and the Legal
+    Process. 3d ed. Malabar, FL: Robert E. Krieger Publishing.
+Chander, Anupam. 2005. Globalization and Distrust. The Yale Law
+    Journal 114:1193-1236.
+Chen, Lung-chu. 1993. Perspectives from the New Haven School.
+    Proceedings of the Annual Meeting (American Society of
+    International Law) 87:407-411.
+Dorsey, Kurk. 2013. National Sovereignty, the International Whaling
+336                                  《中研院法學期刊》第30期（2022年3月）
+
+
+
+      Commission, and the Save the Whales Movement. Pp. 43-61 in
+      Nation-States and the Global Environment: New Approaches to
+      International Environmental History, edited by Erika Marie
+      Bsumek, David Kinkela and Mark Atwood Lawrence. New York,
+      NY: Oxford University Press.
+Dorsey, Kurkpatrick. 2013. Whales and Nations: Environmental
+      Diplomacy on the High Seas. Seattle, WA: University of
+      Washington Press.
+Elvy, Stacy-Ann. 2012. Theories of State Compliance with International
+      Law: Assessing the African Union’s Ability to Ensure State
+      Compliance with the African Charter and Constitutive Act. Georgia
+      Journal of International & Comparative Law 41:75-155.
+Friedheim, Robert L. 2001. Introduction: The IWC as a Contested
+      Regime. Pp. 3-48 in Toward a Sustainable Whaling Regime, edited
+      by Robert L. Friedheim. Seattle, WA: University of Washington
+      Press.
+Fuller, Lon L. 1978. Law and Human Interaction. Pp. 59-89 in Social
+      System and Legal Process: Theory, Comparative Perspectives and
+      Special Studies, edited by Harry M. Johnson. Hoboken, NJ: Jossey-
+      Bass Publishers.
+Hathaway, Oona A., and Harold Hongju Koh. 2005. Foundations of
+      International Law and Politics. New York, NY: Foundation Press.
+Heazle, Michael. 2006. Scientific Uncertainty and the Politics of
+      Whaling. Seattle, WA: University of Washington Press.
+Hunter, David, James Salzman, and Durwood Zaelke. 2007.
+      International Environmental Law and Policy. 3d ed. New York, NY:
+      Foundation Press.
+Hurd, Ian. 2012. Almost Saving Whales: The Ambiguity of Success at
+      the International Whaling Commission. Ethics & International
+《國際捕鯨管制公約》的變遷與停滯                                                  337
+
+
+    Affairs 26:103-112.
+Jodoin, Sébastien, and Sarah Mason-Case. 2016. What Difference Does
+    CBDR Make? A Socio-Legal Analysis of the Role of
+    Differentiation in the Transnational Legal Process for REDD+.
+    Transnational Environmental Law 5:255-284.
+Koh, Harold Hongju. 1996. Transnational Legal Process. Nebraska Law
+    Review 75:181-207.
+—. 1998. The 1998 Frankel Lecture: Bringing International Law
+    Home. Houston Law Review 35:623-681.
+—. 2002. Opening Remarks: Transnational Legal Process
+    Illuminated. Pp. 327-332 in Transnational Legal Processes:
+    Globalisation and Power Disparities, edited by Michael Likosky.
+    Oxford: Butterworths.
+—. 2009. Michael Reisman, Dean of the New Haven School of
+    International Law. The Yale Journal of International Law 34:501-
+    504.
+Land, Molly. 2013-2014. Reflections on the New Haven School. New
+    York Law School Law Review 58:919-928.
+Mangel, Marc. 2016. Whales, Science, and Scientific Whaling in the
+    International Court of Justice. Proceedings of the National
+    Academy of Sciences 113:14523-14527.
+Moffa, Anthony L.I. 2012. Two Competing Models of Activism, One
+    Goal: A Case Study of Anti-Whaling Campaigns in the Southern
+    Ocean. The Yale Journal of International Law 37:201-214.
+Peterson, M. J. 1992. Whalers, Cetologists, Environmentalists, and the
+    International Management of Whaling. International Organization
+    46:147-186.
+Reisman, W. Michael. 1981. International Lawmaking: A Process of
+    Communication. Proceedings of the Annual Meeting (American
+338                                 《中研院法學期刊》第30期（2022年3月）
+
+
+
+      Society of International Law) 75:101-120.
+—. 1992. The View from the New Haven School of International
+      Law. Proceedings of the Annual Meeting (American Society of
+      International Law) 86:118-125.
+Sadat, Leila Nadya. 2010. The Nuremberg Paradox. American Journal
+      of Comparative Law 58:151-204.
+Sarfaty, Galit A. 2005. The World Bank and the Internalization of
+      Indigenous Rights Norms. The Yale Law Journal 114:1791-1818.
+Shaffer, Gregory. 2012. Transnational Legal Process and State Change.
+      Law & Social Inquiry 37:229-264.
+Shaffer, Gregory, and Tom Ginsburg. 2012. The Empirical Turn in
+      International Legal Scholarship. The American Journal of
+      International Law 106:1-46.
+Smith, Gare. 1984. The International Whaling Commission: An Analysis
+      of the Past and Reflections on the Future. Natural Resources
+      Lawyer 16:543-567.
+Wold, Chris. 2020. Japan’s Resumption of Commercial Whaling and Its
+      Duty to Cooperate with the International Whaling Commission.
+      Journal of Environmental Law and Litigation 35:87-144.
+Yeh, Jiunn-Rong, and Wen-Chen Chang. 2008. The Emergence of
+      Transnational Constitutionalism: Its Features, Challenges and
+      Solutions. Penn State International Law Review 27:89-124.
+Zemantauski, Jared. 2012. Has the Law of the Sea Convention
+      Strengthened the Conservation Ability of the International Whaling
+      Commission?. University of Miami Inter-American Law Review
+      43:325-346.
+《國際捕鯨管制公約》的變遷與停滯                                                            339
+
+
+
+
+          The Evolution and Stagnation of
+          the International Convention for
+             the Regulation of Whaling:
+           Determining Factors from the Perspective of
+                the Transnational Legal Process
+
+
+                               Pei-Jung Li＊
+
+                                  Abstract
+      This paper explores the transnational legal process of the
+International Convention for the Regulation of Whaling and the
+International Whaling Commission, analyzing the process of norm-
+internalization, and identifying the determining factors. From the
+perspective of the traditional division of the fields of international law
+and international relations, this paper attempts to blur the lines by using
+the theory of the transnational legal process. It considers the approaches
+of law and society on international and domestic levels, and examines
+the evolution and stagnation of norms from contextual and multi-actor
+perspectives. This paper analyzes four stages of the development path of
+the Convention, and argues that these stages have presented the trend of
+partial norm-internalization as the process has shifted from active
+evolution to stagnation. Three determining factors have contributed to
+this trend: (1) the changing role of non-state actors from balancing to
+dominating; (2) the consolidating effects of external regulatory
+mechanisms; and (3) scientific research perceived as a means that is
+contributing to the impasse. This paper concludes that these factors not
+directly related to the state have been active in affecting the development
+
+
+＊ Ph.D. Candidate, College of Law, National Taiwan University; LL.M., College of
+  Law, National Taiwan University.
+340                              《中研院法學期刊》第30期（2022年3月）
+
+
+path of the Convention. Such a finding also transforms the traditional
+understanding of boundaries between national and international laws,
+and presents the dynamic and normative traits of the process school in
+international law.
+KEYWORDS: whaling, International Convention for the Regulation of
+          Whaling, International Whaling Commission, transnational
+          legal process, norm-internalization.
+

@@ -1,0 +1,3581 @@
+評我國強制設置薪酬委員會之立法政策                          249
+
+
+
+
+                                         ＊
+    評我國強制設置薪酬委員會之立法政策
+       — 從經濟分析及美國金融改革法談起
+
+
+                  蔡昌憲＊＊
+
+
+                   目 次
+壹、前言                    四、 不同身分之薪委會成員的
+貳、經濟分析                     究責問題
+ 一、 薪酬之經濟本質             五、 薪委會之外部司法審查：
+ 二、 薪酬安排之相關經濟理論            受託義務的檢驗
+ 三、 小結                  六、 薪酬顧問：現行法尚無詳
+參、比較法觀點                    細規範
+ 一、 金融海嘯前之美國普通法         七、 股東薪酬表決權之拘束力
+    及相關法令                  與薪委會之決議效力
+ 二、 金融海嘯凸顯之問題           八、 我國2011年公司法新增之
+ 三、 金融改革法之回應               薪酬發放工具：限制型股
+ 四、 小結                     票
+肆、經濟分析及比較法觀點對我          九、 強制設置薪委會是否造成
+  國薪酬規範之啟示                 過高法令遵循成本？
+ 一、 我國現行公開發行公司之         十、 從金融改革法之立法背景
+    薪酬規範概說                 省思我國強制設置薪委會
+ 二、 我國與美國面臨不同之代            之政策
+    理問題                伍、結論
+ 三、 薪委會成員之資格：獨立
+    性及專業性
+
+＊  投稿日：2011年12月12日；接受刊登日：2012年5月11日。［責任校對：張愷
+   致］。
+   本文初稿曾發表於2011年12月22日由逢甲大學財經法律研究所暨公司治理研
+   究中心、建業法律事務所主辦之「中部地區財經法律學術研討會（五）」。作
+   者非常感謝該場次主持人何曜琛教授、與談人蘇怡慈教授、與會邵慶平教
+   授、洪令家教授及其他法學先進之寶貴意見，對於本文之後續修正有重要啟
+   發。另承蒙兩名匿名審查委員惠賜卓見，作者亦在此衷心致謝；惟最後文
+   責，仍由作者自負。作者亦感謝父母家人的支持與鼓勵，及研究助理清大科
+   法所碩士陳乃瑜同學之協助。
+＊＊ 國立清華大學科技法律研究所助理教授。
+250              《中研院法學期刊》第11期（2012年9月）
+
+
+              摘 要
+  我國立法者於2010年11月增訂證券交易法第14條之6，強制上
+市櫃公司（含興櫃公司）設置薪資報酬委員會（下稱「薪委會」    ），
+「股票上市或於證券商營業處所買賣公司薪資報酬委員會設置及行
+使職權辦法」亦續於2011年公布，藉此強化我國公司的薪酬規範。
+惟此強制設置薪委會之政策或屬過於倉促的立法，其可能帶來之衝
+擊殊值研究。就我國薪委會之法律移植來源國—美國而言，由於
+金融海嘯暴露管理階層之薪酬過高等問題，美國於是在2010年7月
+通過「華爾街改革與消費者保護法」（下稱為「金融改革法」），特
+別針對公司薪酬議題進一步規範，此舉亦誠將對美國薪酬法制產生
+重大影響。為從根本上理解我國就薪酬安排應有之管制理念，本文
+爰先從經濟分析的觀點研析薪酬安排的本質問題；後自比較法觀
+點，探討美國包含薪委會在內之相關薪酬規範的內涵、發展及其爭
+議。事實上，對於以獨立董事及薪委會作為薪酬問題的主要解決之
+道，美國學界實非無爭議；且就公司治理環境而言，我國面對之代
+理成本問題亦不同於美國欲處理者。從而，我國似不應在欠缺具體
+配套及在地化調整之下，逕移植如美國金融改革法中之薪委會等薪
+酬規範。本文除分析我國強制設置薪委會可能產生的影響之外，亦
+將立基於經濟理論及美國法之研究，深入探討我國薪酬法制現有架
+構的其他相關問題。
+
+
+
+關鍵詞：薪資報酬委員會、金融海嘯、金融改革法、受託義務、薪
+    酬揭露、薪酬顧問、股東諮詢性投票、限制型股票、代理
+    成本、公司治理。
+評我國強制設置薪酬委員會之立法政策                                                                  251
+
+
+
+
+                 On Mandatory Compensation
+                   Committees in Taiwan:
+            An Economic and Comparative Analysis
+
+                             Chang-Hsien Tsai＊
+
+                                    Abstract
+      Taiwan’s legislature passed Article 14-6 of the Securities and
+Exchange Act, requiring companies whose shares are listed on Taiwan
+Stock Exchange or traded over the counter to have compensation
+committees. The regulations governing the appointment and exercise of
+powers by compensation committees were subsequently adopted in 2011,
+with a view to strengthening Taiwan’s compensation regulations.
+Nevertheless, this legislative policy might be employed in haste and
+without adequate preparation, such that the impact of these requirements
+in Taiwan remains to be further inquired. As far as the US, the home
+jurisdiction of the compensation committee requirements Taiwan just
+borrowed, is concerned, the global financial crisis exposed the issue of
+excessive executive compensation. This motivated the US Congress to
+pass The Wall Street Reform and Consumer Protection Act of 2010,
+aiming to further regulate executive compensation. This legislation
+would undoubtedly produce a profound effect on compensation
+regulations in the US. In order to understand the regulatory philosophy
+for Taiwan’s compensation-related legal reform, this Article researches
+into the basics of pay arrangements from an economic perspective. This
+Article then, from a viewpoint of comparative law, explores the scope,
+development and debates of US compensation regulations. In fact, US
+scholars also skeptically discuss whether independent directors and
+
+
+＊ Assistant Professor, Institute of Law for Science and Technology, National Tsing Hua
+   University.
+252                                 《中研院法學期刊》第11期（2012年9月）
+
+
+compensation committees should be the primary solution to pay-related
+regulatory issues or not. Moreover, the main agency problem Taiwan
+faces is different from that US rules are designed to address. Therefore,
+Taiwan should not have directly transplanted US compensation
+regulations including those with respect to compensation committees,
+without specific supporting policies and local adaptation. In addition to
+analyzing the potential influence of Taiwan’s legislative policy to require
+compensation committees, this Article will, based on the above study on
+the economics of pay arrangements and drawing implications from US
+rules, delve into Taiwan’s other relevant problems of existing regulations
+on director and executive compensation.
+
+
+KEYWORDS: compensation committee, financial crisis, the Dodd-Frank
+          Wall Street Reform and Consumer Protection Act (the
+          Dodd-Frank Act), fiduciary duties, compensation disclosure,
+          compensation consultants, shareholder advisory say-on-pay
+          vote, restricted stock, agency cost, corporate governance.
+評我國強制設置薪酬委員會之立法政策                                                                 253
+
+
+
+
+壹、前言
+
+      金融海嘯(Financial Crisis)1發生後，許多人將矛頭指向坐擁高
+薪 的 公 司 管 理 階 層 (executives) 2 。 就 管 理 階 層 薪 酬 (executive
+compensation)之整體變化趨勢而言，美國自1970年代中期起，管理
+階層薪酬開始快速成長；執行長與一般員工之間二者平均薪資相
+較，1965年二者差距為24倍，1979年二者差距為35倍，1989年二者
+差距為71倍，20世紀末二者差距為299倍 3 。換言之，在金融海嘯
+前，美國管理階層薪酬呈現不斷增加的趨勢 4 。此外，金融海嘯
+後，根據2010年管理階層薪酬研究機構Equilar的資料顯示，標準普
+爾500大公司一般的執行長薪酬，2010年大約是900萬美元，較前1
+年增加24%，扭轉2年的下滑局面5。韜睿惠悅(Towers Watson)6針對
+美國773家企業高階經理人(executives)薪酬計畫之調查顯示，美國
+
+
+1 金融海嘯乃源於2007年次級房屋信貸危機(subprime mortgage crisis)，即便多國
+    中央銀行攜手合作，多次向金融市場注入巨額資金，亦無法阻止這場金融危機
+    的爆發。2008年美國華爾街引爆的金融海嘯，導致多間相當大型的金融機構倒
+    閉 或 被 政 府 接 管 ， 進 而 導 致 全 球 經 濟 面 臨 空 前 的 經 濟 大 衰 退 (the Great
+    Recession)。See Stephen M. Bainbridge, Corporate Governance and U.S. Capital
+    Market Competitiveness 2 (UCLA Sch. of Law-Econ. Research Paper No. 10-13,
+    2010), available at http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1696303. 有
+    關金融海嘯的成因及其影響，詳參本文以下「參、二」                                  。
+2   本文「管理階層」主指公司高階經理人，合先敘明。
+3   Harwell Wells, U.S. Executive Compensation in Historical Perspective 17 (Temple
+    Univ., Beasley Sch. of Law, Legal Studies Research Paper No. 2011-19, 2011),
+    available at http://ssrn. com/abstract=1775083.
+4   See Richard A. Posner, Are American CEOs Overpaid, and, If So, What If Anything
+    Should Be Done about It?, 58 DUKE L.J. 1013, 1020-21 (2009).
+5   美CEO薪酬 止跌回升，中央社，2011年5月10日，http://tw.money.yahoo.com/
+    news_article/adbf/d_a_110510_1_2ktv8（最後瀏覽日：2011年11月7日）                   。
+6   韜睿惠悅(Towers Watson)是一家全球性的專業顧問服務公司，協助企業透過有
+    效的人才、財務和風險管理方案，提升營運績效。並替企業在員工福利規劃、
+    人才與獎酬方案、風險和資本管理等方面提供解決之道。該顧問公司的數據範
+    圍橫跨6大洲的近百個國家，在美國、加拿大、歐洲、亞太與拉丁美洲均設有
+    數據中心，每年都會就當地公司和跨國企業的薪酬、福利和僱傭狀況提供報
+    告。可參見韜睿惠悅官方網站，http://www.towerswatson.com/taiwan/（最後瀏
+    覽日：2011年11月7日）             。
+254                                          《中研院法學期刊》第11期（2012年9月）
+
+
+
+高階經理人2012年預計將領到的平均薪酬較2011年增加2.7%7。上
+述數據隱含縱使經歷2000年之網路泡沫及2008年到2009年之金融海
+嘯，無論在金融海嘯前後，美國管理階層薪酬成長之趨勢並無停止
+的現象8。
+
+        如後所論，在金融海嘯後，美國之所以對管理階層薪酬進行大
+幅管制，係因支持管制者主張於金融海嘯前，薪酬結構之設計缺陷
+使得管理階層有誘因去承擔過高風險，最終促生了對美國經濟產生
+威脅的系統風險(systemic risk)；於是，2010年7月21日經美國總統
+巴拉克‧歐巴馬(Barack Obama)簽署生效，並正式定名之「華爾街
+改 革 與 消 費 者 保 護 法 （ the Dodd-Frank Wall Street Reform and
+                                                               9
+Consumer Protection Act，下稱「金融改革法」） 」
+                                   ，即針對管理階
+層薪酬進行更嚴格的規範10。我國金管會證期局張麗真副局長亦指
+出，於全球金融海嘯期間，我國亦發生有公司蒙受虧損，該類公司
+的董監事及管理階層卻仍坐領高薪，酬金甚或不斷增加，致嚴重影
+響 股 東 權 益 11 。 進 一 步 而 言 ， 涉 及 公 司 內 部 治 理 之 薪 酬 安 排
+（compensation arrangement，包含薪資報酬之金額與種類）12的良莠
+與否，除直接影響公司本身，亦會間接影響一國整體經濟發展。蓋
+薪酬安排與公司內部資金運用與營運成本有密切關聯，對公司業務
+
+
+ 7 New Towers Watson Survey Points to Moderate Pay Raises in 2012, TOWERS WATSON
+      (Aug. 22, 2011), http://www.towerswatson.com/blog/executive-pay-matters/5311.
+ 8 See Wells, supra note 3, at 17.
+ 9 The Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-
+      203, 124 Stat. 1376 (2010).
+10 Christine Hurt, Regulating Compensation, 6 ENTREPRENEURIAL BUS. L.J. 21, 23-24
+      (2011), available at http://ssrn.com/abstract=1758952.
+11 陳春山、李彥興、陳清祥，強制設置薪酬委員會之影響，頁169（2011年）
+                                      。
+12 薪酬安排乃公司治理中用以降低代理成本的機制之一，使經理人之利益與股東
+      者更加一致。See, e.g., Hugh Grove et al., Corporate Governance and Performance
+      in the Wake of the Financial Crisis: Evidence from US Commercial Banks, 19 CORP.
+      GOVERNANCE: INT’L REV. 418, 423 (2011) (“[S]tock-based compensation links
+      executive wealth directly to stock performance and is viewed as a mechanism to
+      mitigate agency costs by better aligning managers and shareholder interests.”).
+評我國強制設置薪酬委員會之立法政策                                                                 255
+
+
+
+
+之表現、財務報告之結果及股東權益都有影響13。且就美國管理階
+層薪酬之發展歷史而言，薪酬安排也與產業體系、公司資訊揭露及
+隱私政策、稅收制度、國內政治經濟層面之諸力量間的平衡、國與
+國間的經濟競爭力、以及一般人民所直覺感受之公平及正義有關14。
+
+     基此，薪酬規範議題遂成為近年來國際上公司治理改革的重點
+之 一 。 例 如 ： 2010 年 經 濟 合 作 暨 發 展 組 織 (the Organization for
+Economic Cooperation and Development, OECD)研究報告顯示，公司
+薪酬規範不足乃促成金融海嘯發生的原因之一，故呼籲應檢討改革
+現行公司治理法制15。此外，歐盟執委會(European Commission)於
+2009年針對董事薪酬，提出關於金融業與上市公司薪酬政策之建
+議；就內容而言，諸如：揭露上市公司對管理階層之薪酬政策及董
+監事個別津貼，並提高股東會對薪酬安排的同意權。執委會同時要
+求各會員國應就這些建議在國內進行諮商，以期能普遍適用新的薪
+酬規範原則16。
+
+     反觀我國公司董監事的薪酬發放現況，依公開資訊觀測站資料
+顯示，2011年全體上市櫃公司平均每家支付董事酬金約739萬元、
+監察人酬金約175萬元，這筆平均不到1千萬的開支可能無法與美國
+動輒等同新臺幣數億元的企業「肥貓」相比17。然而，相關報導進
+
+13 林仁光，董事會功能性分工之法制課題—經營權功能之強化與內部監控機
+   制之設計，臺大法學論叢，35卷1期，頁192（2005年）
+                               。
+14 Wells, supra note 3, at 1.
+15 2010年經濟合作暨發展組織全面地研究金融海嘯所暴露之問題後，認為下列四
+   個公司治理面向的不足，導致金融海嘯發生：（1）薪酬(remuneration)；（2）風
+   險管理(risk management)；（3）董事會之實際運作(board practices)；（4）股東權
+   利之行使(the exercise of shareholder rights)。See GREGORY P. WILSON, MANAGING
+   TO THE NEW REGULATORY REALITY: DOING BUSINESS UNDER THE DODD-FRANK ACT
+   234 (2011).
+16 陳麗娟，債信風暴—歐洲金融市場分析與因應，頁46（2011年）                                     。以義大利的
+   公司薪酬規範改革為例，該國尤於金融海嘯後落實前開建議，see generally
+   Carlo Amatucci, Director and Executive Compensation Regulations for Italian Listed
+   Corporations (2011), available at http://ssrn.com/abstract=1927406.
+17 參見公開資訊觀測站網站，http://mops.twse.com.tw/nas/t119/30991A201107271
+256                                  《中研院法學期刊》第11期（2012年9月）
+
+
+
+一步指出，金融海嘯期間以及景氣回春後，比對我國某些公司之董
+監酬金總額占稅後純益的比率，該等公司支付董監酬金之額度或有
+爭議，而可能損及股東權益及影響整體市場秩序，由是可見我國董
+監薪酬規範難謂無檢討空間18。或許有鑑於此，我國立法者加入薪
+酬規範改革的國際潮流，仿效外國立法強制設立英美內部經營監督
+機關單軌制所採之薪酬監督機制19，期待藉此機制協助公司在薪酬
+決定過程(pay-setting process)中，能作出對於董監事及管理階層薪
+酬之合理決定20。如後所論，可見我國立法者仿效美國，以立法強
+制設立薪委會主要係為解決董監事之薪酬安排問題，故我國立法者
+所設想之肥貓乃董監事21。表面上看起來，設置薪委會似可把關公
+司經營風險，達到優化公司治理、驅動企業績效之目的22。惟王文
+
+
+      84110_sii1.htm（最後瀏覽日：2011年11月7日）
+                                     。
+18 例如：大同公司連續3年虧損逾百億元，當大同仍處於稅後虧損狀態、尚未轉
+   虧為盈之前，大同卻提前為董事增加酬金，且該增加幅度高達4倍。參見周岐
+   原，看緊財報 不讓大老闆吃你豆腐，今周刊，767期，頁54-56（2011年）。然
+   而，薪酬規範之目的實非以消滅肥貓為主，毋寧是如劉連煜教授所言，企業薪
+   酬規範改革應以建立連結經營績效之合理薪酬制度為主。參見劉連煜，肥貓與
+   薪酬委員會，台灣法學雜誌，185期，頁141（2011年）                      （「本制不應以消除肥貓
+   為主要目的，而應以建立連結經營績效之合理薪酬制度為主，俾能留住好的公
+   司人才，否則在全球人才競爭下，實非公司之福，更非我國經濟發展之
+   福。」    ）。另參見尹慧中，朱竹元：台灣的肥貓並不肥 上市櫃設薪酬委員會 薪
+   事更透明，鉅亨網，2011年4月14日，http://tw.stock.yahoo.com/news_content/url/
+   d/a/110414/2/2jf7b.html（最後瀏覽日：2011年11月7日）（證券櫃檯買賣中心副
+   總經理朱竹元強調，「大家應該要知道，薪酬委員會的重點不是只有防堵高階
+   經理人的薪水過高，而是讓整個企業的員工薪資可以更符合規定、更客
+   觀。」    ）。
+19 郭大維，論董事報酬決定機制之建構—從最高法院九十八年度台上字第九三
+   五號民事判決談起，月旦法學雜誌，198期，頁191-192（2011年）（                          「由於薪酬
+   委員會……制度係源自公司內部經營監督機關採單軌制模式之英美，我國傳統
+   上公司內部機關之設置係採雙軌制，並無類似英美公司董事會下設各功能性委
+   員會（如審計委員會、提名委員會以及薪酬委員會等）之制度設計。」                                   ）。
+20 參見賴英照，股市遊戲規則—最新證券交易法解析，2版，頁196-197（2011
+   年）  。
+21 詳參本文以下「肆、二」             。
+22 由薪酬委員會談公司治理之落實，安侯建業通訊，53期，頁6-10（2011年）                                  ，
+   https://www.kpmg.com/TW/zh/IssuesAndInsights/Documents/Monthly/201105.pdf
+  （最後瀏覽日：2011年11月7日）            。
+評我國強制設置薪酬委員會之立法政策                                           257
+
+
+
+
+宇教授指出我國於2011年公布「股票上市或於證券商營業處所買賣
+公司薪資報酬委員會設置及行使職權辦法」（下稱「 薪委會辦
+法」），「乍看之下似相當完整。但如仔細推敲，仍有若干思慮不周
+或值得檢討之處，舉例言之，立法強制設置薪酬委員會的正當性為
+何？要求上市櫃公司須於民國100年底前設置薪酬委員會的期限是
+否過於倉促？再者，薪酬委員有具獨立董事身分者，亦有歸類為其
+他獨立專業人士者，究竟應如何區別兩者的資格與權限？」23此等
+皆值得吾人深思的問題。
+
+    就公司薪酬規範之實務而言，在未有強制設立薪委會之政策
+前，我國上市櫃及興櫃公司已有近30家公司自行設立薪委會，惟該
+設置比例不到整體上市櫃及興櫃公司的2%24。實際上，強制設立薪
+委會政策實行後，多數業者普遍面臨設立薪委會的三大困難：擔心
+公司薪酬資訊過度外露、與公司現行薪資實務作法不符以及薪委會
+成員難覓25。如後所述，無論從規範面或實務面，我國公司治理環
+境與英美有本質上的不同。蓋薪委會制度係源於經營監督模式採單
+軌制之英美，其委員會全由獨立董事所組成26；惟我國公司內部機
+
+
+23 李彥興、郭政弘、李坤璋，薪酬委員會實務手冊，頁10（2011年）。關於強制
+   設置薪委會之其他評論，參見王文宇，論大型企業之公司治理法制，月旦法學
+   雜誌，200期，頁292（2012年）          。
+24 未強制設置薪委會前，已自行設立薪委會的公司，例如：台積電(2330)、玉山
+   金(2884)、台灣大哥大(3045)、中華電(2414)及光寶科(2301)。參見尹慧中（註
+   18）。以台積電為例，該公司已於2003年設立薪委會，目前該公司董事會選任
+   全體五位獨立董事為薪委會成員，協助董事會評估與執行公司整體薪酬、董
+   事及經理人績效評估及薪酬、員工福利政策與方案，作為公司吸引、激勵與
+   留任人才的重要依據。例如2010年台積電進行結構性調薪，並按季依公司獲
+   利及績效發放員工獎金等重大政策，皆是在薪委會內討論定案。參見李彥
+   興、郭政弘、李坤璋（註23），頁29-32；涂志豪，台積電加薪 薪酬委員會說
+   了算，工商時報，2011年1月28日，http://money.chinatimes.com./news/news-
+   contents.aspx?id=20110128000088&cid=5090085（最後瀏覽日：2011年1月29
+   日） 。
+25 陳乃綾，上市櫃設薪委會三大困境，經濟日報，2011年9月22日，http://udn.
+   com/NEWS/FINANCE/FIN10/6605077.shtml（最後瀏覽日：2011年9月25日）  。
+26 在此制下，公司之股東會選任出董事，組成董事會，並於董事會下設置各種
+258                   《中研院法學期刊》第11期（2012年9月）
+
+
+
+關傳統採雙軌制，內部執行業務機關與監督機關分由不同機關執
+掌，且目前獨立董事之設置，原則採任意設立，符合一定標準採強
+制設立27。故在此情況下，未循序漸進地引進源自英美的薪委會制
+度，不無法律移植之水土不服的疑慮28。
+
+      縱令我國全數上市櫃及興櫃公司必須因應政策，最晚於2011年
+年底須完成設立薪委會，此對我國公司治理之薪酬決定機制無疑產
+生實質影響；惟此強制設置薪委會之政策或屬過於倉促之立法，其
+可能帶來之影響殊有進一步研究的必要。蓋即使是我國薪委會之法
+律移植來源國的美國，對於以獨立董事及薪委會作為薪酬問題的主
+要解決之道，其學界誠非無異議29。況且就公司治理環境而言，我
+國面對之代理成本問題亦不同於美國欲處理者。從而，我國似不應
+在欠缺具體配套及在地化調整之下，逕移植美國薪委會等相關薪酬
+規範30。為從根本上理解我國就薪酬安排應有之管制理念，本文第
+
+
+   功能性委員會，採行分工方式行使各項職權，以提升董事會在公司治理上的
+   效率，故董事會為執行業務機關及監督機關。為強化董事會的監督功能，降
+   低可能的利害衝突，各委員會成員必須由獨立董事負擔主要職務，尤其是審
+   計委員會，全部是由獨立董事所組成，以實行和支持董事會的監督職能，特
+   別是著重在有關公司內部控制、風險管理、財務報告及審計活動領域。參見
+   王志誠、邵慶平、洪秀芬、陳俊仁，實用證券交易法，2版，頁62-64（2011
+   年） 。
+27 行政院金管會於2006年3月28日公告之金管證一字第0950001616號函，以下述
+   公司為對象，強制設立獨立董事：公開發行之特許金融事業（含金控公司、
+   銀行、票券、保險及上市（櫃）或金控公司子公司之綜合證券商）與資本額
+   新臺幣500億以上之上市櫃公司。惟前開函釋已被2011年3月22日金管證發字第
+   1000010723號函取代，金管會擴大強制範圍，新增另要求下述公司應設置獨
+   立董事：（1）已公開發行之證券投資信託事業；（2）非屬上市、上櫃或金融控
+   股公司子公司的綜合證券商；（3）上市、上櫃期貨商；（4）實收資本額達新臺
+   幣100億元以上未滿500億元，且非屬金融業的上市、上櫃公司。
+28 李彥興、郭政弘、李坤璋（註23）    ，頁10（王文宇教授提到「各國公司治理的
+   環境不盡相同，例如從股權結構來看，我國公司多有控制股東，與英美公司之
+   股權分散並不相同。在此情況下，貿然引進源自英美之薪酬委員會制度，恐有
+   『橘逾淮變枳』之虞。」    ）。
+29 詳參本文以下「參、三、    （四）」及「肆、三」。
+30 關於我國倉促移植美國薪委會之可能問題，參見本文以下「肆、九」及「肆、
+   十」 。
+評我國強制設置薪酬委員會之立法政策                            259
+
+
+
+
+「貳」部分爰先從經濟分析的觀點研究薪酬安排的本質問題，並以
+此等經濟理論作為分析我國薪酬規範之上位基礎31。再者，本文將
+以比較法的觀點分析美國包含薪委會在內之相關薪酬規範的內涵、
+發展及爭議，並從金融海嘯凸顯的問題，觀察其後所制定之金融改
+革法對美國薪酬安排新增的管制內容及其啟示；換言之，透過美國
+普通法及相關法令之研究，作為我國薪酬規範比較法分析之基礎。
+此外，本文除研析我國強制設置薪委會可能產生的影響外，亦將立
+基於前開經濟理論及美國法之討論，深入探究我國薪酬法制現有架
+構之其他有關問題。
+
+
+
+貳、經濟分析
+
+  以下將從公司薪酬的經濟本質切入，探究薪酬對公司而言之經
+濟上意義。其次，本文透過薪酬安排的相關經濟理論，分析薪酬管
+制之正當性。
+
+一、薪酬之經濟本質
+
+  許多現今公開發行公司(publicly traded corporations)主要以「經
+
+31 有鑑於我國公司結構屬股權集中，董事會成員大多屬內部董事（執行董事），
+ 此種經營與所有結合的現象，造成董事結合大股東實質握有公司經營權，形成
+ 「控制股東」     、「主要董監事」與「經營階層」三位一體的情況，甚為常見（詳
+ 參本文「肆、二」）。又內部董事實際上亦身兼公司經理人之職務。參見劉連
+ 煜，新證券交易法實例研習，9版，頁57（2011年）（「按一般所稱之『外部董
+ 事』(outside directors)，係指未同時兼任公司經營團隊職務之董事者，而與所謂
+ 「內部董事」(inside directors)恰好相反。」）。再者，我國「董事」之薪資報酬
+ 問題，主要存在於實質握有公司內部經營權之「內部董事」，而非「獨立董
+ 事」。是故，後述「貳、二」中介紹之薪酬安排的相關經濟理論，雖以論述
+ 「經理人」報酬問題為主，惟仍適用於臺灣握有經營實權之「內部董事」的薪
+ 酬問題，合先敘明。應附言者，如後述註300的說明，我國具備經理人身分之
+ 董事，也就是內部董事（執行董事），亦得領取具有股權性質的激勵獎酬，故
+ 可領取員工限制型股票。從而，後文「貳、二、            （四）
+                                    」部分所述之相關理論或
+ 問題，於我國內部董事亦有適用。
+260                                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+營權與所有權分離(separation of ownership from control)」之方式運
+作，蓋公司的所有權已非由單一股東掌握，而是分散到各股東之間
+                     32
+(dispersed ownership) 。且在公司型態下，股東本人(principal)通常
+聘僱經理人及董事擔任代理人(agent)，代表其行使經營權，使二者
+存在「代理關係(agency relationship/principal-agent relationship)」33。
+此舉雖能增進公司內部的決策效率(efficiencies in making decision)，
+然於股權分散結構下之代理關係中，本人通常欠缺監督代理人的誘
+因；且除非本人能夠精確評價及監督代理人的工作績效，並依該績
+效表現同步調整其薪酬，否則代理人可能會偷懶（此際有違反注意
+義務(duty of care)之虞）或將公司的收益據為己有（此際有違反忠
+實義務(duty of loyalty)之虞）34。換言之，在一公司之股份所有權
+不集中的情形下，控制公司資產、資訊及投票機制之代理人可能成
+為事實上握有公司的經營權者(de facto control of the corporation)35；
+此種聘請代理人代股東經營公司之行為，易生代理人與本人間之利
+益衝突(conflicts of interests)及資訊不對稱等情事，從而產生代理成
+本(agency cost)36之問題37。就薪酬安排而言，擔任代理人之公司經
+理人及董事，可能基於自利心態(self-interested)的驅使，將自身利
+益置於公司整體利益之上，造成犧牲股東利益的結果；亦即倘代理
+
+
+32 See generally ADOLF A. BERLE & GARDINER M. MEANS, THE MODERN CORPORATION
+   & PRIVATE PROPERTY (Transaction Publishers 1991) (1932). See also STEPHEN M.
+   BAINBRIDGE, CORPORATE LAW AND ECONOMICS 8 (2002) (“Corporations differ from
+   most other forms of business organizations in that ownership of the firm is formally
+   separated from its control.”).
+33 LARRY E. RIBSTEIN & PETER V. LETSOU, BUSINESS ASSOCIATIONS 3 (4th ed. 2003).
+34 Posner, supra note 4, at 1015.
+35 ARTHUR R. PINTO & DOUGLAS M. BRANSON, UNDERSTANDING CORPORATE LAW 97-
+   98 (3d ed. 2009).
+36 See RIBSTEIN & LETSOU, supra note 33, at 4 (“Agency costs generally refer to the
+   costs imposed on the principal when an agent with discretionary authority takes
+   actions to help himself rather than the principal.”).
+37 See generally Amitai Aviram, A Note on Economic Theories of the Firm 2-5 (Fla. St.
+   Univ., C. of Law, Pub. Law Research Paper No. 182, 2006), available at http://ssrn.
+   com/abstract=880435.
+評我國強制設置薪酬委員會之立法政策                                                                   261
+
+
+
+
+人領受之薪酬，大於代理成本為零的情形下代理人所受領者，則形
+成薪酬安排不當之「薪酬過高(excessive compensation)」的問題38。
+
+     循上，有美國學者的實證研究指出，若公司的公司治理結構較
+弱，則會產生較嚴重的代理問題；若執行長(CEO)所屬公司的代理
+問題較嚴重，則其會收受較高的薪酬；若一公司的代理問題較嚴
+重，該公司的表現亦較差39。故此代理成本問題之解決，於公司管
+理階層之報酬議題上，則著重於如何透過企業組織內部監督機制，
+有效控管薪酬核發之妥適性，以降低公司管理階層之代理成本40。
+學者指出透過監督機制（monitoring，例如要求揭露所有重要的薪
+酬組成成分）與誘因調整（incentive alignment，例如給予股權性質
+的激勵性薪酬）間之權衡，以解決前述代理成本問題（如參見後文
+   ）41。
+「圖1」
+
+     詳言之，薪酬爭議通常為以下幾點問題：薪酬數額是否過高、
+薪酬組成是否足以適宜地論功行賞、薪酬決定程序是否已有效地降
+低利益衝突問題、以及薪酬契約內容中的特殊好處—例如黃金降
+落傘(golden parachutes)42—是否損及股東利益43。為解決前述問
+
+
+38 Posner, supra note 4, at 1015.
+39 See generally John E. Core et al., Corporate Governance, Chief Executive Officer
+   Compensation, and Firm Performance, 51 J. FIN. ECON. 371 (1999).
+40 See Posner, supra note 4, at 1015-20.
+41 Lukas Müller, Regulation of Say on Pay: Engineering Incentives for Executives and
+   Directors – Experiences from the United States and Implications for Regulation in
+   Switzerland, 83 SCHWEIZERISCHE ZEITSCHRIFT FÜR WIRTSCHAFTS – UND
+   FINANZMARKTRECHT 167, 169 (2011), available at http://ssrn.com/abstract=1881176.
+42 黃金降落傘係指在公司與董事及管理階層簽訂的僱傭契約中，規定併購時對董
+   事及管理階層有利的離職金條款，讓董事及管理階層在敵意併購或其他情形遭
+   到解任、削職、削權或減薪時，可以收到巨額賠償金。黃日燦，法律決勝
+   負—企業併購與技術授權，頁124（2004年）                              。See also STEPHEN M. BAINBRIDGE,
+   MERGERS & ACQUISITIONS 25 (2d ed. 2008) (“Employment contracts between a
+   company and key employees which provide severance payments to the employee in
+   the event he or she is fired after a change in control of company.”).
+43 WILLIAM T. ALLEN ET AL., COMMENTARIES AND CASES ON THE LAW OF BUSINESS
+262                                        《中研院法學期刊》第11期（2012年9月）
+
+
+
+題，論者指出全面揭露(full disclosure)與薪酬有關的重要資訊，或
+屬良好的監督作法之一。蓋揭露政策可加強資訊透明度並進而降低
+代理成本。惟實務上，全面揭露薪酬資訊存在複雜且成本高昂之執
+行難題44。其次，誘因調整的設計必須使股東與管理階層具利益一
+致性，始能創造良好的誘因進而降低代理成本。惟創造具利益一致
+性的薪酬組合，實屬困難。蓋薪酬種類繁多，主要包括：薪水
+(salary)、額外補貼(executive perquisites)、紅利(bonuses)、遲延薪酬
+(deferred compensation)、退休金計畫(pension plans)、選擇權(stock
+              45
+options)、黃金降落傘 。然而，薪酬結構中內含股權性質之激勵性
+獎酬的組合雖能創造努力工作的誘因，卻可能同時促生採取過高風
+險(excessive risk)行為，致生危害公司長期獲利的結果。從而，有
+論者主張應延後管理階層取得股權之期間（例如後述「肆、八」的
+限制型股票），以降低追求短視近利(short-term profits)等行為的誘
+因，避免管理階層為求短期獲益而採取過高風險行為46。
+
+
+
+
+      ORGANIZATION 331 (3d ed. 2009).
+44 See Posner, supra note 4, at 1045; Müller, supra note 41, at 180-81.
+45 RIBSTEIN & LETSOU, supra note 33, at 460-64.
+46 Müller, supra note 41, at 176-77.
+評我國強制設置薪酬委員會之立法政策                                 263
+
+
+
+
+                   薪酬安排之
+                    代理問題
+
+
+
+                      問題解決
+
+
+
+    誘因調整                                 監督
+      機制                                 機制
+
+                                       薪酬揭露
+   激勵性薪酬                                薪委會
+    受託義務                             股東諮詢性投票
+    …. …. ….                           …. …. ….
+
+
+
+
+         圖1 薪酬安排所生代理問題的解決方式
+             （資料來源：本文作者）
+
+二、薪酬安排之相關經濟理論
+
+ （一）最適締約理論(the optimal contracting theory)
+  公司被視為不同成員間之契約連鎖(nexus of contracts)47，成為
+以生產商品或提供服務為目的之各式輸入(inputs)活動的結合體。公
+司運用「組織權威」機制取代「市場價格機能」，減少個別磋商的
+
+
+47 參見蔡昌憲，公司契約理論於我國之具體實踐—市場契約自由與國家法律干
+ 預間之權衡，法令月刊，56卷6期，頁40-41（2005年）
+                              。
+264                                      《中研院法學期刊》第11期（2012年9月）
+
+
+
+成本，達到整體降低交易成本的結果 48 。其中，傳統經濟理論假
+定，透過管理階層之薪酬安排，藉以最小化代理成本並極大化股東
+價值49。換言之，經濟學家的主流見解以為，薪酬安排乃常規交易
+協商下的產物(the product of arm’s-length bargaining)—該協商談判
+乃存於試圖為自己獲取最佳合約之管理階層，以及替股東尋求最佳
+結果之董事會二者間；且該薪酬作成結果，除反應經營階層的代理
+成本外，亦為董事反制經營階層自肥的手段50。
+
+      （二）管理階層權力理論(the managerial power theory)
+       美國哈佛大學教授Bebchuk及Fried主張，現行公開發行公司之
+薪酬安排過程與上開常規交易談判之主流說法未盡相同，甚至就大
+部分之公開發行公司而言有背道而馳的現象51。詳言之，常規交易
+之薪酬安排談判在不同公司間有不同的運作結果。以下因素皆會阻
+礙此種常規交易談判，但這些因素之運作亦會隨公司之不同而有所
+差異：
+  （一）經理人對董事遴聘之影響力；
+                 （二）經理人對合作董事
+提供獎勵的能力；（三）社會及心理因素使得董事偏袒經理人；
+（四）董事偏袒管理階層所需承擔之成本有限；
+                    （五）董事欠缺足夠
+之時間及資訊52。再者，前開背道而馳現象之嚴重程度除會隨公司
+之不同而有所差異外，偏離程度亦會隨著時間之遷移而有所變化；
+亦即，在金融海嘯前，當時之法律規定及公司治理實務亦是導致前
+
+
+48 王文宇，公司法論，4版，頁21-22（2008年）                  。
+49 David I. Walker, The Law and Economics of Executive Compensation: Theory and
+   Evidence 3 (Boston Univ. Sch. of Law Working Paper No. 10-32, 2010), available at
+   http://ssrn.com/abstract=1688560. 如此的薪酬安排之所以能增加股東價值，可能
+   是因為外部董事為了使股份價值最大化而盡力從事薪酬的談判，或可能是資本
+   市場、產品市場、勞動市場或公司控制權市場之競爭壓力所生的結果。王文宇
+   （註48）     ，頁21-22。
+50 See LUCIAN BEBCHUK & JESSE FRIED, PAY WITHOUT PERFORMANCE: THE
+   UNFULFILLED PROMISE OF EXECUTIVE COMPENSATION 2 (2004); Müller, supra note
+   41, at 168-69.
+51 BEBCHUK & FRIED, supra note 50, at 2.
+52 Id. at 42-43.
+評我國強制設置薪酬委員會之立法政策                                                          265
+
+
+
+
+開阻礙因素形成的部分原因，故諸多誘因與力量使得董事就薪酬安
+排無法與執行長從事合於常規交易之談判53。
+
+    既然許多研究顯示管理階層薪酬特徵與股東價值極大化模型實
+非一致，故管理階層權力理論指出，管理階層之薪酬安排反映出代
+理成本，以及試圖抑制代理成本之薪酬決定過程54；惟薪酬安排之
+制 訂 過 程 中 ， 管 理 階 層 可 能 因 個 人 所 處 職 位 之 優 勢 (positional
+advantages)而獲得超出應有的報酬，亦即利用此職位優勢得到優於
+原本常規交易談判下的薪酬55。實證研究顯示，當公司執行長薪酬
+較一般平均值高時，該公司低於執行長四個層級以內之管理階層薪
+酬，通常亦有較平均值高的傾向。然而，此薪酬較高的外溢效應
+                      56
+(spillover)乃以犧牲股東利益為代價 。在此理論下，投資人及財經
+媒體之義憤(outrage)所帶來的現實威脅，即在規訓薪酬之不當訂定
+方面扮演著重要的角色；故管理階層為了最小化前開團體的義憤，
+即會尋求薪酬之給付以較不引人注目的形式為之，或透過其他方法
+掩飾其所受領的薪酬57。
+
+  （三）團體生產理論(the team production theory)
+    此理論主張，就公司法議題之分析而言，與其透過傳統之本人
+與代理人間的代理問題觀點來解釋，倒不如將相關議題看成是一種
+團體生產問題(a team production problem)58 。蓋公開發行公司乃為
+共同利得而共同合作之團體，團體成員讓渡對企業的控制權，並將
+其產出交予董事會，董事會成為解決團體成員爭議與治理結構之核
+
+
+
+53 Id. at 43.
+54 Walker, supra note 49, at 3.
+55 BEBCHUK & FRIED, supra note 50, at 61-62.
+56 Id. at 64.
+57 Walker, supra note 49, at 3.
+58 有關團體生產問題之詳細討論，see Margaret M. Blair & Lynn A. Stout, A Team
+  Production Theory of Corporate Law, 85 VA. L. REV. 247, 265-76 (1999).
+266                                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+心的中樞掌權者(a mediating hierarch)59。團體成員授權董事會決定
+並區分義務與資源，同時，對參與內部目標決策與爭議解決之程序
+表示同意。 60 據此，董事會就薪酬安排的設計並非極大化股東價
+值，而是用以平衡利害關係人（stakeholders，諸如管理階層、員
+工、債權人）間的利益61。
+
+      （四）排擠理論(the crowding theory)
+       排擠理論乃行為經濟學(behavioral economics)62下的一種新近理
+論 。 其 主 要 闡 述 代 理 人 對 其 本 人 之 「 有 益 社 會 偏 好 (social
+preferences)」，會因以績效為導向之報酬機制等外在誘因(extrinsic
+incentives)而改變該原始內在動機(intrinsic motivation)，最終產生非
+原預期的不良結果，此乃有益社會偏好遭擠出(crowding out)的現
+象；有益社會偏好係指一般人會為他人服務之社會化傾向，原因可
+能是基於公平、互惠、利他主義及其他道德信念63。本理論強調薪
+酬此種外在誘因機制在設計時的困難64：如何提供一項有趣的工作
+給經理人，而利用其本身單純想從事該工作之內在動機？若可利用
+該動機，則應如何與外在誘因機制保持平衡，以避免擠出效應之非
+預期內的負面結果？若將此理論應用於公司與經理人簽訂的薪酬合
+
+
+59 中文說明，參見陳錦隆，公司治理與董事高權，頁14-16（2011年）
+                                    。
+60 Aviram, supra note 37, at 8.
+61 Walker, supra note 49, at 3.
+62 關於行為經濟學如何適用於法律規範之例，可參見蔡昌憲，美國金融消費者保
+   護規範之展望—以消費者金融保護局之創設為中心，月旦財經法雜誌，23
+   期，頁200-201（2010年）           。
+63 Nina Walton, Crowding Theory and Executive Compensation 1 (USC CLEO
+   Research Papers Series No. C11-10, 2011), available at http://ssrn.com/abstract=
+   1916218. 有關排擠理論進一步之經濟學理論上的討論以及實證研究，see
+   generally Bruno S. Frey & Reto Jegen, Motivation Crowding Theory: A Survey of
+   Empirical Evidence, 15 J. ECON. SURV. 598 (2001).
+64 See Müller, supra note 41, at 177-78 (“The organization can therefore use the
+   compensation as a screening element to attract people who want to work because of
+   intrinsic rather than extrinsic motivations. The compensation is therefore a tool to
+   screen all candidates for their level of intrinsic motivation.”).
+評我國強制設置薪酬委員會之立法政策                                                                267
+
+
+
+
+約時，當擠出效應發生而降低經理人生產力時，公司應如何激起經
+理人工作的誘因？論者指出，當公司相當仰賴激勵性合約(incentive
+contracts)致使擠出效應發生時，公司為提供額外誘因以誘使自利之
+經理人持續有效工作，可能必須強化誘因總量，薪酬支付數額將必
+因而增高。身為本人之股東將願意授予此種更大的誘因，蓋其了解
+以往使用的外在誘因已嚴重破壞諸如忠誠、公平、互惠等內在動
+機65。
+
+     循此，以激勵性薪酬(incentive pay)解決薪酬過高的問題，可能
+會產生擠出效應。或以為當固定薪酬無法促使經理人的工作表現符
+合股東期待時，似得以績效為導向的激勵性薪酬，提供管理階層努
+力工作的誘因66；惟此種作法亦同時可能導致管理階層或董事採取
+高風險行為，且促使經理人努力工作之誘因後來卻造成管理階層據
+此領取過高薪酬，導致公司整體薪酬成本上升67。簡言之，具股權
+性質之激勵性薪酬（equity-based incentive pay，例如股票選擇權或
+後述之限制型股票）可能未有效率地解決如何使經理人之利益與股
+東者相互一致的原有問題68；此種薪酬安排反而可能因擠出效應而
+產生過度發放薪酬的不良後果，並降低代理人對本人之有益社會偏
+好的原始內在動機69。
+
+三、小結
+
+     一般而言，薪酬安排乃管理才能(managerial talent)之市場力量
+
+
+
+65 Walton, supra note 63, at 3-4.
+66 Andrew C.W. Lund & Gregg D. Polsky, The Diminishing Returns of Incentive Pay in
+   Executive Compensation Contracts 5-6 (Univ. of North Carolina, Sch. of Law, Legal
+   Studies Research Paper No. 1838387, 2011), available at http://ssrn.com/abstract=
+   1838387.
+67 Id. at 47.
+68 See id. at 38.
+69 Walton, supra note 63, at 21.
+268                                          《中研院法學期刊》第11期（2012年9月）
+
+
+
+互動下的結果，亦即供給與需求等力量交互作用下的產物70。美國
+紐約大學的經濟學教授Clementi及Cooley曾對美國1993年至2006年
+企業管理階層每年的薪酬變化進行實證研究，該研究指出管理階層
+之財務獎勵(financial reward)與促進股東財富間具強烈關連性71。換
+言之，對股票投資人而言，公司的薪酬安排除代表投資機會外，同
+時呈現此公司作為投資標的之價值72。亦即，股東應會想要投資一
+間公司的執行長，其中該執行長報酬多寡係視股東將收受之盈餘金
+額而定；薪酬安排也反映出公司之目標為何，以及執行長及董事會
+對該公司之未來有信心的程度73。
+
+        目前針對形成「薪酬過高(compensation is excessive)」之原
+因，似未有定論。吾人可轉為思考「薪酬過高」的意涵為何 74 。
+「薪酬過高」所涉及之股東與管理階層間的本質上利益衝突問題，
+非在於薪酬總金額之多寡，毋寧是在於經理人工作績效與薪酬間缺
+乏連結性，形成代理成本增加致生薪酬過高的結果；亦即，就薪酬
+過高之判斷而言，股東所在乎的是經理人薪酬是否會依其工作表現
+之不同而有所差異(the variability of the compensation)75。從而，判
+斷薪酬是否過高之重點，在於公司財富成長能否對執行長之薪酬增
+加幅度提供良好的解釋76。重要的是，公司若具備結構完善的薪酬
+制度且薪酬安排獲得密切監督，即能讓經理人與股東之利益更加一
+
+
+
+70 BEBCHUK & FRIED, supra note 50, at 20.
+71 Gian Luca Clementi & Thomas F. Cooley, Executive Compensation: Facts 2-3 (FEEM
+      Working Paper No. 89.2010, 2009), available at http://ssrn.com/abstract=1666822.
+72 ROBERT A. G. MONKS & NELL MINOW, CORPORATE GOVERNANCE 306 (4th ed. 2008).
+73 Id. at 307.
+74 See Posner, supra note 4, at 1015 (“With positive agency costs (the costs arising from
+   imperfect agency), CEO compensation is likely to be excessive in the sense of being
+   greater than it would be if the incentives of principal and agent were perfectly aligned
+   and agency costs therefore zero.”).
+75 MONKS & MINOW, supra note 72, at 306, 309.
+76 ALLEN ET AL., supra note 43, at 331.
+評我國強制設置薪酬委員會之立法政策                                  269
+
+
+
+
+致化，進而減少管理階層的代理成本77。綜上，在政府以外部管制
+力量介入公司內部薪酬安排時，前述經濟理論可提供吾人思考的出
+發點，分析政府管制公司薪酬安排之政策正當性基礎為何78。
+
+
+
+參、比較法觀點
+
+   經由前述經濟理論作為吾人思考薪酬規範的上位基礎後，以下
+將透過美國普通法及相關法令之演變，以及2010年金融改革法對美
+國新增之薪酬管制的介紹，作為我國薪酬規範比較法分析之基礎。
+
+一、金融海嘯前之美國普通法及相關法令
+
+  （一）美國普通法
+   1. 薪酬決定、利益衝突及董事忠實義務
+
+   薪酬決定與董事忠實義務有關的主要判決，涉及幾個重要問
+題：董事薪酬過高的薪酬決策，是否存有利益衝突？該利益衝突是
+否 構 成 忠 實 義 務 的 違 反 ？ 忠 實 義 務 與 商 業 判 斷 法 則 (Business
+Judgment Rules, BJR)間的適用關係為何？一般而言，在支付薪酬給
+公司董事或身兼董事之經理人時，董事會作成之董事薪酬決定便被
+認為是自利交易(self-dealing)的一種形式79。原則上在此種涉及利益
+衝突之忠實義務違反的案件中，商業判斷法則無適用餘地，此際身
+
+
+
+77 Id. at 330. 關於如何使公司具備結構完善的薪酬制度且薪酬安排獲得密切監
+   督，重點之一在於落實薪委會成員的究責問題（參本文「肆、四」          ）
+                                          ，並建立完
+   整妥適的外部司法審查機制（參本文「肆、五」                ）
+                                        。
+78 本文以下另將透過此處經濟理論探討我國薪酬規範之相關問題，諸如：不同公
+   司治理結構影響不同薪酬問題的形成（參本文「肆、二」）、薪委會成員資格
+   （參本文「肆、三」）、激勵性獎酬之限制型股票的發放（參本文「肆、八」）
+   等部分。
+79 ALLEN ET AL., supra note 43, at 330.
+270                                          《中研院法學期刊》第11期（2012年9月）
+
+
+
+為公司受託人(fiduciary)之被告即負有舉證責任。惟美國州法通常
+會規定若公司受託人能證明以下三種情形之一，具利益衝突之董事
+與公司間的交易即非屬得撤銷(voidable)：（一）系爭交易在簽訂時
+對公司而言係屬公平；（二）該交易獲無利益衝突之董事的批准；
+（三）該交易獲無利益衝突之股東的批准80 。前述（二）及（三）
+之情形即是所謂的「安全港」(safe harbor)，具利益衝突之交易通過
+安全港程序，系爭交易即如同經消毒過一般，而無需再考量交易本
+身之公平性(fairness)81。依美國德拉瓦州(Delaware)法，若一具利益
+衝突交易通過前開（二）或（三）之程序，此際原告即負有舉證責
+任來證明系爭交易對公司非屬公平。此即意味著被告勝訴之機會大
+增，蓋法院會在適用商業判斷法則之前提下審酌系爭交易是否公
+平。換言之，若能證明系爭交易已通過前述（二）或（三）的程
+序，即證明無利益衝突之情事存在，此際商業判斷法則即有適用82。
+此外，若董事會作成的董事薪酬安排有過當(overcompensating)之
+虞，具利害關係之董事是否構成忠實義務的違反？假定所有的董事
+就此薪酬議題具有利益衝突，且該薪酬安排未獲股東會決議通過，
+此際舉證責任便由被告董事負擔，其須證明發放的薪酬內容係屬公
+平；若系爭薪酬安排乃過當(excessive)，則依美國最高法院1933年
+                83
+Rogers v. Hill 案 之 見 解 ， 董 事 可 能 須 為 浪 費 公 司 資 產 (waste
+                             84
+corporate assets)負責，並因而違反忠實義務 。又董事薪酬決定既
+被視為自利交易的態樣之一，故若合於前述安全港程序，該決定原
+則上將獲法院支持；亦即，此薪酬安排受到商業判斷法則的保護，
+
+
+
+80 ROBERT W. HAMILTON & RICHARD D. FREER, THE LAW OF CORPORATIONS IN A
+      NUTSHELL 175 (6th ed. 2011).
+81 Id. at 176.
+82 Id. at 177-78, 180.
+83 Rogers v. Hill, 289 U.S. 582 (1933).
+84 HAMILTON & FREER, supra note 80, at 183. See also Wells, supra note 3, at 7 (“In
+      1933, the U.S. Supreme Court held . . . that compensation having ‘no relation to the
+      value of services for which it is given’ constituted waste”).
+評我國強制設置薪酬委員會之立法政策                                                                 271
+
+
+
+
+舉證責任轉移至原告股東，由原告證明系爭薪酬安排乃過當而構成
+浪費，故非屬公平。
+
+     其次，1941年 Heller v. Boylan案85中，法院強調當公司已使用
+程序性措施(例如具獨立性之薪委會)以最小化薪酬決定之利益衝突
+的發生，由於法院欠缺足夠能力對薪酬安排進行調整，如何處理此
+等複雜之經濟問題便不是法院應置喙者，故法院不願介入管理階層
+之 薪 酬 發 放 而 進 行 事 後 猜 測 (second-guess) 86 。 再 者 ， 1993 年
+                    87
+Zupnick v. Goizueta案 針對舉證責任分配原則進行說明，指出公司
+與經理人間之薪酬合約若先經完全揭露，接著由不具利害衝突的董
+事基於善意而經安全港程序加以批准，系爭薪酬決定將受到商業判
+斷法則的保護，此際即由原告負舉證責任證明系爭薪酬安排構成浪
+費而非屬公平。因此，許多公開公司設有由獨立董事組成之薪委
+會，來審查並批准管理階層薪酬88。職是之故，原告股東能成功地
+挑戰管理階層薪酬之決定，通常是涉及閉鎖公司(close corporations)
+之情形；在此種情形中，薪酬安排常無法獲得不具利害關係之董事
+的批准，於是舉證責任便由被告經理人負擔，由其證明系爭薪酬決
+定對公司係屬公平89。總而言之，如上所述，倘薪酬決定獲無利益
+衝突之董事（如由獨立董事組成之薪委會）的批准而通過安全港，
+
+
+
+85 Heller v. Boylan, 29 N.Y.S.2d. 653 (N.Y. 1941).
+86 HAMILTON & FREER, supra note 80, at 183.
+87 Zupnick v. Goizueta, 698 A.2d 384 (Del. Ch. 1997). 此判決先指出，具股票選擇權
+   性質之薪酬計畫經不具利害關係的董事批准後，此際舉證責任即移轉至原告，
+   而須由其證明「浪費」事實之存在。此判決接著進一步表示，倘原告欲陳述一
+   項關於「浪費」的主張，且此主張既與董事具有利害關係之情形無涉，亦未提
+   及股東會的批准乃透過不適當方式取得等情事，則相關主張須能支持下述結
+   論，法院始肯認其有理由：無任何具備通常且健全的商業判斷能力之人會認
+   為，公司授予之選擇權所對應的公司收受對價，乃一具公平性的交易(no person
+   of ordinary, sound business judgment would say that the consideration received for
+   the options was a fair exchange for the options granted)。
+88 STEVEN M. BAINBRIDGE, CORPORATE LAW 151 (2d ed. 2009).
+89 Id. at 151-52.
+272                                 《中研院法學期刊》第11期（2012年9月）
+
+
+
+系爭薪酬安排即受商業判斷法則的保護，法院將尊重董事會的商業
+判斷。
+
+      2. Disney 案與無涉利益衝突之薪酬決定
+
+      Disney案在此亦值得加以說明，以進一步了解在董事無涉利益
+衝突下，注意義務及商業判斷法則於管理階層薪酬決定中扮演的角
+色90。本案起因於迪士尼公司(Walt Disney)與前執行長Michael Ovitz
+間之僱傭契約，該契約因有「無過失終止條款」(non-fault termination,
+NFT)，故使表現不佳的Ovitz辭職後，共領取約一億四千萬美元的
+離職給付(severance payments)，導致迪士尼公司股東對公司董事提
+起代位訴訟。本案主要爭點之一在於，董事會批准該公司與前任執
+行長Ovitz間之原始僱傭契約(Original Employment Agreement, OEA)
+的決定是否違反注意義務？且對Ovitz的離職給付是否構成浪費
+                             91
+(waste)？2005年德拉瓦州衡平法院判決原告股東敗訴 ，蓋其認為
+迪士尼薪委會之董事通過Ovitz薪酬契約的行為，非本於惡意(bad
+faith)為之；且至多僅有一般過失而非重大過失，依商業判斷法則，
+一般過失不足以構成注意義務的違反92。2006年德拉瓦州最高法院
+就薪委會董事是否違反其注意義務之爭點，維持衡平法院之見
+解93。詳言之，就舉證責任分配而論，本案原告必須證明因董事違
+反受託義務、本於惡意行事、或因董事未能在作出商業判斷前獲取
+所有其得合理取得之重要資訊，從而作出不明智(unintelligent)或未
+經諮詢(unadvised)的決策，始能排除商業判斷法則的推定保護。倘
+若原告無法推翻商業判斷法則之推定，則被告即勝訴；若原告舉證
+成功，則被告已不受商業判斷法則保護，舉證責任轉換至被告，此
+
+90 詳細事實的中文說明，可參見林建良、李韋誠、黃郁嵐、劉怡婷、劉懿德，米
+   老鼠的陰影—由迪士尼案看董事之注意義務，月旦民商法雜誌，19期，頁
+   132-135（2005年）     。
+91 In re Walt Disney Co. Derivative Litig., 907 A.2d 693 (Del. Ch. 2005).
+92 ALLEN ET AL., supra note 43, at 339-41.
+93 In re Walt Disney Co. Derivative Litig., 906 A.2d 27, 55-60 (Del. 2006).
+評我國強制設置薪酬委員會之立法政策                                    273
+
+
+
+
+際 被 告 須 證 明 遭 原 告 質 疑 的 交 易 對 公 司 係 屬 完 全 公 平 (entirely
+     94
+fair) 。
+
+     應附言者，本案亦指出，德拉瓦州公司法第102條第b項第7款
+允許股東在公司章程明訂若董事違反注意義務，得免除董事負個人
+財產上之損害賠償責任，惟上開免責範圍並不包括違反忠實義務及
+欠缺善意的情形；尤就欠缺善意而言，該州法院認為倘董事失職
+(abandonment of office)或未盡心(inattention)之情事過於嚴重，將導
+致商業判斷法則及德拉瓦州公司法第102條第b項第7款之免責條款
+無適用餘地95。
+
+     3. 小結
+
+     管理階層才能的價值如同其他商品，應由市場加以決定，此決
+定涉及其他人將如何支付管理階層的服務，以及管理階層對特定公
+司是否具獨特價值；對法院言，此薪酬決定合理性之判斷乃相當困
+難的問題96。蓋法院並非市場機制中看不見的手，原則上不宜介入
+市場機制所作成之薪酬決定。有鑑於判斷困難性，美國法院在合乎
+安全港程序的情形，即以商業判斷法則之概念作為審查薪酬決定的
+操作標準。然而，在涉有利益衡突之情形，公司與其管理階層、董
+事間就薪酬契約的作成，本質上既屬自利交易之一種97，而有忠實
+義務違反之虞，故原則上即不受商業判斷法則的保護98。除非該薪
+酬決定之作成係由不具利害關係的董事或股東會決議通過，同時該
+決策過程乃遵守充分揭露、秉持善意之程序；此際作成決定的董事
+既履行妥善安排交易模式及決策過程，其已通過安全港，系爭決定
+即例外受到商業判斷法則的保護。綜上所述，「自利交易」與「浪
+
+
+94 ALLEN ET AL., supra note 43, at 341.
+95 Id. at 347-48.
+96 RIBSTEIN & LETSOU, supra note 33, at 458.
+97 Id. at 465.
+98 HAMILTON & FREER, supra note 80, at 171.
+274                                   《中研院法學期刊》第11期（2012年9月）
+
+
+
+費公司資產」兩者在主張董事薪資報酬不當時之適用時機有所不
+同：一般而言，當薪酬安排涉及公司管理階層且董事又身兼管理階
+層時，由於董事自決報酬為一種自利交易，且自利交易屬忠實義務
+違反態樣之一，則當該薪酬安排未獲無利害衝突的董事或股東批
+准，該管理階層即負有舉證責任而須證明系爭安排對公司係屬公
+平；惟若被告證明系爭安排業經不具利害衝突的董事或股東等安全
+港程序加以批准，此際舉證責任轉換到原告股東，就此時所適用之
+司法審查標準而言，通常在非利害衝突董事作成之薪酬決定的情
+形，原告股東須證明此薪酬決定違反商業判斷法則。惟通常在不具
+利害關係股東會通過之股票選擇權計畫的情形，原告股東須證明此
+薪酬決定乃構成公司資產的浪費99。
+
+      鑑於近年來美國股東訴訟風險之攀升，美國董事會成員已提高
+警覺，不再被動依賴經營階層及外部顧問；換言之，董事逐漸調整
+步調，以提升董事會之誠實、廉潔與法令遵循為目標100。實務上，
+許多美國公開發行公司建立由獨立董事組成之薪委會，藉程序上的
+獨立性作為降低利益衝突之安全港，使董事及經營階層未來面臨股
+東訴訟時，受商業判斷法則的保護，負擔較輕的舉證責任101。蓋理
+
+
+99  關此，ALI Principles of Corporation Governance § 5.03 即有明確規範，see 2
+    JONATHAN R. MACEY, MACEY ON CORPORATION LAWS 16-74 (2010-2 supp., 2010).
+    See also RIBSTEIN & LETSOU, supra note 33, at 465; HAMILTON & FREER, supra
+    note 80, at 177-82. 另值注意者，凡於「浪費公司資產」的情形，商業判斷法
+    則即無適用餘地，蓋不具利害關係之董事鮮可能會批准一項浪費的交易；有
+    鑑於法院對於「浪費」在適用上的高標準，原告即負有相當高的舉證責任。
+    PINTO & BRANSON, supra note 35, at 263. 以現代觀點來看，雖然「浪費」難以
+    證明，此標準之適用仍容許司法就交易之實質面進行某程度的審查。此審查
+    標準之背後道理在於，股東無法批准一項浪費的交易。蓋一項浪費的交易傳
+    統上被視為一項無效的交易（例如不合法或詐欺），從而無法因獲得股東的
+    批准而變為有效。美國法院以為，多數不具利害關係之股東在一項浪費交易
+    的資訊全面被揭露下，極不可能會批准該交易。PINTO & BRANSON, supra note
+    35, at 264-65.
+100 陳錦隆（註59）       ，頁191。
+101 有關涉及利益衝突之薪酬爭議的舉證責任，參見前文「參、一、（一）                                  、1」  。
+評我國強制設置薪酬委員會之立法政策                                                                  275
+
+
+
+
+論上獨立董事即為「不具利害關係」的董事，由具該身分董事組成
+之委員會所作成的決議，即有安全港的適用，渠等決策受到商業判
+斷法則之保護102。
+
+    （二）美國相關法令
+      1. 美國證管會
+
+     美國於1930年代，一系列的政府調查行動及股東訴訟案竟意外
+暴露出許多公司管理階層之薪酬安排存有嚴重問題，於是薪酬議題
+開始受到重視 103 。1993年，美國證管會(Securities and Exchange
+Commission, SEC)強化薪酬揭露規範，要求公司進一步公開揭露該
+公司內最高階之五名經理人的薪酬資訊。該次薪酬揭露改革主要重
+點 有 三 。 第 一 ， 公 司 應 採 標 準 化 的 彙 總 薪 酬 表 格 (Summary
+Compensation Table)，並揭露下列事項：年度薪酬，例如薪水及紅
+利；長期薪酬，例如限制型股票及股票選擇權之發放；以及有關公
+司前五大經理人的其他薪酬內容。第二，公司應詳述所有管理階層
+之薪酬合約，並揭露薪委會如何作成薪酬決定之薪委會報告書
+(compensation committee report)。第三，公司應備置顯示該公司過
+去五年所累積之股東盈餘的圖表，並以同期間內一般市場指標
+(broad-based market index)及同業指標(peer–group index)作為薪酬決
+定的比較基礎104。該次揭露政策改革之淨效應為增加薪酬透明度，
+
+
+102 關於瑞士透過獨立董事來決定內部董事及高階經理人薪酬的說明，see Müller,
+    supra note 41, at 171 (“One way to avoid the golf club syndrome is by appointing
+    independent directors for the pay-setting process. In Switzerland, independent
+    directors usually set the compensations of the insider directors and the top-level
+    executives through a remuneration or compensation committee.”).
+103 例如在股東質疑美國 Bethlehem Steel 公司之收購計劃的訴訟中，首次揭發公
+    開發行公司薪酬不當發放予管理階層之行為；例如：該公司總經理於1929年
+    領取超過160萬美金之薪酬，該公司於1920年代後期亦支付高階經理人上百
+    萬美金的紅利，惟同一期間並未對股東進行盈餘分派。Wells, supra note 3, at
+    5-7.
+104 ALLEN ET AL., supra note 43, at 335.
+276                                     《中研院法學期刊》第11期（2012年9月）
+
+
+
+其隱含目標可能是促使公司高階經理人之薪酬朝合理的方向發
+展105。2006年美國證管會延續1993年的改革方向，除要求公司繳交
+薪委會報告書外，並規定公司應陳明薪委會已與管理階層討論「薪
+酬討論與分析」(Compensation Discussion and Analysis, CD & A)之
+揭露，以持續加強管理階層之薪酬揭露106。此外，2006年改革不僅
+要求以單一數字呈現每一位高階經理人的所有薪酬項目，並將薪酬
+揭露面向擴大至退休金(retirement payout)、額外津貼(perquisites)、
+董事薪酬(director’s pay)以及關係人交易(related-party transactions)。
+關此，時任證管會主席Christopher Cox主張，前述擴大公司薪酬揭
+露的改革將能提升薪酬政策的透明度，並有助於投資人及社會大眾
+對企業薪酬政策的理解。惟論者指出，此強化薪酬揭露的政策方
+向，一方面造成董事對於如何「合理化」薪酬安排之所有形式，備
+感壓力。另一方面，薪酬揭露的強化可能進一步加速薪酬成長
+率107；抑或是，部分公司為美化揭露報表，刻意將應揭露之薪酬轉
+變為使人難以察覺的形式，以規避薪酬揭露108。論者曾質疑在證管
+會於1993年強化薪酬揭露規範後十餘年間，管理階層薪酬有長足的
+
+
+
+105 Id. at 335.
+106 陳錦隆（註59）    ，頁197-198。
+107 有學者就各國為解決過高管理階層薪酬所提出之管制策略進行比較研究，發
+    現強化管理階層薪酬揭露之規範的引進，常伴隨著薪酬水準的不斷上升。詳
+    言之，當詳盡的揭露被強制要求時，公司經理人及制訂管理階層薪酬之董
+    事，將能很快地發現同產業及與該公司規範類似之競爭者所提供的市場價
+    碼。因此，若一公司支付予經理人之薪酬低於市場水準，該經理人將完全發
+    覺此事，且可能因其受領較低薪酬而覺得社會地位遭貶損，故可能強烈要求
+    公司須比照調高其薪酬。制訂薪酬之董事亦可能會同情這樣的要求，特別是
+    在公司廉價之薪酬安排被看成是默認其經營團隊乃低於業界平均值的情形，
+    更是如此。公司同時也會擔心重要的經理人將會跳槽至提供較優厚薪酬條件
+    之競爭者，這樣的恐懼心理亦會加速薪酬之成長。若所有公司最終均比照或
+    超過市場價碼來給付薪酬，薪酬的加速成長即是無法避免的結果。Brian R.
+    Cheffins & Randall S. Thomas, The Globalization (Americanization?) of Executive
+    Pay, 1 BERKELEY BUS. L.J. 233, 271-73 (2004). 與此相關之其他美國理論與實證
+    研究的整理，see Walker, supra note 49, at 17.
+108 ALLEN ET AL., supra note 43, at 336.
+評我國強制設置薪酬委員會之立法政策                                         277
+
+
+
+
+增長；雖然1990年代驚人的股市多頭表現提供部分的解釋，但揭露
+規範本身難道對薪酬增長無推波助瀾之效109？
+
+   2. 交易市場規範
+
+   相較於證管會著重薪酬揭露之規定，交易市場則更重視薪酬規
+範中的獨立性議題。紐約證交所(NYSE)強制所有於該所掛牌上市
+之公司，須設置至少3名以上獨立董事組成之薪委會，且該獨立董
+事與上市公司間應不具重大關係(material relationship)。薪委會應訂
+定書面章程並載明應記載事項，例如：薪委會之設置目的與職責、
+其年度績效評估、以及其他應表明事項。薪委會之職權主要包括：
+審查及批准與執行長薪酬有關之公司營運目標及其他目的，並根據
+此等目標及目的來評估執行長的工作表現，而且基於上開評估結果
+以決定及批准執行長的薪酬水準(compensation level)110；向董事會
+提出執行長以外之經理人的薪酬(non-CEO compensation)、激勵性
+薪酬(incentive-compensation plans)及具股權性質之薪酬計畫(equity-
+                111
+based plans)等建議   ；製作證管會要求之有關管理階層薪酬的薪委
+會報告書，並將該報告書納入公司年度股東代理委託書(annual
+proxy statement)，或納入將提交於證管會之公司年報(Form 10-K)
+
+
+109 Id. at 335.
+110 NYSE LISTED COMPANY MANUAL § 303A.05(b)(i)(A).
+111 Id. at Sec. §303A.05(b)(i)(B). 故綜合而言，薪委會對執行長之薪酬具有決定
+   權。惟薪委會對執行長以外之經理人的薪酬僅具有建議權，後仍須經董事會
+   決議通過；蓋董事會本即負有制訂管理階層薪酬以及董事自身薪酬之職責。
+   HAMILTON & FREER, supra note 80, at 183. 關於如此區分之可能原因，筆者竊以
+   為，如同我國公司法第29條第1項第3款規定，經理人之薪酬本由董事會決
+   定，故就執行長以外之經理人的薪酬先經薪委會建議，最終再由董事會決議
+   通過，此部分不生問題。然而，如前文「貳、二、（二）                       」及後述「參、三、
+   （四） 」之說明，執行長尤可能因個人所處之職位優勢而獲得超出應有的薪
+   酬。蓋縱使執行長非身兼董事或董事長，由於私人情誼、人情壓力或其他社
+   會、心理因素，使得執行長對董事（尤其是內部董事）在決策上的潛在影響
+   力不可謂不大；故至少要求全由獨立董事組成之薪委會對執行長之薪酬擁有
+   最終決定權，而非循經理人薪酬由董事會決定之原則決策途徑，或較能減低
+   此種潛在的利益衝突。
+278                                《中研院法學期刊》第11期（2012年9月）
+
+
+
+中112。薪委會作成薪酬政策時，必須考量公司績效及股東權益，並
+比較同業之薪酬水準，參考公司過往之薪酬標準。薪委會得聘請薪
+酬顧問(compensation consultant)協助評估董事、執行長或其他經理
+人之薪酬，惟薪委會章程應賦予委員會獨立權限，以委任或解任薪
+酬顧問或同意顧問之費用113。
+
+        另一方面，那斯達克(NASDAQ)卻未有強制設立薪委會之規
+      114
+定           ，可見薪委會之設置不一定對所有公開公司均屬必要115 。倘
+若公司選擇設立薪委會，其成員身分原則上為獨立董事，例外可由
+董事會在特定情形下認為擔任薪委會成員符合公司與股東之最大利
+益的外部董事來擔任；惟該成員須「非屬該公司現任經理人或受僱
+人、經理人或受僱人之親屬」，但公司董事會應於次年度股東會年
+報中揭露其決策過程及理由116。反之，若公司選擇不設立薪委會，
+薪酬決定機關乃由多數之獨立董事組成的董事會，且僅能由董事會
+內之獨立董事參與薪酬的決定117。那斯達克不全面強制設置薪委會
+之作法，提供公司彈性選擇適當董事會架構之機會，並減低公司資
+源之耗損118。
+
+二、金融海嘯凸顯之問題
+
+        2007年美國房市崩潰後，金融海嘯凸顯對銀行業者之資本適足
+
+
+112 NYSE LISTED COMPANY MANUAL § 303A.05(b)(i)(C).
+113 See STEPHEN M. BAINBRIDGE, THE COMPLETE GUIDE TO SARBANES-OXLEY:
+    UNDERSTANDING HOW SARBANES-OXLEY AFFECTS YOUR BUSINESS 174 (2007). 參
+    見謝易宏，薪甘勤願—簡介美國薪酬委員會，月旦民商法雜誌，26期，頁
+    146-147（2009年） 。
+114 有關那斯達克對於掛牌公司薪委會之設置規範，see NASDAQ MANUAL RULE §
+    5605(D).
+115 謝易宏（註113）     ，頁147。那斯達克在美國之市場地位，相當於我國的證券櫃
+    檯買賣中心。
+116 謝易宏（註113）    ，頁148。
+117 謝易宏（註113）    ，頁148。
+118 謝易宏（註113）    ，頁148。
+評我國強制設置薪酬委員會之立法政策                                                                    279
+
+
+
+
+規定(capital requirement)應有更高的要求，以因應市場系統性風險
+等問題119。如前所述，經濟暨合作發展組織於2010年研究金融海嘯
+所暴露之問題，得出公司治理之不足導致金融海嘯產生的結論；其
+中，公司內部治理中之薪酬安排問題備受矚目。理論上，將薪酬、
+績效與風險承擔三者連結，即能促使管理階層具有誘因提升工作績
+效及承擔風險，達到極大化股東利益之目標120。且傳統觀點認為薪
+酬結構應被設計來激勵管理階層採取積極性的風險承擔行為，創造
+股 東 利 益 ， 而 非 促 使 其 採 風 險 避 趨 行 為 以 保 護 債 權 人 (debt
+           121
+holders)         。然而，此種具股權性質的薪酬安排（諸如限制型股票
+及股票選擇權）易使管理階層採取過高的風險承擔行為，使違約風
+險(default risk)上升，進而促生金融海嘯122。
+
+      實際上，金融海嘯所暴露出之薪酬安排問題誠屬複雜。首先，
+第一個問題是產業及商業模式之結構面因素的改變。結構面因素主
+要有二：一為過去30年以來投資銀行產業生態之改變。投資銀行執
+行長原本因身為合夥人而負無限責任，其行事便十分小心謹慎，故
+僅從事低風險之承銷(underwriting)及顧問業務；惟後來投資銀行為
+籌集大量資金以進行高風險之自營交易(proprietary trading)，幾乎每
+一間投資銀行的組織形態從合夥制轉變為公司制，以透過發行股票
+方式籌資。二為稅法創造誘因使企業以股票而非現金的方式支付執
+行長的薪酬。以上因素綜合地促使大型銀行之執行長具強烈誘因採
+取過高風險行為，並有強大誘因為股東創造大筆盈餘。同時，執行
+
+
+119 SANJAY ANAND, ESSENTIALS OF THE DODD－FRANK ACT 118-19 (2011).
+120 Hamid Mehran et al., Corporate Governance and Banks: What Have We Learned
+    from the Financial Crisis? 7-8 (FRB of New York Staff Report No. 502, 2011),
+    available at http://ssrn.com/abstract=1880009.
+121 Id. at 5.
+122 See id. at 5, 8; Sudhakar Balachandran et al., The Probability of Default, Excessive
+    Risk, and Executive Compensation: A Study of Financial Services Firms from 1995
+    to 2008, at 1, 36 (Columbia Bus. Sch. Research Paper, 2010), available at
+    http://ssrn.com/abstract=1914542.
+280                                     《中研院法學期刊》第11期（2012年9月）
+
+
+
+長從負合夥人之無限責任，轉為僅負身為公司經理人之個人有限責
+任，此種最重要的結構性轉變使得投資銀行家不再小心謹慎地行事
+123
+      。此外，政府紓困(bailout)方式不當，惡化薪酬安排問題。蓋政
+府 以 納 稅 人 的 錢 援 助 規 模 大 或 相 互 連 結 關 係 強 (too big or too
+interconnected to fail)的金融企業，造成公司管理階層可能在證券分
+析師及股東之壓力（其等有誘因承擔大型系統性風險）下，有很大
+誘因採取可能導致金融海嘯發生之借貸及交易行為124。是故，結構
+面、法律責任面及政策面皆顯示公司薪酬安排具迫切改革的必要
+性。
+
+       有鑑於此，2009年9月G-20高峰會中，為預防金融業者利用法
+域選擇(choice of jurisdiction)之自由而於國際人才市場中進行規範套
+利(regulatory arbitrage)，G-20不僅全體贊同以下觀點：金融業之過
+高薪酬促生過高的風險承擔行為並導致金融海嘯；G-20亦一致同意
+針對薪酬議題提出處理重要金融機構所生之治理問題的三項原則：
+經理人績效與風險誘因、公司治理以及管制監督125 。美國聯準會
+(the Federal Reserve)相應地提倡透過下述方式平衡風險承擔之誘
+因：(1)對於用來決定薪酬內涵之員工表現判斷基準進行事前的風險
+調整；(2)利用延遲薪酬發放時點以及較長的績效評估期間，透過風
+險結果決定薪酬；(3)考慮黃金降落傘等大額離職金對員工風險誘因
+造成的影響126。此外，聯準會亦要求銀行整合以下三種薪酬監督機
+制：風險管理流程、內部控制制度、以及由須確保銀行安全之董事
+會進行激勵性薪酬的積極監督 127 。金融穩定委員會(the Financial
+
+
+123 See David Skeel, Making Sense of the New Financial Deal, 5 LIBERTY U. L. REV.
+      181, 193-94 (2011).
+124 Jennifer Carpenter et al., Reforming Compensation and Corporate Governance, in
+    REGULATING WALL STREET: THE DODD-FRANK ACT AND THE NEW ARCHITECTURE
+    OF GLOBAL FINANCE 493, 495 (Viral V. Acharya et al. eds., 2011).
+125 Id. at 496.
+126 Id. at 497.
+127 Id.
+評我國強制設置薪酬委員會之立法政策                                                                 281
+
+
+
+                               128
+Stability Board, the FSB)            此一國際組織則針對薪酬安排之治理，
+提議薪委會之運作應獨立於管理階層，並應與公司風險委員會(risk
+                                                                            129
+committee)合作評估公司內部薪酬系統所創造的風險誘因為何                                               。
+
+三、金融改革法之回應
+
+   （一）金融改革法之簡介
+     金融海嘯重創全球經濟後，美國政府於2010年7月通過金融改
+革法，該法被稱為自1930年經濟大蕭條(the Great Depression)後最具
+野心且涉及層面最廣之金融管制的全面改革，此將深刻地改變美國
+金融市場的結構130。
+
+     特別的是，金融改革法透過增修1934年證券交易法(Securities
+                                      131
+Exchange Act of 1934)第10C條                、第14A條132及第10D條，對企業
+之薪酬安排進一步加以規範。舉例言之，前述第10C條賦予證管會
+頒布相關規則之權力，禁止未設置成員全為獨立董事之薪委會的公
+司於全國性證券交易所(national securities exchange)與全國性證券商
+協會(national securities association)，將其任何具股權性質之有價證
+券掛牌上市交易133、134。如下詳述，金融改革法中有關公司治理之
+
+
+
+128 金融穩定委員會之成立目的，乃在國際層面協調各國金融主管機關及國際準
+    則制訂組織在金融管制、監督及政策方面的訊息交流和合作。參見該委員會
+    的官方網站，http://www.financialstabilityboard.org/about/overview.htm（最後瀏
+    覽日：2011年11月23日）            。
+129 Carpenter et al., supra note 124, at 496.
+130 Viral V. Acharya et al., Prologue: A Bird’s-Eye View: The Dodd-Frank Wall Street
+    Reform and Consumer Protection Act, in REGULATING WALL STREET: THE DODD-
+    FRANK ACT AND THE NEW ARCHITECTURE OF GLOBAL FINANCE 1, 1 (Viral V.
+    Acharya et al. eds., 2011).
+131 15 U.S.C. § 78j-3.
+132 15 U.S.C. § 78n-1.
+133 15 U.S.C. § 78j-3(a).
+134 LOUIS LOSS ET AL., FUNDAMENTALS OF SECURITIES REGULATION 119-20 (5th ed.
+    Supp. 2011).
+282                                     《中研院法學期刊》第11期（2012年9月）
+
+
+
+薪酬部分的主要規範包含135：股東諮詢性投票(shareholder advisory
+say-on-pay vote) (§951)；薪委會成員之獨立性要求與監督任務以及
+薪酬顧問(compensation consultants) (§952)；額外薪酬資訊之強制揭
+露(compensation disclosure) (§953)；擴大2002年沙賓法(the Sarbanes-
+Oxley Act)對管理階層超額薪酬(excess pay)之索回條款(clawback
+                                 136
+provision)的射程範圍(§954)                  。此外，金融改革法授權聯準會制訂
+相關規定，要求金融機構必須陳報以誘因為導向的薪酬結構
+（incentive-based compensation structures，亦即激勵性薪酬）
+                                                ，亦禁止
+鼓勵可能促生公司財務受嚴重損害之不當風險的激勵性薪酬計
+畫137。以下將進一步討論該法與薪酬安排管制有關，且對我國法具
+有直接重要啟示的規範。
+
+      （二）股東諮詢性投票
+      本規定乃股東權力增強(shareholder empowerment)的體現138 ，
+蓋即使股東薪酬表決權不具拘束效力，但此種股東諮詢性投票可平
+衡股東對管理階層薪酬之決定力量，將薪酬決定之主導權某程度自
+
+
+
+135 See Stephen M. Bainbridge, The Corporate Governance Provisions of Dodd-Frank
+    2 (UCLA Sch. of Law, Law-Econ. Research Paper No. 10-14, 2010), available at
+    http://ssrn.com/abstract=1698898; id. at 119-21.
+136 關於索回條款在金融改革法制定前後之理論與實務上的全面性說明，see
+    generally Jesse M. Fried & Nitzan Shilon, Excess-Pay Clawbacks, 36 J. CORP. L.
+    721 (2011). 金融改革法制定生效前，美國法制下得執行索回條款者為證管會
+    及公司董事。雖然2002年沙賓法第304條授權證管會索回權限，惟該款規定
+    的實行成效不佳；並且公司董事在成本效益權衡下，亦無誘因執行索回條
+    款。有鑑於前述問題，金融改革法擴大沙賓法對於索回超額之激勵性薪酬的
+    適用範圍，禁止未備有索回條款之公司將其任何有價證券掛牌上市交易。See
+    also Bainbridge, supra note 135, at 8-9.
+137 WILSON, supra note 15, at 103.
+138 近年來國際上的薪酬規範發展，美國、澳洲、英國均向「股東權力增強」或
+    「以股東為中心」(shareholder-centered approach)的方向靠攏。See Jennifer G.
+    Hill, Regulating Executive Remuneration after the Global Financial Crisis:
+    Common Law Perspectives 12, 16, 20-21, 28-29 (Sydney Law Sch. Research Paper
+    No. 11/91, 2011), available at http://ssrn.com/abstract=1956294.
+評我國強制設置薪酬委員會之立法政策                                                                 283
+
+
+
+
+董事會往股東一端移動139。就理論面而言，促進股東表決權之積極
+行使（如經由機構投資人大量持股）可解決股權分散所面臨的集體
+行動問題(collective action problems)，並解決經理人工作欠缺效率的
+監督問題140。基此，積極提倡增強股東權力者認為應提升股東的表
+決權利(voting rights)及對公司事務(corporate affair)之影響力，始能
+確保董事會及管理階層對股東負責，並減少詐欺及其他形式之不當
+行為的產生141。進一步而論，此乃涉及公司薪酬決定過程的核心問
+題—薪酬決定機關究採股東會中心(shareholder primacy)或董事會
+中心(director primacy)之爭議142。
+
+     實際上，英國於2002年施行股東諮詢性投票制度，乃全球第一
+個採行此制度的國家143。其後有許多國家隨之仿效，例如：瑞典及
+澳洲追隨英國股東諮詢性投票制度；荷蘭及挪威進一步強化英國股
+東諮詢性投票制度，將關於薪酬安排之諮詢性意見，轉變為每年針
+
+
+
+139 See Lund & Polsky, supra note 66, at 6, 35-36.
+140 See Kelli A. Alces, Revisiting Berle and Rethinking the Corporate Structure, 33
+    SEATTLE U. L. REV. 787, 792-93 (2010).
+141 Lisa M. Fairfax, The Model Business Corporation Act at Sixty: Shareholders and
+    Their Influence, 74 LAW & CONTEMP. PROBS. 19, 19 (2011).
+142 股東諮詢性投票被認為係增進股東權力及股東民主之政策，惟論者指出此種
+    以股東會為中心之改革措施的最後結果，可能有害整體投資人之利益。Lynn
+    A. Stout, New Thinking on ‘Shareholder Primacy’ 22-23 (UCLA Sch. of Law,
+    Law-Econ. Research Paper No. 11-04, 2011), available at http://ssrn.com/abstract=
+    1763944. 又股東諮詢性投票之理論爭議的上位概念，乃公司應從何種層面考
+    量股東利益，現行有兩種理論：一以股東會為中心、一以董事會為中心。前
+    者認為公司存在之目的係極大化股東利益，故公司營運應以股東利益為優先
+    考量。惟後者主張公司除極大化股東利益外，尚須考量其他利害關係人的利
+    益（例如員工、債權人或整體社會等），始能最終滿足大眾股東(public
+    shareholders)等整體投資人之利益。進一步而論，董事會中心理論之支持者認
+    為，股東可能同意授權董事會作出有益於其他利害關係人之決策，縱使犧牲
+    股東利益也在所不惜，且事實上股東可能偏好董事會如此決策。See id. at 1,
+    24.
+143 The Directors’ Remuneration Report Regulations 2002, 2002, SI 2002/1986 (UK).
+    See also 2 JAMES D. COX & THOMAS LEE HAZEN, THE LAW OF CORPORATIONS 270
+    (3d ed. 2010).
+284                                    《中研院法學期刊》第11期（2012年9月）
+
+
+
+對高階經理人之薪酬進行具拘束力效果的股東薪酬表決權144。
+
+      美國2010年金融改革法始正式採行股東諮詢性投票制度。該法
+第951條透過增修1934年證券交易法第14A條，對股東諮詢性投票
+之規範則摘要如下145：（一）增修證券交易法第14A(a)(1)條，規定
+股東針對規則S-K第402點(Item 402 of Regulation S-K)所涵蓋之特定
+管理階層成員的薪酬進行投票，且表決頻率上不得少於每3年一
+次146。（二）增修證券交易法第14A(b)條，規定股東於發行公司從
+事併購、重大資產交易等情形(an acquisition, merger, consolidation,
+and sale or other disposition of all or substantially all of the assets of the
+issuer)，針對特定管理階層成員與公司間之黃金降落傘協議(golden
+parachute agreements or understandings)進行無拘束力(nonbinding)之
+諮詢性投票147 。（三）增修證券交易法第14A(c)條，明定第14A(a)
+條及第14A(b)條所規定之諮詢性投票對董事會無拘束力，且表決結
+果亦不應被視為對董事之受託義務造成影響148。（四）增修證券交
+易法第14A(e)條，賦與證管會得對特定發行公司進行豁免，使其等
+無需遵守前開規定149。換言之，股東諮詢性投票無法產生直接否決
+發行公司董事會薪酬決定之結果。
+
+      事實上，股東諮詢投票能否解決薪酬問題，仍有爭議。首先，
+支持者陣營認為，英國施行的經驗顯示出，股東諮詢性投票對於公
+司薪酬安排之決策會造成一定的影響150。此制不僅能保留董事薪酬
+
+
+
+144 ALLEN ET AL., supra note 43, at 336. 瑞士在其立法草案中亦考量賦與股東此種
+    具拘束力的同意權，惟此種同意權的制度乃預設規定，股東可選擇排除之，
+    see Müller, supra note 41, at 176.
+145 See LOSS ET AL., supra note 134, at 119; Bainbridge, supra note 135, at 3-5.
+146 15 U.S.C. § 78n-1(a).
+147 15 U.S.C. § 78n-1(b).
+148 15 U.S.C. § 78n-1(c).
+149 15 U.S.C. § 78n-1(e).
+150 Walker, supra note 49, at 18-19.
+評我國強制設置薪酬委員會之立法政策                                                                           285
+
+
+
+
+決策的彈性，結合股東投票的反饋價值151 ，並能改善薪酬安排內
+容，且促進薪酬與績效的連結152。此外，有研究顯示股東諮詢性投
+票並未獨厚特定的利益團體，且此種表決體現出股東亦有能力了解
+執行長薪酬之發放與其績效間的關係；或許更重要的是，雖然一般
+認為「抵制董事選舉運動」(vote-no campaigns) 153 較股東提案權
+(shareholder proposals)在減少執行長過高薪酬上更為有效，惟有研
+究指出股東諮詢性投票與抵制董事選舉運動均較股東提案權更為有
+效，但前者所需成本較低154。然而，反對者陣營認為若法律強制公
+司採行股東諮詢性投票，可能會限制公司薪酬安排的作法，易產生
+無效率的結果155 。現實上，美國於2011年召開年會的1998家公司
+中，只有32家的股東以多數票否決主管薪酬；換言之，否決主管薪
+酬的公司比例不到2%156；尚且，機構投資人鮮少在管理階層薪酬
+上表示異議或投下反對票157。
+
+
+151 Müller, supra note 41, at 176 (“[I]t is better to preserve the flexibility of the directors
+     and combine it with the feedback of an advisory vote about compensation.”).
+152 See, e.g., Fabrizio Ferri & David A. Maber, Say on Pay Votes and CEO
+    Compensation: Evidence from the UK 4 (2011), available at http://ssrn.com/
+    abstract=1420394. See also COX & HAZEN, supra note 143, at 271.
+153 抵制董事選舉運動，係指某些股東努力說服其他股東在某特定公司之年度股
+    東常會中，不將選舉權投給一位或數位董事的運動。Yonca Ertimur et al.,
+    Shareholder Activism and CEO Pay 7-8, 24 REV. FIN. STUD. (forthcoming Feb.
+    2011), available at http://ssrn.com/abstract=1443455.
+154 Id. at 4-5.
+155 Jeffrey N. Gordon, “Say on Pay”: Cautionary Notes on the UK Experience and the
+    Case for Shareholder Opt-In, 46 HARV. J. ON LEGIS. 323, 335 (2009).
+156 此數據之提供，係由美國最大型專業輔導投資客戶之委託與相關股東問題的
+   「機構股東服務公司」(Institutional Shareholder Services, ISS)，截至2011年6月
+    14日為止所做的調查結果。其中，ISS 創辦人羅伯．蒙克斯(Robert A.G.
+    Monks)先生對此現象發表看法，認為「薪酬發言權說的好聽是種發洩，說的
+    難聽是種騙局。……你只有改革形式，等於是場殘酷的騙局。」                                        。John Helyar
+    著，戴至中譯，改革流於形式 肥貓繼續當肥貓，今周刊，757期，頁144-145
+   （2011年）      。
+157 在美國證管會當過總會計師的林恩．坦納(Lynn Turner)說：大型共同基金公
+    司「不會在薪酬表決上跟管理階層作對，除非他們真的很糟糕。」這是因為
+    共同基金持有美國7成的證券，並且是許多公司最大的股東，基於自身商業
+286                                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+      無論採支持或反對立場，應檢視者為股東諮詢性投票是否創造
+股東財富？能否增加公司價值？實證研究指出，股東諮詢性投票有
+益 於 公 司 治 理 較 差 且 具 有 無 效 率 之 薪 酬 設 計 (inefficient
+                                   158
+compensation design)的公司                  。綜言之，股東諮詢性投票對於薪酬
+安排備受質疑或公司治理較弱的公司有所助益，惟亦可能傷害公司
+治理良好或薪酬安排並無問題之公司；易言之，規範上，股東諮詢
+性投票不應強制對所有公司一體適用(say on pay is not one size fits
+                                                           159
+all)，而應針對公司情況不同個別適用較為妥適                                        。
+
+      （三）薪酬揭露
+      1929年美國證券市場潰堤以及層出不窮之證券詐欺事件，促使
+美國政府重視以揭露為基礎的改革政策160。一般而言，美國董事、
+管理階層報酬之決定機制係採董事會中心的規範模式，並以薪委會
+作為公司薪酬之主要決定機關。161按美國1934年證券交易法未強制
+公司設置薪委會，證管會僅要求未設置之公司應說明其理由，並揭
+露其參與薪酬決定之董事162。又自1935年起，美國依1934年證券交
+
+
+    考量（例如：企業和大型共同基金簽訂為該企業員工之退休金計畫操盤的契
+    約），故鮮少在主管薪酬上表示異議。John Helyar 著，戴至中譯（註156），
+    頁145。惟另有實證研究顯示，機構投資人普遍支持股東薪酬表決權，認為
+    股東應於年度股東常會對美國及荷蘭公司之管理階層的薪酬設計種類及金額
+    擁有決定權，see Joseph A. McCahery & Zacharias Sautner, Institutional Investor
+    Preferences and Executive Compensation 15 (Eur. Banking Center Discussion
+    Paper No. 2011-028, 2011), available at http://ssrn.com/abstract=1926223.
+158 Jie Cai & Ralph A. Walkling, Shareholders’ Say on Pay: Does It Create Value?, 46
+    J. FIN. & QUANTITATIVE ANALYSIS 299, 302 (2011).
+159 Id. at 303, 334-35. See also Minor Myers, The Perils of Shareholder Voting on
+    Executive Compensation, 36 DEL. J. CORP. L. 417, 459 (2011) (“The shortcomings
+    of the legislation as currently drafted grow out of its overbreadth: it forces all
+    firms—not just those where shareholders believe say on pay would be beneficial—
+    to hold advisory votes on compensation.”).
+160 Wells, supra note 3, at 8.
+161 關此，Model Business Corporation Act § 8.11、ALI Principles of Corporation
+    Governance § 3A.05著有明文，see MACEY, supra note 99, at 16-73.
+162 賴英照（註20）         ，頁196。
+評我國強制設置薪酬委員會之立法政策                                                                  287
+
+
+
+
+易法公布之表格10-K年報(Form 10-K)，開始要求強制揭露高階經
+理人包含紅利在內的薪酬163。公開公司薪酬揭露政策則以規則S-K
+第402點為中心，其要求公開公司須在股東代理委託書及其揭露文
+件中揭露管理階層薪酬，縱使在未徵求股東對特定事項表示同意的
+情形亦是如此164。嗣後，美國證管會為提供更清楚明確之管理階層
+薪酬的揭露，於2006年6月修正規則S-K第402點，擴大強制揭露的
+範圍165。其中新增「薪酬討論及分析(CD&A)」的規定，要求公司
+詳細揭露決定管理階層薪酬之政策與實際作法的重要考量因素，此
+等揭露係為使投資人能更深入了解公司薪酬政策及其制訂過程。
+
+     2010年金融改革法之薪酬揭露規定於第953條，進一步要求對
+於薪酬予以額外的揭露；該條規定發行公司於年度股東代理委託書
+中，清楚說明管理階層薪酬與公司財務表現間之關聯性。此等揭露
+須讓投資人得簡單地對管理階層薪酬及公司表現進行比較。又基於
+比較的目的，該法要求證管會修正規則S-K第402點，新規定即要求
+揭露公司所有員工（執行長除外）之年度總薪酬的中位數、執行長
+的年度總薪酬、以及員工總薪酬中位數與執行長總薪酬的比例166。
+論者指出，此揭露政策可能產生的問題在於法令遵循之揭露成本將
+相當龐大，尤其相關規定在揭露上的複雜性，對於跨國企業在計算
+比例時產生計算上的惡夢(logistical nightmare)，蓋此種大型公司在
+全世界可能擁有上萬名員工167。
+
+
+
+
+163 Wells, supra note 3, at 8.
+164 RIBSTEIN & LETSOU, supra note 33, at 466.
+165 Jennifer G. Hill, Regulating Executive Remuneration: International Developments
+    in the Post-Scandal Era 13-14 (Vanderbilt Law and Econ. Research Paper No. 06-
+    15; Sydney Law Sch. Research Paper No. 06/10, 2006), available at http://ssrn.com/
+    abstract=922299. See also COX & HAZEN, supra note 143, at 266, 268-69.
+166 See Bainbridge, supra note 135, at 7; WILSON, supra note 15, at 103.
+167 Bainbridge, supra note 135, at 7-8.
+288                                           《中研院法學期刊》第11期（2012年9月）
+
+
+
+      （四）薪委會
+       自2000年初英國、澳洲及美國相繼發生企業弊案之後，三國皆
+透過董事會之組織改革(reforming the structure of boards)，均透過加
+強運用獨立董事之方式，以強化董事會功能168。值得注意的是，美
+國在安隆案後的改革(post-Enron reforms)則以強行規定(mandatory
+rules)為導向，透過沙賓法及上市準則特別著重成員獨立性的要
+求；例如：要求上市公司董事會成員多數須為獨立董事，強制設立
+成員均為獨立董事之審計委員會、提名委員會以及薪委會169。
+
+       金融改革法第952條增修美國證交法第10C條，對於薪委會成員
+作出相關規範，強制要求公開發行公司之薪委會應具備獨立性。證
+管會須執行所有上市公司皆須設置薪委會之要求，且薪委會成員必
+須同時為該公司之董事並具備獨立性170。惟此要求並未適用於被控
+制公司(controlled companies)或有限合夥(limited partnerships)。又薪
+委會獨立性之判斷標準則視成員董事之薪酬來源為何，以及成員董
+事與其所任職公司及關係企業(affiliates)間之關係而定。倘若公開發
+行公司未符合薪委會獨立性之標準，可能面臨下市(delisting)的後
+果171。
+
+       然而，薪委會成員獨立性可能無法發揮實質功效。首先，互兼
+董事(director interlocks, interlocking directorates)172可能會削弱獨立
+董事的功能；例如：A公司執行長到B公司擔任董事，B公司執行長
+到A公司擔任董事，有研究顯示當有此互兼董事情事存在時，這些
+
+
+
+
+168 Hill, supra note 165, at 21.
+169 Id. at 21-22.
+170 See LOSS ET AL., supra note 134, at 120; WILSON, supra note 15, at 103.
+171 ANAND, supra note 119, at 129.
+172 See HAMILTON & FREER, supra note 80, at 176 (“‘[I]nterlocking directorates’—
+      when one person is on the board of directors of both parties to a transaction.”).
+評我國強制設置薪酬委員會之立法政策                                                                   289
+
+
+
+
+公司之執行長薪酬較未有此情事存在者為高173。其次，薪委會之獨
+立董事成員與執行長或其他管理階層間之私人關係，或是其他社會
+或心理因素，亦有所影響174。實務上，董事或獨立董事之聘僱，通
+常由執行長推薦人選或因該人選與執行長有私交；於此情況下所選
+出之董事，或許基於人情壓力或自覺對執行長負有某種效忠的義務
+(a sense of obligation and loyalty)，對於執行長薪酬較不易有意見。
+有時即使董事在聘僱前與執行長不相識，但可能只是因為執行長未
+對該董事之提名進行杯葛，就會讓該董事心懷感激，此種互惠態度
+(reciprocity)導致其等不易對執行長薪酬有所異議。實證研究即顯
+示，在薪委會主席是由執行長上任後所指派者，薪委會傾向於對執
+行長發放較高的薪酬175。最後，同事關係導致的壓力、尊敬執行長
+所 生 之 偏 袒 自 己 人 的 談 判 問 題 、 認 知 上 的 不 協 調 (cognitive
+                                                                176
+dissonance)等社會或心理因素，皆可能影響獨立性                                        。
+
+     美國2002年沙賓法，將董事會成員獨立性之規範基礎建立在一
+項假設：董事會獨立性會減少管理階層之不當經營，且透過獨立性
+董事會的適當監督會減少未來企業弊案發生的可能；2010年金融改
+革法，似亦肯認董事獨立性將大為增進公司董事會之功效，而認為
+董事會獨立性乃公開發行公司所生代理成本問題的解決之道177。惟
+
+
+173 BEBCHUK & FRIED, supra note 51, at 29-30. 紐約證交所2002年6月採用新的上市
+    準則，即欲解決二公司執行長分別擔任對方公司之薪委員成員的問題。該上
+    市準則規定，若一董事受僱於一公司（或過去5年受僱於該公司）擔任董事，
+    其中該上市公司之高階經理人亦擔任該董事原任職公司的薪委員成員，則該
+    董事可能不被認為具獨立性。BAINBRIDGE, supra note 113, at 174. 論者以為此
+    等上市準則規定只是減低、但未完全消除互兼董事情事對獨立董事可能產生
+    之影響。BEBCHUK & FRIED, supra note 51, at 30.
+174 See, e.g., Müller, supra note 41, at 170-71 (“One problem in setting efficient
+    compensation is the so-called ‘golf club syndrome’, i.e., it is hard to object to a
+    compensation agreement for an executive with whom a director is friends.”).
+175 BEBCHUK & FRIED, supra note 50, at 31.
+176 Id. at 32-34.
+177 Nicola Faith Sharpe, The Cosmetic Independence of Corporate Boards, 34 SEATTLE
+    U. L. REV. 1435, 1445-47 (2011).
+290                                   《中研院法學期刊》第11期（2012年9月）
+
+
+
+有學者以為，此種「表面獨立性(cosmetic independence)」不足以解
+決近年來的企業弊案。表面獨立性就獨立性之內涵而言，僅考量公
+司董事與公司間之關係，而不及於董事在達成「實質獨立性
+(substantive independence)」目標所需要之工具：時間、資訊及知
+識；這三項工具在組織行為(organizational behavior)文獻中，已獲承
+認對於決策過程之有效性而言乃相當重要。換言之，論者主張應採
+納組織行為觀點下之時間、資訊及知識等要素，作為建構董事會之
+實質獨立性的內涵，始能促進董事會決策過程之有效性，促生公司
+較佳的表現178。簡言之，董事獨立性之重點不只是在於董事與公司
+間之關係(relationship)的親疏與否，更重要者毋寧是建立在獨立董
+事是否有足夠之時間、資訊及知識等獨立性的實質內涵；故董事獨
+立性之關鍵並非董事係由何種人擔任(who sits on the boards)，更重
+要的是董事會如何監督管理階層(how boards engage in monitoring
+               179
+management)       。
+
+      （五）薪酬顧問
+      2006年證管會在「薪酬討論及分析(CD&A)」的規定中，要求
+公開發行公司應揭露薪酬顧問於管理階層之薪酬決定過程中所扮演
+的角色180。2006年，S&P前1500大的公司已有86%使用薪酬顧問參
+與薪酬計劃的安排181。金融改革法第952條為讓薪委會得聘任符合
+獨立性標準之薪酬顧問及其他顧問，規定發行公司有義務提供適當
+資金以支付前開顧問合理的薪酬182。換言之，薪委會應有權力基於
+公司之利益、並由公司付費之方式，獨自負責專業人員之選任、聘
+僱、薪酬決定。另就薪委會資訊揭露部分，若薪委會聘僱薪酬顧
+
+
+178 Id. at 1451-52.
+179 Id. at 1437-38.
+180 Gordon, supra note 155, at 336.
+181 Walker, supra note 49, at 17.
+182 15 U.S.C. § 78j-3(e).
+評我國強制設置薪酬委員會之立法政策                                                             291
+
+
+
+
+問，公司股東代理委託書上須就此進行揭露，並揭露薪酬顧問之聘
+僱是否因而產生任何利益衝突之情事183。此外，美國證管會亦須明
+定會影響薪酬顧問及法律顧問之獨立性的因素。換句話說，在薪委
+會聘僱薪酬諮詢的專業人士（例如：薪酬顧問、律師或其他相關專
+業人士）之前，亦應考量相關人員之獨立性184。詳言之，金融改革
+法第952條增修美國證交法第10C(b)條規定，特別要求證管會限縮
+薪委會選擇薪酬顧問及其他專業顧問之權限，亦即要求薪委會須考
+量第10C(b)(2)條所明定之相關選擇因素185。
+
+      何以董事會或薪委會需要聘僱薪酬顧問？基本上，獨立董事之
+專業性及獨立性二者間存在著一種緊張關係。強化董事獨立性的同
+時，將必定減低其等對與該公司有關之特定資訊的了解。由於董事
+欠缺對公司特定資訊之了解(firm-specific knowledge)，若其等又必
+須履行諸如績效評估及薪酬制訂決策等困難任務，董事獨立性即可
+能造成阻礙。若董事的時間有限，其等在履行前開任務上的表現就
+會更差，蓋在管理階層擁有董事會議案設定之權限的情形，董事對
+公司事務所知愈有限，所面臨的前開任務就會變得愈困難。此等情
+形亦使得董事與管理階層就薪酬安排進行充分協商乙事變得困難，
+從而增加管理階層就薪酬合約的談判力量。有鑑於此，為能維持獨
+立董事對其任職公司事務之專業性，方法之一乃聘僱薪酬方面的顧
+問186。然而，薪酬顧問存在的正當性，實不無爭議。支持者認為，
+由於薪酬顧問提供關於複雜薪酬安排在經濟、揭露、稅務及會計層
+面所生影響等專業意見，以及擔任資訊蒐集的中介機構（例如：蒐
+集機密之薪酬數據、提供經摘要及編輯之數據予客戶），其即能夠
+
+
+
+183 15 U.S.C. § 78j-3(c)(2).
+184 See ANAND, supra note 119, at 129; WILSON, supra note 15, at 103; Bainbridge,
+    supra note 135, at 6.
+185 LOSS ET AL., supra note 134, at 120.
+186 Müller, supra note 41, at 171.
+292                                     《中研院法學期刊》第11期（2012年9月）
+
+
+
+增加公司薪酬安排過程的效率187。反對者認為薪酬顧問通常會建議
+簽訂過度豐厚的薪酬合約，蓋其覺得僱用他們的經理人對其有恩，
+此乃董事會或薪委會聘用此等顧問本身可能存在的固有利益衝突。
+批評薪酬顧問者聲稱，利益衝突之所以發生，係因當薪酬顧問與提
+供企業其他服務者為相同的顧問公司時，亦即在該顧問公司同時提
+供薪酬顧問以及其他相關之企業服務（例如：管理退休金資產或設
+計員工福利計畫）等情形，此利益衝突會使該同時提供薪酬顧問及
+其他服務之公司為繼續保有與該受諮詢公司的其他服務契約，可能
+會提供管理階層較高薪酬之意見，因而偏袒公司派，失其公平中立
+的立場188。此外，薪酬顧問的收入未與公司股東價值相連結，故若
+發生偏袒經理人之情事，薪酬顧問無需承擔此事對股東所加諸之成
+本；若薪酬顧問運用其裁量偏袒執行長，其只會得到好處，而無需
+承擔背後成本189。綜合而言，薪委會成員投入薪酬決策的時間、專
+業知識及掌握資訊有限，必須高度依賴薪酬顧問所提供的資料作為
+判斷標準；故薪酬顧問提供數據以供薪委會從事薪酬決定時考量，
+或從旁協助設定薪酬安排議題並提供選擇方式，即成為影響薪委會
+成員決策的重要關鍵。倘若薪酬顧問有心操縱薪酬安排的結果，僅
+需透過自身原有之範圍廣大的裁量權即能達成，從而作出偏袒管理
+階層薪酬的結果。總之，金融改革法下之新規定縱使如同紐約證交
+所上市準則，要求賦與薪委會單獨聘用薪酬顧問之權力，此種作法
+僅能減少利益衝突的產生，但無法完全消除薪酬顧問偏袒管理階層
+等利益衝突情事190。惟目前實證研究就薪酬顧問所生的利益衝突，
+
+
+
+
+187 See Walker, supra note 49, at 17-18.
+188 See David F. Larcker & Brian Tayan, Seven Myths of Executive Compensation 2
+    (Rock Center for Corp. Governance at Stanford Univ. Closer Look Series: Topics,
+    Issues and Controversies in Corporate Governance No. CGRP-17, 2011), available
+    at http://ssrn.com/abstract=1869019.
+189 BEBCHUK & FRIED, supra note 50, at 38.
+190 See id. at 39.
+評我國強制設置薪酬委員會之立法政策                                293
+
+
+
+
+對公司薪酬安排結果的影響為何，尚未有定論191。綜上所述，本次
+金融改革法對於薪酬顧問之規範的施行成效為何，仍有待後續觀
+察。
+
+四、小結
+
+  觀察美國普通法上的薪酬爭議及其相關法令之規範發展，可知
+美國在金融海嘯前已漸重視公司薪酬規範議題。其次，金融海嘯所
+暴露出的種種問題，促生對美國整體金融市場有重大影響的金融改
+革法。本文以上聚焦於金融改革法有關薪酬安排的公司治理規範，
+藉由研究各規範內容、目的及其演變，同時觀察美國或其他國家相
+關的實行成效，供吾人了解美國薪酬規範之變遷，以作為對我國法
+所生啟示的研析基礎。值得注意的是，從1930年代至2010年，美國
+相關法令逐漸加強對公司內部薪酬安排的管制，但美國司法審查對
+薪酬爭議似未朝嚴格審查的趨勢發展，可見美國司法實務並未因立
+法、行政部門加強管制公司薪酬安排，而影響其商業判斷法則的運
+作―亦即在不涉及利益衝突之情形下，不任意以事後猜測之態度介
+入公司內部的商業決策。
+
+
+
+肆、經濟分析及比較法觀點對我國薪酬規範之
+  啟示
+
+  從前述經濟理論到美國普通法及相關法令之薪酬規範發展，目
+標皆為確保管理階層之行事以公司及股東利益為出發點。為減輕、
+緩和股東與經營者間之代理問題，透過公司內部管控機制之落實
+（包括董事會之經營管理權、股東權行使等等）
+                    、外部管控機制及法
+
+
+191 許多相關實證研究就薪酬顧問的聘用是否會產生較高的管理階層薪酬乙事，
+  其結果並非一致。See Walker, supra note 49, at 17-18.
+294                         《中研院法學期刊》第11期（2012年9月）
+
+
+
+令規範要求，以期能有效監控公司董事及管理階層之行為，此亦屬
+我國公司治理法制規範重心所在192。就公司治理之薪酬面向而言，
+法制上如何促使管理階層及董事之薪酬計畫安排獲得妥適訂定，將
+影響公司經營者之績效，並涉及董事會功能與薪委會之制衡力量的
+發揮193。基此，本文將以前述經濟分析理論及美國法之薪酬規範為
+出發點，分析強制設置薪委會之立法政策與我國公司治理環境的契
+合度及其隱憂；並藉由探討我國相關薪酬規範與美國法間的差異，
+討論我國立法層面上與強制設立薪委會有關的其他薪酬規範問題。
+
+一、我國現行公開發行公司之薪酬規範概說
+
+      自金融海嘯以來，我國迭有公司處於連續虧損，惟該等公司之
+董監事酬金於蒙受虧損期間卻增加，且酬金增加幅度似已達顯不合
+理的程度，恐損及股東利益及有害公司治理194 。立法者或有鑑於
+此，為改善薪酬安排、加強公司治理，故於2010年11月24日增訂證
+券交易法（下稱「證交法」
+           ）第14條之6，強制上市櫃公司（含興櫃
+公司）設置薪委會；2011年3月18日，金管會公布薪委會辦法，實
+收資本額達新臺幣100億元以上的公司，2011年9月30日前要完成薪
+委會之設置，並於同年12月31日前至少召開1次會議；實收資本額
+未達100億的公司，得在2011年12月31日前設置完成（薪委會辦法
+第13條）
+    。
+
+
+
+192 參見林仁光，公司治理之理論與實踐—經營者支配或股東支配之衝突與調
+    整，臺大法學論叢，33卷3期，頁209（2003年）；邵慶平，論股東會與董事
+    會之權限分配—近年來公司法修正之反思，東吳法律學報，17卷3期，頁
+    156（2006年）    。
+193 參見林仁光（註13）         ，頁190。
+194 臺灣證交所公布我國2009年度稅後虧損但董監事酬金總額或平均酬金卻增加
+    的公司，共47家，例如：威盛電子（股票代號：2388）、華邦電（股票代
+    號：2344）、錸德科技（股票代號：2349）、華航（股票代號：2610）以及中
+    視（股票代號：9928）等等。參見公開資訊觀測站網站，公司年度稅後虧損
+    惟董監事酬金總額或平均每位董監事酬金卻增加，http://mops.twse.com.tw/
+    nas/t119/098320110128162343_sii2.htm（最後瀏覽日：2011年11月7日）
+                                                         。
+評我國強制設置薪酬委員會之立法政策                 295
+
+
+
+
+  我國薪委會主要規範內容如下：(1)主要職權為訂定及定期檢討
+董事、監察人及經理人績效評估及薪資報酬之政策、制度、標準與
+結構，並定期評估及訂定前開人員之薪資報酬；且委員會應綜合考
+量薪資報酬之數額、支付方式及公司未來風險等事項，始作成薪酬
+決策（薪委會辦法第7條）
+           。(2)委員會之組成，主要由董事會決議委
+任之，其人數不得少於3人，成員因故解任致人數不足3人，董事會
+應於3個月內補行委任；其等資格雖非僅限獨立董事，惟應符合專
+業性及獨立性之規定（薪委會辦法第4、第5、第6條）
+                        。(3)委員會決
+議程序，董事會不採納或修正薪委會之建議，應由全體董事3分之2
+以上出席，及出席董事過半數之同意行之，並於決議中綜合考量及
+具體說明通過之薪資報酬有無優於薪委會之建議（薪委會辦法第
+7、第8條）。(4)薪委會得經決議，委任律師、會計師或其他專業人
+員195，就行使職權有關之事項為必要之查核或提供諮詢，其費用由
+公司負擔（薪委會辦法第8、第11條）
+                 。
+
+  然而，限期強制設置薪委會政策公布後，安侯建業聯合會計師
+事務所(KPMG)於2010年7月6日，公布針對國內約255家上市櫃公司
+及興櫃公司董監事及經理人的薪酬問卷部分調查內容。問卷調查結
+果顯示：未來薪委會主要成員且被賦予重責的獨立董事，去年平均
+董事酬勞（年薪）在新台幣50萬元以下。約近8成的公司，並未針
+對董監事及高階經理人之薪酬訂定書面的管理制度或辦法；僅不到
+1成的公司表示，董事會目前有定期討論董監事及高階經理人薪酬
+的機制，每年平均討論次數為1.3次左右。僅有3成5的公司表示，
+有訂定具體的績效評估指標，作為計算發放董監事或經理人的非固
+定薪資（如獎金、盈餘分配等）金額基準。目前國內上市櫃公司，
+以制度化、書面化方式來管理董監事及高階經理人薪酬仍屬少數，
+
+
+
+195 此乃類似英美法下薪委會之「薪酬顧問」的概念，參見前本文「參、三、
+ （五）
+   」。
+296                              《中研院法學期刊》第11期（2012年9月）
+
+
+
+在決定薪酬的績效評估指標訂定方面，也未盡明確196。可見我國強
+制設置薪委會之政策執行初期可能有實務上的困難，故本文以下亦
+將檢討薪委會辦法的相關內容，希望能填補現行實務與立法期待間
+的落差。
+
+      另一方面，薪酬揭露政策之目的，在於「透過陽光、防止貪
+婪」197；以董事之薪酬揭露為例，藉由揭露董事酬金、兼任員工領
+取相關酬金、有無領取來自子公司以外轉投資事業酬金等薪酬的方
+式，以強化薪酬資訊透明性。我國現行公開發行公司之董監事及高
+階經理人的薪酬揭露規範，主要規定於公開發行公司年報應行記載
+事項準則第10條。我國薪酬揭露規範之爭議，主要集中於年報揭露
+方式。詳言之，我國採取的揭露方式非如美國一律採個別逐筆逐項
+揭露198，反而係以「彙總配合級距揭露」為原則，僅揭露薪酬總額
+級距及姓名199。且僅於以下三種情形，始要求應揭露個別董監之酬
+金：
+ （一）公司最近年度稅後虧損者，
+               （二）最近年度董監事持股成
+數不足情事連續達3個月以上者，（三）最近年度任3個月份董監事
+平均設質比率大於50%者。我國目前主管機關所採「彙總配合級距
+揭露」原則，學者多持質疑的觀點200。實際上，薪委會辦法中並未
+特別針對應採「總額」或「個別」揭露，加以規定。無論薪酬揭露
+應採「總額」或「個別」何者為妥，實務上尚有公司內部作帳的問
+題；從而，公司會計部門能否遵守主管機關會計認列規定、稽核部
+門與簽證會計師能否有效查核，即成為揭露規範能否落實的關
+
+
+196 吳靜君，KPMG：獨董年薪50萬以下，中央社，2011年7月6日，http://tw.stock.
+    yahoo.com/news_content/url/d/a/110706/1/2o49v.html（最後瀏覽日：2011年11月
+    7日） 。
+197 參見劉連煜（註31）        ，頁78。
+198 美國採個別揭露且揭露對象限公司前五大經理人，參見前文「參、一、（二）                              、
+    1」。
+199 王文宇（註48）      ，頁542。
+200 參見王文宇（註48）         ，頁543；曾宛如，股份有限公司經營者報酬結構之分
+    析，收於：公司管理與資本市場法制專論（一）                          ，頁56（2002年）
+                                                             。
+評我國強制設置薪酬委員會之立法政策                                                            297
+
+
+
+
+鍵 201。此外，縱採完全揭露制度(full disclosure)，其本意亦非以消
+除企業肥貓為主要目的，毋寧是藉由薪酬資訊透明化，驅使董監事
+及經理人之薪酬與績效進行連結，從而提升公司營運績效及股東利
+益202。
+
+二、我國與美國面臨不同之代理問題
+
+   （一）不同之代理問題
+     如前所述，美國股權分散造成經營與所有分離的現象。理論
+上，選任董事之權限在相當程度內可實現全體股東「當家作主」的
+理想。惟股權高度分散造成專業經理人與股東間之利益衝突，且美
+國現行董事選任制度之缺陷203，造成股東選舉權及投票權常流於形
+式，故如何防止專業經理人濫權自肥（如增加薪資等）或以合縱連
+衡方式鞏固經營權，犧牲股東利益，成為最受關切的管制重點204。
+有鑑於此，美國公司法制及實務上便發展出其他不同的監督機制
+（例如外部或獨立董事的設置乃極重要的一環）
+                    ，以期解決股東與經
+理人間存在之代理問題(agency problem)205，並促使專業經理人能致
+力於股東財富極大化之目標而努力206。
+
+     我國公司經營與所有的結構與美國有所不同207。蓋我國公司股
+權結構較美國相對集中208，以散戶投資人為主的資本市場、多數公
+
+
+201 參見易明秋，公司治理法制論，頁175（2007年）
+                            。
+202 參見劉連煜（註31）
+             ，頁78。
+203 詳細說明，參見邵慶平，董事法制的移植與衝突—兼論「外部董事免責」
+    作為法制移植的策略，臺北大學法學論叢，57期，頁175-176（2005年）
+                                         。
+204 王文宇（註48）
+           ，頁46、76。
+205 有關代理問題與薪酬安排之關聯性，詳參前文「貳、一」
+                            。
+206 美國為解決此代理問題，外部或獨立董事以及董事會授權其成員所組成之
+   「功能性委員會」（例如薪委會）即成為監督機制中重要的兩個環節。詳細說
+    明，參見邵慶平（註203）           ，頁176-179。
+207 參見王文宇（註48）        ，頁46、76。
+208 Ching-Ping Shao, Corporate Governance Global Trends vs. Local Needs: A
+    Comparison Between U.S. Reform and Taiwan’s Regime, Address at International
+298                                      《中研院法學期刊》第11期（2012年9月）
+
+
+
+司董監未能發揮功能以及家族企業色彩濃厚209，乃我國公司治理議
+題之結構特色與難題210。其中，控制權多落於控制股東（包括家族
+股東）手中，控制股東往往憑藉股權優勢，操弄股東會，決定公司
+之重大議案（如選任董監事），進一步掌控公司經營權211。此外，
+公開發行公司中亦存有「經營權與所有權高度重疊」之現象，不乏
+公司之大股東身兼董事而同時有效控制股東會與董事會212，形成大
+股東與小股東間之利益衝突213。再者，我國真正由專業經理人經營
+者並不多見，往往形成「控制股東」、「主要董監事」與「經營階
+層」三位一體的情況；影響所及，小股東的利益不但被忽略，反而
+必須承擔大股東濫用公司資源之成本與風險214。由此可知，我國有
+企業肥貓之嫌疑者，主要非為美國所頭痛的高階經理人，而是公司
+之董監事215。
+
+
+
+    Conference on Financial Law Reform, NTU College of Law 3 (June 4, 2010)
+    (transcript available in the Center for Corporate and Financial Law, NTU College
+    of Law).
+209 Christopher John Gulinello, The Revision of Taiwan’s Company Law: The Structure
+    toward a Shareholder-oriented Model in One Corner of East Asia, 28 DEL. J. CORP.
+    L. 75, 85 (2003) (“Like most countries around the world, ownership of public
+    companies in Taiwan is dominated by family groups.”).
+210 參見劉連煜，健全獨立董監事與公司治理之法制研究—公司自治、外部監
+    控與政府規制之交錯，月旦法學雜誌，94期，頁136-137（2003年）；王文宇
+   （註48）    ，頁76。
+211 See En-Te Chen & John Nowland, Optimal Board Monitoring in Family-Owned
+    Companies: Evidence from Asia, 18 CORP. GOVERNANCE: INT’L REV. 3, 5-6 (2010).
+    參見池美佳，公司法下的利益衝突與規範策略—以股東、經理人與債權人間
+    的利益衝突為中心，臺灣大學國家發展研究所碩士論文，頁59-60（2005年）                                        。
+212 參見邵慶平（註192）             ，頁170。
+213 池美佳（註211）         ，頁7-8。See also Chih-Pin Lin & Cheng-Min Chuang, Principal-
+    Principal Conflicts and IPO Pricing in an Emerging Economy, 19 CORP.
+    GOVERNANCE: INT’L REV. 585, 585-86 (2011).
+214 王文宇（註48）         ，頁45-46。See also Lin & Chuang, supra note 213, at 590.
+215 See Shao, supra note 208, at 3-4 (“[T]he executive compensation negotiation
+    between the professional managers and the board may proceed like an arm’s length
+    transaction. How to set director compensation then becomes a thornier problem in
+    Taiwan.”).
+評我國強制設置薪酬委員會之立法政策                                                                   299
+
+
+
+
+    （二）不同代理問題下我國薪酬規範改革之核心
+     循上所述，我國與美國股權結構既不相同，不同的代理成本問
+題於焉形成，且產生不同的利益衝突216。進一步而言，我國與美國
+薪酬規範改革的重點並非完全相同。從薪委會強制設立之例，王文
+宇教授指出此項法律移植恐生「橘逾淮變枳」之後果217。蓋我國立
+法者可能未充分了解美國薪酬規範問題主要集中於管理階層，故其
+薪酬規範乃為解決經理人與股東間的代理問題。然而，我國薪酬規
+範問題則集中在董監事的薪酬安排，故薪酬規範乃為解決大小股東
+間利益衝突的問題218。蓋我國公司結構屬股權集中，董事會成員大
+多屬內部董事，此種經營與所有結合的現象，造成董事結合大股東
+實質握有公司管理權219。故我國法制面對大股東與小股東間之利益
+衝突，如何矯正控制股東的自利行為，以保障小股東的權益，則為
+當務之急220。綜上，我國公司薪酬規範的核心問題在於控制股東身
+兼董監事、高階經理人之大小股東的利益衝突。倘僅設置薪委會，
+仍難徹底解決我國薪酬安排之代理問題。實際上，我國在2012年1
+月公司法修法前，原本欠缺與控制股東或大股東等幕後操控者有關
+之事實上董事(de facto director)或影子董事(shadow director)的究責
+
+
+216 See Chen & Nowland, supra note 211, at 4.
+217 李彥興、郭政弘、李坤璋（註23）                 ，頁10。
+218 美國有學者指出，股權分散國家之公司治理規定難以全面移植到面臨大小股
+    東利益衝突的國家。Donald C. Clarke, “Nothing But Wind”? The Past and Future
+    of Comparative Corporate Governance, 59 AM. J. COMP. L. 75, 90 (2011) (“[R]ules
+    designed for [regimes of dispersed ownership], where the main agency problem is
+    the vertical one between shareholders and management, are of limited
+    transplantability to countries where the main agency problem is the horizontal one
+    between controlling shareholders and non-controlling shareholders.”) (alteration in
+    original). 故若股權集中國家未了解被移植制度在制度來源國原欲處理之問題
+    而逕從事法律移植，恐有「橘逾淮變枳」之虞。Id. at 109 (“[W]hy transplants
+    go wrong: the adoption jurisdiction may not have understood the problem the
+    transplanted institution was designed to address in the home jurisdiction.”).
+219 See Shao, supra note 208, at 3. 亦參見林仁光（註13）               ，頁221、232。
+220 王文宇（註48）         ，頁76。
+300                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+機制，形成此等實質負責人「有權無責」之現象，洵為我國公司治
+理法制之一大漏洞221。故為杜流弊、落實公司治理，我國於2012年
+                           222
+1月4日公布增訂公司法第8條第3項            ，將影子董事及事實上董事列
+為公司負責人；惟須注意，政府指派之法人董事代表人，似排除於
+本項規定之適用。縱使我國公司法已新增影子董事與事實上董事之
+究責機制，未來仍有待進一步累積有效之司法審查標準，來檢驗公
+司董監事報酬安排之妥適性，以減緩我國之代理問題。以上方向或
+為改革我國薪酬規範的核心之一。
+
+三、薪委會成員之資格：獨立性及專業性
+
+      薪委會辦法第6條第1項及第5條第1項針對薪委會成員之身分資
+格的獨立性及專業性多有限制。此外，金管會在考量公司可能一時
+
+
+221 影子董事亦可稱之為幕後董事，係指「公司之一位或數位董事慣常受其指示
+    之人，該人即為影子董事」            。此不願具名擔任董事者，通常非股東會所依法選
+    任之董事，亦未現實上擔任董事並執行業務，而是藉由長時間、經常性地操
+    控一位或數位董事，而對公司業務之經營達到實質參與之效果。一旦人頭董
+    事依其指示所為之行為違反法令或有害於公司或第三人時，由於2011年未修
+    正前之公司法、證交法、商業會計法或其他法規所指稱之董事或負責人，均
+    以該人頭董事為限，致使影子董事能輕易規避責任，嚴重損及公司治理及股
+    東權益。參見曾宛如，公司法制基礎理論之再建構，頁14-15（2011年）           。另參
+    見劉連煜，現代公司法，7版，頁114（2011年）（「所謂事實上董事，指非董
+    事而事實上有執行董事業務之實質內涵者，例如一般常見之公司總
+    裁……。」   ）；郭大維，公司經營者的傀儡遊戲—論公司治理下幕後董事之規
+    範問題，月旦法學雜誌，184期，頁17（2010年）        （
+                                      「幕後董事之責任係一間接
+    責任(secondary liability)。唯有公司董事違反其義務，幕後董事始可能承擔法
+    律上之責任。」）；池美佳（註211），頁127（「本文建議我國應於公司法中將
+    控制股東納入規範，使實質控制公司的人與董事負相同的責任，如此對小股
+    東（或全體公司股東）的保護才更加周全。」）。我國公司法原對影子董事及
+    事實上董事之法律責任，並無相關規範。經濟部曾於2010年公司法草案擬增
+    訂第23條之1，欲使「實質負責人」與公司法第8條之負責人負相同責任。劉
+    連煜（註221）   ，頁114-117。亦請參見王文宇（註23）   ，頁292-293。
+222 公司法第8條第3項：         「公開發行股票之公司之非董事，而實質上執行董事業
+    務或實質控制公司之人事、財務或業務經營而實質指揮董事執行業務者，與
+    本法董事同負民事、刑事及行政罰之責任。但政府為發展經濟、促進社會安
+    定或其他增進公共利益等情形，對政府指派之董事所為之指揮，不適用
+    之。」
+評我國強制設置薪酬委員會之立法政策                                        301
+
+
+
+
+難以尋找合適人選擔任薪委會成員的情況下，薪委會辦法對其成員
+之獨立性特別訂定過渡條款，規定在2014年3月18日以前，薪委會
+三分之一以下成員，可由一般董事擔任（薪委會辦法第6條第5
+項）223。金管會顧慮若要強制所有上市、櫃公司都設立獨立董事以
+擔任薪委會成員，在實施上有相當程度的困難，故考慮允許該委員
+會成員亦可由「社會公正人士」擔任224。以上討論涉及薪委會成員
+之獨立性及專業性要件與我國獨立董事設置現況間之衝突，亦凸顯
+薪委會辦法之專業性及獨立性規範似有進一步檢討的空間，且可與
+我國現行證交法對於獨立董事之規範合併觀察。
+
+    就專業性部分，薪委會辦法完全參考「公開發行公司獨立董事
+設置及應遵循事項辦法」           ）225。可見立
+          （下稱「獨立董事設置辦法」
+法者及金管會透過薪委會成員及獨立董事皆具法定專業資格要件，
+期待藉此專業性之要求，以達「興利」之目的226。林仁光教授認為
+公司薪酬安排結構如欲與公司整體經營策略及日趨複雜之薪酬內容
+相結合，薪委會成員是否具備相關專業知識，實乃能否妥適安排公
+司薪酬的重要關鍵227。然而，陳俊仁教授以為，就現行公司實務運
+作而論，獨立董事非經常集會，且因屬外部董事，在有限的開會時
+間內必須仰賴公司提供之資料作為判斷的根據，此際我國獨立董事
+專業性資格之要求，其形式意義大於實質意義。即便創立並採行獨
+立董事制度之美國，其公司法制普遍未對獨立董事之專業性為特別
+
+
+
+223 為健全獨立董事制度 會計師界呼籲專業薪酬委員應可轉任獨立董事，法源
+    法律網：法律新聞，2011年6月7日，http://www.lawbank.com.tw./news/News
+    Content.aspx?NID=93127.00（最後瀏覽日：2011年6月11日）   。
+224 上市、櫃公司應設薪資報酬委員會 金管會研議 委員可由社會公正人士擔
+    任，法源法律網：法律新聞，2010年11月10日，http://www.lawbank.com.tw
+    /news/NewsContent.aspx?NID=86925.00（最後瀏覽日：2011年11月7日）
+                                                        。
+225 劉連煜（註31）      ，頁73。
+226 參見陳俊仁，超越興利防弊功能之迷思—獨立董事與審計委員會地位之再
+    建構，月旦法學雜誌，172期，頁82（2009年）             。
+227 參見林仁光（註13）        ，頁192。
+302                      《中研院法學期刊》第11期（2012年9月）
+
+
+
+規定。故獨立董事專業性要件之強制規定有斟酌商榷之空間，似不
+宜以法律強行要求，反而應屬企業自治事項，由公司股東自行決定
+為妥228。本文認為，要求薪委會成員具基本的專業性資格，似較能
+對公司提供之資料具備一般上正確的判斷能力。如後所論，透過此
+要求能某程度避免當薪委會成員因專業性不足而須向管理階層或薪
+酬顧問諮詢時，產生薪委會、內部受薪之管理階層以及外部薪酬顧
+問三者間的利益衝突，故一般性的專業性資格要件似有其必要。惟
+薪委員成員之專業資格就一般性基本要求以外，則屬企業自治事
+項；從而如薪委會辦法第5條訂定說明欄謂：
+                   「公司可因應行業特性
+於薪資報酬委員會組織規程中訂定薪資報酬委員會成員除前揭規範
+外，另須具備之專業資格或公司業務所需之工作經驗，如人力資源
+專才等。」
+
+      就獨立性部分，當初立法者考量我國目前企業環境不宜全面強
+制設置獨立董事，故證交法原則上讓公開發行公司自行決定設置與
+否，惟若主管機關認為必要者，則例外強制設置獨立董事。然而，
+薪委會辦法之成員獨立性的資格要件幾近完全參考獨立董事設置辦
+法229。換言之，儘管薪委會辦法形式上未要求成員為獨立董事，綜
+合觀察專業性及獨立性的要求，實質上卻已要求薪委會成員須具備
+獨立董事之資格230。
+
+      即使有如前述幾近雷同於「獨立董事」之獨立性規範，關於證
+交法對獨立董事之規範及薪委會辦法對成員「獨立性」要求的本
+質，對照前述美國法的說明231，相關獨立性規範或有其侷限性。首
+先，由於公司間有互兼董事之情事者可能會削弱獨立董事的功能，
+美國研究顯示當有此互兼董事情事存在時，這些公司之執行長薪酬
+
+
+228 參見陳俊仁（註226）
+              ，頁83-84。
+229 劉連煜（註31）
+           ，頁73。
+230 參見劉連煜（註31），頁73-74。
+231 參見本文「參、三、 （四）」
+                 。
+評我國強制設置薪酬委員會之立法政策                                   303
+
+
+
+
+較未有此情事存在者為高。惟薪委會辦法第6條就此未有相關規
+範，恐有規範漏洞存在。其次，薪酬制訂者的董事與薪酬受領者的
+經理人為朋友時，基於私人情誼、人情壓力或其他社會與心理因
+素，可能會影響薪酬決定的客觀性。並且，黃銘傑教授亦指出：
+「股東會由大股東掌控，大股東也是董事會成員，那今天，薪資報
+酬委員會中獨立董事的提案最後還要送到董事會，讓這些被外界說
+是肥貓的利害關係人，自己決定該怎麼肥嗎？」232故此種薪委會成
+員與有利害關係之人間或生利益衝突的情形，亦可能影響薪酬制訂
+的客觀性。
+
+   另外，獨立董事對公司付出的時間有限，且對薪酬決定過程可
+能缺乏相關知識或專業背景，導致必須依賴公司人力資源部門233或
+公司所聘請之薪酬顧問的意見來考量資訊234，但依此種方式所得出
+之薪酬決定通常都較有利於管理階層235。再者，獨立董事的獨立性
+對股東利益未必有正面幫助，蓋獨立董事可能持有公司股份較少甚
+至並無持有該公司股份，從而可能缺乏強烈的正向誘因(affirmative
+incentives)替股東服務；惟如前所述，社會及心理等人際關係因素
+自然驅使董事偏袒管理階層，故造成無法誘發獨立董事專注於增進
+股東價值之結果，此亦凸顯薪委會成員獨立性要件之侷限性236。另
+有實證研究指出，與內部董事相比，獨立的外部董事並未使得董事
+會能更有效地監督管理階層薪酬，且讓外部董事持股更多亦不會使
+
+
+
+232 尹慧中（註18）
+           。
+233 例如：台積電指派人力資源部門的副總擔任薪委會秘書，負責提供公司內部
+    的薪酬資訊及安排相關薪酬決定議程，扮演公司內部薪酬資訊提供者的角
+    色。參見李彥興、郭政弘、李坤璋（註23）                      ，頁31-33。
+234 筆者於我國某上市科技業者的實務訪談得知，該公司人資部門負責提供相關
+    薪酬資訊予薪委會以進行討論並決議；惟該公司未聘僱薪酬顧問來作出薪酬
+    安排的建議，而僅向薪酬顧問公司購買同業薪酬調查報告，目的是為避免聘
+    僱薪酬顧問所生之利益衝突（2011年10月5日）                   。
+235 BEBCHUK & FRIED, supra note 50, at 37-39.
+236 Id. at 202-04.
+304                                      《中研院法學期刊》第11期（2012年9月）
+
+
+
+公司治理制度獲得改善237。縱然關於董事會獨立性之實證研究結果
+尚未有定論238，吾人也難以直接得出董事會有較多獨立董事或外部
+董事對於公司表現必然有正面幫助的結論239。
+
+      或許立法者認為藉由薪委會成員獨立性之要求，冀望提升決策
+者獨立客觀審議之品質，以避免利益衝突下的薪酬決定240。惟以前
+述「管理階層權力理論」241觀之，於薪酬制訂過程中，管理階層可
+能因自身所處之職位優勢，利用自身權力而獲得超出原於常規交易
+下應有的報酬。我國立法者雖立意良善，但薪委會成員獨立性的關
+
+237 Core et al., supra note 39, at 404.
+238 另有實證研究指出，金融機構董事會下設之審計及風險委員會有愈多獨立董
+    事，其於金融危機期間之公司表現愈好，此種委員會獨立性對公司績效之影
+    響於大陸法系國家更是明顯。See Yin-Hua Yeh et al., Committee Independence
+    and Financial Institution Performance during the 2007-08 Credit Crunch: Evidence
+    from a Multi-country Study, 19 CORP. GOVERNANCE: INT’L REV. 437, 437, 453
+    (2011).
+239 Mehran et al., supra note 120, at 10.
+240 以美國公司之董事薪酬制訂為例，在大多數之情形，不具員工身份之董事可
+    只基於董事身份所提供的服務受領薪酬。論者指出，僅有獨立董事或外部董
+    事，會受領單就董事職位所支付之薪酬；惟具員工身份之董事關於其單就董
+    事身份所提供的服務，則不會受領薪酬。JAMES F. REDA ET AL., COMPENSATION
+    COMMITTEE HANDBOOK 72 (3d ed. 2007). 其次，董事薪酬之決定機關仍主要為
+    董事會，但董事會高度仰賴薪委會，由薪委會定期檢視董事薪酬，並對適用
+    於所有董事之妥適薪酬水準提出建議。Id. at 73. 如前述美國的情形，薪委會
+    成員乃獨立董事，故就薪委會成員自身薪酬之決定，亦係由薪委會作成建議
+    後，經董事會決議通過。再參照前文「參、一、（一）                               、1.」關於受託義務的說
+    明，由於薪委會成員亦屬董事會一員，董事自決報酬為一種自利交易，且自
+    利交易屬忠實義務違反態樣之一，則此種薪酬決定應透過事前完全揭露，並
+    經由不具利害衝突的董事或股東等安全港程序加以表決批准，始有避免利益
+    衝突的可能。另有鑑於薪委會與董事會互相決定對方成員之薪酬，可能產生
+    相互箝制或相互循環的問題，美國證管會及交易市場亦同時透過強化董事薪
+    酬之揭露政策，及嚴格要求薪委會成員之獨立性，以解決此問題。See id. at
+    77-80, 123-24, 126-27. 循上，我國公司法既未明文規定是否應區分獨立董事與
+    非獨立董事之薪酬決定機關，故我國強制設置薪委會後，亦會面臨如上述美
+    國薪委會與董事會間可能有相互箝制或相互循環的問題。是故，我國立法者
+    即使以強化揭露政策及強調成員獨立性來處理此問題，或仍有不足之處；從
+    而，本文認為似應同時輔以「受託義務」等外部司法機制來處理此問題為妥
+    （參見後文「肆、四」及「肆、五」                      ）
+                                          。
+241 參見前文「貳、二、            （二）   」。
+評我國強制設置薪酬委員會之立法政策                                                                     305
+
+
+
+
+鍵在於「實質上」有獨立判斷及監督之可能242，且能中立客觀地執
+行各項監督工作，並能抗拒其他董事或管理階層的壓力，始能真正
+獨立行使職權而不受公司經營者之牽制243，否則獨立性可能淪為形
+式上的虛應故事。如前所論，獨立董事的獨立性並非僅建立在與企
+業間之關係(relationship)，蓋此僅屬「表面獨立性」；毋寧是建構在
+該獨立董事是否有「實質獨立性」—亦即是否有足夠的「時間、
+資訊及知識」以從事監督244。職是，我國薪委會成員獨立性之關鍵
+並非只是由何種身分之人擔任成員，同樣重要的是薪委會如何監督
+管理階層之薪酬決定245。總而言之，如前所述，鑑於薪委會成員之
+專業性及獨立性二者間存在一種緊張關係，有瑞士學者主張，強制
+要求薪委會成員由內部及獨立董事共同擔任乃一解決良方，此亦是
+適用於瑞士公開公司之「公司治理最佳實務守則(Swiss Code of Best
+                                                       246
+Practice for Corporate Governance)」的規定                     。
+
+
+242 參見曾宛如，我國有關公司治理之省思—以獨立董監事法制改革為例，月
+    旦法學雜誌，103期，頁63（2003年）；王文宇，設立獨立董監事對公司治理
+    的影響，法令月刊，56卷1期，頁49（2005年）                         。
+243 參見劉連煜（註31）            ，頁77-78。
+244 有關獨立董事「表面獨立性」及「實質獨立性」的討論，請參閱前文「參、
+    三、（四）     」。
+245 此外，陳俊仁教授曾提出可思考參酌建立類似政務官退職「旋轉門」
+    (revolving door)條款，以解決獨立董事在獨立性規範上之難題。參見陳俊仁
+    （註226）    ，頁88。
+246 Müller, supra note 41, at 171-72. 美國亦有學者採此觀點，see Donald C.
+    Langevoort, The Human Nature of Corporate Boards: Law, Norms, and the
+    Unintended Consequences of Independence and Accountability, 89 GEO. L.J. 797,
+    799 (2001) (“[T]he most productive boards are the ones where insiders and outsiders
+    work cooperatively, not at odds with each other.”). See also id. at 800 (“[O]ptimally
+    functioning boards require not only a mix of insiders and monitors but also some
+    class of board members who can function effectively as mediators, reducing some of
+    the dysfunctional effects that come from the inevitable polarization of the board.”).
+    另應注意者，瑞士薪委會之成員資格要求，未若美國謹守嚴格獨立性（薪委
+    會須全由獨立董事組成）                ，改採由內部董事擔任部分薪委會成員，其考量在於
+    藉此平衡專業性及獨立性。惟此舉仍可能因為獨立董事與內部董事間之同事
+    情誼、私人關係，或是其他社會或心理因素，致使成員資格混合的薪委會仍
+    不易完全基於股東利益行事。如前所論，薪委會成員獨立性之關鍵並非只是
+306                                      《中研院法學期刊》第11期（2012年9月）
+
+
+
+四、不同身分之薪委會成員的究責問題
+
+      董事會除須依公司法為業務執行機關，負責公司經營決策外，
+尚須扮演起監督管理階層之功能。故除加強董事究責規範、要求董
+事會之組成應包含具專業性及獨立性之獨立董事外，必須同時落實
+內部控制制度，來做為加強董事會功能之配套措施247。換言之，當
+董事為履行「監督義務」(Duty to Monitor)248而建立並有效維持內
+控制度時，其監督義務之射程範圍實亦及於公司薪酬政策249。如後
+文「肆、七」的說明，縱令依法須設薪委會之我國公司，就實務見
+解狹義認定之報酬以外的薪酬決定改由董事會下的薪委會扮演主導
+角色，此政策亦不影響董事個人履行監督薪酬政策之義務；故董事
+監督義務可謂內控制度與薪委會之連結核心250，亦為對具董事身分
+
+
+    由何種身分之人擔任成員，同樣重要的是薪委會如何監督管理階層之薪酬決
+    定。鑑此，本文以為我國似應同時透過「受託義務」等外部司法機制介入來
+    強化薪酬決定之監督過程，或始能有效平衡薪委會成員之專業性及獨立性
+    （參見本文以下「肆、四」及「肆、五」                       ）。
+247 參見林仁光（註13）           ，頁234-235。
+248 董事監督義務的內涵為，               「董事負有對公司之業務與政策作一般性監督的義
+    務」；故董事對公司的營運內容及方式應有基本了解(rudimentary understand-
+    ing)、應參與公司事務(corporate affairs)的一般性監督、應經常出席董事會、以
+    及應定期檢視財務報表。See BAINBRIDGE, supra note 88, at 130.
+249 薪委會之監督功能實屬重要。美國前證管會主席 Richard Breeden 對世界通訊
+    董事會提出一份重要報告，此乃供世界通訊改善其公司治理之建議。該報告
+    亦對薪委會最佳守則之監督層面提供概略說明：薪委會每年至少與人資主管
+    與公司顧問開會二次，以查核：（1）遵循禁止任何董事或受僱人或其家族與
+    公司、附屬公司相互間之關係人交易；（2）遵循證管會委託書之揭露基準；
+   （3）所有受僱人關於人力資源或薪酬問題之訴怨或爭議。陳錦隆（註59），頁
+    198。
+250 從金融穩定委員會(Financial Stability Board, FSB)曾制訂之相關薪酬治理操作
+    準則中，可發現其對董事監督義務、內控制度與薪委會之關聯性，多所琢磨。
+    See FIN. STABILITY BD., FSB PRINCIPLES FOR SOUND COMPENSATION PRACTICES:
+    IMPLEMENTATION STANDARDS (2009), available at http://www.financialstabilityboard.
+    org/publications/r_090925c.pdf. 例如：要求銀行的董事會積極監督薪酬制度之
+    設計及運作；董事會應監督並定期查核薪酬制度的運作，並確保其運作與其
+    設立目的不相悖；薪酬制度之實際運作應透過法令遵循及內稽功能來定期查
+    核，以確保薪酬制度之運行係遵守先前據以設計的政策及程序等等。See
+    Guido Ferrarini & Maria Cristina Ungureanu, Economics, Politics, and the Interna-
+評我國強制設置薪酬委員會之立法政策                                                                307
+
+
+
+
+之薪委會成員依公司法第23條第1項究責的司法審查內涵 251 。然
+而，我國目前司法實務少將董事監督義務納為審查標準；尚且，更
+迫在眉睫的是不同身分成員的究責問題。
+
+     實際上，美國金融改革法規定薪委會成員限獨立董事。惟我國
+目前具備獨立董事資格者擔任薪委會成員之人才來源，似成問題。
+且若因人才供應不足，導致具備資格之獨立董事須兼任超過法定上
+限3家的窘境252，即非成員資格限制之本意253。又如前述，金管會
+放寬薪委會成員資格，以填補獨立董事人才供應不足的問題254；故
+公司無獨立董事者，至2014年3月18日前，委員會三分之一成員得
+由公司一般董事擔任，但不得擔任召集人及會議主席255。換言之，
+我國允許既非獨立董事亦不具董事身分之獨立專業人士，得擔任薪
+委會成員（如所謂「社會公正人士」
+               ）。惟我國上述情形與美國薪委
+會全以獨立董事為其成員之要求，顯有背離256。尤其，薪委會成員
+中三種不同身分者，包括：獨立董事、內部董事以及不具董事身分
+之獨立專業人士，三種身分不同之人的責任追究及其歸責標準，即
+成為亟待解決的問題。
+
+     就具獨立董事身分者之究責而言，按現行公司法下，依公司法
+第23條第1項，董事對公司負有受託義務。蓋獨立董事既為董事的
+
+
+    tional Principles for Sound Compensation Practices: An Analysis of Executive Pay
+    at European Banks, 64 VAND. L. REV. 431, 464 (2011).
+251 有關薪委會、內控制度及董事監督義務的關聯性，參見蔡昌憲、陳乃瑜，內
+    部控制制度、董事監督義務及薪資報酬委員會—評最高法院九十八年度台
+    上字第一三○二號民事判決，月旦法學雜誌，203期，頁200-228（2012年）                                     。
+252 公開發行公司獨立董事設置及應遵循事項辦法第4條。
+253 另參見劉連煜（註210）             ，頁143。
+254 實際面考量，我國今日尚無法全面強制公開公司設立獨立董事，目前國內只
+    有40%的上市櫃公司設立獨立董事，且僅13%設立三席以上。參見安侯建業
+    通訊（註22）       ，頁8。
+255 安侯建業通訊（註22）             ，頁10。
+256 戴銘昇，薪資報酬委員會之組織與職權—兼評我國證券交易法2010年增訂
+    之第14條之6，證交資料，585期，頁45-46（2011年）                       。
+308                     《中研院法學期刊》第11期（2012年9月）
+
+
+
+一種，在法無明文特別規定下，自然與一般「非獨立董事」負有相
+同的義務與責任257。且關於薪委會成員之首要責任追究，當非其業
+務執行所導致對第三人之損害的違法行為為何，而是渠等是否在監
+督義務上怠忽職務，未能善盡建構、維持公司內部控制制度下健全
+妥適之薪酬決定機制258。惟實務上如何落實獨立董事受託義務以及
+是否應加以區別獨立董事與內部董事（執行董事）之法律責任，使
+獨立董事能「權」「責」相符259，以吸引人才擔任獨立董事，實乃
+當前亟需解決的難題。另一方面，就不具董事身分之獨立專業人士
+擔任薪委會成員而言，一旦將來發生欲追究該成員責任之情事時，
+恐難依公司法有關公司負責人之義務與責任處理260。故應區別獨立
+董事及不具董事身分之獨立專業人士之責任追究261，尤其關於非具
+
+
+
+257 劉連煜（註31）
+           ，頁71。
+258 參見黃銘傑，公司治理與董監民事責任之現狀及課題—以外部董事制度及
+      忠實、注意義務為中心，律師雜誌，305期，頁23-24（2005年）
+                                       。
+259 參見林仁光（註13）
+             ，頁237；池美佳（註211）
+                           ，頁92-93；邵慶平（註203）
+                                           ，
+      頁169。
+260 實際上，王志誠教授曾於2009年對我國主管機關逕以行政規則或行政命令
+    （諸如「境外結構型商品管理規則」）進行金融管制，未能立法提供連動債受
+    害投資人明確之請求權基礎的現象，感到憂心。參見王志誠，財富管理法規
+    之實戰守則—實務爭點•案例解析，序（2009年）（
+                            「若未立法明定投資人之
+    請求權基礎，而僅以主管機關所發布之行政規則或行政命令進行金融管制，
+    顯與投資人之殷切期待具有極大落差。因此，應從秉持以消費者保護為導向
+    之金融立法出發，積極從速催生『金融服務業法』之立法，以提供受害投資
+    人明確之請求權基礎。」）。同樣的情形，薪委會辦法第7條第1項雖規定「薪
+    資報酬委員會應以善良管理人之注意，忠實履行下列職權……」    ，惟其亦僅屬
+    行政規則或行政命令，而非為「法律位階」之請求權基礎，故針對不具董事
+    身分者之薪委會成員，恐難逕依薪委會辦法該段文字究責。參見林國全，從
+    強制設置薪酬委員會談起，月旦法學雜誌，202期，頁30（2012年）（
+                                      「本文認
+    為本段文字僅具宣示意義，就其違反，並無法直接課予法律責任」）。基此，
+    薪委會成員的責任追究目前僅可能由「公司」透過「委任契約」之債務不履
+    行，予以處理。從而，本文認為未來似應透過相關「立法」提供明確之請求
+    權基礎，以便於追究不具董事身分之薪委會成員的責任。相同見解，參見戴
+    銘昇（註256）
+           ，頁46。
+261 類似問題，參見李彥興、郭政弘、李坤璋（註23），頁10（王文宇教授指出，
+    「薪酬委員有具獨立董事身份者，亦有歸類為其他獨立專業人士者，究竟如
+    何區分兩者的資格與權限？」）。
+評我國強制設置薪酬委員會之立法政策                                                                   309
+
+
+
+
+獨立董事身分者之究責問題在公司法的請求權基礎上，似存有規範
+漏洞。
+
+    更重要的是，釐清薪委會成員究責之目的，並非考量現行法規
+是否應朝「嚴刑峻法」或加諸成員更多責任；蓋此可能造成責任過
+重，導致薪委會成員變成避之唯恐不及的職位。實際上，薪委會成
+員僅有向董事會之建議權，並無直接決定權。故成員究責目的，除
+使其權責相符外，更透過究責機制的設計，強化薪委會成員盡力監
+督公司薪酬決定過程並作成公司最理想之薪酬安排；且藉由機制誘
+因的設計，使人願意就任並間接吸引合適的人選262。最後，亦應給
+予薪委會成員合適的薪酬，以使其有誘因認真行使職權。惟該報酬
+應如何給予？給予何種報酬始不致侵害其獨立性263？皆涉及企業自
+治的領域，法律不應強行規定，宜由公司依公平、比例的客觀標
+準，並斟酌委員的貢獻、承擔的風險及所肩負的法律責任，斟酌調
+整以給予適當的薪酬264。
+
+五、薪委會之外部司法審查：受託義務的檢驗
+
+    董監事及經理人薪酬爭議的核心乃「如何使給付與公司經營效
+率成正比」265 。換言之，薪酬制訂之績效評估標準為何，誠屬重
+要。一般而言，薪酬制訂除依個人工作績效評估外，我國薪委會辦
+法第7條第2項第1款亦規定有薪酬制訂應參酌「同業通常水準」之
+文字266。質言之，薪酬績效評估未必需要事前透過立法訂定統一的
+薪酬績效標準；倘透過定期完成董事及高階經理人之薪酬評估報
+
+
+262 參見曾宛如（註242），頁66。
+263 參見王文宇（註242），頁60。
+264 參見劉連煜（註210），頁146；池美佳（註211）  ，頁93。
+265 參見曾宛如（註200）
+              ，頁91。
+266 關於參考同業通常水準的說明，see Walker, supra note 49, at 12 (“[A] firm
+   could base the bonus on the return relative to the average return of a peer group of
+   companies.”). See also id. at 15 (“[B]enchmarking of compensation against peer
+   firm pay is pervasive . . . .”).
+310                                    《中研院法學期刊》第11期（2012年9月）
+
+
+
+告，定期檢討董事及高階經理人之績效評估，以及定期檢討公司薪
+酬政策、制度、標準及結構，亦能完成個人績效評估，以達到薪委
+會對公司發揮監督薪酬安排之功能267。
+
+      美國法院面對薪酬是否超額給付之訴訟時，在參與決議之董事
+無涉利益衝突之情形，多半以商業判斷法則為由，推定被告董事已
+履行注意義務，避免以事後猜測介入公司經營決定268。就我國司法
+實務觀之，如因報酬之訂定衍生爭議時，雖有相關判決對注意義務
+之內涵加以說明269，惟目前鮮少判決解釋我國公司法第23條第1項
+之注意義務是否蘊涵美國法下之「董事監督義務」，此可能代表我
+國司法實務對注意義務脈絡下之董事「監督義務」的操作與適用相
+對陌生。現實上，我國已發生董事未有效維持內控制度，致生不當
+薪酬安排決定之爭議270。尚且，我國最高法院已對於類似美國法之
+監督義務概念下「董事會有義務建立適當而有效的內控制度以監督
+實際經營團隊免於違法」，持肯定見解271。相對而言，在參與決議
+之董事涉有利益衝突的情形，薪酬決定乃自利交易(self-dealing)之
+一種，而有違反忠實義務(duty of loyalty)之虞，故須透過薪酬決定
+參與者之獨立性始有前述安全港程序及商業判斷法則的適用272。然
+
+
+
+267 李彥興、郭政弘、李坤璋（註23），頁66-67。
+268 參見曾宛如（註200）
+              ，頁91。
+269 例如：最高法院42年台上字第865號民事判例、79年度台上字第1203號民事
+      判決。
+270 例如：最高法院98年度台上1032號民事判決（花蓮企銀未有效維持內控制
+    度，致生不當發放董事薪酬的結果）、臺灣高等法院臺中分院99年度重上字
+    174號民事判決（鄉林建設總經理之獎金發放爭議）。就後一判決之詳細評
+    釋，請參見曾宛如，董事會與經理人是否真為公司之業務執行機關及業務執
+    行之輔助機關？—從臺灣高等法院臺中分院九十九年度重上字第一七四號判
+    決及九十九年度重上字第一六四號判決所凸顯之亂象論起，月旦法學雜誌，
+    199期，頁166-183（2011年）         。
+271 劉連煜教授認為最高法院98年度台上1032號民事判決採類似見解。參見劉連
+    煜（註221）     ，頁106。
+272 See Müller, supra note 41, at 171 (“In Delaware, compensation decisions of
+    independent committees are protected by the business judgment rule . . . .”).
+評我國強制設置薪酬委員會之立法政策                       311
+
+
+
+
+而，利益衝突之審查，判斷上涉及當事人主觀認知，實甚困難；獨
+立性之審查，更涉及法院主觀臆測及具體證據之提出，亦屬不易。
+況且，我國目前司法實務對董事獨立性之審查，較乏案例可稽，故
+尚待我國法院假以時日透過先進國家經驗找出適合我國之獨立性審
+查標準273。
+
+  另一方面，2001年公司法修正後，就公司機關權限分配而言，
+似有董事會取代股東會而成為公司經營重心的現象—法制上「股
+東會中心」轉變為「董事會中心」274。有鑑於此，誠如邵慶平教授
+所言，就董事會或薪委會如何訂定薪酬乙事，司法機關對於董事就
+相關法令（如薪委法辦法）之遵循原則上應採嚴格標準審查，且此
+類相關法令的遵循乃董事在執行職務時應盡注意義務或監督義務之
+範疇。在我國薪委會辦法目前容許薪委會成員亦得由非獨立董事擔
+任之情況下，前開嚴格審查之作法或能某程度避免不肖內部董事利
+用其權勢不當影響薪委會作成的薪酬決定275。進一步而論，為使薪
+委會運作達「權責相符」的目標，除經由成員獨立性之要求以避免
+薪酬決策過程產生利益衝突外，更須藉著對董事會或薪委會決定董
+監事薪酬之程序加以嚴格規範，強化薪酬安排過程之監督功能
+
+
+273 參見劉連煜，董事忠實義務與獨立性之司法審查，月旦法學雜誌，173期，
+  頁144（2009年）
+            。
+274 公司法第202條之修正是否代表臺灣公司法制應完全脫離「股東會中心」，我
+    國公司法學者間有進一步的討論。舉例而言，主張「董事會中心」者有陳俊
+    仁教授，參見陳俊仁，公司治理與股東權益維護—論股東會章定專屬決議
+    權限之規範缺失，月旦法學雜誌，184期，頁56（2010年）（「公司法制應限
+    縮股東會決議之權限，並應朝向以董事會為中心來發展……。」）。反對過於
+    強調「董事會中心」者有邵慶平教授，參見邵慶平（註192），頁142（其就
+    現行法制面與理論面討論股東會與董事會之權限分配的消長，觀察到我國似
+    有過度強調董事會在公司經營上的地位，「而忽視股東會在代理問題的緩和
+    上所能發揮的功能，其理論上的正當性實值深思。」故其主張：「我國法制
+    下股東會與董事會的權限分配應考慮停止向董事會中心傾斜，而適度回歸傳
+    統的『股東會至上』觀點……。」  ）。
+275 參見邵慶平，論股東會與董事會之權限分配—對董事報酬決定權的觀察與
+    分析，興大法學，1期，頁110（2007年）
+                         。
+312                                     《中研院法學期刊》第11期（2012年9月）
+
+
+                         276
+(monitoring function)          。同時，透過完整妥適的司法審查制度，使
+內控制度、董事監督義務與薪委會等三者經由決策過程強化的整合
+而相輔相成，讓薪委會發揮實質效益277。蓋如前所論，如何改善董
+事會決策過程以發揮監督功能，始屬薪酬層面之公司治理規範的改
+革重心，而非僅關心董事係由何種人擔任或組成份子為何278。
+
+六、薪酬顧問：現行法尚無詳細規範
+
+      如前所論，我國薪委會成員雖有專業性之要求，惟其專業性仍
+可能不足以勝任薪酬決策，故或有需要聘任具備薪酬專業知識者擔
+任薪酬顧問，提供薪委會於薪酬政策制訂上之諮詢意見，以期彌補
+薪酬決定過程中專業知識的不足。惟聘任外部薪酬顧問時，若該顧
+問之獨立性具有爭議，則易使薪委會給予偏袒管理階層之薪酬安排
+建議，導致董事會可能發放過高之薪酬，故產生薪酬決策者、內部
+受薪者以及外部薪酬顧問三者間之利益衝突279。比較法上，英國、
+美國及加拿大三國強化薪酬顧問之揭露規範，企圖解決薪酬顧問於
+薪委會所生之利益衝突的問題280。以美國為例，該國於金融海嘯前
+即重視此揭露問題281，嗣後另透過金融改革法給予更明確的規範；
+如前所述，諸如要求檢驗薪酬顧問及其他提供諮詢者的獨立性、給
+予薪委會聘任薪酬顧問及接受其意見之專屬裁量權、加強薪酬顧問
+之相關資訊揭露等等。我國聘任薪酬顧問或使用薪酬顧問公司提供
+
+
+276 邵慶平（註275）      ，頁112。
+277 See generally Nicola Faith Sharpe, Process, Not Structure: An Organizational
+    Behavior Approach to Improving Corporate Boards (Illinois Program in Law,
+    Behav. & Soc. Sci. Paper No. LBSS11-36; Illinois Pub. Law Research Paper No.
+    11-01, 2011), available at http://ssrn.com/abstract=1944163.
+278 Id. at 3.
+279 參見林仁光（註13）             ，頁192。有關薪酬顧問之利益衝突，請參見前文「參、
+    三、（五）     」。
+280 Martin J. Conyon, Executive Compensation Consultants and CEO Pay, 64 VAND. L.
+    REV. 399, 403-06 (2011).
+281 See Executive Compensation and Related Person Disclosure, 71 Fed. Reg. 53, 158
+    (Sept. 8, 2006), available at http://www.sec.gov/rules/final/2006/33-8732a.pdf.
+評我國強制設置薪酬委員會之立法政策                                    313
+
+
+
+
+之服務等風氣尚未普遍，且薪酬顧問之選任未必全程由薪委會所主
+導，可能實質上透過公司人資部門選任、形式上交由薪委會決議通
+過282。由是可見，薪酬顧問之獨立性與從事聘任的薪委會之間，仍
+有諸多潛在問題。我國薪酬法制雖設有類似薪酬顧問一職（薪委會
+辦法第8條第4項、第11條），相關配套措施卻付之闕如，似宜參考
+國外立法例，提前作好預防規範之訂定。
+
+   另值注意者，如先前美國法的說明，縱使立法者有意解決薪酬
+顧問偏袒管理階層之利益衝突等問題，而要求薪酬顧問須具有更高
+的獨立性，吾人仍應明瞭薪酬顧問的獨立性愈高，將併隨著一項成
+本：薪酬顧問喪失關於特定公司及產業的專業知識。既然薪酬顧問
+之獨立性與專業性二者不可得兼，規範上即應思考如何尋求一個妥
+當的平衡點283。以瑞士為例，有瑞士學者建議，鑑於獨立性與專業
+性可能無法兼得，瑞士公開發行公司之董事及管理階層應將設計管
+理階層薪酬政策及相關合約的薪酬顧問，帶至股東會或法說會
+(investor road show)與機構投資人就薪酬重要議題進行公開討論，
+並對所提問題妥適回應，以有效檢視薪酬顧問作成的諮詢意見284。
+
+七、股東薪酬表決權之拘束力與薪委會之決議效力
+
+   有荷蘭的實證研究顯示，國際機構投資人偏好讓股東決定管理
+階層薪酬之設計內容及金額，且不論系爭公司對內部經營監督組織
+係採單軌制或雙軌制，皆是如此285。實際上，我國公司法第196條
+已賦予股東享有對董事報酬之決定權，亦即該表決結果具拘束力。
+儘管表面上我國股東薪酬表決權之立法相較於美國金融改革法所採
+
+
+282 筆者於某上市科技業者的實務訪談中得知，我國大部分公司未聘僱薪酬顧
+    問。且縱有薪酬顧問之選任，亦主要由人資部門負責洽談，薪委會會議再正
+    式決定何者為簽約之薪酬顧問公司（2011年10月5日）                       。
+283 Müller, supra note 41, at 171.
+284 See id. at 172.
+285 McCahery & Sautner, supra note 157, at 12-13, 15.
+314                                         《中研院法學期刊》第11期（2012年9月）
+
+
+
+之股東諮詢性投票，對董事薪酬決定更具拘束力，惟此股東薪酬表
+決權行使之成效不佳286。蓋我國薪酬規範的核心問題之一，乃股東
+會中心的董監事報酬決定機制：就股東會本質的困境而論，於股東
+人數眾多的大型公司，股東對於參與薪酬制訂的過程可能持消極態
+度，形成集體行動問題(collective action problem)，致使股東會無法
+於積極充分討論下，決定適當報酬287。就薪酬資訊之取得而言，董
+事報酬涉及公司營業祕密及個人隱私，主管機關及企業界如前所述
+已對此採保守態度，僅於例外情形始對董事個別報酬進行強制揭
+露，股東難以取得全盤性的薪酬揭露資訊；同時股東通常欠缺有關
+董事工作內容、責任風險及其對公司貢獻度等資訊，對待決事項可
+能在資訊不足下作成薪酬決定288。就董事會操控股東會而論，股東
+會主要由董事會召集，且股東會相關議案大多由董事會提出，從而
+就董事報酬事項，可能透過人為安排，規避公司法相關的股東會利
+益衝突迴避規定，進而獲取其所欲取得之利益；以上作法使得具股
+東身分的董事，一定程度上仍能操控股東會之決議結果，進而偏離
+公司法第196條關於董事報酬之決定乃股東會中心的立法意旨289。
+換言之，立法者賦予股東薪酬表決權雖立意良善，但基於前述股東
+會之本質困境，有心操縱股東會薪酬表決事項之董事，可能利用此
+具拘束力之股東會表決結果而與股東會分攤不當薪酬決策的責任；
+具拘束力之股東會表決權反而變成董事減輕個人事後責任之護身
+符，變相降低董事作出不當薪酬決策時應承受的成本（諸如違反受
+
+
+
+286 Shao, supra note 208, at 4 (“In terms of director compensation, say-on-pay seems
+    not an issue in Taiwan. . . . Not only can the shareholders have the ‘say-on-pay’ vote,
+    but the ‘say-on-pay’ vote is binding. This shareholder-oriented rule enacted to
+    prevent conflict interest is well-intended but ill-conceived.”).
+287 參見邵慶平（註275）             ，頁98-99；胡韶雯，由公司治理導向論董事、監察人報
+    酬之決定—兼評最高法院98年台上字第935號民事判決、高等法院花蓮分院
+    98年撤更（一）字第1號民事判決，法令月刊，61卷10期，頁65（2010年）                                           。
+288 參見邵慶平（註275）             ，頁99。
+289 參見邵慶平（註275）             ，頁94-96、100-102。
+評我國強制設置薪酬委員會之立法政策                                                                       315
+
+
+
+
+託義務之法律責任或因投資人及媒體之義憤導致名譽受損）290。由
+是可見，我國公司法薪酬決策問題之一在於過於偏向股東會中心，
+反而使得股東行使表決權以監控薪酬安排之制形同虛設291。
+
+      綜上所述，我國實務上，董事會雖扮演實質之報酬決定角色，
+惟公司法並未明文肯定董事會對於董事報酬之決定權，法制上仍以
+股東會為中心，此一「名實不符」的情形，顯然造成薪酬規範與實
+際運作上的不一致292。本次強制設立薪委會之政策，以植入單軌制
+董事會之薪酬決定機制作為改革手段；惟此作法除了可能與我國傳
+統雙軌制之公司經營與監督的內部體制相衝突外，亦可能無法與公
+司法第196條股東對董事薪酬之決定權規定完全相容。在現行法
+下，為使我國強制設置薪委會的新制與公司法第196條規定進一步
+接軌，其中之一的配套問題是薪委會之薪酬決定效力為何？在證交
+法並無明文規定之情況下，解釋上仍受公司章程、股東會及董事會
+決議之拘束（公司法第196、227、29條）。詳言之，經理人報酬係
+由董事會決定，本無問題。惟就董事薪酬而言，薪委會所建議之酬
+金中，屬實務見解所稱之董事報酬（定義上僅限於勞務給付之對
+價）293仍應規定於章程或經股東會決議；但是，狹義報酬以外之給
+
+290 美國學者Myers亦持類似看法：股東涉入公司管理階層的經營決策愈深，愈
+    難使董事為該等決策之後果負起完全責任。Myers進一步認為金融改革法所
+    設之股東諮詢性投票，可能因股東批准公司之薪酬安排或涉入相關決策，導
+    致董事不再須對公司薪酬安排之決策負起全部責任；由於董事不再需要為作
+    出偏袒執行長之薪酬決策負起完全的風險承擔成本，其等反而可能會作出更
+    多的偏袒決策。See Myers, supra note 159, at 417-18, 421.
+291 Shao, supra note 208, at 4 (“[S]hareholder voting rule exists in name only
+    nowadays. . . . In this light, Article 196 is too shareholder-oriented to implement.”).
+292 參見郭大維（註19）             ，頁211-212（       「我國公司法對董事報酬之決定係採取股東
+    會中心的規範模式，惟實務運作上常見公司章程或股東會附加一定條件後授
+    權董事會決定之情形，導致董事之報酬實質上由董事會決定之現象。」                                                 ）。
+293 曾宛如，2010年公司與證券交易法發展回顧，臺大法學論叢，40卷特刊，頁
+    1885（2011年）      。然而，曾宛如教授主張，就公司法實務判決對董事及經理人
+    報酬見解而言，其對報酬定義不具意義，且報酬之認定不應以形式名義為
+    斷， 「由證交法增訂之薪酬委員會所處理之給付包括薪資、股票選擇權與其他
+    具有實質獎勵之措施可印證此一看法」                            。曾宛如，同文，頁1897。
+316                            《中研院法學期刊》第11期（2012年9月）
+
+
+
+付（如認股權、分紅入股、退休福利、離職給付、津貼及其他具有
+獎勵性質之措施）則由董事會決定294。換言之，參照薪委會辦法第
+7條第1項規定，就實務狹義認定之報酬以外的給付，薪委會於決議
+後，尚須將其建議提交董事會作最後決議，始完成合法且具拘束力
+之薪酬決定295。
+
+      然而，誠如曾宛如教授以為：「如此分割處理是否妥適不無疑
+義」
+ ；故其進一步指出：
+         「倘若薪酬委員會可發揮公司治理之功能，
+此際實應進一步考慮是否修改公司法第196條規定，將上市公司及
+在證券商營業處所買賣之公司排除在適用範圍之列，可使董監報酬
+之決定更具一致性296。」根本之計，或如邵慶平教授主張，吾人應
+除去對股東薪酬表決權行使成效不切實際的期待，反應採較務實的
+態度，明文規定董事會的權限及於董事報酬之決定，藉此在法制上
+明文肯定董事會對董事報酬之決定權297。準此，樂觀地來看，或許
+強制設置薪委會之政策乃正視董事會在薪酬決定上扮演之角色的第
+一步，此可能有助於讓我國董監事薪酬決定機關從「名實不符」朝
+向「名實相符」之方向發展298。
+
+
+
+294 曾宛如（註293）
+            ，頁1898。
+295 劉連煜（註31），頁75、77（「薪酬委員會……只有向董事會之建議權。」                      ）。
+296 曾宛如（註293）
+            ，頁1898。
+297 參見邵慶平（註275），頁109。See also Shao, supra note 208, at 4-5. 詳言之，
+    邵教授認為公司法第196條應可考慮修改為「董事之報酬，未經章程訂明者，
+    應由董事會議定。公開發行股票之公司，其章程規定或董事會議定董事報酬
+    之方式、程序及其他重要事項，應依證券管理機關之規定行之。」邵慶平
+    （註275）
+         ，頁110。
+298 有鑑於前述美國學者 Myers 指出金融改革法所設之股東諮詢性投票的可能問
+    題，以及我國股東雖能行使更具拘束性的薪酬表決權，惟其薪酬監督之成效
+    仍舊不彰等問題；本文認為縱令吾人在薪酬決定採董事會中心主義之思考，
+    為使薪委會運作達「權責相符」的目標，除經由成員獨立性之要求以避免薪
+    酬決策過程產生利益衝突外，更須同時藉由對董事會或薪委會決定董事薪酬
+    之程序加以嚴格規範，強化薪酬安排過程之監督功能。亦即，強化受託義務
+    之外部司法審查，改善董事會決策過程以發揮監督功能，或亦屬薪酬層面之
+    公司治理規範的改革重心之一。
+評我國強制設置薪酬委員會之立法政策                                                                     317
+
+
+
+
+八、我國2011年公司法新增之薪酬發放工具：限制型股票
+
+     員工限制型股票(Restricted Stock)乃具股權性質之激勵性薪酬
+(equity-based incentives compensation)的一種（另一種為股票選擇
+權）299；劉連煜教授認為：「一般係指符合特定發行條件與認購條
+件之前提下，由公司發行員工限制股票，無償給予員工或以優惠價
+格供員工認購。該限制型股票之限制條件主要包括：員工取得股票
+權利之期間、移轉價格、股權行使與股份自由轉讓之限制等
+等 300。」2011年6月29日我國公司法增修第167條之3以庫藏股發放
+員工限制股，以及第267條第8至10項以發行新股方式發放限制型股
+票等規定，便於企業為激勵員工績效達成而規劃員工獎勵措施時，
+能有更大彈性空間301。
+
+
+299 See Balachandran et al., supra note 122, at 11 (“Restricted Stock is shares in the
+    company’s equity given to executive and valued at prices as of the date of issue.”).
+300 參見劉連煜（註221），頁525。又我國現行法下，董監事不具員工身分者並
+    無法領取具有股權性質的激勵獎酬。然而，經濟部94年4月20日經商字第
+    09402801600號函釋表示：「董事長如兼任經理人職務，即具有員工身分，得
+    基 於 該 身 分 參 與 員 工 紅 利 之 分 配 。 」 又 經 濟 部 94 年 3 月 15 日 經 商 字 第
+    09402027670號函釋指出：「按公司法第235條規定所稱員工，除董事、監察
+    人非屬員工外，其餘人員是否屬員工，應由公司自行認定。公司執行長如經
+    認定為員工，而董事長兼任執行長時，係身兼二種身分，可基於員工身分受
+    員工紅利之分派。」另綜合經濟部79年4月14日經商字第206278號函釋及79
+    年4月16日經商字第203302號函釋可知，只要董監事身兼經理人（員工），即
+    得領取員工分紅，該員工分紅當包含員工具股權性質之激勵性薪酬。是故，
+    我國具備經理人身分之董事，亦即內部董事（執行董事），亦得領取具有股
+    權性質的激勵獎酬，從而可領取員工限制型股票。因此，前文「貳、二」部
+    分所述之相關理論或問題，於我國內部董事亦有適用。
+301 公司第267條第8項「限制員工權利新股」          ，其所得限制之權利範圍為何？林國
+    全教授以為，應限縮於「一定期間之轉讓權」              ，而不及於「表決權」或「盈餘
+    分派請求權」等其他權利，始符合立法說明所稱「為激勵員工績效達成」之
+    特殊性。林國全，2011年公司法修正條文簡析，台灣法學雜誌，185期，頁18
+    （2011年）。惟金管會於2012年2月20日修正「發行人募集與發行有價證券處
+    理準則」並指出：     「限制員工權利新股限制轉讓期間、表決權及配股配息權的
+    限制及配股，基於公司法第267條規定並未就限制員工權利新股明訂可限制權
+    利範圍，為增加企業發行彈性，應得回歸由發行人依公司所需員工激勵效果
+    及獎酬計畫來設計相關的限制範圍，發行人應依發行人募集與發行有價證券
+    處理準則第60條之4規定於發行計畫中明訂相關既得期間及受限制權利，像是
+318                                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+      然而，限制型股票作為薪酬工具之成效，目前尚有爭議。支持
+者認為，限制型股票能降低執行長及管理階層「短視近利」的心態
+(short-termism) ， 藉 以 強 化 著 眼 於 公 司 長 期 表 現 的 誘 因 (long-
+           302
+termism)         。蓋限制型股票無法即時處分，需達一定期間後303，始
+能在未來獲得股票賣出的相對報酬304。有荷蘭的實證研究顯示，多
+數國際機構投資人認為，對於荷蘭公司的執行長應多採行諸如股票
+選擇權或限制型股票之類的激勵性薪酬設計305。反對者認為，限制
+型股票乃激勵性薪酬的一種，若以前述排擠理論的觀點分析，可能
+會造成執行長及高階經理人的反誘因提升，不僅未解決原有問題，
+反而因擠出效應產生過度發放薪酬的不良結果306。此外，限制型股
+
+
+
+    股票轉讓、投票權、參與股利分配權或取得配股配息後是否受限制。」請參
+    見限制型股票發放對象以公開發行自身公司員工為限 金管會：不包含從屬公
+    司，法源法律網：法律新聞，2012年3月5日，http://www.lawbank.com.tw./
+    news/NewsContent.aspx?NID=100128.00（最後瀏覽日：2012年3月10日）                       。
+302 Müller, supra note 41, at 176-77 (“A company can address this [short-termism]
+    problem by spreading equity compensation over a number of years (e.g., five years),
+    and limiting equity compensation to the form of [long-term] restricted stock.”)
+    (alteration in original). 關於英國之例，see Hill, supra note 138, at 26-27 (“The
+    UK Corporate Governance Code, for example, supports phased and deferred vesting
+    of shares and options, stating that normally such forms of remuneration should not
+    vest or be exercisable in less than three years . . . .”). 以美國為例，金融改革法第
+    955條即基於抑制短視近利心態之規範目的，要求發行公司揭露其政策上是否
+    容許董事及員工對所持有之公司股票的市場價值進行避險。Id. at 27.
+303 限制轉讓期間通常為3到5年，see Balachandran et al., supra note 122, at 11
+    (“Restricted stock also carries a vesting period during which the executive cannot
+    sell the stock. Typical vesting periods range from three to five years.”). 惟依我國
+    公司法第167條之3以庫藏股發放員工限制股，限制轉讓期間最長不得超過二
+    年。另關於第267條第8至10項以發行新股方式發放限制型股票，其員工轉讓
+    權之限制是否亦有第167條之3「限制轉讓期間最長不得超過二年」規定之適
+    用？林國全教授指出：「本文雖認為應有限制轉讓期間之上限，始為合理，
+    但自現行文字是否能逕作此目的性解釋，實令人質疑。對於上述疑義，實應
+    儘速修法使臻明確。」林國全（註301）                         ，頁18。
+304 易明秋（註201）         ，頁171。
+305 McCahery & Sautner, supra note 157, at 3-4.
+306 如前文排擠理論所論，以激勵性薪酬解決薪酬過高的問題，可能會產生擠出
+    效應。蓋固定薪酬無法導出使經理人的工作表現符合股東期待時，倘以績效
+    為導向之激勵性薪酬作為解決方式，該外在激勵機制會產生擠出效應，使得
+評我國強制設置薪酬委員會之立法政策                                                                     319
+
+
+
+
+票的運作方式類似股票選擇權，二者皆屬於一定期限後始得實現經
+濟利益之激勵性薪酬；惟激勵性獎酬可能促使管理階層採取過高風
+險的行為，其後產生損害公司經營及股東利益的結果307。再者，就
+促進管理階層著眼於公司長期績效而言，選擇權的設計同樣可規定
+在若干年後才可以實現(vest)，故限制型股票與股票選擇權的差異
+可能不大。惟選擇權畢竟具有一個執行價，理論上該執行價會等於
+或大於發行時市價，其價差之產生端視執行長及高階經理人是否達
+成公司營運目標、創造良好績效，故其等有可能在公司未達成一定
+績效之情形而無法獲利。然而，限制型股票並無執行價，對執行長
+及高階經理人之成本為零；亦即不論公司多年後股票市價為何，其
+等均可獲利，故可能形成績效誘因的不足。最終，不僅使得現持股
+或未來買進股票之公司投資人替前述現任、甚至離職的管理階層支
+付薪酬，而且造成公司整體薪酬成本上升，損及股東利益308。
+
+      即令限制型股票是否適宜及如何作為薪酬支付工具容有爭
+    309
+議     ，我國目前公司法既已完成限制型股票規定之增修，即成為企
+
+
+    原欲透過該機制創造經理人有更好表現的自利誘因，其後卻造成經理人犧牲
+    股東權益的結果。簡言之，激勵性薪酬計畫可能不僅未解決原有問題，反因
+    擠出效應而生過度發放薪酬的不良結果。詳參前文「貳、二、（四）                                           」 。
+307 美國有針對金融機構所採之具股權性質的激勵性薪酬誘因，與該機構之違約
+    風險(default risk)間的關聯性進行研究。該研究顯示，採激勵性薪酬（限制型
+    股票或選擇權）者會增加違約風險；採非激勵性薪酬誘因(non-equity-based
+    incentives)者，違約風險則減少。See Balachandran et al., supra note 122, at 1, 4.
+    該研究進一步指出，激勵性薪酬在金融海嘯期間使管理階層有誘因採取過高
+    風險的行為，導致金融機構之違約風險升高，最終引發金融海嘯。
+    Balachandran et al., supra note 122, at 32, 34, 36. See also Grove et al., supra note
+    12, at 434.
+308 參見易明秋（註201）            ，頁171。
+309 除有前述正反意見存在外，有實證研究顯示包含限制型股票在內之激勵性薪
+    酬，有助於銀行業的財務表現，卻可能不利長期之貸款品質（蓋有較多的不
+    良債權）     ，顯示運用激勵性薪酬可能對企業產生複雜的影響。See Grove et al.,
+    supra note 12, at 418, 421, 432. 論者指出，改善前開薪酬安排問題的方法之
+    一，乃要求管理階層相當長期地持有激勵性薪酬（含選擇權及限制型股
+    票），此等薪酬利益的實現期間可能需要長達10年之久。Id. 12, at 434. 然
+    而，限制型股票雖可藉著要求董事、管理階層持有公司股份，以使此等代理
+320                                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+業界的薪酬工具選項之一。縱使金管會亦已於2012年2月20日就
+「發行人募集與發行有價證券處理準則」
+                 （下稱「募發準則」
+                         ），配合
+公司法第267條之修正，增訂相關應遵循事項310；我國仍宜參酌前
+述關於限制型股票之正反意見及後續的實務運作後，於未來檢討相
+關規定的妥適性或增訂其他配套措施。如此始能讓此種新薪酬工具
+之引進，既達到提升員工績效之目的，又能減低員工採取過高風險
+的行為誘因，以避免激勵性薪酬反而產生損害公司及股東利益的結
+果。
+
+九、強制設置薪委會是否造成過高法令遵循成本？
+
+      公開公司(public corporation)之特徵乃股權分散、經營與所有分
+離，非公開公司(private corporation)之特徵則為股權集中、經營與
+所有結合；此二種不同的股權資本結構及治理模式適合於不同發展
+階段或不同性質的企業，理論上並無優劣高下之分。若無管制規範
+存在，則代理成本驅使下所生之自然均衡(natural agency-cost-driven
+equilibrium)會使得企業基於自身不同考量，而在二種公司型態進行
+轉換。例如，某一公開公司可能將因嚴密監控經理人而受惠，故考
+量轉換成非公開公司；另一種情形，非公開公司為能降低其資金取
+得成本，於是考量轉換為公開公司以向公開資本市場募資 311 。然
+而，論者指出，不僅美國聯邦稅法扭曲此種均衡，而且美國歷年來
+制定之洋洋灑灑的證券及公司治理法規—例如：1933年證券法
+
+
+    人之誘因與身為本人之股東的利益一致，關於限制型股票應如何與其他種類
+    薪酬（例如現金）搭配，以及限制轉讓期間過長可能產生之其他問題，see
+    Müller, supra note 41, at 177.
+310 例如募發準則第60條之5的規定，即是參照發行員工認股權憑證認股價格之規
+    範，明定限制員工權利新股之發行價格不受公司法第140條關於股票發行價格
+    不得低於票面金額規定之限制，另明定得無償配發限制員工權利新股予員工。
+311 M. Todd Henderson & Richard A. Epstein, Introduction to “The Going Private
+    Phenomenon: Causes and Implications” 2 (Univ. of Chicago Law & Econ., Olin
+    Working Paper No. 430, 2008), available at http://papers.ssrn.com/sol3/papers.cfm?
+    abstract_id=1269524.
+評我國強制設置薪酬委員會之立法政策                                                                321
+
+
+
+
+(the Securities Act of 1933)、1934年證交法、1968年威廉法(the
+Williams Act of 1968)以及2002年沙賓法—亦破壞前述的均衡；蓋
+前述法案僅適用於公開公司，造成公開公司之營運成本較非公開公
+司相對大幅增加。進一步而言，因身為公開公司的成本增加，使得
+轉變為非公開公司成為一種減少法令遵循成本的方式，創造上市公
+司自美國證管會註銷登記而被私人收購(going private)的誘因—透
+過此「私有化」之方式（自公開資本市場外移）減少法令遵循成本
+及訴訟風險。惟大多數私有化之公司仍等待透過下一次的初次公開
+發行(initial public offerings, IPO)，再成為公開公司。於是吾人可觀
+察到一種特殊之公司型態轉換的循環：
+                「私有化—公開化—私有
+化(private-public-private)」312 。事實上，公開及未公開公司之營運
+模式彼此間的轉換，提供一個自然機制檢驗特定法規（如下述的沙
+賓 法 ） 是 否 合 於 成 本 效 益 分 析 ， 或 是 否 管 制 過 當 (regulatory
+overreach)。倘若美國聯邦立法或州法對於公開公司之規範過於嚴
+苛，造成業者負擔過重的法令遵循成本或其他風險，則企業界可能
+會傾向透過私有化以減少成本313。此外，已有實證研究顯示，沙賓
+法實施1年後，美國小型公開公司被私人收購的比例顯著增加314。
+換言之，形成一股小型公開公司的私有化潮315。蓋美國沙賓法乃齊
+頭式地(one-size-fits-all)一體適用，並未區別公司大小及類型；雖對
+大型企業較無顯著影響，卻對小型企業造成不成比例的法令遵循成
+本負擔。沙賓法使小型企業成為公開公司的淨利益減少，或造成其
+等在法令遵循上的淨成本，故當公開化之成本上升對這些小型公司
+本身而言相對較劇時（相對於大型公司而言），許多不堪法令遵循
+成本負荷的小型公司便走向私有化一途316。
+
+312 Id. at 2-3.
+313 Id. at 3, 5.
+314 See Ehud Kamar et al., Going-Private Decisions and the Sarbanes-Oxley Act of
+    2002: A Cross-Country Analysis, 25 J.L. ECON. & ORG. 107, 107, 109, 129 (2008).
+315 Bainbridge, supra note 1, at 29-30.
+316 Kamar et al., supra note 314, at 108-09, 114.
+322                       《中研院法學期刊》第11期（2012年9月）
+
+
+
+      吾人可自上述法令遵循成本致使公開公司私有化之角度，檢視
+我國強制設置薪委會的政策。殊值注意者，我國現行公司治理環境
+下，金管會即使有證交法第14條之4第1項但書的授權，針對審計委
+員會（依美國法及我國證交法第14條之4第2項規定其成員須全為獨
+立董事）尚不敢強制設立，且金管會依證交法第14條之2第1項但書
+的授權，對於獨立董事亦採漸進式推動；惟本次證交法第14條之6
+的增修強制上市上櫃及興櫃公司設置薪委會（至少依美國法其成員
+須全為獨立董事），似乎在管制循序漸進之政策上有所矛盾。與我
+國相較，美國金融改革法強制設置薪委會的政策之所以可能相對具
+有正當性，係因其設置獨立董事之法令要求在聯邦立法或交易市場
+上市準則均已行之有年，故美國公開公司多已配置有獨立董事317。
+反觀我國，公開公司強制設置獨立董事之要求尚未及於許多實收資
+本額未達100億元的上市（櫃）及興櫃公司，今遽要求所有前揭公
+司設置薪委會，縱使有相關日出條款（薪委會辦法第6條第5項及第
+     ，其強制設置先後的規範正當性難謂無疑318。
+13條參照）
+
+      雖設置薪委會或能某程度提升公司薪酬規範，惟有荷蘭的實證
+研究顯示，無論公司內部經營監督機關採單軌制或雙軌制，基本上
+股東對於執行長薪酬決定機關（在單軌制乃薪委會，在雙軌制乃監
+察人會中非屬管理階層的成員），並無明顯偏好319；由是可知，似
+非所有公司皆有設置薪委會的必要320。尚且，薪委會之設置及運作
+
+
+317 賴英照（註20）
+           ，頁177-182。
+318 類似見解，請參見王文宇（註23）  ，頁292（
+                           「尤其我國甫實施獨立董事和審計
+    委員會制度，董事會委員會單軌制的公司治理模式尚未生根，馬上就接續移
+    植薪酬委員會的制度，姑且不論實證上是否真有此需求，如此貿然的引進此
+    制，卻又未提供因地制宜，符合企業需求的具體方案，對於公司治理的影響
+    究竟是正面或是負面，實未可知。」                   ） 。
+319 McCahery & Sautner, supra note 157, at 4.
+320 美國公司法學者 Bainbridge 亦針對美國金融改革法要求上市公司須設置成員
+    全為獨立董事之薪委會的政策提出批評，認為此政策亦是一種齊頭管制模式
+    (one-size-fits-all model)；並批評此立法欠缺實證研究之支持，蓋大部分實證研
+    究反駁薪委會獨立性與公司表現或執行長薪酬發放實務的改善之間呈現正相
+評我國強制設置薪酬委員會之立法政策                                                                       323
+
+
+
+
+的費用皆屬公司營運成本之一，對照前述美國沙賓法因法令遵循成
+本過高導致私有化潮，值得吾人觀察在我國是否可能發生類似小型
+公開公司自公開資本市場中外移的現象。藉此省思強制設立薪委會
+之齊頭式平等政策，是否過於關注大型公開公司的薪酬規範問題，
+忽略此政策可能加諸過高的法令遵循成本於小型公開公司，致使政
+策整體效益可能未如預期321。
+
+十、從金融改革法之立法背景省思我國強制設置薪委會之
+  政策
+
+      雖有論者指出，金融改革法中有關薪酬之公司治理規定基本上
+再次確認商業判斷法則之適用，支持該法則適用於薪酬決定之司法
+審查的必要性，亦即法院原則上應尊重董事會就薪酬安排之經營決
+策322；惟如前所論，從金融改革法中之公司治理規定內容可看出，
+政府干預已凌駕自由市場力量之運作，再次彰顯國家管制權威介入
+公司內部治理323。一般而言，管理階層薪酬契約的金額內容及種類
+結構，會影響公司是否能吸引、聘任及驅使符合條件之高階經理
+人，來為股東及公司利害關係人創造價值。但論者指出，金融改革
+法可能未詳加考量對經理人行為之衝擊，逕以國家管制力量改變薪
+酬契約內容、影響公司薪酬安排，此種管制可能會迫使公司移除使
+
+
+    關 的 假 設 。 Stephen M. Bainbridge, Dodd-Frank: Quack Federal Corporate
+    Governance Round II, 95 Minn. L. Rev. 1779, 1805 (2011).
+321 尹慧中（註18）         （「面對外界詢問主管機關強制規定上市櫃公司不論規模大小
+    皆必須設立薪酬委員會，是否造成不必要的資本支出。朱竹元認為，確實，
+    設立薪酬委員會與公司規模大小確實有關。因此會轉呈主管機關參考，進一
+    步在未來列入法規調整、討論。」                         ）。
+322 Carpenter et al., supra note 124, at 499 (“There is a powerful principle that has
+    shaped corporate governance in the United States for a long time. It is known as the
+    ‘business judgment rule.’ . . . . The rules of construction in the Dodd-Frank compensa-
+    tion reforms basically reaffirm this rule.”).
+323 See Stefan J. Padfield, The Dodd-Frank Corporation: More than a Nexus of
+    Contracts 25 (Univ. of Akron, Sch. of Law, Legal Studies Research Paper No. 11-3,
+    2011), available at http://papers.ssrn.com/sol3/papers. cfm?abstract_id=1773662.
+324                                          《中研院法學期刊》第11期（2012年9月）
+
+
+
+管理階層戮力不懈的誘因，並似有過度干涉公司內部治理之虞。故
+有學者對金融改革法之薪酬安排管制抱持悲觀態度，認為其不僅無
+法解決不當薪酬發放之問題，且將會造成弊多於利的結果324 。甚
+且，美國公司法學者Bainbridge認為金融改革法如同沙賓法一般，
+乃基於社會大眾對於公司、市場以及金融海嘯此一負面經濟事件之
+民粹性反彈(populist backlash)，所制定的泡沫法案(bubble act)325。
+詳言之，美國2002年沙賓法案乃為迎合美國當時期中選舉而倉促立
+法之產物，當時立法者趁民眾對股市崩盤之恐慌心理下便匆促立法
+而未為詳盡之事前評估。該法案制定以來產生諸多負面影響。是
+以，原支持沙賓法案之立法者，後來亦開始批評該法案所生之實務
+運作問題。且美國政府部門首長也曾表示此法案已為許多公司帶來
+額外審計成本，為美國經濟帶來新風險326。同樣地，美國2010年金
+融改革法亦屬金融海嘯後，基於社會壓力及民眾恐慌心理而倉促立
+法之產物。美國有論者擔心此立法使其政府管制過度介入公司內部
+治理，可能如同沙賓法一般導致美國資本市場競爭力下滑327。
+
+      承上所論，美國金融改革法雖立意良善，惟其法規範實際執行
+後，能否產生利多於弊的結果似仍有待觀察。既然美國金融改革法
+已受到諸多批評，我國薪委會立法似亦受該立法的影響，即應受到
+
+
+324 Larcker & Tayan, supra note 188, at 3, 5.
+325 See Bainbridge, supra note 320, at 1796, 1784-88. 其認為美國聯邦立法對於公司
+    治理之管制，歷史上的立法模式乃依循經濟繁榮(boom)、泡沫破滅(bust)以及
+    管制等一定順序。美國沙賓法及金融改革法均是此種立法循環模式之適例。Id.
+    at 1782. See generally Larry E. Ribstein, Bubble Laws, 40 HOUS. L. REV. 77 (2003).
+    See also Bainbridge, supra note 1, at 33-35; Hill, supra note 138, at 3 (“Historically,
+    there has been a strong link between corporate crises and increased regulation . . . .”).
+    另關於經濟繁榮(boom)、經濟泡沫化(bubble)、泡沫破滅(bust)以及恐慌性管制
+    (panic regulation)等現象，依此順序存在著規律循環模式之中文說明，參見蔡
+    昌憲，法 域 競 爭 之 運 作 內 涵 —從 公 司 設 立 登 記 地 競 爭 到 美 國 沙 賓 法
+    引發之跨國上市競爭，臺北大學法學論叢，75期，頁161（2010年）                                                   。
+326 參見蔡昌憲，企業自治之逆流？—擺盪於强行規定與任意規定間之累積投
+    票制，月旦財經法雜誌，8期，頁50（2007年）                            。
+327 See Bainbridge, supra note 1, at 3-4. See also Padfield, supra note 323, at 29-32.
+評我國強制設置薪酬委員會之立法政策                                                                   325
+
+
+
+
+類似的檢驗。尤其我國若欲達到成為區域籌資中心，甚至是亞太金
+融中心的目標，我國公司治理法制在國際法域競爭中即更應重視管
+制謙抑性(regulatory humility)。蓋縱使美國身為全球強權且本身擁
+有一個在地「支持管制」之利益團體可大肆利用的國際型資本市
+場，從沙賓法因法令遵循成本過高，致使外國企業為規避管制而自
+美國交易市場下市或轉赴他國上市之例，亦顯示出凡一法域對公司
+施加不合於成本效益分析之高成本管制，該法域某程度均將受到國
+際法域競爭的抑制328。既然不論一法域是否屬擁有極具吸引力之市
+場與資源的大國，抑或是相對小的國家，國際法域競爭均會對它們
+產生類似的改革壓力329；與美國相較下，臺灣誠已欠缺與美國相當
+的資源與市場，在法令之制定上更應重視管制謙抑性，制定較具法
+律管制彈性且能通過成本效益分析檢驗的法令，而非以強行性為主
+且遵循、執行成本過高的法規330。綜上，我國強制設置薪委會之政
+策在規範對象上涵蓋所有上市櫃及興櫃公司；顯然，薪委會辦法似
+未針對公司規模不同而加以區別其適用標準，而類似沙賓法或金融
+改革法般齊頭式地要求所有受規範之企業一體遵行331。
+
+     有鑑於此，我國立法、行政機關在管制過程中宜注意到管制謙
+抑性，似宜依循謙抑性管制(humble regulation)的管制思惟。簡言
+之，管制機關應多與市場參與者溝通與合作。例如就企業法制而
+言，容許市場交易者自我調整公司之內部規範；即便真有管制介入
+
+
+328 蔡昌憲（註325）       ，頁149-158。
+329 See Chang-hsien Tsai, International Jurisdictional Competition under Globalization:
+    From the U.S. Regulation of Foreign Private Issuers to Taiwan’s Restrictions on
+    Outward Investment in Mainland China, 2 ASIAN J.L. & ECON. 1, 76-78 (2011),
+    available at http://www.bepress.com/ajle/vol2/iss1/5.
+330 See Larry E. Ribstein, Sarbox: The Road to Nirvana, 2004 MICH. ST. L. REV. 279,
+    296-97 (2004). 參見蔡昌憲（註325）           ，頁162-163。
+331 蔡昌憲（註326）          ，頁49-51。對強制設置薪委會之立法政策的類似質疑，請參
+    見王文宇（註23），頁292（「立法選擇強制設立薪酬委員會的決定，是否缺
+    乏彈性，在強調公司自治的公司治理環境，強制上市、上櫃公司須配備薪酬
+    委員會，是否能發揮立法目的，仍有疑問。」                             ）。
+326                                         《中研院法學期刊》第11期（2012年9月）
+
+
+
+公司內部治理(corporate internal governance)領域之必要，除可採程
+序面強行規定取代實質面強行規定（例如強化完全揭露的要求）332
+外，更重要的是管制應著重循序漸進之引導(nudge)功能 333 ；同時
+注重如何透過細緻化之預設規定(carefully crafted default rules)、行
+政指導、強化市場壓力334等手段來達其規範目的，而非動輒修法採
+用實質管制之強制或禁止規定，齊頭式地要求所有受規範之企業一
+體遵行335。
+
+
+
+伍、結論
+
+      本文從經濟分析出發，透過相關理論呈現薪酬安排的經濟意
+涵。再者，藉由美國普通法有關薪酬爭議之介紹，呈現薪酬議題與
+受託義務的關連性；並介紹相關法令及金融改革法之公司治理規
+定，作為我國薪酬規範的借鏡。最後，透過前述經濟理論及比較法
+觀點，剖析我國薪酬規範下立法面與實務面之可能問題，尤其是強
+制設置薪委會之立法政策。
+
+      金融海嘯之後，主要國家政府均認為對於公司薪酬安排應有一
+定的管制；故如Richard A. Posner所主張，薪酬規範問題不在於是
+
+
+332 See Posner, supra note 4, at 1045 (“The first and most obvious [reform measure] is
+    requiring publicly held corporations to disclose the full compensation of all senior
+    executives . . . .”).
+333 Walker, supra note 49, at 19 (“Although regulation via ‘nudge’ is unlikely to result in
+    significant reform, it does minimize unintended consequences and inefficiencies.”).
+334 如 Posner 所言，在金融海嘯後，管理階層薪酬議題已具相當的爭議性，使得
+    避免薪酬金額及結構被揭露的種種作為皆可能徒勞無功；故在此情況下，公
+    司薪酬透明性之達成即可在日漸積極之媒體的輔助下留待市場為之。Posner,
+    supra note 4 , at 1046.
+335 蔡昌憲（註62）           ，頁215。See also Walker, supra note 49, at 19 (“[E]xecutive
+    compensation is a highly complex subject that is not well suited for one-size-fits-all,
+    coercive regulation.”) (emphasis added).
+評我國強制設置薪酬委員會之立法政策                                              327
+
+
+
+
+否進行管制，毋寧是如何規範才是最佳之管制手段336。我國強制設
+置薪委會之政策，即是透過齊頭式之政府管制手段，欲解決公司薪
+酬制訂的問題。對於薪酬安排進行管制的重要原因之一，或來自於
+社會上所得不均(income inequality)，社會大眾對於執行長及公司高
+階經理人在金融海嘯發生之際仍坐領高薪發出不平之鳴337。惟薪委
+會乃源自英美單軌制董事會，實與我國主要以雙軌制之公司經營與
+監督體制有所不同。故本次強制設置薪委會之政策是否直接適合我
+國現行公司內部治理體制、在法律移植時應否作適當調整、相關法
+令的配套是否完備、法制上如何調整以配合整體社會經濟環境338，
+尚待未來受規範之企業界全面設置薪委會後再作進一步觀察。
+
+    樂觀地來看，或許強制設置薪委會之政策乃正視董事會在薪酬
+決定上扮演之角色的第一步，此可能有助於讓我國董監事薪酬決定
+機關從「名實不符」朝向「名實相符」之方向發展。無論如何，吾
+人應持興利改革的態度面對強制設置薪委會之政策。職是，納入規
+範的公司宜從政策的法令遵循出發，開始重視非法律機制之公司內
+部薪酬安排的適切定位、確保薪委會成員獨立性及受託義務之確實
+履行、建立薪酬計畫之績效與風險的連結，以啟動公司內部治理與
+
+
+
+336 See Posner, supra note 4 , at 1047.
+337 盱衡國際上薪酬規範之發展，美國、英國、澳洲均可見此種基於社會觀感
+    (public sentiment)，從而政府介入管制的背景脈絡。See Hill, supra note 138, at
+    28-31. 以美國為例，如前所述，依金融改革法第953條，美國證管會須要求公
+    司揭露年度員工總薪酬中位數與年度執行長總薪酬的比例，即是基於此種考
+    量。惟有論者指出，此揭露政策可能導致美國企業產生逕將公司內部生產外
+    包出去的誘因(incentives for outsourcing)。Id. at 31. 另參見王志誠、邵慶平、
+    洪秀芬、陳俊仁（註26），頁98（「有鑑於近年來發生金融海嘯，使得全球經
+    濟發展陷入低潮，但卻多次傳出金融機構高階主管仍坐享高薪，忽視公司財
+    政困難及投資人損失的事件，不僅造成社會觀感不佳，也間接使得投資人受
+    損、減緩經濟復甦效率，為杜絕這類公司連續虧損，而其董事、監察人酬金
+    總額卻仍大幅增加之弊端，因此，越來越多主張公開發行公司應強制設置薪
+    資報酬委員會方能有效消除此類弊端的聲音……。」                      ）。
+338 參見邵慶平（註203）         ，頁173。
+328                                         《中研院法學期刊》第11期（2012年9月）
+
+
+
+外部薪酬規範的全盤性改革339。總之，同時藉由法律及非法律之公
+司治理機制來降低代理成本340，始能讓我國本次強制設置薪委會之
+政策對公司營運績效發揮正面影響。
+
+
+
+
+339 參見李彥興、郭政弘、李坤璋（註23），頁10。安侯建業通訊（註22），頁8
+    （ 「朱竹元也指出……薪酬委員會制度的設計，將成為日後推動公司設立獨董
+    的基礎，面對此一變化，上市公司實有必要提早爭取該產業內理想的獨董人
+    選。」    ）。
+340 See Clarke, supra note 218, at 94 (“[Comparative corporate governance] would
+    benefit from a stronger focus on the institutional environment for corporate
+    governance. This means comparing not just rules, no matter how well selected, but
+    also the various institutions that exist to make the rules meaningful, as well as non-
+    legal institutions that accomplish the purposes—for example, the reduction of
+    agency costs—attributed to corporate governance rules.”) (alteration in original)
+    (footnote omitted).
+評我國強制設置薪酬委員會之立法政策                            329
+
+
+
+
+                   參考文獻
+
+1. 中文部分
+尹慧中（2011）
+        ，朱竹元：台灣的肥貓並不肥 上市櫃設薪酬委員會
+   薪事更透明，鉅亨網，2011年4月14日，http://tw.stock.yahoo.
+  com/news_content/url/d/a/110414/2/2jf7b.html。
+王文宇（2005），設立獨立董監事對公司治理的影響，法令月刊，
+ 56卷1期，頁45-64。
+─（2008），公司法論，4版，台北：元照。
+─（2012），論大型企業之公司治理法制，月旦法學雜誌，200
+   期，頁282-301。
+王志誠（2009），財富管理法規之實戰守則—實務爭點‧案例解
+   析，台北：財團法人台灣金融研訓院。
+王志誠、邵慶平、洪秀芬、陳俊仁（2011），實用證券交易法，2
+   版，台北：新學林。
+池美佳（2005），公司法下的利益衝突與規範策略—以股東、經
+   理人與債權人間的利益衝突為中心，臺灣大學國家發展研究所
+   碩士論文。
+李彥興、郭政弘、李坤璋（2011），薪酬委員會實務手冊，台北：
+   財團法人中華公司治理協會。
+易明秋（2007）
+        ，公司治理法制論，台北：五南。
+林仁光（2003），公司治理之理論與實踐—經營者支配或股東支
+   配之衝突與調整，臺大法學論叢，33卷3期，頁201-279。
+─（2005），董事會功能性分工之法制課題—經營權功能之
+   強化與內部監控機制之設計，臺大法學論叢，35卷1期，頁
+   157-266。
+林建良、李韋誠、黃郁嵐、劉怡婷、劉懿德（2005），米老鼠的陰
+330                 《中研院法學期刊》第11期（2012年9月）
+
+
+
+      影—由迪士尼案看董事之注意義務，月旦民商法雜誌，19
+      期，頁131-151。
+林國全（2011），2011年公司法修正條文簡析，台灣法學雜誌，185
+      期，頁1-18。
+─（2012），從強制設置薪酬委員會談起，月旦法學雜誌，202
+      期，頁22-37。
+邵慶平（2005），董事法制的移植與衝突—兼論「外部董事免
+      責」作為法制移植的策略，臺北大學法學論叢，57期，頁169-
+      226。
+─（2006），論股東會與董事會之權限分配—近年來公司法
+       修正之反思，東吳法律學報，17卷3期，頁139-182。
+─（2007），論股東會與董事會之權限分配—對董事報酬決
+       定權的觀察與分析，興大法學，1期，頁77-117。
+胡韶雯（2010），由公司治理導向論董事、監察人報酬之決定—
+      兼評最高法院98年台上字第935號民事判決、高等法院花蓮分
+      院98年撤更（一）字第1號民事判決，法令月刊，61卷10期，
+      頁56-74。
+郭大維（2010），公司經營者的傀儡遊戲—論公司治理下幕後董
+      事之規範問題，月旦法學雜誌，184期，頁5-21。
+─（2011），論董事報酬決定機制之建構—從最高法院九十
+      八年度台上字第九三五號民事判決談起，月旦法學雜誌，198
+      期，頁191-212。
+陳俊仁（2008），公司治理與股東權益維護—論股東會章定專屬
+      決議權限之規範缺失，月旦法學雜誌，184期，頁41-59。
+─（2009），超越興利防弊功能之迷思—獨立董事與審計委
+      員會地位再建構，月旦法學雜誌，172期，頁75-93。
+陳春山、李彥興、陳清祥（2011），強制設置薪酬委員會之影響，
+      台北：新學林。
+陳錦隆（2011），公司治理與董事高權，台北：台灣本土法學雜
+評我國強制設置薪酬委員會之立法政策                  331
+
+
+
+
+  誌。
+陳麗娟（2011），債信風暴—歐洲金融市場分析與因應，台北：
+  五南。
+曾宛如（2002）
+        ，公司管理與資本市場法制專論（一）
+                        ，台北：學林
+  文化。
+─（2003），我國有關公司治理之省思—以獨立董監事法制
+  改革為例，月旦法學雜誌，103期，頁61-76。
+─（2011），2010年公司與證券交易法發展回顧，臺大法學論
+  叢，40卷特刊，頁1877-1906。
+─（2011）
+      ，公司法制基礎理論之再建構，台北：承法。
+─（2011），董事會與經理人是否真為公司之業務執行機關及
+  業務執行之輔助機關？—從臺灣高等法院臺中分院九十九年
+  度重上字第一七四號判決及九十九年度重上字第一六四號判決
+  所凸顯之亂象論起，月旦法學雜誌，199期，頁166-183。
+黃日燦（2004），法律決勝負—企業併購與技術授權，台北：天
+  下雜誌。
+黃銘傑（2005），公司治理與董監民事責任之現狀及課題—以外
+  部董事制度及忠實、注意義務為中心，律師雜誌，305期，頁
+  15-29。
+劉連煜（2003），健全獨立董監事與公司治理之法制研究—公司
+  自治、外部監控與政府規制之交錯，月旦法學雜誌，94期，頁
+  131-154。
+─（2009），董事忠實義務與獨立性之司法審查，月旦法學雜
+  誌，173期，頁129-144。
+─（2011），肥貓與薪酬委員會，台灣法學雜誌，185期，頁
+  137-142。
+─（2011）
+      ，現代公司法，7版，台北：新學林。
+─（2011）
+      ，新證券交易法實例研習，9版，台北：元照。
+蔡昌憲（2005），公司契約理論於我國之具體實踐—市場契約自
+332                                《中研院法學期刊》第11期（2012年9月）
+
+
+
+      由與國家法律干預間之權衡，法令月刊，56卷6期，頁39-67。
+─（2007），企業自治之逆流？—擺盪於強行規定與任意規
+      定間之累積投票制，月旦財經法雜誌，8期，頁29-57。
+─（2010），法域競爭之運作內涵—從公司設立登記地競爭
+      到美國沙賓法引發之跨國上市競爭，臺北大學法學論叢，75
+      期，頁117-174。
+─（2010），美國金融消費者保護規範之展望—以消費者金
+      融保護局之創設為中心，月旦財經法雜誌，23期，頁187-
+      219。
+蔡昌憲、陳乃瑜（2012），內部控制制度、董事監督義務及薪資報
+      酬委員會—評最高法院九十八年度台上字第一三○二號民事
+      判決，月旦法學雜誌，203期，頁200-228。
+賴英照（2011），股市遊戲規則—最新證券交易法解析，再版，
+      台北：自版。
+戴銘昇（2011），薪資報酬委員會之組織與職權—兼評我國證券
+      交易法2010年增訂之第14條之6，證交資料，585期，頁31-
+      55。
+謝易宏（2009），薪甘勤願—簡介美國薪酬委員會，月旦民商法
+      雜誌，26期，頁144-170。
+
+2. 西文部分
+
+Acharya, Viral V., Thomas F. Cooley, Mathew Richardson, and Ingo
+      Walter. 2011. Prologue: A Bird’s-Eye View: The Dodd-Frank Wall
+      Street Reform and Consumer Protection Act. Pp. 1-32 in Regulating
+      Wall Street: The Dodd-Frank Act and the New Architecture of
+      Global Finance, edited by Viral V. Acharya, Thomas F. Cooley,
+      Mathew Richardson, and Ingo Walter. Hoboken, N.J.: John Wiley
+      & Sons.
+Alces, Kelli A. 2010. Revisiting Berle and Rethinking the Corporate
+評我國強制設置薪酬委員會之立法政策                                                      333
+
+
+
+
+    Structure. Seattle University Law Review 33:787-808.
+Allen, William T., Reinier Kraakman, and Guhan Subramanian. 2009.
+    Commentaries and Cases on the Law of Business Organization. 3d
+    ed. New York, N.Y.: Aspen Publisher.
+Amatucci, Carlo. 2011. Director and Executive Compensation
+    Regulations for Italian Listed Corporations. Available at http://ssrn.
+    com/abstract=1927406.
+Anand, Sanjay. 2011. Essentials of the Dodd—Frank Act. Hoboken, N.J.:
+    John Wiley & Sons.
+Aviram, Amitai. 2006. A Note on Economic Theories of the Firm.
+    Working Paper. Florzda State Univ. C. of Law, Pub. Law Research
+    Paper No. 182. Available at http://ssrn.com/abstract=880435.
+Bainbridge, Steven M. 2002. Corporate Law and Economics. New York,
+    N.Y.: Foundation Press.
+─. 2007. The Complete Guide to Sarbanes-Oxley: Understanding
+    How Sarbanes-Oxley Affects Your Business. Avon, Mass.: Adams
+    Business.
+─. 2008. Mergers & Acquisitions. 2d ed. New York, N.Y.:
+    Foundation Press.
+─. 2009. Corporate Law. 2d ed. New York, N.Y.: Thomson
+    Reuters/Foundation Press.
+─. 2010. The Corporate Governance Provisions of Dodd-Frank.
+    Working Paper. UCLA Sch. of Law, Law-Econ. Research Paper No.
+    10-14. Available at http://ssrn.com/abstract=1698898.
+─. 2010. Dodd-Frank: Quack Federal Corporate Governance
+    Round II. Minnesota Law Review 95:1779-1821.
+─. 2010. Corporate Governance and U.S. Capital Market
+    Competitiveness. Working Paper. UCLA Sch. of Law, Law-Econ.
+    Research Paper No. 10-13. Available at http://ssrn.com/abstract=
+334                                 《中研院法學期刊》第11期（2012年9月）
+
+
+
+      1696303.
+Balachandran, Sudhakar, Bruce Kogut, Hitesh Harnal. 2010. The
+      Probability   of   Default,   Excessive   Risk,   and   Executive
+      Compensation: A Study of Financial Services Firms from 1995 to
+      2008. Working Paper. Columbia Business School Research Paper.
+      Available at http://ssrn.com/abstract=1914542.
+Bebchuk, Lucian, and Jesse Fried. 2004. Pay without performance: The
+      Unfulfilled Promise of Executive Compensation. Cambridge, M.A.:
+      Harvard University Press.
+Berle, Adolf A., and Gardiner M. Means. [1932] 1991. The Modern
+      Corporation & Private Property. Reprint, New Brunswick, N.J.:
+      Transaction Publishers.
+Blair, Margaret M., and Lynn A. Stout. 1999. A Team Production Theory
+      of Corporate Law. Virginia Law Review 85:247-328.
+Cai, Jie, and Ralph A. Walkling. 2011. Shareholders’ Say on Pay: Does It
+      Create Value?. Journal of Financial and Quantitative Analysis
+      46:299-339.
+Carpenter, Jennifer, Thomas Cooley, and Ingo Walter. 2011. Reforming
+      Compensation and Corporate Governance. Pp. 493-509 in
+      Regulating Wall Street: The Dodd-Frank Act and the New
+      Architecture of Global Finance, edited by Viral V. Acharya,
+      Thomas F. Cooley, Matthew P. Richardson, and Ingo Walter.
+      Hoboken, N.J.: John Wiley & Sons.
+Cheffins, Brian R., and Randall S. Thomas. 2004. The Globalization
+      (Americanization?) of Executive Pay. Berkeley Business Law
+      Journal 1:233-289.
+Chen, En-Te, and John Nowland. 2010. Optimal Board Monitoring in
+      Family-Owned Companies: Evidence from Asia. Corporate
+      Governance: An International Review 18:3-17.
+評我國強制設置薪酬委員會之立法政策                                                   335
+
+
+
+
+Clarke, Donald C. 2011. “Nothing But Wind”? The Past and Future of
+    Comparative    Corporate   Governance.    American    Journal   of
+    Comparative Law 59:75-110.
+Clementi, Gian Luca, and Thomas F. Cooley. 2009. Executive
+    Compensa-tion: Facts. Working Paper. FEEM Working Paper No.
+    89.2010. Available at http://ssrn.com/abstract=1666822.
+Conyon, Martin J. 2011. Executive Compensation Consultants and CEO
+    Pay. Vanderbilt Law Review 64:399-428.
+Core, John E., Robert W. Holthausen, and David F. Larcker. 1999.
+    Corporate Governance, Chief Executive Officer Compensation, and
+    Firm Performance. Journal of Financial Economics 51:371-406.
+Cox, James D., and Thomas Lee Hazen. 2010. The Law of Corporations
+    Vol. 2. 3d ed. St. Paul, M.N.: Thomson Reuters.
+Ertimur, Yonca, Volkan Muslu, and Fabrizio Ferri. Forthcoming.
+    Shareholder Activism and CEO Pay. The Review of Financil Studies.
+    Available at http://ssrn.com/abstract=1443455.
+Fairfax, Lisa M. 2011. The Model Business Corporation Act at Sixty:
+      Shareholders and Their Influence. Law and Contemporary
+      Problems 74:19-30.
+Ferrarini, Guido, and Maria Cristina Ungureanu. 2011. Economics,
+     Politics, and the International Principles for Sound Compensation
+     Practices: An Analysis of Executive Pay at European Banks.
+     Vanderbilt Law Review 64:431-502.
+Ferri, Fabrizio, and David A. Maber. 2011. Say on Pay Votes and CEO
+     Compensation: Evidence from the UK. Working Paper. Available at
+     http://ssrn.com/ abstract=1420394.
+Frey, Bruno S., and Reto Jegen. 2001. Motivation Crowding Theory: A
+     Survey of Empirical Evidence. Journal of Economic Surveys 15:
+     598-611.
+336                                  《中研院法學期刊》第11期（2012年9月）
+
+
+
+Fried, Jesse M., and Nitzan Shilon. 2011. Excess-Pay Clawbacks.
+      Journal of Corporation Law 36:721-751.
+Gordon, Jeffrey N. 2009. “Say on Pay”: Cautionary Notes on the UK
+      Experience and the Case for Shareholder Opt-In. Harvard Journal
+      on Legislation 46:323-367.
+Grove, Hugh, Lorenzo Patelli, Lisa Victoravich, and Pisun (Tracy) Xu.
+      2011. Corporate Governance and Performance in the Wake of the
+      Financial Crisis: Evidence from US Commercial Banks. Corporate
+      Governance: An International Review 19:418-436.
+Gulinello, Christopher John. 2003. The Revision of Taiwan’s Company
+      Law: The Structure Toward a Shareholder-oriented Model in One
+      Corner of East Asia. Delaware Journal of Corporate Law 28:75-
+      127.
+Hamilton, Robert W., and Richard D. Freer. 2011. The Law of
+      Corporations in a Nutshell. 6th ed. St. Paul, M.N.: West.
+Henderson, M. Todd, and Richard A. Epstein. 2008. Introduction to “The
+      Going Private Phenomenon: Causes and Implications”. Working
+      Paper. Univ. of Chicago Law & Econ., Olin Working Paper No. 430.
+      Available at http://papers.ssrn.com/sol3/papers.cfm?abstract_id=12-
+      69524.
+Hill, Jennifer G. 2006. Regulating Executive Remuneration: International
+      Developments in the Post-Scandal Era. Working Paper. Vanderbilt
+      Law and Econ. Research Paper No. 06-15; Sydney Law Sch.
+      Research Paper No. 06/10. Available at http://ssrn.com/abstract=
+      922299.
+─. 2011. Regulating Executive Remuneration after the Global
+      Financial Crisis: Common Law Perspectives. Working Paper.
+      Sydney Law Sch. Research Paper No. 11/91, 2011. Available at
+      http://ssrn.com/abstract=1956294.
+評我國強制設置薪酬委員會之立法政策                                                     337
+
+
+
+
+Hurt, Christine. 2011. Regulating Compensation Working Paper. Illinois
+    Program in Law, Behav. and Soc. Sci. Paper No.LBSS11-10;
+    Illinois Pub. Law Research Paper No. 10-27. Available at http://ssrn.
+    com/abstract= 1758952.
+Kamar, Ehud, Pinar Karaca-Mandic, and Eric L. Talley. 2008. Going-
+    Private Decisions and the Sarbanes-Oxley Act of 2002: A Cross-
+    Country Analysis. Journal of Law, Economics, & Organization
+    25:107-133.
+Langevoort, Donald C. 2001. The Human Nature of Corporate Boards:
+    Law, Norms, and the Unintended Consequences of Independence
+    and Accountability. Georgetown Law Journal 89:797-832.
+Larcker, David F., and Brian Tayan. 2011. Seven Myths of Executive
+    Compensation. Working Paper. Rock Center for Corp. Governance
+    at Stanford Univ. Closer Look Series: Topics, Issues and
+    Controversies in Corporate Governance No. CGRP-17. Available at
+    http://ssrn.com/abstract= 1869019.
+Lin, Chih-Pin, and Cheng-Min Chuang. 2011. Principal-Principal
+    Conflicts and IPO Pricing in an Emerging Economy. Corporate
+    Governance: An International Review 19:585-600.
+Loss, Louis, Joel Seligman, and Troy Paredes. 2011. Fundamentals of
+    Securities Regulation. 5th ed. New York, N.Y.: Aspen Publisher.
+Lund, Andrew C.W., and Gregg D. Polsky. 2011. The Diminishing
+    Returns of Incentive Pay in Executive Compensation Contracts.
+    Working Paper. UNC Legal Studies Research Paper No. 1838387.
+    Available at http://ssrn.com/abstract= 1838387.
+Macey, Jonathan R. 2010. Macey on Corporation Laws Vol. 2. New York,
+    N.Y.: Aspen Publisher.
+McCahery, Joseph A., and Zacharias Sautner. 2011. Institutional Investor
+    Preferences and Executive Compensation. Working Paper. Eur.
+338                                 《中研院法學期刊》第11期（2012年9月）
+
+
+
+      Banking Center Discussion Paper No. 2011-028. Available at
+      http://ssrn.com/ abstract=1926223.
+Mehran, Hamid, Alan D. Morrison, and Joel D. Shapiro. 2011.
+      Corporate Governance and Banks: What Have We Learned from
+      the Financial Crisis?. Working Paper. FRB of New York Staff
+      Report No. 502. Available at http://ssrn.com/abstract=1880009.
+Monks, Robert A. G., and Nell Minow. 2008. Corporate Governance.
+      4th ed. Malden, Mass.: Blackwell Pub.
+Müller, Lukas. 2011. Regulation of Say on Pay: Engineering Incentives
+      for Executives and Directors – Experiences from the United States
+      and Implications for Regulation in Switzerland. Schweizerische
+      Zeitschriftfür Wirtschafts – Und Finanzmarktrecht 83:167-182.
+      Available at http://ssrn.com/abstract=1881176.
+Myers, Minor. 2011. The Perils of Shareholder Voting on Executive
+      Compensation. Delaware Journal of Corporate Law 36:417-461.
+Padfield, Stefan J. 2011. The Dodd-Frank Corporation: More than a
+      Nexus of Contracts. Working Paper. Univ. of Akron, Sch. of Law,
+      Legal Studies Research Paper No. 11-3. Available at http://ssrn.com/
+      abstract=1773662.
+Pinto, Arthur R., and Douglas M. Branson. 2009. Understanding
+      Corporate Law. 3d ed. New Providence, N.J.: LexisNexis.
+Posner, Richard A. 2009. Are American CEOs Overpaid, and, If So,
+      What If Anything Should Be Done about It?. Duke Law Journal 58:
+      1013-1047.
+Reda, James F., Stewart Reifler, and Laura G. Thatcher. 2007.
+      Compensation Committee Handbook. 3d ed. Hoboken, N.J.: John
+      Wiley & Sons.
+Ribstein, Larry E. 2003. Bubble Laws. Houston Law Review 40: 77-97.
+─. 2004. Sarbox: The Road to Nirvana. Michigan State Law
+評我國強制設置薪酬委員會之立法政策                                                     339
+
+
+
+
+    Review 2004:279-297.
+Ribstein, Larry E., and Peter V. Letsou. 2003. Business Associations. 4th
+     ed. Newark, N.J.: LexisNexis.
+Shao, Ching-Ping. 2010. Corporate Governance Global Trends vs Local
+     Needs: A Comparison Between U.S. Reform and Taiwan’s Regime.
+     Address at International Conference on Financial Law Reform,
+     NTU College of Law (transcript available in the Center for
+     Corporate and Financial Law, NTU College of Law).
+Sharpe, Nicola Faith. 2011. The Cosmetic Independence of Corporate
+     Boards. Seattle University Law Review 34:1435-1456.
+─. 2011. Process, Not Structure: An Organizational Behavior
+    Approach to Improving Corporate Boards. Working Paper. Illinois
+    Program in Law, Behavior and Social Science Paper No. LBSS11-
+    36; Illinois Public Law Research Paper No. 11-01. Available at
+    http://ssrn.com/ abstract=1944163.
+Skeel, David. 2011. Making Sense of the New Financial Deal. Liberty
+     University Law Review 5:181-199.
+Stout, Lynn A. 2011. New Thinking on ‘Shareholder Primacy’. Working
+     Paper. UCLA Sch. of Law, Law-Econ. Research Paper No. 11-04.
+     Available at http://ssrn.com/abstract=1763944.
+Tsai, Chang-hsien. 2011. International Jurisdictional Competition under
+     Globalization: From the U.S. Regulation of Foreign Private Issuers
+     to Taiwan’s Restrictions on Outward Investment in Mainland China.
+     Asian Journal of Law and Economics 2:1-98.
+Walker, David I. 2010. The Law and Economics of Executive
+     Compensation: Theory and Evidence. Working Paper. Boston Univ.
+     Sch. of Law Working Paper No. 10-32. Available at http://ssrn.
+     com/abstract= 1688560.
+Walton, Nina. 2011. Crowding Theory and Executive Compensation.
+340                                 《中研院法學期刊》第11期（2012年9月）
+
+
+
+      Working Paper. USC CLEO Research Papers Series No. C11-10.
+      Available at http://ssrn.com/abstract=1916218.
+Wells, Harwell. 2011. U.S. Executive Compensation in Historical
+      Perspective. Working Paper. Temple Univ. Legal Studies Research
+      Paper No. 2011-19. Available at http://ssrn.com/abstract=1775083.
+Wilson, Gregory P. 2011. Managing to the New Regulatory Reality:
+      Doing Business under the Dodd-Frank Act. Hoboken, N.J.: John
+      Wiley & Sons.
+Yeh, Yin-Hua, Huimin Chung, and Chih-Liang Liu. 2011. Committee
+      Independence and Financial Institution Performance during the
+      2007-08 Credit Crunch: Evidence from a Multi-country Study.
+      Corporate Governance: An International Review 19:437-458.
+

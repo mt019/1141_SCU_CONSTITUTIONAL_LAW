@@ -1,0 +1,1221 @@
+《國際比較下我國著作權法之總檢討》 劉孔中主編                                      301
+ 臺北 中央研究院法律學研究所 專書（19）
+民國 103 年 12 月，頁 301-332
+
+
+                                                 ＊
+              視聽表演人保護之研究
+            — 以視聽表演北京條約為中心
+
+                           張懿云＊＊
+
+                           摘 要
+    長久以來，在有關表演人工作成果保護的國際公約中，不論是
+羅馬公約、與貿易有關之智慧財產權協定或世界智慧財產權組織表
+演及錄音物條約，都無法提供視聽表演人充分的保護，聯合國世界
+智慧財產權組織經過十餘年的協商討論之後，終於在2012年6月24
+日在北京舉行的外交會議中通過視聽表演北京條約（Beijing Treaty
+on Audiovisual Performances, BTAP）
+                                 ，以提供視聽表演人的工作成
+果保護。本條約將於30個有資格締約方批准後生效。
+
+  除歸納整理國際上對於表演人保護之發展歷史以及條約重要規
+範內容外，本文更主要在探討並檢視，本條約是如何在各方利益代
+表的折衝協調下呈現最後的條文及其所留下更多未解的難題，其中
+特別是在權利移轉的部分。最後，也期望得提供作為我國視聽表演
+人保護修法之參考。
+
+
+關鍵詞：視聽表演人、視聽表演北京條約、視聽表演人人格權、視
+    聽表演財產權、權利移轉。
+
+
+
+
+＊  投稿日：2013年10月29日；接受刊登日：2014年5月2日。                   ［責任校對：洪瑋辰、江
+   奕穎］。
+＊＊ 天主教輔仁大學法律學院教授兼院長。
+   穩定網址：http://publication.iias.sinica.edu.tw/41116141.pdf。
+302                 國際比較下我國著作權法之總檢討
+
+
+
+              目 次
+
+ 壹、前言               四、 權利移轉
+ 貳、視聽表演人保護國際條約之     五、 權利的限制與例外
+   發展               六、 保護期間
+  一、 羅馬公約          肆、我國關於視聽表演人保護之
+  二、 與貿易有關之智慧財產權     現況
+     協定             一、 1998 年修法發展
+  三、 世界智慧財產權組織表演    二、 2003 年修法發展
+     與錄音物條約        伍、結論：修法之幾點思考與建
+ 參、視聽表演北京條約          議
+  一、 基本原則           一、 表演人獨立專章保護之考
+    （一）本條約與其他公約之       量
+       關係           二、 視聽表演人權利移轉之政
+    （二）本條約保護之受益者       策考量
+    （三）國民待遇原則       三、 對現行著作權法有關表演
+  二、 定義                人保護之建議
+    （一）表演人定義          （一）在表演人的定義方面
+    （二）視聽物定義          （二）在視聽表演人之人格
+    （三）廣播及向公眾傳播定           權方面
+       義              （三）在視聽表演人之財產
+  三、 權利內容                  權方面
+    （一）視聽表演人之人格權
+    （二）視聽表演人之財產權
+ 視聽表演人保護之研究                                                          303
+
+
+ 壹、前言
+
+     經過十餘年的協商討論之後，聯合國世界智慧財產權組織
+（World Intellectual Property Organization, WIPO）終於在 2012 年 6
+ 月 24 日 在 北 京 所 舉 行 的 外 交 會 議 中 通 過 視 聽 表 演 北 京 條 約
+（Beijing Treaty on Audiovisual Performances, BTAP）
+                                                 。本條約主要是
+ 提供視聽表演人的工作成果保護，將於 30 個締約國批准後生效1。
+     長久以來，在有關表演人工作成果保護的國際公約中，不論是
+ 羅馬公約（Rome Convention）、與貿易有關之智慧財產權協定
+（Agreement on Trade-Related Aspects Intellectual Property Rights,
+ TRIPs ） 或 世 界 智 慧 財 產 權 組 織 表 演 及 錄 音 物 條 約 （ WIPO
+ Performances and Phonograms Treaty, WPPT）
+                                         ，都無法提供視聽表演
+ 人充分的保護，此一漏洞終於經由 BTAP 給予充分的補充。
+     本文主要在介紹並分析該條約之發展、規範重點與相關爭議及
+ 其對視聽表演人著作權保護之影響，最後則檢視我國對視聽表演人
+ 之保護現況並提出修法建議。
+
+
+
+ 貳、視聽表演人保護國際條約之發展
+
+ 一、羅馬公約
+
+     國際上最早對表演人提供國際保護的羅馬公約2是由世界智慧
+
+
+ 1 參閱《視聽表演北京條約》
+              （Beijing Treaty on Audiovisual Performances, BTAP）
+   第 26 條規定，http://www.wipo.int/treaties/en/text.jsp?file_id=295838（最後瀏覽
+   日：2014 年 7 月 20 日）          。截至目前為止，僅有阿拉伯敘利亞共和國（Syrian
+   Arab Republic）、博茨瓦納共和國（Republik of Botswana）、斯洛伐克共和國
+   （Slovak Republic）以及日本等四個國家批准，故本條約尚未生效，http://www.
+   wipo.int/treaties/en/ShowResults.jsp?lang=en&treaty_id=841（最後瀏覽日：2014 年
+   7 月 20 日）    。
+ 2 羅馬公約的正式全名為「有關保護表演人、錄音物製作人及廣播組織之國際公
+304                                          國際比較下我國著作權法之總檢討
+
+
+
+財 產 權 組 織 （ WIPO ）、 聯 合 國 教 科 文 組 織 （ United Nations
+Educational, Scientific and Cultural Organization, UNESCO）和國際
+勞工組織（International Labour Organization, ILO）共同領導下，於
+1964 年 5 月 18 日通過生效。不過或許是因為其同時由三個國際組
+織共同負責的關係，也或許是因為必須顧及太多不同利益的緣故，
+造成羅馬公約從 1961 年通過生效後，即從未曾修正過，這也使得
+它所規定的最低保護標準已經隨著時間的變遷已經遠遠落後於表演
+人保護的需求。也正因如此，一個由單一組織負責且能配合經濟與
+科技發展的新的表演人國際保護公約，就更有其必要性。
+      依羅馬公約第 3 條（a）款3所定義的表演人，是包含演員在內
+的視聽表演人。
+      公約第 7 條4提供了對表演人最低限度的權利保護，使視聽表
+演人得享有重製、廣播及公開傳播之禁止權。但特別值得注意的
+是，根據公約第 19 條5規定，如果表演人同意將其表演固著（fix）
+到視聽物者，則其原本依公約第 7 條所得享有之權利，就不再適用
+於視聽著作的利用。換言之，本公約對聲音表演人和視聽表演人就
+
+
+  約」（International Convention for the Protection of Performers, Producers of
+  Phonograms and Broadcasting Organizations）        ，1961 年 10 月 26 日簽訂於羅馬，
+  自 1964 年 5 月 18 日起生效，共計 34 條；至目前為止共有 92 個締約國，
+  Universal Copyright Convention of 6 September 1952, with Appendix Declaration
+  relating to Article XVII and Resolution concerning Article XI, http://www.wipo.
+  int/wipolex/en/other_treaties/details.jsp?treaty_id=208（最後瀏覽日：2014 年 7 月
+  20 日）  。
+3 Rome Convention Art. 3（a）      ：所謂的表演人，係指演員、歌手、音樂家、舞蹈
+  家及其他以動作、歌唱、口述、朗誦、演奏或以任何其他方式，演出文學或藝
+  術著作之人。
+4 Rome Convention Art. 7（I）      ：表演人得禁止下列未經其同意之行為；                     （a）未經
+  其同意而廣播或公開傳播其表演，但不包括對已廣播或已固著表演的保護；
+  （b）未經其同意將尚未固著的表演加已固著；（c）未經其同意，重製下列固
+  著物：（i）首次固著未經其同意者；（ii）重製的目的不同於其同意的目的；
+  （iii）首次固著是依第 15 條（權利限制與例外）之規定，但重製之目的不同
+  於該條之目的。
+5 Rome Convention Art. 19：不問本公約之規定如何，一旦表演人同意將其表演
+  被錄製到視聽物者，第 7 條之規定，不再適用。
+視聽表演人保護之研究                                                                       305
+
+
+其已固著表演之保護，是採取了一些差別待遇。舉例而言，例如在
+重製權方面，若表演人同意或授權其表演得錄製於視聽物時，則此
+時該視聽表演人（例如電影中的演員），即不得再根據第 7 條第
+（I）項第（c）款原本所賦予的權利去禁止別人對他所表演的影片
+的重製；但由於錄音物不在此限，因此假若是聲音表演人同意或授
+權其表演得錄製於錄音物時（例如音樂 CD 的歌手）
+                        ，對其同意錄
+製的錄音物，是仍然享有公約第 7 條第（I）項第（c）款所賦予之
+重製權，故仍得禁止他人未經授權的利用。依此差別對待之保護結
+果來看，羅馬公約除了讓視聽表演人享有同意將其表演錄製到視聽
+物之權利外，即再無提供任何保護。而這種對視聽表演人保護的排
+除，主要是來自於電影產業的強大阻力，其中特別是來自於美國為
+首的代表6。只不過美國雖然對本公約強力影響，但截至目前為止
+卻仍未加入羅馬公約7。
+
+二、與貿易有關之智慧財產權協定
+
+     在很大程度上，世界貿易組織於 1994 年通過的與貿易有關之
+智慧財產權協議8是在著作暨鄰接權領域非常重要的國際條約。
+     相對於 TRIPs 的著作權保護直接與伯恩公約關係密切，TRIPs
+在關於鄰接權的保護上則欠缺直接適用於羅馬公約的明文規定。因
+此 TRIPs 通常不被當作是羅馬公約之補充條款，毋寧是一獨立之規
+範。但儘管如此，TRIPs 第 14 條在賦予鄰接權人的權利保護方
+
+
+
+6 Eugen Ulmer, Das Rom- Abkommen über den Schutz der ausübenden Künstler, der
+  Hersteller von Tonträgern und Sendeunternehmungen, GRUR Int. 1961, S. 569 (591 f.).
+7 Rome Convention, Contracting Parties, http://www.wipo.int/export/sites/www/treaties/
+  en/documents/pdf/rome.pdf (last visited July 20, 2014).
+8 與貿易有關之智慧財產協定於 1994 年 4 月 15 日簽訂於摩洛哥（Marrakesh）                                    ，
+  1995 年 1 月 1 日生效，全文共計 73 條。依其網站資料統計至 2014 年 6 月 26 日
+  止，WTO 共有 160 個會員國，參照世界貿易組織（WTO）：Members and
+  Observers，http://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm（最後瀏
+  覽日：2014 年 7 月 20 日）         。
+306                                          國際比較下我國著作權法之總檢討
+
+
+
+面，仍然是以羅馬公約的最低保護標準為目標，可以說，羅馬公約
+的基本目的仍然透過 TRIPs 的制定而得到保證。甚至 TRIPs 第 14
+條第（VI）項第 1 句更明文規定：允許會員國就表演者、錄音物製
+作人及廣播機構所取得之權利，可以附加條件、限制或為例外、保
+留之規定，但其前提仍必須是在羅馬公約所允許的範圍內。
+      但比較可惜的是，與羅馬公約相較，TRIPs 除了新增錄音表演
+人之出租權及延長其保護期間外，對於視聽表演人的保護卻遠落後
+於羅馬公約。依本協議規定之結果，對於視聽表演人所能得到的保
+護僅餘現場表演之廣播及公開傳播權而已（TRIPs 第 14 條第（I）
+項第 2 句）9。
+
+三、世界智慧財產權組織表演與錄音物條約
+
+      自 1991 年世界智慧財產權組織召開專家委員會議開始，除了
+確定對錄音物製作人提供保護外，也同時考慮到表演人有一樣的保
+護需求，至於保護的範圍究係僅限於錄音表演或亦包含視聽表演在
+內，一開始是採取開放立場10。當時以歐盟為首的國家主張，並沒
+有充分的理由對不同類型的表演人團體採取差別待遇，純粹的錄音
+表演人與視聽表演人的界限實在應該鬆綁，因此認為新的條約應納
+入視聽表演人的保護；但美國則堅持錄音及視聽表演人在經濟及社
+會上仍有其差異性，加以反對。此一爭議，在 1996 年外交會議的
+基礎條約草案（Basic Proposal）中明顯可見11。
+      依該基礎條約草案第 25 條的保留條款中，除了全部不予保護
+
+
+
+9  TRIPs Art. 14（I）   ：「表演人對於『固著於錄音物上表演』，得禁止下列未經授
+   權之行為：將其未經附著於媒介物之表演予以固著，或重製此一固著物。表演
+   人亦可禁止下列未經授權之行為：將現場之表演，以無線方式公開播送或公開傳
+   播。」
+10 Silke von Lewinski, Die Diplomatische Konferenz der WIPO 1996 zum Urheberrecht
+   und zu verwandten Schutzrecht, GRUR Int. 1997, S. 667 (668).
+11 WIPO-Doc. CRNR/DC/5, http://www.wipo.int/edocs/mdocs/diplconf/en/crnr_dc/crnr_
+   dc_5.pdf.
+視聽表演人保護之研究                                                                   307
+
+
+的建議外，共提出三種解決方案：僅保護錄音表演；保護所有類型
+的表演，當然包含視聽表演在內；保護包含所有類型的表演，但締
+約國得提出保留聲明，其僅保護錄音的表演。至於美國則建議12，
+可以保障視聽表演人之重製、散布、公開傳輸等專屬權，但只要表
+演人同意將其表演錄製在視聽物上，即推定移轉於製作人；另外，
+也應該要同意表演人的專屬權可依契約自由移轉，且契約中若未約
+定應適用哪一國法律時，則應採與契約最密切聯繫原則。不僅如
+此，美國更建議，在履行條款方面，應允許各締約國得用任何的方
+法或形式轉換本條約，而且不應限制僅能以鄰接權方式加以保護，
+單純經由契約，特別是經由絕大多數演員所代表簽定的集體契約，
+也應該與國際契約法具有相同評價13。但由於該建議對外國電影在
+美國的待遇究竟如何，並不明確，且由於大部分的外國電影都非美
+國集體契約所涵蓋的範圍，再加上契約的基礎遠不及法律的保護且
+又欠缺穩定性，因此並未得到支持。此外，在沒有台詞的臨時演員
+部分，美國也建議應排除在保護之列，此又引發了一些重要的表演
+人團體，例如舞蹈者團體的疑慮，因為他們的表演基本上都是沒有
+台詞的。
+     最後，為了避免草案過度偏袒電影製作人，表演人代表以及非
+洲、拉丁美洲及歐盟等代表終於接受，先將視聽表演人排除於世界
+智慧財產權組織表演及錄音物條約的適用14，大會並決定自 1997 年
+第一季開始即進行視聽表演人保護的準備工作，並最晚應於 1998
+
+
+
+12 WIPO-Doc. CRNR/DC/34, http://www.wipo.int/edocs/mdocs/diplconf/en/crnr_dc/crnr_
+   dc_34.pdf.
+13 本建議的背景是因為美國實務上絕大部分都是經由表演人與電影製作人或其團
+   體訂定集體契約的方式，因此希望可以透過此一履行條款可以很大程度地維持
+   其原來的保護體系。
+14 「世界智慧財產權組織表演及錄音物條約」，1996 年 12 月 20 日簽訂於日內
+   瓦，2002 年 5 月 20 日生效，全文共計 33 條，至目前為止共有 93 個締約國，
+   http:// www.wipo.int/treaties/en/ShowResults.jsp?lang=en&treaty_id=20（最後瀏覽
+   日：2014 年 7 月 20 日）       。
+ 308                                               國際比較下我國著作權法之總檢討
+
+
+
+年提出建議草案15。只是經此一延宕，關於視聽表演人之保護在經
+歷 2000 年的 WIPO 外交會議16 仍然無解之後，直至 2012 年的
+WIPO 外交會議才終於通過了視聽表演北京條約。
+       依 1996 年 WPPT 所定義的表演人，雖然也包含演員在內的視
+聽表演人，但不論是在人格權或已固著表演的財產權保護方面，都
+只限於錄音表演人而已17。但其中特別值得注意到的是，表演人就
+其未固著之表演所享有之權利部分：除了 WPPT 第 6（ii）條賦予
+表演人就其未固著之表演享有固著權之外，WPPT 第 6（i）條也賦
+予表演人就其未固著之表演，專有廣播或公開傳播之權利，但經廣
+播之表演不在此限。究其內涵與羅馬公約第 7 條第（I）項或 TRIPs
+第 14 條第（I）項幾乎無異，都是在賦予現場或未固著表演人（包
+括聲音及視聽表演人在內）享有廣播及公開傳播權，對於已固著在
+視聽物上之表演，則均未保護。不過由於各公約在定義上的差異，
+例如 WPPT 所定義之「廣播」
+               （broadcasting）是包含聲音或聲音及
+               （communication to the public）
+影像之無線播送，但是「公開傳播」
+則專指聲音表演的公開傳播而言18，以致於造成 WPPT 對未固著視
+聽表演人之無形公開利用保護僅餘現場表演之廣播權而已，不及於
+公開傳播權。
+
+
+15 WIPO-Doc. CRNR/DC/99, http://www.wipo.int/edocs/mdocs/diplconf/en/crnr_dc/crnr_
+   dc_99.doc.
+16 WIPO, Diplomatic Conference on the Protection of Audiovisual Performances, Dec. 7-20,
+   2000, http://www.wipo.int/meetings/en/details.jsp?meeting_id=4231 (last visited July 20,
+   2014). 造成本次外交會議最終未達成共識的主要原因在歐盟和美國對於草案第 12
+   條應採法定移轉或契約移轉，立場迴異；s. Internationaler Report - Keine Einigung
+   über Abkommen zum Schutz ausübender Künstler, GRUR Int. 2001, S. 190.
+17 參閱 WPPT Art. 5, 7-10, 15 之相關規定。
+18 WPPT Art. 2（f）   ：「此所稱之『廣播』             」 （broadcasting）   ，係指基於公眾接收為目
+   的，包含聲音或聲音與影像之無線播送，衛星廣播亦屬之；播送鎖碼之訊號，
+   如果由廣播機構或經其同意對公眾提供解碼之方法，亦屬廣播。」
+   WPPT Art. 2（g）    ：「此所稱之表演或錄音物之『公開傳播』                          」（communication to
+   the public），係指除了廣播以外，將聲音的表演，或錄製在錄音物上的聲音或
+   聲音的表現，透過任何媒介向公眾傳播。第 15 條之『公開傳播』，包括使公
+   眾得聽見錄製在錄音物上的聲音或聲音的表現。」
+視聽表演人保護之研究                                                                        309
+
+
+參、視聽表演北京條約
+
+一、基本原則
+
+    （一）本條約與其他公約之關係
+      BTAP 第 1 條，主要是界定本條約與其他國際著作暨鄰接權條
+約的關係，其中特別是關於本條約與 WPPT 的關係。
+      事實上，本條約在著手開始立法時，對於法案的名稱究竟應稱
+為協議（protocol）或條約（treaty），即已有所爭執19。由於大部分
+國家認為，根據 1996 年外交會議的結論，本文件從準備階段，就
+應定位在是為了處理 WPPT 所餘的相關爭議問題，所以應該是關於
+WPPT 的協議之一（protocol to the WPPT）20。其實，不論條約的
+名稱是稱為 “protocol” 或 “treaty”，都是國際法意義下的條約21，由
+於 WPPT 僅侷限在聲音的表演以及錄音物製作人的保護，本條約所
+規範的視聽領域，原本就不在 WPPT 的保護範圍內；再加上本條約
+並不是對 WPPT 的補充或修正，而是新增一個全新的保護領域，因
+此最終通過 BTAP 所賦予之保護應係獨立的22。
+      本條第（1）項採取與 WPPT 相同的立法例，規定 BTAP 的任何
+內容均不得減損締約國相互間依照 WPPT 或羅馬公約所應承擔的義
+務23。此外，本條約的任何保護都不得影響對著作的保護，因此，
+
+
+19 因此在基礎草案所提的方案 A, Art. 1（1）特別指明，本條約是 1996 年 12 月 20
+   日在日內瓦所通過的 WIPO 表演與錄音物條約的一部分。至於方案 B 則認為無
+   此規定之必要。WIPO-Doc. IAVP/DC/3, Notes on Article 1.02, http://www.wipo.int/
+   edocs/mdocs/copyright/en/iavp_dc/iavp_dc_3.pdf.
+20 WIPO-Doc. IAVP/DC/3, supra note 19, Notes on Article 1.05.
+21 且根據維也納公約第 2 條第 1 項（a）款，所謂的條約，係指國家間以書面形
+   式締結的國際協定，並將受到國際法制約，不論其係單一或特別指定的多個相
+   關規範。WIPO-Doc. IAVP/DC/3, supra note 19, Notes on Article 1.07.
+22 WIPO-Doc. IAVP/DC/3, supra note 19, Note on Article 1.06. WIPO-Doc. IAVP/DC/
+   35, http://www.wipo.int/meetings/en/doc_details.jsp?doc_id=11228 (last visited Mar.
+   30, 2014).
+23 WPPT Art. 1(1): “Nothing in this Treaty shall derogate from existing obligations that
+ 310                                                國際比較下我國著作權法之總檢討
+
+
+
+本條約的任何規定都不得被解釋成損害其原本的著作權保護24。
+       至於本條第（3）項則是規定，除 WPPT 外，本條約與其他國
+際條約並無關聯，亦不損害任何其他條約所規定的任何權利及義
+務 25。由於本條約與其他國際條約並無關聯，因此若締約國同時為
+WTO／TRIPs 的會員國時，本條約的任何內容均不影響 TRIPs 的規
+定，包括但不限於有關限制競爭的規定26。又雖然本項已承認本條
+約與 WPPT 確實有所關聯，但在第 1 條的議定聲明（agreed
+statement）中也再次明確的釐清27，本條約並不影響 WPPT 所規定
+之任何權利與義務，也不影響其解釋，而且本條第 3 項也不會創設
+本條約的締約方有批准或加入 WPPT 或遵守其他任何規定之義務。
+    （二）本條約保護之受益者
+       BTAP 第 3 條關於本條約保護主體的規定，基本上較無爭議。
+依該條第 1、2 項之規定，受本條約所保護的表演人必須為締約國
+
+
+   Contracting Parties have to each other under the International Convention for the
+   Protection of Performers, Producers of Phonograms and Broadcasting Organizations
+   done in Rome”, October 26, 1961 [hereinafter the Rome Convention].
+24 WPPT Art. 1 (2): “Protection granted under this Treaty shall leave intact and shall in
+   no way affect the protection of copyright in literary and artistic works. Consequently,
+   no provision of this Treaty may be interpreted as prejudicing such protection.”
+25 WPPT Art. 1(3): “This Treaty shall not have any connection with treaties other than
+   the WIPO Performances and Phonograms Treaty, nor shall it prejudice any rights and
+   obligations under any other treaties.”
+26 Concerning Article 1(3): “It is understood that Contracting Parties who are members
+   of the World Trade Organization (WTO) acknowledge all the principles and
+   objectives of the Agreement on Trade-Related Aspects of Intellectual Property Rights
+   (TRIPs Agreement) and understand that nothing in this Treaty affects the provisions
+   of the TRIPs Agreement, including, but not limited to, the provisions relating to anti-
+   competitive practices,” in Agreed Statements Concerning the Beijing Treaty on
+   Audiovisual Performances, available at http://www.wipo.int/treaties/en/text.jsp?file_
+   id=295816 (last visited Jul. 20, 2014).
+27 Concerning Article 1: “It is understood that nothing in this Treaty affects any rights or
+   obligations under the WIPO Performances and Phonograms Treaty (WPPT) or their
+   interpretation and it is further understood that paragraph 3 does not create any
+   obligations for a Contracting Party to this Treaty to ratify or accede to the WPPT or to
+   comply with any of its provisions.” Id.
+視聽表演人保護之研究                                                                    311
+
+
+之國民，或雖非締約國之國民，但在締約國境內有通常之住所者，
+被視為該締約國之國民。
+     很明顯的是，本條之立法方式與 WPPT 第 3 條受保護的表演
+人的規定不盡相同，後者主要是參考 1961 年的羅馬條約為基礎，
+至於本條約基於視聽表演人長期以來欠缺明確的國際上的保護，故
+無較好的立法參考依據，因此與會代表決定以「國籍」和「通常之
+住所」作為比較簡單且明確的國際保護標準。不過仍有歐盟代表認
+為第 3 條第 2 項「通常住所」的要件太過寬鬆，難免造成有些國家
+不願簽署本條約，卻仍能受到保護的情形，因此建議刪除；但美國
+與多數其他國家卻支持應藉此擴大本條約保護的受益者，甚至建
+議，只要表演人在締約國所進行的現場表演，或其表演在其他的締
+約國境內被固著者，即應納入本條約的保護28。最後仍維持原草案
+建議。
+    （三）國民待遇原則
+     在文字上，BTAP 第 4 條第 1 項主要係參考 WPPT 第 4 條之規
+定：「締約國應對其它締約國之國民，就本條約所賦予之專屬權以
+及本條約第 11 條所賦予之報酬請求權，提供與本國國民相同之待
+遇。」參考 WPPT 的精神，本條是國民待遇最低保護標準的原則，
+其背後所代表的意義是，各締約國依本條所應負的國民待遇原則，
+僅以該條約所保障的權利為限。換句話說，締約國不用對其它締約
+國國民提供與本國國民完整一致的保護，只須就所保護的權利，提
+供與本國國民相同的保護即可29。
+     第 4 條第 2 項則是採實質互惠原則，因此在締約國根據本條第
+1 項給予另一締約國國民待遇原則時，其有權限制本條約第 11 條
+
+
+
+28 WIPO-Doc. IAVP/DC/17, http:// http://www.wipo.int/edocs/mdocs/copyright/en/iavp_
+   dc/iavp_dc_17.pdf. 不過美國的建議似較屬於策略性目的的思考，並未特別堅持。
+29 參見張懿云，「世界智慧財產權組織表演及錄音物條約」關於錄音物製作人之
+   保護，科技法律透析，13 卷 8 期，頁 33-34（2001 年）
+                                    。
+312                                            國際比較下我國著作權法之總檢討
+
+
+
+第 1 及第 2 項30權利之保護範圍與期限，要求必須以其本國國民在
+該締約國也享有相同之待遇者為限。
+      至於第 4 條第 3 項則是國民待遇原則的限制或除外規定，依該
+規定，若任一締約國根據第 11 條第 3 項對於廣播及公開傳播的專
+屬權或報酬請求權做出保留聲明時，則在該保留範圍，其它締約國
+即不受本條第 1 項國民待遇原則之拘束，同時做出保留聲明的締約
+國在此範圍內也同樣無國民待遇原則之適用。此一限制的結果，因
+此很可能造成的情況是，締約國在其國內法雖然給予充分的保護，
+但因為在國際上行使第 11 條第 3 項保留的結果，則在該保留範圍
+即不受國民待遇原則的保障。
+
+二、定義
+
+    （一）表演人定義
+      本條約第 2 條（a）款所定義的表演人（performers）與 WPPT
+第 2 條（a）款完全相同，係指演員、歌手、音樂家、舞蹈家及其
+他以演出、歌唱、演說、朗誦、演奏、詮釋（interpret）或以任何
+其他方式，演出文學或藝術著作或表現民俗作品（folklore）之人。
+如果再與羅馬公約的表演人定義相較，除了新增表現民俗作品之人
+亦為表演人外，本條約與羅馬公約的定義大致相當。也由此可見，
+本條約所提供的保護，仍限於演繹或詮釋文學或藝術著作之藝人，
+因此如雜耍或馬戲藝人（魔術師、雜技演員、馬戲小丑），甚至如
+競賽球員、選手等，僅能透過國內法的方式尋求保護。
+      美國代表在 2000 年視聽表演人保護的外交會議上建議31，應該
+要在議定聲明（agreed statement）中，將沒有劇本台詞的臨時演員
+
+
+
+30 BTAP 第 11 條第 1、2 項主要是賦予視聽表演人有廣播或公開傳播之專有權或
+   報酬請求權。
+31 WIPO-Doc. IAVP/DC/16, http://www.wipo.int/edocs/mdocs/copyright/en/iavp_dc/iavp_
+   dc_16.pdf.
+視聽表演人保護之研究                                                                          313
+
+
+排除在保護之列，但被認為多餘而不被採用。另外日本代表也曾建
+議 32 ，如果條約規定權利移轉於製作人的話，則應納入製作人
+（producer）的定義，但最後也因為欠缺關聯性而未被接受。除此之
+外，原基礎草案（basic proposal）33第 2 條（b）款所定義的「視聽
+  （audiovisual performances）概念也被認為多餘而遭刪除。
+表演」
+    （二）視聽物定義
+      第 2 條（b）款關於「視聽物」之定義，係指動態影像之表現
+物，不論有無附隨聲音或聲音之表現，可以藉由一種裝置或設備而
+得被感知、重製或傳播。
+      由於此一定義已經涵蓋 WPPT 第 2 條（b）款34所定義的錄音
+物（phonograms）的潛在部分，因此隨之而來的問題是，該如何區
+別本條約與 WPPT 經由不同保護客體所界定出來的不同適用範圍。
+其中，表演人組織更是反彈激烈。而爭議的實益主要在於，如果根
+據原基礎草案第 12 條關於權利移轉的規定，本條約對於表演人的
+保護將比 WPPT 更為不利，因此表演人究應適用本條約或 WPPT，
+就變得事關緊要。由於 1996 年的外交會議中對於 WPPT 第 2 條
+（b）款所稱之錄音物，究竟僅限於聲音之固著而不考慮其影像的元
+素，還是認為除了聲音的錄製物外，還可以包含尚未構成視聽著作
+的一些影像元素在內，即有爭議。後來經過妥協成現行條文，並在
+其議定聲明中說明，WPPT 第 2 條（b）款所定義的錄音物不會因
+其與電影或其他視聽著作的結合而影響其錄音物上的權利35，至於
+
+
+32 WIPO-Doc. IAVP/DC/18, http://www.wipo.int/edocs/mdocs/copyright/en/iavp_dc/iavp_
+   dc_18.pdf.
+33 WIPO-Doc. IAVP/DC/3, supra note 19.
+34 WPPT Art. 2(b): “ ‘phonogram’ means the fixation of the sounds of a performance or
+   of other sounds, or of a representation of sounds, other than in the form of a fixation
+   incorporated in a cinematographic or other audiovisual work.”
+35 Concerning Article 2(b): “It is understood that the definition of phonogram provided
+   in Article 2(b) does not suggest that rights in the phonogram are in any way affected
+   through their incorporation into a cinematographic or other audiovisual work.” Agreed
+ 314                                                國際比較下我國著作權法之總檢討
+
+
+
+不同意見則被掩蓋。
+       本來聲音與影像的組合就有各種不同的可能性，除了典型的錄
+音物和典型的電影著作外，這兩者間還有很多不易區別的界線，例
+如音樂錄影帶（music videos）在很多國家就有不同的處理方式，
+也有些 CD-Plus 是可以除了音樂之外還可以由利用人根據需要決定
+是否要在螢幕上觀賞影像的。因此表演人組織非常擔心，製作人會
+利用此等方式，去適用對自己較為有利的視聽表演條約。此一爭
+議，最後在歐盟代表的建議下，在議定聲明中釐清36，本條約第 2
+條（c）款所定義之視聽物並不影響 WPPT 第 2 條（b）款所稱之錄
+音物。換言之，第 2 條（b）款採取所謂「不影響條款」（without
+prejudice clause）
+                。
+     （三）廣播及向公眾傳播定義
+       本條約所定義之廣播（broadcasting）37：係指基於公眾接收聲
+音、影像、或聲音及影像或其表現形式之無線播送，衛星廣播亦屬
+之；播送鎖碼之訊號，如果由廣播機構或經廣播機構之同意對公眾
+提供解碼方法，亦屬廣播。至於表演之公開傳播（communication
+to the public）38，係指除了廣播以外，透過任何媒介將未固著的表
+演，或固著在視聽物上之表演向公眾傳達。至於本條約第 11 條之
+
+
+   Statements Concerning WIPO Performances and Phonograms Treaty, supra note 26.
+36 Concerning Article 2(b): “It is hereby confirmed that the definition of “audiovisual
+   fixation” contained in Article 2(b) is without prejudice to Article 2(c) of the WPPT.”
+   Id.
+37 BTAP Art. 2(c): “‘broadcasting’ means the transmission by wireless means for public
+   reception of sounds or of images or of images and sounds or of the representations
+   thereof; such transmission by satellite is also ‘broadcasting’; transmission of
+   encrypted signals is ‘broadcasting’ where the means for decrypting are provided to the
+   public by the broadcasting organization or with its consent.”
+38 BTAP Art. 2(d): “‘communication to the public’ of a performance means the
+   transmission to the public by any medium, otherwise than by broadcasting, of an
+   unfixed performance, or of a performance fixed in an audiovisual fixation. For the
+   purposes of Article 11, ‘communication to the public’ includes making a performance
+   fixed in an audiovisual fixation audible or visible or audible and visible to the public.”
+視聽表演人保護之研究                                                                          315
+
+
+「公開傳播權」
+      ，係包括將錄製在視聽物上之表演，使公眾得收聽、
+收視、或收聽及收視。
+      雖然有與會代表批評，此種定義方式，也會把純屬於聲音的廣
+播和公開傳播都涵蓋在內了。此一重疊，確實是因為本條約在權利
+的形成上不夠明確所致，但由於大部分的代表並無意就此二定義深
+入討論，因此暫時接受原基礎草案之內容。
+
+三、權利內容
+
+    （一）視聽表演人之人格權
+      除文字上必要的修改外，第 5 條第 1 項關於視聽表演人的人格
+權保護與 WPPT 第 5 條錄音表演人的人格權保護，大致相當。因此
+表演人就其現場表演或固著在視聽物上之表演，專有（i）要求承
+認其係該表演之表演者的權利，除非該省略是基於利用該表演之方
+式；（ii）反對任何對表演之歪曲、竄改或其他修改而有損其聲譽
+者，但同時應適當考慮到視聽物的本質。
+      由於美國視聽產業長期以來對同一性的保護有很大爭議39，因
+此第 5 條第（1）項（ii）款禁止扭曲變更權之限制規定，特別是
+「應適當考慮視聽物之本質」之文字，究應如何解釋，即無定論。
+原基礎草案第 5 條第（1）項（ii）款原本規定，若變更係符合表演
+的通常利用方式，應屬於表演人所允許的範圍，不能被視為有損表
+演人之聲譽40。此一規範的目的，原本是要讓視聽產業的某些特定
+行為，例如對影片的刪減、濃縮、剪輯、配音或屬於新技術、媒
+體、格式或銷售模式的利用，都可以排除本條款之適用。不過歐盟
+代表認為，「通常利用方式」的用語太過廣泛，有可能讓一些非常
+
+
+
+39 Adler Bernard, The Proposed New WIPO Treaty for Increased Protection for
+   Audiovisual Performers: Its Provisions and Its Domestic and International Implications,
+   12 FORDHAM INTELL. PROP. MEDIA & ENT. L.J. 1089, 1104-05 (2002).
+40 WIPO-Doc. IAVP/DC/3, supra note 19.
+ 316                                               國際比較下我國著作權法之總檢討
+
+
+
+嚴重的變形也不再受到保護，且此種規範方式對涉及的產業而言並
+無法增加誘因去保障表演人的人格利益，因此建議應全部刪除此一
+規定41；但美國則堅持應該在本條給予電影製作人在該等行為上享
+有自由路徑，甚至提出比原規範更寬鬆的豁免，認為變更必須是以
+實質且重大的方式對表演人的聲譽造成客觀不利時，才有涉及表演
+人格權的問題42。最後，在經過無數的協商之後，才終於決定採用
+「應適當考慮視聽物的本質」的現行規定，並在議定聲明中釐清，
+某些條件下的某些行為，所以對表演的修改如果是屬於正常情況下
+的利用，例如不論是在現有或新的媒體為剪輯、壓縮、配音、格式
+化等，都被認為是表演人授權利用的行為，並不當然構成第 5 條第
+（1）項（ii）款的扭曲變更；又如果只是新科技或媒體的利用，也
+不被認為是第 5 條第（1）項（ii）款所規範的43。換言之，第 5 條
+第（1）項（ii）款的侵害僅限於該變更已經實質且客觀的損及表演
+人之聲譽，始足當之。
+    （二）視聽表演人之財產權
+       表演人之財產權主要分成兩大部分：
+
+
+41 WIPO-Doc. IAVP/DC/9, http://www.wipo.int/meetings/en/doc_details.jsp?doc_id=1570
+   (last visited Mar. 30, 2014); WIPO-Doc. IAVP/DC/9 Rev., http://www.wipo.int/edocs/
+   mdocs/copyright/en/iavp_dc/iavp_dc_9_rev.pdf.
+42 WIPO-Doc. IAVP/DC/10, http://www.wipo.int/edocs/mdocs/copyright/en/iavp_dc/iavp_
+   dc_10.pdf.
+43 Concerning Article 5: “For the purposes of this Treaty and without prejudice to any
+   other treaty, it is understood that, considering the nature of audiovisual fixations and
+   their production and distribution, modifications of a performance that are made in the
+   normal course of exploitation of the performance, such as editing, compression,
+   dubbing, or formatting, in existing or new media or formats, and that are made in the
+   course of a use authorized by the performer, would not in themselves amount to
+   modifications within the meaning of Article 5(1)(ii). Rights under Article 5(1)(ii) are
+   concerned only with changes that are objectively prejudicial to the performer's
+   reputation in a substantial way. It is also understood that the mere use of new or
+   changed technology or media, as such, does not amount to modification within the
+   meaning of Article 5(1)(ii).” Agreed Statements concerning the Beijing Treaty on
+   Audiovisual Performances, supra note 26.
+視聽表演人保護之研究                                                                             317
+
+
+      1. 未固著之表演
+
+      依第 6 條，表演人就其未固著之表演，享有下列專屬權：
+                                （i）
+廣播及公開傳播權，但表演經廣播者不在此限；以及（ii）錄製其
+尚未固著之表演。本條文與 WPPT 第 6 條之內容完全一致，由此可
+見，對表演人現場或未錄製表演的部分，是不區分聲音或視聽表演
+人之差別，同時在此二公約都受到保護。
+
+      2. 已固著在視聽物上之表演
+
+      表演人就其已固著在視聽物上的表演，享有下列專屬權：重製
+權（第 7 條）
+       ，散布權（第 8 條）
+                 ，出租權（第 9 條）
+                           ，公開傳輸權
+（第 10 條）以及廣播及公開傳播權（第 11 條）
+                         。另外在議定聲明中
+也提到，第 7 條所稱之重製，除非屬於權利限制或例外的範圍，否
+則完全適用數位環境，特別是在使用數位形式表演的情形，因此將
+數位形式的受保護的表演儲存在電子媒體的行為，自然構成本條意
+義下之重製44；另外第 8 條和第 9 條的所提到的「原件與重製物」
+                                 ，
+專指有體物而言，因此本條約所稱之散布或出租權，係指有體物進
+入交易或流通的行為45。
+      其中應特別注意到的是，為了配合視聽著作在 TRIPs（第 11
+條但書）和 WCT（第 7 條第 2 項）的出租權規定都不採強制規
+定，所以在視聽表演人之出租權部分，本條約也不具強制性。因
+此，只要視聽著作的商業出租並未導致該視聽物被大量重製，從而
+
+
+44 Concerning Article 7: “The reproduction right, as set out in Article 7, and the
+   exceptions permitted thereunder through Article 13, fully apply in the digital
+   environment, in particular to the use of performances in digital form. It is understood
+   that the storage of a protected performance in digital form in an electronic medium
+   constitutes a reproduction within the meaning of this Article.” Id.
+45 Concerning Article 8 and 9: “As used in these Articles, the expression ‘original and
+   copies,’ being subject to the right of distribution and the right of rental under the said
+   Articles, refers exclusively to fixed copies that can be put into circulation as tangible
+   objects.” Id.
+ 318                                                國際比較下我國著作權法之總檢討
+
+
+
+實質損害視聽表演人之重製權，則締約國就可以免除賦予視聽表演
+人出租權46。但此一規定顯然與 WPPT 第 9 條，表演人就其錄製在
+錄音物上的表演專有出租權之強制規定 47 ，大相逕庭。也由此可
+見，錄音表演人與與視聽表演人在國際條約的出租權保護上，仍有
+強弱之別。
+       又為了讓各締約國可以衡量其視聽和錄音產業之差異並評估製
+作人在開發和利用市場及結構的不同，本條約在視聽表演人之廣播
+及公開傳播權方面，提供締約國最廣泛的選擇：根據第 11 條第 1
+項48，締約國得賦予視聽表演人廣播及公開播送的專屬權；第 11 條
+第 2 項49主要是與 WPPT 的表演人保護標準相呼應，使締約國可以
+在向 WIPO 秘書長遞交的通知書中聲明，對於錄製在視聽物上的表
+演直接或間接使用於廣播或公開傳播者，不適用第 1 項之規定，僅
+賦予適當的報酬請求權；並且可以透過國內法規定行使報酬請求權
+之條件，例如規定應由集體管理團體來行使此一報酬請求權及一些
+管理上的方式，或甚至規定應由誰來負責支付報酬50。至於第 11 條
+
+
+46 BTAP Art. 9(2): “Contracting Parties are exempt from the obligation of paragraph (1)
+   unless the commercial rental has led to widespread copying of such fixations
+   materially impairing the exclusive right of reproduction of performers.”
+47 WPPT 第 9 條：         「表演人應依各締約國國內之規定，就其錄製於錄音物之表
+   演，專有商業出租其原件或重製物之權利，縱使該原件或重製物已得表演人一
+   般性或明示的授權散布亦同。除非締約國滿足本條第 2 項之規定，亦即，締約
+   國在 1994 年 5 月 14 日以前，對表演人錄製在錄音物上的表演的商業出租，已
+   經且持續實施對表演人支付公平報酬制度，且未對表演人之重製權造成實質損
+   害者，不在此限。」
+48 BTAP Art. 11(1): “Performers shall enjoy the exclusive right of authorizing the
+   broadcasting and communication to the public of their performances fixed in
+   audiovisual fixations.”
+49 BTAP Art. 11(2): “Contracting Parties may in a notification deposited with the
+   Director General of WIPO declare that, instead of the right of authorization provided
+   for in paragraph (1), they will establish a right to equitable remuneration for the direct
+   or indirect use of performances fixed in audiovisual fixations for broadcasting or for
+   communication to the public. Contracting Parties may also declare that they will set
+   conditions in their legislation for the exercise of the right to equitable remuneration.”
+50 WIPO-Doc. IAVP/DC/3, supra note 19, Notes on Article 11.03.
+視聽表演人保護之研究                                                                           319
+
+
+第 3 項51則是讓締約國可以保留不適用前述第 1、2 項之規定，且保
+留的範圍與程度，亦均得由締約國定之。由於本條讓締約國幾乎不
+用負擔任何最低保護的義務，因此歐盟及其會員國均譏此為多餘的
+條文，而印度、泰國等國更建議刪除本條規定52，最後本條所餘之
+功能，僅在有無第 4 條國民待遇原則適用之差別而已53。
+      此外，與 WPPT 第 15 條相較，本條省略了「基於商業目的發
+行」的用語，這是因為在實務上廣播機構幾乎不可能廣播其經由零
+售管道所取得之視聽物，而是直接與製作人或代理商締結契約關
+係，其他如有線或電影業者亦同。此外，視聽著作的銷售者與製作
+人之間也會直接訂定契約，而表演人與視聽產品的製作人間直接的
+契約關係，也讓表演人就其視聽表演的後續利用有談判條件的機
+會，因此保護是否必須限於商業目的發行，即不再重要54。
+
+四、權利移轉
+
+      第 12 條關於權利移轉於視聽製作人的規定，是本條約最困難
+且最無解之爭議：由於美國代表主張，視聽表演人的所有財產權應
+該全球性地集中移轉於視聽製作人，並堅持此一問題應透過國際公
+約訂定實質規範，而不應交由各國自行立法決定，因為如果權利移
+轉的方式是可以由各國自行選擇的話，將無法使視聽製作人處於一
+個國際上安定的環境，因為製作人實難以預測其影片在其他國家被
+承認權利移轉的狀況55。但由於其他與會代表大多反對，並且認為
+
+
+51 BTAP Art. 9(3): “Any Contracting Party may declare that it will apply the provisions
+   of paragraphs (1) or (2) only in respect of certain uses, or that it will limit their
+   application in some other way, or that it will not apply the provisions of paragraphs (1)
+   and (2) at all.”
+52 WIPO-Doc. IAVP/DC/20, http://www.wipo.int/edocs/mdocs/copyright/en/iavp_dc/iavp_
+   dc_20.pdf; WIPO-Doc. IAVP/DC/21, http://www.wipo.int/edocs/mdocs/copyright/en/iavp_
+   dc/iavp_dc_21.pdf.
+53 請參閱前述關於「參、一、（三）國民待遇原則」之規範。
+54 WIPO-Doc. IAVP/DC/3, supra note 19, Notes on Article 11.06.
+55 SILKE VON LEWINSKI, INTERNATIONAL COPYRIGHT LAW AND POLICY 18-19 (2008).
+ 320                                           國際比較下我國著作權法之總檢討
+
+
+
+如此一來，將使得表演人的地位比現在更處於劣勢，所以想要透過
+會議達成共識就極為棘手。
+       在 2000 年的視聽表演人外交會議的基礎草案中，總共提出四
+個版本的解決方案56：
+       方案 E 規定，只要表演人同意將其表演錄製在視聽物上，即推
+定本條約規定的所有權利皆移轉於製作人，但可以用書面加以推
+翻。由於本方案反對者眾，根本無法達成協議，故在外交會議一開
+始即被放棄。
+       方案 F 規定，當表演人同意將其表演錄製在視聽物上時，只要
+沒有書面相反之約定，製作人即被視為對該視聽物有權行使本條約
+所賦予之權利。本方案是參考伯恩公約第 14bis（2）
+                          （b）條之立法
+方式。伯恩公約第 14bis（2）
+                （b）條採所謂的推定授權（presumption
+of legitimation）模式，原則上，只要著作人同意其著作被改拍成電
+影後，其雖然仍保有著作權法上之權利，但除非有書面的約定，否
+則對該電影著作的後續利用則不得加以對抗。只是在本方案的用語
+上較強調「製作人對該視聽物有權行使本條約所賦予之權利」，事
+實上，表演人仍保有權利，可以對抗第三人任何未經授權的利用，
+或得依契約或國內法之規定向視聽製作人請求報酬57。
+       方案 H 為歐盟代表所提出，其認為法定移轉規定不僅破壞本
+條約欲加強對視聽表演人保護之目標，且對於促進電影的利用亦無
+必要性，因此主張條約中根本不需要規範權利移轉的問題，而應該
+交由各締約國自行決定。惟本方案遭受美國強烈反對。
+       至於方案 G 則視為了調和各方意見，直接架構在國際私法的
+原則下，使締約國無法自行決定關於權利移轉的政策。依該方案之
+第 1 項，若契約無相反之約定，則視聽表演之權利是以契約或法律
+規定移轉於製作人，至於適用哪個國家的法律規定，則應依與該視
+
+
+56 WIPO-Doc. IAVP/DC/3, supra note 19 at 56-58.
+57 WIPO-Doc. IAVP/DC/3, supra note 19, Notes on Article 12.10, 12.11.
+視聽表演人保護之研究                                                                           321
+
+
+聽物關係最緊密的國家規定定之。而如何決定最緊密關聯的國家，
+依第 2 項所提出的三項判斷標準：
+                （i）以該視聽物製作人之總公司
+或主要營業所在地之締約國為主；
+              （ii）若製作人之總公司或主要營
+業所在地不在締約國，或不只一個製作人時，則以大多數表演人所
+屬之國籍為主；（iii）若製作人之總公司或主要營業所在地不在締
+約國，或不只一個製作人，且大多數表演人之國籍無法指向單一締
+約國時，則以影片拍攝地之締約國為原則。
+     除了方案 E 之外，本方案 G 也是美國電影產業所支持的解決
+方式58。至於歐盟向來主張，根本不需要把權利移轉的規定納入國
+際條約中，由於其完全無法接受任何法定移轉的規定，頂多只願意
+接受契約移轉的方式，在經過妥協之後，大家才終於同意暫時以方
+案 G 作為協商討論的基礎。但此一架構在國際私法原則下的方
+案，是適用在演員與電影製作人間垂直的權利移轉，此與國際私法
+水平適用的本質是否相符，仍不無疑問。最終還是因為此一新方案
+提出過於倉促，而當時外交會議上同時嫻熟著作權及國際私法的專
+家又太少，因此仍遭到保留而致會議破局59。直至 2012 年重啟視聽
+表演人保護外交會議，秘書處重提實質條款基礎草案60提交外交會
+議審議，才終於獲得解決。依第 12 條規定：締約國得以其國內法
+規定，凡經表演人同意將其表演固著於視聽物者，則表演人依本條
+約第 7 至 11 條所享有之專屬權，將直接歸屬於該視聽物製作人，
+或由該視聽物製作人行使，或應移轉於該視聽物製作人，但表演人
+與視聽物製作人依其國內法有相反之約定者，從其約定61。對於依
+
+
+
+58 WIPO-Doc. IAVP/DC/22, http://www.wipo.int/edocs/mdocs/copyright/en/iavp_dc/iavp_
+   dc_22.pdf.
+59 Silke von Lewinski, Die Diplomatische Konferenz der WIPO 2000 zum Schutz der
+   audiovisuellen Darbietung, GRUR Int. 2001, S. 529 (539).
+60 WIPO-Doc. IAVP/DC/3, supra note 19.
+61 BTAP Art. 12(1): “A Contracting Party may provide in its national law that once a
+   performer has consented to fixation of his or her performance in an audiovisual
+   fixation, the exclusive rights of authorization provided for in Articles 7 to 11 of this
+ 322                                                 國際比較下我國著作權法之總檢討
+
+
+
+締約國國內法規定所製作的視聽物，締約國並得要求，前述之同意
+或契約應以書面方式為之並應經由雙方或雙方正式授權的代表簽
+字 62。此外，國內法或任何個人、團體或其他性質的約定，都可以
+不受前述規定之限制，賦予表演人對任何表演的利用（也包括第
+10 條公開傳輸和第 11 條之廣播及公開傳播權）都享有權利金或適
+當報酬請求權63。
+       根據第 12 條規定看來，其除了讓各締約國得各自形成其實體
+法之外，事實上還可能同時與準據法產生關連。舉例而言，美國製
+作的電影如果要在德國請求保護，若德國法院依保護國原則
+（Schutzlandsprinzip），則將適用德國法著作權法之規定。此一適用
+的結果，將可以預見，在針對誰是原始權利人的這個問題上，定然
+會與美國法產生完全不同的結論 64 。因為德國法院若適用原始國
+（Ursprungsland）法律所採的「與該事物關係最緊密」的判斷標
+準，則將因適用美國法 “work made for hire65”（受雇完成之著作）
+
+
+   Treaty shall be owned or exercised by or transferred to the producer of such
+   audiovisual fixation subject to any contract to the contrary between the performer and
+   the producer of the audiovisual fixation as determined by the national law.”
+62 BTAP Art. 12(2): “A Contracting Party may require with respect to audiovisual
+   fixations produced under its national law that such consent or contract be in writing
+   and signed by both parties to the contract or by their duly authorized representatives.”
+63 BTAP Art. 12(3): “Independent of the transfer of exclusive rights described above,
+   national laws or individual, collective or other agreements may provide the performer
+   with the right to receive royalties or equitable remuneration for any use of the
+   performance, as provided for under this Treaty including as regards Articles 10 and
+   11.”
+64 Marcus von Welser, WIPO-Vertrag zum Schutz audiovisueller Darbietung
+   unterzeichnet, GRUR-Prax 2012, S. 345 (346).
+65 17 U.S.C. §101 (2012). A “work made for hire” is –
+   (1) a work prepared by an employee within the scope of his or her employment; or
+   (2) a work specially ordered or commissioned for use as a contribution to a collective
+    work, as a part of a motion picture or other audiovisual work, as a translation, as a
+    supplementary work, as a compilation, as an instructional text, as a test, as answer
+    material for a test, or as an atlas, if the parties expressly agree in a written instrument
+    signed by them that the work shall be considered a work made for hire. For the
+    purpose of the foregoing sentence, a “supplementary work” is a work prepared for
+視聽表演人保護之研究                                                                           323
+
+
+規定，而直接歸屬於電影製作人，並無契約讓與或推定授權的問
+題；但若適用德國實體法的結果66，依德國著作權法第 92 條之規
+定，只是法律授予電影製作人有利用權而已，並不影響視聽表演人
+仍為原始權利人的地位。較可惜的是，本條對於應採哪一種原則以
+決定適用哪一國法律，並無清楚的說明。
+
+五、權利的限制與例外
+
+      第 13 條第 1 項允許締約國對表演人保護的限制與例外，可以
+採取與著作人相同的標準。
+      至於第 13 條第 2 項則與 WPPT 第 16 條第 2 項一樣，都採伯
+恩公約第 9 條第 2 項的三步驟測試原則（3-step test）
+                                 。換言之，例
+外必須屬於特殊情況，其既不得與表演之正常利用相衝突，亦不得
+對表演人之正當利益造成不合理的損害。
+
+六、保護期間
+
+      本條約賦予表演人，自表演被固著時起，50 年的保護67。
+
+
+
+肆、我國關於視聽表演人保護之現況
+
+      我國現行法對於表演人保護之立法，主要分成二大階段：
+
+
+   publication as a secondary adjunct to a work by another author for the purpose of
+   introducing, concluding, illustrating, explaining, revising, commenting upon, or
+   assisting in the use of the other work, such as forewords, afterwords, pictorial
+   illustrations, maps, charts, tables, editorial notes, musical arrangements, answer
+   material for tests, bibliographies, appendixes, and indexes, and an “instructional text”
+   is a literary, pictorial, or graphic work prepared for publication and with the purpose
+   of use in systematic instructional activities.”
+66 德國實務在面對此一問題時，都依習慣法採保護國原則，參閱 Elvis Preslez, LG
+   München, ZUM-RD 2012, S. 49 (59).
+67 BTAP Art. 14.
+324                       國際比較下我國著作權法之總檢討
+
+
+
+一、1998 年修法發展
+
+      本階段之修法，主要是為了配合 WTO／TRIPs 第 14 條第 1
+項 68之規定，乃新增表演人定義69，表演人享有機械性附著之重製
+權70，表演人對未經重製或未經公開播送之表演，享有公開播送及
+公開演出權71，以及存續至公開發表後 50 年之保護期間72。
+      值得注意的是，由於立法者在此階段對於表演行為的區別尚未
+十分細緻，因此在規範技術上並不區分「現場表演」或「已固著表
+演」，更忽略了在國際上爭議重大的「錄音物上之表演」與「視聽
+物上之表演」之保護差異，所以在轉換條約時，賦予了比 TRIPs 更
+高的國際保護水準。舉例而言，在重製權的部分，依 TRIPs 第 14
+條第 1 項第 1 句之規定，僅賦予聲音表演之重製權，但我國著作權
+法則除了聲音表演人之外，也廣泛地賦予視聽表演人享有重製權。
+      此外，由於 TRIPs 第 9 條第 1 項第 2 句73明文不處理著作人格
+權的問題，所以在此次修法中，亦未直接論及表演人精神權利保護
+之問題。只是透過解釋，由於我國將表演人視為著作人，所以表演
+
+
+
+68 TRIPs Art. 14（I）
+                  ：「表演人對於『固著於錄音物上表演』，得禁止下列未經授
+   權之行為：將其未經附著於媒介物之表演予以固著或重製此一固著物。表演人
+   亦可禁止下列未經授權之行為：將現場之表演，以無線電方式公開播送或公開
+   傳播。」
+69 參閱 1998 年著作權法第 7 條之 1。
+70 參閱 1998 年著作權法第 22 條第 2 項：「著作人專有以錄音、錄影或攝影重製
+   其表演之權利」。本條最主要的爭議在於，依本條項表演人是僅享有機械性固
+   著之固著權？或還包括享有重製此一固著物之重製權？從法條文字解釋，似乎
+   只包含機械性固著權，但此將與 TRIPs 第 14 條第 1 項之保護標準不盡相符。
+   若揆諸立法理由之說明，更見混亂：「……三、又與貿易有關之智慧財產協定
+   第 14 條第 1 項賦予表演人之重製權，以表演之機械性附著（fixation）為限，
+   不若其他類別著作重製權範圍之廣，爰針對其特殊性，針對第 2 項明定之。」
+   事實上，TRIPs 第 14 條第 1 項賦予表演人之重製權，不只限於機械性附著之固
+   著權而已，還包括重製此一固著物之重製權，立法者之說明似乎有所誤解。
+71 參閱 1998 年著作權法第 24 條但書，第 26 條第 2 項但書。
+72 參閱 1998 年著作權法第 34 條。
+73 TRIPs Art. 9（I）
+                 ：「……。會員國依本協定所享有及負擔之權利義務，並不及
+   於伯恩公約第 6 條之 1 所賦予或衍生之權利。」
+視聽表演人保護之研究                                 325
+
+
+人亦併受著作人格權之保護；再加上我國此時尚未區別聲音表演人
+與視聽表演人之不同，因此似未排除視聽表演人（不論是已固著或
+未固著於視聽物之表演）於本次修法中已經取得人格權的保護。
+   綜上所述，我國 1998 年著作權法修法，對視聽表演人所提供
+之保護，包含了著作權法第 15 至 17 條的人格權、重製權以及未固
+著表演之公開播送與公開演出權。
+
+二、2003 年修法發展
+
+   表演人保護第二階段的修法，主要是配合 WPPT 之相關規定
+進行修正。在表演人的定義方面，立法者參考 WPPT 第 2 條（a）
+款之規定，除了對既有著作之表演加以保護外，也新增表演人對民
+俗創作表演之保護。在表演人的財產權方面，若先不論文字的修
+正，則除了原來的重製、未固著表演之公開播送以及公開演出權
+外，也新增了錄音表演人的公開傳輸權74、散布權75及出租權76。也
+由此可見，本次的修法並未新增視聽表演人之任何財產權。
+
+
+
+伍、結論：修法之幾點思考與建議
+
+   經由前述這兩次著作權法對表演人保護之修正，大致可以觀察
+得到，我國目前關於視聽表演人的保護是較為零散且無體系的，因
+此對表演人保護之立法政策上仍有值得思考之處，提出建議以供參
+考。
+
+
+
+74 參閱 2003 年著作權法第 26 條之 1 第 2 項：
+                               「表演人就其經重製於錄音著作之
+ 表演，專有公開傳輸之權利。」
+75 參閱 2003 年著作權法第 28 條之 1 第 2 項：
+                               「表演人就其經重製於錄音著作之
+ 表演，專有以移轉所有權之方式散布之權利。」
+76 參閱 2003 年著作權法第 29 條第 2 項：
+                           「表演人就其經重製於錄音著作之表
+ 演，專有出租之權利。」
+326                                    國際比較下我國著作權法之總檢討
+
+
+
+一、表演人獨立專章保護之考量
+
+      我國從 2010 年年中即開始進行新一波的著作權修法準備，截
+至目前為止已經召開了 37 次修法諮詢會議，其中對於表演人的保
+護，是否須配合北京視聽表演條約，重新檢討擴大視聽表演人之權
+利，已無猶豫77，餘所要處理者僅餘表演人之定位（表演人是否為
+著作人）以及是否另以獨立章節規範表演人之問題。
+      作者個人以為，長期以來，著作權與鄰接權的不分，已在我國
+著作權法造成不少困擾，例如我國對於錄音物向來以「錄音著作」
+加以保護，因此對於「錄音著作人」與「錄音物製作人」之權利取
+得與區別，經常被模糊帶過。甚至因為解釋視聽著作中所利用到的
+錄音著作應與其他著作為同等對待，因此造成我國視聽著作公開播
+送之際，同時也構成該視聽著作內之錄音著作的公開播送，此一高
+於國際、甚至也高於德國與美國著作權法的保護結果，對國內利用
+人確實較為不利。另外，對於「著作人、表演人」不分的結果，造
+成我國「著作人格權」一節中所稱的著作人包含表演人在內，但在
+「著作財產權」一節中則是將著作人與表演人區別，但仍有些條文
+所稱著作人是否包含表演人卻不無爭議78。此外，若再加上視聽表
+演人與錄音表演人縱然面對相同的權利內容，但往往會因為產業差
+異以及開發和利用市場及結構的不同而可能採取不同立法評價，表
+
+
+77 參閱 2012 年 11 月 16 日經濟部智慧局著作權法第 25 次修法諮詢會議（表演人
+   保護 4-2）會議紀錄，http://www.tipo.gov.tw/ct.asp?xItem=332751&ctNode=7010&
+   mp=1（最後瀏覽日：2014 年 7 月 20 日）     。
+78 例如著作權法第 24 條第 1 項，「著作人專有公開播送其著作之權利。」因為
+   第 2 項並未直接賦予表演人有公開播送權，僅規定「表演人就其經重製或公開
+   播送後之表演，再公開播送者，不適用前項規定。」因此造成表演人公開播送
+   權的請求基礎應回歸本條第 1 項之著作人權利中加以主張。又例如著作權法第
+   22 條第 1 項，著作人享有重製權，但是第 2 項僅賦予表演人享有機械性附著之
+   重製權。因此有爭議的是，表演人對於已附著其表演之固著物，是否還享有重
+   製權？若依 TRIPs 第 14 條第 1 項應為肯定之解釋時，惟此一權利是應回歸同
+   條第 1 項「著作人之重製權」中加以主張，或是應擴張解釋同條第 2 項表演人
+   之重製權，不無爭議。
+視聽表演人保護之研究                      327
+
+
+現在立法上將更行複雜。因此有必要建議，不論我國是否採行著作
+權與鄰接權分立之政策，包含視聽表演人在內的表演人保護，都宜
+另立專章規範較為妥適。
+
+二、視聽表演人權利移轉之政策考量
+
+  造成視聽表演人保護條約延宕十餘年之久的最主要原因，還是
+涉及視聽製作人的利益折衝，最後才終於在美國的讓步下，順利通
+過本條約。也因此更可見第 12 條關於權利移轉的規定，確為各國
+利益關鍵之所在。
+  由於尊重各締約國得自行決定視聽表演人權利移轉之政策，允
+許各締約國以國內法規定，凡是經表演人同意固著於視聽物之表
+演，除非契約另有約定，否則視聽表演人依本條約所得主張之權
+利：
+（1）推定直接歸屬於製作人（法律規定製作人即為原始權利
+     人）
+      ；
+（2）推定製作人得利用該視聽著作（屬於推定授權，視聽表演人
+     為原始權利人，但除非有相反約定否則不得對抗製作人利用
+     視聽著作的行為，不過可以對抗其他未經授權的利用行
+     為）
+      ；
+（3）推定移轉於視聽製作人（視聽表演人為原始權利人，但法律
+     推定視聽表演人之權利移轉於製作人）
+                     。
+  我國著作權法向來對於視聽著作的著作人及其權利歸屬，並無
+訂定特別規定，僅能依第 11 條「職務著作」以及第 12 條「出資聘
+請他人完成著作」之規定處理。就以國內電影產業現況而言，多以
+獨立製片為主，但由於我國對視聽著作採創作人主義的結果，一部
+電影往往可能是由數十、甚至是百人共同合作完成的共同著作，所
+涉及的權利歸屬（特別是演員方面）很大部分是著作權法第 12 條
+之範疇，因此製作人若忽略逐一完整締約的重要性，勢必將影響其
+電影著作後續的所有利用。因此建議，藉由本次修法參考視聽表演
+ 328                       國際比較下我國著作權法之總檢討
+
+
+
+北京條約的同時，或許可以透過推定授權之方式，推定視聽製作人
+得利用該視聽著作。此不僅有利於國內視聽製作人投資報酬之保
+障，避免動輒觸法，有利於我國視聽產業之促進與推動外，也因為
+未剝奪視聽表演人原所享有之財產專有權，視聽表演人除仍可對抗
+第三人之不當利用外，亦可依契約約定享有報酬，有助於適度平衡
+視聽表演人之權益保障。
+
+三、對現行著作權法有關表演人保護之建議
+
+       除前述關於視聽表演人保護在立法政策上之建議外，針對現行
+著作權法有關表演人保護在解釋與適用上之疑義，亦一併於此提出
+建議與修正：
+   （一）在表演人的定義方面
+       我國著作權法第 7 條之 1 規定：
+                        「表演人對既有著作或民俗創
+作之表演，以獨立之著作保護之。」依此規定看來，我國著作權法
+所稱的表演人，廣泛地包含所有演繹或表演著作或民俗創作之人，
+所以當然也包含視聽表演人在內。其內涵大致與 WPPT 第 2 條
+（a）項及第 2 條（a）項定義相當。
+       本條與其說是對表演人之定義，倒不如說本條（後段）還同時
+明訂表演為受保護的著作類型之一。只不過這種「將表演以獨立著
+作保護」之立法方式，往往造成我國立法上對「著作人與表演人」
+概念區別的模糊。其中最明顯的例子是，著作權法第 22 條關於重
+製權之規定：「著作人除本法另有規定外，專有重製其著作之權利
+（第 1 項）
+      。表演人專有以錄音、錄影或攝影重製其表演之權利（第
+2 項）
+   。」因此產生的困擾是，根據本條第 2 項表演人（包含視聽
+表演人）享有機械性附著之重製權固無疑問79，但有困擾的是，對
+於已獲得表演人同意而固著之表演，表演人得否得依同條第 1 項再
+
+
+79 參閱 2003 年 1 月 27 日修正公布著作權法部分條文，立法理由說明第 22 條第 3
+  點。
+視聽表演人保護之研究                                   329
+
+
+主張重製此一固著物之重製權？有學者主張80，若參考羅馬公約的
+標準，表演人不得再就固著於電影之表演主張重製權。嚴格而言，
+對於經表演人同意而固著之表演，羅馬公約分二種不同之處理方
+式，若固著在錄音物者，則錄音表演人仍可主張其錄音物之重製禁
+止權81，但若固著在視聽物者，則視聽表演人即不得再主張該視聽
+物之重製權82。若依 TRIPs 和 WPPT 規定，則表演人雖享有「重製
+此一固著物」之重製權，但此一固著物僅限於錄音物而言83，因此
+視聽表演人亦不得再就該視聽物之重製主張重製權。
+   基此，再回頭檢視我國相關規定：由於本條第 2 項僅保護表演
+人就其未固著表演享有固著權而已，因此若解釋表演人就其已固著
+表演之保護不適用本條第 1 項規定的話，不免違反 TRIPs 對錄音表
+演人之保護標準。但若是解釋表演人就其已固著表演之保護應回歸
+適用本條第 1 項「著作人重製權」規範的話，則此保護標準不僅將
+高於現行國際條約，且更將面臨著表演人「首次固著」的重製權，
+獨立適用本條第 2 項，但是表演人就其「已固著表演」的重製權，
+則將另外割裂地適用本條第 1 項之著作人規定。為解決上述之困
+擾，建議於修法時有一併調整之必要。
+  （二）在視聽表演人之人格權方面
+   我國著作權法賦予著作人享有公開表示、姓名表示及禁止扭曲
+變更權。由於現行法下的著作人同時都包含表演人在內，且我國所
+稱的表演人又同時涵蓋聲音及視聽表演人，因此我國對於視聽表演
+人人格權之保護內涵，應已滿足並高於 BTAP 第 5 條之保護標準。
+
+
+80 參閱 2012 年 11 月 16 日經濟部智慧局著作權法第 25 次修法諮詢會議（表演人
+ 保護 4-2）會議紀錄（註 77）
+                 ，蕭雄淋律師發言。
+81 羅馬公約第 7 條第 1 項（c）款。
+82 羅馬公約第 19 條之規定。
+83 TRIPs Art. 14（I）
+                  ：「表演人對於『固著於錄音物上表演』，得禁止下列未經授
+ 權之行為：將其未經附著於媒介物之表演予以固著或重製此一固著物。……」
+ 至於 WPPT 第 7 條，也與 TRIPs 採相同之保護標準，僅錄音表演人始就其錄音
+ 物之重製享有重製權。
+ 330                                              國際比較下我國著作權法之總檢討
+
+
+
+       另值得一提的是，BTAP 第 5 條第（1）項（ii）款「……。但
+應同時適當考慮視聽物本質」的例外規定。由於此一例外，在國際
+條約上的爭議頗大，因此我國在轉換規定時值得思考，有無必要針
+對視聽產業的某些特定行為，例如對影片的刪減、濃縮、剪輯、配
+音或屬於新的技術、媒體、格式或銷售模式的轉換等行為，不損害
+表演人之聲譽。
+    （三）在視聽表演人之財產權方面
+       在現行著作權法下，視聽表演人就其未固著之表演，享有重
+製、公開播送及公演出權，應已符合 BTAP 第 6 條規定。至於視聽
+表演人就其錄製在視聽物中的表演，目前僅享有重製權之保護，尚
+欠缺 BTAP 所規範之散布權（第 8 條）
+                     、出租權（第 9 條）
+                               、公開傳
+輸權（第 10 條）
+         、廣播及公開傳播權（第 11 條）之專有或報酬請
+求權。
+       我國著作權法在轉換規定時，就出租權的部分應特別注意的
+是，為了配合 TRIPs 對視聽著作的出租權非屬強制性規定84，因此
+BTAP 對於錄製在視聽物上之視聽表演，也沒有賦予強制性的出租
+權規定85。因此若依我國在視聽著作上所持之一貫態度，則顯然不
+宜賦予視聽表演人就視聽物之出租享有出租權才是，以免視聽著作
+在我國境內究有無被大量重製的事實上，產生互相矛盾。與此同
+時，還要考慮到 WPPT 允許各締約國依其國內法之規定，對於錄製
+在錄音物上的表演人專有出租其錄音表演之權利86，我國遂即規定
+
+
+84 參閱 TRIPs Art. 11 之規定。因此，只要視聽著作的商業出租不會導致該視聽著
+   作被大量重製，從而實質損害視聽著作人及其權利繼受人之重製權者，則會員
+   國沒有賦予視聽著作享有出租權義務之拘束。
+85 參閱 BTAP Art.9（II）      ，因此只要視聽著作的商業出租並未導致該視聽物被大量
+   重製，從而實質損害表演人之重製權者，則締約國就可以免除賦予視聽表演人
+   享有出租權。
+86 WPPT Art. 9（1）    ：“Performers shall enjoy the exclusive right of authorizing the
+   commercial rental to the public of the original and copies of their performances fixed
+   in phonograms as determined in the national law of Contracting Parties, even after
+視聽表演人保護之研究                                                                    331
+
+
+於第 29 條第 2 項。基於「錄音表演」與「視聽表演」在我國出租
+權利上可能出現不同的評價，所以在修正第 29 條第 2 項的出租權
+以及第 60 條的出租權耗盡規定時，建議宜區別處理如下：
+                           「第 29
+條第 2 項：表演人就其經重製於錄音物及視聽物之表演，專有出租
+之權利」
+   。「第 60 條第 1 項：著作原件或其合法重製物之所有人，
+得出租該原件或重製物。但錄音、電腦程式著作以及重製於錄音物
+之表演，不在此限」
+        。
+    此外，視聽表演人就其錄製在視聽物中之表演，是否亦理所當
+然的享有公開播送及公開演出權，亦不無斟酌之餘地。這是因為在
+視聽表演人之廣播及公開傳播權方面，BTAP 提供了締約國最廣泛
+的選擇，使締約國得賦予視聽表演人廣播及公開播送的專屬權
+（BTAP 第 11 條第 1 項）
+                 ，或僅賦予適當的報酬請求權（BTAP 第 11
+條第 2 項）
+      ，或甚至可以全部保留，既不賦予專屬權，亦不賦予報
+酬請求權（BTAP 第 11 條第 3 項）
+                     。換言之，本條對於視聽表演人
+之廣播及公開傳播幾無任何最低保護標準可言，其目的就是為了要
+讓各締約國可以衡量其視聽和錄音產業之差異，並評估影片製作人
+在開發和利用市場及結構的不同。有鑒於此，建議我國在轉換此一
+規定時，亦應衡量國內錄音與視聽產業差異程度而為決定，並無必
+要與錄音表演87為一致性決定所拘束。
+    最後，在視聽表演人財產權之保護期間方面，我國著作權法第
+34 條規定，表演之著作財產權存續至公開發表後 50 年，但事實上
+未經固著之表演，屬於瞬間藝術，很難有存續期間之計算，因此或
+可參考 WPPT 第 17 條第 1 項以及 BTAP 第 14 條，修正為「存續至
+表演固著後 50 年」
+          。
+
+
+
+  distribution of them by, or pursuant to, authorization by the performer.”
+87 我國著作權法目前只賦予聲音表演人就其現場未固著之聲音表演，享有公開播
+  送及公開演出權（第 24 條第 2 項、26 條第 2 項）
+                               ，因此在未來的修法上，勢必
+  可能因應 WPPT 第 15 條之規定，使表演人就其錄製在錄音物之表演，享有公
+  開播送及公開演出的報酬請求權。
+332                                      國際比較下我國著作權法之總檢討
+
+
+
+
+                               參考文獻
+
+1. 中文部分
+張懿云（2001）
+        ，「世界智慧財產權組織表演及錄音物條約」關於錄
+      音物製作人之保護，科技法律透析，13卷8期，頁32-48。
+
+2. 外文部分
+
+Bernard, Adler. 2002. The Proposed New WIPO Treaty for Increased
+      Protection for Audiovisual Performers: Its Provisions and Its
+      Domestic and International Implications. Fordham Intellectual
+      Property, Media and Entertainment Law Journal 12:1089-1118.
+Lewinski, Silke von. 2008. International Copyright Law and Policy.
+      New York, NY: Oxford University Press.
+─ (2001), Die Diplomatische Konferenz der WIPO 2000 zum
+      Schutz der audiovisuellen Darbietung, GRUR Int. 2001, S. 529-541.
+─ (1997), Die Diplomatische Konferenz der WIPO 1996 zum
+      Urheberrecht und zu verwandten Schutzrecht, GRUR Int. 1997, S.
+      667-681.
+Preslez, Elvis (2012), LG München, ZUM-RD. 2012, S. 49.
+Ulmer, Eugen (1961), Das Rom- Abkommen über den Schutz der
+      ausübenden   Künstler,   der   Hersteller   von   Tonträgern   und
+      Sendeunternehmungen, GRUR Int. 1961, S. 569-594.
+Welser, Marcus von (2012), WIPO-Vertrag zum Schutz audiovisueller
+      Darbietung unterzeichnet, GRUR-Prax 2012, S. 345-347.
+s. Internationaler Report - Keine Einigung über Abkommen zum Schutz
+      ausübender Künstler, GRUR Int. 2001.
+

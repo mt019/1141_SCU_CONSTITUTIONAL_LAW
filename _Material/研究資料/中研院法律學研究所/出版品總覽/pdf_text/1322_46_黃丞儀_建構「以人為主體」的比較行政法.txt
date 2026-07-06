@@ -1,0 +1,1047 @@
+    建構「以人為主體」的比較行政法
+                           黃丞儀*
+
+
+
+
+                           目     次
+
+    壹、 穿越巴別塔的比較行政法                二、 內 部 行 政 法 ： 以 日 常 行 政
+    貳、 蘋 果 、 橘 子 和 香 蕉 怎 麼 比 ？       為田野
+       麥當勞告訴你                     三、 「 次 級 ／ 整 體 」 秩 序 中 的
+                                     行政法：焦點拉近與拉遠
+    參、 功 能 主 義 的 比 較 行 政 法 ： 歐
+                                     下的制度
+       盟行政法的經驗
+                                  四、 人 工 智 慧 的 挑 戰 ： 比 較 行
+    肆、 「 以 人 為 主 體 」 的 比 較 行 政
+                                     政法和認知多元
+       法
+                                  五、 「 以 人 為 主 體 」 的 比 較 行
+     一、 決 策 理 性 ： 行 為 經 濟 學 視        政法
+        角下的溫斯伯里不合理               伍、 中 央 研 究 院 法 律 學 研 究 所 與
+        性、比例原則和成本效益                 比較行政法的發展
+        分析
+
+
+
+
+     法學研究經常運用「比較」研究為取徑，諸如與法律有關的制度比
+較、概念比較、學說比較、實務比較、文化比較 1。21世紀的第一個十年
+間，比較行政法（Comparative Administrative Law, CAL）重新崛起於歐
+
+
+
+
+*
+  中央研究院法律學研究所研究員；國立清華大學科技法律研究所合聘教授。
+1
+  李建良，臺灣行政契約法的路徑依賴？—比較行政法方法論的局部反思，收於：李
+  建良編，2012行政管制與行政爭訟—行政契約之發展現況與前景，
+  頁3（2016年）。
+穩定網址：http://publication.iias.sinica.edu.tw/32417012.pdf。
+    研之得法：中央研究院法律學研究所成立十週年文集
+476 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+美法律學界 2 。這股「新浪潮」肇始於2009年兩位美國學者Susan Rose-
+Ackerman 和 Peter L. Lindseth 於 耶 魯 法 學 院 以 「 比 較 行 政 法 倡 議 」
+（Comparative Administrative Law Initiative）為名召開國際研討會，會議
+論文經過篩選於2010年出版專書COMPARATIVE ADMINISTRATIVE LAW3。這
+次會議奠定了比較行政法作為一個領域的基礎，參與成員包括美國、德
+國、法國、西班牙、英國、澳大利亞、加拿大、以色列、義大利、荷
+蘭、墨西哥和臺灣 4。相隔七年，Rose-Ackerman和Lindseth兩位教授再次
+於耶魯法學院召開第二次會議，囊括了更多國家的重要學者，會後大幅
+擴增和實質修改專書內容，於2017年出版第二版 5。在此同時，兩位長期
+研 究 歐 洲 和 美 國 行 政 管 制 與 法 律 的 學 者 Francesca Bignami 和 David
+Zaring ， 召 集 26 位 學 者 ， 依 管 制 國 家 （ regulatory state ） 、 規 則 制 訂
+（rulemaking）、監督（oversight）、執行（enforcement）、司法審查、
+私管制與新 治理（private regulation and new governance）、國際組織
+（international jurisdictions）等七個主題，撰寫行政管制的比較研究，於
+2016年出版專書COMPARATIVE LAW AND REGULATION 6。今年（2021）牛
+
+
+2
+    與此相對的是「全球行政法」（Global Administrative Law, GAL）。全球行政法的早
+    期倡議者集中在紐約大學法學院，以Benedict Kingsbury, Nico Krisch, Richard B.
+    Stewart三位學者合寫的論文為濫觴。See Benedict Kingsbury, Nico Krisch & Richard B.
+    Stewart, The Emergence of Global Administrative Law, 68 L. & CONTEMP. PROBS. 15, 15-61
+    (2005). 另外可以參考SABINO CASSESE, RESEARCH HANDBOOK ON GLOBAL ADMINISTRATIVE
+    LAW (2016). 中文介紹可參見林春元，氣候變遷全球行政法的演變、形貌與影響
+    （2017年）。比較行政法的重新崛起大約和全球行政法同時，一般以Susan Rose-
+    Akerman和 Peter Lindseth在 2009年 於 耶 魯 法 學 院 召 開的會議為起點。See Giulio
+    Napolitano, The Transformations of Comparative Administrative Law, 67 RIVISTA
+    TRIMESTRALE DI DIRITTO PUBBLICO 997, 1010 (2017).
+3
+    See SUSAN ROSE-ACKERMAN & PETER L. LINDSETH EDS., COMPARATIVE ADMINISTRATIVE
+    LAW (2010). 該專書屬於Edward Elgar出版社的Research Handbooks in Comparative Law
+    系列。
+4
+    參與第一次和第二次耶魯法學院「比較行政法」會議的臺灣學者為葉俊榮教授和筆
+    者。筆者第一次參與時，還是芝加哥大學法學院博士候選人（J.S.D. Candidate），4
+    個月後才畢業。
+5
+    See SUSAN ROSE-ACKERMAN, PETER L. LINDSETH & BLAKE EMERSON EDS., COMPARATIVE
+    ADMINISTRATIVE LAW (2d ed. 2017).
+6
+    See FRANCESCA BIGNAMI & DAVID ZARING EDS., COMPARATIVE LAW AND REGULATION:
+    UNDERSTANDING THE GLOBAL REGULATORY PROCESS (2016).
+                                        建構「以人為主體」的比較行政法   477
+
+
+津 大 學 出 版 社 更 出 版 了 OXFORD HANDBOOK OF COMPARATIVE
+ADMINISTRATIVE LAW （以下簡稱OHCAL），全書厚達一千四百多頁，
+共分八部、五十一章。這本專著是由長期任教於牛津大學法學院、澳洲
+國立大學法學院（講座教授退休）、現為劍橋法學院資深研究員的行政
+法權威Peter Cane教授號召，結合歐、亞、美洲學者（依序為盧森堡大學
+的Herwig C. H. Hofmann、香港大學的Eric C. Ip（葉子暘）和美國康乃迪
+克州立大學的Peter L. Lindseth）合力編輯，52位各國學者耗時三年撰寫
+出版。OHCAL的出版象徵比較行政法的領域進入成熟階段，呈現蓬勃旺
+盛的持續發展。
+      比較行政法的研究課題包羅萬象，以OHCAL的章節組織為例，八個
+部分包括：行政法傳統（英美、法國、德國、中國、中東）；研究
+方法；主要政府體制下的行政權（議會制、總統制、半總統制、威權
+體制、跨國體系）；基本概念（權力分立、法治、課責、公私二分、
+民 主 與 威 權 主 義 ） ； 行 政 權 的 組 成 和 分 配 （ 又 分 為 制 度 和 功 能 兩 部
+分，前者如官僚體系、歐盟行政制度，後者包括規則制訂（行政命
+令）、個案裁決（行政處分）、基層公務運作、行政管制（或稱規
+制）、國家安全、政府資訊公開、自動化決定）；行政權的控制（包
+括：政治部門控制、司法審查、內部控制（如訴願）、監察使、公共審
+計課責、民刑事責任等）；行政運作的規範價值（如公開透明、合理
+性與比例原則、合法性、事實發現、附具理由）；前沿發展。研究內
+容橫跨行政法與憲法、公共政策與行政管理，更運用了許多經驗學科的
+方法和發現（管理學、經濟學、政治學、社會學、人類學、歷史學
+等）。
+      有些學者將比較行政法的起源追溯至19世紀末、20世紀初美國政治
+學 家 古 德 諾 （ Frank Johnson Goodnow ） 在 1897 年 以 此 為 名
+（COMPARATIVE ADMINISTRATIVE LAW）出版的專書，其中比較了美國、
+英國、法國和德國的行政體系 7。19世紀的普魯士亦有不少學者以外國法
+為借鏡，發展行政法的理論。其中最知名者當屬Rudolf von Gneist出版的
+
+
+7
+    Napolitano, supra note 2, at 998.
+    研之得法：中央研究院法律學研究所成立十週年文集
+478 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+英國憲法（含行政法）專書 8，Otto Mayer撰寫的法國行政法理論 9。這種
+以民族國家為單位的研究，浸假形成主流行政法學的傳統。從19世紀末
+延續迄今，但凡研究行政法莫不以法國、德國、英國、美國為宗，透過
+這 幾 個 國 家 來 繼 受 「 行 政 法 」 的 法 規 和 制 度 10 。 其 實 ， 只 要 有 人 類 社
+會，就會有集體組織，就會有非私人性質的權力運作（王權、教會、行
+會、地方官府、幕府、原始部落、殖民政府等），這些權力如何運作、
+受到何種限制，都可以成為廣義行政法的認識對象，畢竟行政法是有關
+行政如何組織起來、如何實效運作的規範總合。（姑且不論「軟法」或
+「社會規範」（social norm），這些討論讓行政法在規範性質上變得更
+複雜。）此外，當代行政法的背景並非全然都是在民主政體之下，威權
+體制下的行政法運作，亦不失為比較行政法研究的對象。
+     不過，比較行政法的研究和一般的行政法學有何不同？既然強調
+「比較」，究竟如何進行？如果研究者連研究對象的語言、文字都無法
+掌握，從何進行「比較」？更何況法律、制度涉及的不只是單純的日常
+語言，還包括背後蘊含的觀念意識，根源於特定社會的文化背景，比較
+
+
+8
+   參見Rudolf von Gneist, Das heutige englische Verfassungs- und Verwaltungsrecht, I, 1857.
+9
+   參見Otto Mayer, Theorie des französischen Verwaltungsrechts, 1886.
+10
+   需要提醒者：法系之間的比較，常易陷入稻草人論證的邏輯謬誤。例如十九世紀晚期
+   的英國公法權威戴西（Albert V. Dicey）曾經批評法國大革命之後出現的法國行政
+   法，認為英國不需要像法國一樣另外建立專門審查行政行為的特別法院，他認為這類
+   行政法院不像英國的普通法院一樣具有獨立性。尤其對於「對行政的審判本身也是一
+   種 行 政 」 （ “juger l’administration c’est encore administrer” 或 “to judge the
+   administration is still to administer”）這句法國法諺，戴西認為混淆了司法和行政界
+   線，嚴重違反法治原則。在他的描述下，法國行政法（droit administratif）承認行政
+   機關有龐大的裁量權限，讓人民和政府立於不平等的地位。因此，戴西甚至武斷地
+   說：英國不需要行政法，因為行政法和英國崇尚的法治原則（the rule of law）彼此扞
+   格。首先，戴西把行政法和法國行政法混為一談，而且對於法國制度的描述脫離脈
+   絡，用英國的概念來理解法國，最後得到的結論就是英法兩國的制度無法相容，甚至
+   英國的制度比較優越，這種「比較」恐怕只是要凸顯自身制度的保存必要。關於19世
+   紀 到 20 世 紀 初 期 英 、 法 、 德 行 政 法 的 發 展 ， 請 參 見 Bernardo Sordi, Révolution,
+   Rechtsstaat and the Rule of Law: Historical Reflections on the Emergence of Administrative
+   Law in Europe, in COMPARATIVE ADMINISTRATIVE LAW 23, 27, 33 (Susan Rose-Ackerman
+   & Peter L. Lindseth eds., 2010). 以及Giulio Napolitano, The Rule of Law, in THE OXFORD
+   HANDBOOK OF COMPARATIVE ADMINISTRATIVE LAW [hereinafter OHCAL] 421, 425-26
+   (Peter Cane et al. eds., 2021).
+                                       建構「以人為主體」的比較行政法                  479
+
+
+行政法的研究者可能突破這種文化背景的限制嗎？抑有進者，行政法在
+認識論上必然涉及該國的憲政制度設定，比較行政法的研究者如何將憲
+政制度的差異和具體的行政法聯繫在一起？這些問題都涉及比較行政法
+的研究方法（research method）和方法論（methodology），也和比較行
+政法的未來發展息息相關。本文將以OHCAL壓軸的最後一部分：「領域
+發展」（Developing the Field）為基礎（包含筆者所撰寫的一章），嘗
+試對這些問題作出初步的回應。
+
+
+壹、穿越巴別塔的比較行政法11
+     對於所有的比較法學者而言，第一步需要克服的研究門檻就是語言
+障礙。但是研究者不太可能同時通曉各國語言（具有5、6種歐陸語言的
+閱讀、口說能力已屬難能可貴），比較的範圍往往就侷限於研究者能夠
+掌握的外國語文，或依賴二手文獻或口譯。然而，法律研究使用的文字
+並非單純的日常語言，而是具有特定概念意涵的專業語言。除了一般的
+日常語言能力外，研究者仍須具備該國的相關法學知識，才能加以理解
+和分析。例如臺灣行政法中出現的「裁量」，在英國和美國行政法中是
+discretion ， 在 德 國 行 政 法 中 是 Ermessen ， 在 法 國 行 政 法 則 是
+discrétionaire，義大利行政法則是discrezionalitá。單單列出這些名詞，不
+具備任何比較的意義。要掌握各國發展出來的行政裁量理論，不可能由
+字面一望即知，必須分析該國累積的司法判決或耙梳相關法學論文、註
+釋書，才可能整理出各國有關「裁量」的規範性詮釋，進行有意義的比
+較研究。
+     依照義大利學者Edoardo Chiti的界定，比較行政法的研究中，有三
+種面 對「 語 言障 礙」 的 途徑 。最 主 流的 取徑 就 是 語言作為一種技術工
+具 。在這種取徑下，研究者的任務是「解碼」（decoding）特定的行政
+法概念或制度 12 。這當中又分為兩個層次，一者是掌握各種相關法律素
+材，包括法規範、法院判決、行政文件等，充分解讀。第二種則是在這
+
+11
+   本節內容摘錄整理自Edoardo Chiti, Negotiating Language Barriers, in OHCAL 153, 153-
+   73 (Peter Cane et al. eds., 2021).
+12
+   Chiti, supra note 11, at 155-56.
+    研之得法：中央研究院法律學研究所成立十週年文集
+480 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+些形式的規範性文件之上，透過語言能力去解讀該國行政法體系的論理
+模式（legal reasoning）。無論哪一個層次，語言都只是一種技術工具，
+協助研究者解讀法律文件或法律論理，語言障礙可以透過良好的翻譯來
+解決。
+       另外有二種非主流的取徑。第一種預設了行政法的普世主義
+（ universalism） ， 亦 即 運 用 共 通 的 概 念 架 構 來 分 析 行 政 法 的 原 則 、 規
+則 、 實 踐 。 這 種 取 徑 常 見 於 歐 盟 法 律 秩 序 底 下 、 基 於 共 通 法 （ jus
+commune）的需要，比較和整合會員國內部的行政法概念架構，找出彼
+此 對 應 的 特 定 概 念 。 此 外 ， Chiti 認 為 「 全 球 行 政 法 」 （ global
+administrative law, GAL）的出現， 也展現了行 政法的普世 主義。研究
+「全球行政法」的學者主張各種條約、協定、國際組織、仲裁機構、非
+政 府 組 織 共 同 構 築 了 超 越 主 權 國 家 的 「 全 球 行 政 空 間 」 （ global
+administrative space），產生跨越國境的規範框架。無論歐盟行政法或全
+球行政法，都凸顯了行政法具有普遍共存的基礎。語言或許構成研究的
+門檻，但並非全然無法克服。在普世主義的影響下，英語經常成為通用
+語言（lingua franca），用來分析和介紹相關概念或規範。但此處使用的
+英語詞彙和英國行政法或美國行政法的專業法律名詞沒有太大關聯，只
+是一種中立的分析工具。基於便利性和普遍性，英語被各國學者拿來當
+作溝通工具，已經脫離了普通法的意涵 13。
+       另一種非主流的取徑就是「 脈絡中的行政法 」（administrative law
+in context）。這種取徑把語言當作社會、政治、經濟、文化的產物，因
+此，比較行政法學者需要跨越的挑戰就不只是語言能力的門檻，而是有
+沒有辦法深入掌握行政法背後的國家社會關係、文化背景、經濟結構。
+採取這種取徑的比較研究，已經不限於條文或論理的比較，更強調透過
+行政法來探索比較對象的文化、社會、政治、經濟關係。這種取徑強調
+「 脈 絡 中 的 法 律 」 （ law in context ） 、 「 行 動 中 的 法 律 」 （ law in
+action），而不是「書本上的法律」（law on the books）。Chiti列舉英國
+公 法 學 者 Carol Harlow 和 Richard Rawlings 撰 寫 的 教 科 書 LAW AND
+
+
+13
+     Chiti, supra note 11, at 159.
+                                            建構「以人為主體」的比較行政法                      481
+
+
+ADMINISTRATION ， 以 及 加 拿 大 行 政 法 學 者 Colleen M. Flood 和 Lorne
+Sossin合著教科書ADMINISTRATIVE LAW IN CONTEXT，認為他們的著作都
+代表了「脈絡中的行政法」。但整體來說，脈絡性分析在各國行政法學
+均屬鳳毛麟角 14。
+     無論是將語言當作工具、採取普世主義，乃至於脈絡性分析，Chiti
+認為未來比較行政法的研究取徑不必定於一尊，可以採取方法論上的多
+元主義（methodological pluralism），甚至可以向比較私法（comparative
+private law ） 借 籌 。 比 較 私 法 學 者 針 對 語 言 問 題 ， 發 展 出 主 題 化
+（thematization）的方法，把法律語言當成文化現象，給予法律翻譯相
+當重要的地位 15 。有鑑於「新行政法學」崛起，國家角色逐漸轉變、公
+私協力頻繁出現，行政法的正當性也面臨重新檢討，比較行政法可以透
+過將行政法當作文化、政治、經濟和社會的產物，深入制度背後的結
+構，探索現象變遷的動力，並重新定位行政法的功能。
+     從語言的限制出發，Chiti傾向於採取「脈絡中的行政法」，重新勾
+勒行政法和其他社會系統的關連，讓比較行政法承載了複雜艱困的任
+務。姑且不論「脈絡中的行政法」是否可能，他主張不要硬性區分教義
+學（doctrinal studies）和脈絡性分析，在方法論上採取多元主義，認為
+法律概念、法律論理和制度成因環環相扣。這些觀點都相當值得注意，
+也豐富了比較行政法的內涵。
+
+
+貳、蘋果、橘子和香蕉怎麼比？麥當勞告訴你
+     著重文化、政治、經濟和社會脈絡，在比較法領域並不是什麼新鮮
+的嘗試，甚至可以說是長久以來，比較法不斷努力卻難以達成的理想。
+以 色 列 學 者 Yoav Dotan 在 他 所 撰 寫 的 The Common Real-Life Reference
+Point Methodology — Or: ‘The McDonald’s Index’ for Comparative Administrative
+Law and Regulation 16（〈共通真實生活參照點的方法論──比較行政法
+
+
+14
+   Chiti, supra note 11, at 160.
+15
+   Id. at 161-62.
+16
+   Yoav Dotan, The Common Real-Life Reference Point Methodology — Or: ‘The Mcdonald’s
+   Index’ for Comparative Administrative Law and Regulation, in OHCAL 991, 991-1007
+    研之得法：中央研究院法律學研究所成立十週年文集
+482 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+與管制的「麥當勞指數」〉）即指出，比較行政法跟比較憲法一樣，都
+遭遇方法論上的問題。Dotan教授引用加拿大多倫多大學法學院憲法學者
+Ran Hirschl對於比較憲法研究的評論，認為比較行政法和比較憲法在小
+樣 本 研 究 （ small-N） 要 進 行 推 論 （ inference） 時 ， 至 少 會 碰 到 三 重 挑
+戰 ： 「 控 制 變 因 的 比 較 」 （ controlled comparison ） 、 「 研 究 設 計 」
+（research design）和「個案選擇」（case selection，或稱「選案」）17。
+     傳統的法學研究分析單一國家的特定法律內容及其適用，以「見
+樹」的方式來「見林」 18 。將這種取徑運用到比較研究時，常會挑選幾
+個國家來進行法律或裁判內容的分析。然而，這些國家是在何種研究目
+的下被挑選出來的？為什麼是三個而不是四個或更多？Hirschl列舉了幾
+個可能的選案原則：「最相似個案」（the most similar cases）、「最不
+同個案」（the most different cases）、「原型個案」（the prototypical
+cases）、「最困難個案」（the most difficult case）、「異常值個案」
+（ outlier cases ） 。 以 Tom Ginsburg 的 成 名 作 JUDICIAL REVIEW IN NEW
+DEMOCRACIES （《新興民主國家的司法審查》）為例，他挑選了韓國、
+臺灣和蒙古，三者都是亞洲國家，都曾經歷威權統治，也都在1980年代
+末期開啟民主化；但是臺灣和蒙古在民主化之前都有強勢主導的單一政
+黨，韓國則是軍人執政、政黨組織不強，Ginsburg因而主張這個差異造
+成民主化之後，韓國的憲法法院最為積極，因為沒有單一政黨可以主導
+政治場域、對司法產生影響。經由這三個個案比較，他提出「保險理
+論」，主張憲法法院（或獨立的司法審查制度）是否能成功運作，和民
+主化之前的政黨是否面臨即將下台的威脅有關。即將下台的政黨會將司
+法審查當作「保險閥」，以確保其政治經濟利益在下台後不會被剝奪。
+就選案而言，Ginsburg是透過「最相近個案」來進行比較，然後分析這
+三個個案間的差異，用以證明理論假說成立與否。然而，由於樣本數過
+小，再加上沒有事先控制變項，因此究竟是什麼因素造成個案差異，很
+
+
+   (Peter Cane et al. eds., 2021).
+17
+   Dotan, supra note 16, at 997. 有 關 比 較 憲 法 的 方 法 論 問 題 ， 請 見 RAN HIRSCHL,
+   COMPARATIVE MATTERS: THE RENAISSANCE OF COMPARATIVE CONSTITUTIONAL LAW 224-81
+   (2014).
+18
+   HIRSCHL, supra note 17, at 229.
+                                      建構「以人為主體」的比較行政法   483
+
+
+難建立完整的因果關係。這是比較憲法或比較行政法經常面臨的、也是
+最困難的挑戰。
+       有鑑於這種研究方法上的缺陷，加上「資訊落差」（研究者不太可
+能熟悉個案的各種制度細節）、「認識論落差」（研究者通常帶著對母
+國的制度認識去理解個案）、「實踐和理論的落差」（研究者考察的多
+半是書面資料而非實際運作中的法律），再加上「行政法和行政管理的
+落差」（行政法是規範行政現象的法律，但卻鮮少和行政管理或管制理
+論交流），Yoav Dotan提出一個概念上簡單、作法上可行的研究方法。
+他以麥當勞為例，這個跨國公司在全球122個國家開店，而這122個國家
+有各自的食品安全、勞工政策、投資移民、都市計畫、消費者保護、消
+防安全、環境保護、稅務等法規、制度，這些管制就構成了他所稱的
+「厚的行政管制體制」（thick regulative regime） 19。當麥當勞要前進一
+個國家增設據點時，必須先調查這些法規、制度，例如這些規範是屬於
+法律或行政命令、如何實施（透過定期檢驗或發給執照）、主要程序為
+何（申請期限多長、費用、訴訟救濟可能性）等。Dotan認為以相同的項
+目針對不同國家進行調查，可以獲得可靠的跨國比較。運用「共通真實
+生活參照點」（common real-life reference point）的另外一個例子就是：
+孩童接種疫苗。疫苗接種涉及國家權力的運用，國家如何決定疫苗政
+策，是否需要國會授權，事前或事後，是否有強制措施，接種後的藥害
+救濟如何請求，如何分配接種順序，這些議題牽涉了科學判斷、政策決
+定、權力分配等行政法關心的議題，透過具體的觀察點切入，研究者可
+以有比較的基準 20。
+       Dotan認為一開始可以透過「標誌」（mapping）各國管制體制的方
+式，建立詳細的資料庫，越詳細越好，日後就可以產出精細且有意義的
+比較結果。而這種作法可以避開「資訊落差」，也不涉及認識論的落
+差，畢竟這些項目都是真實生活中各國會遭遇到的。如同麥當勞要去開
+店，不會因為認識論上的差距就不去申請營業許可。而更重要的，他認
+為「共通真實生活參照點」關注的是實際運作中的法規，而不是抽象的
+
+19
+     Dotan, supra note 16, at 1001.
+20
+     Id. at 1002.
+    研之得法：中央研究院法律學研究所成立十週年文集
+484 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+行政法原理原則，在比較上更可以和行政管理領域相互交流。這類大規
+模的跨國比較也可以突破小樣本的限制，減少恣意選案的謬誤
+（selection bias） 21。但他承認這樣的比較可能囿於特定功能性議題，不
+一定可以提升到理論層次。他回應指出，這類比較研究可以「由小見
+大」，在具體的管制措施背後往往涉及權力分立或司法審查理論，研究
+者一樣可以透過「標誌」出來的細節回溯建構大理論。最後，Dotan認為
+比較行政法應該以具體的、真實生活的例子來描繪出每個國家的制度細
+節，採取「由下而上」的實證研究方式，發展出方法論上可行、具有理
+論意義的研究成果。
+
+
+參、功能主義的比較行政法：歐盟行政法的經驗22
+     Dotan的「麥當勞指數」以各國實際管制作為和法規內涵為主，進行
+橫向比較，類似各種國際組織（如OECD或世界銀行）、外國商會針對
+特定國家、區域或全球進行的普查資料。這種「指標」（index）在跨國
+治理上日益蓬勃，例如世界銀行的「經商環境報告」（Doing Business
+Indicator）將一百九十幾個國家納入評比。自由之家（Freedom House）
+的年度全球自由報告（Freedom in the World）早已成為衡量各國政治發
+展的重要指標。指標具有提供參考資訊的意義，也對各國執政者產生壓
+力，發揮引導政策的效果 23。Herwig Hofmann認為這是將法律當成觀察
+變項，屬於比較行政法的三種研究架構之一。
+     Hofmann是 在 盧 森 堡 大 學 任 教 的 德 裔 學 者 ， 也 是 OHCAL的 主 編 之
+一 。 他 在 「 領 域 發 展 」 （ Developing the Field） 這 一 部 撰 寫 了 Imaging
+
+
+21
+   Dotan, supra note 16, at 1002-04.
+22
+   本節內容以Herwig C. H. Hofmann撰寫的專章為主，參見Herwig C. H. Hofmann,
+   Imagining Theoretical Frameworks, in OHCAL 1009, 1009-26 (Peter Cane et al. eds.,
+   2021).
+23
+   SALLY ENGLE MERRY, KEVIN E. DAVIS & BENEDICT KINGSBURY EDS., THE QUIET POWER OF
+   INDICATORS: MEASURING GOVERNANCE, CORRUPTION, AND RULE OF LAW 21 (2015). See
+   also, KEVIN E. DAVIS, ANGELINA FISHER, BENEDICT KINGSBURY & SALLY ENGLE MERRY,
+   GOVERNANCE BY INDICATORS: GLOBAL POWER THROUGH QUANTIFICATION AND RANKINGS
+   (2015).
+                               建構「以人為主體」的比較行政法           485
+
+
+Theoretical Frameworks（想像理論架構）一章，把比較行政法的研究架
+構 分 成 三 類 ： 比 較 法 作 為 分 類 （ law as category） 、 比 較 法 作 為 法 源
+（law as source）、比較法作為觀察變項（law as variable）。Hofmann認
+為比較法是法學方法的一種，普遍存在於各種法學論證中。比較法可以
+是為了解決一國之內的特定問題而為，也可以是為了解決跨國法律問題
+而為。在涵攝事實的時候，法律論證也會涉及到過去和現在的比較。採
+取何種研究架構，端視要解決哪種問題而定。
+   第一種研究架構，以比較法作為分類，常見於傳統的研究當中，將
+各國法律劃分為幾種「法系」（legal families; legal systems），例如大陸
+法 系 （ 制 定 法 ） 和 普 通 法 系 （ 判 決 先 例 法 ） 。 但 Hofmann認 為 以 「 法
+系」作為分類框架的研究方法相當不可靠，尤其「法系」的概念是從比
+較私法發展出來，能否套用在比較公法上，有待檢驗。例如在所謂普通
+法系國家當中，英國沒有成文憲法而美國是最早發展出成文憲法的國
+家；美國也是世界上最早出現違憲審查的國家，由法院宣告法律違憲，
+但其他「普通法系國家」卻很少或很晚才接受這個制度。英國至今尚無
+行政程序法，而美國卻是最早制定行政程序法（Administrative Procedure
+Act of 1946）的國家。美國、加拿大和澳大利亞都是聯邦制國家，英
+國、愛爾蘭和紐西蘭仍然維持單一國。美國憲法對於基本權利的保障相
+當簡略，愛爾蘭憲法卻將社會權入憲。在「普通法系」這個粗略的標籤
+底下，每個國家都有蠻大的差異，包括他們的權力體制也大相逕庭（美
+國是總統制，其他多為議會制），如何以「普通法系」為有效的分析工
+具？即便在大陸法系國家也有許多差異。例如法國是單一國、帶有議會
+制特色的總統制（俗稱「雙首長制」或「半總統制」）、德國則採取多
+層級的聯邦制和議會制。這些對私法或許沒有影響，但對公法運作都有
+深刻的影響。例如法國憲法賦予行政部門自主的行政規制權力，德國在
+議會制的影響下，嚴格要求行政部門的權力是來自國會的授權和界定。
+而歐盟則是混合制，同時採取兩種取徑。法國的國家賠償案件是由行政
+法院審查，但在德國、義大利和比利時都是由普通法院依照民法原則來
+    研之得法：中央研究院法律學研究所成立十週年文集
+486 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+審查 24 。Hofmann開玩笑地說，「家家有本難念的經，而法律家庭（法
+系）的問題也很大」。（“Families can be difficult at times, even legal
+families.”）
+     第二種研究架構則是把比較法當作一種法源或依據，例如借鏡其他
+國家的法律或政策，作為本國立法或實施政策的依據。這種傾向常見於
+非歐洲國家，直接將德國、英國或法國行政法當作本國的行政法來源。
+在 建 構 歐 盟 法 的 時 候 ， 歐 盟 法 院 （ Court of Justice of the European
+Union）也大量倚重比較法，從不同的會員國的法律中尋找靈感，加以
+改造後，形成歐盟法體系。不同會員國的法律便成為觀念儲存槽，隨時
+可 以 從 中 汲 取 相 關 的 法 律 概 念 、 方 法 和 經 驗 ， 以 解 決 具 體 的 問 題 25 。
+Hofmann強調這種透過比較法產生法律依據的作法可以是雙向的，當歐
+盟從各會員國汲取法律概念形成自己的法體系後，歐盟法也可以再回過
+頭 去 影 響 各 會 員 國 的 法 律 體 系 。 他 用 「 上 傳 」 （ upload） 和 「 下 傳 」
+（download）來形容這種法律援引、汲取的形式。
+     這種以比較法作為法源的研究架構，採取的是功能主義
+（functionalist）的途徑。通常會先提出一項數法域都存在的共通問題，
+接著找到各法域解決該問題的法律，評估各種法律解決方案的相似性或
+差異性。如果多個法域解決問題的法律（包括判決）都極類似，就可能
+進行法律移植 26 。但有些時候沒辦法套用功能主義途徑，例如歐盟制訂
+行政程序法的時候，各會員國的經驗無法直接移植到超國際組織。即便
+如此，還是可以參考各會員國在制訂行政程序法的過程中，曾經出現哪
+些爭論，探索這些爭論背後衝突的價值或制度選擇為何 27。
+     最後一種比較法取徑則是把法律當作觀察變項。Hofmann以行政行
+為正當性為例，表示不同國家有不同的衡量因素，例如法律授權或權力
+行使的模式。當我們在比較各個不同國家的行政行為正當性來源時，其
+
+
+24
+   Hofmann, supra note 22, at 1012-13.
+25
+   Id. at 1017.
+26
+   Francesca Bignami, Introduction. A New Field: Comparative Law and Regulation, in
+   COMPARATIVE LAW AND REGULATION: UNDERSTANDING THE GLOBAL REGULATORY PROCESS
+   1, 31-32 (Francesca Bignami & David Zaring eds., 2016).
+27
+   Hofmann, supra note 22, at 1019-20.
+                                建構「以人為主體」的比較行政法             487
+
+
+實是在比較行政機關和科學專家、管制產業及市民大眾之間的關係。另
+外一個例子就是前面已經提到的指標（indicators）或排行（ranking）。
+這些都是藉由不同的考察項目（factors）來對各國行政法進行比較。
+   整體來說，Hofmann對比較行政法的研究框架有不少洞見。他不像
+Dotan採取實證研究方法，脫離了「法律為中心」，變成政策比較。但是
+Hofmann建議的研究取徑，正好也是Dotan批評比較行政法無法建立客觀
+結論的那種傳統研究方法。究竟這兩者是否可能取得平衡？或者有其他
+可能性？接下來將透過筆者撰寫的專章Expanding Horizons: Psychological,
+Cultural, Institutional and Technological Perspectives（視域擴展：心理、
+文化、制度和科技的層面），嘗試提出一些思考。
+
+
+肆、「以人為主體」的比較行政法
+   〈視域擴展〉首先探問比較行政法和行政法理論的距離：過去三十
+幾年間，美國行政法理論產生劇烈的變化，無論是法律解釋理論
+（statutory interpretation）、內部行政法（internal administrative law）、
+公共選擇、新制度論或行為經濟學等，都對行政法研究產生不小的衝
+擊。而在德國也有所謂新行政法學的興起，強調公共政策、行政管理和
+社會科學對行政法的影響。這些發源於各國自身行政法理論的變化，對
+比較行政法有什麼啟發？當學者在研究比較行政法的時候，有沒有可能
+運用這些新工具？
+   本章分從三個不同的研究典範（paradigm）來探究比較行政法的發
+展空間，最後以人工智慧崛起後的民主治理為反思對象，延伸討論比較
+行政法在新時代面臨的科技挑戰。這四個子題看似天南地北，貫穿其中
+的 是 人 類 行 為 、 人 的 「 有 限 理 性 」 （ bounded rationality） 以 及 人 文 變
+遷 。 因 此 ， 在 認 識 論 上 ， 本 章 所 抱 持 的 行 政 法 觀 （ conception of
+administrative law）並非單純的法條或判決集合，或學理註釋，而是以
+人為主體的公共事務運作，從實踐面向去檢驗在權力運作過程中，人的
+認知和理性如何發揮作用或受到侷限，行動和規範產生何種交互影響。
+在此認識論底下的行政法是多元的（pluralistic），是社會實存的，是必
+須接受檢驗的，它的效力來自於眾人（包含官員）的接受而非虛擬的國
+    研之得法：中央研究院法律學研究所成立十週年文集
+488 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+會授權。因此，我們需要在「以人為主體」的前提下，去檢驗行政法產
+生實效（efficacy）的基礎條件。「以人為主體」背後牽涉到更深入的哲
+學問題，尚非目前的篇幅可以容納。在此只是要說明，「視域擴展」之
+後，比較行政法的研究可能伴隨產生典範轉移。以下依照本章的架構，
+分別探討決策理性、官僚運作、制度觀察和人工智慧等四個議題。
+
+一、決策理性：行為經濟學視角下的溫斯伯里不合理性、
+  比例原則和成本效益分析
+   英 國 行 政 法 上 著 名 的 「 溫 斯 伯 里 不 合 理 性 」 原 則 （ Wednesbury
+Unreasonableness）是指法官在審查行政行為時，就行政行為的實質內容
+是否不合理，必須以「除非該行政行為的不合理已經明顯到沒有任何正
+常理性的人會做出同樣的決定」為標準，來進行審查。這是一個非常
+「司法自制」的原則，在實際審理上，法官經常認為行政官員的決定符
+合「一般正常理性人」的判斷。溫斯伯里不合理性原則下的「正常理性
+人」雖然說是以社會多數人為基準，但具體操作時法官不可能去進行民
+調，可以說就是法官自己的判斷。因此經常被批評：法官取代行政官員
+作判斷，而且法官要如何確知「一般正常理性人」的理性內涵？
+   我們從晚近行為經濟學的研究可以得知，人類行為經常是有限理性
+的，例如人類會短視近利（myopia），會受到自己可獲得資訊範圍的侷
+限 （ availability bias） 、 會 對 失 去 有 強 烈 的 排 斥 感 （ loss aversion） 等
+等，人類有限的理性（bounded rationality）當然也可能發生在決策官員
+上。在操作溫斯伯里不合理性原則時，法官是不是應該將行政官員的
+「有限理性」納入考量？「一般正常理性人」覺得明顯不合理的狀況，
+是不是應該排除受到「有限理性」影響的決策行為？法官的任務是接納
+這些可能出現的偏誤（bias）或者是要求行政官員去除偏誤（debias）？
+我們可以從不同國家面對的「決策不理性」態樣，來分析哪些偏誤比較
+容易出現在特定國家，或者哪些偏誤其實是普遍性的。
+   認知謬誤也可能出現在比例原則的操作上。例如官員在做出行政處
+分（或具體行政行為）時，採取的基準點（anchoring point）可能會影響
+比例原則的判斷，例如最小侵害手段的衡量究竟是以哪一個時間點來判
+                                                 建構「以人為主體」的比較行政法                          489
+
+
+斷？以受管制產業或客觀第三人的標準來判斷？狹義比例原則的操作更
+可 能 出 現 包 括 資 訊 取 得 偏 差 （ availability bias ） 、 損 失 趨 避 （ loss
+aversion）等認知偏差的影響。和溫斯伯里不合理性原則的操作一樣，法
+官究竟是要將這些認知偏誤影響下的決策視為合理（合比例），或要以
+「決策出於偏誤」為由透過判決去除偏誤？
+     同樣採取衡量的形式，成本效益分析宣稱可以避免受到認知偏誤的
+影響，但事實不然。成本效益分析雖然有客觀的量化基礎（willingness-
+to-pay，願付價格法）但是如同經濟學家Robert H. Frank所言：「主觀標
+價的方法往往高估貨物或服務的價值，因為這些貨物或服務的需求受到
+脈絡的影響很大。 28 」行為當時的脈絡會改變人如何理解貨物和服務的
+價值。Dan Kahan從文化認知理論（cultural cognition theory）的角度提
+醒，像是願 付價格法這 類統計上的 生命價值（ values of statistical life,
+VSL）都可能受到「誘導推論」（motivated reasoning）的影響，亦即評
+估者本身可能帶有特定的主觀認知框架，然後把事情放置到符合他的世
+界觀裡面去解釋、去賦予價值。像「認同保護」的認知機制（identity-
+protection cognition）很容易讓決策 官員基於自 己的身分認 同（如「法
+官」、「檢察官」、「政策官員」），去篩選符合他的主觀認知框架的
+「證據」，來說一個故事。比較研究可以嘗試突破的地方就在於透過認
+知心裡學的方法，將行政決策或法律解釋背後的「後設框架」（ meta-
+framework）釐清，包括執行成本效益分析時的後設框架。有些研究者已
+經指出，發展中國家執行的成本效益分析結果和已開發國家的成本效益
+分析結果，雖然規範和事實可能是同樣的。葉俊榮教授更指出，在民主
+發展過程中，成本效益分析的功能可能更偏重在政治透明度（political
+transparency），甚於官僚理性 29。
+
+
+28
+   “Hedonic pricing methods overstate the value of goods and activities whose demands are
+   relatively context sensitive.” Robert Frank, Why Is Cost-Benefit Analysis so Controversial?,
+   in COST-BENEFIT ANALYSIS: LEGAL, ECONOMIC, AND PHILOSOPHICAL PERSPECTIVES 77
+   (Mathew Adler & Eric Posner eds., 2001).
+29
+   Jiunn-Rong Yeh, Changing Faces of Cost-Benefit Analysis: Alternative Institutional
+   Settings and Varied Social and Political Contexts, in THE GLOBALIZATION OF COST-BENEFIT
+   ANALYSIS IN ENVIRONMENTAL POLICY 87, 99-101 (Michael A. Livermore & Richard L.
+    研之得法：中央研究院法律學研究所成立十週年文集
+490 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+    最後，在行政程序法上，我們常假設理由越充分的決定，越能滿足
+程序保障的要求。附具理由（reason-giving）就成了程序保障的利器。
+但是，我們也知道任何行政行為都要附具理由是不可能的。而且理由寫
+得越長，可能品質越差，變成漫無邊際的作文比賽。真正影響決定的理
+由常常只有幾個核心考量，甚至是無法公開心證的考量，例如為了選舉
+考量、為了照顧地方樁腳。當附具理由變成虛應故事的程序，冠冕堂皇
+的理由寫了一堆，只有加重基層公務員的負擔。相反的，有些行政行為
+雖然在形式上沒有完整的理由，但在政策溝通過程中，行政官員已經將
+理由的內容完整表達給受管制對象瞭解，那是不是已經滿足附具理由的
+要求？例如日本政府常運用的行政指導，決策官員和受管制產業之間已
+經有長期的溝通，對產業有相當的熟悉度，在做成相關管制決策前，通
+常已舉辦多次內部會議或展開非正式溝通，理由的內容未必明載於文件
+上，但可由長期的溝通過程來瞭解。說不定受管制產業藉此獲得的資
+訊，還比單純公文上面的附具理由還豐富。這不禁讓人檢討：形式的完
+整性和是否有充分理由，不見得是同一件事情。如果我們可以從不同國
+家的行政運作來觀察，可以更深入瞭解理由作程的不同行事，更清楚附
+具理由的目的和功能為何。
+    無論是針對溫斯伯里不合理原則、附具理由要求、比例原則或成本
+效益分析，我們可以發現人類行為往往比法律預設的「理性人」來得更
+複雜。藉助行為經濟學或認知心理學的發現，比較行政法可以開發更複
+雜、更貼近人性的議題。
+
+二、內部行政法：以日常行政為田野
+    美國喬治華盛頓大學法學院的比較公法講座教授Francesca Bignami
+曾 經 建 議 ： 研 究 者 可 以 依 照 不 同 層 次 的 課 責 網 絡 （ network of
+accountability）重新架構比較行政法的課題，分別觀察行政官僚和四種
+不同行動者之間構成的課責網絡：民選官員、利益團體、法院、社會大
+眾。她認為，比較行政法的研究不需硬性切割成「政府組織」和「司法
+審查」，而應該聚焦在課責網絡之間交互影響的關係，而法律和行政命
+
+
+  Revesz eds. 2013).
+                                              建構「以人為主體」的比較行政法                         491
+
+
+令在其中支撐了這些課責網絡的運作。Bignami的提議固然讓比較行政法
+的研究者可以脫離僵化的分類架構，進入動態的交互影響，但她背後的
+預設仍舊是以「監督制衡」（check and balance）為主。比較行政法不妨
+進一步，直接將觀察視角拉到公務行政的水平線，不預設立場的去理解
+公務行政的實踐邏輯。暫時離開形式上的「法律」，以具體發生的公務
+運作為觀察對象，應該可以發現許多細緻的次生態圈。
+     美國行政法學者Jerry Mashaw雖然不太做比較行政法的研究，但他
+曾 建 議 行 政 法 學 者 要 注 意 「 內 部 行 政 法 」 （ internal administrative
+law）。因為官僚體系是運作行政法的主要關鍵，不論哪一種政府每天都
+需 要 公 務 體 系 正 常 運 作 ， 才 能 維 繫 下 去 。 他 在 1978 年 針 對 社 會 安 全
+（social security）部門殘障給付做的研究發現，每年上千件的基層聯邦
+法院的判決對那些處分幾乎沒有什麼影響，真正有影響的是聯邦社會安
+全 署 （ Social Security Administration ） 的 政 策 制 定 部 門 。 就 行 政 法 而
+言，國會通過的社會安全法、司法解釋或政府公報內刊載的行政命令，
+對決定給付與否的社會安全人員沒有太大影響，反而是「各州通用殘障
+保險手冊」（Disability Insurance State Manual）是基層官員最倚重的文
+件 30 。Mashaw提 醒 行 政 法 學 者 ， 要 注 意 到 「 看 不 見 的 那 雙 官 僚 的 手 」
+（the invisible hands of bureaucrats）。對他而言，行政體系內部的「行
+政 法 」 ， 或 說 管 理 層 面 的 規 範 ， 才 是 行 政 法 真 正 的 法 源 。 承 繼 Jerry
+Mashaw在耶魯法學院教席的Nicholas Parrilo嘗試定義「內部行政法」的
+規範性質，他認為Mashaw觀點的行政法不只是以裁罰為支撐、被行政官
+員接受的實證性法律（positive law），而是包括「讓行政獲得正當性」
+的各種手段（legitimation of the exercise of administrative power） 31。至
+於行政如何獲得正當性又是一個大哉問，對於Mashaw而言，不是一個純
+粹規範性的問題，而是混合了經驗現象。
+
+
+30
+   Jerry L. Mashaw, Conclusion: The Inside Out Perspective: A First-Person Account, in
+   ADMINISTRATIVE LAW FROM THE INSIDE OUT: ESSAYS ON THEMES IN THE WORK OF JERRY L.
+   MASHAW 501, 504 (Nicholas R. Parrillo ed., 2017).
+31
+   Nicholas R. Parrillo, Introcution: Jerry L. Mashaw’s Creative Tension with the Field of
+   Administrative Law, in ADMINISTRATIVE LAW FROM THE INSIDE OUT: ESSAYS ON THEMES IN
+   THE WORK OF JERRY L. MASHAW 1, 3 (Nicolas R. Parrilo ed., 2017).
+    研之得法：中央研究院法律學研究所成立十週年文集
+492 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+     法律人類學的研究可以讓我們對於「行政運作如何發揮實效」有更
+貼近生活世界的裡解，尤其在官僚的世界裡面，「理性和無法運作
+（dysfunction）經常同時存在」，更是難以單從規範面來理解。Matthew
+Hull對巴基斯坦首都伊斯蘭馬巴德的都市計畫局進行田野研究，發現官
+員透過在文件上註記特別的符號來「規避責任、影響個案、謀取利
+益」，這些符號可能是一般行政法無法「看見」的，而是屬於官僚「狡
+獪的理性」（cunning of reason） 32。行政場域的實踐，在行政法上經常
+無法歸類，甚至被視為「違法」，但這些「看不見的手」才是實際支配
+行政運作的主要來源，比較行政法需要更多貼近現場的觀察和詮釋。
+     當我們潛入行政運作的重層軌跡時，可以發現法律移植帶來的殖民
+性一直持續影響著各地的行政法 33。法律移植理論學者Alan Watson曾認
+為不須顧慮社會、經濟、地理、政治上的差異，繼受國可以完整地繼受
+相關法制。但美國法律史學者Lawrence Friedman則批評「如果法律可以
+從一個國家移植到另一個國家，對於繼受國而言，很難說這樣的法律是
+從人民通念（common consciousness of the people）中出現的。」進一步
+說，這樣的法律就算是經過國會立法，也很難說是人民意志或自我治理
+的充分展現。從溫斯伯里不合理性原則在各個英國前殖民地實施的狀況
+來 看 ， 各 國 的 法 院 都 針 對 這 個 原 則 做 了 或 多 或 少 的 修 改 34 。 法 律 混 融
+（legal syncretism）其實對法律移植的文化反擊，透過在地實踐逐漸改
+變繼受法的面貌，混入在地意識。以色列公法學者Margit Cohn曾以「時
+空型」（chronology）的概念來說明這種混融。她以比例原則為例，英
+國法院還沒有接受比例原則前，辛巴威和加拿大法院都已經採取比例原
+則，並加以改良。這兩國法院採取的比例原則，回過頭來影響了殖民母
+
+
+
+
+32
+   MATTHEW S. HULL, GOVERNMENT OF PAPER: THE MATERIALITY OF BUREAUCRACY IN URBAN
+   PAKISTAN 114-15 (2012).
+33
+   Cheng-Yi Huang, Enacting the “Incomprehensible China”: Modern European
+   Jurisprudence and the Japanese Reconstruction of Qing Political Law, 33 L. & SOC.
+   INQUIRY 955, 955-1001 (2008).
+34
+   See SWATI JHAVERI & MICHAEL RAMSDEN EDS., JUDICIAL REVIEW OF ADMINISTRATIVE
+   ACTION ACROSS THE COMMON LAW WORLD: ORIGINS AND ADAPTATIONS (2021).
+                                              建構「以人為主體」的比較行政法                        493
+
+
+國英國法院的Daly判決（2001） 35 。她認為我們應該把法律繼受當成一
+個連續體，每一次的繼受都是受到過去的影響，也會影響未來的發展，
+並不是獨立事件 36 。在「時空型」的概念下，比較行政法探討一項法律
+原則的移植或改變時，必須結合時間和地點，注意時間上前後發展的交
+互關係。
+
+三、「次級／整體」秩序中的行政法：焦點拉近與拉遠下
+  的制度
+     官僚負責運作制度，但是制度究竟是什麼？制度是政策、法規，還
+是各種無以名狀的機制？Jon Elster曾經定義「制度」就是「做事情的方
+法」（ways of doing things），經由長時間的演進，形成特定的外觀和內
+涵，例如家庭、市場經濟、憲法或轉型正義 37。對Elster來說，制度最重
+要的功能是克服彼此的不信任感，讓不同利益取向的人可以共同做事。
+在這個意義上，行政法作為一個制度是透過特定的規範和實踐來解決政
+府和人民之間、國家和社會之間、企業和公部門的集體行動問題。例如
+美國聯邦環境署制訂的全國空氣品質標準（National Ambien Air Quality
+Standards, NAAQS）就是一種行政法的制度，透過這個標準的公布，企
+業知道應該如何調整產製流程，行政部門也會依據此一標準制定或調整
+相關規範，一般人民或環境團體可以針對這個標準來進行監督，甚至提
+起訴訟。
+     諾貝爾經濟學獎得主Elinor Ostrom借用匈牙利作家Arthur Koestler的
+概念「合攏」（holons）來詮釋制度：任何一個系統本身就是另一個更
+大的系統的一部分，而單一系統底下有個別不同的次系統，制度就是這
+些系統的組合，像是俄羅斯娃娃般一層包覆一層 38 。這種關聯性分析讓
+
+
+
+35
+   See R. (Daly) v. Secretary of State for the Home Department, 2 A.C. 532 (H.L. 2001).
+36
+   Margit Cohn, Legal Transplant Chronicles: The Evolution of Unreasonableness and
+   Proportionality Review of the Administration in the United Kingdom, 58 AM. J. COMP. L.
+   583, 628 (2010).
+37
+   JON ELSTER, EXPLAINING SOCIAL BEHAVIOR: MORE NUTS AND BOLTS FOR THE SOCIAL
+   SCIENCES 427-28 (2007).
+38
+   ELINOR OSTROM, UNDERSTANDING INSTITUTIONAL DIVERSITY 11 (2005).
+    研之得法：中央研究院法律學研究所成立十週年文集
+494 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+行政法變成一層又一層的系統相連，例如前述的全國空氣品質標準
+（NAAQS）本身就是一個小系統，它被統攝在潔淨空氣法（Clean Air
+Act）的大系統裡面，而「潔淨空氣法」本身又是美國環境管制的一部
+分，美國環境管制本身是當代管制國家的重要組成，管制國家則被統攝
+在權力分立體制底下，權力分立體制構成美國憲法的一部分，美國憲法
+則是美國民主的一環。
+   這種層層遞進的「次級／整體」（sub/whole）關係很容易和授權鍊
+（chain of delegation）混淆，有些人可能會認為美國憲法授權國會通過
+潔淨空氣法，該法授權環保署（Environmental Protection Agency）制定
+「全國空氣品質標準」，近似上述系統鍊的概念。但是單向度的授權
+鏈，把系統彼此之間的互動抹除掉了。在「合攏」的概念下，次系統可
+能會影響到上位系統，上位系統和其他系統之間也可能有不同互動。我
+們要分析的不只是單純的授權關係，而是將複雜的系統切為層層遞進的
+「次級／整體」關係，在不同的層級、不同的環境設定下，「次級／整
+體」如何構成一個生態系。在每個生態系底下，參與者（participants）
+針對特定的行動情境（action situation）做出回應，不同的行動者在不同
+層級依照不同的規則去回應特定的行動情境，創造了複雜的互動關係，
+這些互動又反過頭來又會影響行動者和改變行動情境。Ostrom為此創造
+一個新的分析概念「行動場」（action arena），用以形容參與者和行動
+情境共同構成的舞台。她認為研究者要將重點放在「行動場」，因為它
+是 規則、外在環境和整體結構共同作用下的應變項。如果以行政法來比
+擬，行動規則是不同層級的法律或命令， 外在環境則是政策產生的客觀
+條件， 整體結構是憲政框架。行動者（政策制定官僚、立法者、法官、
+一般民眾）針對特定行動情境做出的反應可能在不同層級影響彼此。隨
+著「拉近焦距」（zoom-in）或「拉遠焦距」（zoom-out），我們可以看
+到不同層級的生態系底下的變化。
+   新制度論強調制度不是只有規則，而是要將經驗現象納入規則運作
+的觀察。Peter Cane在C ONTROLLING ADMINISTRATIVE POWER 一書中，將
+行 政 執 行 權 的 控 制 區 分 成 兩 種 模 式 ： 課 責 （ accountability ） 和 制 衡
+（check and balance），這兩種模式都會影響官員和政府部門的關係，而
+                                             建構「以人為主體」的比較行政法                        495
+
+
+這些關係又是鑲嵌在更深層的政府體制裡面 39 。換言之，宏觀的政府體
+制會影響到個別官員的決策行為。比較行政法不能只注意到規則的內
+容，而必須觀察到長時間的官員、規則和憲政結構的互動關係。分析對
+象亦不限於民主體制，威權、獨裁、王權、神權等統治型態都可能是觀
+察對象，不需預設特定政府體制為背景。
+     各種制度當中， 政黨 就像蝙蝠一樣，在公法領域被當成社團法人，
+在私法領域被當成政治性組織。然而，隨著民主制度的發展，政黨已然
+變成最重要的政治樞紐。正如Tom Gerald Daly和Brian Christopher Jones
+所言，「政黨在許多國家已經從理性的政策平台、選舉競爭機制，變形
+為國家認同、敘事、激情的圖騰」 40 。防衛性民主理論建議以自由民主
+憲政秩序的保存為優先，進行違憲政黨審查及解散，但是法院的介入會
+不會取代了政治過程中人民意志的辯論和自由競爭？評斷政黨勝負的最
+終場域仍在於人民的政治取向，憲法法院解散了政黨之後，政治狂潮是
+否會因此平息，也在未定之天。或許除了憲法層次的把關外，可以發展
+行政法的政黨管制模式（regulative model of political party），依各國的
+社會、政治、經濟脈絡，對於政黨黨員身分、政黨組織門檻、政黨財務
+規則和政黨宣傳方式進行行政法上的微觀調控，促進民主政治的活潑
+化。行政法模式的政黨管制可以正當程序為核心，對政黨的組織和政治
+參與依照基本的法治原則如「兩造兼聽」（audi alteram partem）或「公
+正聽審」（nemo judex in causa sua），或公司法上的「揭穿公司面紗」
+原則，促使政黨決策和管理更為透明化 41 。行政法模式的優點在於運用
+程序控制，一方面保留政黨內部運作的需要（不透明有時是為了讓政治
+妥協更容易出現），另一方面維持民主競爭規則的公平性。具體實踐
+上，可以看到各國政黨所面對的政治文化脈絡。
+
+
+39
+   See PETER CANE, CONTROLLING ADMINISTRATIVE POWER: AN HISTORICAL COMPARISON
+   (2016).
+40
+   Tom Gerald Daly & Brian Christopher Jones, Parties versus Democracy: Addressing
+   Today’s Political-party Threats to Democratic Rule, 18 INT’L J. CONST. L. 509, 509-38
+   (2020).
+41
+   關於政黨的不透明造成的憲政侵蝕，請參見Cheng-Yi Huang, Unenumerated Power and
+   the Rise of Executive Primacy, 28 WASH. INT’L L.J. 395, 395-428 (2019).
+    研之得法：中央研究院法律學研究所成立十週年文集
+496 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+四、人工智慧的挑戰：比較行政法和認知多元
+      最後，本章將觸角延伸到「人工智慧」（artificial intelligence）的討
+論。與一般討論「人工智慧」是否可以取代人類理性不同，本章認為
+「人工智慧」的黑箱運算（black box algorithm）雖然難以進行因果關係
+或蓋然率推估的類比推演，但透過大數據的匯流，人工智慧的「認知多
+元」（cognitive diversity）將比一般的行政決策者更加豐富。從認識性
+民主（epistemic democracy）的角度來說，其所獲得的分析結果也將更
+為正確。
+      但人工智慧如何容納更多資料（data inclusiveness）？在資料蒐集和
+運用上，會不會和個人隱私保障產生衝突？在在均為無可避免的挑戰。而
+人工智慧運算的程式設計，如何就客觀功能（objective functions）和參數
+進行設定，亦將影響最後出現的結果。未來比較行政法可以針對特定國家
+的人工智慧運算法如何設定，排除了何種資料，進行數據分析，進而探究
+各國在公務行政上運用人工智慧所呈現出來的「認知多元性」。
+
+五、「以人為主體」的比較行政法
+      總結來說，〈視域擴展〉這章先從認知心理學和行為經濟學的角度
+檢討行政法上對於理性的預設，接著將視角轉移到行政官員的辦公桌
+上，以公務運作中的行政文化為觀察對象，進而帶入法律殖民性的層
+面，展開比較行政法的多重視域。行政法作為一種制度，本章建議可從
+不同層次觀察行動者和行動情境的互動關係，並且納入政黨為觀察對
+象。最後則是演算法社會所面臨的政策AI化，大量蒐集了各種數據，增
+加認知多元性。這些討論圍繞的中心就是人類行為。
+      本章認為行政法以政府運作為規範對象，但必須瞭解到無論是政策
+制訂、司法裁判或產業活動，都離不開人類行為。人類行為如何形成制
+度，如何以政治組織來解決集體行動問題，這是「憲法—行政法」的起
+源，也是比較公法的起點 42 。比較行政法的研究必須以「人類主體性」
+
+
+42
+     Peter L. Lindseth從制度演化論（evolutionary theory）和國家形成（state formation）的
+     角度，嘗試進行更深入的討論。請參見Peter L. Lindseth, Evolutionary Public Law:
+     Constituting and Administering Human Ultra-Sociality, in OHCAL 1027 (Peter Cane et al.
+                                      建構「以人為主體」的比較行政法               497
+
+
+（ human subjectivity） 為 核 心 ， 無 論 研 究 方 法 的 翻 新 或 研 究 課 題 的 突
+破，都離不開「人類主體性」的關懷，以人為尺度，把焦點從法規範的
+形式移轉到人類行為所造成的制度變遷、脈絡影響，建構「以人為主
+體」的比較行政法 43。
+
+
+伍、中央研究院法律學研究所與比較行政法的發展
+      筆者在2009年底加入法律所籌備處，隨即銜命承辦次年的「行政管
+制與行政爭訟」研討會。越一年，法律所於在2011年正式成立。當時即
+向首任所長湯德宗博士提議，透過長期規劃，讓本所成為「比較行政
+法」在亞洲的重要據點。在林子儀前所長的大力支持下，從2012年起，
+一連三年，舉辦大型國際學術活動。2012年和2013年舉辦了第一屆和第
+二 屆 「 亞 洲 比 較 行 政 法 」 工 作 坊 （ Comparative Administrative Law in
+Asia, CALA），邀請亞洲主要國家的青壯學者，一同探索在亞洲進行比
+較 行 政 法 的 潛 力 議 題 （ 管 制 不 確 定 、 比 例 原 則 ） 。 2014 年 承 辦
+Administrative Law Discussion Forum，是該會議第一次移師歐美以外的
+國家舉行，各國重要的行政法學者紛紛蒞臨本所與會。該次會議亦邀請
+了時任香港大學法學院院長的陳文敏（Johannes Chan）教授、北京大學
+法學院副院長沈巋教授、神戶大學角松生史教授、韓國首爾大學許盛旭
+教授、臺大法律學院葉俊榮教授和張文貞教授參與，提高該會議的亞洲
+學者能見度。2018年針對民粹主義下的行政權獨大召開進階工作坊，邀
+請波蘭、南非、匈牙利、巴西、日本、美國等國公法學者發表論文。歷
+年 活 動 累 計 20 國 65 位 學 者 參 與 ， 其 中 包 括 主 題 演 說 人 Susan Rose-
+Ackerman 、 Orly Lobel （ 以 上 第 一 屆 亞 洲 比 較 行 政 法 工 作 坊 ） 、 Paul
+
+
+     eds., 2021).
+43
+     Susan Rose-Ackerman在最後一章總結OHCAL的各篇內容，認為有五大主題交互關
+     聯：正當程序、行政機關訴願的程序權保障；憲法架構和行政法之間的互動；
+     普通法和市民法傳統底下的公私法關聯；專業性和公眾參與的平衡；文官體系提
+     供的有效行政。她提醒比較行政法學者在研究時，切莫忘記不同憲政體制對行政法制
+     度的影響。相信比較行政法學者就這些議題可以展現更豐沛的研究能量，進行更有意
+     義的比較研究。請參見Susan Rose-Ackerman, Administrative Law and Democracy, in
+     OHCAL 1075 (Peter Cane et al. eds., 2021).
+    研之得法：中央研究院法律學研究所成立十週年文集
+498 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+Craig、Wojciech Sadurski（以上第二屆亞洲比較行政法工作坊）、Peter
+Strauss（2014 Administrative Law Discussion Forum）和Peter Cane（2018
+Advanced Workshop）等公法重量級學者 44。會議成果分別發表於〈中研
+院 法 學 期 刊 〉 第 19 期 、 第 21 期 及 第 22 期 的 Comparative Administrative
+Law in Asia（「 亞洲 比 較行 政法 」 ）專 題 45 、Washington International
+Law Journal46，以及出版專書COMPARATIVE PERSPECTIVES ON ADMINISTRATIVE
+PROCEDURE47。
+     當耶魯法學院於2016年春天召開第二次的比較行政法會議時，有一
+位曾經參與本所「亞洲比較行政法」工作坊的學者私下跟筆者說：「你
+們應該感到很高興，因為這次出現的許多新面孔，都是過去幾年曾經參
+與中研院會議的學者。」的確如此，在本所組群計畫經費的資助下，有
+幸可以伴隨著「比較行政法」計畫在中研院、在亞洲紮下基礎，漸次發
+展。個人在這十年間也逐步開拓眼界，先後應邀於三本奠基性研究專書
+撰寫論文。雖然比較行政法尚未如比較憲法一般廣受矚目，但以其所涉
+議題之廣袤與深邃，未來有很大的發展空間。十年旅途，雖然稱不上披
+荊斬棘，但心境上略近「衣沾不足惜，但使願無違」。未來本所可以在
+此基礎上，培養新進學術人才，一棒接一棒，讓比較行政法在臺灣、在
+亞洲、在世界上開花結果，啟發新的法學想像。
+
+44
+   出席學者分別來自日本、韓國、蒙古、中國、香港、泰國、新加坡、印度、澳洲、美
+   國、德國、加拿大、盧森堡、英國、巴西、南非、匈牙利、波蘭、荷蘭、以色列、智
+   利。筆者猶記得2012年舉辦第一屆亞洲比較行政法青年學者工作坊時，邀請Susan
+   Rose-Ackerman教授來臺擔任主題演說人，會後筆者問她為何願意耗費時間和精力遠
+   渡重洋，來到臺灣參加這個會議。她很簡單俐落地回答：“Because I want to help.”
+45
+   經《中研院法學期刊》審查通過刊登的論文計有五篇，作者為金自寧（中國）、角松
+   生 史 （ 日 本 ） 、 Enkhbaatar Chimid （ 蒙 古 ） 、 Khemthong Tonsakulrungruang （ 泰
+   國）、林春元（臺灣）。
+46
+   該刊主編Kiri Yoshimura在前言提到 “Volume 28, Issue 2 is a special issue publishing the
+   academic works that came out of the Advanced Workshop on the Resurgence of Executive
+   Primacy in the Age of Populism, held at the Institutum Iurisprudentiae of the Academia
+   Sinica in Taipei, Taiwan on June 21 and 22, 2018.” Kiri Yoshimura, Foreword, 28 WASH.
+   INT’L L.J., at vii, vii (2019).
+47
+   See RUSSELL L. WEAVER, HERWIG C. H. HOFMANN, CHENG-YI HUANG & STEVEN I.
+   FRIEDLAND EDS., COMPARATIVE PERSPECTIVES ON ADMINISTRATIVE PROCEDURE, THE
+   GLOBAL PAPERS SERIES, VOLUME III (2017).
+                                        建構「以人為主體」的比較行政法                   499
+
+
+
+                                參考文獻
+一、中文部分
+李建良（2016），臺灣行政契約法的路徑依賴？—比較行政法方法論的
+    局部反思，收於：李建良編，2012行政管制與行政爭訟—行政契約
+    之發展現況與前景，頁1-61，臺北：中央研究院法律學研究所。
+林春元（2017），氣候變遷全球行政法的演變、形貌與影響，臺北：臺大
+    出版中心。
+
+二、外文部分
+Bignami, Francesca. 2016. Introduction. A New Field: Comparative Law and
+    Regulation. Pp. 1-54 in Comparative Law and Regulation: Understanding
+    the Global Regulatory Process, edited by Francesca Bignami and David
+    Zaring. Cheltenham: Edward Elgar.
+Bignami, Francesca, and David Zaring, eds. 2016. Comparative Law and
+    Regulation: Understanding the Global Regulatory Process. Cheltenham:
+    Edward Elgar.
+Cane, Peter. 2016. Controlling Administrative Power: An Historical Comparison.
+    Cambridge: Cambridge University Press.
+Cassese, Sabino. 2016. Research Handbook on Global Administrative Law.
+    Cheltenham: Edward Elgar.
+Chiti, Edoardo. 2021. Negotiating Language Barriers. Pp. 153-174 in The Oxford
+    Handbook of Comparative Administrative Law, edited by Peter Cane,
+    Herwig C. H. Hofmann, Eric C. Ip, and Peter L. Lindseth. Oxford: Oxford
+    University Press.
+Cohn, Margit. 2010. Legal Transplant Chronicles: The Evolution of Unreasona-
+    bleness and Proportionality Review of the Administration in the United
+    Kingdom. The American Journal of Comparative Law 58:583-629.
+    研之得法：中央研究院法律學研究所成立十週年文集
+500 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+Daly, Tom Gerald, and Brian Christopher Jones. 2020. Parties versus Democracy:
+     Addressing Today’s Political-party Threats to Democratic Rule. International
+     Journal of Constitutional Law 18:509-538.
+Davis, Kevin E., Angelina Fisher, Benedict Kingsbury, and Sally Engle Merry.
+     2015. Governance by Indicators: Global Power Through Quantification and
+     Rankings. Oxford: Oxford University Press.
+Dotan, Yoav. 2021. The Common Real-Life Reference Point Methodology Or:
+     ‘The Mcdonald’s Index’ for Comparative Administrative Law and Regulation.
+     Pp. 991-1008 in The Oxford Handbook of Comparative Administrative Law,
+     edited by Peter Cane, Herwig C. H. Hofmann, Eric C. Ip, and Peter L.
+     Lindseth. Oxford: Oxford University Press.
+Elster, Jon. 2007. Explaining Social Behavior: More Nuts and Bolts for the Social
+     Sciences. Cambridge: Cambridge University Press.
+Frank, Robert. 2001. Why Is Cost-Benefit Analysis so Controversial?. Pp. 77-94
+     in Cost-Benefit Analysis: Legal, Economic, and Philosophical Perspectives,
+     edited by Mathew Adler and Eric Posner. Chicago, IL: University of
+     Chicago Press.
+von Gneist, Rudolf (1857), Das heutige englische Verfassungs- und Verwaltungs-
+     recht, Berlin: Springer.
+Hirschl, Ran. 2014. Comparative Matters: The Renaissance of Comparative
+     Constitutional Law. Oxford: Oxford University Press.
+Hofmann, Herwig C. H. 2021. Imagining Theoretical Frameworks. Pp. 1009-1026
+     in Oxford Handbook of Comparative Administrative Law, edited by Peter
+     Cane, Herwig C. H. Hofmann, Eric C. Ip, and Peter L. Lindseth. Oxford:
+     Oxford University Press.
+Huang, Cheng-Yi. 2008. Enacting the “Incomprehensible China”: Modern
+     European Jurisprudence and the Japanese Reconstruction of Qing Political
+     Law. Law and Social Inquiry 33:955-1001.
+─── . 2019. Unenumerated Power and the Rise of Executive Primacy.
+     Washington International Law Journal 28:395-430.
+                                          建構「以人為主體」的比較行政法                   501
+
+
+Hull, Matthew S. 2012. Government of Paper: The Materiality of Bureaucracy in
+     Urban Pakistan. Berkeley, CA: University of California Press.
+Jhaveri, Swati, and Michael Ramsden, eds. 2020. Judicial Review Across the
+     Common Law World: Origins and Adaptations. Cambridge: Cambridge
+     University Press.
+Kingsbury, Benedict, Nico Krisch, and Richard B. Stewart. 2005. The Emergence
+     of Global Administrative Law. Law and Contemporary Problems 68:15-61.
+Lindseth, Peter L. 2021. Evolutionary Public Law: Constituting and Administering
+     Human Ultra-Sociality. Pp. 1027-1052 in Oxford Handbook of Comparative
+     Administrative Law, edited by Peter Cane, Herwig C. H. Hofmann, Eric C.
+     Ip, and Peter L. Lindseth. Oxford: Oxford University Press.
+Mashaw, Jerry L. 2017. Conclusion: The Inside Out Perspective: A First-Person
+     Account. Pp. 501-520 in Administrative Law from the Inside Out: Essays on
+     Themes in the Work of Jerry L. Mashaw, edited by Nicholas R. Parrillo.
+     Cambridge: Cambridge University Press.
+Mayer, Otto (1886), Theorie des französischen Verwaltungsrechts, Strassburg:
+     Karl J. Trübner.
+Merry, Sally Engle, Kevin E. Davis, and Benedict Kingsbury, eds. 2015. The
+     Quiet Power of Indicators: Measuring Governance, Corruption, and Rule of
+     Law. Cambridge: Cambridge University Press.
+Napolitano, Giulio. 2017. The Transformations of Comparative Administrative
+     Law. Rivista Trimestrale di Diritto Pubblico 67:997-1033.
+───. 2021. The Rule of Law. Pp. 421-442 in Oxford Handbook of Comparative
+     Administrative Law, edited by Peter Cane, Herwig C. H. Hofmann, Eric C.
+     Ip, and Peter L. Lindseth. Oxford: Oxford University Press.
+Ostrom, Elinor. 2005. Understanding Institutional Diversity. Princeton, NJ:
+     Princeton University Press.
+Parrillo, Nicholas R. 2017. Introcution: Jerry L. Mashaw’s Creative Tension with
+     the Field of Administrative Law. Pp. 1-36 in Administrative Law from the
+     Inside Out: Essays on Themes in the Work of Jerry L. Mashaw, edited by
+    研之得法：中央研究院法律學研究所成立十週年文集
+502 THE WAY TO LAW: IIAS’S 10TH ANNIVERSARY
+
+
+    Nicholas R. Parrillo. Cambridge: Cambridge University Press.
+Rose-Ackerman, Susan, and Peter L. Lindseth, eds. 2010. Comparative
+    Administrative Law. Cheltenham: Edward Elgar.
+Rose-Ackerman, Susan, Peter L. Lindseth, and Blake Emerson, eds. 2017.
+    Comparative Administrative Law. 2d ed. Cheltenham: Edward Elgar.
+Rose-Ackerman, Susan. 2021. Administrative Law and Democracy. Pp. 1075-
+    1092 in The Oxford Handbook of Comparative Administrative Law, edited
+    by Peter Cane, Herwig C. H. Hofmann, Eric C. Ip, and Peter L. Lindseth.
+    Oxford: Oxford University Press.
+Sordi, Bernardo. 2010. Révolution, Rechtsstaat and the Rule of Law: Historical
+    Reflections on the Emergence of Administrative Law in Europe. Pp. 23-36
+    in Comparative Administrative Law, edited by Susan Rose-Ackerman and
+    Peter L. Lindseth. Cheltenham: Edward Elgar.
+Weaver, Russell L., Herwig C. H. Hofmann, Cheng-Yi Huang, and Steven I.
+    Friedland, eds. 2017. Comparative Perspectives on Administrative Procedure,
+    The Global Papers Series, Volume III. Durham, NC: Carolina Academic
+    Press.
+Yeh, Jiunn-Rong. 2013. Changing Faces of Cost-Benefit Analysis: Alternative
+    Institutional Settings and Varied Social and Political Contexts. Pp. 87-103 in
+    The Globalization of Cost-Benefit Analysis in Environmental Policy, edited
+    by Michael A. Livermore and Richard L. Revesz. Oxford: Oxford University
+    Press.
+Yoshimura, Kiri. 2019. Foreword. Washington International Law Journal 28:
+    vii-viii.
+

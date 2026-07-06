@@ -1,0 +1,3133 @@
+ 研究論文
+《中研院法學期刊》2019 特刊 2                                       53
+ 頁 53-137（2019 年 12 月）
+
+
+                                                   ＊
+      相當因果關係與社會科學方法論
+            — 由韋伯以及賴德布魯赫談起
+
+                         顏厥安＊＊
+
+
+                         摘 要
+  吳庚教授在其《韋伯的政治理論及其哲學基礎》中提及了韋伯
+對客觀可能性以及相當因果關係論的運用。而韋伯這方面的研究特
+別提到了賴德布魯赫的貢獻。本文是對此一理論發展的思想史探
+索。本文指出，馮‧克里斯的理論凸顯提醒了機遇原因的意義與重
+要性，並嘗試以理性化的方式提供我們一種處理機遇性的方案，而
+這個方案的重點，在於如何將其連結於人們的知識與決定。賴德布
+魯赫在其博士論文中分析指出，客觀可能性為客觀可預見性的前
+提，對後者之判斷，必須以最大可能範圍的法則知識，以及最大可
+能範圍的存有論知識共同作為基礎。韋伯認為，歷史學的因果關係
+問題並非關於科學定律之運用，而是關於如何將個別事件追溯到具
+體原因。韋伯根據馮‧克里斯和包括賴德布魯赫在內的幾位法律學
+者的著作，將真正對歷史產生影響的所有因素歸類為充分的和偶然
+的原因，並由此發展了歷史因果分析的概念。
+
+關鍵詞：韋伯、馮‧克里斯、賴德布魯赫、社會科學方法論、歷史
+    因果、相當因果關係、客觀可能性、機遇原因、客觀可預
+    見性、科學法則。
+
+
+＊  投稿日：2019年5月5日；接受刊登日：2019年10月2日。［責任校對：鄭雅
+   文］
+    。
+＊＊ 國立臺灣大學法律學院教授兼人權與法理學研究中心主任。
+   穩定網址：http://publication.iias.sinica.edu.tw/20912191.pdf。
+54                               《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+                                     目 次
+
+    壹、序論                                   伍、賴氏對相當因果關係的討論
+    貳、法學界的見解簡述                              一、一般定位
+     一、德國的實務見解                              二、賴氏對於主要相當因果論
+     二、國內的主要實務判決                              的檢討：客觀可預見性
+     三、學界的研究成果簡述                            三、法則化的因果知識
+     四、綜合討論                                陸、韋伯的相當因果論
+    參、相當因果關係的理論發展：                          一、一般性說明
+      先於von Kries的發展軌跡                      二、基本表述
+     一、Julius Anton Glaser                  三、歷史學與法學
+     二、von Buri的理論                          四、認知興趣的問題
+     三、von Bar對Mill條件分析的                    五、如何形成可能性判斷？
+        引用                                  六、韋伯對原因之分類
+    肆、von Kries的理論                         柒、結論
+
+
+
+
+       Of all truths relating to phenomena, the most valuable to us are
+those which relate to the order of their succession. On a knowledge of
+these is founded every reasonable anticipation of future facts, and
+whatever power we possess of influencing ‘those facts’ to our
+            1
+advantage .
+
+                                            ⎯ J.S. Mill, A System of Logic ⎯
+
+
+
+
+1    JOHN STUART MILL, THE COLLECTED WORKS OF JOHN STUART MILL, VOL. 7—A
+     SYSTEM OF LOGIC, RATIOCINATIVE AND INDUCTIVE: BEING A CONNECTED VIEW OF THE
+     PRINCIPLES OF EVIDENCE AND THE METHODS OF SCIENTIFIC INVESTIGATION 324 (John
+     M. Robson ed., University of Toronto Press, 1974) (1843).
+相當因果關係與社會科學方法論                                             55
+
+
+壹、序論
+
+     吳庚教授的大作《韋伯的政治理論及其哲學基礎》一書2，是
+國內研究韋伯（Max Weber）政治思想的領先著作。在這本重要的
+著作當中，吳庚也有一個專章當中的三個小節在討論韋伯的社會科
+學方法論3，其中包括了對韋伯「理念類型」、「領悟」等重要概念
+的說明，討論了對韋伯社會科學方法論的應用及評價，並闡述了韋
+伯的歷史觀。
+
+     在對韋伯的歷史觀研究裡，吳庚也特別檢討討論了「歷史因果
+論」
+ 。吳庚指出，
+
+    韋伯的各種著作之中，隨處都散布著一種歷史的因果論，
+    而成為韋伯理論體系中重要的一環。專門討論這個問題，
+    則見諸1903年他所發表的論文：
+                   〈歷史因果論中的客觀可能
+    性及相當誘因〉
+          。韋伯的歷史因果理論，最簡單的說明，就
+    是對歷史事件發生的原因，不能在所謂歷史過程的定律中
+    去尋找。因為韋伯的一貫立場是，反對歷史和社會科學
+    中，有所謂定律的可循。例無定律可循，則歷史研究的目
+    的，無非要把要研究的個別事件，置於出現這次事件的歷
+    史的景況（Konstellation）中，而對於引起這個事件的條件
+                     ，以確定研究的方向4。
+    和後果，作某種選擇（Auswahl）
+
+     吳庚這段對韋伯歷史或社會科學因果關係理論的簡要說明，相
+當精簡明確，確實也談到了基本重點。提到的1903年的文章，〈歷
+史因果論中的客觀可能性及相當誘因〉，依照吳庚的引註，是這篇
+文 章 ： „Objektive Möglichkeit und adäquate Verursachung in der
+
+
+2   吳庚，韋伯的政治理論及其哲學基礎（1993年）
+                          。
+3   吳庚（註2）
+         ，頁14-44。
+4   吳庚（註2）
+         ，頁39。
+56                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+                                     5
+historischen Kausalbetrachtung“ 。這部份有點失誤，因為這篇是一
+篇更大的文章：〈在「文化科學的邏輯」這個領域的一些批判性的
+研究〉（以下簡稱〈文化科學〉） 6 的第二部分，而且這篇文章是
+1906年發表的。
+
+     不過即使如此，
+           〈文化科學〉這篇文章，或者更特定地說，
+                             〈客
+觀可能性〉這個部分，確實是韋伯討論社會科學方法論的重點論
+述，尤其是針對那個關鍵概念，「適當的起因造成」（adäquate
+Verursachung）。在法學界，這個概念通常翻譯為「相當因果關
+係」
+ ，也正如韋伯說的，
+
+     此處所涉及的那個所謂的「客觀的可能性」（objektive
+     Möglichkeit）的理論，乃是立基於傑出的生理學家克里斯
+     （v. Kries）的種種研究以及此一概念在那些首先是刑法
+     學， 其次則是 其他法學 方面的作 家─特別是梅 克爾
+     （Merkel）、呂梅林（Rümelin）、利普曼（Liepmann）以及
+     新進的賴特布魯赫（Radbruch）─的那些承接克里斯或
+
+
+
+5 Max Weber, Objektive Möglichkeit und adäquate Verursachung in der historischen
+  Kausalbetrachtung (1906), in: Gesammelte Aufsätze zur Wissenschaftslehre (1922),
+  S. 266 (266-290) [im folgenden: WL]. 德文引用，Max Weber, Max Weber:
+  Gesammelte Werke. Electronic Edition, online verfügbar unter http://pm.nlx.com/
+  xtf/view?docId=weber/weber.00.xml;chunk.id=div.weber.pmpreface.1;toc.depth=2;to
+  c.id=div.weber.pmpreface.1;hit.rank=0;brand=default.
+6 Max Weber, Kritische Studien auf dem Gebiet der kulturwissenschaftlichen Logik
+  (1906), in: Marianne Weber (Hrsg.), Max Weber: Gesammelte Werke. Electronic
+  Edition. Theoretische Schriften zur Soziologie, 1922, S. 215 (215-290), online
+  verfügbar unter http://pm.nlx.com/xtf/view?docId=weber/weber.06.xml;chunk.id=div.
+  weber.wl.20;toc.depth=1;toc.id=div.weber.wl.20;brand=default. 本文對於韋伯社會
+  科學方法論方面的文章及其之中譯，原則上皆以張旺山教授的翻譯文集為準，
+  部份翻譯會加以調整或重譯。請參考Max Weber著，張旺山譯，韋伯方法論文
+  集（2013年）。本部分張旺山翻譯為〈II. 歷史的因果考察中的「客觀的可能
+  性」與「適當的起因造成」〉                  （以下簡稱〈客觀可能性〉）             。此處也要表達對張旺
+  山教授的感謝與敬意，如果沒有張教授極為費心地翻譯出韋伯艱澀的方法論著
+  作，我是沒有能力進行本論文相關的研究。
+相當因果關係與社會科學方法論                                                                   57
+
+
+     對他進行批判的著作中常見的運用7。
+
+      相當因果關係，是法學當中的重要概念。至少在臺灣的中文文
+獻裡，法學界的運用遠比社會科學或史學來的多，每一個學法律的
+學生都知道這個概念，但是其他人社領域則不然。韋伯提到的「新
+進的賴特布魯赫」，就是後來成為德語世界20世紀最重要法哲學家
+的賴德布魯赫（Gustav Radbruch），當時不過是剛拿到博士學位的
+年輕學者。韋伯引用的文章，就是他的博士論文8。韋伯在註腳當
+中稱讚，「到目前為止，對於將克里斯的理論用於種種法學問題之
+運用所進行的最深刻的批判，是由賴特布魯赫所做出來的。」
+
+      本文無法對韋伯的方法論，對賴德布魯赫的法學方法論，或者
+甚至也無法對法學的相當因果關係，做深入全面的探討。這些都是
+相當龐大複雜的議題。本文僅能以韋伯對賴氏的引用為基礎，透過
+對賴氏論文以及相關材料的初步研討，對涉及的問題做一些討論釐
+清，希望能對社會科學方法論以及法學的相關因果關係理論，做出
+一點貢獻。
+
+
+
+貳、法學界的見解簡述
+
+一、德國的實務見解
+
+      臺灣法學界一般很重視德國學界與實務界的看法，因為本文並
+非主要以法學內部對相當因果關係之討論為研究主題，因此僅先引
+用一個相當晚近的德國聯邦最高法院之判決主文，藉以非常初步的
+
+
+
+7   Max Weber著，張旺山譯（註6）           ，頁301-302。
+8   Gustav Radbruch, Die Lehre von der adäquaten Verursachung (1902), in: Kaufmann
+    (Hrsg.), Gustav Radbruch Gesamtausgabe, Bd. 7, Strafrecht I, bearb. von Frommel,
+    1995, S. 7 (7-74).
+58                                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+呈現，德國方面並未放棄使用相當因果關係，以及以如何的表述方
+式來陳述這個原則。這個判決9指出，
+
+     在私法的意外保險中，只要無法完全排除，該意外事故對
+     於所發生之（健康）功能減損有所參與作用之或然性，即
+     足以肯定該意外事故與健康受損之間的相當因果脈絡。與
+     在社會保險法領域不同，此處並不要求事故對損害之發生
+     有實質的或確立方向的作用。因此原本即存在著損害，這
+     個狀態本身，並不排除因果關係。
+
+     不過這個判決，是先引用了條件論/等價論做先行的判斷，再
+綜合了相當因果論來進行分析論述：
+
+     依照等價理論，亦即在必要條件意義下，當我們不能想像
+     若意外未發生，仍舊不會不發生健康的損害，此時意外事
+     故與健康損害之間所需的因果脈絡即告確立。
+
+     ……
+
+     除此之外還要通過相當性理論檢驗，亦即事故的發生是一
+     般性地可（適於）導致產生系爭狀態的結果，而不僅僅是
+     由非常獨特的、或然率不高的，依照常態事物發展狀態可
+     不予考慮的事態，導致了該結果之發生10。
+
+
+9  BGH, Urteil vom 19. Oktober 2016 - IV ZR 521/14. „In der privaten
+   Unfallversicherung genügt es für einen adäquaten Kausalzusammenhang zwischen
+   Unfallereignis und Gesundheits-beeinträchtigung, dass das Unfallereignis an der
+   eingetretenen Funktionsbeeinträchtigung mitgewirkt hat, wenn diese Mitwirkung
+   nicht gänzlich außerhalb aller Wahrscheinlichkeit liegt. Eine wesentliche oder
+   richtungsgebende Mitwirkung ist anders als im Sozialversicherungsrecht nicht zu
+   verlangen. Daher schließt das Vorhandensein von Vorschäden für sich genommen die
+   Kausalität nicht aus.“
+10 BGH, Urteil vom 19. Oktober 2016 - IV ZR 521/14, para. 14-15. „Der erforderliche
+   Kausalzusammenhang zwischen Unfallereignis und Gesundheitsbeeinträchtingung
+   besteht nach der Äquivalenztheorie, wenn der Unfall im Sinne einer conditio sine qua
+相當因果關係與社會科學方法論                                                                   59
+
+
+二、國內的主要實務判決
+
+   國內實務界的相關判決，此處先引用兩個判決的資料。一個是
+最高法院76年台上字第192號刑事判例：
+
+  刑法上之過失，其過失行為與結果間，在客觀上有相當因
+  果關係始得成立。所謂相當因果關係，係指依經驗法則，
+  綜合行為當時所存在之一切事實，為客觀之事後審查，認
+  為在一般情形下，有此環境、有此行為之同一條件，均可
+  發生同一之結果者，則該條件即為發生結果之相當條件，
+  行為與結果即有相當之因果關係。反之，若在一般情形
+  下，有此同一條件存在，而依客觀之審查，認為不必皆發
+  生此結果者，則該條件與結果不相當，不過為偶然之事實
+  而已，其行為與結果間即無相當因果關係。
+
+   另外一個是最高法院101年度台上字第443號民事判決：
+
+  侵權行為之債，固以有侵權行為及損害發生，並二者間有
+  相當因果關係為其成立要件（即責任成立之相當因果關
+  係）
+   。惟必先肯定條件關係後，再判斷該條件之相當性，始
+  得謂有相當因果關係，該相當性之審認，必以行為人之行
+  為所造成之客觀存在事實，為觀察基礎，並就此客觀存在
+  事實，依吾人智識經驗判斷，通常均有發生同樣損害結果
+  之可能者，始足稱之；故侵權行為與損害發生間，僅止於
+  條件關係或事實上因果關係，而不具相當性，仍難謂該行
+  為有責任成立之相當因果關係，或為被害人所生損害之共
+  同原因。
+
+
+ non nicht hinweggedacht werden kann, ohne dass der Gesundheitsschaden entfielt. ...
+ Weiterhin muss nach der Adäquanztheorie das Ereignis im Allgemeinen und nicht nur
+ unter besonders eigenartigen, ganz unwahrscheinlichen und nach dem regalmäßigen
+ Verlauf der Dinge außer Betracht zu lassenden Umständen zur Herbeiführung eines
+ Erfolges der eingetretenen Art geeignet sein.“
+60                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+     在較為晚近的最高法院108年度台上字第424號刑事判決中，仍
+提到了：「所謂相當因果關係，係指依經驗法則，綜合行為當時所
+存在之一切事實，為客觀之事後審查，認為在一般情形下，有此環
+境、有此行為之同一條件，均可發生同一之結果者，則該條件即為
+發生結果之相當條件，行為與結果即有相當之因果關係。」由此可
+見相當因果關係，仍舊是實務界主要的因果關係理論。不過法學
+界，尤其是刑法學界，則對此理論持比較保留的態度。
+
+三、學界的研究成果簡述
+
+     韓忠謨採相當因果關係說，因其認為，運用相當因果關係可以
+使用社會常識經驗來對因果關係作出合理限制，不至於與生活現實
+脫節。韓對相當因果關係的定義是11：
+
+     在一般情況，有同一條件，均可發生相同結果者，方為起
+     果的原因。反之，如依一般人客觀的考察，認為不必皆發
+     生如此結果者，則該條件與結果並不相當，不過為偶然結
+     合之事實而已。
+
+     韓並主張「客觀的相當因果關係說12」比較符合「科學的體察
+事物之條理」，使因果關係保持在「構成事實」理論中的完整地
+位。
+
+     王澤鑑教授在其《侵權行為法》中提到，
+
+     相當因果關係旨在以條件的「相當性」來合理界限侵權責
+     任的範圍。此項理論源自德國，為生理學家von Kries氏所
+
+11 韓忠謨，刑法原理，再版，頁123-125（2002年）
+                             。
+12 基於事後之審查，綜合行為當時所存在之一切事實，依客觀上之觀察，認為有
+     此環境，有此行為，均有此結果發生者，行為與結果乃有因果關係，因此，應
+     考察之事實，乃基於事後審查所得之行為當時存在之一切事實，又縱為行為後
+     所生之事實，若與行為當時所存在之事實有必然關係者，亦屬應考察之事實。
+     參見韓忠謨（註11）
+              ，頁124。
+相當因果關係與社會科學方法論                     61
+
+
+  創，原在限制刑法上加重結果犯罪的構成要件，亦為民法
+  所採用，並被瑞士、荷蘭、希臘、日本等國所繼受。
+
+  關於「相當性」的認定，各國判例學說所採的判斷基準寬
+  嚴不同，但具有一項共識，即相當因果關係不僅是一個技
+  術性的因果關係，更是一種法律政策的工具，乃侵權行為
+  損害賠償責任歸屬之法的價值判斷13。
+
+  陳子平教授在其《刑法總論》提到，
+
+  相當因果關係說主張，於行為與結果間存有條件關係之前
+  提下，參照社會生活之經驗，而被認為通常從該行為皆會
+  發生該結果（通常皆如此）者，則有刑法上之因 果關
+  係。……
+
+  相當性之存在：存在有必然的條件關係之行為和結果，仍
+  須參照社會生活經驗，而判斷先行事實與後行事實間是否
+  存有相當性，亦即，從該行為，通常皆會發生該結果，而
+  具有高度的可能性14。
+
+  黃榮堅教授於一篇重要實務評論文章中，批評實務所使用的相
+當因果關係，事實上是利用對所謂「一般情形」的恣意設定，背後
+還是使用了條件因果與過失概念的判斷。意即，相當因果關係理論
+是根據條件因果或過失概念，先決定了行為人是否應被歸責，才回
+頭設定一般情形來決定行為與結果間是否具有相當因果關係。因此
+其反對相當因果關係理論，並認為刑法上的因果關係認定就只能是
+條件因果關係15。
+
+
+13 王澤鑑，侵權行為法，頁249（2009年）。
+14 陳子平，刑法總論，2版，頁167（2008年）。
+15 黃榮堅，論相當因果關係理論評最高法院八十九年度台上字第七八二三號及台
+ 灣高等法院八十九年度重上更（三）字第一四三號判決，月旦法學雜誌，96
+ 期，頁315-317（2003年）
+                 。
+62                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+      不過，黃榮堅又區分了刑法中的因果關係有「概念（標準）問
+題」與「證據問題」兩個面向。雖然條件因果之存否，仍需借助自
+然律上的相當因果加以判斷，但黃主張這是兩個層次的問題。意
+即，雖然自然律的判斷係依據對自然之觀察與統計，乃是一種相當
+因果關係，但其僅是證據方法層次的問題，不會影響刑法概念上的
+因果乃是條件因果這件事情。除此之外，黃教授也在文章中檢討批
+判了「客觀歸責論」的幾個判斷標準（風險升高、規範目的等）。
+黃教授是少數批判相當因果關係論後，沒有往客觀歸責論走，而以
+某種修正的條件論繼續作為因果理論的刑法學者16。
+
+      林鈺雄教授同樣反對實務上所使用的相當因果關係概念。林鈺
+雄在因果關聯的問題上，與德國通說相同，區分「因果問題（結果
+原因）」與「歸責問題（結果歸責）」，並認為相當因果關係事實上
+要處理的是結果歸責的部分。惟獨作為處理結果歸責層次的理論，
+相當因果關係並不足夠，並在實務上造成了法安定性的破壞。況
+且，就算肯認相當因果關係，也只能作為結果歸責的必要條件，但
+無法作為結果歸責的充分條件（有相當性並不代表可以歸責）17。
+
+      許恒達教授在一篇文章中，比較深入地引用von Kries的理論來
+討論，
+
+     德國學說上所謂的相當因果關係（Adäquanz），源自德國
+     學者 v. Kries 的見解，該說強調可以透過抽象法益危險的
+     觀點，將所有的條件（與結果間有因果關係的事實）分類
+     為二類，其一是具相當性的條件，其二是純粹偶然的條
+     件，只有具備相當性的條件可歸責於行為人。相當性與否
+     的判斷，涉及一種可能性（Wahrscheinlichkeit）的衡量，
+
+
+16 黃榮堅（註15）
+          ，頁318-321。
+17 林鈺雄，第三人行為介入之因果關係及客觀歸責─從北城醫院打錯針及蘆洲
+     大火事件出發，收於：刑法與刑訴之交錯適用，頁12-19（2008年）
+                                      。
+相當因果關係與社會科學方法論                                         63
+
+
+  亦即依據行為實施時點，從第三人角度或兼考量行為人認
+  知角度進行判斷，如果結果屬於行為時可預見的後果，即
+  可認定具有相當性。
+
+  原始的相當因果關係見解，在德國學者Engisch的重構後，
+  逐漸分為兩種不同階層，此即狹義相當性（Adäquanz im
+  engeren Sinne ） 與 廣 義 相 當 性 （ Adäquanz im weiteren
+  Sinne）。廣義相當性強調從行為時狀態，判斷該行為會產
+  生一般性的法益危險，以今天的觀點來說，屬於行為不法
+  層次的製造不容許風險；至於狹義相當性，則是指行為風
+  險必須順著常態路徑實現，從而侵害法益18。
+
+  許恒達此文主要係欲處理使用「合法替代行為」作為思考過失
+犯的結果歸責的問題。在主張使用迴避可能性概念作為排除歸責並
+不恰當後，許教授檢討了使用相當因果關係作為解決途徑的可能。
+許教授提到我國實務一向認為合法替代行為問題涉及相當因果關
+係，但這事實上是有問題的。在德國學說的演變上，相當因果關係
+與合法替代行為呈現出分合的演進。相當因果關係在德國由von
+Kries提出，並將所有的條件區分為「相當」與「偶然」的條件。所
+謂相當條件，係指「依據行為實施時點，從第三人角度或兼考量行
+為人知識角度進行判斷，如果結果屬於行為時可預見的後果，即可
+認定具有相當性」。此主張經過Engisch的重構後，區分為「狹義相
+當性」與「廣義相當性」，前者指的是行為風險必須依常態路徑實
+現，後者則是指從行為時的狀態判斷該行為會產生一般性的法益危
+險。因此，前述「合法替代行為」的問題即被歸類於「狹義相當
+性」的部分。惟許亦指出，於今日的刑法理論中，合法替代行為已
+不再被認為屬於狹義相當性的部分，而係屬於不同的歸責結構。
+
+
+18 許恒達，合法替代行為與過失犯的結果歸責：假設容許風險實現理論的提出與
+ 應用，臺大法學論叢，40卷2期，頁735-736（2011年）
+                               。
+64                         《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+     王皇玉教授在〈醫療過失中的因果關係：從邱小妹人球案談
+起〉一文中，也特別由機率的概念來引用討論von Kries的理論，
+
+     相當因果關係理論是由德國弗萊堡之醫師Johannes v. Kries
+     （1853-1928）所提出。相當性理論是以條件因果關係作為
+     前提，認為並非所有造成結果之條件均是犯罪構成要件相
+     當之條件，而是對於結果之發生具有一定程度或然率（概
+     然性）的條件，才是使結果發生之相當的條件。換言之，
+     相當性理論是從人類生活經驗與因果法則的認識，去推論
+     一個行為之於結果有多高的發生或然率，因此相當性理論
+     指的是一種可能性概念或是機率的概念。從相當性理論的
+     創始者v. Kries的想法出發，一個行為要被評價為某特定結
+     果之相當原因，必須具有一定程度的概然率（zu einem
+     gewissen Grade wahrscheinlich）
+                                  。具有一定程度的概然率，
+     才可以認為行為與結果間具有「相當性」
+                      。至於這個概然率
+     要多高呢？根據刑法學者Engisch之看法，「行為引起結果
+     之 概 然 性， 無 論 如何 不 能 是毫 不 可 能」（ Es darf nicht
+     schlechthin unwahrscheinlich sein, dass die Handlung den
+     Erfolg nach sich zieht.）根據Engisch的看法，相當性理論的
+     操作方式會是一種負面排除方式，亦即不可能發生或偶然
+     發生的條件是顯然不具有相當性之條件，應該首先被排
+     除。因此，如果根據相當性理論來看，凡是不尋常或偶然
+     連結的因果連結關係，應該認定行為與結果之出現不具有
+     相當因果關係。
+
+     此外，Engisch從抽象法益危險的觀點，將所有與結果發生
+     有關的因果關係分為二類：第一類的因果關係是具有相當
+     性的條件；第二類之因果關係則是偶然發生的條件。對於
+     結果之歸責，原則上僅限第一類具有相當性之條件。至於
+     第二類之偶然條件，指的是從生活經驗來看，該條件導致
+相當因果關係與社會科學方法論                      65
+
+
+   結果發生的機率屬偶然，也就是少見，罕見，甚至反乎一
+   般生活經驗上的因果。此等結果之發生屬於偶發或反常的
+   原因，由於從一般生活經驗上來看，實屬發生機率過於低
+   微，因此被可以被認為是不具相當性的條件19。
+
+   本篇文章與相當因果關係較為相關處在於指出，於我國刑法實
+務發展下，相當因果關係理論除了原先用以排除異常或反常因果的
+作用外，更藉由「結果迴避可能性」之概念對相當因果關係進行補
+充，而有向客觀歸責理論靠近的傾向。王皇玉亦從von Kries出發介
+紹相當因果關係理論，指出相當性理論是藉由人類生活經驗與因果
+法則之認識，來推論行為與結果間的發生或然率；而von Kries認
+為，一行為要被評價為某結果之原因，必須具有一定程度的或然率
+始為可能20。王皇玉並接著介紹了Engisch將因果關係分為「相當」
+與「偶然」兩類（此處與許恒達同）。不過，王皇玉對相當因果關
+係同樣係採反對見解，其認為相當因果關係的審查標準並不具有過
+濾異常或反常因果的作用，因為在「發生機率」上，並不存在標
+準21。
+
+   其後，王皇玉則指出了在我國司法實務上，對相當因果關係的
+使用同時具有客觀說與折衷說的色彩；不僅如此，法院雖然使用相
+當因果關係作為用語，實則常利用規範保護目的、合法替代手段、
+或迴避可能性等屬於客觀歸責的審查方式，形成一種混合的判斷方
+式22。
+
+   陳聰富在〈侵權行為法上之因果關係〉一文中，則討論了
+conditio sine qua non的相關問題，引用如下，
+
+
+19 王皇玉，醫療過失中的因果關係：從邱小妹人球案談起，臺大法學論叢，41卷
+  2期，頁759（2012年）
+               。
+20 同前註。
+21 王皇玉（註19）
+          ，頁766。
+22 王皇玉（註19）
+          ，頁766-783。
+66                   《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+     相當因果關係說始於一八八八年，德國富萊堡大學生理學
+     家von Kries教授在法律上應用數學上的可能性理論與社會
+     學的統計分析方法，認為客觀上事件發生的可能性，可作
+     為說明因果關係的一項要素。依據von Kries之見解，某項
+     事件與損害之間其有相當因果關係，必須符合二項要件：
+     （1）該事件為損害發生之「不可欠缺的條件」（conditio
+     sine qua non）（以下稱「條件關係」）；（2）該事件實質上
+     增加損害發生的客觀可能性……von Kries明白指出，
+                                「不可
+     欠缺的條件」或其他必要條件係屬因果律的問題；反之，
+     相當性原因則屬相不相當或偶然性的問題，應求諸於特殊
+     個案，而非依據一般性法則論定之。
+
+     von Kries認為，依據相當性概念判斷之結果，與普通一般
+     人或經過訓練、具有正義法律人，依據經驗之啟發及事件
+     發生的正常過程，所為之判斷，甚為類似。德國法學家
+     Enneccerus及Lehmann亦認為，所獲相當性原因，係指對損
+     害發生之機會，具有原因力，且非由於特殊異常之情況所
+     引起者。換言之，依據人類經驗與事件發生之通常過程，
+     若某條件具有引發某項結果發生之傾向，該條件即為結果
+     發生之相當性原因。因而，只要某條件增加結果發生的客
+     觀可能性，除非有異常事件介入，該結果即屬事件通常發
+     生過程中產生之結果，而具有相當因果關係23。
+
+     綜合德國學說與實務關於相當因果關係說之見解，可以得
+     知：（1）相當因果關係說，首先應判斷結果發生之條件，
+     為 損害發生 之『不可 欠缺的條 件 』（ condition sine qua
+     non），亦即具有事實上因果關係後，再判斷相當因果關
+
+
+23 陳聰富，侵權行為法上之因果關係，臺大法學論叢，29卷2期，頁177-178
+ （2000年）
+       。
+相當因果關係與社會科學方法論                    67
+
+
+  係。（2）相當因果關係之判定，在於行為人提高損害發生
+  之危險，亦即增加損害結果發生之客觀可能性。（3）損害
+  發生之因果歷程必須無其他異常獨立之原因介入，亦即事
+  件發生之因果歷程必須符合一般事件正常發展過程。（4）
+  相當因果並非事實上因果律之問題，而係對行為人公平課
+  與責任之判斷標準，具有法律政策判斷之色彩24。
+
+   陳聰富教授的討論，仍概略地回溯引用von Kries的說法，並用
+以發展建立一組侵權行為法之因果關係判斷檢驗步驟。這是非常重
+要的貢獻，不過就基礎理論之分析，陳教授在侵權法領域的討論，
+與許恒達以及王皇玉兩位教授在刑法領域類似，都以某種標準版本
+來敘述von Kries作為相當因果關係理論的意義與影響（尤其是Karl
+Engisch對該理論的詮釋與發展），這其實也是德國學界相當標準的
+討論方式。然而Engisch將因果關係分為「相當」與「偶然」兩
+類，以及其以機率來區分的方法，一定是妥當正確的嗎？von Kries
+的這套理論，又為何會對韋伯的社會科學方法論，產生那麼重要的
+影響呢？以下將針對這個非常特定的問題側面，進行一些研究考
+察，希望能夠對了解韋伯方法論艱澀之處有所貢獻。在一些理論交
+疊之處，盼望也能對法學領域之因果關係理論有一點間接幫助。
+
+四、綜合討論
+
+   在相當因果關係理論上，臺灣法學界延續繼受了德國學界的學
+             （1）思想史上以von Kries為理論先
+說，大致呈現出幾個趨勢重點，
+驅；（2）認為Karl Engisch將此一理論區分為「相當」原因與「偶
+然」原因，是此一理論在法學領域的代表性延伸；
+                     （3）對這兩類原
+因的判斷，是以發生的機率作為判斷準則。尤其是以依據一般生活
+經驗，發生損害或行為結果之危險機率是否顯著提高來判斷；
+                          （4）
+
+
+
+24 陳聰富（註23）
+          ，頁184。
+68                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+刑法學界一般認為，相當因果關係的判斷標準難以拿捏，因此主張
+應該以「客觀歸責理論」來取代相當因果論25。民法學界則沒有排
+斥相當因果論，認為經過一些調整後，可以繼續使用此理論。
+
+     當然以上僅為概略的重點整理，隨著國內法學研究的發展，司
+法案例/判決的累積，以及持續對國際學界相關研究成果的繼受，
+法律中因果關係的學理狀態與實務見解，一定會隨之調整變化。另
+一方面，德國學界對因果關係與客觀歸責論相關問題的討論爭議也
+仍舊持續，也很難說會有定論。Goeckenjan就指出，雖然客觀歸責
+論在德國刑法界以及其他幾個國家（包括中國、芬蘭、拉丁美洲
+等）廣泛被肯定的接受，但是此一學說在概念界定
+（Begrifflichkeit），歸責判斷的實質運用標準（der zugeschriebene
+sachliche Gehalt der verwendeten Kriterien），以及體系定位（die
+systematische Einbettung）方面，仍有相當重大的分歧意見，甚至可
+質疑是否談得上有一種理論叫做客觀歸責理論26。Goeckenjan也引
+用學者Gössel意見指出，雖然客觀歸責論目前仍屬通說，但是因為
+日益增強的批判，該理論已經漸漸轉為守勢地位（in die Defensive
+        27
+geraten） 。
+
+     另外，Goeckenjan也指出，重要民法學者Ernst von Caemmerer
+在1950年代就針對侵權法之因果關係，批評了von Kries的相當因果
+關係論，而提出「規範保護目的」論（der Schutzzweck der Norm）
+的客觀歸責論版本，此點不但值得民法學者注意，也與後面的一個
+
+
+
+
+25 繼受德國客觀歸責論，並提出不少重要見解的代表性著作，請參考許玉秀，檢
+   驗客觀歸責的理論基礎─客觀歸責理論是什麼？，收於：主觀與客觀之間，
+   頁219-280（1997年）     。
+26 Ingke Goeckenjan, Revision der Lehre von der objektiven Zurechnung: Eine Analyse
+   zurechnungsausschließender Topoi beim vorsätzlichen Erfolgsdelikt, 2017, S. 1.
+27 Goeckenjan (Fn. 26), S. 2. Goeckenjan提出了對客觀歸責論的六點重要檢討批
+   評，請參考Goeckenjan (Fn. 26), S. 134-150.
+相當因果關係與社會科學方法論                                                                     69
+
+
+討論相關28。
+
+     值得注意的是，客觀歸責論在更廣大的國際學術社群討論裡，
+仍屬於因果關係論的一環，且可以視為是von Kries相當因果關係論
+的理論家族一員。Anthony M. Honoré 與John Gardner發表於史坦福
+哲學百科全書上的文章〈法律中的因果關係〉29，就在法律上原因
+之限制方面，特別提到了von Kries與Träger 運用或然率或概率
+（probability）來判斷因果關係的相當因果理論，並認為Calabresi提
+出了一種當代概率論版本 30 。在這組理論下，作者也討論了「德
+國」的規範保護目的論，但是並沒有提到客觀歸責論這一名稱，而
+是概括地將其歸屬於「風險理論」（risk theory），並且說風險理論
+是概率論的一種版本（a version of the probability theory）31。
+
+     亦值得參考的是，德國權威學者Ingeborg Puppe也認為客觀歸
+責論與因果理論不應該分開來處理，她甚至認為，與因果理論脫
+鉤，是客觀歸責論的原罪（der Sündenfall）32。Puppe在另外一份著
+作中提到，在當前的教科書與注釋書中，通常將von Kries所創的
+「相當因果關係」概念如此理解，亦即認為von Kries主張要有對行
+為與結果之因果流程有起碼的「可預見性」，據此可排除一些帶有
+奇幻色彩的因果流程，例如侄子以殺人之故意，鼓勵（對之有繼承
+權）之伯父在雷雨天到森林散步，結果伯父遭雷擊死亡33 。Puppe
+
+
+28 請參考Goeckenjan (Fn. 26), S.101。國內民法學者陳聰富間接透過Hart/Honoré的
+   著作，引用過von Caemmerer此一理論。請參考陳聰富（註23）
+                                     ，頁224。
+29 Antony Honoré & John Gardner, Causation in the Law, THE STANFORD
+   ENCYCLOPEDIA OF PHILOSOPHY (WINTER 2010 EDITION), https://plato.stanford.edu/
+   archives/win2010/entries/causation-law/.
+30 Id. at 3.3 Allegedly causal grounds of limitation. 另 請 參 考 Guido Calabresi,
+   Concerning Cause and the Law of Torts: An Essay for Harry Kalven, Jr., 43 U. CHI.
+   L. REV. 69, 69-108 (1975).
+31 Honoré & Gardner, supra note 29, at 3.3 Allegedly causal grounds of limitation.
+32 Ingeborg Puppe, Die Erfolgszurechnung im Strafrecht: dargestellt an Beispielsfällen
+   aus der höchstrichterlichen Rechtsprechung, 2000, S. 7.
+33 Ingeborg Puppe, Strafrechtsdogmatische Analysen, 2006, S. 169.
+70                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+同意，von Kries理論的主要問題在於，對於如何以及在多大範圍
+內，可以將個案的因果流程「一般化」（zu verallgemeinern），以確
+立其具備導致結果發生之一般適當性（die generelle Eignung zur
+                                          34
+Erfolgsherbeiführung festzustellen），缺少明確判準 。但是Puppe也
+指出，von Kries的理論並未受到足夠深入的掌握，以致走向了「結
+      （die Bezweckbarkeit des Erfolges）
+果之可目的性」                               ，繼受了民法「規
+範之保護目的」之方向（此皆為Puppe所質疑的理論，但是是當前
+        。Puppe認為，如果von Kries相當因果論的基礎
+的客觀歸責論主流）
+思想能受到更謹慎的繼受與延續研究，也許現代客觀歸責論最重要
+的一些知識，會早一百年就獲得進展35。
+
+       本文的重點並非深入探討法學領域內的因果關係與客觀歸責理
+論，但是因為韋伯方法論中的相關因果關係論，就是源自於法學界
+的研究，因此提出以上綜合討論來銜接法學領域（國內外）與本文
+研究焦點的關係。其中提到的幾個議題點與概念，都會在本文後面
+的論述中逐漸呈現其重要性。本小節最後還要提到一份非常重要，
+在學理發展史研究中也經常被提出，但是國內卻高度忽略的文獻，
+那就是Karl Larenz的博士論文《黑格爾的歸責學說與客觀歸責概
+念》36。
+
+       此處無法詳細深入的說明此著作的論述結構與內涵37，只想很
+精簡地指出一個關鍵議題。比較熟悉客觀歸責論的學者都知道，
+Larenz與Honig往往被歸類為主觀主義的客觀歸責論。而Larenz之所
+
+
+34 Puppe (Fn. 33), S. 171.
+35 Puppe (Fn. 33), S. 172.
+36 Karl Larenz, Hegels Zurechnungslehre und der Begriff der objektiven Zurechnung,
+     1927.
+37 對此書詳細內容之說明分析，請參考顏厥安，〈2014年下半年度法理學經典導
+     讀：Hegels Zurechnungslehre und der Begriff der objektiven Zurechnung〉影音紀
+     錄，法理學經典系列導讀網站，2015年1月9日，https://classicsintro.wordpress.
+     com/category/2014-%e7%b6%93%e5%85%b8%e5%b0%8e%e8%ae%80/。
+相當因果關係與社會科學方法論                                               71
+
+
+以在談客觀歸責時，仍舊具備主觀主義的立場，就是受到德國古典
+哲學，尤其是黑格爾思想的影響，認為歸責（Zurechnung），是法
+權（Recht）對主體、主體自由，以及其人格性（Persönlichkeit）的
+承認38。主觀主義，就是自由主體為中心的考察。
+
+      然而這個考察，仍舊要處理結果或事件基於何種原理可歸屬給
+特定主體之行為，並進而回答主體要為之承擔如何的責任。此一問
+題的探究，一開始可獨立於法律或道德對行為的評價，而僅探究判
+斷客觀的關聯性（einen objektiven Zusammenhang）
+                                     。此種判斷可稱
+      （die objektive Zurechnung）39。
+為「客觀歸屬」
+
+      因此Larenz的客觀歸責論，是行為與結果的客觀關連探究，因
+此是一種因果論，而非責任論。Zurechnung在這個脈絡下，也許翻
+譯為「歸屬」更理想。除此之外，此理論也是主體論，以及評價中
+立論。Larenz當然沒有影響韋伯，也與von Kries到Radbruch的理論
+延續無關，但是前面提到的幾點，卻與韋伯的社會科學方法論有接
+近之處（韋伯也倡議評價中立的歷史因果判斷）。並且Larenz也提
+到了一個非常重要，在本文後面也將謹慎處理的觀念面向。Larenz
+說，「將自身的行為與機遇，相互區分，是客觀歸責的任務」（Die
+eigene Tat vom Zufall zu unterscheiden, das ist die Aufgabe der
+                       40
+objektiven Zurechnung.） 。
+
+      相當因果關係論，如一般所了解，將原因區分為相當或適當原
+因，以及偶然原因。此處的偶然，就是德文的Zufall或其形容詞
+zufällig。而大家關心的焦點當然是在相當原因，因為只有當行為人
+的行為，是結果的相當原因時，才會成立法評價下的因果關係。然
+而下面的討論會逐漸指出，就基礎理論思考而言，偶然，或者（我
+
+
+38 Larenz (Fn. 36), S. 50.
+39 Larenz (Fn. 36), S. 51.
+40 Larenz (Fn. 36), S. 74.
+72                                   《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+認為比較正確的翻譯方式）機遇概念，可能才是需要好好思考研究
+的理論概念。
+
+
+
+參、相當因果關係的理論發展：先於von Kries的
+  發展軌跡
+
+一、Julius Anton Glaser
+
+      依照Hart/Honoré的研究，條件論原本可能就包含在西班牙法
+學概念versari in re illicita，或拉丁文的Qui in re illicita versatur
+imputantur omnia quae sequuntur ex delicto … tenetur etiam pro casu
+觀念當中41。其意義重點是，任何人只要參與了犯罪行為之實施，
+就要對所有，如果沒有他的參與，就不會發生的傷害後果，負起責
+任（One who takes part in an illegal activity is responsible for all harm
+                                                         42
+which would not have occurred but for his participation.） 。
+
+      但是對當代法學之條件論，造成關鍵性影響的陳述，一般相信
+是奧地利的法學家Julius Glaser。Hart/Honoré在他們的書中，翻譯
+
+
+
+41 H.L.A. HART & TONY HONORÉ, CAUSATION IN THE LAW 391 (2d ed. 1985). 感謝潘佑
+   達先生協助研究指出，該句法諺Qui in re illicita versatur imputantur omnia,
+   tenetur etiam pro casu（或是versanti in illicito imputantur omnia, quae sequuntur ex
+   delicto）意思是「違法之人應就由此而生之所有結果負責」                                ，源自於約13世紀，
+   也就是Gratian教令集之後的教會法，一般認為提出者是Bernhard von Pavia。
+   Vgl. Detlef Liebs, Lateinische Rechtsregeln und Rechtssprichwörter, 7. Aufl., 2007, S.
+   242 f.; Horst Kollmann, Die Lehre vom versari in re illicita im Rahmen des Corpus
+   juris canonici, ZStW 35 (1914), S. 46 (46-106); Martin Schubarth, Das Problem der
+   erfolgsqualifizierten Delikte, ZStW 85 (1973), S. 757 (757-760). 雖說源自教會法，
+   但是也有其羅馬法基礎，如在學說彙編D. 14.2.10.1中法學家Paulus認為如果船
+   長違反契約相對人意願使用狀況有問題的船運貨，使得貨物稍後滅失，那麼船
+   長也要對損失的貨物負責。Vgl. Max Kaser/Rolf Knütel, Römisches Privatrecht,
+   19. Aufl., 2008, S. 193.
+42 See HART & HONORÉ, supra note 41.
+相當因果關係與社會科學方法論                                                                  73
+
+
+（為英文）摘錄了一段Glaser的文字。這段文字的原本德文，我摘錄
+於下：
+
+     Es gibt übrigens für die Prüfung des Kausalzusammenhanges
+     einen sicheren Anhaltspunct; versucht man es, den angeblichen
+     Urheber ganz aus der Summe der Ereignisse hinwegzudenken,
+     und zeigt sich dann, daß nichtsdestoweniger der Erfolg eintritt,
+     daß nichtsdestoweniger die Reihenfolge der Zwischenursachen
+     dieselbe bleibe; so ist klar, daß die That und deren Erfolg nicht
+     auf die Wirksamkeit dieses Menschen zurückgeführt werden
+     können. Zeigt sich dagegen, daß diesen Menschen einmal von
+     Schauplatz des Ereignisses hinweggedacht, der Erfolg gar nicht
+     eintreten konnte, oder daß er doch auf ganz anderem Wege
+     hätte eintreten müssen: dann ist man gewiß vollkommen
+     berechtigt, den Erfolg jenem Menschen anzurechnen, ihn als
+                                                    43
+     die Wirkung seiner Thätigkeit zu erklären .
+
+     之所以特別去把德文找出來，因為對臺灣的法學界來說，了解
+相關概念的最主要外文參照，就是德文。對於條件論的理解最為重
+           ，其德文表述nicht hinweggedacht werden
+要的「不可想像其不存在」
+konnte/kann，可以說就是源自於Glaser的這段表述。Hart/Honoré也
+特別指出了這個德文44。
+
+     Julius Anton Glaser（1831-1885）是19世紀奧地利最為重要的
+法學家之一，出身猶太家庭，但改信天主教。曾任上訴法院法官，
+是奧地利（奧匈帝國）當時主要的自由主義思想之法律人，致力於
+
+
+
+
+43 Julius Anton Glaser, Abhandlungen aus dem oesterreichischen Strafrecht, 1858, S.
+   298.
+44 HART & HONORÉ, supra note 41, at 392.
+74                                 《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+改革刑法與刑事訴訟法 45 。他也是義大利重要刑事法學者Caesar
+                   46
+Beccaria代表性著作的德文翻譯者 。此處無法也不必特別岔出去
+談Glaser在刑事法學領域內的貢獻，僅先指出他是「不可想像其不
+存在」此一公式的提出者為已足。
+
+二、von Buri的理論
+
+     如前所述，國內通常參照德國標準學院陳述，在因果關係理論
+當中，把條件論（等價論）列為早期的通說理論，一般也把
+Äquivalenztheorie 、 Bedingungstheorie 以 及 conditio sine qua non
+Formel，三個概念視為等義概念。這種陳述當然也有德國實務界的
+判決為根據。
+
+     現在要找到相關的德國判決非常容易，也很容易轉貼一大堆判
+決字號、頁碼等等，此處僅先參考一個德國聯邦最高法院比較早期
+的判決，在這個判決中，不但陳述了法學界因果關係之兩大理論，
+條件論與相當因果關係論，而且指出當年的帝國法院長期在刑法領
+域都採用條件論，文獻多半跟隨這一理論；於今此仍為通說，「本
+庭亦採之」47。六十幾年後的今天，德國實務界與學界的因果關係
+
+45 請參考，Edmund Benedikt, „Glaser, Julius“, in: Historischen Kommission bei der
+   Bayerischen Akademie der Wissenschaften (Hrsg.), Allgemeine Deutsche Biographie,
+   Bd. 49, 1904, S. 372-380. Digitale Volltext-Ausgabe in Wikisource, URL: https://de.
+   wikisource.org/w/index.php?title=ADB:Glaser,_Julius&oldid=3453055 (Version vom
+   5. Dezember 2018, 14:21 Uhr UTC).
+46 Caesar Beccaria, Über Verbrechen und Strafen (übersetzt von Julius Glaser, Tendler,
+   1851) (1764); Caesar Beccaria, Über Verbrechen und Strafen (übersetzt von Julius
+   Glaser, Manz’sche K.K. Hof-Verlags- und Universitätsbuchhandlung, 1876) (1764).
+47 BGH, 05.10.1951 - 2 StR 391/51, para. 10. „In der Rechtslehre werden hierzu
+   hauptsächlich zwei Theorien vertreten: Die Bedingungs- oder Äquivalenztheorie und
+   die Adäquanztheorie. Nach der ersten ist Ursache eines strafrechtlich bedeutsamen
+   Erfolges jede Bedingung, die nicht hinweggedacht werden kann, ohne dass der Erfolg
+   entfiele. Nach der zweiten ist eine menschliche Handlung nur dann als Ursache eines
+   Erfolges anzusehen, wenn sie allgemein, erfahrungsgemäss geeignet ist, einen Erfolg
+   wie den eingetretenen herbeizuführen. Das Reichsgericht hat in ständiger
+   Rechtsprechung für das gesamte Gebiet des Strafrechts die Bedingungstheorie
+相當因果關係與社會科學方法論                                                                      75
+
+
+理論使用狀況當然大為不同，不過本文研究的重點並不在這個法學
+理論的發展，而只想先點出這一理論發展史軌跡裡的幾個線索。
+
+     在賴氏的論文中提到了，帝國法院在刑事法領域，採用了
+Maximilian von Buri的理論，在民事法領域，採用了Carl Ludwig
+          48                      49
+von Bar的理論 。一般認為von Buri是條件論的代表性學者 ，von
+Bar是相當因果論的代表。因此賴氏論文的說法，初步符合前引判
+決的說法，只不過在賴氏論文之後，帝國法院還運作了四十幾年。
+
+     然而von Buri的理論，就僅僅是一般了解的條件論嗎？如果我
+們查考他最有代表性，也最常在這個主題下被引用的著作─《因
+果與責任》 50 ，會發現他的論述包含了一些有趣的觀點。沒錯，
+von Buri確實提到了，對於造成某種現象出現的各種力量，我們都
+應該給予同樣的地位，例如下面的這段話，似乎表達了一種等價論
+的觀點：
+
+     當我們可以確定，某個現象的出現源自多種力量相同作用
+     時，就不該將其中某個力量，相對於其他力量，貶抑為僅
+     僅是條件，所有的力量都應該視為擁有相同的地位51。
+
+
+
+
+   angewandt. Das Schrifttum ist dem überwiegend gefolgt. Diese Auffassung herrscht
+   auch heute noch vor. Auch der Senat teilt sie.“ (Hervorhebung vom Verfasser)
+48 Radbruch (Fn. 8), S. 13.
+49 Radbruch (Fn. 8), S. 15, „Die Lehre von der adäquaten Verursachung hat ihren
+   Ausgangspunkt mit der herrschenden v. Burischen Kausalitätstheorie gemeinsam.
+   Beide stehen auf dem Standpunkte der Gesamtursache und der Gleichwertigkeit aller
+   Bedingungen.“ (Hervorhebung vom Verfasser)
+50 參見Maximilian von Buri, Über Kausalität und deren Verantwortung, 1873.
+51 von Buri (Fn. 50), S. 3. „Es kann vielmehr, wenn es sich herausstellt, daß eine
+   Erscheinung ihre Entstehung der gleichen Wirksamkeit verschiedener Kräfte
+   verdankt, keine einzige Kraft im Vergleich zur anderen zur Bedingung degradiert, sie
+   müssen vielmehr alle als gleichberechtigt angesehen werden.“ (Hervorhebung vom
+   Verfasser)
+76                                   《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+       以上引文斜體字的部份，確實像是一種等價論的陳述。不過
+von Buri此書探討了不少的理論問題，也有許多地方就是在批判von
+Bar的著作，下面這段引文一開始反對的對象，就是von Bar的理
+論：
+
+      為了要駁斥前述論述，首先要注意，因果關係─亦即事
+      實與事實的連結─不能由法學或道德觀點來研究。若依
+      照前述理論，條件與原因之區別，就會依靠方法或研究目
+      的，亦即依賴主觀的探索程序方法來決定52。
+
+       我們可以看到幾點：
+
+       1. von Buri認為因果關係是事實與事實的連結，因此無法從法
+          學或道德的觀點研究。這點當然很奇特，因為原本認為von
+          Buri代表的條件論，就是法學上的因果連結之理論。
+
+       2. von Buri認為條件（Bedingung）與原因（Ursache）是兩個
+          不同的概念。這也與我們一般理解條件論很不一樣。一般表
+          述的條件論，就認為原因是一種條件，這可參考上面引用的
+          德國判決。
+
+       3. von Buri認為，對於條件與原因的區分，不能取決於研究方
+          法、研究目的或主觀的探索程序。而這是von Bar的主張。
+
+       4. 因為von Buri認為因果關係是事實與事實的鏈結，因此他考
+          察的是各種自然力的作用（Wirksamkeit der Kräfte）
+                                            。而人類
+          的意志在此鏈結中的作用，僅僅是推動了身體的動作。
+
+52 von Buri (Fn. 50), S. 2-3. „Gegen diese Ausführung ist zunächst zu bemerken, daß
+     man einen Kausalzusammenhang - also die Verkettung von Tatsachen - nicht
+     juristisch oder moralisch untersuchen kann. - Sodann aber wird die Verschiedenheit
+     zwischen Bedingung und Ursache von der Methode, oder auch dem Zweck der
+     Untersuchung, mithin von einer subjektiven Verfahrensweise abhängig
+     gemacht.“ (Hervorhebung vom Verfasser)
+相當因果關係與社會科學方法論                                 77
+
+
+  5. von Buri認為不該輕易把特定作用力貶低（degradiert）成條
+     件。
+
+  一位被認為是條件論的代表性學者，卻認為原因與條件在概念
+上應該區分，也認為條件，是一個位階較低的理論概念，這實在是
+個需要注意的現象。如果比較完整一點了解他的想法，可以歸納成
+下面幾點：
+
+ （1）von Buri認為因果關係是外在世界，事實層面的關係。如
+     果用較新的理論術語，可以說他帶有自然主義的傾向，因
+     為因果關係純然屬於自然領域的「作用力/結果」之考
+     察。用法學內的分類來說，屬於cause-in-fact的看法。
+
+ （2）這種因果觀念，當然也有客觀主義的要求，認為因果關係
+     是對事實彼此關係的客觀判斷，因此不能依附於研究方
+     法、目的等主觀因素而調整。
+
+ （3）所謂不能貶低為「條件」，這一說法應該是指，所有發揮
+     了作用力（bewirkt），產生了效果（Wirksamkeit）的力量
+    （Kraft），都應該被等價地認定是原因（Ursache），或中間
+     原因（Zwischenursachen），而不能隨意依照研究目的，在
+     某些情況下，將其中一些力量認為是原因，其他的則認為
+     是條件。因此也許可以說，這種觀念是原因等價論，而不
+     是條件等價論。條件這個概念，在von Buri的理論中，並
+     沒有什麼重要性。
+
+ （4）von Buri也討論了故意（Vorsatz, dolus） （著作中經常都使
+    用 拉 丁 文 表 述 ）， 罪 責 （ Schuld, culpa ）， 以 及 意 欲
+    （Will）。因為採取自然主義與客觀主義的立場，因此他的
+     觀念是，這些主觀要素，並不影響客觀因果流程。他寫
+     道：
+78                                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+     人類的意欲只有在下列意義下才能被視為是因果關係當中
+     的一環，亦即在意欲當中看到了施為者（das Agens），此
+     一施為者啟動了身體力量。至於意欲是意識到的─故意
+     或過失─或者僅僅為無責任能力者的意欲作用，對於因
+     果關係而言是等價的，因為這在事實與事實的連結中不會
+     造成任何改變，不論是用無意識的意欲取代一個有意識的
+     意欲，或者相反為之，都一樣。然而可以透過在該等意欲
+     狀態下所為之行為，賦予特定因果關係以故意或責任之意
+     義，只不過該因果關係是否存在，完全不受該等意義之制
+     約53。
+
+      這段文字也充分顯示von Buri對因果關係的自然主義觀點，以
+及意欲因素對因果關連性並無作用力的主張54。
+
+
+
+
+53 von Buri (Fn. 50), S. 1-2. „Der menschliche Wille kann nur insofern als ein
+   Bestandteil des Causalzusammenhangs angesehen werden, als man in ihm lediglich
+   das agens erblickt, welches die Körperkräfte in Bewegung gesetzt hat. Ob aber dieser
+   Wille ein bewußter - vorsätzlicher oder fahrlässiger - oder derjenige eines
+   unzurechnungsfähigen Menschen ist, erscheint für den Causalzusammenhang
+   gleichgültig, denn es tritt in der Verkettung von Thatsachen keine Aenderung ein, mag
+   man auch an die Stelle des bewußten Willens einen bewußtlosen setzen, oder
+   umgekehrt. Allerdings können dolus und culpa durch eine in diesen Willenszuständen
+   unternommene Handlung in den Causalzusammenhang übertragen werden, allein die
+   Existenz des Causalzusammenhangs selbst ist hierdurch in keiner Weise
+   bedingt.“ (Hervorhebung vom Verfasser)
+54 較新文獻可以參考Susanne Selter, Kettenanstiftung und Kettenbeihilfe, 2008, S. 214
+   ff. „Die Berechtigung seiner naturalistischen Lehre suchte von Buri aus der
+   Notwendigkeit und der sich nach seinem Dafürhalten daraus ergebenden
+   Gleichgewichtigkeit aller zusammenwirkenden Erfolgsfaktoren für den Erfolg,
+   <Wenn der Erfolg durch mehrere Wirksamkeiten herbeigeführt worden ist, so kann
+   keine einzige dieser Wirksamkeiten aus demselben ausgeschieden werden, ohne ihn
+   hiermit sofort in seinem konkreten Dasein vollständig zu beseitigen. Daher sind alle
+   für den Erfolg wirksam gewordenen Kräfte für gleichwertig und für gleich notwendig
+   zu halten.>“，引文當中的引文，出自Maximilian von Buri, Ueber Theilnahme am
+   Verbrechen, GS 1870, S. 2 ff.
+相當因果關係與社會科學方法論                                                                    79
+
+
+三、von Bar對Mill條件分析的引用
+
+     首先還是引用一段由德文著作中擷取的引文中的引文：
+
+   「特定的事實之後總是跟著某些事實，我們也相信，後者也
+     將會一直跟隨著前者出現。那些不會改變的先行事實將成
+     為原因，……如果我們無法以某種形式列舉出所有條件，
+     那麼我們對原因的說明都是不完整的。」
+
+     這一段引文引自von Bar的著作55，依照von Bar的註腳，該段文
+字來自於John Stuart Mill56。von Bar在這個理論發展軌跡當中，最
+主要的作用，在於在德語世界引入Mill的條件論分析角度。英語世
+界與德語世界，於19世紀時在許多方面都有相當重要的相互影響。
+例如休謨哲學對康德的影響；政治經濟學與市民社會概念對黑格爾
+的影響；洪堡德大學教育理念對美國的影響；德國與英國歷史法學
+派的交互影響；功效主義對概念法學轉變的影響。但是比較少提到
+Mill的邏輯學，對於法學也有重要影響，這就是透過von Bar引入
+的，Mill對因果關係的條件論分析。
+
+  von Bar在該處引用Mill的文字相當長，我在前面當然沒有全部
+摘錄，但是我們可以追溯Mill原本的說明，來逐點闡明相關連的要
+點。
+
+    （1）每一個事件都是更小的客體或事件的組合57。
+
+
+
+55 Carl Ludwig von Bar, Die Lehre vom Causalzusammenhang im Recht, besonders im
+   Strafrecht, 1871, S. 6-7. „Gewissen Thatsachen folgen gewisse Thatsachen und
+   werden ihnen, wie wir glauben, immer folgen. Die unveränderlich vorhergehende
+   Thatsache wird die Ursache, ... Die Angabe der Ursache ist unvollständig, wenn wir
+   nicht alle Bedingungen in irgendeiner Form anführen.“
+56 von Bar註明的出處：„John Stuart Mill, Logik, Bd. 1, Braunschweig 1862, zweite
+   Auflage, in der deutschen Übersetzung von Schiel, S. 387 f.“
+57 MILL, supra note 1, at 327.
+80                         《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+     （2）對特定的事實（使用的是複數），都會接續著一群其他的
+         事實。發生在前面的不變的前件（antecedent）稱之為原
+         因（cause），發生於後的後件（consequent），稱之為結果
+         （effect，效果、後果）58。
+
+     （3）因果法則（因果律）的普遍性即在於，所有的後件都以此
+         等方式接續於一個前件，或一組前件59。
+
+     （4）相當重要的一個思考析辨之處在於，那麼到底哪些前件
+         （客體、事件、現象等），是後件的原因呢？Mill在該處給
+         了個標題：一個現象的原因，是其條件的聚集（The cause
+                                                             60
+         of a phenomenon is the assemblage of its conditions） 。
+
+     然而，這是什麼意思呢？Mill舉了一個例子，某人吃了一份特
+定的食物，然後發生死亡的結果，如果我們可以合理的相信，假如
+他沒有吃那一份食物，就不會發生死亡的結果，人們自然就會傾向
+於說，吃了那份食物，是該人死亡的原因61。
+
+     然而Mill卻針對這種日常的因果判斷，提出了一個重要的修正
+觀點，他指出：
+
+     然而在所發生的境況（circumstance）下必然是有一些因素
+     的結合就確定地會導致該死亡的結果：例如，吃了該份食
+     物，配合了特定身體體質，當時的健康狀態，或者甚至是
+     特定的氣氛；在該境況全體這些因素的組合形成了該個案
+     所呈現現象的條件（conditions），或者換種說法，這一組
+     前件因素決定了這個結果，且若無（but for）此一組合，
+
+
+
+58 Id.
+59 Id.
+60 Id.
+61 Id.
+相當因果關係與社會科學方法論                                                              81
+
+
+    該結果就不會發生。因此真實的原因，是所有這些前件因
+    素之整體；從哲學上來說，我們沒有權利將這些因素中的
+    特定一項，以排除其他因素的方式，稱之為原因62。
+
+  Mill的這個重要觀點與分析，雖然有不少缺點，但是仍然構成
+了後來所有因果分析論都要考量的觀點。學者Heidelberger以下列
+的方式重構了Mill此一理論的要點63：
+
+     C是Mill界定下的原因，E是其後果（effect）
+                              ，若且唯若，
+
+   （1）C與E都是真實的。
+
+   （2）E晚於C出現。
+
+   （3）C是後面所有那些因素的集合（set）
+                       ： c1, …, cn（n是正整
+      數），此一集合是發生E的充分條件（亦即，若C則E，是
+          永遠確定的（it is always the case）
+                                     ）
+
+   （4）集合C的每一個元素ci，都是發生E的必要條件[Each ci ∈ C
+          is necessary for E (for all i ∈ 1, …, n) (i.e., if not- ci, then not-
+          E)]
+
+   （在這個界定下，假設一個結果只有一組特定的前件條件集
+合，Mill通常也同意可以把消極條件（negative condition）敘述為一
+般的積極條件，原因與結果的非對稱性問題，也暫時擱置）（說明
+見下）
+
+     Mill的這個對因果關係的界定理解方式，雖然受到很多批評，
+
+
+
+62 MILL, supra note 1, at 328. (ital. by Mill)
+63 Michael Heidelberger, From Mill via von Kries to Max Weber: Causality,
+   Explanation, and Understanding, in HISTORICAL PERSPECTIVES ON ERKLÄREN AND
+   VERSTEHEN 241, 245 (Uljana Feest ed., 2010).
+82                       《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+例如後見推論之謬誤（post hoc）64，不過本文此處仍先說明幾個相
+關之處：
+
+     （1）Mill所提出的but-for關係，或可稱為「若非，則不」或
+        「若無，則不」，其實就是英語版的「不可想像其不存
+          在」，也就是前面提到，在德語世界由Glaser最早提出的
+          nicht hinweggedacht werden kann。我沒有做更深入的思想
+          史探究，以目前的資料看來，Mill是在哲學與邏輯的領
+          域，Glaser是在法學的領域，兩者相互獨立地提出了類似
+          的分析方法。
+
+     （2）所謂因果的非對稱性問題是指，在純粹的邏輯關係分析
+          中，若p則q，p是q的充分條件，q就一定是p的必要條件。
+          因此在條件的意義下，p與q彼此有對稱性。這在充分必要
+          關係中最清楚，如果p與q彼此有充分必要關係，這兩者彼
+          此既是充分條件，也是必要條件。但是在因果關係當中，
+          就不存在這個可能性，p與q彼此不可能同時既是原因，也
+          是結果。
+
+     （3）Mill是個經驗主義者，他認為要獲得科學的知識法則或規
+        律，必須透過經驗或實驗之觀察與歸納的方式。透過經驗
+          或實驗歸納，可以建立經驗法則或事物或現象彼此之間的
+          因 果 關 係 或 因 果 定 律 。 但 是 這 些 經 驗 法 則 （ empirical
+          laws）的性質並不都完全一樣，大體上可以分為兩類。
+
+     （4）第 一 類 是 直 接 透 過 觀 察 歸 納 得 出 的 「 衍 伸 法 則 」
+          （derivative laws）
+                          ，例如古代以來，透過長期的觀察，古代
+          文明早就得出不少相當正確的，對於定期出現之日蝕現
+
+
+64 這是個謬誤的推論，其意思是指，因為a事件發生於b事件前，就認為a是b的原
+     因。
+相當因果關係與社會科學方法論                                          83
+
+
+            象。這些規律可以非常精確地預測日蝕出現的時間，也是
+            來自於經驗考察，但是從中並無法建立或找出日蝕的成
+            因，無法建立因果關係。因此還需要另外一種更深層的法
+            則或規律65。
+
+    （5）另外一種更深層的規律Mill稱之為「終局規律」（ultimate
+            laws）。Mill指出，一直到天文物理學逐漸研究清楚天體運
+            行的力學原理與法則之後，大家才開始掌握了解在「日蝕
+            法則」背後的終局規律到底是什麼。而從這些終局規律，
+            可以得出更多的其他衍伸法則。Mill就說，「從數量有限
+            的因果關係終局規律（ultimate laws of causation）
+                                                ，必然可
+            以得出數量眾多的衍伸規律性（uniformities），……有些
+            是 不 同 效 果 的 接 續 （ succession ） 法 則 ， 有 的 是 共 存
+          （coexistence）法則。66」
+
+      從以上的整理，我們可以得到一些思考。首先，對Mill來說，
+條件是邏輯關係的思考分析工具，但是因果關係終究是經驗世界裡
+的現象規律性或法則，兩者處於不同的思考層次。從前述的資料來
+看，Mill也無法從邏輯關係，推論出原因與結果是否有某種形上學
+的基礎關連。但是他也沒有因為是經驗歸納得出的法則，就如同
+Hume般，認為因果律僅僅是心理作用。至於所謂因果關係終局規
+律，也可以理解為得以建立體系性自然科學知識的基礎，而不必然
+需要預設任何目的論形上學基礎。
+
+      其次，條件與因果分屬於不同的範疇，我們可以嘗試用邏輯條
+件關係，來分析說明因果關係，但是這兩個概念無法等同。因此如
+果以原因等價論，說明原因裡的各項因素彼此等價，這是可以成立
+的。但是把整個理論說成為條件論，或者用conditio sine qua non來
+
+
+65 MILL, supra note 1, at 516.
+66 Id. at 517.
+84                                     《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+代表，即使相沿成習而加以接受，但是在學理上其實是不妥當的。
+
+       第三，因果規律或法則，依照Mill，必須透過經驗觀察、實驗
+與歸納始能獲得。由經驗現象歸納得出法則，必須經歷一個普遍化
+或一般化（generalization）的思考過程，雖然歸納法，在嚴格邏輯
+角度下，是無法徹底的一般化。即使暫時不論這個推演的障礙，一
+般化就必須抽象化，將具體的事件或因素，抽象轉變為某種類別種
+屬，以便於將得出的法則，透過抽象類別的涵攝作用，運用到另外
+的一個個案當中，以完成對新個案的因果關係判斷。然而因果律的
+獲取或應用，與對個別事件或狀態的因果關係說明，是兩件不同的
+事情。在個別事件或狀態裡，結果是特殊的，例如某甲死亡，原因
+集合裡的各項因素，也都是特殊的，例如特定的槍枝、子彈，某甲
+特定身體部位的槍傷，特定某人（例如某乙），在特定的時間、地
+點，開槍射擊甲……等等。雖然在做出因果關係判斷時，我們都一
+定會援用經驗法則，但是在真實世界裡，是特定的原因集合，造成
+了（verursacht）特定的結果，抽象一般性的因果法則，雖然可以用
+來說明因果關係，它本身卻沒有任何因果作用。
+
+       第四，Heidelberger對Mill理論的整理，其實反映了從Hart/
+Honoré開始，就逐漸發展的NESS以及INUS理論。Hart/Honoré曾經
+在著作裡提到一種以必要條件，但是卻又不是bur-for或conditio sine
+qua non的理解原因之方式，
+
+      一個條件，可以僅因為是，一組共同構成某結果會出現之
+      充分條件當中的一個要素，而成為該結果之必要條件：亦
+      即為了該組條件之完整，它是必要的67。
+
+
+
+
+67 HART & HONORÉ, supra note 41, at 106. “A condition may be necessary just in the
+     sense that it is one of a set of conditions jointly sufficient for the production of the
+     consequence: it is necessary because it is required to complete this set.”
+相當因果關係與社會科學方法論                                                                  85
+
+
+       這個想法後來又透過Ingeborg Puppe以及英語世界最主要透過
+Richard Wright發展出NESS理論，“necessary element of a sufficient
+set”，以及由John L. Mackie發展出INUS理論：一個非必要，但充分
+之條件當中，非充分且不冗餘的部份（an insufficient but non-
+                                                          68
+redundant part of an unnecessary but sufficient condition） 。
+
+
+
+肆、von Kries的理論
+
+       一般公認，von Kries是相當因果關係論的創始者。von Kries是
+生理學家，對心理學等領域也有相當大的研究貢獻。他並非法學
+家，但是法學領域提及因果關係之相當因果論時，幾乎一定會提到
+他。如果看他針對法學問題的著作，一定也會驚訝於著作中呈現的
+專業法學討論水準。
+
+       然而另一方面，也許因為經歷了一整個世紀的學說發展，其影
+響力日漸衰微，晚近法學著作提到von Kries的理論時，經常相當制
+式地以簡化的方式說明，往往缺少比較深入的探討。遠不如一個世
+紀前的韋伯，在其方法論著作中多次引用von Kries；半個多世紀前
+的Hart與Honoré，也在其經典著作《法律中的因果論》深入討論了
+他的理論。
+
+       英語世界韋伯研究者，也對韋伯與von Kries的關係有所研
+  69
+究 。以下僅先簡述著名的韋伯研究者Fritz Ringer在他較晚近著作
+
+
+68 對之簡短說明，請參考MARKUS D. DUBBER & TATJANA HÖRNLE EDS., THE OXFORD
+   HANDBOOK OF CRIMINAL LAW 474 (2014).
+69 FRITZ RINGER, MAX WEBER’S METHODOLOGY: THE UNIFICATION OF THE CULTURAL
+   AND SOCIAL SCIENCES 63 (1997); Fritz Ringer, Max Weber on Causal Analysis,
+   Interpretation, and Comparison, 41 HIST. AND THEORY 163, 163-78 (2002); FRITZ
+   RINGER, MAX WEBER: AN INTELLECTUAL BIOGRAPHY 80 (2010) [hereinafter RINGER
+   (2010)]; Stephen P. Turner & Regis A. Factor, Objective Possibility and Adequate
+86                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+中對von Kries理論的幾點說明70。
+
+     （1）一如韋伯，von Kries知道我們無法完整掌握描述客觀的實
+           相或真實（reality），我們對於任何事件的先行條件或其後
+           果，都只能有不完整的描述，也只能透過抽象概念給予一
+           般化（conceptually generalized），我們只能評估在某些先
+           行條件下特定結果發生的或然性（likelihood）。在擲骰子
+           前，我們就可以相當精確預估每一種點數出現的數學機
+           率，但是每一種點數出現的可能性是不高的，取決於純然
+           意外（accidental）的條件。
+
+     （2）除了單一特定確定結果的因果法則之外，我們也可以獲得
+           具備發生可能性的因果法則知識。而這正是我們對於歷史
+           上已經發生之事件，所欲回溯了解促成其發生之可能因素
+           之知識基礎。因為對促成可能發生之諸種因素，我們可以
+           設想若某某因素不存在或不出現，是否該歷史事件或某結
+           果，就不會發生。
+
+     （3）例如因為酒醉或打瞌睡，馬車伕偏離了原本預定走的路
+           徑，在此偏離之行程中某乘客遭受到雷擊而死亡，我們基
+           於下述兩個理由，認為馬車伕並不需要對乘客死亡負起刑
+           事責任，A. 馬車行程的偏離，並未顯著增加乘客遭受惡
+           劣天氣下雷擊的客觀可能性；B. 我們無從建立馬車伕酒
+           醉，與乘客遭受雷擊，兩者之間的一般可能性法則關連。
+           但是如果因為酒醉而翻車，導致乘客死亡，則前述兩條件
+           就可滿足，就可認定馬車伕對該乘客之死亡應該負起責任。
+
+
+
+   Causation in Weber’s Methodological Writings, 29 THE SOC. REV. 5, 5-28 (1981);
+   Gerhard Wagner & Heinz Zipprian, The Problem of Reference in Max Weber’s Theory
+   of Causal Explanation, 9 HUM. STUD. 21, 21-42 (1986).
+70 以下各點請參考RINGER (2010), supra note 69, at 80-81.
+相當因果關係與社會科學方法論                                  87
+
+
+ （4）von Kries反對Hume以來，對於兩個事件（類型）彼此單
+    一不變（invariable）相接續發生之因果關係模式。在這種
+    模式下，往往把單一原因條件認為是該結果之充分條件。
+    因為從觀察者的角度觀之，很少有事件之發生僅僅追溯到
+    單一先前因素或單一原因。但是我們往往可以確定，在所
+    有先前因素（之集合）當中，有某個特定因素的出現或發
+    生，實質增加了發生該結果的可能性，甚至在其他條件有
+    所改變的情況下，此因素也有此實質貢獻。
+
+ （5）von Kries把發揮實質增加發生可能性之因素稱為作用
+    （acting, Wirken）
+                   ，並且把這種關係之原因與結果稱為「相
+    當 之 原 因 」 與 「 相 當 之 結 果 」（ adequate cause and
+    effect）
+          。也可以說前者偏好了（favor）了後者的出現。
+
+ （6）在這種觀念下，原因是結果的必要條件或必要原因，這一
+    條件必須結合其他的條件，共同發生作用。在判斷原因為
+    何 時 ， von Kries 建 議 我 們 要 注 意 兩 種 因 素 ： A. 偏 離
+    （deviation）事物常態進展，而造成其他先前因素之改變
+    （alteration），例如某個開關沒有在正常的位置；B. 在某
+    些事態（state of affairs）已經穩定存續相當時間之後，若
+    出現某個特別的改變，那麼我們可以去探索追尋造成此改
+    變的原因因素。在這兩種注意方向下，我們都是去注意具
+    有積極作用力的因素，這些因素可能改變了原初的條件，
+    改變了事情發展的流程，因此很可能就造就了結果的變
+    化，而這個變化是在沒有那些因素時，不會出現的。
+
+ （7）為了要進行這種對於原因因素的探究，von Kries當然要採
+    用某種反事實的推論（counterfactual reasoning）。他之所
+    以推薦以法則化之發生可能性來思考，就是要以「如果某
+    因素不存在」是否結果就會不一樣的方式，來證立法學上
+88                                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+            的判斷。
+
+  Ringer的這個綜述相當精簡清晰，可以作為我們了解von Kries
+理論的基本入手架構，尤其如果並不關切von Kries理論在法學方面
+的更精緻詳盡的意義，此一理解大致上已經足夠。
+
+       但是von Kries的理論論述，還是有不少需要釐清之處，尤其
+Ringer自己強調韋伯的方法論，是一種「單一原因分析」（singular
+causal analysis），這都需要更多對von Kries理論以及相關科學哲學
+的理解。以下先嘗試說明幾個在von Kries理論當中出現，但是對之
+解說較少的概念71。
+                                       72
+       von Kries的1888年的著作《論客觀可能性概念及其應用》 是
+他在此一領域最有代表性的著作。這個著作中，客觀可能性（die
+objektive Möglichkeit）當然是最關鍵的概念，韋伯也把這個概念直
+接運用在他的著作當中。不過在該書一開始的部份，von Kries就指
+出，要了解或然性與可能性兩個概念，必然預設了一個前提，亦即
+「每一個事實上發生的事件，都是先前存在的事物關係之全體所必
+然導致的」 73 。就這一前提而言，von Kries與Mill的想法是一致
+的。
+
+   在 這 個 前 提 下 ， von Kries 指 出 ， 每 一 個 或 然 性
+（Wahrscheinlichkeit, probability，亦可稱為或然率、機率）都具有主
+觀的性質。例如我們擲骰子，我們可以確定地說，每擲10次會有出
+現1次數值6的機率，因為我們確定地知道，擲出6的機率是1/6。
+
+
+
+
+71 von Kries此著作非常有趣，但也有許多不容易清楚精確了解之處。就筆者的相
+     關文獻閱讀來看，我也不認為英語及德語的研究者都能完整地掌握。
+72 參見Johannes von Kries, Ueber den Begriff der objektiven Möglichkeit und einige
+     Anwendungen desselben, 1888.
+73 von Kries (Fn. 72), S. 180.
+相當因果關係與社會科學方法論                             89
+
+
+      但是這個1/6的機率，既然是統計學理上確定無疑的機率數
+值，為何von Kries認為其帶有主觀的性質（die subjektive Natur）
+呢？von Kries說，我們之所以可以如此確定地指出這個1/6的機
+率，正好因為我們完全不知道，6這個數值，在這一特定的拋擲
+下，會出現或者不會出現74。然而即使這樣說明，我們一時還是很
+難理解，一個客觀的數學機率數值，為何帶有主觀性質。
+
+      其關鍵在於，雖然我們可以把1/6的機率，轉化想像成，當我
+們拋擲的次數夠多的時候，出現6的次數，大約是總拋擲次數的
+1/6，但是1/6的機率值，並不是實際上嘗試拋擲多次骰子之後，經
+驗歸納出來的結果。相反的，那種經驗想像，是在一定的數理邏輯
+關係產出1/6機率之後，透過我們自身的主觀性所設想出來的想像
+結果。換句話說，1/6的機率，是獨立於經驗中或實際上任何擲骰
+子動作之外，智性上所思考出來的結果。在這個意義上，此等機率
+都是主觀的，意思是繫於人們的智性思考，而非經驗中的任何實相
+（reality）
+        。
+
+      另一方面，所謂的「客觀可能性」卻是不一樣的考察角度與觀
+念。當我們說，某一事件或狀態的發生是可能的，意思是我們並不
+確知，該事件在許多個案中到底會還是不會發生。亦即我們僅知
+道，某一種狀況，例如臺灣成為一個完全獨立的國家，在未來有可
+能發生，也有可能不發生。或者對於已經發生的事件，例如美麗島
+事件，雖然事實上已經發生，但是也有可能不發生75。
+
+      在完全確定的條件與結果關係裡，客觀可能性的概念沒有辦法
+適用。因為在那種關係下，一定原因條件的出現或存在必然會導致
+特定結果的發生。但是在大多數情況下，我們很難對經驗當中出現
+的各種現象，獲得完全確定，必然會發生特定結果的因果法則。通
+
+
+74 von Kries (Fn. 72), S. 180.
+75 von Kries (Fn. 72), S. 180.
+90                               《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+常我們只能透過一般性的描述方法，來陳述原因條件，而且對於特
+定狀態是否發生的所有各種條件或事態（Umstände），我們只能掌
+握確定其中的一部份，對於另外一部份則處於無知或不確定的狀
+態76。
+
+      例如我們對於在某一時刻/時段，例如七點到七點十五分，是
+否能準時回到家中，我們大約只能知道，當可以大致準時下班，可
+以順利騎上U-Bike，一路順利騎到捷運站，想搭的捷運班次正常，
+不需要等待太久，搭上後又正常前進，因此順利抵達要去的捷運
+站，出站後轉搭公車也一切正常，……，因此預估可完成準時回到
+家的結果。
+
+      但是在前述過程裡，永遠有其他許多（甚至無數）可能發生的
+狀況會出現。例如突然下大雨，不巧所有U-Bike都被騎走了，捷運
+某班次故障，導致無法常態發車……等等。當這些因素之一出現
+時，可能就會造成無法準時回到家的結果。是否能準時回到家的這
+個結果，永遠繫於許多因素的共同作用或消極的不出現，即使我們
+可以標誌出「準時下班」
+          、「還有U-Bike」、「捷運正常」……等多個
+一般性的條件，這也僅僅是可造就準時回到家的原因條件集合當
+中，非常有限的一部份。
+
+      不過即使有一大堆不確定，我們無法掌握的因素，甚至我們不
+清楚、不知道的因素，我們仍舊可以說：準時回到家，是「客觀可
+能的」。一如von Kries所舉的，比較極端的例子，就是擲骰子時，
+連續10次都擲出6點 77 。其實我們完全不知道，每特定的一次拋
+擲，為何會出現6的具體原因條件，到底有哪些。從主觀機率的角
+度來看，1/6的十次方，也是一個非常小的機會。然而我們仍舊可
+以說，連續擲出10次6，是「可能」的。亦即，只要沒有完全排除
+
+
+76 von Kries (Fn. 72), S. 181.
+77 von Kries (Fn. 72), S. 181.
+相當因果關係與社會科學方法論                                        91
+
+
+此等可能性的狀況存在，我們就會說，這是客觀可能的。
+
+   客觀可能性，指涉的是經驗世界當中，某一種特定的狀況，是
+否有出現的可能性。機率的大小，與這個判斷無關。但是這個判
+斷，卻需要依賴於好些特定的，法則性的（nomologisch）知識作為
+基礎。前述準時回家的例子，就需要依賴許多法則知識來判斷，例
+如捷運的機械動力學等。就是因為可基於許多法則知識的基礎，我
+們才能合理說，某某狀況的發生是可能的。或者反過來判斷，因為
+距離太遠，即使順利搭捷運等等，以其行車時間來判斷，要在那個
+時刻回到家，客觀上是不可能的。
+
+   給予了初步清楚的理論定位後，von Kries又引進了幾個概念，
+                    （der Spielraum）的
+以更深入說明客觀可能性。首先是「游移空間」
+概念78。在一定的一般性條件下，個案的樣本數量夠大，某個狀態
+出現的頻率，可以給予一個數值。這個數值可以是次數，例如每年
+七月到十月，西太平洋產生的颱風並侵襲臺灣的數量。某一年可能
+是3個，另外一年是5個。也可以是比例，例如某一年總共出現20個
+颱風，有5個侵襲臺灣，可以得出25%的數值。通常在統計學裡有
+「樣本空間」概念，其意義是指總樣本數，在前述例子該年度，就
+是20。但是von Kries在該書中使用「游移空間」概念，並不僅限於
+總數或總空間，因此可以指「侵襲臺灣」的1/4空間（5），也可以
+指「未侵襲」的3/4（15），當然也可以用來指涉全體1（20）。von
+Kries使用這個概念來說明，客觀可能性可以透過數值來表達，而比
+例數值就相當於一種出現的機率。很重要的是，這是指經驗世界當
+中，在大數法則下，客觀上特定事態會出現的可能性，而非前面提
+過的，純粹智性上的機率，雖然我們也可以用機率或或然率
+
+
+
+78 von Kries (Fn. 72), S. 182 ff. 游移空間主要是指其機率大小會隨著不同具體狀況
+  而改變。這可能不是個好的翻譯，不過如果直接依照字面翻譯為遊戲空間，可
+  能更難理解。
+92                                 《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+（Wahrscheinlichkeit）來表達後者。
+
+       此一游移空間概念，也顯示了有別於法則或定律式的因果關
+係。在許多情況下，特定結果的出現或發生，依繫於許多不同的因
+素，例如感冒好了，可能是因為服用感冒藥，多喝水，多休息，請
+假不去上班，等等不同的因素所造就，但是我們永遠無法確切知
+道，哪個或哪些因素，是感冒逐漸康復的原因。也正是因為如此，
+所以其或然率大小是游移不定的，而不可能是一個絕對固定的數
+值。學者Weyma Lübbe指出，此等因果關係，並非嚴格法則式的因
+果關係，而是許多因素共同作用發揮的功能。如果要比較其在抽象
+層次的關係，此等關係在因果方面是低度決定性的79。
+
+       之所以要強調這一層面，是因為「實際」上會出現或不會出現
+某個事態，當然取決於經驗或真實世界中的種種其他相關事實條
+件，而不僅僅是智性上的邏輯關係設定。這即使是在擲骰子的狀況
+下，也是如此。智性觀念上的擲骰子，每一個數值出現的機率是
+1/6，與真實世界中，實際上反覆多次去擲骰子，每一個數值，例
+如1，出現的次數之游移空間或「客觀可能性」，大約也是1/6，兩
+者的意義並不相同。
+
+       後者是透過把其他所有可能影響出現數值的事實因素條件，都
+給予某種一般化、普遍化的處理，von Kries稱之為「一般條件」
+（allgemeine Bedingungen）
+                       ，在給定此等一般條件之前提下，來考察
+特定事態的出現或不出現。例如給定每年七到十月西太平洋的海水
+溫度、北方高壓等等（大氣科學或地球科學）條件，再來考量出現
+的颱風數量，以及侵襲臺灣的颱風數量。
+
+
+
+79 „Die Art der Beziehung ist eine Funktion der mitwirkenden Umstände. Als abstrakte
+     Beziehung also kausal unterbestimmt.“ 參 見 Weyma Lübbe, Die Theorie der
+     adäquaten Verursachung: Zum Verhältnis von philosophischem und juristischem
+     Kausalitätsbegriff, JGPS 24 (1993), S. 87 (94).
+相當因果關係與社會科學方法論                                         93
+
+
+     此處所謂給定一般條件，並不是假設說，這些條件在真實世界
+中恆常不變。正好相反的，正因為這些條件所指涉的具體因素，在
+真實世界中是不斷變化的，我們才刻意以抽象化、普遍化的方式來
+將這些因素界定為普遍化條件。而且我們永遠無法確知，這些條件
+指涉的個別經驗要素（某一時間，某一位置的海水溫度、風向等
+等）是如何具體地影響了颱風的生成以及路徑；也永遠無法知道，
+是否還有其他許多的可能因素，也影響了颱風的生成與路徑。
+
+     von Kries又引進了另外一個概念：Zufall，可翻譯為偶然事件
+或機遇（我偏好後者，詳下）。讓我們再思考比較兩種例子。一種
+就是提到多次的擲骰子，或者賭輪盤（Roulette）這一類，von
+                              80
+Kries稱之為純然的「機遇遊戲」（Zufallspiel） 。另外一種，我們
+就以籃球比賽中，某一特定球員的投籃（出手）來思考。這兩種都
+涉及到使用手去擲骰子、丟出輪盤珠子，或者投籃。我們都知道，
+投擲的手勁、方式、角度等等，甚至空氣的濕度、溫度等等其他物
+理因素，都可能會影響到某一次具體擲骰子或投籃的結果，但是我
+們無法知道這些具體因素是如何影響到具體結果，我們即使可以獲
+知一些因素的數值或資料，我們也完全無法據此來預測該次的結果
+（拋出的數字或投籃是否命中）
+             。
+
+     然而在純然的「機遇遊戲」裡，不論那些潛在影響因素如何變
+化，不論一次又一次的拋擲之具體結果是什麼，以擲骰子為例，每
+一個數值被拋擲出來的游移空間，都仍然維持不變，都一樣是
+1/6 。 von Kries 把 這 種 機 遇 狀 態 ， 稱 之 為 絕 對 機 遇 （ absoluter
+Zufall）。但是在籃球比賽中的投籃，雖然我們也一樣不知道各種因
+素如何具體影響每一次的投籃，也無法預測每一次投籃是否命中，
+但是投籃的命中率或其游移空間，不可能維持相同，而會隨著次數
+的 增 加 ， 而 不 斷 變 化 。 這 種 狀 況 von Kries 稱 之 為 相 對 機 遇
+
+
+80 Lübbe (Fn. 79), S. 185.
+94                                   《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+（relativer Zufall）81。
+
+       由於人類知識的有限性，因此我們無法清楚知道，為何有的競
+ 技遊戲是絕對機遇，有的則是相對機遇。非常可能僅僅因為，有的
+ 遊戲的簡單性，使得其進行具備一種「抗變化性」，使得其長期累
+ 積結果，呈現穩定的「游移空間」之數值，亦即其游移變化的程度
+ 不高。
+
+       von Kries在此等觀念基礎上，又做了許多深入的分析討論，本
+ 於本文的研究目的，此處無法對許多細節做更多的介紹。但是基於
+ 以上的探討，以下必須針對一個最關鍵之處加以說明。先讓我們看
+ 一段引文，
+
+      為了以簡明的方式來表達前述兩種因果關係之區分，我將
+      分別以相當的以及機遇的起因造就來稱呼。如果原因因素
+      A導致了結果B的出現（條件化），當我們可以一般性地將
+      A視為有利於B出現的狀態，那麼A就是B的相當（或相適
+      當）原因，B是A的相適當結果；如果A不具備這種能力，
+      那A與B彼此就是機遇原因以及機遇結果82。
+
+       這段話是相當因果關係論的標準陳述與出處，也是一般學者
+（如前引國內學者）透過Karl Engisch掌握此理論，以及「相當原
+ 因」與「偶然原因」此組區分的來源。有幾個部份需要進一步探
+ 索。
+
+
+
+
+ 81 Lübbe (Fn. 79), S. 187.
+ 82 Lübbe (Fn. 79), S. 202. „Um für die bezeichnete Differenz kurze Ausdrücke zu haben,
+     will ich einerseits von adäquaten, andererseits von zufälligen Verursachungen reden.
+     Es soll also, wo das ursächliche Moment A den Erfolg B verursachte (bedingte), A die
+     adäquate Ursache von B, B die adäquate Folge von A heissen, falls generell A als
+     begünstigender Umstand von B anzusehen ist; im entgegengesetzten Falle soll von
+     zufälliger Verursachung und zufälligem Effekte gesprochen werden.“
+相當因果關係與社會科學方法論                  95
+
+
+ （1）相當因果關係之批評意見當中，有認為此理論仍包含了條
+    件因果論。這個批評的意義不大，因為本來von Bar或者
+    von Kries就是預設了條件論，這在他們的著作的開頭就可
+    以看得很清楚。還有一種批評認為應該區分因果論與歸責
+    論。這一看法也很難說切中要害，因為這些學者，包括
+    von Kries也都清楚意識到此一問題，並且也是在有此等意
+    識下，認為還是應該要有一種因果關係的理論作為基礎。
+    這點在德國當前法學界的一般觀點下仍是通說，不然就不
+    會出現最前面引用2016年BGHZ判決所顯示的「綜合使
+    用」條件論與相當因果論的方法。
+
+ （2）本文初步認為在民事法領域裡，綜合使用倒不失為一種可
+    行性高的方案。至於在刑法領域，所謂回歸條件論，因為
+    不可能是Mill的「一體充分條件」論（所有因素綜合為
+    「一個」充分原因，個別因素無法構成原因）
+                       ，比較可能的
+    是等價論。但是等價論無邊無界，因此終究還是需要一個
+    篩選的判斷，此時即便不使用相當因果論的說法，還是很
+    難避免使用到相當因果論的思考方式，或參考其判斷基
+    準。整體而言，筆者認為前引Puppe教授的意見可以詳加
+    研究思考。
+
+ （3）本文並不打算針對實證法學裡的因果判斷提供什麼學說見
+    解，前述的論述僅提供參考。因果關係的判斷與理論，當
+    然遠超過實證法學的領域。von Kries也不是法學家，而是
+    一個經驗研究的科學家。雖然他非常有意識地要針對法
+    學，提供他的因果關係理論見解作為協助，長期來看，
+    von Kries的理論觀點與洞見，更具備在科學哲學與社會科
+    學方法論上的意義。
+
+ （4）我們一般比較注意的是「相當」或相適當的原因與結果，
+96               《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+       但是我認為重要的觀念洞見其實是在「機遇原因」，或機
+       遇（Zufall）這個概念本身。機遇概念的重點，並不在於
+       偶然（contingent）（所以我不太贊成翻譯為偶然原因），
+       而在於「不知道」或無從知道。非常有趣的是，von Kries
+       指出，決定擲骰子每次會出現哪個數值的原因條件其實相
+       當有限，例如拋擲的力道、方式；骰子落下碰撞所在的容
+       器或桌面的材質等，我們只是不知道或無從知道，這些條
+       件在每一次拋擲當中，具體因素發揮了如何的作用。
+
+     （5）也因此von Kries指出，正因為我們對個案當中的因素知道
+       的越少，我們就越需要將條件「一般化」，將因果的關
+       係，盡量以「法則化」的方式來加以呈現。而正是因為這
+       並非具備「絕對決定性」的必然法則，因此會以相對可能
+       性（但是是客觀的）的或然性法則的方式呈現出來。
+
+     （6）具備絕對機遇性的「機遇遊戲」裡，我們即使可以把影響
+       因素「一般條件」化，但是完全無法獲致任何的客觀可能
+       性法則（因為完全無知）。因此每一種數值出現的機率或
+       游移空間，都是一樣的。
+
+     （7）絕大部分生活中會出現的現象，都是具備部份知識的相對
+       機遇性。例如大部分（甚至所有）運動比賽都是相對機遇
+       的，因此我們雖然可透過不斷的訓練等方式─仍先以籃
+       球為例─增進體力、體能、團隊默契、投籃命中率等，
+       這些努力，從經驗數值上來看，確實可增加達成競賽目標
+       的客觀可能性。但是每一次的比賽裡，不論是運球、傳
+       球、跑位、出手投籃、搶籃板球等，其成效都仍舊具備相
+       當程度的機遇性，甚至機遇程度的大小，都很難預估，當
+       「運氣」不佳的時候，即使最好的射手，仍可能在一場比
+       賽中不斷地「打鐵」（投不進）。這也就是俗稱「球是圓
+相當因果關係與社會科學方法論                         97
+
+
+          的」，沒有人知道或有方法可以準確預測，某一場比賽的
+          結果。
+
+   （8）我們可以說，von Kries的理論分析，與其說是提出相當因
+          果關係的理論，從本文的角度觀之，不如說是凸顯提醒了
+          機遇原因的意義與重要性，並嘗試以理性化的方式，提供
+          我們一種面對、處理機遇性的方案，而這個方案的重點，
+          又在於如何將其連結於人們的意識、知識、意欲與決定。
+
+   （9）例如在籃球比賽的最後階段，往往會出現一些導致比賽結
+          果逆轉的狀況，例如球沒拿好、被抄截、籃板球正好彈到
+          某人手裡……等等，有太多可能的狀況，此時我們當然可
+          以合理地說，手沒有抹粉（所以球掉了）、場地滑（所以
+          滑倒沒接到球）、觀眾叫喊聲、甚至場地燈光等因素，造
+          成了某個失誤或投球應該進而未進的結果，但是在回顧或
+          檢討一場比賽時，我們通常還是聚焦在球員的表現以及教
+          練的調度等人的因素上（有時包括裁判），而不會把場地
+          或觀眾等造成物理或心理狀態實際上變動的因素，當成是
+          球賽勝敗的原因。為何會如此呢？且看下面的說明。
+
+
+
+伍、賴氏對相當因果關係的討論
+
+     本節所要簡短說明探索的著作，是賴氏於1902年發表的博士論
+文《相當因果關係之學說》83，當時賴氏只有24歲，此作品是在他
+的指導教授Franz von Liszt的Seminar上發展完成的。該主題雖然是
+個典型的法釋義學主題，但是賴氏的哲學傾向，使得他的這份論文
+
+
+
+83 參見Radbruch (Fn. 8).
+98                                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+更像是一本對法理論以及方法論的研究成果84。雖然韋伯對這個著
+作給予非常高度的肯定，著作本身也有許多高度抽象複雜的討論，
+不過這畢竟僅是一位年輕學子的博士論文，我們不能對它有太高的
+學術創見期待。著作主題是相當因果關係之學說，內容當然會涉及
+對von Kries 理論的研究，有不少觀點或概念，直接來自於von
+                 85
+Kries，例如游移空間、可能性等 ，可以看出von Kries對賴氏的影
+響相當大。
+
+     不過有幾點我們需要了解，首先，這並不是一份只研究von
+Kries理論的作品，賴氏相當廣泛地研究了當時許多重要的相當因果
+關係理論文獻。其次，賴氏並不是von Kries理論的支持者。賴氏雖
+然認為von Kries的理論有非常高的重要性，但是他也指出了這個理
+論的許多缺點，提出了無保留的批判。第三，可能因為著作名稱以
+及韋伯的影響，很容易認為賴氏是相當因果關係理論的支持者。但
+是就這份著作來看，賴氏對相當因果理論，包括幾種不同取向的版
+本，都提出了相當的質疑。對於此理論在刑法以及民法的應用，也
+都有不少的檢討與保留。在論文的一些地方，也直接表示對通說
+                        ，也就是von Buri的條件論，的肯定86。因
+（die herrschende Theorie）
+此賴氏其實應該定位為對相當因果論的反對者，或至少是懷疑者。
+
+     當然這裡所談到的肯定、批評或質疑，都是在法學領域內，對
+相當因果關係學說的檢討。但是von Kries並非法學家，雖然相當關
+
+
+84 Monika    Frommel, Einleitung, in: Kaufmann (Hrsg.), Gustav Radbruch
+   Gesamtausgabe, Bd. 7: Strafrecht I, bearb. von Frommel, 1995, S. 1 (1); Arthur
+   Kaufmann, Gustav Radbruch—Leben und Werk, in: Kaufmann (Hrsg.), Gustav
+   Radbruch Gesamtausgabe, Bd. 1, bearb. von Kaufmann, 1987, S. 7 (19).
+85 Radbruch (Fn. 8), S. 17-18.
+86 Radbruch (Fn. 8), S. 71. „Im vorigen habe ich mich grundsätzlich für die herrschende
+   Theorie entschieden. Gegen sie läßt sich nun der folgende Einwand erheben.“ 經過
+   一些討論後，又在第74頁寫道，„Damit erachte ich den einzigen Einwand, der sich
+   je gegen die logische Geschlossenheit der herrschenden Theorie erhoben hat, für
+   zurückgewiesen.“
+相當因果關係與社會科學方法論                                                                      99
+
+
+注法學，他的理論意涵絕不僅限應用於法學。韋伯也說，「在此我
+首先要申明一點：基於歷史『客體』之特性，只有von Kries的理論
+當中最基本的組成部份，才對史學方法論而言有意義。87」雖然韋
+伯並沒有講清楚，他所指稱von Kries理論最基本組成部份是指哪些
+部份，不過由韋伯著作可以看出，這些部份並非與法學討論完全無
+關（見後）。以下本節對賴氏博士論文的探索，也將以相當因果論
+的基本組成部份為指導，來說明賴氏思考的重點。
+
+一、一般定位
+
+     賴氏在著作的導論中，一開始就指出，針對因果關係問題：
+
+     自然科學以外在世界（Außenwelt）的某一項改變作為原
+     因 ， 以 說 明 外 在 世 界 的 另 一 項 改 變 ； 精 神 科 學 （ die
+     Geisteswissenschaft）以心理因素說明心理現象；法學則尋
+     求將外在世界的改變（cogitationis poenam nemo patitur）
+                                               ，
+     追溯歸因到心理事實。
+
+     此一工作不能僅透過因果關係來處理。因果關係僅能追溯
+     到身體活動：無法找到能跨越介於身體活動與意欲之間鴻
+     溝的橋樑。法學因此必須將法學上的原因問題分成兩個問
+     題，其一是固有意義的原因問題，另一是責任問題88。
+
+     這段話表明了賴氏當時是以如何的基本立場來看待相關問題。
+其中最關鍵的一點是，賴氏認為固有意義的因果關係問題，是外在
+世界諸多改變彼此之間的關係問題，而且是由自然科學來研究。而
+人類的精神領域或心理現象，不屬於外在世界，也不在此等意義的
+
+
+87 WL (Fn. 5), S. 269, Anm. 3. „Es sei hier von vornherein bemerkt, daß nach der Natur
+   des historischen »Objekts« nur die allerelementarsten Bestandteile der v. Kriesschen
+   Theorie für die Geschichtsmethodologie Bedeutung haben.“
+88 Radbruch (Fn. 8), S. 9. 引文裡的拉丁文意思是，任何人不能僅因為有意圖就受
+   罰。
+100                              《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+因果關係範圍內。亦即一般屬於主觀要素的動機、意欲、意圖、故
+意、認知等，都不在自然科學的研究領域，而屬於當時通行的觀
+念：精神科學的領域。法學的任務更為特殊，是試圖將外在事件的
+改變，回溯歸因到心理狀態。
+
+      一般認為，賴氏的一般哲學基礎，是新康德主義的西南或巴登
+學派，主要以海德堡大學為基地。但是依照Arthur Kaufmann的研
+究，Radbruch是到了海德堡工作，認識了Emil Lask之後，亦即1904
+年之後89，開始受到新康德主義西南學派的影響90。因此撰寫博士
+論文時（1901-02）的賴氏是否受到這一哲學思潮明顯影響仍有待
+考據。賴氏先後在慕尼黑與萊比錫大學讀法律，在萊比錫的時候，
+因為老師跟他說，von Liszt的書是一本危險的書，引起他閱讀的興
+趣。閱讀之後深受影響，因此才轉到柏林大學跟von Liszt做博
+士91。
+
+      倒是在科學哲學上，與新康德主義頗有意見對抗的狄爾泰
+（Wilhelm Dilthey, 1833-1911）的學說，當時已經是在德語世界相當
+強勢的學說觀點，對賴氏有所影響，因為就是狄爾泰將科學區分為
+自然科學與精神科學兩大領域92。在這個基本思路裡，不但所謂固
+
+
+89 請參考Radbruch自己的自傳，Gustav Radbruch, Der innere Weg. Aufriß meines
+   Lebens (1951), in: Kaufmann (Hrsg.), Gustav Radbruch Gesamtausgabe, Bd. 16,
+   bearb. von Spendel, 1988, S. 167 (217)。依此敘述，Radbruch是1904年才認識
+   Lask。亦請參考Berhold Kastner, Biographische Daten Gustav Radbruchs, in:
+   Kaufmann (Hrsg.), Gustav Radbruch Gesamtausgabe, Bd. 20, bearb. von Kastner,
+   2003, S. XXXI (XXXI).
+90 請參考Kaufmann (Fn. 84), S. 73。依照我自己對全集（GRGA）目前為止的耙
+   梳，還缺少明確著作依據，可顯示賴氏撰寫博論時（1902），已經受到新康德
+   主義明顯影響。
+91 Kaufmann (Fn. 84), S. 17.
+92 關於狄爾泰「精神科學」的概念以及與新康德主義的關係，請參考Rudolf A.
+   Makkreel, Wilhelm Dilthey and the Neo-Kantians: On the Conceptual Distinctions
+   between Geisteswissenschaften and Kulturwissenschaften, in NEO-KANTIANISM IN
+   CONTEMPORARY PHILOSOPHY 253 (Rudolf A. Makkreel & Sebastian Luft eds., 2009).
+   亦請參考Wilhelm Dilthey, Einleitung in die Geisteswissenschaften. Versuch einer
+相當因果關係與社會科學方法論                                                                    101
+
+
+有意義的因果關係，是指外在世界的變化與變化之間的關係，必須
+由自然科學來研究；而且精神科學─類似於目前的人文社會科學
+─的研究重點，是人們的精神或心理領域。在這一領域內，心理
+學有特別的重要性93。
+
+     後者的看法，現在當然已經不是人文或社會科學研究的主要看
+法。當時所稱的心理學，也不是當前這種已經高度自然科學化的心
+理學。值得注意的是，賴氏大致上接受了自然科學與精神科學二分
+的架構，以及精神科學研究人們心理狀態或心理現象的定位。在這
+個定位下，他認為法學的重要工作之一，是把外在世界的變化，追
+溯歸因到心理事實94。
+
+     在這個背景下，賴氏又給予了法學一種知識定位。一方面他認
+為主觀心理要素與外在世界變化之間的鴻溝，是無法跨越的，另一
+方面卻又認為法學要將外在世界變化追溯到人們的內心要素。也在
+這個設想下，賴氏認為法學遂把此問題拆解成固有意義的因果問
+題，以及責任問題，兩個部份95。
+
+     賴氏對於因果關係固有意義的理解方式，帶有與von Buri類似
+的某種自然主義傾向，認為因果關係是外在物質世界（physical
+world，包括化學與生命過程）的變化關係。我不清楚von Buri的基
+本哲學立場，但是認為科學可以分為自然科學與精神科學兩大領域
+的賴氏，不會是哲學立場上的自然主義，亦即不會贊成，可以把所
+有非物質現象都轉化化約為物質因素來理解。後來思想逐漸成熟後
+
+
+   Grundlegung für das Studium der Gesellschaft und der Geschichte, in: Gründer/Rodi
+   (Hrsg.), Wilhelm Dilthey Gesammelte Schriften, Bd. 1, 1990.
+93 Radbruch (Fn. 8), S. 9，多次提到心理層面之作用。
+94 Radbruch (Fn. 8), S. 11, „Daß die Rechtswissenschaft aber in der Tat, weder wie die
+   Philosophie, alle Bedingungen, noch, wie die Einzelwissenschaften, eine bestimmte
+   Bedingung, sondern vielmehr jede Bedingung Ursache nennt, läßt sich nur aus der
+   psychologischen Seite der Willensbetätigung verstehen.“
+95 Radbruch (Fn. 8), S. 9.
+102                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+的賴氏，確實不是自然主義的支持者。然而把因果關係之固有意
+義，侷限在外在物質世界現象的變化，人類如果要介入這個過程，
+必須透過亦同屬於物質世界的「身體」之活動，才會產生因果關
+係，主觀的認知、意欲等，都無法介入因果流程96。這種因果關係
+的外在自然主義觀念，現在看起來比較特殊。因為目前的自然主
+義，可以接受（甚至傾向主張），人類所有主觀能力，都是自然世
+界因果流程的一環，人類的主觀能力，例如意念，也可以成為改變
+外在世界的原因，且不一定要直接透過肢體動作。
+
+      不過賴氏的此等思考方式，在當時的德語世界算是相當普遍。
+一方面基於後康德（post-Kant）的哲學基本立場，認為只有外在經
+驗世界的現象，才受到因果律的拘束。另一方面則認為人類最重要
+的特色，或說與自然界區分的能力或領域，就是人類擁有精神能力
+或心理狀態（不一定需用援用任何先驗的哲學理論），而這種心理
+狀態可以或必須以心理學的方式來加以研究確認。心理學，是當時
+德語世界（或者也可能是歐美西方國家）人文社會科學領域的顯
+學。所有的人文社會現象，都有心理學（或心靈、心理領域）的基
+礎。
+
+      與現在流行用功能性核磁共振成像（functional MRI）等掃描
+腦部作用的自然主義心理學不同，當時的心理學主要是意義關聯性
+（Sinnbezogenheit）的心理狀態探索。法學領域內需要大量使用的許
+多主觀要素，例如認知、動機、意欲、有認識、可預見、故意、確
+信、不違背本意、能注意、未注意、善意/惡意等等，都可以被認
+為是具有意義關聯性的心理狀態，也都可以透過心理學來加以認定
+或說明。
+
+
+
+
+96 此等透過身體活動介入引發因果流程的看法，請參考Radbruch (Fn. 8), S. 10.
+相當因果關係與社會科學方法論                        103
+
+
+  這也是賴氏將法學領域因果關係理論區分成固有因果關係與責
+任論兩部分的基本思考。賴氏也在他對「責任概念」的著作當中，
+將故意與過失兩個概念，與特定心理事實狀態的問題相連結。
+
+  就本文目前最關心的議題點而言，正因為與心理/主觀要素有
+所連結，因此賴氏也把法學的因果關係問題，與個人相連結。von
+Kries原本對原因之「作用力」或作用（Wirken）的說法，原本被批
+評帶有將自然力「人類型態」化（anthropomorphisierend）傾向。
+但是法學因果關係因為涉及到責任，反而一定要走向個人化的方
+向。
+
+  前面分析機遇概念時，提到對於運動賽事的賽後分析，不論發
+生了多少機遇事件，分析的重點終究還是指向特定的人：球員、教
+練、裁判等。賽後分析與法律案件分析有個共同特點：究責
+（Zurechnung）的分析。亦即都要指向於特定的人或行為人，分析
+某某人，是否因為某個動作或決定，而要承擔起敗戰後果或案件結
+果的責任。這種究責分析，因為一定涉及對主觀要素的討論，也意
+味著一定要探究行為者為特定行為時之心理狀態。
+
+  那麼社會科學與歷史學，是否也有類似的需求呢？
+
+二、賴氏對於主要相當因果論的檢討：客觀可預見性
+
+  賴氏這本著作對於當時的相當因果關係理論及其與當時實證法
+的關係，有相當深入的研討。不過這整個研討，主要是環繞著一些
+重要的理論分析主軸。讓我們先看一個假想的個案實例：
+
+  A用武器重傷了B，使B深受致命傷害。在B尚未死亡前，A將B
+棄置在森林中某大樹下。後來發生雷雨，雷擊擊中了倒臥在大樹下
+的B，造成B的死亡。後來經過檢驗，B即使不遭雷擊致死，也會死
+於A造成的重傷。
+104                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+      那麼A對B死亡，是負起傷害致死，甚至殺人的罪責，還是僅
+承擔重傷害的罪責呢？
+
+      賴氏分析相當因果論相關問題的最關鍵概念，就是本文一開始
+         （die objektive Möglichkeit）概念，賴氏說，
+提到的「客觀可能性」
+
+      一個結果（Erfolg）的相當條件就是指，當啟動此條件時
+      即可客觀預見該結果的發生，對所有潛在可承擔主觀責任
+      者，都有能力可以知道此等關係之條件97。
+
+      在賴氏的分析下，客觀可能性，就是可以形成客觀可預見性
+（objektive Voraussehbarkeit）的基礎，而一個結果的客觀可預見
+性，不僅預設了法則定律的知識，也預設了存有論的知識。因此客
+觀可能性即為客觀可預見性的前提，是對於可能性判斷之基礎條件
+的可認知性（Erkennbarkeit）
+                   。客觀可認知，意指對任何人而言，皆
+非絕對不可能認知。
+
+      對特定的個人，可能出現不可能認知到某狀態或某條件的情
+況。這是「主觀」的不可認知性。然而對於「客觀可能性」的概念
+操作，其「可能性判斷」，必須以最大可能範圍的法則知識，以及
+最大可能範圍的存有論知識，兩者共同作為基礎。
+
+      客觀可預見性僅僅是一個最外圍的外框，在這個範圍內，
+      主觀的可預見性以及主觀預見，可以有程度不同的移動，
+      並據此可以做出責任承擔之判斷98。
+
+
+
+97 Radbruch (Fn. 8), S. 26-27. „Adäquate Bedingung eines Erfolges ist mithin eine
+   solche Bedingung, bei deren Setzung der Erfolg objektiv voraussehbar war, eine
+   solche Bedingung, welche ‚möglicher Träger einer subjektiven Verschuldung‘ zu sein
+   vermag.“
+98 Radbruch (Fn. 8), S. 26. „Die objektive Voraussehbarkeit ist nun der äußerste
+   Rahmen, in dem sich die subjektive Voraussehbarkeit und Voraussicht bewegen kann,
+   innerhalb dessen also ein Verschulden möglich ist.“ (Hervorhebung vom Verfasser)
+相當因果關係與社會科學方法論                                      105
+
+
+     基於這個基本的分析架構，賴氏將相當因果論類型化為幾個主
+要類型：主觀說、客觀說，與折衷說。很有趣的是，賴氏認為三種
+學說，其實都是主觀說，因為這幾種學說都是以人的意識內涵，來
+區分所需要去預見的條件範圍，並由此界定責任。只不過分別以行
+為人、法官，以及正常人，三種類型來作為界分責任的判準。只不
+過為了簡便，以主觀說、客觀說與折衷說來稱呼99。
+
+     以前述個案為例，若以主觀說來判斷，責任的界線是該行為
+人，也就是A，實際上是否有所預見來判斷。要是A實際上無法預
+見雷擊會發生，A的行為就只對B的重傷，而不對B的死亡，有相當
+因果關係。因此A只需要負起重傷或殺人未遂的罪責。（此處暫不
+論A的原本意圖為何）
+
+     後面兩種判斷都是往客觀方向修正的主觀說。法官觀點是指行
+為人應該要運用一切可用的知識。正常人的角度，則是基於當時一
+般經常，正常人皆可有所預見的觀點。即使A實際上沒有預見，但
+是要是運用一切可能知識即可合理預見後來很有可能發生雷擊，或
+者一般正常人都可預見雷擊很可能發生，那麼A的行為，還是要對
+這個他實際上並沒有預見的後果，承擔起相當原因的地位。亦即A
+要負起重傷致死或殺人既遂的罪責，即使B最後的死亡原因，並非
+來自於A原本所啟動的原因，亦即用武器加以傷害。
+
+     賴 氏 指 出 ， 這 幾 種 學 說 都 是 「 事 後 預 測 」（ nachträgliche
+Prognose），也可說是結果發生之後，回溯性的先見之明或事後諸
+葛。在這種分析下，正也是刻意打破條件論分析下，所有因素都等
+值的看法。
+
+     當然最關鍵的是，行為人對客觀可能性所擁有的認知範圍。既
+然要把結果的發生，歸責或歸咎給個人，或者說把起因造就的造就
+
+
+99 Radbruch (Fn. 8), S. 31.
+106             《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+者歸屬給個人，那麼除了賴氏提到的身體舉止活動外，就必須將行
+為人的主觀要素，尤其是認知與意欲，帶進來考察。然而行為人要
+認知什麼，以及如何（能/可能）認知呢？
+
+三、法則化的因果知識
+
+      前面提到，以最大範圍的法則知識與存有論知識，作為行為人
+把握客觀可能性的基礎。所謂的法則知識，大致上有兩類。一種是
+經驗法則，另外一種則是已經建立起知識基礎的科學法則或定律。
+用通俗說法，前者是「知其然」
+             ，後者是「知其所以然」
+                       。援用前面
+提到Mill的分類，前者是衍伸法則，後者是深層法則。
+
+      至於存有論的知識，則是對真實存在事態的知識，既不需要透
+過法則知識中介或應用，也不需要抽象轉化為一般性的「種類」概
+念。例如知道某一棟房子在某個時段沒有人會在裡面；或者反過
+來，知道有人會在裡面。
+
+      如前所述，在相當因果論裡，界定客觀可預測性時，需要綜合
+最大可能法則知識與最大可能之存有論知識，形成判斷相當因果是
+否成立的最大外框範圍。對這個知識外框的設定，原則上沒有太大
+的問題。需要進一步釐清的爭議點在於，所謂「法則知識」，涉及
+了哪些問題；這種「法則」的出現，與客觀可能性、相當因果論、
+條件、或然率、機遇等等概念之間，又有什麼理論關連？以下基於
+賴氏的作品，提出我的說明。
+
+      （1）相當因果關係論的哲學預設，與條件論或等價論並沒有很
+        大差異，大家都接受某事件之前的「所有條件」結合為單
+        一的原因，充分地促成了這個事件出現。甚至也可以說，
+        從盤古開天闢地以來，這組原因組合就一直作用下來。
+
+      （2）賴氏有一個有趣的說法是：哲學看到「整體原因」；科學
+        看見「個別」原因；法學則是看到「每一個」原因。每一
+相當因果關係與社會科學方法論                                             107
+
+
+           種科學，是用其知識的實質觀點標準，來檢視原因，例如
+           物理學看到力、能量；化學看到分子、價；生物學看到基
+           因、DNA；經濟學看到貨幣、就業等。但是法學卻必須
+           使用「形式」的判準來分析因果。法學使用的概念，都是
+           形式的，而非實質的100。
+
+    （3）不論科學如何發達，知識如何累積，我們永遠都沒有辦法
+           知道，造成某個狀態或事件的所有原因要素，因為有無數
+           的機遇因素（zufällige Faktoren）在作用。我們只能針對
+           有限的因素進行探究，亦即在假設其他條件不變的情況下
+          （ceteris paribus）
+                          ，將可以掌握的個案因素，抽象建構為法
+           則內含之要素，綜合成某個類（Gattung），然後才得以產
+           出法則式的觀察與知識101。
+
+    （4）一旦轉化為「類」，就脫離了原本真實的因果關係，脫離
+           了直觀（Anschauung），而轉變為一種「形式」上的對
+           象，在這種認知情況下，原因要素確實適宜以「條件」
+          （Bedingung）稱之。這也是von Kries與賴氏都不斷提到的
+          「 一 般 性 條 件 」（ die allgemeine Bedingung, the general
+           condition）
+                    。
+
+    （5）類概念與法則，建構地越抽象，可涵蓋的範圍越廣，但是
+           也越脫離真實性；反之，如果我們要更為精準地描述某個
+           個案，就要保留更多的個案特徵，就更無法得出涵蓋範圍
+           廣的法則知識。涵蓋範圍不夠廣，就是可供歸納的樣本數
+           偏少，游移空間小，得到的法則的可信賴性就偏低。
+
+
+
+
+100 Radbruch (Fn. 8), S. 11.
+101 Radbruch (Fn. 8), S. 43.
+108                          《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+      （6）這些法則，因為受限於無數的機遇因素，因此即使建構為
+         知識內容，仍都只能是「客觀可能性」之法則（而非必然
+         的法則）。另一方面，如果是真實行動主體主觀認知的可
+         能性，不同的主體在不同條件下，會擁有不同的判斷，此
+         等 判 斷 會 成 為 或 然 率 （ Wahrscheinlichkeit, probability,
+                       102
+         likelihood）判斷   。
+
+      （7）非常關鍵的一點是，每一個個案中行為人或當事人的視角
+        （perspective）都不同，且在個別當下處境所要做的判斷與
+         決定，都是個別的；每一個事件事態的發生，其因果關聯
+         性，也都是具體的。但是行為者做判斷所依賴的知識，除
+         了少數具體的存有論知識，都只能是化為法則或一般性條
+         件，且行為人知悉，或可以知悉，的知識，而此等知識又
+         僅指向可能性。援用von Kries或賴氏的用語，我們可以
+         說，行為人的思慮、判斷、決策與行為，並因此啟動某因
+         果鍊，是在「游移空間」（Spielraum，von Kries用語）或
+         最大外框範圍（äußerster Rahmen）內的抉擇與行動。而
+         這都是行為人面對「機遇」因素的某種因應方案。
+
+      （8）最後這句話要補充說明：正如上文已經提過，去思考相當
+         因果論的關鍵，首先並不在於那些相適當的原因或結果，
+         而是要去認知到，有相當廣大的，不可知或難以知悉的
+        「 原 因 因 素 」 也 在 「 作 用 著 」。 我 們 可 以 「 想 像 」
+        （vorstellen）它們，但是無法清楚地掌握為對象。行為人
+         能去做的，是掌握那些可以被掌握的因素，讓這些因素朝
+
+
+102 例如犯罪行為人A，可能對被害人B之健康狀況本來就有所認識（例如知道B
+      有高血壓、心臟病等），因此A原本就知道，傷害B並將之棄之於濕冷森林中，
+      B死亡的可能性遠大於其他一般無此疾病者，此時A所擁有的知識，雖然也可
+      以法則方式呈現，但是並非一般性條件之客觀可能性知識，而是經由「存有
+      論」資訊修正後的主觀或然率。
+相當因果關係與社會科學方法論                 109
+
+
+    向期望的方向發展。一旦這些因素發展下去，產生了某些
+    所期待的結果，而我們又可以合理認為，若不那樣努力，
+    該結果很可能不會發生，此時我們可以將這些因素稱之為
+    「相當原因」
+         。
+
+ （9）在前述過程裡，那些無法被掌握的因素，仍舊有作用，仍
+    舊可被認為是原因，只不過基於歷史研究或法學歸咎的認
+    知興趣下，因為與特定人們的行為（作為或不作為）無
+    關，因此我們將之歸類於「機遇原因」
+                    。
+
+ （10） 因此相當因果關係理論，不是原因排除的理論，而是原因
+    分類的理論。而且這個分類與歸類，也不僅僅是基於各種
+    學科的認知興趣，而是因為在整體原因因素裡，一定會有
+    難以認知掌握的機遇原因，所以我們一定得篩選出「相當
+    原因」，才得以讓我們的認知、判斷與實踐，能在合乎理
+    性的架構下進行。因此即使不使用相當因果論，也還是需
+    要一種篩選原因的理論觀點。
+
+ （11） 將相當原因與機遇原因混同起來的「觀念」，是哪一種觀
+    念呢？很簡單，其實就是傳統所謂的命運、運氣、天命、
+    緣份等等。或者如馬基維利說的Fortuna。很有趣的是，當
+    馬基維利在談Fortuna時，他將其比喻為憤怒氾濫的大河，
+    但是面對大河氾濫，人們並非無可作為，完全無計可施。
+    這其實就是一種對原因的分類，以及對人類可否有所作為
+    的責任歸屬判斷。氾濫是機遇原因，事前一定程度的防
+    範，則是相當原因。氾濫也許是無法阻止的，但是完全不
+    防範，之後造成的結果，那些可防範而不防範者，總還是
+    要負起一些責任。
+110                           《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+陸、韋伯的相當因果論
+
+一、一般性說明
+
+       經過了有點漫長的過程，總算走到了韋伯。這篇文章可能有的
+一點貢獻，主要也許在於幫助我們，可以更讀懂韋伯一篇文章的一
+個部分，也就是吳庚老師引用的（本文一開始也提到的）〈文化科
+學〉
+ 。
+
+       韋伯的書寫相當難以閱讀。即使已經有張旺山教授傑出的翻
+譯，韋伯方法論著作的許多段落，對於讀者來說仍然是艱澀難以理
+解。也許因為同屬西歐語言，英文翻譯有時會有不小幫助。不過另
+外一個重要的障礙是，如果我們不清楚韋伯引用來討論問題的那些
+具體專業背景，可能看了很久，還是不確定他到底要講什麼。
+
+       對於韋伯思想在方法論方面的一般性背景，張旺山教授已經做
+出了相當深入的介紹103， 以下僅先精簡地提出幾點綜合說明。首
+先是韋伯個人學術專業以及相聯繫的學術方法與思想轉變。
+Turner/Factor在一本對此問題重要的研究著作中，一開始就指出了
+韋伯的三個轉變。其一是從法學專業轉為社會科學；其二是其運用
+的理論範疇，由法學概念轉而發展成社會學的基本概念；其三則是
+指出，韋伯後期發展出來的社會學基本概念，以及社會學說明方法
+等理論，受到其同時代法學研究著作相當重大的影響104。除了這三
+個轉變外，兩位作者也沒有忽略，19世紀末的德國法學，並不如後
+來那般全盤以概念化的法釋義學為主，而帶有更強的歷史主義與法
+律史的層面。韋伯本人就受到例如Theodor Mommsen這位羅馬法史
+家，以及既是羅馬法研究者，也是概念法學與利益法學重要奠基者
+
+
+103 請參考Max Weber著，張旺山譯（註6）            。
+104 STEPHEN P. TURNER & REGIS A. FACTOR, MAX WEBER: THE LAWYER AS SOCIAL
+      THINKER 1 (2005).
+相當因果關係與社會科學方法論                                                                          111
+
+
+                                            105
+Rudolf von Ihering的影響非常大                        。此一透過法學背景塑造韋伯整
+個社會學與社會科學方法論的過程，當然非常複雜，也是
+Turner/Factor此書所闡述的重點。簡要地說，韋伯並非單純接受了
+von Ihering等法學家的觀念，而是基於方法論個體主義的立場，避
+免將國家建構為超越個人的主體，將社會科學研究的重點設定為個
+人的社會行動，並由法學裡轉用了抽象化與一般化的方法，以及法
+學 的 因 果 關 係 理 論 ， 發 展 出 理 解 型 社 會 學 （ verstehende
+                106
+Soziologie）         。
+
+      其次，韋伯的學術訓練雖然是法學，但是他的學術工作職位，
+卻一直是「國民經濟學」的講座107。而且韋伯也很快就必須面對，
+捲入了當時德語世界國民經濟學兩大學派：歷史學派與奧地利學
+派，的方法論論戰（Methodenstreit）108。韋伯本人是屬於歷史學派
+的立場，而如今的社會科學，包括經濟學，已經對此一學派的思想
+相當生疏。日本學者Yuichi Shionoya（鹽野谷祐一）是研究此學派
+的重要學者，在其重要著作《德國歷史學派之靈魂》中，就指出德
+語世界19世紀末社會科學領域的重點事件，就是Carl Menger與
+Gustav von Schmoller之間的方法論論戰。而無可避免捲入其中的韋
+伯，其方法論著作主要就是要解決當中的人文與社會科學方法問
+題，而非僅限於國民經濟學109。鹽野教授也認為，
+
+
+105 Id. at 3, 10.
+106 Id. at 22; 請參考id. at 49, “The contrast to Ihering is direct: for Ihering, the basis of
+    the state is interests, and the basis of ideal interests are social interests. For Weber,
+    the significance of consecrated death on the battlefield stands on its own as an
+    explanation, and does not need to be backed or supplemented by reference to ‘social’
+    interests.”; 亦請參考Gerd Nollmann, Max Webers Vergleich von Rechts- und
+    Sozialwissenschaft, ARSP 92 (2006), S. 93 (94); STEPHEN P. TURNER, THE SEARCH
+    FOR A METHODOLOGY OF SOCIAL SCIENCE 163 (1986).
+107 Max Weber著，張旺山譯（註6）                 ，頁25。
+108 同前註；亦請參考JULIEN FREUND, THE SOCIOLOGY OF MAX WEBER 37 (1968); 金
+    子榮一著，李永熾譯，韋伯的比較社會學（1986年）                                   。
+109 YUICHI SHIONOYA, THE SOUL OF THE GERMAN HISTORICAL SCHOOL:
+112                                 《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+      根據韋伯和熊彼特的觀點，德國歷史學派對主流經濟學的
+      真正挑戰不是理論與歷史，規律與理念型，一般性與特殊
+      性，普遍性與特殊性，演繹與歸納之間等等的對立。毋
+      寧，我們需要基於完整的人，由演化與比較的角度，去分
+      析社會的整體面貌。從這些視角來考察，其他關鍵概念，
+      如歷史，道德和制度將隨之而產生110。
+
+       Turner在宏觀處理社會學方法論之發展的研究當中，在論述韋
+伯方法論受到法學影響之前，也特別引用了經濟學奧國學派學者
+von Mises的說法，
+
+      基於精確定義的人工概念很容易形成一個自身一貫的理
+      論，但在理論的實際應用中，我們總是要面對處理空泛的
+      過程，這些過程只能運用與之對應的空泛概念（vague
+      concepts）來給予適當描述，此等理論描述則會自然而然地
+      演化發展111。
+
+       對奧國學派來說，抽象空泛的概念，並不是一個缺點，而是所
+有理論建構與運用，都必須接受的狀態。但是對歷史學派以及韋伯
+來說，人文社會科學（當時稱為精神科學或文化科學）雖然也無可
+避免要使用抽象一般化的方法，但是處理的對象卻仍舊是具體的歷
+史或社會個體。這也是為何韋伯在1905年發表的重要著作《基督新
+教倫理與資本主義精神》當中，談到所研究的對象時，要將其界定
+        （ein „historisches Individuum“）112。
+為一種「歷史個體」
+
+
+      METHODOLOGICAL ESSAYS ON SCHMOLLER, WEBER AND SCHUMPETER 33 (2005).
+110 Id. at x.
+111 TURNER, supra note 106, at 163.
+112 Max Weber, Die protestantische Ethik und der „Geist“ des Kapitalismus (1905),
+      Neuausgabe der ersten Fassung von 1904-05 mit einem Verzeichnis der wichtigsten
+      Zusätze und Veränderungen aus der zweiten Fassung von 1920. Herausgegeben und
+      eingeleitet von Klaus Lichtblau und Johannes Weiß, Wiesbaden: Springer, 2016, S.
+      38.
+相當因果關係與社會科學方法論                                                                  113
+
+
+     而韋伯最早開始寫的，篇幅最大的一篇方法論作品，也是針對
+國民經濟學者理論而撰寫的〈羅謝與肯尼士和歷史的國民經濟學之
+邏輯問題〉113。此處當然也無法較為全面地探討此文，不過在本文
+關心的議題視角下，可以看到韋伯對羅謝（Wilhelm Roscher）方法
+觀點的檢討。其中一個要點是，羅謝認為個別現象無法被普遍概念
+所蒐羅，概念越普遍，所包含的個別現象就越稀釋。因此羅謝主
+張，無法基於個別現象，而進行對全體（Totalität）的因果說明。
+但是韋伯認為，羅謝的這個主張僅僅是一個教條，缺少了足夠的學
+理 論 證 114 。 而 且 羅 謝 認 為 ， 普 遍 的 關 連 （ die universellen
+Zusammenhänge）雖然不能由個別現象進行因果說明，其本身卻又
+遵循著更高層次的、形上學的因果關連。因此韋伯批判羅謝，認為
+他相對於黑格爾，不但不構成一種對立，反而形成一種退化115。
+
+     由上面的簡短說明，可以看到韋伯在方法論上的幾個努力：他
+嘗試轉化法學的概念成為社會科學的概念；將自己的專業轉往社會
+科學；力求在方法論個體主義上重構方法論與概念；從國民經濟學
+出發，進入方法論論戰，以歷史學派的立場，對抗奧國學派的空泛
+概念與抽象法則，主張人社科學研究的對象是歷史個體；由〈羅謝
+與肯尼士〉一文著手，開始撰寫一系列方法論文章，其中就包括
+了，對於歷史個體或歷史事件，是否能在空泛概念與抽象法則外，
+找到一種可兼顧特殊性與一般性的因果說明理論。這一努力，主要
+要到〈文化科學〉一文，開始引用法學之相當因果關係論後，才有
+更具體的發展。
+
+
+113 參見Max Weber, Roscher und Knies und die logischen Probleme der historischen
+    Nationalökonomie (1903-06), 1922; Max Weber著，張旺山譯（註6）
+                                                        ，頁3-162。
+114 Weber (1903). WL (Fn. 5), S. 36; Max Weber著，張旺山譯（註6）        ，頁43。
+115 Max Weber著，張旺山譯（註6）               ，頁49；WL (Fn. 5), S. 41, „Roscher bildet zu
+    Hegel weniger einen Gegensatz als eine Rückbildung: Die Hegelsche Metaphysik
+    und die Herrschaft der Spekulation über die Geschichte ist bei ihm verschwunden,
+    ihre glänzenden metaphysischen Konstruktionen sind ersetzt durch eine ziemlich
+    primitive Form schlichter religiöser Gläubigkeit.“
+114                               《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+二、基本表述
+
+      韋伯在〈文化科學〉當中對歷史學之相當與機遇因果關係的基
+本表述如下段德文：
+
+      Solche     Fälle    der    Beziehung       bestimmter,      von     der
+      geschichtlichen       Betrachtung          zu       einer     Einheit
+      zusammengefaßter und isoliert betrachteter Komplexe von
+      »Bedingungen« zu einem eingetretenen »Erfolg«, welche
+      diesem letztgenannten logischen Typus entsprechen, wollen wir
+      im Anschluß an den seit den Kriesschen Arbeiten feststehenden
+      Sprachgebrauch       der    juristischen        Kausalitätstheoretiker
+      »adäquate« Verursachung (jener Bestandteile des Erfolges
+      durch jene Bedingungen) nennen und, ganz ebenso wie dies E.
+      Meyer — der nur eben diesen Begriff nicht klar bildet — ja
+      auch tut, von »zufälliger« Verursachung da sprechen, wo für die
+      historisch in Betracht kommenden Bestandteile des Erfolges
+      Tatsachen wirksam wurden, die einen Erfolg herbeiführten,
+      welcher einem zu einer Einheit zusammengefaßt gedachten
+                                                                        116
+      Bedingungskomplex nicht in diesem Sinne »adäquat« war               .
+
+      這段德文文句非常不易懂。參考一下中文翻譯：
+
+      最後提到的這種邏輯上的典型相應的這樣一些關於「種種
+      “條件”之某些特定的、由歷史的考察總括為一個統一體並
+      孤立地加以考察的複合體」與「某一已經出現了的“結
+      果”」之關係的事例，我們想要承接那自克里斯的種種著作
+      以來已經在法學的因果性理論家之間固定下來了的語言使
+      用，而稱之為（結果的那些組成部分由於那些條件之）
+
+
+116 WL (Fn. 5), S. 286.
+相當因果關係與社會科學方法論                               115
+
+
+  「“適當的”起因造成」（„adäquate“ Verursachung），並且，
+   正如麥耶也這麼做了─他只不過並未清楚地建構該概念
+   而已─那樣：凡是對該結果的那些歷史上納入考察的組
+   成部分而言，造成了某一（對一個被總括為一個統一體而
+   設想著的條件複合體而言並非在這種意義下“適當的”）結
+   果的那些事實變得「富有影響的」地方，都說成是“偶然
+   的”起因造成（“zufällige“ Verursachung）117。
+
+   大部分讀者不懂德文，也不知道如何解析該段文字之語句。但
+是我相信看了這一段中文，即使也參照了上下文，恐怕也仍舊是一
+團霧水。張教授的翻譯有可以調整之處，但大致上也都正確。其實
+這段文字的重點，簡單地說，就是，
+
+   若一組條件與一個已然發生的結果，彼此的關係，符合前
+   述的邏輯類型，那我們就將其稱之為「相當因果關係」
+                          （或
+   適當的起因造成）
+          ；若不符合，因為那些事實也對該結果有
+   所作用，我們將其稱為「偶然的（或機遇的）
+                      」因果關係。
+   這一組概念，是沿用法學界自Kries 以來的慣有用語。
+   Meyer也使用了一樣的稱呼，只是他未能清楚說明這組概
+   念。
+
+   以上這段文字，因為省略了不少韋伯原文裡的細節，因此談不
+上是翻譯。但是我相信這是一個比較清楚的，開始了解韋伯這部份
+思想的「起點」。這個起點的最關鍵區分，就是「相當」原因與
+「機遇」原因的二分。
+
+   此處進一步說明一下，為何我不傾向使用「偶然」來翻譯
+Zufall或zufällig。雖然在一般語境之下，中文用偶然來表述德文的
+Zufall，並沒有不對，不過在本文所關切的理論裡，有一些層面必
+
+
+117 Max Weber著，張旺山譯（註6）
+                      ，頁320-321。
+116                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+須考量。首先，機遇原因，也是原因，或者說，也是「一體原因」
+（相當於韋伯前引文裡的Komplexe von Bedingungen，條件複合體）
+裡的一個要素或元素，因此對實際發生的結果而論，這些機遇原因
+事實上，也必然地發揮了作用，或者如韋伯自己說的，是「不可或
+缺」的（見下），如此一來，反而是必要條件，因此翻譯為「偶
+然」並不恰當。
+
+      其次，偶然，其意義就是「不必然」以及「不必然不然」，這
+其實就是「可能的」或「具備可能性」。然而相當原因所造成的仍
+舊是「客觀可能性」。就此而言，相當原因，也是偶然原因，亦即
+並非必然造成該結果之原因。因此「偶然」或「可能性」應該放在
+更高的層次，同時包含「相當」性與「機遇」
+                   。
+
+      第三，von Kries對擲骰子這類遊戲，稱為「絕對機遇」，另外
+還有「相對機遇」的概念，其意義已見前述。但是如果中文表達為
+「絕對偶然」與「相對偶然」
+            ，就實在太奇怪了。綜合這幾點也可看
+出 ， 為 何 韋 伯 強 調 Zufall/zufällig 這 組 概 念 ， 並 非 與 必 然
+（notwendig）相對立，而是與「相（適）當」這個概念對立。而這
+一套觀念，就是根源自von Kries。
+
+三、歷史學與法學
+
+      韋伯指出，刑法學者會討論von Kries的相當因果關係論，是很
+自然的事情，因為對罪責的探討，就是探討，在哪些情況下我們可
+以主張，某人因為他的行為而造成了某一特定的外在結果，亦即是
+一種對因果關係問題的研究。法學因此與歷史學的因果問題有著相
+同的邏輯結構。韋伯認為，與歷史學一樣，法學領域的問題，都是
+人類中心主義取向的，所追問的都是「人的行動之因果意義」問
+題。歷史家的因果問題，也是「由具體結果追溯具體原因」，而不
+相當因果關係與社會科學方法論                                                                  117
+
+
+在於探究種種法則定律118。
+
+    法學，尤其是刑法學，與歷史學在這個判斷過程中的分歧岔路
+開始於，法學要開始探索行為人的主觀責任問題。韋伯認為，這就
+不再是個純然因果關係的判斷，而是一個取決於種種倫理的與其他
+價值的刑法政策問題119。這個想法與前述賴氏指出的二分法（固有
+因果關係與責任歸咎）類似，也可以算是法學界的通說。但是韋伯
+仍然強調，就歸因問題的前階段討論，史學與法學的操作是一樣
+的，
+
+    完全與法學的理論一樣，我們也首先要問：某種由一個具
+    體的“結果”追溯到一個個別的“原因”之「歸因」
+                          ，究竟原則
+    上是如何可能且可行的：─儘管事實上總是有著無限多
+    的原因上的環節制約著個別的“過程”之出現，並且：對於
+    具有具體的型態的結果之出現而言，可以說根本就是所有
+    那些個別的因果上的環節都是不可或缺的120。
+
+    這裡的歸因，與責任歸屬都使用同樣的表述Zurechnung。韋伯
+也明確指出，所有個別的原因要素（因果上的環節），都是不可或
+缺的。不可或缺，就是必要條件，這種看法是所有因果相關學說的
+基本前提。當然如前所述，經過學說發展，如今這個必要條件的要
+求，其實也可以調整相容於NESS或INUS理論模式，相關細節此處
+
+
+
+118 Max Weber著，張旺山譯（註6），頁303-304。
+119 Max Weber著，張旺山譯（註6），頁304。
+120 Max Weber著，張旺山譯（註6）
+                      ，頁304；WL (Fn. 5), S. 271. „Wir fragen zunächst,
+   durchaus gemeinsam mit der juristischen Theorie: wie ist eine Zurechnung eines
+   konkreten »Erfolges« zu einer einzelnen »Ursache« überhaupt prinzipiell möglich
+   und vollziehbar angesichts dessen, daß in Wahrheit stets eine Unendlichkeit von
+   ursächlichen Momenten das Zustandekommen des einzelnen »Vorgangs« bedingt
+   haben, und daß für das Zustandekommen des Erfolges in seiner konkreten Gestalt ja
+   schlechthin alle jene einzelnen ursächlichen Momente unentbehrlich
+   waren?“ (Hervorhebung vom Verfasser)
+118                                 《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+暫不討論。
+
+四、認知興趣的問題
+
+       韋伯認為，不同的學科有不同的認識或認知興趣，透過這種認
+知興趣的篩選（Auslese）─這也是吳庚老師文章中強調之點
+─，個別學科才得以在無限多的原因當中，找出對該學科有一般
+或普遍意義（die allgemeine Bedeutung）的「部分」
+                                   （Bestandteile）
+或層面（Seite）121。
+
+       對法官來說，由實證法之構成要件出發的觀察點，是最關鍵的
+指引。不論是Franz Ferdinand (in Sarajevo)、John F. Kennedy，或者
+是陳水扁總統的遇刺，法官關心的，都只是嫌疑犯的行為，是否符
+合了當時法律當中有關殺人/謀殺罪的構成要件。雖然偵查與舉
+證、審判過程中，需要舉證證明動機，但是動機不是法學或法官適
+用法律需要關心的對象。法官也不關心這些死亡或受傷者的生理死
+因或傷勢，當然更不關心這整個犯罪過程，是否足以轉變為具有藝
+術價值的劇本或小說。
+
+       那麼歷史學者感到興趣的是什麼呢？韋伯認為，歷史家在這方
+面，
+
+      首先將只處理一件事情，亦即：該死亡恰恰是在當時，在
+      某種具體政治情勢下發生的，並且他將探討一個與此相關
+      的問題：這件事情是否造成了某些特定的、對“世界史”的
+      進程而言顯著的“結果”122。
+
+
+121 Max Weber著，張旺山譯（註6）
+                      ，頁305。
+122 Max Weber著，張旺山譯（註6），頁306；WL (Fn. 5), S. 272-273. „Sondern ihn
+      beschäftigt daran zunächst allein der Umstand, daß der Tod gerade damals unter
+      einer konkreten politischen Konstellation, eintrat, und er erörtert die daran
+      anknüpfende Frage, ob dieser Umstand etwa bestimmte für den Ablauf der
+      »Weltgeschichte« erhebliche »Folgen« gehabt hat.“
+相當因果關係與社會科學方法論                                                       119
+
+
+     因為韋伯這段話前面提的例子，是凱撒的遇刺，因此韋伯此處
+對歷史研究興趣的界定，似乎完全針對政治史，以及其後對世界史
+的衝擊。也許韋伯有時確實帶有一種，認為政治史是所有歷史當中
+最關鍵部分的傾向，然而就他著作之全體來考察，可以發現前述陳
+述當中對「政治情勢」的強調，僅因為銜接的例子是凱撒遇刺，因
+為在其他地方，他也可能大幅降低對政治的關注，而僅專注於─
+例如喀爾文（Jean Calvin）─這一類宗教領袖的研究。這部份的
+爭議應該不大。比較值得推敲的是，韋伯認為，
+
+    因果上的歸因，是以某種包含著一系列抽象的思想歷程之
+    型態完成的。而第一個具有決定性的抽象乃是：我們就該
+    進程的那些事實上的因果成分中，設想某一個或某些個成
+    分在某個特定的方向上改變了，然後問我們自己，在過程
+    的這些如此地被改變的條件下，該（在那些具有本質性的
+    點上）相同的結果或者哪種其他的結果，將是可以預期
+    的123。
+
+     這段話包含了兩個重要的思想操作。
+                    「設想某一個或某些個成分
+在某個特定的方向上改變了，……」涉及的是反事實（counter-
+factual）推論的操作。反事實的推論，在所有歷史與社會科學研究
+當中，都扮演了重要的角色。世界體系理論大師華勒斯坦
+（Immanuel Wallerstein）曾經在一篇相當有名的短文〈印度存在
+嗎？〉中 124 ，一開始就提出了一個反事實的命題（counterfactual
+proposition），亦即假設地設想，在1750-1850年之間，現在的印度
+並非全部在英國殖民統治之下，而是分別由英國殖民其北部，法國
+殖民其南部。華勒斯坦問，如果是這樣，那麼我們現在還會把整個
+區域稱為印度嗎？他認為不會，甚至可能我們會把這塊區域視為兩
+
+
+123 Max Weber著，張旺山譯（註6）         ，頁306；WL (Fn. 5), S. 273.
+124 IMMANUEL M. WALLERSTEIN, THE ESSENTIAL WALLERSTEIN 310 (2000).
+120                                 《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+個不同的文化與民族125。由這個反事實命題出發，華勒斯坦提出了
+三個有趣的推論。第一，印度是現代世界體系的發明
+（invention）126；第二，前現代（pre-modern）印度的歷史，是現代
+印度的發明127；第三，沒有人知道，兩百年之後，現在的這個印度
+是否仍舊存在128。華勒斯坦當然是結合了許多其他資訊才能做出這
+三個推論，但是不提出最起始的反事實命題，僅基於分散的資料是
+無法得出前述思考的。
+
+       如果我們參考較為新近的研究129，Mark Gould在重要的《歷史
+社會學期刊》上一篇文章則直接指出「所有論證都是反事實
+的」130。他引用了韋伯在《經濟與社會》中提出之社會學與史學的
+區分，前者─略微簡化地說─探索經驗過程的一般性概念與法
+則，後者則尋求對具備文化意義之個別行動、結構等之因果分析與
+說明131。雖然無法說這兩位當代學者的觀點與韋伯完全一致，但是
+偏向於歷史詮釋的Wallerstein，與偏向於理論建構的Gould，都同樣
+要高度依賴反事實之推論。
+
+       除了反事實推論這個基本的思考操作外，這段話裡很重要的就
+是 「 一 系 列 抽 象 的 思 想 歷 程 之 型 態 」（ in Gestalt eines
+Gedankenprozesses, welche eine Serie von Abstraktionen enthält）
+                                                              。這
+就是前面討論過的，將個案原因因素一般化、抽象化，以建立「客
+觀可能性」判斷依據的過程。不透過這種過程，依照韋伯的想法，
+就無法對於「馬拉松戰役」之勝敗，是否對於保住希臘之世俗公民
+
+
+
+125 Id.
+126 Id. at 311.
+127 Id. at 312.
+128 Id. at 313.
+129 Mark Gould, History Is Sociology: All Arguments Are Counterfactuals, 32 J. HIST.
+      SOC., at e1, e1-e10 (2019).
+130 Id. at e1.
+131 Id.
+相當因果關係與社會科學方法論                                                                121
+
+
+自由精神文化，乃至於影響了後來整個西方文化的這個歷史過程，
+提出判斷。而正因為希臘文化是塑造當前西方文化的重要基礎，如
+果當時波斯戰勝了，很可能透過波斯的征服與統治，希臘文化就變
+成了神權文化，那麼整個後來西方世界的發展，就會完全不一樣。
+基於這樣一種重要性的考量，因此馬拉松戰役就形成了歷史考察的
+重要興趣所在132。
+
+五、如何形成可能性判斷？
+
+     韋伯認為，為了產出可能性判斷，我們必須先擇取實在世界中
+的一個或數個部分，並針對可能影響這些部分的條件進行一種思想
+上的建構。這個史學思維判斷的第一步，是一個抽象化的過程，從
+龐大複雜的歷史資料當中，透過分析與思維孤立化，挑選出特定的
+部份，這些部分是彼此可以形成可能的因果關係之複合體，
+
+     在這個第一步的過程中，為了將實在（Wirklichkeit）轉變
+     成 歷 史 事 實 ， 必 須 先 將 其 打 造 成 思 維 建 構 （ ein
+     Gedankengebilde ）： 如歌 德所說， 在事實當 中隱藏著 理
+     論133。
+
+     ……
+
+     無可置疑的一點乃是：此處所涉及的，無非是種種孤立化
+     與一般化，以及我們將給定的東西，不斷分解為組成部
+     分，直到這些組成部分中的每一個，都可以鑲嵌入某一經
+     驗法則（Regel der Erfahrung）中，從而讓我們可以確定，
+     在這些組成部分的每一個個別的組成部分，在作為條件的
+
+
+132 Max Weber著，張旺山譯（註6）           ，頁307；WL (Fn. 5), S. 274.
+133 WL (Fn. 5), S. 275. „Schon dieser erste Schritt verwandelt mithin die gegebene
+    »Wirklichkeit«, um sie zur historischen »Tatsache« zu machen, in ein
+    Gedankengebilde: in der »Tatsache« steckt eben, mit Goethe zu reden,
+    »Theorie«.“ 亦請參考Max Weber著，張旺山譯（註6）             ，頁309。
+122                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+      其他組成部分存在的情況下，根據某一經驗法則，將可以
+      期待有何結果。因此，一個可能性判斷……總是意味著
+      「與經驗法則建立關聯」134。
+
+      簡單地說，基於歷史重要性之認知興趣，針對材料進行分解、
+抽象化、篩選、孤立、建構、嵌入經驗法則，然後形成可能性的判
+斷。就這一部份而言，與目前一般所熟知的歷史學或社會科學建立
+知識方式，並無什麼不同，甚至與自然科學的操作模式也相當類
+似。因此關鍵在於「相當原因/機遇原因」之區分，以及其與「客
+觀可能性」的關聯。
+
+      一樣透過韋伯所舉的馬拉松戰役為例。說的更精確一點，我們
+應該說，如果該場戰役由波斯獲勝，我們也並無法獲得一個，「歐
+洲/西方文化必然會因此完全改觀」的判斷。我們能夠獲得的判斷
+是，若波斯獲勝，西方文化往不同方向發展，是此一戰役的『相適
+    」135。另外一方面，如果1848年3月，沒有發生柏林皇宮
+當之結果』
+前意外擊發的兩槍，依照一般法則有很高的可能性可以推測，三月
+革命就不會發生，或者就無法有利地推動（»begünstigt« hätte）其
+發生，這意味著原本史家認為促成三月革命的種種因素，就僅僅是
+機遇原因而已，因為少了這兩槍竟然就造成歷史發展過程的（至少
+在研究者有興趣之點上的）重大差異136。
+
+
+134 Max Weber著，張旺山譯（註6）        ，頁309；WL (Fn. 5), S. 275-276.
+135 WL (Fn. 5), S. 287-288. „Um also zu den früher verwendeten Beispielen
+    zurückzukehren, so würde die »Bedeutung« der Schlacht bei Marathon nach Ed.
+    Meyers Ansicht nun logisch dahin zu bestimmen sein: nicht: daß ein Sieg der Perser
+    eine bestimmte ganz andersartige Entwicklung der hellenischen und damit der
+    Weltkultur hätte zur Folge haben müssen — ein solches Urteil wäre schlechthin
+    unmöglich —, sondern: — daß jene andersartige Entwicklung die »adäquate«Folge
+    eines solchen Ereignisses gewesen »wäre«.“ 此處張教授的翻譯可能需要調整，
+    請參考Max Weber著，張旺山譯（註6），頁321。韋伯對此一具體問題採取的
+    是開放的態度。
+136 參照韋伯的說法，史學家麥耶（Edward Meyer）認為這兩槍並不可能有如此
+    重要的原因地位。韋伯自己的判斷則保持一定的開放性。請參考Max Weber
+相當因果關係與社會科學方法論                                       123
+
+
+   這就相當於之前提到的雷擊案件：B沒有死於A的傷害，而是
+死於後來發生的雷擊，我們確實可以主張，雷擊是死亡的機遇原
+因，因為沒有雷擊，B終究還是會因為A的傷害而死亡。
+
+   死於傷害或死於雷擊，兩者都是客觀可能的。但是傷害行為對
+致死之有利推動的程度（Grad der Möglichkeit）
+                               ，比突然遭到雷擊，
+依照可以獲致的經驗法則知識，要高出很多，且可明確歸責/歸因
+給特定的行為主體A。因此雖然後來被害者是死於雷擊，還是可以
+將這個死亡結果，在相當因果關連的視角下，歸責/歸因給A。當
+然，這僅是我為了對照說明韋伯的思考，所提出的分析，並不意味
+著我，尤其在法學上，就認為這個分析毫無問題。
+
+六、韋伯對原因之分類
+
+   韋伯在〈客觀可能性〉一文當中，也引用了von Kries對於擲骰
+子之「絕對機遇」性質的討論，指出擲骰子的物理作用，一般性地
+並不會影響到擲出某一數值的機率137。此處如果把握住前述所探討
+的von Kries著作中對於絕對機遇與相對機遇的討論，就可以很清楚
+理解韋伯所要講的意義。簡要地說，當所投擲的是一個造假的骰
+子，因此大大有助於特定數值出現機會，此刻的擲骰子，就脫離了
+「絕對機遇」的狀態，而進入「相對機遇」的狀態。但是具體生活
+中或歷史事件的因果關係，反而是這種相對機遇的狀態，因此才可
+以通過某些一般性經驗法則知識之建立，來判斷評估某些條件，是
+否以一定的程度有助於促進結果的出現。
+
+   也正是在這種觀念分析下，我們可以了解，只有在相對機遇的
+經驗世界中（而非絕對機遇的主觀智識觀念裡），才能透過「一般
+性有助於/適當於」促進某結果的判斷，來建立相當原因與機遇原
+
+
+            ，頁317-318；WL (Fn. 5), S. 283-284.
+   著，張旺山譯（註6）
+137 請參考Max Weber著，張旺山譯（註6）
+                         ，頁319；WL (Fn. 5), S. 284.
+124                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+因之區分。韋伯寫道，
+
+      而且我們應該牢牢記住，此一對立138絕非歷史現象「過程
+      之“客觀”因果性」與（諸現象之）
+                     「因果關係」之區別，而
+      僅僅只是，我們把在事件材料中發現的條件之一部分加以
+      抽象孤立，使其成為「可能性判斷」的對象，然後運用經
+      驗法則，以掌握事件個別部分之因果「意義」
+                         。為了看清楚
+      真實的因果關聯，我們要建構非真實的因果關聯139 140。
+                                                                     、
+
+
+
+
+      此段敘述相當重要，但是很不容易了解。所謂歷史現象「過程
+之客觀因果性」，指的是將抽象的經驗法則應用於歷史判斷當中，
+例如將美麗島事件之發生，化約歸因為「民主化過程中，威權與民
+主力量必然會發生的衝突」。所謂「（諸現象）「因果關係」」，則是
+指實際上發生之具體歷史事實彼此的因果關係，例如將美麗島事
+件，以「蔣經國當時對政治局勢的判斷與決策」，來加以說明。韋
+伯要強調，他所說的「相當因果」與「機遇因果」之判斷，並不是
+這種區別。
+
+      韋伯所要談的是，如果仍以臺灣民主化歷史為例，一連串的事
+件，包括「黨外運動」之風起雲湧、中壢事件、橋頭事件、美麗島
+
+
+138 譯註：意指相當原因與機遇原因之對立。
+139 譯註：意指，要做出反事實之推斷，亦即，若某「條件」不發生，歷史過程
+    是否大致仍不改變（例如1848年的革命仍舊發生），或者，該革命就不會發生
+    了。
+140 WL (Fn. 5), S. 287；此段為作者另行中譯。仍可參考Max Weber著，張旺山譯
+   （註6）    ，頁321-322。德文原文為，„Und es ist streng daran festzuhalten, daß es
+    sich bei diesem Gegensatz niemals um Unterschiede der »objektiven« Kausalität des
+    Ablaufs der historischen Vorgänge und ihrer Kausalbeziehungen, sondern stets
+    lediglich darum handelt, daß wir einen Teil der im »Stoff« des Geschehens
+    vorgefundenen »Bedingungen« abstrahierend isolieren und zum Gegenstande von
+    »Möglichkeitsurteilen« machen, um so an der Hand von Erfahrungsregeln Einsicht
+    in die kausale »Bedeutung« der einzelnen Bestandteile des Geschehens zu gewinnen.
+    Um die wirklichen Kausalzusammenhänge zu durchschauen, konstruieren wir
+    unwirkliche.“
+相當因果關係與社會科學方法論                  125
+
+
+事件/軍法大審、林宅血案、鄭南榕自焚……等等，我們可以透過
+如何的思考分析，判斷其中有些是促成民主化的相當原因，哪些則
+是機遇原因。
+
+  例如我們可能會說─以下僅為暫時性、舉例性的說法─，
+1960年代末、70年代初開始一連串的「黨外運動」（此「概念」即
+為，由歷史材料抽象孤立出來，成為可能性判斷對象之條件；指涉
+範圍當然可以有所爭議），是促成臺灣民主化的相當原因。但是林
+宅血案、江南案，甚至鄭南榕自焚，則僅僅是「機遇原因」
+                         。
+
+  這並不是說，黨外運動必然促成民主化，或若沒有黨外運動，
+一定不會發生民主化。而僅僅是說，如果沒有黨外運動，則之後臺
+灣的政治史─依據我們可以獲知的經驗法則與知識─非常可能
+有極為巨大不同的發展軌跡。但是以臺灣當時其他各種政治社會經
+濟條件為背景，一旦出現了「黨外運動」，此運動大大有助於促進
+發生民主化，因此其後完全不發生民主化的可能性非常低。而許多
+其他個別的事件，即使非常有名，例如林宅血案、江南事件、鄭南
+榕自焚等等，也僅僅構成「機遇原因」。這些事件當然仍舊是實際
+上發生的民主化的原因之一，但是即使不發生，其他的各種衝突事
+件仍舊會出現，民主化依然會出現。
+
+  由以上的說明，我們可以看到，韋伯運用的因果分析方法論，
+重點並不在於「必然」與「偶然」的對立，或法則套用與具體因果
+的對立。韋伯援用von Kries理論以及由賴德布魯赫等法學家著作學
+來的因果分析，是針對真實發生的歷史現象當中，所有對之曾有所
+作用的諸多因素，以經驗法則為基礎，進行抽象孤立化的分類，區
+分為相當因果關聯，與僅僅是機遇性質的因果關聯。
+
+  值得注意的是，雖然要運用經驗法則來判斷，但是相當因果關
+126                  《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+聯，並不是一種法則性的關聯。韋伯常用的說明，是「一般性有助
+於（有利於）」（generelle »Begünstigung«）某個結果的出現141。這
+種判斷，往往是一種「程度」（Grad）的判斷，但是韋伯也很清
+楚，我們無法得出精確的或然率數值，只不過在他看來，這並不妨
+礙我們對各個因素之影響做出判斷。即使每一位學者所作出的判
+斷，因為立基的知識興趣、資料或價值觀點有所差異，會有所不
+同，但是面對無邊無際的眾多歷史材料，一定要抽象孤立出某些特
+定「條件」，形成客觀可能性之判斷，始能辨識出相當的或機遇的
+因果關聯。
+
+
+
+柒、結論
+
+      法學界一般認為相當因果關係是個已經發展成熟的基本概念，
+討論得很徹底，因此較缺少進一步耙梳其理論淵源的興趣。社會科
+學界雖然對韋伯方法論也有不少探討，但是也比較未注意到韋伯文
+章中，有關此一因果關係理論的細節線索。本文則是嘗試更深入進
+入一些19/20世紀的老文獻當中耙梳，希望對這個理論一部份發展
+軌跡提供一些補充資訊。以下是幾個重點整理：
+
+      （1）von Kries的理論分析，與其說是提出相當因果關係的理
+         論，從今天的角度觀之，不如說是凸顯提醒了機遇原因的
+         意義與重要性，並嘗試以理性化的方式，提供我們一種面
+
+
+141 韋伯指出（WL (Fn. 5), S. 233）
+                           ，史學著作中該如何對事件發生法則（Regeln）
+      進行正確掌握，就是這篇作品的重點。而韋伯認為史學判斷中所運用的經驗
+      法則，並非歷史定律，亦非科學定律，而僅是結合其他條件後，史學家得據
+      以判斷，特定事件或政治決策或作為，是否「一般性地有助於」後來特定狀
+      況的發生。這種判斷並非邏輯三段論法的判斷，而一定結合了史家的各種審
+      酌衡量。因此將德文generell翻譯為「通則性」地，比較不理想。因為如此表
+      述，比較容易讓人誤解為是「法則」的三段論法適用，甚至是歷史定律的套
+      用。
+相當因果關係與社會科學方法論                            127
+
+
+    對、處理機遇性的方案，而這個方案的重點，又在於如何
+    將其連結於人們的意識、知識、意欲與決定。
+
+ （2）在賴德布魯赫的分析下，客觀可能性，指向客觀可預見性
+    （objektive Voraussehbarkeit）。客觀可能性即為客觀可預見
+    性的前提，是對於可能性判斷之基礎條件的可認知性
+    （Erkennbarkeit）。對於「客觀可能性」的概念操作，其
+    「可能性判斷」
+          ，必須以最大可能範圍的法則知識，以及最
+    大可能範圍的存有論知識，兩者共同作為基礎。
+
+ （3）去思考相當因果論的關鍵，首先並不在於那些相適當的原
+    因或結果，而是要去認知到，有相當廣大的，不可知或難
+    以知悉的「原因因素」也在「作用著」。行為人能去做
+    的，是掌握那些可以被掌握的因素，讓這些因素朝向期望
+    的方向發展。一旦這些因素發展下去，產生了某些所期待
+    的結果，而我們又可以合理認為，若不那樣努力，該結果
+    很可能不會發生，此時我們可以將這些因素稱之為「相當
+    原因」。那些無法被掌握的因素，仍舊有作用，仍舊可被
+    認為是原因，只不過基於歷史研究或法學歸咎的認知興趣
+    下，因為與特定人們的行為（作為或不作為）無關，因此
+    我們將之歸類於「機遇原因」
+                。
+
+ （4）因此相當因果關係理論，不是原因排除的理論，而是原因
+    分類的理論。而且這個分類與歸類，也不僅僅是基於各種
+    學科的認知興趣，而是因為在整體原因因素裡，一定會有
+    難以認知掌握的機遇原因，所以我們一定得篩選出「相當
+    原因」，才得以讓我們的認知、判斷與實踐，能在合乎理
+    性的架構下進行。
+
+ （5）韋伯認為，與歷史學一樣，司法領域的問題，都是人類中
+    心主義取向的，所追問的都是「人的行動之因果意義」問
+128                         《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+           題。歷史家的因果問題，也是「由具體結果追溯具體原
+           因」
+            ，而不在於探究種種法則定律。
+
+      （6）韋伯運用的因果分析方法論，重點並不在於「必然」與
+           「偶然」的對立，或法則套用與具體因果的對立。韋伯援
+           用von Kries理論以及由賴德布魯赫等法學家著作學來的因
+           果分析，是針對真實發生的歷史現象當中，所有對之曾有
+           所作用的諸多因素，以經驗法則為基礎，進行抽象孤立化
+           的分類，區分為相當因果關聯（一般性有助於結果發
+           生）
+            ，與僅僅是機遇性質的因果關聯。
+
+      對於這幾個重點的詳細討論，仍要回到文章當中的敘述。希望
+本文的分析能有助於對韋伯方法論中一個關鍵議題的了解，也盼望
+多少能增進一些對法學領域因果關係理論的掌握。我認為von Kries
+原初的理論，以及韋伯的社會科學方法論，即使有不少問題，仍都
+值得學界更多深入的研究探討。針對這一方面，本文能提出的貢獻
+仍相當有限，也許只能如von Bar說的：
+
+      „Auch ich würde mich freuen, wenn durch meine Arbeit eine
+wichtige Frage der richtigen Lösung einen Schritt näher gebracht sein
+sollte.“
+
+      （中譯：拙作若能對此重要問題朝正確方向推進一步，即堪告
+慰。）
+相當因果關係與社會科學方法論                                              129
+
+
+
+
+                          參考文獻
+
+1. 中文部分
+
+Max Weber著，張旺山譯（2013）
+                    ，韋伯方法論文集，臺北：聯經。
+  [Winkelmann, Johannes (1988) (Hrsg.), Gesammelte Aufsätze zur
+  Wissenschaftslehre, 7. Aufl., Tübingen: Mohr Siebeck.]
+王皇玉（2012），醫療過失中的因果關係：從邱小妹人球案談起，
+  臺大法學論叢，41卷2期，頁725-793。
+王澤鑑（2009）
+        ，侵權行為法，臺北：自版。
+吳 庚（1993）
+        ，韋伯的政治理論及其哲學基礎，臺北：聯經。
+林鈺雄（2008），第三人行為介入之因果關係及客觀歸責─從北
+  城醫院打錯針及蘆洲大火事件出發，收於：刑法與刑訴之交錯
+  適用，頁3-66，臺北：元照。
+金子榮一著，李永熾譯（1986），韋伯的比較社會學，臺北：水
+  牛。[金子栄一（1968），マックス・ウェーバー研究：比較研
+  究としての社会学，2版，東京：創文社。]
+許玉秀（1997），檢驗客觀歸責的理論基礎─客觀歸責理論是什
+  麼？，收於：主觀與客觀之間，頁219-280，臺北：自版。
+許恒達（2011），合法替代行為與過失犯的結果歸責：假設容許風
+  險實現理論的提出與應用，臺大法學論叢，40卷2期，頁707-
+  788。
+陳子平（2008）
+        ，刑法總論，2版，臺北：元照。
+陳聰富（2000）
+        ，侵權行為法上之因果關係，臺大法學論叢，29卷2
+  期，頁175-307。
+黃榮堅（2003），論相當因果關係理論評最高法院八十九年度台上
+  字第七八二三號及台灣高等法院八十九年度重上更（三）字第
+  一四三號判決，月旦法學雜誌，96期，頁312-327。
+130                              《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+韓忠謨（2002）
+        ，刑法原理，再版，臺北：韓聯甲。
+顏 厥 安 （ 2015 ），〈 2014 年 下 半 年 度 法 理 學 經 典 導 讀 ： Hegels
+      Zurechnungslehre und der Begriff der objektiven Zurechnung〉影
+      音紀錄，法理學經典系列導讀網站，2015年1月9日，https://
+      classicsintro.wordpress.com/category/2014-%e7%b6%93%e5%85%
+      b8%e5%b0%8e%e8%ae%80/。
+
+2. 外文部分
+
+von Bar, Carl Ludwig (1871), Die Lehre vom Causalzusammenhang im
+      Recht, besonders im Strafrecht, Leipzig: Verlag Bernhard
+      Tauchnitz.
+Beccaria, Caesar (1851), Über Verbrechen und Strafen (1764), übersetzt
+      von Julius Glaser, Wien: Tendler.
+─ (1876), Über Verbrechen und Strafen (1764), übersetzt von
+      Julius   Glaser,   Wien:     Manz’sche    K.K.      Hof-Verlags-   und
+      Universitätsbuchhandlung.
+Benedikt,      Edmund    (1904),    „Glaser,   Julius“,    in:   Historischen
+      Kommission bei der Bayerischen Akademie der Wissenschaften
+      (Hrsg.), Allgemeine Deutsche Biographie, Bd. 49, Leipzig: Dunder
+      & Humblot, S. 372-380.
+von Buri, Maximilian (1873), Über Kausalität und deren Verantwortung,
+      Leipzig: Gebhardt.
+Calabresi, Guido. 1975. Concerning Cause and the Law of Torts: An
+      Essay for Harry Kalven, Jr. University of Chicago Law Review
+      43:69-108.
+Dilthey, Wilhelm (1990), Einleitung in Die Geisteswissenschaften.
+      Versuch einer Grundlegung für das Studium der Gesellschaft und
+      der Geschichte (1883), in: Gründer/Rodi (Hrsg.), Wilhelm Dilthey
+      Gesammelte Schriften, Bd. 1, Göttingen: Vandenhoeck und
+相當因果關係與社會科學方法論                                                       131
+
+
+    Ruprecht.
+Dubber, Markus D., and Tatjana Hörnle, eds. 2014. The Oxford
+    Handbook of Criminal Law. Oxford: Oxford University Press.
+Freund, Julien. 1968. The Sociology of Max Weber. New York. NY:
+    Random House Inc.
+Frommel, Monika (1995), Einleitung, in: Kaufmann (Hrsg.), Gustav
+    Radbruch Gesamtausgabe, Bd. 7: Strafrecht I, bearb. von Frommel,
+    Heidelberg: C. F. Müller, S. 1-4.
+Glaser, Julius Anton (1858), Abhandlungen aus dem oesterreichischen
+    Strafrecht, Wien: Verlag von Tendler & Comp.
+Goeckenjan, Ingke (2017), Revision der Lehre von der objektiven
+    Zurechnung: Eine Analyse zurechnungsausschließender Topoi beim
+    vorsätzlichen Erfolgsdelikt, Tübingen: Mohr Siebeck.
+Gould, Mark. 2019. History Is Sociology: All Arguments Are
+    Counterfactuals. Journal of Historical Sociology 32:e1-e10.
+Hart, H.L.A., and Tony Honoré. 1985. Causation in the Law. 2d ed.
+    Oxford: Oxford University Press.
+Heidelberger, Michael. 2010. From Mill via von Kries to Max Weber:
+    Causality, Explanation, and Understanding. Pp. 241-265 in
+    Historical Perspectives on Erklären and Verstehen, edited by
+    Uljana Feest. Berlin: Springer.
+Honoré, Antony, and John Gardner. 2001. Causation in the Law. In The
+    Stanford Encyclopedia of Philosophy (Winter 2010 Edition),
+    https://plato.stanford.edu/archives/win2010/entries/causation-law/.
+Kaser, Max/Knütel, Rolf (2008), Römisches Privatrecht, 19. Aufl.,
+    München: C. H. Beck.
+Kastner, Berhold (2003), Biographische Daten Gustav Radbruchs, in:
+    Kaufmann (Hrsg.), Gustav Radbruch Gesamtausgabe, Bd. 20,
+    bearb. von Kastner, Heidelberg: C. F. Müller, S. XXXI-XXXIV.
+132                            《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+Kaufmann, Arthur (1987), Gustav Radbruch ─ Leben und Werk, in
+      Kaufmann (Hrsg.), Gustav Radbruch Gesamtausgabe, Bd. 1, bearb.
+      von Kaufmann, Heidelberg: C. F. Müller, S. 7-88.
+Kollmann, Horst (1914), Die Lehre vom versari in re illicita im Rahmen
+      des Corpus juris canonici, ZStW 35, S. 46-106.
+von Kries, Johannes (1888), Ueber den Begriff der objektiven
+      Möglichkeit und einige Anwendungen desselben, Leipzig:
+      Reisland.
+Larenz, Karl (1927), Hegels Zurechnungslehre und der Begriff der
+      objektiven Zurechnung, Leipzig: Deichert.
+Liebs, Detlef (2007), Lateinische Rechtsregeln und Rechtssprichwörter,
+      7. Aufl., München: C. H. Beck.
+Lübbe, Weyma (1993), Die Theorie der adäquaten Verursachung: Zum
+      Verhältnis von philosophischem und juristischem Kausalitäts-
+      begriff, JGPS 24, S. 87-102.
+Makkreel, Rudolf A. 2009. Wilhelm Dilthey and the Neo-Kantians: On
+      the Conceptual Distinctions between Geisteswissenschaften and
+      Kulturwissenschaften.    Pp.   253-271     in     Neo-Kantianism    in
+      contemporary philosophy, edited by Rudolf A. Makkreel and
+      Sebastian Luft. Bloomington, IN: Indiana University Press.
+Mill, John Stuart. 1974. The Collected Works of John Stuart Mill, Vol.
+      7—A System of Logic, Ratiocinative and Inductive: Being a
+      Connected View of the Principles of Evidence and the Methods of
+      Scientific Investigation (1843), edited by John M. Robson.Toronto:
+      University of Toronto Press.
+Nollmann, Gerd (2006), Max Webers Vergleich von Rechts- und
+      Sozialwissenschaft, ARSP 92, S. 93-111.
+Puppe, Ingeborg (2000), Die Erfolgszurechnung im Strafrecht:
+      dargestellt   an   Beispielsfällen   aus    der    höchstrichterlichen
+相當因果關係與社會科學方法論                                                       133
+
+
+    Rechtsprechung, Baden-Baden: Nomos.
+─ (2006), Strafrechtsdogmatische Analysen, Bonn: Verlag V&R
+    unipress.
+Radbruch, Gustav (1988), Der innere Weg. Aufriß meines Lebens
+    (1951), in: Kaufmann (Hrsg.), Gustav Radbruch Gesamtausgabe,
+    Bd. 16, bearb. von Spendel, Heidelberg: C. F. Müller, S. 167-297.
+─ (1995), Die Lehre von der adäquaten Verursachung (1902), in:
+    Kaufmann (Hrsg.), Gustav Radbruch Gesamtausgabe, Bd. 7,
+    Strafrecht I, bearb. von Frommel, Heidelberg: C. F. Müller, S. 7-74.
+Ringer, Fritz. 1997. Max Weber’s Methodology: The Unification of the
+    Cultural and Social Sciences. Cambridge, MA: Harvard University
+    Press.
+─ . 2002. Max Weber on Causal Analysis, Interpretation, and
+    Comparison. History and Theory 41:163-178.
+─ . 2010. Max Weber: An Intellectual Biography. Chicago, IL:
+    University of Chicago Press.
+Schubarth, Martin (1973), Das Problem der erfolgsqualifizierten Delikte,
+    ZStW 85, S. 757-760.
+Selter, Susanne (2008), Kettenanstiftung und Kettenbeihilfe, Münster:
+    LIT Verlag.
+Shionoya, Yuichi. 2005. The Soul of the German Historical School:
+    Methodological Essays on Schmoller, Weber and Schumpeter.
+    Berlin: Springer.
+Turner, Stephen P. 1986. The Search for a Methodology of Social
+    Science. Berlin: Springer.
+Turner, Stephen P., and Regis A. Factor. 1981. Objective Possibility and
+    Adequate Causation in Weber’s Methodological Writings. The
+    Sociological Review 29:5-28.
+134                           《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+─. 2005. Max Weber: The Lawyer as Social Thinker. Abingdon-on-
+      Thames: Taylor & Francis Ltd.
+Wagner, Gerhard, and Heinz Zipprian. 1986. The Problem of Reference
+      in Max Weber’s Theory of Causal Explanation. Human Studies
+      9:21-42.
+Wallerstein, Immanuel M. 2000. The Essential Wallerstein. New York,
+      NY: New Press.
+Weber, Max (1922), Kritische Studien auf dem Gebiet der
+      kulturwissenschaftlichen Logik (1906), in: Marianne Weber
+      (Hrsg.), Max Weber: Gesammelte Werke. Electronic Edition.
+      Theoretische Schriften zur Soziologie, online verfügbar unter
+      http://pm.nlx.com/xtf/view?docId=weber/weber.06.xml;chunk.id=d
+      iv.weber.wl.20;toc.depth=1;toc.id=div.weber.wl.20;brand=default.
+─ (1922), Objektive Möglichkeit und adäquate Verursachung in
+      der historischen Kausalbetrachtung (1906), in: Gesammelte
+      Aufsätze zur Wissenschaftslehre, Tübingen: J.C.B. Mohr (Paul
+      Siebeck), S. 266-290.
+─ (1922), Roscher und Knies und die logischen Probleme der
+      historischen Nationalökonomie (1903-06). Ersterscheinung in:
+      »Jahrbuch für Gesetzgebung, Verwaltung und Volkswirtschaft im
+      deutschen Reich« Hrsg.: Gustav Schmoller. 27. Jg., 3. Heft, Dunker
+      u. Humblot, Leipzig 1903, S.1181-1221; 29. Jg., 1905, S.1323-
+      1384; 30. Jg., 1906, S.81-120. Hier wiedergegeben und neu
+      durchgesehen nach: Ges. Aufsätze zur Wissenschaftslehre. Hrsg.:
+      Marianne Weber. Verlag von J.C.B. Mohr (Paul Siebeck), Tübingen
+      1922, [Sigle: WL] S.1-42, 42-105, 105-145. http://pm.nlx.com/xtf/
+      view?docId=weber/weber.06.xml;chunk.id=div.weber.wl.5;toc.dept
+      h=1;toc.id=div.weber.wl.5;brand=default. [作者按：此為Intelex.
+      Past Masters. Full Text Humanities. 所 收 錄 Max Weber:
+相當因果關係與社會科學方法論                                                   135
+
+
+   Gesammelte Werke. Electronic Edition. 這是具備學術可參考性
+   的 權 威 版 本 ， 其 收 錄 根 據 的 來 源 ， 請 參 考 Max Weber:
+   Gesammelte Werke. Electronic Edition. Edition Information: List of
+   Contents. http://pm.nlx.com/xtf/view?docId=weber/weber.00.xml;c
+   hunk.id=div.weber.pmpreface.1;toc.depth=2;toc.id=div.weber.pmpr
+   eface.1;hit.rank=0;brand=default.]
+─ (2016), Die protestantische Ethik und der „Geist“ des
+   Kapitalismus (1905), Neuausgabe der ersten Fassung von 1904-05
+   mit einem Verzeichnis der wichtigsten Zusätze und Veränderungen
+   aus der zweiten Fassung von 1920. Herausgegeben und eingeleitet
+   von Klaus Lichtblau und Johannes Weiß, Wiesbaden: Springer.
+136                                《中研院法學期刊》2019特刊2（2019年12月）
+
+
+
+
+ Adequate Causation and the Methodology
+           of Social Sciences:
+                           Radbruch and Weber
+
+
+                               Chueh-An Yen＊
+
+                                    Abstract
+      In his seminal work “On Max Weber’s Political Theory and its
+Philosophical Foundation” Professor Wu Geng has made an excellent
+study about Max Weber’s methodology of social sciences. Weber
+mentioned several times in his methodological writings about
+Radbruch’s contribution to the theory of adequate causation. This essay
+explores some essentials about this theoretical development. I point out
+in this study that von Kries analyzed the meaning and importance of
+“chance cause” and tried to offer us with a rational way to apprehend the
+chance and adequate causation in terms of our knowledge and decision.
+In his doctoral thesis Radbruch pointed out that the objective possibility
+is the pre-condition of the objective predictability which must be based
+on our best nomological and ontological knowledge. The question about
+causation for historians, Weber thought, is not about applying scientific
+laws, but about how to trace the individual events back to concrete
+causes. Based on von Kries’ and several legal scholars’ works, including
+Radbruch, Weber developed a conception of historical causal analysis by
+classifying all factors that really took effect on history into adequate and
+merely “chance causes”.
+
+KEYWORDS: Weber, von Kries, Radbruch, methodology of social
+          sciences, historical causation, adequate causation,
+
+
+＊ Professor, College of Law, National Taiwan University.
+相當因果關係與社會科學方法論                                                  137
+
+
+      objective possibility, chance cause, objective predictability,
+      scientific laws.
+

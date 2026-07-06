@@ -1,0 +1,1001 @@
+《2012 行政管制與行政爭訟》 李建良主編                                            111
+臺北 中央研究院法律學研究所 專書（20）
+民國 105 年 6 月，頁 111-136
+
+
+
+                              主題演說
+
+                                                              ＊
+          行政契約之發展現況與前景
+
+                                          ＊＊
+                           Jan Ziekow
+
+                           李建良＊＊＊譯
+
+
+                                目 次
+
+ 壹、行政契約之概念及其在行政行為形式類別中之地位
+ 貳、適用行政契約之法領域
+ 參、行政契約作為合作國家與參與國家之典範
+ 肆、行政契約法之改革展望
+ 伍、結語
+
+
+
+
+＊   演說日期：2012年11月24日。
+                    ［責任校對：向民潔］。
+＊＊ 德國 Speyer 行政學大學公法教授、德國公共行政研究所所長。
+＊＊＊ 中央研究院法律學研究所研究員。
+   穩定網址：http://publication.iias.sinica.edu.tw/92014151.pdf。
+112                                                        2012 行政管制與行政爭訟
+
+
+
+      本文主題「行政契約之發展現況與前景」，所涉面向多端，僅
+能設定問題，闡述局部切片。協議或契約對國家及其行為的意義，
+可以溯至近代前期國家權力構成的基本要項，也就是社會契約與統
+治契約的制度，於此徵引Thomas Hobbes或其後數百年以降之政治
+思想家理論，即應足矣1。就民主制度奠基於合意之正當性基礎來
+說，此項觀點延續至今；Walter Leisner將之凝鍊為「契約國家性」
+此一具宏觀性之概念2。循此基礎（譯按：國家奠基於契約）進一
+步伸發的訴求是：「於民主國家形式中……具備自主意識的人
+民……冀求的不是上命下從，而是經由約定產生拘束、權力下放，
+還有更多的在地親民」3，其間道途，殆不遠矣。
+
+      近十年來，從上述根本面向探討行政之契約行為，在德國最初
+標 舉 時 髦 語 彙 Kooperativer Staat （ 合 作 國 家 ） 4 ， 接 著 在 Public
+                                                                             5
+Private Partnership（公私夥伴關係）的前導概念下進行討論 ，今日
+
+
+1 參見Jan Ziekow, Über Freizügigkeit und Aufenthalt, 1997, S. 90 ff. m. w. Nachw.
+2 Walter Leisner, Vertragsstaatlichkeit. Die Vereinba-rung – eine Grundform des
+  Öffentlichen Rechts, 2009, pass.
+3 Leisner (Fn. 2), S. 5.
+4 關於「合作國家」暨「合作行政」之討論，參見 Peter Arnold, Kooperatives
+  Handeln der nichthoheit-lichen Verwaltung, in: Dose/Voigt, Kooperatives Recht, 1995,
+  S. 211 ff.; Arthur Benz, Kooperative Verwaltung, 1994; Otto Depenheuer, Der
+  Gedanke der Kooperation von Staat und Gesellschaft, in: Huber, Das
+  Kooperationsprinzip im Umweltrecht, 1999, S. 17 ff.; Nicolai Dose, Die
+  verhandelnde Verwaltung, 1997; Ernst-Hasso Ritter, Der kooperative Staat, AöR 104
+  (1979), S. 389 ff.; Helge Rossen, Vollzug und Verhandlung, 1999; Rüdiger Voigt, Der
+  kooperative Staat, 1995.
+5 關於公私夥伴關係，參見Jan Ziekow, Public Private Partnership – auf dem Weg zur
+  Formierung einer intermediären Innovationsebene?, VerwArch 2006, S. 626 ff.; ders.,
+  Gewährleistungsstaatliches Denken als Grundlage von Public Private Partnership?
+  (japanisch), in: Kaihatsu Ronsyu, 83-3 (2009), S. 223 ff.; ders., Public Private
+  Partnership als Instrument nachhaltiger Verwaltungspolitik, in: Urbaniec/Stec/ Dolata,
+  Partnerstwo publiczno-prywatne jako instru-ment rozwoju zrównowazonego, 2009, S.
+  171 ff.; ders., Wandel der Staatlichkeit und wieder zurück? PPP im Kontext der
+  deutschen Diskussion um die Rolle des Staates, in: Ziekow, Wandel der Staatlich-keit
+  und wieder zurück? Die Einbeziehung Privater in die Erfüllung öffentlicher Aufgaben
+  in/nach der Weltwirtschaftskrise, 2011, S. 43 ff.; ders., Öffentlichprivate
+行政契約之發展現況與前景                                                                         113
+
+
+爭辯的重心則是公共參與的強化6。若要將各該發展過程融匯在同
+一基盤下，或可表述為：關切之點，乃民主憲法國家建構其行為正
+當性的第二條纜繩7。國家機關的契約暨合意行為，構成了這條纜
+繩，連繫國家各該具體行動脈絡中之（民主）正當性。
+
+      上述國家理論層次的基本觀點，將再藉助相關案例予以論及。
+當然，本文主題「行政契約之發展現況與前景」主要涉及法釋義學
+之課題。以下先從行政行為形式之關聯出發，探討行政契約之概念
+及其地位（壹）。繼之，闡述行政契約適用之法律規範及其相關問
+
+
+  Partnerschaften im deutschen Verfassungs- und Verwaltungsrecht -
+  Herausforderungen und Entwicklungen, in: Administrative Law and Regulatory
+  Policy in the Global Era, 2011, S. 199 ff.; ders., Strukturen und Strategien von Public
+  Private Partnerships in Deutschland (japanisch), in: Syuichi/Takeshi, Die
+  gegenwärtigen Kooperationen zwischen Staat und Privaten in der Welt, 2012, S. 107
+  ff.; ders./Alexander Windoffer, Public Private Partnership. Struktur und
+  Erfolgsbedingungen von Kooperationsarenen, 2008 (jeweils m. w. Nachw.).
+6 以調解為例，探討參與程序中之合意機制，參見Gerd Fuchs/Marcus Hehn/Jörg
+  Wagner, Mediation im öffentlichen Bereich - Möglichkeiten und Grenzen, UPR 2011,
+  S. 81 ff.; Annette Guckelberger, Mediation im Umweltrecht, in: Seok/Ziekow,
+  Mediation als Methode und Instrument der Konfliktmittlung im öffentlichen Sektor,
+  2010, S. 235 ff.; Bernd Holznagel/Ulrich Ramsauer, Förderung der Mediation in
+  Planungsverfahren, VerwArch 2013, S. 131 ff.; Markus Kaltenborn, Streitvermeidung
+  und Streitbeilegung im Verwaltungsrecht, 2007; Mario Martini, Mediation und
+  Gemeinwohl - eine Beziehungsanalyse, in: Seok/Ziekow, Mediation als Methode und
+  Instrument der Konfliktmittlung im öffentlichen Sektor, 2010, S. 81, 93 ff.; Hermann
+  Pünder, Mediation in Verwaltungsverfahren, in: Erichsen/Ehlers, Allgemeines
+  Verwaltungsrecht, 14. Aufl. 2010, § 16; Thorsten Siegel, Mediation in Planungs-
+  verfahren, in: Seok/Ziekow, Mediation als Methode und Instrument der Konflikt-
+  mittlung im öffentlichen Sektor, 2010, S. 283 ff.; Jan Ziekow, Mediation im Kontext
+  sich wandelnder Staatlichkeit, in: Seok/Ziekow, Mediation als Methode und Instrument
+  der Konfliktmittlung im öffentlichen Sektor, 2010, S. 19 ff.
+7 關於國家行為之民主正當性，參見Ernst-Wolfgang Böckenförde, Demokratie als
+  Verfassungsprinzip, in: Isensee/Kirchhof, Handbuch des Staatsrechts der Bundes-
+  republik Deutschland, Bd. II, 3. Aufl. 2004, § 24 Rn. 16 ff.; Detlef Czybulka, Die
+  Legitimation der öffentlichen Verwaltung, 1989; Utz Schliesky, Souveränität und
+  Legitimität von Herrschaftsgewalt, 2004; Hans-Heinrich Trute, Die demokratische
+  Legitimation der Verwaltung, in: Hoffmann-Riem/Schmidt-Aßmann/Voßkuhle,
+  Grundlagen des Verwaltungsrechts, Bd. I, 2. Aufl. 2012, § 6.
+114                                                        2012 行政管制與行政爭訟
+
+
+
+題的基本構造（貳）。再者，針對契約作為合作及參與國家之典範
+機制，剖析引發討論之相關個別案例（參）。最後，總結論點，提
+出行政契約法發展之立法建議（肆）
+               。
+
+
+
+壹、行政契約之概念及其在行政行為形式類別中
+  之地位
+
+      首須指出者，行政契約概念在德國法上不是單一之法律概念。
+針對行政可能締結之契約，諸多法規設有各該專業領域之特別規
+定，建築法堪為其中著例，諸如都市建設契約（städtebaulicher
+           8                            譯註1
+Vertrag） （建設法典第11條）                          、與建築計畫有關之都市細部計
+
+
+8 參見Ulrike Bick, Städtebauliche Verträge, DVBl. 2001, S. 154 ff.; Hans-Jörg Birk,
+  Städtebauliche Verträge, 5. Aufl. 2013; Tim Krämer, Realisierung städtebaulicher
+  Planungen und Projekte durch Verträge, UPR 2003, S. 104 ff.; Michael Krautzberger,
+  Städtebauliche Verträge in der praktischen Bewährung, UPR 2007, S. 407 ff.; Jost
+  Pietzcker, Probleme des städtebaulichen Vertrags, in: Erbguth/Oebbecke/Rengeling u.a.,
+  Planung. Festschrift für Werner Hoppe zum 70. Geburtstag, 2000, S. 439 ff.; Olaf
+  Reidt, Städtebaulicher Vertrag und Durchführungsvertrag im Lichte der aktuellen
+  Rechtsentwicklung, BauR 2008, S. 1541 ff.; Willy Spannowsky, Fortentwicklung des
+  Rechts städtebaulicher Verträge, ZfBR 2012, S. 742 ff.
+譯註1 建設法典（Baugesetzbuch）第11條第1項第1句規定：                           「鄉鎮得締結都市建設
+     契約（städtebauliche Verträge）     。都市建設契約之標的主要得為：
+     1. 由契約當事人自負費用，準備或實施都市建設措施；包括土地關係之重
+        劃、土壤整治及其相關準備措施、使用依聯邦或邦法規定需負擔或不需負
+        擔費用之開發設施（Erschließungsanlagen）為開發行為，以及都市建設計
+        畫或環境報告之擬訂；鄉鎮對於法定計畫訂定程序之責任，不受影響；
+     2. 促進及確保都市主要計畫（Bauleitplanung）設定之目標，特別是土地利
+        用，含附有期限或條件，實施本法第1a條第3項之和解契約，建築文化利
+        益之照顧，有住房問題之特定族群暨當地居民居住需求之滿足；
+     3. 承擔鄉鎮因都市建設措施預期發生或已發生之費用或其他支出，以及建築
+        計畫（Vorhaben）之前置及後續費用；包括取得土地之費用；
+     4. 依據都市建設計畫及措施所定之目標與目的，設置及利用分散式及集中式
+        之電力、再生熱能或冷媒，或氣電共生之生產、傳輸、使用及貯存設施及
+        設備；
+     5. 依據都市建設計畫及措施所定之目標與目的，對建築物節能效能之要
+行政契約之發展現況與前景                                                                    115
+
+
+畫執行契約9 （建設法典第12條）                                、開發契約10 （建設法典第
+                                           譯註2
+
+          譯註3                                                        譯註4
+124條）          等，或如，聯邦自然保育法第3條第3項規定                                        內含以
+                                                       11
+契約保育自然（Vertragsnaturschutz）的觀念 。另一重要的參照示
+範領域是社會法，例如：醫療院所與社會給付提供者之間，以契約
+建構社會給付法律關係，或社會行政機關與社會給付受領者之間成
+                                      （Eingliederungsvereinbarung）12。類
+                                譯註5
+立所謂「求職扶助契約」
+
+
+
+         求。」
+9  參 見 Thomas Burmeister, Der Durchführungsvertrag zum vorhabenbezogenen
+   Bebauungsplan, VBlBW 2002, S. 245 ff.; Stefan Swierczyna, Praxisprobleme bei
+   Abschluss des öffentlich-rechtlichen Durchführungsvertrages nach § 12 BauGB,
+   LKV 2009, S. 452 ff.
+譯註2 建設法典第12條第1項規定：「鄉鎮得經由與建築計畫有關之細部計畫
+     （durch einen vorhabenbezogenen Bebauungsplan）訂定建築計畫之合法要件，
+       如建築計畫申請人基於與該鄉鎮議定之計畫願意且有能力實施建築計畫及開
+       發措施（建築暨開發計畫）              ，且承諾於一定期限內付諸實施，並負擔依第10條
+       第1項計畫發布前之計畫及開發費用之一部或全部（實施契約[Durchführungs-
+       vertrag]）
+               。」
+10 參見Herbert Grziwotz, Probleme des Erschließungsvertrags, DVBl 2005, S. 471 ff.;
+   Thomas Walter, Der Erschließungsvertrag im System des Erschließungsrechts, 2010.
+譯註3 建設法典第124條規定：              「鄉鎮發布第30條第1項所定之細部計畫，但拒絕締
+       結有關都市建設開發契約之合理要約者，負有自行開發之義務。」
+譯註4 聯邦自然保育法（Bundesnaturschutzgesetz）第3條第3項規定：                          「關於自然保
+       育及景觀維護之措施，應優先考量其目的在合理費用支出下亦得以契約方式
+       為之。」
+11 參見Walter Frenz,Vertragsnaturschutz in neuem Gewand, NuR 2011, S. 257 ff.;
+   Alexander Proelß/Ursula Blanke-Kießling, Der Verwaltungsvertrag als Handlungsform
+   der Naturschutzverwaltung, NVwZ 2010, S. 985 ff.; Carola Windstoßer,
+   Vertragsnaturschutz, 2008.
+譯註5 Eingliederungsvereinbarung一詞的字義是「融入就業市場契約」                         ，旨在透過契
+       約之方式協助求職者就業。本文譯為「求職扶助契約」                                ，係採意譯之方式，
+       以利瞭解。關於Eingliederungsvereinbarung的意涵，參見Hartmut Bauer著，
+       李建良譯，德國行政法上行政契約發展面面觀，台灣法學雜誌，203期，
+       2012年7月1日，頁86-95。
+12 參見Marc Colussi, Probleme der Eingliederungsvereinbarung nach § 15 SGB II,
+   2010; Kai-Holmger Kretschmer, Das Recht der Eingliederungsvereinbarung des SGB
+   II, 2012; Tobias Rauch/Frank Zellner, Die Eingliederungsvereinbarung nach § 15
+   SGB II, 2008; Bettina Weinreich, Die Eingliederungsvereinbarung nach § 15 SGB II,
+   SGb 2012, S. 513 ff.
+116                                                        2012 行政管制與行政爭訟
+
+
+
+此之例，多不勝舉13。國家作為契約之行動者、不居於高權地位之
+作法，於政治上早已蔚為趨勢。
+
+      不過，上舉專業領域之規範並未使用「行政契約」概念一詞，
+屬 於 行 政 之 一 般 性 契 約 概 念 ， 僅 有 「 公 法 契 約 」（ öffentlich-
+rechtlicher Vertrag ） 之 稱 語 。 德 國 行 政 程 序 法 （ Verwaltungs-
+verfahrensgesetz, VwVfG）第54條以下規定通案適用於一般行政
+法，相同規定見諸社會法典（Sozialgesetzbuch, SGB）第10篇第53
+條以下。上開規定一定程度將行政契約等同於公法契約，部分學者
+認為，此等概念之問題允應業已解決14。
+
+      行政契約的概念被窄化為公法契約，行政締結之眾多契約或可
+逐漸不再置於私法規範之下。不過，行政機關原則上可以自由決定
+以私法或公法形式遂行任務—除另有特別規定外—15，故將行
+政的契約行為在法律上進行統攝，未必妥適，檢視對象毋寧視行政
+專業部門的個案隨機選擇而定。因此，行政專業法律之規定，例如
+建設法典第11條有關建設契約之規定，於公法契約或私法契約，皆
+可適用16。
+
+      據上以論，行政契約概念之內涵，取決於締結契約的行動者：
+
+
+13 詳參Jens Ahlhaus, Verwaltungsrechtliche Verträge im Immissions- und Gewässer-
+   schutzrecht, 2011.
+14 參見Jan Ziekow, Verankerung verwaltungsrechtlicher Kooperationsverhältnisse (Public
+   Private Partnership) im Verwaltungsverfahrensgesetz. Gutachten, erstattet für das
+   Bundesministerium des Innern, 2001, S. 124 ff. (abrufbar unter http://www.verwaltung-
+   innovativ.de/SharedDocs/Publikationen/DirekteDownloads/verwaltungskooperationsr
+   echt.pdf?__blob=publicationFile&v=1. A. M. Hartmut Maurer, Allgemeines
+   Verwaltungsrecht, 18. Aufl. 2011, § 14 Rn. 7. Zusammenfassend Hartmut Bauer,
+   Verwaltungsverträge, in: Hoffmann-Riem/Schmidt-Aßmann/Voßkuhle, Grundlagen des
+   Verwaltungsrechts, Bd. II, 2. Aufl. 2012, § 36 Rn. 70 ff.
+15 BVerwGE 13, S. 47, 54; BVerwG NVwZ 2007, S. 820, 821; BGH NJW 1992, S. 171,
+   172; Martin Burgi, Rechtsregime, in: Hoffmann-Riem/Schmidt-Aßmann/Voßkuhle,
+   Grundlagen des Verwaltungsrechts, Bd. I, 2. Aufl. 2012, § 18 Rn. 28.
+16 Olaf Reidt, in: Battis/Krautzberger/Löhr, Baugesetzbuch, 12. Aufl. 2014, § 11 Rn. 1.
+行政契約之發展現況與前景                                                                     117
+
+
+凡由公行政主體所締結之契約，皆可稱之為「行政契約」，不問其
+以私法契約或公法契約行之17。為免誤解（應予說明）：行政契約
+是一種具開啟性的類目（eine heuristische Kategorie），整體來看，
+行政契約是一種「分析框架」（Analyserahmen），在立法論上並無
+必然之法政策規範要求。部分學者主張，應建立一套整合私法與公
+法的行政契約類型18。從宏觀角度來看，本文並不支持此項主張。
+或許，在知識上這是極具吸引力的嘗試。但德國法秩序中公私法二
+分、各有規範之結構性決定19，部分領域可能因上述主張而解體。
+實則，問題的重點在於行政之行動者如何在合作關係中形構行為準
+據，最終締結之契約究應定性為私法或公法，無關宏旨。
+
+     縱使採行上述綜合性之行政契約，畢竟也只是行政所得運用的
+諸多行為形式之一種20。尤其，在公法領域少有行政應採契約形式
+之明文；相對而言，契約於私法領域，則居於主宰地位。儘管時有
+前述告別「高權國家」、邁向「合作國家」的呼聲，然行政於何種
+情況、是否採取契約作為行事方式，依然取決於個案決定21。尤應
+注意者，建立共識本身並不當然成立公法契約。於實務上，行政與
+人民之間經常進行各種不同形式的商議，其結果未必締結契約，而
+
+17 參見Eberhard Schmidt-Aßmann, Verwaltungsverträge im Städtebaurecht, in: Lenz,
+   Festschrift für Konrad Gelzer, 1991, S. 117.
+18 Eberhard Schmidt-Aßmann/Walter Krebs, Rechtsfragen städtebaulicher Verträge, 2.
+   Aufl. 1992, S. 162.
+19 參 見 Burgi (Fn. 15); Detlef Schmidt, Die Unter-scheidung von privatem und
+   öffentlichem Recht, 1985; sowie die Beiträge in: Hoffmann-Riem/Schmidt-Aßmann,
+   Öffentliches Recht und Privatrecht als wechselseitige Auffangordnungen, 1996.
+20 關於行政之行為形式，參見Peter Krause, Rechtsformen des Verwaltungshandelns,
+   1974; Walter Pauly, Grundlagen einer Handlungsformenlehre im Verwaltungsrecht, in:
+   Becker-Schwarze u.a., Wandel der Handlungsformen im Öffentlichen Recht, 1991, S.
+   25 ff.; Rainer Pitschas, Entwicklung der Handlungsformen im Verwaltungsrecht, in:
+   Blümel/Pitschas, Reform des Verwaltungsverfahrensrechts, 1994, S. 229 ff.; Eberhard
+   Schmidt-Aßmann, Die Lehre von den Rechtsformen des Verwaltungshandelns, DVBl.
+   1989, S. 533 ff.
+21 Jan Ziekow/Thorsten Siegel, Entwicklung und Perspektiven des Rechts des öffentlich-
+   rechtlichen Vertrages – Teil 1 –, VerwArch 2003, S. 593, 604.
+118                                                    2012 行政管制與行政爭訟
+
+
+
+是作成行政處分。至於是否將此種行政處分稱之為「經協議之行政
+  （konsentierter Verwaltungsakt），實質意義不大，在類型上仍
+處分」
+是行政處分，而非契約。此點背後隱含的思維是，對行政來說，在
+行為形式的選項中，行政處分還是具備契約形式所沒有的特殊優
+點22。
+
+      當然，情況也有可能剛好相反，選用契約的好處較大。實例之
+一是「代替都市細部計畫之土地買賣契約」（bebauungsplaners-
+etzender Grundstückskaufvertrag），所涉情形如下：空地可建築之方
+式與範圍，原應以細部計畫（Bebauungsplan）定之，出於諸多理
+由，該管鄉鎮未發布細部計畫，而是與某一投資者締結土地買賣契
+約，於契約中明定建築的種類、外觀，以及必要之基礎設施，例如
+幼稚園。此項作法之法律評價，特別是否符合政府採購法之規範，
+極具爭議，迨至歐洲法院作成判決，相關問題始獲一定程度的釐
+清23。
+
+
+
+貳、適用行政契約之法領域
+
+      行政程序法第54條至第62條對所有之公法契約設有一般性規
+定，但未發展出與民法可資匹比的契約規範體系。上開規定將公法
+契約區分為所謂隸屬契約（行政程序法第54條第2句）與其他種類
+之公法契約，再又區分和解契約（行政程序法第55條）與交換契約
+（行政程序法第56條）二種。此種區分，究其目的，僅是特定保護
+
+
+22 參見Jan Ziekow, Institutionen unter Konkurrenzdruck: Das Beispiel des öffentlich-
+   rechtlichen Vertrages, in: Benz/Siedentopf/Sommermann, Institutionenwandel in
+   Regierung und Verwaltung. Festschrift für Klaus König, 2004, S. 303 ff.
+23 EuGH NVwZ 2010, S. 565 ff. – Müller. 關於德國邦高等法院之不同見解及學說
+   之討論，參見Jan Ziekow, in: ders./Völlink, Vergaberecht, 2. Aufl. 2013, § 99 GWB
+   Rn. 165 ff.
+行政契約之發展現況與前景                                                                   119
+
+
+需求規範要求之類型化，對於公法契約未設類型強制之規定，故行
+政機關仍得締結雙務契約及和解契約以外之其他種類公法契約24。
+
+一、隸屬契約（Der subordinationsrechtliche Vertrag）
+
+      行政程序法第54條第2句之公法契約，被稱為「隸屬」契
+  譯註6
+約       。據此規定，行政機關得與原欲對之為行政處分之相對人締
+結公法契約，而不作成行政處分。公法契約是否屬於一種隸屬契
+約，殊為重要。蓋行政程序法第55條以下之主要規定僅適用於隸屬
+契約，而不及於其他種類之公法契約。
+
+      上述規定之所由設，在於契約定性為具有隸屬關係的規範功
+能。從規範功能的角度出發，將「隸屬」契約與其他種類之公法契
+約相區分，並作區別規定，係基於保護必要性的觀點。行政程序法
+第54條第2句及其相關規定之主要立法考量是，在行政高權「上下
+    （„Schatten der Hierarchie“）25籠罩之下，與行政締約的
+階層陰影」
+人民需要受到特別的保護。另方面之規範功能是為了防止行政藉此
+讓公權力形同被出賣26。因此，行政程序法第54條第2句之適用範
+圍，須探求其所設定之保護意旨。
+
+      關於保護必要性之界限，司法實務採取類型化之觀察取徑：行
+政程序法第54條第2句適用於私人與公行政主體之間存有上下隸屬
+
+
+
+24 Michael Fehling, in: ders./Kastner/Störmer, Verwaltungsrecht – Handkommentar, 3.
+    Aufl. 2013, § 54 VwVfG Rn. 56.
+譯註6 行政程序法第54條規定：「除法規另有相反規定外，公法上法律關係之
+      成立、變更或消滅，得以契約為之（公法契約）。行政機關尤其得與原
+      欲對之為行政處分之相對人（mit demjenigen ..., an den sie (sic die Behörde)
+      sonst den Verwaltungsakt richten würde）締結公法契約，以取代行政處分之
+      作成。」
+25 Fritz Scharpf, Die Handlungsfähigkeit des Staates am Ende des zwanzigsten
+   Jahrhunderts, PVS 1991, S. 621, 629.
+26 Carl Hermann Ule/Hans-Werner Laubinger, Verwaltungsverfahrensrecht, 4. Aufl.
+   1995, § 68 Rn. 9.
+120                                                   2012 行政管制與行政爭訟
+
+
+
+高權關係所締結之所有公法契約，至於契約約定之具體標的是否原
+得以行政處分規制之，在所不問27。換言之，系爭規範領域具有上
+下隸屬關係，即足以引動行政程序法第54條第2句的保護功能。
+
+       從功能的角度來說，此種解釋取徑並非允洽。須注意的是，依
+照實務見解以是否存在「上下隸屬之高權關係」為判斷準據，其結
+果將使「隸屬」契約之概念定義與公法契約存否之定性要件要素完
+全重疊。蓋上下隸屬關係之存在，乃是公法行為之古典特徵28。以
+此作為界分準據是否有助於保護必要性的區辨，令人懷疑。實則，
+人民唯有在具體個案中面對優勢之行政高權時，方有受特別保護之
+必要。準此，從功能適切的視角以觀，唯有當行政機關在具體個案
+中對於特定之關係人亦得以行政處分予以規制時，始存有所謂之隸
+屬契約29。
+
+二、和解契約與交換契約
+
+       依循前述隸屬契約的定位，行政程序法第55條及第56條之特別
+保護規定，於和解契約及交換契約亦有適用。
+
+      （一）和解契約（Vergleichsvertrag）
+       行政程序法第55條所稱之和解契約，係指於事實及法律狀態不
+確定時，為排除該不確定性，經雙方讓步而締結之公法契約。該條
+未授權行政機關於滿足不確定性條件時，即得締結和解契約，而不
+另為事實之調查認定。容許締結和解契約之目的在於程序經濟，故
+該條所稱之事實不明確，僅於進行其他調查之耗費不成比例時，始
+
+
+
+27 BVerwGE 111, S. 162, 165; BVerwG NVwZ-RR 2003, S. 874, 875; OVG Koblenz
+   DVBl. 2003, S. 811, 812; VGH Mannheim NVwZ 1991, S. 583, 584; VBlBW 2004,
+   52; VGH München NVwZ 1990, S. 979, 981.
+28 Dazu etwa Jan Ziekow, Verwaltungsverfahrensgesetz, 3. Aufl. 2013, § 1 Rn. 23.
+29 Ziekow (Fn. 28), § 54 Rn. 32.
+行政契約之發展現況與前景                                                                   121
+
+
+足當之30。
+
+   （二）交換契約（Austauschvertrag）
+     行政程序法第56條有關交換契約之規定，係為防止「出賣公權
+ （Ausverkauf von Hoheitsrechten）
+力」                             ，並保護人民免於被要求提供
+不合法或不合理之給付31。狹義之交換契約，指契約當事人之一方
+基於雙方約定，享有請求他方給付之權利32。除此之外，行政程序
+法第56條—至少是準用—尚包括所謂「跛足之交換契約」
+（hinkender Austauschvertrag）33。於此種契約中，行政機關之給付
+未約定為對待給付，而是作為人民給付之契約外條件或默示之契約
+基礎前提34。典型的例子是，約定人民為一定之給付，而鄉鎮承諾
+發布特定之都市細部計畫。由於鄉鎮若承諾負有作成特定計畫之義
+務，將牴觸計畫衡量之要求（Abwägungsgebot），故鄉鎮允諾發布
+特定之計畫，非得作為契約上有拘束力之義務，而僅能是締結上開
+（人民負有給付義務）契約之前提基礎。
+
+     契約被歸類為交換契約的結果是，交換契約適用不當聯結禁止
+原則（Koppelungsverbot）與合理性原則（Angemessenheitsgebot）
+                                               ：
+
+     依不當聯結禁止原則，人民之對待給付與行政機關之契約上給
+付必須具有合於事理之關聯性。首要目的是防止「出賣公權
+力」35，一則不能透過行政契約聯結不具內在關聯性之給付，另方
+
+
+30 Jan Ziekow/Thorsten Siegel, Entwicklung und Pers-pektiven des Rechts des
+   öffentlich-rechtlichen Ver-trages – Teil 2 –, VerwArch 2004, S. 133, 142.
+31 VGH Mannheim NVwZ 1991, S. 583, 584.
+32 BVerwGE 111, S. 162, 167.
+33 關於「跛足之交換契約」及其效力，參見Ulrich Stelkens, „Hinkende“ Verwaltungs
+   verträge: Wirkungen und Rechtsnatur, DÖV 2009, S. 850 ff.
+34 BverwGE 96, S. 326, 330; BVerwGE 111, S. 162, 167; BVerwG NVwZ-RR 2003, S.
+   874, 875; VGH Mannheim NVwZ 1991, S. 583, 584; VBlBW 2004, S. 52, 53; VGH
+   München NVwZ 1990, S. 979, 981; VGH Kassel NVwZ-RR 2005, S. 680, 682.
+35 BVerwGE 111, S. 162, 169; BVerwG NVwZ-RR 2003, S. 874, 875; VGH Mannheim
+122                                                 2012 行政管制與行政爭訟
+
+
+
+面在無法律授權基礎下，行政機關之決定不得與（人民）財產上對
+待給付之間存有對價性，除非若無該對待給付，行政決定面臨之法
+律障礙將無從排除36。人民之對待給付非屬合法之情形，例如行政
+機關承諾之對待給付，依照聯邦或邦法相關規定，人民享有請求
+權37；又如行政機關將依法應自行負擔之費用轉嫁到人民身上38。
+
+      其次，（人民之）對待給付，依整體情況以觀，應屬合理（行
+政程序法第56條第1項第2句）。合理，係就整個過程作經濟上之觀
+察，對待給付與行政機關所為之給付或約定之給付不得顯失均衡，
+從而對契約之一方造成過苛之負擔39。對待給付之合理性審查，涉
+及比例原則之規範意旨40。由此益顯私人間之契約自由於公行政不
+適用之。
+
+三、公法契約違法之法律效果
+
+      契約為隸屬契約抑或其他種類之契約，於契約罹有瑕疵之法律
+效果問題上亦有區分實益。相對於行政處分，公法契約具較高的存
+續力，此為公法契約的優勢之一。違法之行政處分得由行政機關依
+職權撤銷之（行政程序法第48條），或由人民訴請撤銷之（行政法
+院法第42、113條）
+          ，即使是所謂經協商之行政處分亦然。反之，公
+法契約牴觸法規者，該契約（「單純」）違法，但原則上有效41。換
+
+
+   NVwZ 2001, S. 694, 695; VBlBW 2004, S. 52, 53.
+36 BVerwGE 111, S. 162, 169; BVerwG NVwZ 1994, S. 485; OVG Koblenz DVBl.
+   2003, S. 811, 814; VGH Mannheim NVwZ 2001, S. 694, 695; VBlBW 2004, S. 52,
+   53.
+37 BVerwGE 96, S. 326, 335; 111, S. 162, 169; VGH Mannheim VBlBW 2004, S. 52,
+   53.
+38 VGH Mannheim VBlBW 2004, S. 52, 54.
+39 BVerwGE 42, S. 331, 345; VGH Mannheim VBlBW 1997, S. 27, 28; VGH München
+   NVwZ 1999, S. 1008, 1010; BayVBl. 2009, S. 722, 724.
+40 BVerwG NJW 1985, S. 989, 990; VGH München NVwZ 1990, S. 979, 981; VGH
+   Mannheim NVwZ 2001, S. 694, 696.
+41 Heinz Joachim Bonk/Werner Neumann, in: Stelkens/Bonk/Sachs, Verwaltungs-
+行政契約之發展現況與前景                                                                      123
+
+
+句話說，違法對於契約之效力不生影響。契約當事人之一方仍須履
+行契約，不能因契約違法而透過撤銷、終止或解除契約，免除契約
+上之義務42。
+
+     不同之處，僅在公法契約無效之情形。公法契約是否無效，悉
+依行政程序法第59條列舉之無效事由而定。基本原則是依行政程序
+法第59條第1項規定，準用民法規定結果為無效者，公法契約無
+效。此項規定具有統合民法與公法部分法秩序之功能，契約無效之
+事由不以契約之重點在公法或私法而有差別。
+
+     針對隸屬契約，行政程序法第59條第2項另設無效之事由。蓋
+於此等契約人民有較高的保護必要性。部分無效事由係比附行政處
+分違法或無效事由，部分則是針對和解契約及交換契約之契約類
+型。於不具備締結此二種契約類型之要件者，該公法契約無效。
+
+     在本文結束公法契約法發展概述之前，尚須指出兩項對公法契
+約實務運作造成困擾之規定：
+
+四、書面要式
+
+     依行政程序法第57條規定，公法契約應以書面為之。違反書面
+要式規定者，契約無效。此項嚴格規定，乍觀之下，令人咋舌，因
+為行政處分之作成未必需要書面，亦得以口頭為之（行政程序法第
+37條第2項）
+      。不過，此項規定之所由設，係前述違法之公法契約具
+有較高之存續力使然。書面要式性要求再次彰顯出，公法契約之締
+結具有較高之拘束力。也因此，書面要式本身不是問題，問題出在
+進一步要求「文件之單一性」（Urkundeneinheit）。文件單一性，意
+
+
+
+   verfahrensgesetz, 8. Aufl. 2014, § 59 Rn. 4a.
+42 Jan Ziekow/Thorsten Siegel, Entwicklung und Perspektiven des Rechts des öffentlich-
+   rechtlichen Vertrages – Teil 3 –, VerwArch 2004, S. 281, 282; Matthias Werner,
+   Allgemeine Fehlerfolgenlehre für den Verwaltungsvertrag, 2008, S. 84 ff.
+124                                                       2012 行政管制與行政爭訟
+
+
+
+指契約當事人雙方之文件往返，縱使內含有要約與承諾之書面簽
+署，尚有未足，必須雙方當事人於同一文件上簽署，始足當之43。
+新近的司法裁判已正確地認識到，文件單一性構成契約形式運用之
+障礙（譯按：而有所修正）。特別是公法契約未約定契約兩造當事
+人雙務義務，而僅課予契約當事人之一方義務者，經簽署之書面往
+返亦滿足書面要式之要求44。
+
+五、第三人之同意
+
+      行政程序法第58條第1項規定對於實務造成的問題較為嚴重。
+依此規定，公法契約干預第三人之權利者，應經第三人之同意，始
+生 效 力 。 於 第 三 人 同 意 之 前 ， 該 契 約 之 效 力 未 定 （ schwebend
+          45
+unwirksam） 。第三人表示同意或拒絕同意之期限，法無明文。
+影響所及，公法契約之生效與否，可能歷數十年仍處於不確定狀
+態。
+
+      一般認為，上開規定旨在公法領域創設如同私法領域之第三人
+不利益契約禁止原則46。本文認為此項解釋自始即屬錯誤。私法上
+第三人不利益契約禁止原則之基本思維是，經由契約之合意得以確
+保利益調和之正確性，由於第三人並未參與該合意，故（譯按：契
+
+
+
+
+43 BVerwGE 98, S. 58, 67; OVG Lüneburg NJW 1992, S. 1404, 1405; NJW 1998, S.
+   2921; VGH Mannheim NVwZ-RR 1990, S. 225; Horst Schlemminger,
+   Schriftformrisiken beim Abschluss öffentlich-rechtlicher Verträge, NVwZ 2009, S.
+   223, 224; 詳見Volker Schlette, Die Verwaltung als Vertragspartner, 2000, S. 455 ff.
+   不同見解Mónica Liliana Ibagón-Ibagón, Rechtsstaatliche Anforderungen an den
+   Verwaltungsvertrag am Beispiel der Schriftlichkeit des Vertrages, 2011, S. 134 ff.;
+   Ferdinand O. Kopp/Ulrich Ramsauer, Verwaltungsverfahrensgesetz, 15. Aufl. 2014,
+   § 57 Rn. 9 f.; Oliver Weihrauch, Verwaltungsrechtlicher Vertrag und Urkundeneinheit,
+   VerwArch 1991, S. 543, 550 ff.
+44 BVerwGE 96, S. 326, 332; OVG Bautzen SächsVBl. 2010, S. 171, 173.
+45 Bonk/Neumann (Fn. 41), § 58 Rn. 4.
+46 參見OVG Lüneburg UPR 2000, S. 238, 239; Kopp/Ramsauer (Fn. 43), § 58 Rn. 1.
+行政契約之發展現況與前景                                                                         125
+
+
+約確保利益調和之功能）無法延伸到該第三人47。上開禁止原則係
+植基於私法自治之實踐。然而，私法自治原則恰是行政所無法主張
+者48。是以，將私法上禁止第三人不利益契約之問題解決機制運用
+到公法，在功能上要非允妥。實則，上開規定係以程序保護基本權
+（Grundrechtsschutz durch Verfahren）的一種表現型態，用以避免第
+三人必須面對某些既成事實，卻已無法維護自身之權利。
+
+      上述見解之差異，一定程度影響到同意規定適用範圍之界定。
+依通說見解，需經第三人同意之契約包括處分契約
+（ Verfügungsverträge ） 與 負 擔 契 約 （ 或 譯 「 課 予 義 務 契 約 」）
+（Verpflichtungsverträge）49 。公法上之法律關係得以處分契約直接
+設定、變更或消滅，無需契約締結後之其他行為，如行政處分。例
+如以契約直接代替原應核給人民之許可。反之，負擔契約之履行，
+則尚需其他之行為，例如作成行政處分50。不過，將負擔契約納入
+需經第三人同意之列，從功能的角度而言，並非允當。蓋第三人得
+以透過對履行契約之行政處分提起撤銷訴訟而獲得充分之基本權保
+護。因此，將負擔契約之生效與否繫於第三人之同意，並不符合第
+三人參與程序之規範目的51。
+
+      在簡述行政契約法發展現況之後，以下將集中在兩則時興討論
+之案例，也就是契約作為國家圖像轉型的典範課題。
+
+
+47 Mathias Habersack, Vertragsfreiheit und Drittinteressen, 1992, S. 66 ff.
+48 Ziekow (Fn. 14), S. 122 f.; Steffen Christmann, Der öffentlich-rechtliche Vertrag mit
+   privaten Dritten im Lichte der Schuldrechtsreform, 2010, S. 12; Ulrich Stelkens,
+   Verwaltungsprivatrecht, 2005, S. 29.
+49 參見Bonk/Neumann (Fn. 41), § 58 Rn. 15; Jürgen Fluck, Die Erfüllung des
+   öffentlich-rechtlichen Verpflichtungsvertrags durch Verwaltungsakt, 1985, S. 60 f.;
+   Johanna Reinker, in: Bauer/Heckmann/Ruge u.a., Verwaltungsverfahrensgesetz und
+   E-Government, 2. Aufl. 2014, § 58 Rn. 9; Schlette (Fn. 43), S. 432; Werner (Fn. 42), S.
+   49.
+50 BVerwG NVwZ-RR 2004, S. 413, 415.
+51 參見Mathias Hellriegel, Wirksamkeit drittbelastender öffentlich-rechtlicher Verträge
+   ohne Zustimmung des Dritten, DVBl. 2007, S. 1211, 1212 f.
+126                                                           2012 行政管制與行政爭訟
+
+
+
+參、行政契約作為合作國家與參與國家之典範
+
+      德國行政法目前正處在觀點遞轉的進程中。行政法的古典特徵
+是高權行為、上下隸屬規制關係，此種看法與人民漸增之形成開展
+可能性，相互對立。人民不再只是行政決定的客體，而是共同參與
+形成者。
+
+      行政與人民之間的合作關係，特別是行政與企業之合作關係，
+於今普遍存在，勢之所趨，日勝一日，學界早有述及52。行政益發
+意識到自身的侷限，有計畫地引入民力，用以提升組織上之運行能
+量，或作為資訊的提供者，或以其他方式運作。次者，伴隨擔保國
+家思維（gewährleistungsstaatliches Denken）的勃興，任務的責任與
+任務的履行漸次脫鉤：提供擔保之國家未必需要親自履行公共任
+務，任務履行的能量可以—程度不等—取自私人。換言之，國
+家不再承擔所謂的履行責任，只須擔保任務最終在合於公共福祉之
+利益下付諸實現53。這第二條纜繩衍生出人民參與行政決定之探討
+課題54。
+
+
+52 參見註4之文獻。
+53 關於擔保國家與擔保責任，參見Claudio Franzius, Der Gewährleistungsstaat,
+   Verwaltungsarchiv 99 (2008), S. 351 ff.; Wolfgang Hoffmann-Riem, Verantwortungs-
+   teilung als Schlüsselbegriff moderner Staatlichkeit, in: Kirchhof/Lehner/Raupach/
+   Rodi, Staat und Steuern. Festschrift für Klaus Vogel, 2000, S. 47 ff.; Isabella Proeller/
+   Kuno Schedler, Verwaltung im Gewährleistungsstaat, in: Blanke/von Bandemer/
+   Nullmeier/Wewer (Hrsg.), Handbuch zur Verwaltungsreform, 3. Aufl. 2005, S. 94 ff.;
+   Gunnar Folke Schuppert, Der Gewährleistungsstaat – modisches Label oder Leitbild
+   sich wandelnder Staatlichkeit?, in: ders. (Hrsg.), Der Gewährleistungsstaat – Ein
+   Leitbild auf dem Prüfstand, 2005, S. 11 ff.; ders., Staatstypen, Leitbilder und
+   Politische Kultur: Das Beispiel des Gewährleistungsstaates, in: Heidbrink/Hirsch, Staat
+   ohne Verantwortung?, 2007, S. 467 ff.
+54 參見Thomas Mann, Großvorhaben als Herausforderung für den demokratischen
+   Rechtsstaat, VVDStRL 72 (2013), S. 544 ff.; Anja Seibert-Fohr, Öffentlichkeits-
+   beteiligung im Planungsverfahren: Chancen und Grenzen am Beispiel des
+   Planvereinheitlichungsgesetzes, VerwArch 2013, S. 311 ff.; Jan Ziekow, Neue
+   Formen der Bürgerbeteiligung? Planung und Zulassung von Projekten in der
+行政契約之發展現況與前景                                                                       127
+
+
+     合作國家與參與國家（partizipativer Staat）此二觀點，緊密相
+屬，開展出寬廣的交叉領域。就本文之主題而言，重要的是行政契
+約之運作模式已然扮演關鍵角色，現行法制卻尚乏最佳規範。
+
+一、行政合作法
+
+     德國法秩序是否足以肆應合作國家趨勢之討論，已逾十年，迄
+今仍未止歇。核心問題是，履行公共任務領域所生之多角合作關
+係，能否以私法契約與公法契約之傳統法則處理之，抑或現行法需
+要進一步的續造與開展。
+
+     行政法若旨在為行政之所需設定法律形式、制度、程序及組織
+類型，以完善行政履行任務之裝備 55 ，則法制現況容有改善之空
+間。特別是德國在公私夥伴關係之實踐，截至目前的經驗顯示，建
+構中的行政合作法必須確保公部門在與私人合作的過程中不會脫免
+責任，在行政締結的契約中應妥善顧及公共利益56。於法律中應確
+立規範機制，使行政部門能夠善盡其責任，防止行政部門透過合作
+推卸維護公共福祉的職責。行政合作不能導致公共利益被私合作夥
+伴的特別利益所凌駕。
+
+     此外，研議及備置徵求（合作夥伴）的相關選項及指引時，宜
+
+
+   parlamentarischen Demokratie, Gutachten D zum 69. Dt. Juristentag, 2012; ders.,
+   Frühe Öffentlichkeitsbeteiligung – Der Beginn einer neuen Verwaltungskultur, NVwZ
+   2013, S. 754 ff.; ders., Der Bürger und die legalistische Verwaltung: Zwischen
+   Gesetzesbindung und Sprachlosigkeit, in: König/Kropp/Kuhlmann u.a., Grundmuster
+   der Verwaltungskultur, 2014, S. 105 ff.; ders., Bürgerbeteiligung als system-
+   stabilisierendes Element der parlamentarischen Demokratie, in: ders./Seok (Hrsg.),
+   Systemkrisen und Systemvertrauen, 2015, S. 223 ff.
+55 Gunnar Folke Schuppert, Verwaltungsrechtswissenschaft als Steuerungswissenschaft,
+   in: Hoffmann-Riem/Schmidt-Aßmann/Schuppert, Reform des Allgemeinen Verwaltungs-
+   rechts, 1993, S. 65, 96 f.
+56 Ziekow (Fn. 14), S. 176; 同說Heribert Schmitz, „Die Verträge sollen sicherer
+   werden“ – Zur Novellierung der Vorschriften über den öffentlich-rechtlichen Vertrag,
+   DVBl. 2005, S. 17, 18 f.
+128                                                      2012 行政管制與行政爭訟
+
+
+
+讓（潛在的）合作夥伴可以直接援用法律明定的範例，形構特定的
+基礎關係，並得依個案情節調整之，使行政合作關係順遂成立及形
+塑57。
+
+      正因行政合作之特徵是透過公私部門行動理性的融合，進而共
+同履行公共任務，故此種合作關係經常落在公法行為與私法行為的
+交界領域。因此，自始即需要一種橫跨領域的觀念，囊括行政合作
+暨公私夥伴關係所生之關聯問題。至於其重點在公法或私法，要非
+所問58。
+
+      行政合作契約之類型，是公私部門相互作用的關鍵樞紐，讓身
+為合作夥伴的公部門充分考量預定角色分配與具體分層負責的必要
+性。合作契約形構合作關係，並提供確保基本責任及合作夥伴利益
+的適當工具。因此，此種行政合作契約不宜與買賣或承攬契約類型
+相互混淆59。行政合作法毋寧要對合作關係的基本結構保持開放，
+以便進行合於各該事物領域特性的形塑。
+
+      上述行政合作契約法的主要部分是，課予行政機關進行責任損
+益分析的義務，俾使行政機關在與私人合作時亦能負起維護公共福
+祉之責任60。除了其他相關細節規定外，重點在於建立合作夥伴損
+
+
+57 Schmitz (Fn. 56), S. 18 f.
+58 學者對此問題提出法律鑑定意見書均採此一見解：Martin Burgi, Privatisierung
+   öffentlicher Aufgaben – Gestaltungsmöglichkeiten, Grenzen, Regelungsbedarf,
+   Gutachten D für den 67. Deutschen Juristentag, 2008, S. D 111; Gunnar Folke
+   Schuppert, Grundzüge eines zu entwickelnden Verwaltungskooperationsrechts, 2001,
+   S. 130 f.; Ziekow (Fn. 14), S. 183. Zustimmend etwa Tonio Gas, Die gesetzliche
+   Normierung des öffentlich-privaten Kooperationsvertrages, Die Verwaltung 2012, S.
+   43 ff.; Tobias Manz, Die Normierung des öffentlich-rechtlichen Kooperations-
+   vertrages, 2011, S. 79 ff.; Nina Stöcker, Entwicklung des Verwaltungskooperations-
+   vertrags unter Berücksichtigung des Vergaberechts, 2010, S. 268 ff. Skeptisch
+   demgegenüber Ulrich Stelkens, „Kooperationsvertrag“ und Vertragsanpassungs-
+   ansprüche: Zur beabsichtigten Reform der §§ 54 ff. VwVfG, NWVBl. 2006, S. 1 ff.
+59 結論同說Burgi (Fn. 58), S. D 112.
+60 此項建議，參見Ziekow (Fn. 14), S. 207。聯邦及各邦於2014年4月21、22日所提
+行政契約之發展現況與前景                                                                    129
+
+
+益之平衡機制，並就攸關公益之契約義務或附隨義務預設自行執行
+（譯按：接管）之機制。
+
+     以上諸般要求之履行，非能全部任諸合作夥伴之決定。關於契
+約的形成，仍需在法律中設定框架與基本提示，俾以提供形構具體
+合作關係之指引。此項見解，已獲肯認61。
+
+二、調解契約（Mediationsvereinbarungen）
+
+     行政程序參與之強化，是當前一項極為重要之議題，不僅在政
+治上廣為討論，於德國行政法學界亦然。關於大型計畫之推動，如
+發電廠、機場、公路或鐵路之興建，十餘年來早有民眾參與之規
+定。人民得以書面對興建計畫提出異議，並得於後續程序中參與言
+詞辯論62。
+
+     不過，隨著時間的經過，人民不再滿足於此。人民不僅要表達
+意見，更想參與決定。影響所及，一方面有大型計畫許可擬採公民
+複決（Volksentscheiden）構想的提出63；另方面尋求開發單位、主
+
+
+   行政程序法模範草案亦同，參見Schmitz (Fn. 56), S. 21.
+61 Ziekow (Fn. 14), S. 190 ff.; 另參Burgi (Fn. 58), S. D 113.
+62 參 見 Thomas Bunge, Beteiligung in umweltbezogenen                 Verwaltungs- und
+   vergleichbaren Verfahren, in: Schlacke/Schrader/Bunge, Informationsrechte,
+   Öffentlichkeitsbeteiligung und Rechtsschutz im Umweltrecht, 2010, Rn. 354 ff.;
+   Alfred Debus, Funktionen der Öffentlichkeitsbeteiligung am Beispiel des
+   Erörterungstermins, in: Gesellschaft für Umweltrecht, Dokumentation zur 32.
+   wissenschaftlichen Fachtagung, 2009, S. 185 ff.; Martin Dippel, Praxisfragen der
+   Öffentlichkeitsbeteiligung im Genehmigungsverfahren nach dem Bundes-
+   Immissionsschutzgesetz, NVwZ 2010, S. 145 ff.; Annette Guckelberger, Formen von
+   Öffentlichkeit und Öffentlichkeitsbeteiligung im Umweltverwaltungsrecht, VerwArch
+   2012, S. 35 ff.; Bilun Müller, Die Öffentlichkeitsbeteiligung im Recht der
+   Europäischen Union und ihre Einwirkungen auf das deutsche Verwaltungsrecht am
+   Beispiel des Immissionsschutzrechts, 2010; Christoph Riese/Nina Dieckmann, Der
+   Erörterungstermin – Bestandsaufnahme und Reformvorschlag, DVBl. 2010, S. 1343
+   ff.; Ziekow, Neue Formen der Bürgerbeteiligung (Fn. 54), S. D 26 ff.
+63 參 見 Jan Ziekow, Entscheidung der Bürger über Großprojekte durch Bürger-
+   /Volksentscheid – Regelfall oder ultima ratio?, in: Lee/Ziekow, Wandlungen im
+130                                                   2012 行政管制與行政爭訟
+
+
+
+管機關與人民共同協商議定計畫興建容許條件之解決途徑64。後者
+的 延 伸 問 題 是 ， 難 道 不 能 締 結 一 種 多 角 的 公 法 契 約 （ ein
+multipolarer öffentlicher-rechtlicher Vertrag）
+                                             ，其同時又能拘束行政機
+關？
+
+      觀諸現行法之規定，問題並非如此簡單。首先必須區分兩種情
+境，其一是關於行政決定的基礎事實（Sachverhalt）之協議；其二
+是關於許可程序結果之協議，也就是許可本身。
+
+      （一）關於事實之契約（Sachverhaltsverträge）
+      首先是關於事實部分之契約：於複雜而大型之計畫，特別是高
+科技領域，其所涉科技或自然科學上之問題，通常沒有一致性之答
+案，於學術領域亦然。在實務上，其結果是對立的雙方分別委派專
+業鑑定者，然後是無止境地的正誤論辯。為了突破僵局，於是針對
+待決之行政決定的基礎事實進行協議。
+
+      上述之協議能否以行政程序法第55條所定之和解契約為之，尚
+有未明。或有認為，和解契約不能針對行政機關所欲作成行政處分
+之各別先決問題（Vorfragen） 65 ，故對於特定事實存否之和解契
+約，並不合法。此項見解應屬中允。蓋和解契約無法改變事實的不
+確定性66。和解契約之所以締結，乃因事實的不確定性依然存在，
+雙方當事人意欲以合意終局地規範其法律關係67。因而，儘管系爭
+
+
+
+   Verhältnis zwischen Bürger und Staat, 2015, S. 237 ff.; Annette Guckelberger,
+   Abstimmungsmöglichkeiten von (betroffenen) Bürger/innen über administrative
+   Planungs- oder Genehmigungsentscheidungen, VerwArch 2015, H. 1 und 2; Kay
+   Waechter, Großvorhaben als Herausforderung für den demokratischen Rechtsstaat,
+   VVDStRL 72 (2013), S. 499, 529 ff.
+64 參見Ziekow, Neue Formen der Bürgerbeteiligung (Fn. 54), S. D 101 ff.
+65 Kopp/Ramsauer (Fn. 43), § 55 Rn. 11.
+66 Bonk/Neumann (Fn. 41), § 55 Rn. 45.
+67 參見Ziekow/Siegel (Fn. 30), S. 143.
+行政契約之發展現況與前景                                                                    131
+
+
+事實存有不確定性，此等契約之規範仍具效力68。
+
+     上述問題亦不能援用「舉輕以明重」的論證方法（a maiore ad
+minus argumentieren）作如下的推演：對於當事人來說，如果事實
+存有不確定性得以容許當事人支配整體法律關係，也就是可以締結
+和解契約決定之，那麼更應容許當事人（以和解契約）支配事實之
+不確定性本身。因為，在行政程序法第55條規範之下，行政機關調
+查事實之責任，並不受影響，也就是說，行政機關不能透過與當事
+人之協商而脫免調查事實之責任69。於行政程序法第24條的規範框
+架下，事實之不確定性應被排除。當行政機關調查事實碰到瓶頸
+時，行政程序法第55條提供另一道釐清法律關係的路徑，但仍不改
+行政機關負有調查義務之事實。行政程序法第55條指涉的是行政機
+關調查義務之界限，而非事實調查之結果70。此一結果亦不能透過
+修 法 予 以 改 變 ， 蓋 根 基 於 依 法 行 政 原 則 （ Grundsatz der
+Gesetzmäßigkeit der Verwaltung）之事實調查原則具有憲法之位
+階71。
+
+     因此，只剩下一種可能性，於得締結和解契約之前提下，將處
+理該事實所獲致之共識，當作締結和解契約之起始點
+（Ausgangspunkt）。嗣後若能締結和解契約，則關於事實協議部分
+雖不具直接之拘束力，但仍屬具拘束力之和解契約之一部。
+
+   （二）關於核發許可之契約（Vertrag über die Genehmigungs-
+           erteilung）
+     第二種問題情境是，針對核發許可本身締結和解契約。對於此
+
+68 Fehling (Fn. 24), § 55 VwVfG Rn. 26.
+69 Ziekow (Fn. 28), § 55 Rn. 2.
+70 參見Ziekow (Fn. 28), § 55 Rn. 7, 9.
+71 參 見 Michael Nierhaus, Beweismaß und Beweislast, 1989, S. 258 ff.; Kyrill-
+   Alexander Schwarz, in: Fehling/Kastner, Verwaltungsrecht – Handkommentar, 3. Aufl.
+   2013, § 24 VwVfG Rn. 4.
+132                                                     2012 行政管制與行政爭訟
+
+
+
+種型態之和解契約，現行法之限制相當嚴格，於此必須對許可進行
+區分，也就是基於利益權衡或裁量決定而核發之許可（譯按：裁量
+處分），與申請人享有許可請求權之羈束性許可（譯按：羈束處
+分）
+ 。
+
+      此類契約之締結鮮少運用處分契約。處分契約直接代替行政處
+分，也就是許可。換言之，許可直接以處分契約核發之。此類處分
+契約自始即不合法，如果該許可應以計畫確定裁決（Planfeststellungs-
+               72
+beschluss）形式為之者 ，例如道路交通基礎建設之計畫。由於計
+畫確定裁決之作成，係基於行政機關之利益衡量，其不能經由行政
+機關受其拘束之契約而受影響。
+
+      於系爭許可屬羈束處分之情形，以處分契約直接約定許可之核
+發，亦未必容許。蓋此種契約在類型上通常被定性為行政程序法第
+56條所稱之交換契約。依據該條第1項第2句所定之不當聯結禁止原
+則，如果開發單位依法享有請求作成許可處分之權利，要（以契
+約）課予開發單位為有利於人民措施之義務，其可能性較低73。
+
+      較有可能運用之領域是負擔契約，此類契約並未直接取代行政
+決定，而僅課予契約當事人為特定行為之義務74。例如，行政機關
+承諾以雙方協議之方式核發許可。不同於處分契約，負擔契約亦得
+運用於計畫確定裁決程序。儘管契約可能產生操控利益權衡之效
+應75，但為了落實公眾參與程序所獲致結果，仍不排除締結負擔契
+約之可能性。於此之重點毋寧在於，依個案情節，視系爭協議之達
+
+
+72 參見Edmund Brandt, Umsetzung von Ergebnissen informeller Aushandlungen in
+   formelle Entscheidungen, in: Hoffmann-Riem/Schmidt-Aßmann, Konfliktbewältigung
+   durch Verhandlungen, Bd. II, 1990, S. 239, 245 f.; Siegel (Fn. 6), S. 295 f.
+73 Fehling (Fn. 24), § 56 VwVfG Rn. 36.
+74 正確指出此點，Bernd Holznagel, Konfliktlösung durch Verhandlungen, 1990, S.
+   226 ff.；同說Ivo Appel, Privatverfahren, in: Hoffmann-Riem/Schmidt-Aßmann/
+   Voßkuhle, Grundlagen des Verwaltungsrechts, Bd. II, 2. Aufl. 2012, § 32 Rn. 142.
+75 Siegel (Fn. 6), S. 296.
+行政契約之發展現況與前景                                                                   133
+
+
+成是否斟酌行政機關作成系爭裁量決定時亦應考量之—非得以協
+議取代之 76 —所有觀點而定。協議過程若納入上述應考量之觀
+點，則作成系爭決定之過程即未因協議之達成而縮減，從而此類契
+約之拘束力，亦無可訾議。
+
+     不過，負擔契約之問題在於，依通說見解，此類契約若未依行
+政程序法第58條經利害第三人同意者，效力未定（參見前述貳、五
+及不同見解）。由此衍生之風險是，即使開發單位遵守契約設定之
+規範，系爭開發計畫仍有可能受到反對該契約之第三人的質疑，結
+果將使締結此類契約之吸引力大為降低。
+
+   （三）修法改善問題
+     鑑於現行法制下透過公眾參與而以契約達成共識的可能性相當
+有限，故經常有人主張應建立一套有助於轉換公眾參與結果的法律
+框架77。無論如何要處理的當務之急是，去除未參與程序者基於行
+政程序法第58條的否決地位。例如修正現行效力未定之規定，改以
+契約一經公告即生效力（在未經反對之前），同時增訂利害第三人
+聲明異議之期限規定78。
+
+     關於依採購程序締結之行政契約，近來有一套可供借鏡之規
+定。依據限制競爭防止法（GWB）第101b條規定，契約違反相關
+規定而自始不生效力者，僅得自知悉契約違法起一定期限內（譯
+按：30日）或至遲於契約締結後6個月內向法院請求確認之。前述
+期限經過後，該契約之效力繼續存在79。
+
+
+76 Brandt (Fn. 72), S. 245 f.
+77 Rainer Pitschas, Die Rechtswirkungen der Mediation im Bewirkungsspektrum
+   kollaborativer Governance, in: Seok/Ziekow, Mediation als Methode und Instrument
+   der Konfliktmittlung im öffentlichen Sektor, 2010, S. 199, 211.
+78 從行政合作法之關聯提出建議，參見Ziekow (Fn. 14), S. 143 ff.
+79 關於此一規定，參見Meinrad Dreher/Jens Hoffmann, Die schwebende Wirksamkeit
+   nach § 101 b I GWB, NZBau 2010, S. 201 ff.
+134                                  2012 行政管制與行政爭訟
+
+
+
+      除上之外，本文進一步建議立法者應架構一套與開發計畫有關
+之新興契約類型（ein neues Typ eines vorhabenbezogenen Vertrags）
+                                                      。
+針對一定範圍之法定開發計畫，在符合一定之程序要件下，特別是
+利害關係人參與程序，允許開發單位、行政機關及利害關係人締結
+「與開發計畫有關之契約」
+           ，並且可以約定系爭開發計畫如依協議方
+式進行者，（行政機關）將核發所需之許可。開發單位的對待給付
+是，接受比原本申請內容較差之開發計畫；另一方面，人民則聲明
+放棄提起訴訟。此類與開發計畫有關之契約，非無前例可循。例如
+建設法典第12條規定之與建築計畫有關之細部計畫制度。據此規
+定，開發單位須先與鄉鎮議定建築計畫之內容，並簽訂執行契約，
+承諾負有履行該契約之義務，鄉鎮再發布細部計畫，設定建築之相
+關規定80。
+
+
+
+肆、行政契約法之改革展望
+
+      合作及參與領域之行政契約法應予修正，已如前述，不僅是公
+法契約本身，行政契約法之整體亦有大幅開展續造之必要，其背後
+的考量觀點有二：其一，截至目前為止，行政契約法受到上下秩序
+二分關係的囿限，既無法應付多角的利益關係，亦欠缺合作的基本
+思維。其二，現行行政契約法中之諸多不必要規範，有待檢視汰
+除。
+      — 循上可導衍出行政契約法諸多改革訴求，本文無法窮盡敘
+        述，僅略陳梗概如下：
+      — 司法實務對於隸屬契約類別（行政程序法第54條第2句）
+        的解釋過寬，允宜捨棄，應取而代之的是，依本文之見，
+        從上開規定抽繹出之保護需求，進行較為彈性之形塑（參
+
+
+80 參見註9之文獻。
+行政契約之發展現況與前景                                 135
+
+
+    見前述貳、一）
+          。
+  — 舉一要例，向來被視為隸屬契約之下位類型的交換契約，
+    其所適用之不當聯結禁止及合理性審查規定。從保護必要
+    性之觀點而言，僅有兩種情形應嚴格適用上開規定，一
+    是，以處分契約直接代替行政處分之作成；二是，行政機
+    關對契約當事人未充分說明系爭契約之利弊損益。契約當
+    事人之一方為私部門，如其係在知悉所有利弊損益下決定
+    締結契約者，屬私法自治之決定，如同其與其他私人締約
+    一樣，毋需額外特別之保護。
+  — 另可捨棄的是，行政程序法第57條之書面要式要求。實際
+    上需要規範的情境只有，原應以書面為之的高權行為被行
+    政契約所代替，或行政契約之締結造成對第三人權利之影
+    響，而應給予該第三人知悉契約內容之機會。
+  — 利害第三人未同意之契約，依現行規定，效力未定，允宜
+    改為於契約公示後，即生效力，並規定利害第三人聲明異
+    議之期限（參見參、二、
+              （三）
+                ）。
+  — 建立在「全有全無」（不是有效，就是無效）思維下之公
+    法契約瑕疵法律效果，亦非妥適。（現行法）和解契約與
+    交換契約不符合締結之法定要件者，無效，過於僵化。改
+    進之道，宜先設法進行契約之調整，於不能調整或不可期
+    待契約當事人調整者，始歸於無效。
+  — 最後，針對多角關係之情形，宜建立一套新的規範框架。
+    本文建議的兩種規範架構是，一、與開發計畫有關之契約
+    （ 參 見 參 、 一 ）， 二 、 行 政 合 作 契 約 （ 參 見 參 、 二 、
+    （三）
+      ）。
+136                          2012 行政管制與行政爭訟
+
+
+
+伍、結語
+
+      立法者行動的可能契機，殊難揣斷。本文所述觀點之部分，數
+年前已由聯邦及各邦主管專業部門擬妥法律草案81，可惜，未獲決
+策者採納。在政治場域上高談闊論合作國家和參與國家的轉型趨
+勢，要比將之付諸法律，來得容易多了！
+
+
+
+
+81 聯邦及各邦於2014年4月21、22日所提行政程序法模範草案，參見Schmitz
+  (Fn. 56), S. 17 ff.
+

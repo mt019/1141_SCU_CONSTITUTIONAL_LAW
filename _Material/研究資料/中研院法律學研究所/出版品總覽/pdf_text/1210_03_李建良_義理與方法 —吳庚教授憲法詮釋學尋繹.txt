@@ -1,0 +1,2300 @@
+《法的理性─吳庚教授紀念論文集》
+ 陳淳文主編，民國 109 年 12 月，頁 427-487                                427
+ 臺北 中央研究院法律學研究所
+
+
+
+
+                            義理與方法
+                 — 吳庚教授憲法詮釋學尋繹
+
+                                 李建良＊
+
+
+                                  目 次
+
+  引子：高山仰止                                貳、主調：思維條理演繹
+  壹、序曲：尋找思維典範                             一、規範與邏輯
+   一、語言、概念與方法：以                           二、事實與規範
+     Geisteswissenschaften的轉              三、規範與價值
+     譯為重心                                參、餘音：反思後設問題
+   二、義理、釋義與體系：以                           一、「後設」？問題的問題
+     Rechts-/Dogmatik 的 轉 譯               二、憲法詮釋的標的為何？
+     為重心                                  三、法學初步：閱讀法條
+   三、理解、解釋與翻譯：以                           四、法學底蘊：法釋義學
+     Juristische Hermeneutik的            後話：問學常川
+     轉譯為重心
+
+
+
+
+ ［責任校對：黃品瑜］
+          。
+
+＊＊ 中央研究院法律學研究所特聘研究員兼所長。
+   穩定網址：http://publication.iias.sinica.edu.tw/61410102.pdf。
+428                       《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+
+                                         凡說者，兌之也，非說之也……
+                                   為師之務，在於勝理，在於行義……
+             遺理釋義，以要不可必，而欲人之尊之也，不亦難乎？
+                                         《呂氏春秋》勸學 西元前214年
+
+
+       ..., der (Wahrheit) nur ein kurzes Siegesfest beschieden ist, zwischen den
+              beiden langen Zeiträumen, wo sie als paradox verdammt und als
+                                                                               1
+                                                   trival geringgeschätzt wird .
+                                             Arthur Schopenhauer (1788-1860)
+
+
+
+
+引子：高山仰止
+
+      吳師孟庚先生2，於2003年初版「憲法的解釋與適用」一書，
+2004年發行第三版，2013年更名為「憲法理論與政府體制」，並以
+「導讀」代序，提及舊版最後一編討論詮釋學及憲法解釋學的章
+節，暫不列入，「因為這一部分稍嫌艱澀」3。導讀末尾闡述「學術
+著作的規矩」
+     ，特別指出：
+          「參考資料出處一定不厭其詳的註明。寫
+附註有功能：第一，不掠人之美；第二，加強論證，更能取得讀者
+的信服；第三，指引深入探討，讀者可經由註解的引導，作更進一
+步的研究」4。
+
+
+1 Arthur Schopenhauer, Die Welt als Wille und Vorstellung, 1819, S. 13.
+  大意：每一種真理所遭遇的命運，開始之際，被譏為異端邪說，最後則被貶為
+  陳腔濫調，它所享有的，只是在此兩極之間短暫勝利的喝采。
+  此段譯文出自王澤鑑教授（見氏譯，王澤鑑，民法學說與判例研究（第4冊），
+  頁23（1982年）    ），信達雅，特此借之。
+2 吳庚老師，字孟庚，兼有大法官與教授兩種身分，本文純然學術，以下敬稱吳
+  師。
+3 吳庚、陳淳文，憲法理論與政府體制，頁III（2013年）                             。
+4 吳庚、陳淳文（註3）           ，頁IV。
+義理與方法                                                                   429
+
+
+      吳師舊版最後一編（第四編）
+                  「憲法解釋的理論與實踐」
+                             ，共分
+三章：從哲學詮釋學到法律詮釋學、詮釋學與法律解釋方法、憲法
+解釋的特殊性。詮釋學及憲法解釋學的討論，主要集中在前二章，
+可謂是吳師為臺灣留下最寶貴的憲法學術資產，況味蘊奧，自待深
+耕。吳師儒風蔚然，後學秉其治學精神和方法，握管爬梳，設法從
+中尋找詮釋憲法的學術典範，嘗試演繹哲法交錯的內在義理，研思
+勉成拙文，謹此敬向吳師前輩表達追思與景仰之意，禱祈臺灣憲法
+學理傳承永續！
+
+
+
+壹、序曲：尋找思維典範
+
+    「憲法解釋的理論與實踐」
+               ，從哲學的詮釋學談起，乃憲法學方
+法論的尋根之旅。初版5第四編第一章闡述「從哲學詮釋學到法律
+詮釋學」，第一節至第三節為詮釋學的導論與演進概說6，包括史萊
+爾馬赫、狄爾泰、海德格的詮釋理論，基本上使用的是二手文
+獻7；第四節「加達默的詮釋理論」8、第五節「貝提的詮釋學及法
+律解釋理論」 9 ，則以原著為基礎，剖析二氏的詮釋學與解釋理
+論，為本編的重心所在。第五節份量尤重，大抵引用Emilio Betti
+（ 艾 米 羅 • 貝 提 ） Allgemeine Auslegungslehre als Methodik der
+Geistes-wissenschaften一書（引註簡稱Betti, Methodik）
+                                            。在論及「法
+
+
+5   吳庚，憲法的解釋與適用（2003年），雖歷三版，有關「詮釋學及憲法解釋
+    學」部分則未曾改動一字，故以下引述仍以2003年初版為本，下稱「吳庚初
+    版」 。
+6   吳庚初版（註5）         ，頁433-445。
+7   主要轉引自Hans-Georg Gadamer, Wahrheit und Methode, 3. Aufl., 1972. 一書，或
+    參考Jean Grondin, Einführung in die philosophische Hermeneutik, 1991. 後書於
+    2001 年 出 版 ， 2012 年 3 版 ， Jean Grondin, Einführung in die philosophische
+    Hermeneutik, 3. Aufl., 2012。
+8   吳庚初版（註5）         ，頁445-454。
+9   吳庚初版（註5）         ，頁454-484。
+430                        《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+律解釋理論」時，引註中途換成「Betti, Grundlegung」10，遍尋前
+註未見著作全名。經查該筆文獻是貝提的另一本德文著作「一般解
+釋 學 要 義 」， 見 諸 初 版 文 本 11 ， 但 註 解 漏 載 ， 全 文 為 ： Zur
+Grundlegung einer allgemeinen Auslegungslehre。續後第六節「法律
+詮釋學的構成」，回復使用二手文獻，簡要介紹詮釋學作為人文社
+會科學（包括法學）之方法的相關學說見解。第二章在前章的基礎
+下進一步剖陳「詮釋學與法律解釋方法」，相當程度脫離了哲學上
+詮釋學的論述脈絡，使用的文獻主要集中在法學方法的相關德文著
+作，反覆析解法學各家對文義、歷史、目的、體系解釋等方法的詮
+釋與應用12，兼而將詮釋學理論置入法律解釋方法之中13。
+
+      綜而觀之，吳師初版「稍嫌艱澀」部分，體系龐大，論述精
+深，其中詮釋學與憲法解釋學的探討，以第一手資料撰就的加達默
+與貝提詮釋理論，用力最深，允為法學暨解釋學的理論根基與思維
+典範。本文不揣淺陋，試以探掘，先則權且集中在加達默（下稱加
+氏）14的詮釋學及法律詮釋學的應用。至貝提的詮釋理論，另文再
+論，先此敘明。
+
+一、語言、概念與方法：以Geisteswissenschaften的轉譯為重心
+
+      初版以「精神科學的方法論問題」，作為加氏詮釋理論的起始
+標題，與加氏《真理與方法》一書15首頁開篇的子標題「方法論問
+
+
+10 吳庚初版（註5）
+          ，頁480-，註61-68。
+11 吳庚初版（註5）
+          ，頁464。
+12 吳庚初版（註5）
+          ，頁490-552。
+13 主要參考文獻：Helmut Coing, Die Juristischen Auslegungsmethoden und die Lehre
+   der allgemeinen Hermeneutik, 1959.
+14 Hans-Georg Gadamer的中文譯名，除加達默外，另有伽達默爾、高達美等，本
+   文從吳師譯法。
+15 Hans-Georg Gadamer（1900-2002）於1960年初版Wahrheit und Methode（真理與
+   方法）一書，Hans-Georg Gadamer, Wahrheit und Methode, 1960. 再版5次，
+   1986年收錄於Gadamer全集第1卷，基本內容未加改動，故以下引註仍採1960年
+   版。
+義理與方法                                                                           431
+
+
+題」（Das Methodenproblem） 16 ，如出一轍，幾無二致。「精神科
+學」為德文Geisteswissenschaft(en)一詞的中文直譯，原文通常以複
+數形式表述，為歐陸學圈的特有術語 17 ，英美學群多半以human
+           18
+sciences對稱之 ，中文世界遂由此再轉譯為人文科學或人文社會科
+學。何以吳師不採人文科學之稱語，使用精神科學的譯名19，即是
+理解詮釋學底蘊的最佳入門課題。
+
+     加氏開篇論及Geisteswissenschaften的意義史，從Naturwissen-
+schaften的對應概念切入，特別提及John Stuart Mill（1806-1873）所
+著A SYSTEM OF LOGIC, RATIOCINATIVE AND INDUCTIVE第六編標題：On
+                               20
+The Logic of the Moral Sciences ，於1863年Jacob Heinrich Wilhelm
+      21
+Schiel 的德譯本中被翻成Von der Logik der Geisteswissenschaften
+
+
+
+
+16 Gadamer (Fn. 15), S. 1.
+17 Geisteswissenschaft(en) 甚 至 可 以 說 是 專 有 德 語 概 念 與 思 維 方 式 。 試 以
+   Geisteswissenschaften一詞檢索維基百科其他國家語言，如英文版或法文版，條
+   目仍是Geisteswissenschaften，而不會翻譯成英文或法文。根據德國學者的說
+   法，Geisteswissenschaft一詞，最初以單數形式見諸Meinrad Widmann, Wer sind
+   die Aufklärer?, beantwortet nach dem ganzen Alphabeth, erster Band, 1786, S. 12。
+   參 見 Alwin Diemer, Geisteswissenschaften, in: Ritter (Hrsg.), Historisches
+   Wörterbuch der Philosophie, Bd. 3, 1974, S. 211 (211).
+18 例如Wilhelm Dilthey（1833-1911）的主要著作Wilhelm Dilthey, Einleitung in die
+   Geisteswissenschaften: Versuch einer Grundlegung für das Studium der Gesellschaft
+   und der Geschichte, 1883, 英譯版是：WILHELM DILTHEY, INTRODUCTION TO THE
+   HUMAN SCIENCES: AN ATTEMPT TO LAY A FOUNDATION FOR THE STUDY OF SOCIETY
+   AND HISTORY (Ramon J. Betanzos trans., Wayne State University Press 1988) (1883);
+   ヴィルヘルム・ディルタイ著，三枝博音訳，精神科学序説（1928年）；Wil-
+   helm Dilthey著，童奇志、王海鷗譯，精神科學引論（第一卷）                             （2002年）    。
+19 例如上野直昭，精神科学の基本問題（1916年）                              、三木清，精神科学派哲學
+  （1931年）   。
+20 本 文 查 閱 的 是 1882 年 的 版 本 ， JOHN STUART MILL, A SYSTEM OF LOGIC,
+   RATIOCINATIVE AND INDUCTIVE: BEING A CONNECTED VIEW OF THE PRINCIPLES OF
+   EVIDENCE AND THE METHODS OF SCIENTIFIC INVESTIGATION 1013 (8th ed. 1882).
+21 Jacob Heinrich Wilhelm Schiel（1813-?）     ，德國化學家，曾於海德堡大學任化學
+   教職。除1863年的譯本外，1849年亦有「Die inductive Logik」                      （歸納邏輯）譯
+   本的問世。
+432                        《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+                               22
+oder moralischen Wissenschaften 。如何正確理解加氏這段關於（以
+複數形式表現）Geisteswissenschaften意涵的闡述，本身就是饒負興
+味的語言、概念與方法關聯課題。
+
+      根據筆者的觀察，學界對這段開宗明義闡述的翻譯，釋各有
+殊，是否準確表達加氏本意，容待詮解。且先將原書第一段的原
+文、英譯文、中譯文，抄錄如下：
+
+      德文原版：
+
+            Die logische Selbstbesinnung der Geisteswissenschaften,
+      die im 19. Jahrhundert ihre tatsächliche Ausbildung begleitet,
+      ist ganz von dem Vorbild der Naturwissenschaften beherrscht.
+      Das kann schon ein Blick auf die Geschichte des
+      Wortes ,Geisteswissenschaft‘ zeigen, sofern dieses Wort die
+      uns vertraute Bedeutung allein in seiner Pluralform gewinnt.
+      Die Geisteswissenschaften verstehen sich so sichtbar aus der
+      Analogie zu den Naturwissenschaften, daß der idealistische
+      Nachklang, der im Begriff des Geistes und der Wissenschaft
+      des    Geistes    gelegen      ist,   darüber      zurücktritt.     Das
+      Wort ,Geisteswissenschaften‘ hat sich vor allem durch den
+      Übersetzer von John Stewart Mills Logik eingebürgert. Mill
+      sucht in seinem Werk anhangsweise die Möglichkeiten zu
+      skizzieren, die die Anwendung der Induktionslogik auf
+      die    ,moral    sciences‘     besitze.    Der      Übersetzer      sagt
+      dafür ,Geisteswissenschaften‘1.
+
+
+
+
+22 本文查閱的是1868年的版本，John Stuart Mill, System der deduktiven und
+  induktiven Logik (1843), 1868, S. 433 (übersetzt von Jacob Heinrich Wilhelm Schiel,
+  Jazzybee Verlag).
+義理與方法                                                                     433
+
+
+
+         1. J. St. Mill, System der deduktiven und induktiven
+    Logik, übertragen von Schiel, 1863 2, 6. Buch »Von der Logik
+    der Geisteswissenschaften oder moralischen Wissenschaften«.
+
+    英譯版23：
+
+         The    logical   self-reflection   that   accompanied      the
+    development of the human sciences in the nineteenth century is
+    wholly governed by the model of the natural sciences. A glance
+    at the history of the word Geisteswissenschaft shows this,
+    although only in its plural form does this word acquire the
+    meaning familiar to us. The human sciences (Geistes-
+    wissenschaften) so obviously understand themselves by
+    analogy to the natural sciences that the idealistic echo implied
+    in the idea of Geist (“spirit”) and of a science of Geist fades
+    into the background. The word Geisteswissenschaften was
+    made popular chiefly by the translator of John Stuart Mill's
+    Logic. In the supplement to his work Mill seeks to outline the
+    possibilities of applying inductive logic to the “moral
+    sciences,” The translator calls these Geisteswissenschaften1.
+
+         1. John Stuart Mill, System der deduktiven und induktiven
+    Logik, tr. Schiel, book 6 (2nd ed., 1863), “Von der Logik der
+    Geisteswissenschaften oder moralischen Wissenschaften. ”
+
+
+
+
+23 本 文 選 Joel Weinsheimer 與 Donald G. Marshall 的 1993 年 譯 本 。 HANS-GEORG
+  GADAMER, TRUTH AND METHOD 1 (Joel Weinsheimer & Donald G. Marshall trans.,
+  Continuum 2d ed. 1993) (1863).
+434                  《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+      中譯版124：
+
+          隨同19世紀精神科學實際發展而出現的精神科學邏
+       輯上的自我思考完全受自然科學的模式所支配。這一點
+       只要我們考察一下“精神科學＂（Geisteswissenschaften）
+       這一詞的歷史就很清楚，儘管這一詞僅在它的複數形式
+       下才獲得我們所熟悉的意義。同自然科學相比較，精神
+       科學理解自身是這樣明顯，以致那種本存在於精神
+      （ Geist ） 概 念 和 精 神 的 科 學 （ Die Wissenschaft des
+       Geistes）概念裡的唯心主義意藴在此消失不見。“精神科
+       學”這個詞首先是通過約翰．斯圖加特‧穆勒的《邏輯
+       學》的［德文］翻譯者而成為一個通用的詞。穆勒在其
+       著作裡曾想附帶地概述一下歸納邏輯有應用於“道德科
+       學”（moral sciences）的可能性，而翻譯者把這種科學稱
+       之為“精神科學”。
+
+       J. St.穆勒：
+                《演繹和歸納邏輯體系》
+                          ，席爾（Schiel）
+         譯本，1863年第2版，第6卷：
+                        《論精神科學或道德科
+         學的邏輯》
+             。
+
+
+
+
+24 本文選洪漢鼎的2010年譯版，第1版於1991年問世。洪漢鼎教授曾於2001年6月
+  拜訪當時已101歲高齡的加氏，並請加氏為「真理與方法」中譯本寫序，參見
+  Hans-Georg Gadamer著，洪漢鼎譯，詮釋學I，真理與方法—哲學詮釋學的基
+  本特徵，中譯本前言（2010年）       。
+義理與方法                                                435
+
+
+
+   中譯版225：
+
+        橫亙十九世紀，諸多精神科學於現實成形之際，
+    其在邏輯方法上之自我省思亦伴隨而行，此全然係受
+    到自然科學之榜樣所主導。就“Geisteswissenschaft”一詞
+    僅以其複數形式獲致眾所周知之意義層面而論，若洞
+    察是詞之興革歷史，即可印證此理。偌多精神科學從
+    與自然科學類比思辯中而自我定位，係這般顯著，以
+    致 精 神 （ Geist ） 與 精 神 之 科 學 （ Wissenschaft des
+    Geistes）的概念中初始蘊含之唯心（理念）哲學思潮餘
+    韻，遂就褪色淡漠。複數形式之“Geisteswissenschaften”
+    一詞，尤其是透過John Stuart Mill邏輯學名著之德文譯
+    者，而普遍盛行。Mill於其著作之末卷中，附帶地試行
+    勾勒出歸納邏輯應用於諸多『道德科學』所具有之可
+    能性。德文譯者將此等科學稱之為『精神科學』。（註
+    一：John Stuart Mill著，Schiel譯，
+                               《演繹與歸納邏輯之
+    體系》，1863年，二版，第六卷〈論精神科學或道德科
+    學之邏輯〉
+        ）」
+
+
+   觀諸不同譯文，Geisteswissenschaft(en)或Wissenschaft(en) des
+Geistes，應如何以中文表達，饒富深意，析微察異，重點與其說在
+Geist（精神）一詞的語意或義涵，毋寧存乎於如何與Naturwissen-
+schaft(en)或Wissenschaft(en) der Natur嚴予對應。後者若指研究「自
+然」的學科，則前者的研究「標的」若何？此同時涉及研究者傳達
+研究課題與帶動對話的能力。有關「精神科學」的問題在於研究的
+標的「精神」為何？是否與「自然」科學嚴格劃分？精神科學難道
+
+
+25 劉淑範，「精神科學」（„Geisteswissenschaften“）概念淺釋：從「精神哲學」到
+ 「精神科學」之集合概念，人文與社會科學簡訊，21卷1期，頁176（2019年）
+                                       。
+436                        《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+不研究「自然」？就語言、概念與思維方法三者之關聯而言，可以
+得出以下論點：
+
+      加氏稱Geisteswissenschaften「尤其是經由John Stuart Mill邏輯
+學著作之德文譯者而普遍盛行」之說，似有疏誤、尚欠精確，不無
+指涉之錯置，值得商榷與深究之處有四：
+
+      其一，在1863年Schiel 的德文譯本問世前，Geisteswissenschaft
+一詞早已見諸德語學圈26。
+
+      其二，所謂「普遍盛行」或「通用於世」（原文：eingebür-
+gert，英譯：was made popular），係指盛行於德語哲學（或精神科
+學）領域，抑或其他領域？待說分明。蓋將moral sciences譯為
+Geisteswissenschaften，傳輸的理應是以英文寫作的道德科學，讓德
+語學圈得以透過德文譯本認識Mill的思想（邏輯體系），如何反而
+會是Geisteswissenschaften一詞通行於德語學圈？
+
+      其三，John Stuart Mill原著THE LOGIC OF THE MORAL SCIENCES，
+        （A System of Logic）系列鉅著的第六冊，也是
+為其「邏輯之體系」
+           （a science of man）建構足資與自然科學
+終卷，旨在為「人之科學」
+分庭抗禮的研究取徑，期能將物理學上經延伸且一般化的科學方法
+注入社會科學中27 ，一定程度與今之「精神」科學用以比肩「自
+然」科學的旨趣頗有異曲同工之妙，此或許是Schiel將Geistes-
+wissenschaf改以複數形式對應moral sciences的緣由。不過，在方法
+論上，Schiel的德文譯稱指涉的是Mill的moral sciences，不能等同
+於德語學圈的精神科學。換言之，Mill的moral sciences與德國的
+
+
+26 參見劉淑範（註25）    ，頁178。
+27 參見Mill於該書Introdutory Remarks的首句標題：“The backward state of the moral
+  sciences can only be remedied by applying to them the methods of physical science,
+  duly extended and generalised.＂JOHN STUART MILL, THE LOGIC OF THE MORAL
+  SCIENCES 19 (1988).
+義理與方法                                                                          437
+
+
+「精神科學」無法完全等同視之，縱使存有若干近似，允應分路揚
+鑣、各自馳騁。Mill前書的當今德文譯本，已改譯為Zur Logik der
+                   28
+Moralwissenschaften ，其來有自。
+
+     其四，Mill的moral sciences29，縱使相當於今之（德語學圈）
+                                             30
+Geistes- und Sozialwissenschaften（精神暨社會科學）的範疇 ，不
+表示今之moral sciences一詞涵蓋的研究領域等同於Mill的設想。換
+言之，當前所謂science of morality的學科範疇未必等同於Mill時期
+的moral sciences。18世紀，moral sciences一詞與moral philosophy混
+用，亦有專指倫理學31。彼時，經濟學曾屬moral sciences的一支。
+一說是：moral science泛指所有有關研究human mind及人與人之關
+係的學科，相對於物理學，探求不同的causes，前者是自然法則，
+moral science探求的是moral causes，而所謂moral等義於social，包
+含制度、規範、教育、語言、情緒、財產關係等32。18世紀的「道
+德科學」確實與時下之「人文社會科學」頗為接近。反之，moral
+                                33
+sciences一詞的指涉範疇於今相當多元，屬廣狹不一的學術語彙 。
+
+
+
+28 在Schiel之後，奧地利哲學暨語言家Theodor Gomperz (1832-1912)，於1884年至
+   1886年間陸續翻譯出版；逾百年後，德國學者Arno Mohr於1997年重新翻譯出
+   版，定名為John Stuart Mill, Zur Logik der Moralwissenschaften (1843), 1997
+   (übersetzt von Anro Mohr, Frankfurt a.M.: Vittorio Klostermann). 不過，時下仍有
+   將John Stuart Mill的「Moral Sciences」譯為「精神科學」者，例如John Stuart
+   Mill著，李滌非譯，精神科學的邏輯（2009年）                         ，諒係受到德語譯文的誤導。
+29 在此之前，使用moral science的文獻，參見例如PETER BERAULT, LOGICK, OR, THE
+   KEY OF SCIENCES, AND THE MORAL SCIENCE, OR, THE WAY TO BE HAPPY (1690).
+30 參見Mill (Fn. 29) 一書的譯者說明，Vittorio Klostermann Verlag, Mill, John Stuart:
+   Zur Logik der Moralwissenschaften, online verfügbar unter https://www.kloster-
+   mann.de/Mill-Zur-Logik-der-Moralwiss-kt.
+31 例 如 康 德 的 Moralphilosophie ， 專 指 Philosophie der Sitten und Ethik 。 參 見
+   Immanuel Kant, Kritik der reinen Vernunft, 2. Aufl., 1787, S. II.
+32 On The Moral Sciences, DIGRESSIONS & IMPRESSIONS (May 5, 2015), https://
+   digressionsnimpressions.typepad.com/digressionsimpressions/2015/05/on-the-moral-
+   sciences.html.
+33 例如KEN BINMORE, NATURAL JUSTICE (2011)，第1章在標題moral science下論及形
+   上哲學、倫理學、社會契約、效率、賽局理論等問題。
+438                      《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+附此一提者，前引加氏原著的英文譯本，除保留Geisteswissen-
+schaften原文外，另將之譯為human sciences，此是否為「人文科
+學」一詞的濫觴？其與自然科學、社會科學的關係為何？又是另一
+值得探討的概念界分問題。
+
+      以上「概念史」的耙梳，看似在語詞文字上打轉，實則蘊含觀
+念、方法的實質理據等諸多論點，值得進一步深究與延伸思考。追
+溯「概念史」之語源，最早見諸後人為G.W.F. Hegel（1770-1831）
+                 （Vorlesung über die Philosophie
+於1837年出版的《歷史哲學講演錄》
+                    34
+der Geschichte）第九卷導論 ，與Mill邏輯學德文譯本問世相近不
+遠。綜觀Hegel提及Begriffsgeschichte（概念史）一詞的行文脈絡，
+氏將歷史之檢視方式分成「原始性」（ursprünglich）、「反思性」
+（reflektiert）與「哲學性」（philosophisch）三種；其中「反思性」
+歷史的闡述重點不在時間關聯，而是超越現實當下、著眼於所謂的
+「精神」（Geist）層面。在此基礎下，氏又下分為四種觀點35：a）
+一般性歷史（allgemeine Geschichte）
+                           ，如某一民族史；b）實用性歷
+史（pragmatische Geschichte），即抽繹過去足供今之所用的歷史；
+c）批判性歷史（kritische Geschichte），也就是歷史的歷史；以及
+d），最後一種，也就是所謂概念性歷史（Begriffsgeschichte），主要
+指稱歷史的部門性，帶有特定之一般觀點，如藝術史、法律史或宗
+教史等。此一分支與整體民族史之關係，不僅只是整體與部分的外
+
+
+
+34 「概念史」主要是哲學暨歷史學的一種研究方法與研究領域，屬於精神科學的
+   一支，於德國稱之為Geschichte des Begriffs或Begriffsgeschichte，此語最早見諸
+   G.W.F. Hegel於1837年出版的《歷史哲學講課錄》第九卷導論，原句是：„In
+   underer Zeit ist diese Weise der Begriffsgeschichte mehr ausgebildet und
+   hervorgehoben“.（此種概念史之方式於當代多有形成與產生）                      。參見G.W.F. Hegel,
+   Vorlesungen über die Philosophie der Geschichte, Bd. 9, 1837, S. 10-11. 與
+   Begriffsgeschichte相當的英文語彙是conceptual history或the history of concepts。
+   不過，概念史之研究與討論，主要以德語圈學者為主，其內容與Hegel最初之
+   概念意涵，已有不同。
+35 Hegel (Fn. 34), S. 7 ff.
+義理與方法                                                                 439
+
+
+在關聯，更重要的是，從反思性歷史的角度以論，旨在檢視過去既
+存 事 實 內 在 本 身 之 導 引 性 靈 魂 （ leitende Seele ）， 也 就 是 精 神
+      ，對此之認識，即為本講之目的36。
+（Geist）
+
+     循上反思「精神科學」的概念，同樣可以從「精神」出發，作
+為一門科學，與「自然」對稱之主要意義在於研究客體的劃分，也
+就是作為一種「範疇概念」，與「自然」科學形成旗鼓相當之勢，
+尤其從單數概念轉為複數形式，更有讓「精神」科學成為「集合」
+（團結）概念而自生體系，頗有「先切割而後自保」的氣象，乃至
+於精神科學們成為其之為「科學」的「正當性概念」。及至19世紀
+初葉，面對自然科學的崛起與蓬勃發展，精神科學的「科學正當
+性」也備受挑戰。因此，「精神」科學的現代意義在於標舉「方法
+論」的差異性與特質性。相對於透過實驗或觀察驗證方法的自然科
+學，所謂「詮釋」
+       、「理解」
+           、「解釋」等方法的論辯與體系建構，逐
+漸成了精神科學或可與之匹敵的憑藉。法律人若具有主體思維與問
+題意識，則將精神科學暨哲學上詮釋學納入法學研究的範疇，目的
+不在為哲學而哲學，而是要試圖從中汲取供法學研究與法治實踐的
+思想養分。在此脈絡下，或可延伸出一項法律人也許可以自問自答
+的問題：法學到底是不是一門「精神科學」37？面對這道自我省思
+（Selbstbesinnung，加氏語）的命題，除了需要瞭解何謂精神科學
+外，更重要的是，反思法學的形貌與內在。
+
+     如果說精神科學的特徵是：對特定事物的解釋與論證，則鑑於
+法學的首要任務之一（「包括但不限於」！38），乃解釋並分析「現
+
+
+36 Hegel (Fn. 34), S. 11.
+37 根據Helmut Reinalter及Peter J. Brenner合編的Lexikon der Geisteswissenschaften
+  （精神科學辭典）一書中所列Disziplinen（學科）計有41種，法學未在其列，原
+   因何在？殊值深思。Helmut Reinalter/Peter J. Brenner (Hrsg.), Lexikon der
+   Geisteswissenschaften, 2011, S. XX-XXI.
+38 「包括但不限於」是“including, but not limited to”的翻譯，最初來自英文法律文
+   書，現則存於各類規範，例如博物館法施行細則第2條第3項：「第一項館所依
+440                《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+行法」39，建立邏輯有序的法體系，使之成為可資適用於具體個案
+的法規範，則至少從精神科學暨哲學上詮釋學的「框架秩序」來
+說，法學無疑可以歸入其列。不同於哲學詮釋學，法學詮釋的客體
+不單是靜止有形的成文法條，還包括變動不居的法制源流、立法過
+程、政治體制、社會結構、現實生活，掌握法制內在體系與外在結
+構，現行有效法律與現實社會事實的互動關連。法學作為精神科學
+的一支，除了強調同屬「理解性科學」之一脈外，「規範性」的彰
+顯與深化，毋寧才是法學時受自然科學與「其他」精神科學兩面夾
+擊的突圍之道。而所謂之「規範性」，究實以言，乃是一種「應然
+體系」之建構，規範性法學的方法脫離不了特定法規範語句與諸法
+秩序的建構，形成法之要件與法之效果兩組體系，用以對社會事實
+進行法之形塑與決斷。反之，「自然」科學的知識系統固然有一定
+的「自然法則」
+      ，然從法規範的應然角度以言，仍屬一種「實然」。
+此不僅是自然科學者在面對法學者須有的認知外，同時也是規範法
+學研究者所應具備的自覺要素。
+
+二、義理、釋義與體系：以Rechts-/Dogmatik的轉譯為重心
+
+      吳師於初版論及加氏詮釋學的應用時，在註解中指出40：
+
+      Dogmatik一詞不易翻譯，有譯為「釋義學」
+                            、「教義學」
+                                 ，釋
+      義學或詮釋學與解釋學有混淆之虞，教義或教義學用在說
+      明「三位一體」這類的基督教義時頗為傳神，但用於法學
+      或別處又不恰當。洪漢鼎氏在「真理與方法」中譯本，多
+
+
+   其定位，名稱包括但不限於美術館、文物（化）館、紀念館、天文館、水族
+   館、動物園及植物園。」科技部2019年9月發布之「人工智慧科研發展指引」
+  （人工智慧科研發展指引，科技部，https://www.most.gov.tw/most/attachments/
+   53491881-eb0d-443f-9169-1f434f7d33c7（最後瀏覽日：2020年11月3日）
+                                                        ），行文
+   多次出現「包括但不限於」，諒係上引英文的中譯，吾國之法規範何需夤緣攀
+   附外文？
+39 不問「現行法」為何，無以言法學。
+40 吳庚初版（註5）       ，頁452註36。
+義理與方法                                                               441
+
+
+    譯為專斷論，Rechtsdogmatik則稱為法律專斷論，但有時也
+    自覺不通，所以同一個字，前一行譯法律專斷論，後一行
+    譯法律理論（見洪，前引書，四三○頁）
+                     。其實Dogmatik一
+    詞是指涉法律規範的支架（Gerüst），從法規的概念及體系
+    中整合而成，不完全侷限於法規制定者提供的概念框架，
+    經過這一整合後的架構（Konstruktion），使法規有更佳的
+    開展性（Darstellbarkeit）
+                       ，譯為專斷論顯然錯誤，而且因辭
+    害義。本書譯為「義理」
+              ，然為行文方便，有時也稱為體系
+    理論。以上對Dogmatik一詞的解說，是採用Betti的見解，
+    詳見後述。
+
+    Dogmatik 一 詞 如 何 中 譯 一 直 是 學 界 爭 論 不 休 的 問 題 ，
+                       41
+Rechtsdogmatik此一外來語彙 在法學界的譯名尤其複雜，如法教
+義學、法教條學、法信實論等，甚有將之誤解或窄化為「法條學」
+者。吳師機杼獨出，觀照形式與學理的細微之處，留意前人所忽略
+者，譯為「義理」或稱「體系理論」，且捨「學」字不用，具原創
+性，不在話下。從治學方法與論證推理的角度出發，首要指出者，
+若要避免「因辭害義」，必先說明使用（創用）新詞的理由。吳師
+的理據是：
+
+    Dogmatik一詞是指涉法律規範的支架（Gerüst），從法規的
+    概念及體系中整合而成，不完全侷限於法規制定者提供的
+    概念框架，經過這一整合後的架構（Konstruktion），使法
+    規有更佳的開展性（Darstellbarkeit）
+                            。
+
+    這段言簡意賅的闡述含有Gerüst、Konstruktion、Darstellbarkeit
+三個德文用語，其中Darstellbarkeit一詞頗為罕用，顯示這段文字應
+非出自吳師。可惜該筆註解未有引註，不知語出何處，有待後學進
+
+
+41 外文有Rechtsdogmatik、dogmatische Rechtswissenschaft、legal dogmatic、legal
+  dogma、dogmática jurídica等。
+442                         《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+一步查考，以圓上論，實說其義。
+
+      吳師認為將Dogmatik「譯為專斷論顯然錯誤」的論斷，涉及兩
+個前提性問題：1. Dogmatik與Rechtsdogmatik是否可以相提並論？
+2. 「專斷」一詞指涉為何？洪漢鼎的譯本是加氏的哲學詮釋學，而
+非法學論著，二者意涵是否不同，尚難率斷，以下先從後一問題切
+入：
+ 「專斷」一詞指涉為何？
+
+      根據筆者的推測，洪漢鼎教授「專斷」一詞之使用，與另一類
+似於Dogmatik的概念Dogmatismus（dogmatism）有關。德國法哲學
+者Arthur Kaufmann針對法哲學是否為法學的爭論課題42，直言：法
+哲學是哲學的分支，但非法學的分支（Die Rechtsphilosophie ist ein
+                                                               43
+Zweig der Philosophie, nicht ein Zweig der Rechtswissenschaft.) ，也
+就是法哲學不是法學，尤其不是Rechtsdogmatik；隨之徵引康德對
+Dogmatik的定義，以實其說，即：不具對自身理性能力預先批判之
+純 粹 理 性 的 dogmatisch 程 序 （ 處 理 方 式 ） 44 ； Kaufmann 並 為
+Rechtsdogmatiker（法釋義學者）貼上「不問法為物，亦欠缺法認
+識」的標籤45。
+
+      經查，上揭引言出現在康德《純粹理性批判》第二版的前言，
+原文使用的是Dogmatismus，而非Dogmatik。此一加上-ismus（-
+ism）後綴詞的語彙，帶有某種定言獨斷、不容置疑之意味，正是
+康德所欲加批判者46。若對照在此之前的段落可知，康德批判的是
+
+
+42 持法哲學既為哲學之一支，復為法學之一派者，例如Dietmar von der Pfordten,
+   Rechtsphilosophie: Eine Einführung, 2013, S. 12.
+43 參見Arthur Kaufmann, Rechtsphilosophie, Rechtstheorie, Rechtsdogmatik, in: Kauf-
+   mann/Hassemer/Neumann (Hrsg.), Einführung in Rechtsphilosophie und Rechts-
+   theorie der Gegenwart, 8. Aufl., 2011, S. 1.
+44 原文：„das dogmatische Verfahren der reinen Vernunft, ohne vorangehende Kritik
+   ihres eigenen Vermögens“，參見Kant (Fn. 31), S. XXXVI.
+45 參見Kaufmann (Fn. 43), S. 1.
+46 另有譯為「獨斷論」者，參見Immanuel Kant著，鄧曉芒譯，純粹理性批判，頁
+義理與方法                                         443
+
+
+單憑（哲學）概念（aus Begriffen [der philosophischen]）的獨斷或
+預斷（Anmassung）；而不是（不反對）把dogmatisch（思維）程序
+當作一種學術（Wissenschaft）
+                   ，也就是經由確切可信的諸原則（aus
+                                           47
+sicheren Principien）證明某些先驗之事（a priori）的學術思維 。
+
+   姑且不論Kaufmann是否為了強化其論點而「偷換概念」48，追
+根詰柢，至少可知Dogma或Dogmatismus與Dogmatik不宜混為一
+談，後者毋寧是是一種學術思維的活動，也就是Dogma之學。只要
+是一種學術，就必然會有論題假設、懷疑、批判、驗證、思索等精
+神活動（精神科學既是客體亦是主體）。也因此，可以確知吳師稱
+「洪漢鼎氏在『真理與方法』中譯本，多譯為專斷論，
+Rechtsdogmatik則稱為法律專斷論」，不無受到Dogmatismus一詞意
+涵的誤導，自不能作為Rechtsdogmatik的正確理解方式。
+
+   跳開「預斷論」
+         （Rechtsdogmatik＝不加思索的專斷）的偏狹思
+維框限，關於Rechtsdogmatik的中譯如何為妥，需回歸學術專業。
+但凡翻譯，必然遭遇兩層問題：對待譯概念的「理解」，與轉譯後
+（正確理解之觀念轉換成另一語言系統）
+                 「語言」的選用。先就前者
+以論，從Dogmatik意涵索解入手。追本溯源，該詞拉丁字根dogma
+源自的希臘文δόγμα，而doctrina的希臘文也是δόγμα，故dogma通
+doctrina，原意是學說，各國語言變化分殊，但皆語出同源（參見
+下表）
+  。
+
+
+
+
+  lix（2004年）
+           。
+47 參見Kant (Fn. 31), S. XXXVI.
+48 不論有無偷換概念，Kaufmann之論皆無法適用於憲法釋義學，特別是基本權釋
+  義學。蓋基本權解釋絕大部分是學說與實務見解的集合，而非條文的註釋。基
+  本權釋義學的表象是法條，實則是學說與實務見解彙集而成的原理規則與思維
+  體系，基本權釋義學不宜被窄化為條文釋義學，已是今之法學常識。參見李建
+  良，基本權釋義學與憲法學方法論—基本權思維工程的基本構圖，月旦法學
+  雜誌，273期，頁5-26（2018年）
+                     。
+444                          《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+                     表1 Dogma與docrina字源比較
+
+
+
+
+資料來源：作者自製。
+
+
+       隨著時間推移，dogma 以各種形式被不斷使用、詮釋或批
+  49
+判 ，尤其在哲學與神學領域，後者更為常見，甚而成為神學教義
+的同義詞。然神學領域對dogma的理解亦有歧異、範疇未定，乃有
+                 50
+Dogma vom Dogma之說 ，內涵迄無定論。從較常被引用的瑞士神
+學 家 Karl Barth （ 1886-1968 ） 在 《 教 會 釋 義 學 》（ Kirchliche
+Dogmatik，英譯Church Dogmatics）書中的Dogmatik定義：基督教
+會關於神旨之學術上自我省察51，可以得知其屬一門學術性之學科
+（wissenschaftliche Disziplin），而非單指特定教義之集成（Summe
+           52
+der Dogmen） 。
+
+       相對於神學，Rechtsdogmatik一詞出現何時，暫不可考，與神
+學同時或在其之後，尚難查知。惟可資確定者，乃法學作為一套知
+
+
+49 礙於題旨，不擬詳論。
+50 Edmund Schlink, Ökumenische Dogmatik, Grundzüge, Bd. 2: Schriften zu Ökumene
+   und Bekenntnis, 2. Aufl., 1985, S. 652.
+51 原文：„Dogmatik ist als theologische Disziplin die wissenschaftliche Selbstprüfung
+   der christilichen Kirche hinsichtlich des Inhalts der ihr eigentümlichen Rede von
+   Gott“。參見Michael Welker, Juristische und theologische Dogmatik, in: Aarnio/
+   Hoeren/Paulson/Schulte/Wyduckel (Hrsg.), Positivität, Normativität und Institu-
+   tionalität des Rechts. Festschrift für Werner Krawietz zum 80. Geburtstag, 2013, S.
+   339 (339 ff.).
+52 另參見Tobias Meihofer (2018), Dogmatik, online verfügbar unter https://www.her-
+   der.de/ theologie-pastoral/systematische-theologie/dogmatik/.
+義理與方法                                                               445
+
+
+識系統與學說體系，包括各種原理、原則或規則，以Dogmatik稱
+之，追根詰柢，源頭仍是δόγμα（學說）
+                   ，與神學並行而為學術性之
+學科53 。由此可推，Rechtsdogmatik當不以解文釋義或析字剖辭為
+限，亦非「教義」的匯集，而是一套理性客觀、理據融貫的法學思
+維方法與知識系統，可稱法理之學54 。儘管Rechtsdogmatik的概念
+意涵與功能，於今爭議仍多55，然此毋寧更印證了該詞本身即是一
+項法學與方法論課題，與法律條文的靜態詮釋析義不能相提並論、
+等量齊觀56。
+
+    外文之理解如此多義，華文語彙亦不遑多讓。常以「釋義」作
+為Dogmatik的譯名算是「新創造詞」。略查「釋義」一詞之用，古
+文並不多見，且意涵各殊。例如《朱子語類》之「識句法，解文釋
+義」，著重於文字語詞意義之銓解；又如《呂氏春秋》勸學之「遺
+
+
+53 legal doctrine或doctrina jurídica（西班牙文）與Rechtsdogmatik或legal dogmatic應
+  屬同義。
+54 中文「法理學」一詞，承自日語（例如丸山長渡，法理学（1903年）
+                                  ），見諸法
+   學譯著或各大學法學課程名稱。前者通常是西文Jurisprudece的中譯（例如
+   Roscoe Pound著，鄧正果譯，法理學（2016年）           ） ；亦有對應legal theory（例如
+   Wolfgang Friedmann著，楊日然、耿雲卿、蘇永欽、焦興鎧、陳適庸譯，法理
+   學（1984年）     ）或Rechtstheorie（例如Bernd Rüthers著，丁曉春、吳越譯，法理
+   學（Rechestheorie）  （2005年）  ）。後者（課程）的內容則多以法哲學為主，相當
+   於Rechtsphilosophie或legal philosophy的中譯。從字義來看，法理學可指稱一套
+   理性客觀、理據融貫的法學思維方法與知識系統，Rechtsdogmatik可改譯為
+  「法理學」，以之取代「法釋義學」或「法教義學」，或可避免Rechtsdogmatik被
+   時人所誤解、窄化，乃至於劣等化。至於各大學之「法理學」課程，則可依教
+   學者的專長或授課重點設定課程名稱，分門授業之。
+55 2012年於德國出版的Was weiß Dogmatik一書，收錄多篇探討或批判法釋義學的
+   論文，可為例證。Gregor Kirchhof/Stefan Magen/Karsten Schneider (Hrsg.), Was
+   weiß Dogmatik?, 2012.
+56 法釋義學不僅運生於內國法，區域法或國際法亦有賴法釋義學之建構，方足以
+   成為理性法學。例如Benjamin Straßburger, Die Dogmatik der EU-Grundfreiheiten
+   (2012) 一書對於歐盟的基本自由進行釋義與體系建構，包括基本自由之構成要
+   件層次（Tatbestandsebene）、適用範圍為何？法益是否受侵害？是否可歸責於
+   國家？正當化事由（Rechtfertigungsebene）、「實踐協調之建立」（Herstellung
+   praktischer Konkordanz）
+                         、融貫論證（Kohärenzarguments）等，即為眾多適例之
+   一。
+446                        《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+理釋義，以要不可必，而欲人之尊之也，不亦難乎？」，其中「釋
+義」乃「棄絕道義」之意（釋，放也），全句大意是：拋棄義理，
+追求未必可以實現（不可必）之事，欲讓人尊敬，不亦難乎？同
+理，若只在文字語意上計較，欲求法律問題之解決者，不亦難乎？
+
+      依吾人所信，問題重點不在如何翻譯Dogmatik（甚至不翻譯或
+採音譯），而是如何理解與行動。若推究正確，尋繹義理之精微，
+則謂之義理學、釋義學、教義學或體系理論……，皆無關宏旨。
+Karl Larenz早在1970年代即表示為了避免Dogmatik用詞產生的誤解
+或誤用，毋寧將dogmatische Rechtswissenschaft（釋義法學）稱為
+                57
+Jurisprudenz（法學） 。此之謂也，有識者亦若是！本文無意在咬
+文嚼字的問題上糾纏，只因法釋義學一事，係先有法釋義學之思維
+方法與學術行為（實），而後方有法釋義學之用詞與概念的運生
+（名），若能運行以實，則如何稱名，嚴格而言，無傷要旨。唯遵前
+人的正解，為與時俱進的釋義，傳遞本乎規範法學之名而蘊生的法
+學思維，不斷召喚理性的法治智識。
+
+三、理解、解釋與翻譯：以Juristische Hermeneutik的轉譯為
+  重心
+
+      初版有關加氏詮釋學的介紹，與法學關係最為密切者，要屬
+「詮釋學的應用─以法律詮釋學為例」，篇幅不大，義理無窮58，
+殊值尋繹端緒，為吳師「以解讀文本的方式，將『真理與方法』中
+專為法律詮釋學所寫的章節─『法律詮釋學的典範意義』59，做
+綜合敘述」，加氏原文近20頁的長篇宏論，經吳師濃縮為四點，共
+
+
+
+57 參見Karl Larenz, Aufgabe und Eigenart der Jurisprudenz, JuS 1971, S. 449 (450).
+58 Karl Larenz於1971年一篇論及法學的任務特性的文章中，特別提到Gadamer以
+   法學的理解過程作為詮釋學的範例。參見Larenz (Fn. 57), S. 453.
+59 標題原文是：„Die exemplarische Bedeutung der juristischen Hermeneutik“，參見
+   Gadamer (Fn. 15), S. 307-323.
+義理與方法                                                              447
+
+
+約4頁60，委實不易。
+
+    「理解就是解釋，二者交相融合」61 ，加氏在論及「語言作為
+詮釋學經驗的媒介」62闡示：理解的過程即是一種語言的過程（ein
+sprachlicher Vorgang）
+                    ，在不同語言之間需要靠翻譯才能理解的情形
+尤其如此。翻譯者必須傳達對話者之間的意思，但不表示翻譯者可
+以竄改他人的意思，也就是說，他人的意思必須被維持下來。不
+過，某一種意思要在另一種語境下被理解，則須以另一種方式傳達
+意思。因此，任何的翻譯已經就是解釋（Jede Übersetzung ist daher
+schon Auslegung），或者說，翻譯就是解釋的完成（die Vollendung
+              63
+der Auslegung） 。
+
+     理解、解釋與翻譯之間，存有需待裁斷之方法論問題。以吳師
+對加氏法律詮釋學的精要整理為例（20頁轉換成4頁），恰恰呈現一
+趟理解、解釋與翻譯的語言過程。後人若要對之進行理解，同樣也
+要通過翻譯與解釋，並且至少要在思維方法上區辨三道問題：其
+一，加氏的見解為何？其二，吳師的理解是否正確？其三，是否存
+有吳師的解釋？以上問題的宗旨在於探求「他人」的意思，若要逐
+一解答，方法上必須先回頭進行加氏原著（約20頁）的再翻譯，據
+以和吳師初版原文（約4頁）的內容交互比對，這番功夫則又是另
+一趟翻譯、解釋與理解的語言過程，必須來回往返於不同的語境之
+間。受限於題旨與篇幅，本文不由此途，另試以吳師初版原文為基
+礎，對照加氏原著內容，進行「個人」（筆者）的理解與詮釋，期
+能藉此提煉出憲法解釋的基本命題，拾穗若干法學上或可辨疑的思
+維典範：
+
+
+60 吳庚初版（註5）       ，頁451-454。
+61 Gadamer (Fn. 15), S. 291.
+62 原文：„Sprache als Medium der hermeneutischen Erfahrung“，參見Gadamer (Fn.
+   15), S. 361 ff.
+63 Gadamer (Fn. 15) S. 362.
+448                        《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+      （ 一 ） 加 氏 區 分 法 學 家 （ Juristen ） 與 法 史 學 家 （ Rechts-
+historiker），並且探討釋義學上與歷史學上的研究旨趣有無明顯差
+別，比如說法學家須就具體個案掌握法律的意義，並適用於特定個
+案；法史學家則非面對特定法律可資適用的具體個案，其任務在於
+建構性地掌握法律的整體適用領域，包括闡明過去與現在的適用關
+係64。此一區別問題可以無止境的辯論下去，但重要的是，法律的
+功能、法學的任務、法律人的身分與角色為何？所謂：「法學家
+（法官）理解法律，並不受國會立法過程的議事紀錄所拘束，也不
+是要透過紀錄以探求其原意，而是要對生活關係的變遷，確定法律
+新的規範效力」65，指出上揭命題的思考線索與兩難課題，也就是
+法律的解釋與適用如何使（過去）抽象規範契合於（當今）具體事
+實？「法律思想」
+       （Rechtsgedanken）應如何探求而得，並適用於個
+案66？
+
+      （二）「法律適用只是單純的涵攝行為（Subsumtionsakt）─以
+適合的法條吸納該當的事實」之謂，所以不能成立，乃因法律具體
+化的任務不是單純的認識條文（Paragraphenkenntnis），還必須認識
+司法裁判及其所有相關因素，因為法秩序是一體適用於任何人。法
+治國家的弔詭課題是，法秩序有賴法釋義學的建構，但有無完美無
+缺的法釋義學67？
+
+      （ 三 ） 加 氏 反 覆 辯 證 「 理 解 」（ Verstehen ） 與 「 應 用 」
+（Applikation）的分合關係，重點在闡明「理解」是什麼，更精確
+的說，人對事物「理解」往往會受到「應用」的影響，法律的解釋
+與適用亦然。以命令為例，比如說甲命乙：「你去殺A」（筆者設
+例），則在下命者（甲）與受命者（乙）之間即產生了某種理解關
+
+
+64 Gadamer (Fn. 15) S. 308.
+65 吳庚初版（註5）       ，頁452。
+66 Gadamer (Fn. 15), S. 311.
+67 Gadamer (Fn. 15), S. 312 f.
+義理與方法                                                    449
+
+
+係，受命者（乙）對命令的理解，無非是直接連結到特定具體情況
+的執行（殺A）。不過，其間仍存在著不服從命令的可能。例如受
+命者（乙）認為命令的執行（殺A）不具正當性，而拒絕服從命
+令。於此情形，受命者（乙）不服從的理由不是來自對命令文義
+（你去殺A）的理解，也不是因為不理解下命者（甲）的真正意圖
+（欲取A性命），而是出於對可能情況的理解及其個人所尊奉的責任
+感68。以上譬喻描繪法適用者所處的情境，但能否衍生出「法律的
+創設性解釋」或「規範的再創造」？
+
+   （四）加氏以法學示範詮釋學的另一切入視角是「神學詮釋學」
+（theologische Hermeneutik）與「法學詮釋學」的對應比較，二者皆
+是將特定旨意，宣之於外，教士以解說經文或福音方式傳達神旨；
+相對而言，法官則以判決為之。不過，法官判決對於法條具有法補
+充力（rechtsergänzende Kraft）69 ，教士的佈道則無增減上帝的旨
+意，被傳教者是否服膺，端視傳教者個人的話語力量（Kraft des
+       70
+Wortes） 。如是，則神學是否為人文科學的一支，自然成為一項
+需要討論的問題71。對法學來說，或可暫且不問，但至少可以反面
+推導三則命題：一則，法律的效力不是來自法官個人的話語力量，
+而是法律效力的延伸，由法官宣之以口72；二則，法律是具有拘束
+效力（法律效果）的社會規範之一；三則，以法律為研究客體的法
+學允應是一種規範科學。
+
+
+68 Gadamer (Fn. 15), S. 316 f.
+69 關於法詮釋具有法補充力一節，加氏在「真理與方法」開頭闡述「人文主義的
+   指導概念」       （humanistische Leitbegriffe）時即已提及，大意是：道德的概念從來
+   就不是完整而明確，經由法律及道德規則建立的生活秩序往往是不完整的，需
+   要創造性的補充（produktive Ergänzung），還有對具體情狀的正確判斷力，尤
+   其是來自法學（Jurisprudenz）的判斷力，即「詮釋」的法補充力，其功能即在
+   實現法的具體化。參見Gadamer (Fn. 15), S. 35.
+70 Gadamer (Fn. 15), S. 313 f.
+71 Gadamer (Fn. 15), S. 314 f.
+72 拉丁法諺：Judex est lex loquens、德文Rechtsprechung（法之發言）、英文
+   Jurisdiction（iuris [法]與dicere [說]的組成）    ，顯示法官即「法之宣示」
+                                                       。
+450                          《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+貳、主調：思維條理演繹
+
+      常言：人是一種尋求「意義」的動物73；或謂人是「懸掛在自
+己編織的意義之網的動物」74。從哲學詮釋學到法律詮釋學的尋根
+之旅，意義何在？需要進一步的演繹。
+
+一、規範與邏輯
+
+      「 法 律 的 生命 不 是 邏輯 而 是 經驗 」 75 或 「法 律 的 生命 在 理
+由」76，不同說法流傳於法律解釋者與法學研究者之間，各有追隨
+者，一定程度反映出法律人為自己的強項（或弱項）尋找理由（或
+藉口）。法律是否不需要邏輯，光憑經驗即可？或者說法律邏輯應
+是一種論理的思考方法，而非演算工具，不能脫離現實、機械操
+作？依經驗以觀，三段論法經常被窄化成為一種機械式邏輯，邏輯
+應然卻是，三段論法為人類理性思維的一種本能方法。當我們對某
+
+
+
+73 人文科學引用此種說法，通常以Max Weber為尊。Weber在闡述社會學基本概念
+   時，指出社會學是理解社會行為（soziales Verhalten）及其過程與作用的科學，
+   所謂「行為」       ，指人類的行為，而且是與行為者主觀意義（subjektiver Sinn）相
+   連結的行為。立基於此的社會學「方法論基礎」                                 （methodische Grundlagen）    ，首
+   要 課 題 即 何 謂 「 意 義 」。 參 見 Max Weber, Soziologische Grundbegriffe, in:
+   Wirtschaft und Gesellschaft, 5. Aufl., 1976, S. 1 ff.
+74 此 一 廣 見 於 人 文 科 學 領 域 的 形 容 語 句 ， 出 自 CLIFFORD GEERTZ, THE
+   INTERPRETATION OF CULTURES: SELECT ESSAYS 5 (1973): “Believing, with Max
+   Weber, that man is an animal suspended in webs of significance he himself has
+   spun, …”，該段敘述提及Max Weber，但未有引註，語出何處，有待查證。
+75 語出Oliver Wendell Holmes Jr.（1841-1935）於1881年出版的THE COMMON LAW
+   一書（頁381）的開篇首頁，原文是：“The life of the law has not been logic: it has
+   been experience”，旨在講述Liability的「早期形式」，隨之闡述刑法、侵權行
+   為、占有、契約、繼承等特定法域的精髓。該書的重要性在於詳論common law
+   的精深奧理，時人多僅引述「卷頭語」，鮮少探討該書的「內容」。OLIVER
+   WENDELL HOLMES JR., THE COMMON LAW 381 (1881).
+76 語出1 EDWARD COKE, THE FIRST PART OF THE INSTITUTES OF THE LAWS OF ENGLAND,
+   OR, A COMMENTARY ON LITTLETON: NOT THE NAME OF THE AUTHOR ONLY, BUT OF
+   THE LAW ITSELF 97b (1628)，原文是：“Reason is the life of the law, nay, the
+   common law itself is nothing else but reason, the law which is perfection of reason. ”
+義理與方法                               451
+
+
+件事作成評斷時，如果不想憑藉一時的感情衝動或主觀好惡，就必
+須在腦海裡尋索支持評斷的理據，作出合於理據的評斷。即便論點
+來自經驗所得，亦需組建為邏輯井然之言說語句，方能成為具規範
+性的定言，否則只能是個tale teller。
+
+ （一）規範制訂的邏輯形式
+  承上命題，法律若是具有拘束效力（法律效果）的社會規範之
+一，法規範必須要有「邏輯形式」。蓋法律旨在規範社會生活，法
+律必然是由「構成要件」與「法律效果」兩項要素所構成，於特定
+之「法律事實」發生時，同時引動法律要件與法律效果，形成實踐
+中之法規範。無法律效果之法律，難以發揮規範社會的功能；無法
+律要件之法律效果，無從規範社會。此不僅是書院學究之見，更為
+具規範效力的法治要求。
+
+  司法院釋字第535號解釋謂：
+               「警察勤務條例規定警察機關執行
+勤務之編組及分工，並對執行勤務得採取之方式加以列舉，已非單
+純之組織法，實兼有行為法之性質。」區別「組織法」與「行為
+法」
+ （學說亦稱「作用法」
+          ）之概念，並揭示干預人民權利之法律依
+據須為「行為法」之憲法原則。然何謂「行為法」？解釋文及理由
+書漏未著墨。實則，「行為法」者，須有（明確）構成要件之授權
+規範。換言之，法律規範的邏輯形式，為法律保留原則的實質規範
+意涵之一77。
+
+ （二）規範適用的邏輯層次
+  法學方法之為用，若在使法律發揮其規範功能，首要之務即是
+
+
+77 司法院釋字第636號解釋理由書謂：
+                   「基於法治國原則，以法律限制人民權利，
+ 其構成要件應符合法律明確性原則，使受規範者可能預見其行為之法律效果，
+ 以確保法律預先告知之功能，並使執法之準據明確，以保障規範目的之實
+ 現。」雖旨在闡釋法律明確性原則的意旨，尋繹蘊奧，實則彰顯法律限制人民
+ 權利須有「構成要件」邏輯形式的法治要求。
+452                         《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+正確建構「法律要件→法律效果」的法規則。前揭條件式法語句的
+建立與運用，為法律人的主要任務與必備能力之一，須經過訓練。
+法律的適用必然有法律事實，法律事實的探求調查確認，除要由法
+律要件作為導引外，尚且需要法律以外之專業知識與技能，尤須注
+意並掌握不同脈絡下的社會條件與現實處境，方能得出允當之結
+論。權且將法律要件、法律事實、法律效果分別以A、B、C標誌
+之，可形成「A＋B＝C」的公式，是為法律思維的基本邏輯，可稱
+為「法律人的ABC」78。不過，鑑於史料典籍、卷帙浩繁，立法文
+件、累牘連篇，社會事實、千差萬別。法律人需要清晰縝密、理路
+通透的思維能力，方能周到準確地篩撿出法律的精髓，並進一步判
+讀「過去」
+    （規範）與「當前」
+            （事實）的對應關係（遞進、演化，
+或斷裂、突變），此點內含在前揭加氏有關法學者與法史學者的任
+務論辯中，同時也顯示法旨釋義與法律涵攝的層次不同，不宜混
+同79。
+
+二、事實與規範
+
+      （一）事實與規範適用
+      如果說「歷史是現在與過去之間的互動與對話」80，那麼法學
+就是規範與事實之間的往返來回，也是法學家與法律事實之間不斷
+交互作用的過程。法學是一種「理解性的學科」，法規範的認識與
+理解的過程，首先是對於法規進行一般性意涵的理解，掌握大概輪
+
+
+78 Uwe Wesel, Juristische Weltkunde. Eine Einführung in das Recht, 1984, S. 10.
+79 Franz Wieacker在論及法釋義學（Rechtsdogmatik）的功能時，一開頭即表明：
+   在現代法治國家中，法院及行政機關不能單靠法律規範的涵攝（Subsumtion）
+   形成判決及決定，還需要法律以外的概念及法學說。參見Franz Wieacker, Zur
+   praktischen Leistung der Rechtsdogmatik, in: Bubner/Cramer/Wiehl (Hrsg.),
+   Hermeneutik und Dialektik, Bd. II, 1970, S. 311 (311 ff.).
+80 語出EDWARD HALLETT CARR, WHAT IS HISTORY 35 (2d ed. 1987)，原文是：“In my
+   last lecture I described history as a process of interaction, dialogue between the
+   historian in the present and the facts of the past.”
+義理與方法                                                                          453
+
+
+廓，同樣也是對事實作粗略的掌握，再逐漸形成具體的規範內涵與
+法律事實，目光於規範與事實之間不斷來回游弋，直到可以作出事
+實與規範合致的判斷（涵攝）為止。法的解釋方法，非僅歸納，亦
+非止於演繹，而是來回觀照、彼此闡明，愈辯愈明，詮釋學上所謂
+「循環論證」81，殆此之謂82。
+
+     社會生活與法律問題、事實與規範之間的交互作用與彼此糾
+纏，從法律人的視角出發，經常浮現的圖像是「在規範與事實之間
+來回梭巡、返復顧盼」（Karl Engisch語）83，主要指涉法適用（法
+解釋論）。略而言之，法律適用可以分成三個要素與階段：法律
+（上位規範）、法律意旨的詮釋（下位規範）84、社會事實。對於上
+位規範而言，重要的是，其與具體個案之間的關聯；反面言之，對
+具體個案來說，重要的是，其與上位規範的關聯。依Karl Engisch
+所舉之例，刑事法官在審理故意殺人案件時，要把目光投向刑法第
+    85
+211條 （不是只有第212條），詳予檢視被告的行為方式、動機。
+在審視事實時，特定的具體事實又會把目光拉回到規範構成要件
+
+
+
+81 常見的專有術語，如：hermeneutischer Zirkel、hermeneutische Entsprechung，或
+   Betti 所 稱 ： 來 回 於 意 義 整 體 與 意 義 部 分 之 間 （ zwischen Sinnganzem und
+   Sinnteilen ）。參 見 Emilio Betti, Allgemeine Auslegungslehre als Methodik der
+   Geisteswissenschaften, 1967, S. 219 ff., 626 ff.
+82 詮釋學之循環論證，不同於邏輯上無效之循環論證，二者不宜混同。Case law
+  （案例法）實則亦可能是一種無效的循環論證。蓋「後案依前例」的法則，必
+   須說明的是「第一案」               （首例）如何建立？
+83 Karl Engisch, Logische Studien zur Gesetzesanwendung, 3. Aufl., 1963, S. 15，原文
+   是：„Hin- und Herwandern des Blickes zwischen Obersatz und Lebenssachverhalt“.
+   相關詮釋文獻頗多，例如Marijan Pavčnik, Das „Hin- und Herwandern des
+   Blickes“, Zur Natur der Gesetzesanwendung, Rechtstheorie 39 (2008), S. 557 (557-
+   572).
+84 法學方法的涵攝論，通常將之分別稱為Obersatz（上位語句）與Untersatz（下位
+   語句）    。參見Karl Larenz/Claus-Wilhelm Canaris, Methodenlehre der Rechtswissen-
+   schaft, 3. Aufl., 1995, S. 93-94.
+85 德國刑法第211條規定：               「謀殺者（Mörder）         ，處無期徒刑。謀殺者，指……」；
+   第212條規定：         「殺人，但非謀殺者，為殺人者（Totschläger）                  ，處五年以上有期
+   徒刑。……」
+454                         《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+上，如殺人的動機。以例言之，如個案被告是一名西西里亞人，殺
+人是為了復仇86，則構成要件中之「動機」概念的規範內涵為何，
+又必須把目光移回具體個案中，探求系爭被告殺人的動機何在，並
+作進一步的事實調查。也就是說，法律事實的推斷，要先檢視法律
+如何規範事實，推斷的方法來自法律規範本身、法律事實已然被法
+律規範所預設（參見下圖）。如此更迭往復、尋繹再三的詮釋之
+律，受到哲學詮釋學的影響87，法律目光流轉於事實與規範之間，
+圖像相對較廣。與法之理解（詮釋）有關的因素，除了事實外，還
+有所謂「前理解」88，其又受到語言（種類、能力、理解）、傳統
+關聯、既有先例、類案的左右89。此之思維運動，卑之無甚高言，
+卻知易行難，爰不揣譾陋，論之再三。
+
+
+                                       規範
+
+
+
+           演繹                                                        歸納
+
+
+
+                                        事實
+
+
+
+                      圖1 事實與規範的循環思維
+資料來源：作者自製。
+
+
+
+86 據載，西西里人相信，復仇是伸張正義的唯一真正手段，而他們的報復總是毫
+   不留情，參見Mario Puzo著，黃煜文譯，西西里人（2017年）
+                                    。
+87 關於詮釋學的意涵，可參閱Hans-Georg Gadamer, Klassische und philosophische
+   Hermeneutik (1968), in: Grondin (Hrsg.), Gadamer Lesebuch, 1997, S. 32 (32 ff.).
+88 關於「前理解」（Vorverständnis）與法律適用的關係與運用，參見Josef Esser,
+   Vorverständnis und Methodenwahl in der Rechtsfindung: Rationalitätsgrundlagen
+   richterlicher Entscheidungspraxis, 1972, S. 43 ff., 53 ff., 134 ff.
+89 Gadamer (Fn. 15), S. 313 f., 330.
+義理與方法                        455
+
+
+  法詮釋學或法適用論者，旨在求法的正確適用，致力於讓法的
+意旨得以正確無誤的落實。不過，法律體系非能單數或單層視之，
+法之詮釋標的非定於一。先將視角侷限在民主法治之憲法與法律兩
+個階層，前者以權力分立與基本權利兩套基本規範構成憲法秩序：
+後者大別為行政法秩序、刑事法秩序與私法秩序。著眼於此，法之
+適用是否「正確」，端視審查的標的與範圍而定。就法律體系（法
+律秩序）而言，法院對於個案的審理及裁判，基本上可分為法律解
+釋、事實認定與法律適用（涵攝）三個步驟，並據此產出法之決定
+（裁判）
+   。按此結構，裁判構成違法，不外有三：法律規範意旨闡釋
+有誤、事實認定有誤部分、個案事實與法律規定之間的涵攝有誤。
+若再考量法律上層的憲法體系（秩序），則裁判是否違法，尚有另
+一種可能，即牴觸憲法。然裁判是否違憲，則非前述單純之法詮釋
+論所能判斷者。從制度構造以觀，形之於外的是「法院」裁判受到
+「憲法法庭」的審查90；實質以較，則是司法審判事件中，法官是
+否及如何適用法律作成符合憲法意旨的裁判？尤其是民事審判案
+件。於此涉及司法權的垂直分立問題，基本思維是：關於法律解釋
+部分，旨在闡釋法律的規範意旨，並非法院專屬的權限；憲法法庭
+對此有所介入，理應不構成對法院審判干預。關於事實認定部分，
+因涉及具體情節及證據取捨的個案問題，容應由法院為之，不宜成
+為憲法法庭審查的客體。不過，若涉及證據法則等原則性、通案問
+題，則仍有由憲法法庭審查的可能。最為棘手者，乃法律適用的憲
+法審查問題，其涉及個案事實與法律規定（大前提）之間合致關係
+的判斷，理論上應歸由法院為之。然因法律多有不確定法律概念或
+裁量規定，法律適用不免必須進行利害權衡，若存有偏頗之處，特
+別是承審法官未能妥善顧及訴訟當事人受憲法保障之基本權利時，
+仍須由憲法法庭予以介入，有所匡正。然憲法法庭對法院認事用法
+的憲法審查，除非必要，允宜侷限在指出法律適用違憲之處，而將
+
+
+90 即所謂「裁判憲法審查制度」
+               （憲法訴訟法第59條）
+                         。
+456           《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+最終的權衡與判定保留給原審法院法官，以免介入過甚，肇致「超
+級審」或「第四審」的質疑。裁判憲法審查的制度，讓事實與規範
+適用的來回梭巡、返復顧盼，運行於不同規範位階之間，需要更細
+緻而多層次的法思維能力。
+
+      （二）事實與規範制訂
+      法適用係就抽象的法規範文字進行詮釋，解析並使法概念要素
+具體化，再涵攝到具體的社會事實中，進而改變受規範者的行為舉
+止與社會關係。不同於法適用，法制訂是立法者從紛繁的社會事實
+抽取出共通性特徵與規範要素，再轉換成抽象的法律文字。因此，
+法產生自社會事實，基於社會事實之規範需求，乃有法之所由生。
+羅馬法有所謂Ex factis jus oritur（法生於事實）之說，意味的不是
+事實創造規範（後詳），而是事實為法的泉源。法律規範的生成、
+目的、功能及內容，與社會事實密切關聯。法律規範的內容，不是
+無中生有，而是立法者從社會事實觀察、分析、歸納而來。法律規
+範旨在解決紛爭，維持社會秩序，則法律既規範社會事實，同時也
+形成一定的社會事實。
+
+      長期以來，法律規範的內涵究竟是被發現的歷程，還是被創造
+或被發明的產物，歷有爭議，各有所本91 。誠然，如果說「有社
+會，就有法」，則法應發乎於社會事實之上，為解決社會問題而
+存。以疫病防治為例，瘟疫發生於人類社會，古往今來，不知凡
+幾，防疫措施及法律體系的建立，繫於社會實況與傳染性病毒演
+化，隨著人類經驗與認識能力而有所變遷。所謂「傳染病」於法秩
+
+
+91 林子儀教授在科技部人文社會科學研究中心主辦的「人文大師下午茶」（2018
+  年10月26日），以「介於規範與事實之間：法學研究的經驗與反思」為主題，
+  強調：法律規範的形成是被發現的歷程，而不是被創造或被發明的產物。參見
+  陳柏良記錄、李建良審訂，人文大師下午茶．林子儀所長，介於規範與事實之
+  間：法學研究的經驗與反思，人文與社會科學簡訊，20卷1期，頁141（2018
+  年）。
+義理與方法                                     457
+
+
+序中之定義，嚴格而言，難由立法者給定，唯須歸結人類遭遇之經
+驗而收納於法律之中92，復因病毒之演化非人所能控制而必預留新
+增的空間，COVID-19之增列，恰在眼前93 。此類法律規範之建立
+與續構，悉從社會事實中發現之，殆屬無可置辯。不過，立法者於
+發現社會事實的過程中，就社會事實進行賦權性之法律加工，甚或
+為創設性之制度形塑者，仍所在多有。略舉著例數端，以概其餘。
+人為群居之動物，人群之聚，人之常情，對於人合之組織賦予法律
+之地位及權利能力，謂之「法人」。則出於法的創設，擴及財產組
+織（財團）94，原則上得以傳承永續，難謂不是拜法之賜。由此延
+伸，民主國家之政治性團體，賦予「政黨」之法律地位，讓其專為
+「推薦候選人參加公職人員選舉之團體」95，一方面彰顯「候選人
+多為政黨推薦之政治現實」
+           （實然）
+              ，另方面創設「唯政黨可推薦候
+選人之政治秩序」
+       （應然）
+          ，無形中展現規範的事實創造力，催生出
+欲推薦或自薦為候選人（例如總統候選人）之人民組建新政黨，以
+便取得與聞政事的門票。尤有進者，規範制訂亦可能設定未來產生
+新事實的制度框架，尤其在面對科技發展的未知世界，例如時興的
+artificial intelligence的多元蓬勃，立法者無從「發現」尚未發生社
+會事實，只能預設「創造」的法律框架，故實驗性或所謂「沙盒」
+立法應運而生，諸如無人載具科技創新實驗條例或金融科技發展與
+創新實驗條例等，不一而足。
+
+   規範制訂產生事實創造力的另一種可能，來自受規範者面對規
+範的反應與因應。例如2009年6月10日修正公布之民法第1148條第2
+
+
+92 例如傳染病防治法第3條第1項第1至3款所列三類傳染病：天花、鼠疫、嚴重急
+ 性呼吸道症候群、白喉、傷寒、登革熱、百日咳、破傷風、日本腦炎等。
+93 衛生福利部中華民國109年1月15日衛授疾字第1090100030號公告，新增「嚴重
+ 特殊傳染性肺炎」為第五類法定傳染病。
+94 實則，仍是人與財產的法律關係。
+95 參見政黨法第3條：「本法所稱政黨，指由中華民國國民組成，以共同政治理
+ 念，維護自由民主憲政秩序，協助形成國民政治意志，推薦候選人參加公職人
+ 員選舉之團體」
+       。
+458          《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+項：「繼承人對於被繼承人之債務，以因繼承所得遺產為限，負清
+償責任。」建立所謂「全面限定繼承」制，修法後，除向法院表示
+拋棄繼承者外，繼承人對於繼承債務，僅以所得財產為限，負清償
+責任。此一修法背後存有頗為複雜的社會事實96，是否妥適，容有
+爭議，特別是民法繼承編施行法新增第1條之3的溯及適用規定。不
+過，可資確定者，此一修法必然引動相關貸款或授信業務的因應，
+產生「父母債子女不還」之防範機制的新事實。
+
+      法律規範所形塑的社會，與真正的社會情境，未必一致，如何
+兼顧法律規範與事實的落差，建立事實與規範之間的流動關係，並
+拉近規範與受規範對象之間的認識距離（理解度與可接受度），允
+為立法學的課題與基礎工程。如前所述，法規範可能後發於社會事
+實，亦可能超前於社會發展，立法者既要隨時掌握社會事實，亦須
+事先預測社會發展，事實與立法之間的變動與交互作用，更勝於法
+適用，所謂「立法影響評估」制度的運用，其來有自。是故，立法
+成為一門學科，源乎立法品質與規範功能有待改善或提升的「法治
+
+
+
+96 民法第1148條修法理由為：「……二、現行民法繼承編係以概括繼承為原則，
+  並另設限定繼承及拋棄繼承制度。九十七年一月二日修正公布之第一千一百五
+  十三條第二項復增訂法定限定責任之規定，惟僅適用於繼承人為無行為能力人
+  或限制行為能力人之情形，故繼承人如為完全行為能力人，若不清楚被繼承人
+  生前之債權債務情形，或不欲繼承時，必須於知悉得繼承之時起三個月內向法
+  院辦理限定繼承或拋棄繼承，否則將概括承受被繼承人之財產上一切權利、義
+  務。鑑於社會上時有繼承人因不知法律而未於法定期間內辦理限定繼承或拋棄
+  繼承，以致背負繼承債務，影響其生計，為解決此種不合理之現象，爰增訂第
+  二項規定，明定繼承人原則上依第一項規定承受被繼承人財產上之一切權利、
+  義務，惟對於被繼承人之債務，僅須以因繼承所得遺產為限，負清償責任，以
+  避免繼承人因概括承受被繼承人之生前債務而桎梏終生。
+  三、原條文第二項有關繼承人對於繼承開始後，始發生代負履行責任之保證契
+  約債務僅負有限責任之規定，已為本次修正條文第二項繼承人均僅負有限責任
+  之規定所涵括，爰予刪除。
+  四、繼承人依本條規定仍為概括繼承，故繼承債務仍然存在且為繼承之標的，
+  僅係繼承人對於繼承債務僅以所得遺產為限負清償責任，故繼承人如仍以其固
+  有財產清償繼承債務時，該債權人於其債權範圍內受清償，並非無法律上之原
+  因，故無不當得利可言，繼承人自不得再向債權人請求返還。併予敘明。」
+義理與方法                                                                         459
+
+
+問題意識」
+    ，屬「立法問題導向之學」
+               ，凡法學研究與立法品質相涉
+者，概皆屬之。然立法學的開展卻難有放諸四海皆準的絕對路徑，
+毋寧須視立法標的而相對異其旨趣。尤其各法領域性質不同、規範
+目的有別，法領域內更有部門法之分，立法學的研究進路，除需具
+備各該立法標的的專業知識外，並應注意系爭法領域的規範特性，
+剖析所由而生之立法問題，籌謀與之相契的解決之道，始克有濟於
+立法之為學的學科旨趣97。
+
+ （三）事實創造規範？
+   法之所由生，基於社會事實之規範需求，但從事實無法推導出
+規範，實然不能直接成為應然，法諺有云：Ex injuria jus non oritur
+（不法行為不能創造法）98，殆此謂也。例如總統是否非法介入某
+司法關說案的爭點在於，該案是否屬於總統憲法上之職權？而總統
+於憲法上職權範圍，須從憲法規範解釋探求之，而非以總統是否
+「事實上」處理過某一事務「反推」該事務屬總統「憲法上」之職
+權，否則即有從現實推論（創造）規範之論證謬誤，此無異於因總
+統曾接見農民，則總統有農業事務權之荒謬說法。事實情況如要產
+生規範效力或作用，仍須在法秩序的規範體系內經由制訂或解釋而
+運生。法制及實務上常見「情事變更原則」或所謂Clausula rebus
+sic stantibus原則之解釋與適用，即是一例。
+
+   以司法院釋字第242號解釋（1989年6月23日）為例，涉及
+（舊）民法第992條有關重婚得撤銷之規定能適用於所謂「國家遭遇
+重大變故，在夫妻隔離，相聚無期之情況下所發生之重婚事件」，
+
+
+97 參見李建良，立法學導論—比較法的框架性思維，月旦法學雜誌，295期，
+ 頁87-101（2019年）
+              。
+98 此一原則主要用於國際法層面，亦可作為一般之法原則。關於國際法之討論，
+ 近 期 文 獻 ， 參 見 Oleksandr Merezhko, Crimea’s Annexation by Russia –
+ Contradictions of the New Russian Doctrine of International Law, ZaöRV 75 (2015),
+ S. 167 (187).
+460             《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+從解釋文以觀99，大法官稱與憲法第22條保障人民自由及權利之規
+定「有所牴觸」者，似非（舊）民法第992條本身，而是「仍得適
+用」該條規定的結果「將致人民不得享有正常婚姻生活，嚴重影響
+後婚姻當事人及其親屬之家庭生活及人倫關係，反足以妨害社會秩
+序」
+ （理由書）
+     。姑且不問此是否為「裁判憲法審查，在法規違憲審
+查方面，
+   （舊）民法第992條未考量特殊情況（國家遭遇重大變故，
+在夫妻隔離，相聚無期，甚或音訊全無，生死莫卜之情況下所發生
+之重婚事件，有不得已之因素存在，與一般重婚事件究有不同），
+未設有「例外規定」（或所謂「避免過苛條款」），在此範圍，構成
+違憲或須作「目的性限縮之合憲性解釋」
+                 ，而排除適用舊民法第992
+條，均屬法秩序內的規範考量，而非純由事實創設規範。不同於
+此，法官審認的事實若不在法規範可涵攝的範疇，卻將事實套入規
+範，且依事實「增修」規範，則已非漏洞填補或目的性擴張解釋，
+而是超越法律意旨（praeter legem）之解釋，此於嚴格禁止類推的
+刑事處罰案件尤然。以下試以俗稱「宗教騙色」的行為是否構成刑
+法第221條第1項妨害性自主罪爭議為例，解析說明之。
+
+      此類案件的基本特徵是：某一信徒與某一「宗教人士」發生性
+關係（事實），事後該信徒（實務上多為女性，另一事實）聲稱該
+「宗教人士」假借宗教之名，使其陷於錯誤，違反其意願而為性
+交，構成刑法第221條第1項強制性交罪（規範適用的主張）。法律
+問題：「假借宗教之名，使其陷於錯誤」是否為刑法第221條第1項
+
+
+99 司法院釋字第242號解釋解釋文：
+                  「中華民國七十四年六月三日修正公布前之民
+      法親屬編，其第九百八十五條規定：『有配偶者，不得重婚』；第九百九十二
+      條規定：『結婚違反第九百八十五條之規定者，利害關係人得向法院請求撤銷
+      之。但在前婚姻關係消滅後，不得請求撤銷』 ，乃維持一夫一妻婚姻制度之
+      社會秩序所必要，與憲法並無牴觸。惟國家遭遇重大變故，在夫妻隔離，相
+      聚無期之情況下所發生之重婚事件，與一般重婚事件究有不同，對於此種有
+      長期實際共同生活事實之後婚姻關係，仍得適用上開第九百九十二條之規定
+      予以撤銷，嚴重影響其家庭生活及人倫關係，反足妨害社會秩序，就此而
+      言，自與憲法第二十二條保障人民自由及權利之規定有所牴觸。」
+義理與方法                          461
+
+
+所稱「其他違反其意願之方法」？實務持肯定說，見解如下100：
+
+  刑法第二百二十一條第一項規定所稱「其他違反其意願之
+  方法」，並不以類似同條項所列舉之強暴、脅迫、恐嚇或催
+  眠術等方法為必要，祇要行為人主觀上具備侵害被害人性
+  自主之行使、維護，以足使被害人性自主決定意願受妨害
+  之任何手段，均屬之。而人之智能本有差異，於遭逢感
+  情、健康、事業等挫折，而處於徬徨無助之際，其意思決
+  定之自主能力顯屬薄弱而易受影響，若又以科學上無法即
+  為印證之手段為誘使（例如法力、神怪、宗教或迷信等）
+                          ，
+  由該行為之外觀，依通常智識能力判斷其方法、目的，欠
+  缺社會相當性，且係趁人急迫無助之心理狀態，以能解除
+  其困境而壓制人之理性思考空間，使之作成通常一般人所不
+  為而損己之性交決定，此行為即屬一種違反意願之方法。
+
+   從刑法的角度出發，刑法處罰的是「行為」，觀念上應予區分
+者，乃「行為的可罰性」與「構成要件的該當性」。觀念上，某一
+行為是否具有社會價值的可非難性，不等於該行為該當於構成要
+件。上揭判決理由揭示構成犯罪者，為「誘使」行為，並認定以
+「法力、神怪、宗教或迷信」等方法，誘使他人作成性交決定」亦
+構成「其他違反其意願之方法」，觀其理由及論證結構，可分為
+二：
+
+     1. 「其他違反其意願之方法」的一般性定義：
+
+  「行為人主觀上具備侵害被害人性自主之行使、維護，以足使
+被害人性自主決定意願受妨害之任何手段」
+
+   此一般性定義，可適用於各種案型，依具體個案判斷認定之。
+
+
+
+100 最高法院102年度台上字第3692號刑事判決。
+462           《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+      2. 「其他違反其意願之方法」的特定性定義
+
+      「人之智能本有差異，於遭逢感情、健康、事業等挫折，而處
+於徬徨無助之際，其意思決定之自主能力顯屬薄弱而易受影響，若
+又以科學上無法即為印證之手段為誘使（例如法力、神怪、宗教或
+迷信等），由該行為之外觀，依通常智識能力判斷其方法、目的，
+欠缺社會相當性，且係趁人急迫無助之心理狀態，以能解除其困境
+而壓制人之理性思考空間，使之作成通常一般人所不為而損己之性
+交決定，此行為即屬一種違反意願之方法。」
+
+      此一特定性定義，專為「科學上無法即為印證之誘使手段」，
+特設認定要件要素，從「法力、神怪、宗教或迷信等」之例示以
+觀，係針對「宗教方法」創設是否「違反意願」的判準，整理其要
+素如下：
+
+      ♦ 人處於徬徨無助之際，其意思決定之自主能力顯屬薄弱而易
+        受影響（主客觀條件）
+
+      ♦ 以科學上無法即為印證之手段為誘使（行為態樣與構成要
+        素）
+
+      ♦ 該（誘使）行為之外觀，欠缺社會相當性（非價判斷）
+
+      ♦ （行為人）趁（被害）人急迫無助之心理狀態（主客觀條
+        件）
+
+      ♦ 以能解除其困境而壓制人之理性思考空間（方法）
+
+      ♦ 使之作成通常一般人所不為而損己之性交決定（目的、結
+        果、非價判斷）
+
+      查立法沿革，刑法第221條妨害性自主罪規定，修正自傳統以
+男性為主體之妨害風化罪，將犯罪之客體，從「婦女」擴大範圍為
+義理與方法                           463
+
+
+「男女」；又將其犯罪行為態樣，增加「恐嚇」一種，納入於「強
+暴、脅迫、催眠術」的列示範圍；原規定「致使不能抗拒」之要
+件，因對被害人過於嚴苛，保護不足，乃將之刪除，並將原之「他
+法」
+ ，改成「其他違反其意願之方法」
+               。實務上，雖認為「其他違反
+其意願之方法」，乃屬於上揭強暴等方式以外之獨立行為態樣，不
+同於傳統立法例上，常見先以例示，後加「其他」，涵括相類概念
+之情形101。不過，「強暴、脅迫、恐嚇、催眠術」等方法皆屬「違
+反其（被害人）意願之方法」，則應無二致。是以，所謂「其他」
+者，在解釋上，非得由法院任意擴張、無限羅織。
+
+   上述專為「科學上無法即為印證之誘使手段」而為之創設性定
+義（目的性之擴張解釋！），姑且不論其內容是否允妥，從方法論
+的角度以言，其中所設判準要素（如徬徨無助、急迫無助之心理狀
+態、解除其困境而壓制人之理性思考空間、通常一般人所不為而損
+己等……），究何所本，有無理據？抑或是將「已認定應予論罪」
+的個案事實情節抽繹而成抽象的構成要件要素，再還原適用於個案
+事實？究係「符合立法意旨的補充性解釋」，抑或「僭越立法權力
+的創設性造法」，從而違反罪刑法定原則？換言之，上開理由所述
+之構成要件「若又以科學上無法即為印證之手段為誘使（例如法
+力、神怪、宗教或迷信等）……」，嚴格來看，不無從（法官心思
+所想）「應受處罰之事實」創造出強制性交罪的構成要件要素（規
+範）
+ ，是否屬於合法之「法的續造」
+              ，從罪刑法定原則的角度來說，
+不無商榷餘地。
+
+三、規範與價值
+
+   從規範與事實「你中有我、我中有你」的關係可知，法學不是
+一門沒有條件或不設定條件的學科。若問法律人的圖像為何？常見
+
+
+
+101 例如最高法院104年度台上字第1066號刑事判決。
+464                          《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+的說法是，法律或法學脫不開價值判斷，法律人或法學者大多帶有
+評價色彩。在一般人眼中，學術也者，應該是「價值中立」的知識
+活動與追求「真理」的過程。反之，所有的價值多半是主觀的，法
+律規範不免帶有主觀性，法學是否因此而難以稱得上是一門「學
+術」？
+
+      （一）價值的主觀與客觀性
+      姑且不談此涉及「學術」102 的定義問題103 ，或許可以先理解
+何以法律或法學脫不開價值判斷？或者反過來問，法律或法學中的
+價值判斷是什麼？吾人皆知，價值的選擇非無原因，且唯有「人」
+才會作價值判斷。因此，法律或法學脫不開價值判斷的前提性問題
+是，
+ 「誰」在作價值判斷？為什麼要作價值判斷？
+
+      如果先將法律侷限在「國家的成文法」，也就是由「國家立法
+者」104制定的法。如前所述，法產生自社會事實，基於社會事實的
+規範需求，乃有法之所由生。國家以法規範社會，係將具體事實提
+
+
+102 中文語彙「科學」通常對應英文世界的science一詞，指稱使用可驗證的方式
+    解釋及預測宇宙，進而建構並組織系統性知識的人類活動。相對於此，中文
+    語彙「學術」則是以一定方法探求系統性知識或學問的總稱，略與英文世界
+    的academics相通。science一詞在德語世界的對應詞彙Wissenschaft，囊括前述
+    二種意涵。本文採之，即「科學」與「學術」意義相通。附此一談者，Max
+    Weber的著名演講Wissenschaft als Beruf，英譯版是Science as a Vocation，中譯
+    名多半是「學術作為一種志業」                   ，而不是「科學作為一種志業」                   。
+103 如果「主觀」是學術的絕緣體，則神學、美學、文學等富含主觀成分的學
+    科，均不能稱得上是學術。
+104 誰是「立法者」         ，暫且不談，僅重申筆者多次強調的概念區分，即Radbruch區
+    別Gesetzgeber（立法者）與Gesetzesverfasser（法律制作者）兩種概念。前者
+    為單數，表稱抽象的立法意志；後者為複數，指具體參與法律草擬或制定工
+    作之人。Radbruch認為：每一部法律都是多人參與製作的成品，會有多種法律
+    意旨參雜其中，法律解釋者的任務就是尋繹出單一的法律本旨。縱令百慮而
+    一致，法律的主要意旨亦不必然因而確鑿無疑。因為，立法者不等於法律制
+    作者；立法者的意志（Wille des Gesetzgebers）不等於參與法律制作者的集體
+    意志，而應該是國家的意志（Wille des Staates）。參見Gustav Radbruch, Die
+    Logik der Rechtswissenschaft (1932), in: Dreier/Paulson (Hrsg.), Rechtsphilosophie,
+    Studienausgabe, 1999, S. 1 (107-108).
+義理與方法                                                                          465
+
+
+煉為抽象的概念，再轉換成通用於一般人的語句，匯集成為法條，
+宣之於外，同遵共守。因此，立法者在規範某一事物領域時，必然
+要在多種規範可能性中作出選擇，或安排規範（管制）的優先順
+序，其間無可避免地必須進行評價。以「刪除權」或「被遺忘的權
+利」105為例，立法者在制定個人資料保護相關規範時，是否要引進
+此種權利，必然且必須要有一定的規範目的（何以），欲（預期）
+達到何種目的106？也因此，立法者必須在多種法益及相互衝突的各
+種利益之間斟酌損益、調和鼎鼐，諸如公共安全、個人自由、人格
+尊嚴、社會正義等，並設法使之避免輕重失衡，進而選擇所欲保護
+的對象與所欲達到的目的。不管立法者的權衡是否持平，終究必須
+作出價值的選擇與決斷。就法制訂而言，法規範的生成、修改與廢
+止，即各種目的、法益、利益之間選擇與權重的評價過程。反面言
+之，無評價，無立法。
+
+   （二）主觀價值的客觀思維
+     就法適用而言，所謂「合法」之法適用，首要任務是明辨立法
+者選定的評價，並將之落實於個案社會事實之上，也就是反立法之
+道而行，將抽象規範意旨還原到個案事實上，並使法規範發揮規制
+社會的功能。於民主法治國家中，受憲法委託的法適用者，包括法
+官（法院）、公務員（行政機關）及其他公職人員（例如監察委
+員），在執行法律時，也就是解釋、適用法律、法續造或漏洞填補
+時，必須受到「立法者評價」的拘束，而非法適用者「個人」的評
+
+
+105 所謂Recht auf Löschung (Recht auf Vergessenwerden)、Right to erasure (right to
+    be forgotten)、Droit à l'effacement (droit à l'oubli)，參見歐盟資料保護一般規則
+   （ Datenschutz-Grundverordnung, DSGVO, General Data Protection Regulation,
+    GDPR, règlement général sur la protection des données, RGPD ） 第 17 條
+    (Commission Regulation 2016/679, art. 17, 2016 O.J. (L 119) 1, 43-44)。
+106 德國聯邦憲法法院近期兩則裁判，可供借鏡。參見李建良，德國聯邦憲法法
+    院的「被遺忘權」：一種權利兩樣情，臺灣人工智慧行動網，2020年1月5日，
+    https://ai.iias.sinica.edu.tw/bundesverfassungsgericht-recht-auf-vergessen/（最後瀏
+    覽日：2020年11月3日）              。
+466          《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+價（價值觀）107。若一人一號、調調不同，則法的一致性、安定性
+將受到破壞，同時亦難契合於民主原則與平等原則。法學若要成為
+有用之規範科學，首須面對處理現行成文且可用的法規範。法令繁
+滋，常為人所詬病，但在多元複雜的社會中，此毋寧是事物本質，
+需要發展出一套可供遵循的解釋方法通則，一定程度促進法適用的
+同一性，此為法學存在的目的。法律若不複雜（雜亂），何須有縝
+密思維的法學。所謂「法官依據法律獨立審判，不受任何干涉」，
+法官不受「任何干涉」的前提是「依據法律」；法官獨立與法官受
+法律拘束為一體的兩面。抽象的法律需要經過解釋、適用、執行，
+始能發生規範效力；法律適用者（法院或行政機關）必須經過解釋
+與具體化的過程。法律本身卻無法拘束或限定法律的適用者，法官
+或行政官員究竟是如何解釋法律。因此，法官是否受到法律的拘
+束，端視法官裁判與法律規範之間是否合致的可驗證性，此非賴法
+學梳理錯綜複雜之法條、建立井然有序的規範體系，無以為功。
+「法律之前人人平等」與「法律的一般性」互為條件，其共通前提
+是法律不問由誰來解釋皆應相同。如果法律適用者可以依自己的方
+式解釋法律，平等原則作為法治國家的基本要素之一，即失所附
+麗。因此，法適用者應先抽繹出立法者所為的評價，必要時在忠於
+「立法意旨」之下予以填補或續造之，並且闡明於裁判之中。唯有
+當規範適用於個案時，發生於與上位規範有所齟齬時（例如牴觸憲
+法）
+ ，法適用者方有「自作評價」的餘地。
+
+      法學者不是法適用者，但同樣不能忽略（立法者）主觀價值的
+客觀思維問題。法學的任務在於使法秩序得以建立，並有條理的運
+作落實。法學者可以不同意立法者的價值判斷，但不能僭越或偷換
+立法者的價值判斷。Thomas Hobbes的Leviathan拉丁文版中有一段
+話為：
+
+
+107 姑且不論法適用者有無抵抗權、市民不服從或良心自由等「例外狀態」的問
+      題。
+義理與方法                                                                         467
+
+
+    一國之中，自然法的解釋不能倚賴道德哲學的教師及學
+    者，而是要憑藉國家權力。縱然學說可能正確；但法之所
+    由設，乃透過權威，而非真理108。
+
+     這段話後來被簡化為Auctoritas, non veritas facit legem（權威，
+而非真理，造就法），成為法實證論定言。細繹這段經常被法實證
+論者引用之定言的文理脈絡，可知Hobbes未必將法與道德截然分
+離，更重要的是其觀點觸及法學方法論上一項較少被關注的課題：
+學說見解如何成為具規範性之法？法與學、倫理與倫理學、道德與
+道德哲學，乃簡單的概念區分，同時也代表兩組不同的系統，前者
+為規範系統（應然），後者則是學術系統，嚴格來說，只是一種
+「實然」
+   。法既是一種規範，亦兼含各種制度，如契約、行政處分、
+法院、國會等。法之形成、建構、實踐，有賴井然有序、言之成理
+的學說，但學說不能當然視同於法。法學研究與論著，習於擇取特
+定之學說見解以實其說，或作為論述之對象。不過，學說見解不論
+如何精闢，皆未必能將之視為具規範性之法則或原則而運用之。在
+方法論上尤需留意者，乃論者援引學說詮釋或應答法律問題時，允
+宜區分學者之見與自己之見，若為他者之見，則需忠於原說；若係
+己見，則尚須說明贊同或反對所引之說。還有另一可能是，借用他
+人之見，引伸其義，發展己見。惟無論如何，學說若要成為法規
+範，即需進入特定法秩序，於該法制框架與規範脈絡下進行論證，
+或成為特定法解釋的理據，或成為法制訂的基礎。
+
+
+
+108 拉丁文版：In civitae constituta, legume naturæ interpretation non a doctoribus et
+    scriptoribus moralis philosophiæ quidem veræ esse possunt; sed authoritas, non
+    veritas, facit legem. 參見3 THOMAS HOBBES, THOMAE HOBBES MALMESBURIENSIS
+    OPERA PHILOSOPHICA QUÆ LATINE SCRIPSIT OMNIA, IN UNUM CORPUS NUNC
+    PRIMUM COLLECTA STUDIO ET LABORE GULIELMI MOLESWORTH 202 (William
+    Molesworth ed., 1841). 這套由William Molesworth編纂的Hobbes作品集，於
+    1839年出版，共五冊（到1845年才出完），拉丁文版的Leviathan在第三冊（拉
+    丁文1668/1670版原始頁133）          。
+468                         《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+      （三）民主政治與價值競擇
+      「天下之難，未有不起於爭，今又欲以爭濟之，是使相激為深
+而已」
+  （東坡易傳）
+       。人與人之所以有衝突，在於每個人都是獨立的
+個體，立身處事的想法不同與標準不一，自古而然。即使在專制極
+權體制之下，個人的意志無法成為法的意志，但不表示不存在個人
+的意志，歷史上不斷發生的革命，無非就是（無數）個人意志與法
+律（統治）體制之間的衝撞關係。在民主政治體制下，人民意志或
+多或少可以成為法的意志，卻又受制於多數決原則，難以全然。因
+此，民主政治下的法律與法治必然是場場價值競擇的結果，反過來
+說，無評價，無民主。
+
+       民主是價值的競擇，同時置入自我毀滅的機制，如果反民主也
+是一種價值！？民主是多數與少數的競爭（多者為勝），意味的可
+能是多數人的價值「勝過」少數人的價值，同時也突顯出價值的
+「複數性」與「異質性」
+          。價值與「真理」的距離幾希，暫且闕疑，
+回顧歷史，今人視為當然的知識或常理，例如橢圓軌道、地動論、
+太陽系、地圓論等，是少數人甘冒生命危險或以生命為代價的文明
+成果，希帕提雅、哥白尼、布魯諾109、伽利略……等，古今多少天
+才，都付與真理而犧牲！歷史進程不是直線向前，而是時進時退。
+古往今來，不義政權較之法治國家，後者遠少於前者，得來不易，
+轉眼失去。歷史教訓的現代感與未來性，讓法律人在法治與非法治
+的角力關係上保持清醒的知覺：法治國家起造維艱，不義政府隨時
+而至。
+
+       從規範「意涵」開掘規範中的價值因子，或可從憲法基本權保
+障條款著手。以憲法第13條：「人民有信仰宗教之自由」為例，
+                            「所
+
+
+109 黑格爾在《哲學史講演錄》中寫道：「布魯諾的一生，代表著對天主教信仰穩
+      固純粹之權威的明顯對抗。3 G.W.F. HEGEL, HEGEL’S LECTURES ON THE HISTORY
+      OF PHILOSOPHY 119 (Elizabeth Sanderson Haldane & Frances H. Simson trans.,
+      Routledge 1974) (1837).
+義理與方法                         469
+
+
+謂宗教信仰之自由，係指人民有信仰與不信仰任何宗教之自由，以
+及參與或不參與宗教活動之自由110」
+                 、「思想自由保障人民內在精神
+活動，是人類文明之根源與言論自由之基礎，亦為憲法所欲保障最
+基本之人性尊嚴，對自由民主憲政秩序之存續，具特殊重要意義，
+不容國家機關以包括緊急事態之因應在內之任何理由侵犯之，亦不
+容國家機關以任何方式予以侵害111」。再舉憲法第11條保障人民之
+言論自由為例，「國家對不表意自由，雖非不得依法限制之，惟因
+不表意之理由多端，其涉及道德、倫理、正義、良心、信仰等內心
+之信念與價值者，攸關人民內在精神活動及自主決定權，乃個人主
+體性維護及人格自由完整發展所不可或缺，亦與維護人性尊嚴關係
+密切112」。自由民主之憲政秩序，或自由民主憲政秩序，為憲法概
+念與法律概念，具規範意義，常見於司法院憲法解釋，為現行憲法
+賴以存立之基礎；而維護人性尊嚴與尊重人格自由發展，乃自由民
+主憲政秩序之核心價值；人民之表現自由（含言論自由）涉及人性
+尊嚴、個人主體性及人格發展之完整，為憲法保障之重要自由權
+利。「自由民主憲政秩序―人性尊嚴―言論自由」三位一體的憲法
+價值，允非民主程序所得推翻者113。
+
+
+
+參、餘音：反思後設問題
+
+   論證需要基礎，如果基礎不存，立基於上的假設與認定亦隨之
+崩塌。哲學或詮釋學探問穿梭古今人類的大哉道理，哲學家或詮釋
+學家也是人，說起道理有時候彷彿「事不關己」，但這卻是絕大部
+分以「人文」作為「科學」無可迴避的問題與盲點。學科處理的對
+
+
+110 司法院釋字第460、490號解釋。
+111 司法院釋字第567號解釋。
+112 司法院釋字第565號解釋。
+113 司法院釋字第499號解釋。
+470                 《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+象不是單純的物，而是人，不是單一的個人，而是人群（族群、社
+會、國家……），沒有一定的規律，沒有皆準的法則。涉及人的學
+科，又要由人來研究，多少受到目的動機、意識型態、好惡利害等
+私念的影響或左右，有意或無意都會陷入「己事（不能）自斷」
+（nemo iudex in sua causa）的困境。
+
+一、
+ 「後設」？問題的問題
+
+      哲學或法學常見以meta作為前綴詞，提出各種「後設問題」或
+「後設觀念」，但什麼是「後設」？本身又是一道語言、概念、理
+解、解釋、翻譯、方法、應用的詮釋學綜合題，習題之一：以下文
+字 ， 試 翻 譯 之 ： Meta-Frage 、 meta-discussion 或 meta-issues 、
+Metaphysik 或 metaphysics 、 Metaphilosophie 或 metaphilosophy 、
+Metadaten、Metainformationen或metadata？
+
+  Meta一詞源於希臘文μετά，意指「之後」或「之外」，相當於
+拉丁文的post- 或ad-。常用的p.s.，源於拉丁文postscriptum，字意
+是「寫於之後」，延伸為「附帶一言」。將meta譯為「後設」，大抵
+取其語意，難謂錯譯。只不過「後」字指涉範圍在時間或空間上有
+不同的理解。例如「向後看」，即有向「過去看」與向「未來看」
+兩種解讀可能，端視前後文脈絡（
+              「向前看」亦然）
+                     。就法學而言，
+meta所指涉者，既非時間的前後關係，亦非空間的相對位置，而是
+「思維層次」高下深淺的形上課題。實象言之，凡冠有「meta」前
+綴詞的精神科學概念者，其旨趣在於所涉概念或客體的「上層性」
+或「溯源性」
+     ，用以往上追及「始源」
+               ，窮極問題之根柢，也就是所
+謂「概念的概念」或「問題的問題」
+               。以時興的metadata概念為例，
+以meta修飾data，重點在於資料的原始性，也就是資料的「元件
+ ，如何稱名，尚在其次114。
+性」
+
+
+114 就此而言，行政院及所屬各級機關政府資料開放作業原則第2點：「政府資料
+      開放之範圍，為各機關於職權範圍內取得或作成，且依法得公開之各類電子
+義理與方法                                                                            471
+
+
+     轉譯自μετά的meta進入西方語言系統後，已逐漸演化而具自身
+生命，試舉二例。一是較易理解而富普遍性者，為方法論的外文
+methodology或Methodologie，查其語源，係由meta與hodos二字組
+成，前者有「循、沿」之意，後者則是「道、路」的表稱；一說是
+源自希臘文一說源自μεθοδολογία 115 ，不問何者，意旨則一，均是
+思維之道或研究之法，meta一詞已無「之後」或「之外」之意，而
+是窮究道理之根源，誠可謂「無道理之較，無益於治」（東漢《論
+衡》
+ ）。
+
+     二則，較具深度而與法學關聯甚密之例是：18世紀，Kant（康
+德）在Die Metaphysik der Sitten一書論及「法學為何物」
+                                      （Was die
+Rechtslehre sei）
+               。此傳世鉅著之所謂「Metaphysik」，自然不能譯為
+「後設物理學」
+      ，否則不知其意或可能錯解其旨，後人譯為《道德形
+上學》116，至少稍可理解117；而康德所稱：「凡有外在立法可能之
+所有法則（Gesetze），稱之Ius。此種立法若成為現實，即是實證法
+之法學（Lehre des positiven Rechts）；通曉此種法學之人或法學者
+（Iurisconsultus），謂之饒富經驗的法律專家（Iurisperitus）；如果由
+外認識這些外在法律，也就是經由將外在法律適用到經驗中所發生
+的各種案例上，則可能成為法智慧（Iurisprudentia）；二者若未兼
+
+
+
+    資料，包含文字、數據、圖片、影像、聲音、詮釋資料（metadata）等。」其
+    中「詮釋資料」之譯名，不僅無法表明資料的「元件性」                                   ，其「詮釋」二字所
+    指為何（人地時事物？）              ，則更啟人疑惑而不知所云。
+115 參見Bettina Beer (2008), „Methode“, „Methodik“ und „Methodologie“ in der
+    Ethnologie, EthnoScripts, online verfügbar unter https://www.ethnologie.uni-
+    hamburg.de/pdfs-de/ethnoscripts-pdf/es10_2_artikel.pdf; Friedrich Kluge, Methode,
+    in: Seebold (Hrsg.), Etymologisches Wörterbuch der deutschen Sprache, 24.
+    durchgesehen und erweiterte Aufl., 2002, S. 556 (556).
+116 所謂「形而上者謂之道，形而下者謂之器。」                             （《周易 辭繫上》        ，西周 西元前
+    1046年～771年）      ，殆此之謂。
+117 英譯本書名：THE METAPHYSICS OF MORALS（1991年，譯者Mary J. Gregor）                       ，
+    以morals對應Sitten。IMMANUEL KANT, THE METAPHYSICS OF MORALS (Mary J.
+    Gregor trans., Cambridge University Press 1991) (1797).
+472                            《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+備，經驗則僅是一種純粹的法科學（Iurisscientia）。通曉純粹法學
+之士必須替所有實證立法提供不可動搖的諸般原則，純粹法學的本
+質終究仍是對自然法理（Ius naturae）的系統性認識118。」或可奉
+為前人對法學之正解。
+
+       附言 ，今之德 國法學圈 時有所謂 「法科學 理論 」（ Rechts-
+wissenschaftstheorie）的倡議，其非指涉法學本身之規範內涵，而
+是把「法學」當作一種「治法的（多種）學科」（die Wissenschaft
+(en) vom Recht）進行研究，用以探討各種不同「治法」學科的關
+係，包括不同法學科（公法、私法、刑法）之間的關係、學說與實
+務 之 關 係 ， 屬 於 一 種 探 討 「 學 科 內 在 性 問 題 」（ Fragen der
+Intradiszipinarität）的理論，而有Meta-Disziplin der Jurisprudenz之
+稱119 。 鑑 於 其 旨 在 究 明 法 學 （ 是 否 及 如 何 ） 具 有 「 學 術 性 」
+（Wissenschaftlichkeit）的條件，並在此基礎下探討法學與其他相關
+學科關聯，則所謂「Meta-Disziplin」者，或可稱為法學之溯源究極
+學科，方不失其旨趣。
+
+二、憲法詮釋的標的為何？
+
+       在憲法民主法治國家中，法的基本條件需以憲法的價值決定為
+基準，也就是憲法秩序的價值準據。何謂「憲法價值決定」？法規
+範的內涵是否合於憲法的價值決定，需要進一步的「解釋」（詮
+釋）。憲法學的任務在於闡釋憲法的體系秩序與價值內涵。憲法解
+釋與一般法規範的解釋，原則上並無不同，差別在於詮釋的標的。
+憲法規定的高度簡約、抽象，讓憲法解釋無可避免地成為主觀價值
+的進入口。於此是否要如「純粹」法學者的主張，法學只能侷限在
+
+
+
+118 Immanuel Kant, Die Metaphysik der Sitten: Metaphysische Anfangsgründe der
+      Rechtslehre, 1797, S. 229.
+119 Matthias Jestaedt, Perspektiven der Rechtswissenschaftstheorie, in: Jestaedt/Lepsius
+      (Hrsg.), Rechtswissenschaftstheorie, 2008, S. 185 (201 ff.).
+義理與方法                                                                      473
+
+
+法的形式邏輯，至於個案的決定則任諸「決案者」的主觀決定？
+
+     美國憲法的解釋向有「原意主義」與「非原意主義」的分與
+  120
+爭       ，學說各家幾乎都投入這場論戰121 。本文暫且止步，以免涉
+義不盡吻合，僅提出兩點觀察：
+
+    （一）「原意主義」與「非原意主義」之爭，是否僅涉及憲法條
+文的解釋，抑或屬於所有法律解釋的方法論題122？
+
+    （二）「原意主義」與「非原意主義」於憲法解釋上的爭議，是
+否真的涉及憲法「條文與文字」的解釋，抑或只是以憲法條文為媒
+介，進行意識形態或價值取捨的抗爭123？
+
+     以上方法論之強調，旨在彰顯詮釋對象的認知與定位。以法律
+之違憲審查為例，所謂憲法解釋的前提，建立在正確的法律解釋之
+上。待審查的法律之解釋若有誤差，則系爭法律之憲法審查，亦隨
+之生錯。
+
+三、法學初步：閱讀法條
+
+     追求知識，樂於求知，驗之文明所由，允為人類最重要的本能
+之一。法學研究亦在追求知識，滿足求知的心理需求，足為完成自
+我實現的一種嘗試。然若法學的研究只是為了「解答」人們已經知
+
+
+120 See Bret Boyce, Originalism and the Fourteenth Amendment, 33 WAKE FOREST L.
+    REV., 909, 909-1034 (1998).
+121 例如筆者手邊一本Cass R. Sunstein的近作：Impeachment: A Citizen’s Guide
+    (2017)，其中Interpreting the Constitution: An Interlude (pp. 64-79)，討論的就是
+    originalism 的 問 題 。 See Cass R. Sunstein, Interpreting the Constitution: An
+    Interlude, in IMPEACHMENT: A CITIZEN’S GUIDE 64, 64-79 (2017).
+122 法律解釋之例，New Prime Inc. v. Oliveira, 586 U.S. ___ (2019)，爭點：The
+    Federal Arbitration Act（聯邦仲裁法）所定contract of employment（僱傭契約）
+    是否包括獨立承包商契約？
+123 意識爭議之例，Bostock v. Clayton County, 590 U.S. ___ (2020)，爭點：1964年
+    the Civil Rights Act（民權法案）第7章所定禁止雇主歧視之sex（性別）是否包
+    括性傾向？
+474                           《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+道的「常識」，而不是顛覆或改變人們已經存在的「偏見」或「刻
+板印象」；法學研究所欲解決的「問題」如果只是純粹假設性或不
+重要的問題，則法學研究不是無濟於問題的解決，就是可能被問題
+所解決。
+
+       主張「獨立之精神，自由之思想」的陳寅恪於1919年曾論及
+「中國古人素擅長政治及實踐倫理學，與羅馬人最相似。其言道
+德，惟重實用，不究虛理，其長處短處均在此。」124，這段話被余
+英時詮釋為顯然受到黑格爾《哲學史講演錄》中關於「中國哲學」
+論斷的影響，並將之引伸為中國人「偏重實用」、缺乏「為知識而
+知識」的精神125。姑且不談陳氏的議論是否受到黑格爾的影響（論
+斷基礎有待驗證）126，若將「為知識而知識」的精神放在法學研究
+上，意味的是進步還是落後？或者說，「為知識而知識」與「務實
+而不究虛」二者是否彼此相斥、互不相容？又，只究虛理之「知
+識」如何謂之知識？
+
+       前一節對憲法詮釋「標的」的觀測視角，一定程度將憲法解釋
+「下降」為「法律解釋」問題，實則試著上升法學的思維高度，厚
+實法治的根基，彰顯「功虧一簣」與「為山九仞」的關鍵之距。法
+發乎思想，著為文字，逐為條文。法學研究不能離開法律條文。吾
+人致力於憲法之學，當知最好的理論，必須用之於實際，始能知其
+
+
+124 引自王汎森，中國近代思想與學術的系譜，頁468（2003年）                   。
+125 參見余英時，余英時回憶錄，頁203（2018年）            。
+126 余英時引用1 G.W.F. HEGEL, LECTURES ON THE HISTORY OF PHILOSOPHY 120-21
+      (Elizabeth Sanderson Haldane trans., University of Nebraska Press 1995) (1837). 對
+      照德文原版該段關於Chinesische Philosophie（中國哲學）的內容，主要介述儒
+      家及道家思想，特別是易經（書上畫有「乾、坤、坎、離、震、巽、艮、
+      兌」的八卦符號）與道德經，例如提及「道生一，一生二，二生三，三生萬
+      物 」 （ Die Vernunft hat das Eine hervorgebracht; das Eine hat die Zwei
+      hervorgebracht; und die Zwei hat die Drei hervorgebracht; und die Drei produziert
+      die ganze Welt ）（參見G.W.F. Hegel, Vorlesungen über die Geschichte der
+      Philosophie. Erster Teil, 1979, S. 141-147），是否提及「與羅馬人最相似」，有
+      待考證。
+義理與方法                                                                             475
+
+
+真偽。美國聯邦最高法院大法官Felix Frankfurter（1882-1965）在哈
+佛大學任教時一再提醒學生：「法律解釋的三大要訣是：一、閱讀
+法條；二、閱讀法條；三、閱讀法條」127，值得深思。
+
+四、法學底蘊：法釋義學
+
+     如果把法學比喻成一棵樹，根柢是樹的基礎及命脈，決定一棵
+樹的榮枯，根深者枝茂。從整個生態系統來看，如果健康的生態系
+統不會是單一的樹種，而是生物多樣性下的植物系統，法學也應該
+不會是獨一的單科，而是在多種法科之下形成的法多元系統，各自
+根脈之下有各自的基礎。法學如此，法治亦然，於此可帶出「法
+學」為何物之大哉論題。「法學者」如何看待法律，一定程度影響
+到法學的內在質素與外在表現。有社會、就有法！不厭其煩，反覆
+申說，代表法與社會的時間共長，當下之法律必然有其時間與空間
+的傳承脈絡，法律史學為法學不可想像其不存在之學科，置身蘊含
+於各法秩序（法律史學難成或不能成獨立之學）；法律與所在的社
+會背景與所欲規範的社會情境與經驗事實關係密切，前已述及，法
+律之社會因素與文化底蘊，於法適用與法制訂互為表裡，法社會學
+之運生與得名，理所當然；窮究法律之目的與應然取向，則是不得
+不然或理之必然的法思維走向（理性溯因），素有法律哲學或法哲
+學之稱謂，無人置疑。法律史學、法社會學、法哲學分別擅場、各
+有位置，共同構成法學不可分割的元素，無人否認，於憲法學之層
+次，難度尤大，未必為法律人所認知。
+
+     法學的研究方法和關懷重點或有不同，法律史學、法社會學、
+法哲學此三種「傳統學科」的畛域或有區別，然無可迴避或須面對
+的是：任何法律的解釋與適用，與歷史、社會、哲學無不相關，法
+律解釋不問條文之所從出，須知其然，更要追究其所以然，不能過
+
+
+127 參見Henry J. Friendly, Mr. Justice Frankfurter and the Reading of Statutes, in FELIX
+    FRANKFURTER, THE JUDGE 30, 47-49 (Wallace Mendelson ed., 1964).
+476           《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+於簡化或輕忽法律解釋適用的內在過程與實質要素。法律適用旨在
+規範社會具體事實，不能脫離社會脈絡進行真空想像，更不能無感
+於法律之是否正當，或不追問法律何以如此規定；反面言之，脫離
+法律應用的基礎法學，無以稱得上「基礎法學」。除開時空因素的
+法律史學、社政因素的法社會學、評價因素的法律哲學，另有從效
+率角度出發，借用經濟學方法，對於法律解釋適用進行經濟分析，
+自成以效率因素的法經濟學（或法律經濟分析學）；亦有透過統計
+方法，進行數據資料的歸整與詮釋，運生為以計量導向的法實證學
+（或實證法學）
+      ，用來提升法律解釋適用的客觀性與可驗證性。以上
+「法學」有特定的專業為治法工具與目的取向，如歷史學、社會
+學、哲學、經濟學、統計學等，因其他學科的加持，功力倍增，不
+憑藉其他學科的「純粹」法學，其表徵恰是以規範法學為主體之法
+「釋義」學＝法學（參見下圖）
+             ：
+
+
+
+
+             圖2 法「釋義」學＝法學
+資料來源：作者自製。
+義理與方法                                                        477
+
+
+後話：問學常川
+
+    現代歐陸法系的根基─Corpus Juris（民法大典）
+                               ，529年由查士
+丁尼一世（Justinian I, 482-565）首發Constitutio Imperatoriam（皇
+令），揭示立法目的與法典擘畫大略，前言末句：…cupidae legume
+iuventuti，大意是：獻給渴求法律知識的青年學子們。
+
+   「推闡理勢，言簡意明，往往足以達難顯之情，而深得曲譬之
+旨」
+ （東坡易傳）
+      。法學研究不能離開法律條文，同時需要求知的驅
+動力與獲取知識的方法，用以探索深奧的法理，法條的理解與法學
+的發展，欠缺系統性知識，殆無可能。學術的核心特徵與構成要素
+是，在合於理性、可驗證的思考過程中，有計畫、有一定方法，以
+獲取特定的知識，法學亦復如此。通過法學獲得的知識，旨在使法
+秩序井然而合於理性，讓在此法秩序基礎下作成之法的決定儘可能
+合理可信，使法的實踐過程得以一目瞭然、綱舉目張，促進既有法
+規範及憲法的續造能量，同時提高立法品質，俾以得法128。
+
+  1928年中央研究院歷史語言研究所章程第14條第2項規定：
+                              「專
+                  129
+任研究員應常川在研究所從事研究。 」後來口說耳聽成為「常川
+在院」或「常川在所」的研究規矩，儼然是中研院世代相傳的「家
+法」。從法規的解釋來看，這或許是「空間」的行為規範130；從法
+
+
+128 德語法學界經常使用Rechtsfindung一詞（字面意思「找法」
+                                    ），用以表達得出正
+    確法之決定的方法與過程，與之對應的英文可以是legal finding，但意涵並不
+    全然相同。近期文獻，參見Wolfgang Linsenmaier, Bewusste Rechtsfindung, RdA
+    2020, S. 220 (220-226).
+129 歐陽哲生編，傅斯年全集（第6卷）        ，頁32（2003年）。
+130 據載，1942年間，陳寅恪於桂林接獲中央研究院發給歷史語言研究所專任研
+    究員聘書，時任所長傅斯年以該所位於四川李莊，陳氏無法「常川在所」為
+    由，予以反對，後改為「專任研究員暫適用兼任研究員之待遇」                   ，陳寅恪終未
+    正式獲聘為專任研究員。參見潘光哲，天方夜譚中研院：現代學術社群史
+    話，頁70（2008年）；岳南，陳寅恪與傅斯年，頁249-264（2009年）。另外，
+    朱希祖亦有類似境遇，參見周文玖，朱希祖與中央研究院史語所，史學史研
+    究，2013年第4期，頁48（2013年）   。
+478                        《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+學的角度思考，當為治學的精神常川，不受限於時空。
+
+      古云：panta rhei（萬物常川）131；逝者如斯，不捨晝夜。暫
+時與永恆的弔詭關係是哲學經常探討的核心課題之一，亦見於文
+學，法學尤然。相對於自然科學的發現對於世界圖像常有幡然改觀
+之勢，人文科學的「發現」對社會的影響相對較為緩慢、甚至微不
+可見132。多半需要相當時日的醞釀、摸索、苦思、累積，方能有些
+許的進展或成果；若要有所突破，乃至為一般所承認而落實，所需
+耗費的時間更長。若干事物的本質於人文科學發現的當時，就算已
+經逐漸產生廣泛的作用力，通常不會被認為是智識地位上的新知
+識，往往要等到後世史家耙梳整理、回顧概觀之後，才能約略窺其
+輪廓，看出其意義133。
+
+      對法學研究者來說，理性與感性，難以兼得，卻又必須涵容並
+蓄。1920年6月14日，韋伯感染西班牙流感併發肺炎，病逝於慕尼
+黑。如果憲法學可以作為志業，不妨在韋伯百歲冥誕之年，體會他
+在百年前〈學術作為志業〉一文的喟嘆：沒有熱情，沒有「生命開
+始之前，千古歲月已逝；未來千禧悠悠，默然沈靜以待134 」的壯
+志，永遠不會有獻身學術的召喚，應該去做別的事；沒有熱情的
+事，人之為人，毫無意義。但是，熱情的熾烈，卻不能保證必然可
+以產出學術上的成果。
+
+
+
+131 據信，語出希臘哲學家Heraclitus of Ephesus (c. 535-c. 475 BCE)。
+132 只要稍微看一下當今AI帶給人類社會的巨大影響，面對這波被稱為第四次產
+    業革命的科技發展，人文社會科學的回應相對被動而緩慢。參見李建良，New
+    Brave World？—AI與法學、哲學、社會學的跨界遇合，人文與社會科學簡
+    訊，20卷1期，頁75-80（2018年）              。
+133 參 見 Hans Dölle, Juristische Entdeckungen, in: Deutscher Juristentag (Hrsg.),
+    Verhandlung des 42. Deutschen Juristentages, Bd. 2, 1959, S. B 1 (B 21).
+134 原文：„Jahrtausende mußten vergehen, ehe du ins Leben tratest, und andere
+    Jahrtausende warten schweigend“. Max Weber (1985), Wissenschaft als Beruf, in:
+    Winckelmann (Hrgs.), Max Weber: Gesammelte Aufsätze zur Wissenschaftslehre,
+    online verfügbar unter http://www.zeno.org/nid/20011440449.
+義理與方法                      479
+
+
+  憲法學是一項職業的選擇，也可以是一種志業。憲法學的開展
+與深化，必須具備憲法規範之內與之外的學術根基，還要兼修哲學
+思想與政治學理，悠遊於歷史時空場景、時刻觀察現下社會動態。
+以憲法學為職志的研究者所能享有的，往往只是瀕臨逸脫法學邊界
+來回躑躅的知識況味。
+480                      《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+
+                              參考文獻
+
+1. 中文部分
+
+Bernd Rüthers 著 ， 丁 曉 春 、 吳 越 譯 （ 2005 ）， 法 理 學
+      （Rechestheorie），北京：法律出版社。[Rüthers, Bernd (1999),
+      Rechtstheorie: Begriff, Geltung und Anwendung des Rechts,
+      München: C. H. Beck.]
+Hans-Georg Gadamer著，洪漢鼎譯（2010），詮釋學I，真理與方
+      法：哲學詮釋學的基本特徵，北京：商務印書館。[Gadamer,
+      Hans-Georg (1960), Hermeneutik I, Wahrheit und Methode:
+      Grundzüge einer philosophischen Hermeneutik, Tübingen: Mohr
+      Siebeck.]
+Immanuel Kant著，鄧曉芒譯（2004），純粹理性批判，臺北：聯
+      經。[Kant, Immanuel (1781), Kritik der reinen Vernunft, Riga:
+      Johann Friedrich Hartknoch.]
+John Stuart Mill著，李滌非譯（2009）
+                           ，精神科學的邏輯，杭州：浙
+      江大學出版社。[Mill, John Stuart. 1843. A System of Logic,
+      Ratiocinative and Inductive: Being a Connected View of the
+      Principles of Evidence and the Methods of Scientific Investigation.
+      London: John W. Parker.]
+Mario Puzo著，黃煜文譯（2017）
+                     ，西西里人，新北：新雨。[Puzo,
+      Mario. 1984. The Sicilian. New York, NY: Random House, Inc.]
+Roscoe Pound著，鄧正果譯（2016），法理學，北京：商務印書
+      館。[Pound, Roscoe. 1903. Outlines of Lectures on Jurisprudence.
+      Lincoln. NE: Jacob North & Company.]
+Wilhelm Dilthey著，童奇志、王海鷗譯（2002），精神科學引論
+      （第一卷），北京：中國城市出版社。[Dilthey, Wilhelm (1883),
+義理與方法                                                             481
+
+
+   Einleitung   in      die   Geisteswissenschaften:   Versuch   einer
+   Grundlegung für das Studium der Gesellschaft und der Geschichte,
+   Leipzig: Duncker & Humblot.]
+Wolfgang Friedmann著，楊日然、耿雲卿、蘇永欽、焦興鎧、陳適
+   庸譯（1984），法理學，臺北：司法周刊雜誌社。[Friedmann,
+   Wolfgang. 1967. Legal Theory. New York, NY: Columbia
+   University Press.]
+王汎森（2003）
+        ，中國近代思想與學術的系譜，臺北：聯經。
+王澤鑑（1982）
+        ，民法學說與判例研究（第4冊）
+                      ，臺北：自版。
+余英時（2018）
+        ，余英時回憶錄，臺北：允晨文化。
+吳庚（2003）
+       ，憲法的解釋與適用，臺北：自版。
+吳庚、陳淳文（2013）
+           ，憲法理論與政府體制，臺北：自版。
+        ，New Brave World？─AI與法學、哲學、社會學
+李建良（2018）
+   的跨界遇合，人文與社會科學簡訊，20卷1期，頁75-80。
+─（2018），基本權釋義學與憲法學方法論─基本權思維工
+   程的基本構圖，月旦法學雜誌，273期，頁5-27。
+─（2019），立法學導論─比較法的框架性思維，月旦法學
+   雜誌，295期，頁87-101。
+周文玖（2013），朱希祖與中央研究院史語所，史學史研究，2013
+   年第4期，頁46-58。
+岳南（2009）
+       ，陳寅恪與傅斯年，臺北：遠流。
+陳柏良記錄、李建良審訂（2018），人文大師下午茶．林子儀所長
+   介於規範與事實之間：法學研究的經驗與反思，人文與社會科
+   學簡訊，20卷1期，頁139-142。
+劉淑範（2019），「精神科學」（„Geisteswissenschaften“）概念淺
+   釋：從「精神哲學」到「精神科學」之集合概念，人文與社會
+   科學簡訊，21卷1期，頁176-184。
+歐陽哲生編（2003），傅斯年全集（第6卷），長沙：湖南教育出版
+   社。
+482                     《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+潘光哲（2008），天方夜譚中研院：現代學術社群史話，臺北：秀
+      威資訊科技。
+
+2. 外文部分
+
+(1)日文
+
+上野直昭（1916）
+         ，精神科学の基本問題，東京：岩波書店。
+ヴィルヘルム•ディルタイ著，三枝博音訳（1928），精神科学序
+      説，東京：大村書店。
+丸山長渡（1903）
+         ，法理学，東京：博文館。
+三木清（1931）
+        ，精神科学派哲學，東京：誠文堂。
+
+(2)西文部分
+
+Beer, Bettina (2008), „Methode“, „Methodik“ und „Methodologie“ in
+      der Ethnologie, EthnoScripts, online verfügbar unter https://www.
+      ethnologie.uni-hamburg.de/pdfs-de/ethnoscripts-pdf/es10_2_artikel.
+      pdf.
+Berault, Peter. 1690. Logick, or, the Key of Sciences, and the Moral
+      Science, or, the Way to Be Happy. London: Thomas Hodgkin.
+Betti, Emilio (1967), Allgemeine Auslegungslehre als Methodik der
+      Geisteswissenschaften, Tübingen: Mohr Siebeck.
+Binmore, Ken. 2011. Natural Justice. Oxford: Oxford University Press.
+Boyce, Bret. 1998. Originalism and the Fourteenth Amendment. Wake
+      Forest Law Review 33:909-1034.
+Carr, Edward Hallett. 1987. What Is History?. 2d ed. New York, NY:
+      Penguin.
+Coing, Helmut (1959), Die Juristischen Auslegungsmethoden und die
+      Lehre der allgemeinen Hermeneutik, Wiesbaden: Springer.
+Coke, Edward. 1628. The First Part of the Institutes of the Laws of
+義理與方法                                                               483
+
+
+    England, or, a Commentary on Littleton: Not the Name of the
+    Author Only, But of the Law Itself Vol. 1. London: Society of
+    Stationers.
+Diemer, Alwin (1974), Geisteswissenschaften, in: Ritter (Hrsg.),
+    Historisches Wörterbuch der Philosophie, Bd. 3, Darmstadt:
+    Wissenschaftliche Buchgesellschaft, S. 211-215.
+Dilthey, Wilhelm (1883), Einleitung in die Geisteswissenschaften:
+    Versuch einer Grundlegung für das Studium der Gesellschaft und
+    der Geschichte, Leipzig: Duncker & Humblot.
+─. 1988. Introduction to the Human Sciences: An Attempt to Lay a
+    Foundation for the Study of Society and History, translated by
+    Ramon J. Betanzos. Detroit, MI: Wayne State University Press.
+Dölle, Hans (1959), Juristische Entdeckungen, in: Deutscher Juristentag
+    (Hrsg.), Verhandlung des 42. Deutschen Juristentages, Bd. 2,
+    Tübingen: Mohr Siebeck, S. B 1- B 22.
+Engisch, Karl (1963), Logische Studien zur Gesetzesanwendung, 3.
+    Aufl., Heidelberg: C. Winter Universitätsverlag.
+Esser, Josef (1972), Vorverständnis und Methodenwahl in der
+    Rechtsfindung:         Rationalitätsgrundlagen         richterlicher
+    Entscheidungspraxi,     Frankfurt    a.M.:    Athenäum      Fischer
+    Taschenbuch.
+Friendly, Henry J. 1964. Mr. Justice Frankfurter and the Reading of
+    Statutes. Pp. 30-67 in Felix Frankfurter, The Judge, edited by
+    Wallace Mendelson. New York, NY: Reynal and Company.
+Gadamer, Hans-Georg (1960), Wahrheit und Methode, Tübingen: Mohr
+    Siebeck.
+─ (1997), Klassische und philosophische Hermeneutik (1968), in:
+    Grondin (Hrsg.), Gadamer Lesebuch, Tübingen: Mohr Siebeck, S.
+    32-111.
+484                         《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+Gadamer, Hans-Georg. 1993. Truth and Method. 2d ed, translated by
+      Joel Weinsheimer and Donald G. Marshall. New York, NY:
+      Continuum.
+Geertz, Clifford. 1973. The Interpretation of Culures: Select Essays.
+      New York, NY: Basic Books, Inc.
+Grondin, Jean (2012), Einführung in die philosophische Hermeneutik
+      (1991), Darmstadt: Wissenschaftliche Buchgesellschaft.
+Hegel, G.W.F. (1837), Vorlesungen über die Philosophie der Geschichte,
+      Bd. 9, Berlin: Duncker & Humblot.
+─ (1979), Vorlesungen über die Geschichte der Philosophie. Erster
+      Teil, Frankfurt a.M.: Suhrkamp.
+─. 1974. Hegel’s Lectures on the History of Philosophy Vol. 3,
+      translated by Elizabeth Sanderson Haldane and Frances H. Simson.
+      London: Routledge.
+─. 1995. Lectures on the History of Philosophy Vol. 1, translated
+      by Elizabeth Sanderson Haldane. Lincoln, NE: University of
+      Nebraska Press.
+Hobbes, Thomas. 1839. Thomae Hobbes Malmesburiensis Opera
+      Philosophica Quæ Latine Scripsit Omnia: In Unum Corpus Nunc
+      Primum Collecta Studio Et Labore Gulielmi Molesworth Vol. 3,
+      edited by William Molesworth. London: Apud Joannem Bohn.
+Holmes, Oliver Wendell, Jr. 1881. The Common Law. Boston: Little,
+      Brown & Co.
+Jestaedt, Matthias (2008), Perspektiven der Rechtswissenschaftstheorie,
+      in: Jestaedt/Lepsius (Hrsg.), Rechtswissenschaftstheorie, Tübingen:
+      Mohr Siebeck, S. 185-206.
+Kant, Immanuel (1787), Kritik der reinen Vernunft (1781), 2. Aufl.,
+      Berlin: De Gruyter.
+─ (1797),           Die      Metaphysik   der   Sitten:   Metaphysische
+義理與方法                                                              485
+
+
+    Anfangsgründe der Rechtslehre, Ronigberg: Friedrich Ricolobius.
+─. 1991. The Metaphysics of Morals, translated by Mary J. Gregor.
+    Cambridge: Cambridge University Press.
+Kaufmann,      Arthur   (2011),     Rechtsphilosophie,   Rechtstheorie,
+    Rechtsdogmatik,     in:   Kaufmann/Hassemer/Neumann        (Hrsg.),
+    Einführung in Rechtsphilosophie und Rechtstheorie der Gegenwart,
+    8. Aufl., Heidelberg: C. F. Müller, S. 1-25.
+Kirchhof, Gregor/Magen, Stefan/Schneider, Karsten (Hrsg.) (2012), Was
+    weiß Dogmatik?, Tübingen: Mohr Siebeck.
+Kluge, Friedrich (2002), Methode, in: Seebold (Hrsg.), Etymologisches
+    Wörterbuch der deutschen Sprache, 24. durchgesehen und
+    erweiterte Aufl., Berlin/New York: De Gruyter, S. 556.
+Larenz, Karl (1971), Aufgabe und Eigenart der Jurisprudenz, JuS, S.
+    449-455.
+Larenz, Karl/Canaris, Claus-Wilhelm (1995), Methodenlehre der
+    Rechtswissenschaft, 3. Aufl., Berlin: Springer.
+Linsenmaier, Wolfgang (2020), Bewusste Rechtsfindung, RdA, S. 220-
+    226.
+Merezhko, Oleksandr (2015), Crimea’s Annexation by Russia –
+    Contradictions of the New Russian Doctrine of International Law,
+    ZaöRV 75, S. 167-194.
+Mill, John Stuart (1868), System der deduktiven und induktiven Logik
+    (1843), übersetzt von Jacob Heinrich Wilhelm Schiel, Altenmünster:
+    Jazzybee Verlag.
+─. 1882. A System of Logic, Ratiocinative and Inductive: Being a
+    Connected View of the Principles of Evidence and the Methods of
+    Scientific Investigation. 8th ed. New York, NY: Harper & Brothers,
+    Publishers.
+─ (1997), Zur Logik der Moralwissenschaften (1843), translated
+486                      《法的理性─吳庚教授紀念論文集》（2020年12月）
+
+
+
+      by Anro Mohr. Frankfurt a.M.: Vittorio Klostermann.
+─. 1988. The Logic of the Moral Sciences. Chicago, IL: Open
+      Court.
+Pavčnik, Marijan (2008), Das „Hin- und Herwandern des Blickes“, Zur
+      Natur der Gesetzesanwendung, Rechtstheorie 39, S. 557-572.
+Radbruch, Gustav (1999), Die Logik der Rechtswissenschaft (1932), in:
+      Dreier/Paulson    (Hrsg.),   Rechtsphilosophie,    Studienausgabe,
+      Heidelberg: C. F. Müller, S. 1-192.
+Reinalter, Helmut/Brenner, Peter J. (Hrsg.) (2011), Lexikon der
+      Geisteswissenschaften, Wien: Böhlau.
+Schlink, Edmund (1985), Ökumenische Dogmatik, Grundzüge, Bd. 2:
+      Schriften zu Ökumene und Bekenntnis, 2. Aufl., Göttingen:
+      Vandenhoeck & Ruprecht.
+Schopenhauer, Arthur (1819), Die Welt als Wille und Vorstellung,
+      Leipzig: Bibliographischen Institut & F. A. Brockhaus.
+Straßburger, Benjamin (2012), Die Dogmatik der EU-Grundfreiheiten,
+      Tübingen: Mohr Siebeck.
+Sunstein, Cass R. 2017. Interpreting the Constitution: An Interlude. Pp.
+      64-79 in Impeachment: A Citizen’s Guide. Cambridge, MA:
+      Harvard University Press.
+von der Pfordten, Dietmar (2013), Rechtsphilosophie: Eine Einführung,
+      München: C. H. Beck.
+Weber, Max (1976) Soziologische Grundbegriffe, in: Wirtschaft und
+      Gesellschaft, 5. Aufl., Tübingen: Mohr Siebeck, S. 1-30.
+─ (1985), Wissenschaft als Beruf, in: Winckelmann (Hrgs.), Max
+      Weber: Gesammelte Aufsätze zur Wissenschaftslehre, online
+      verfügbar unter http://www.zeno.org/nid/20011440449.
+Welker, Michael (2013), Juristische und theologische Dogmatik, in:
+      Aarnio/Hoeren/Paulson/Schulte/Wyduckel       (Hrsg.),      Positivität,
+義理與方法                                                                487
+
+
+    Normativität und Institutionalität des Rechts. Festschrift für Werner
+    Krawietz zum 80. Geburtstag, Berlin: Duncker & Humblot, S. 339-
+    360.
+Wesel, Uwe (1984), Juristische Weltkunde. Eine Einführung in das
+    Recht, Berlin: Suhrkamp.
+Wieacker, Franz (1970), Zur praktischen Leistung der Rechtsdogmatik,
+    in: Bubner/Cramer/Wiehl (Hrsg.), Hermeneutik und Dialektik, Bd.
+    II, Tübingen: J.C.B. Mohr, S. 311-336.
+

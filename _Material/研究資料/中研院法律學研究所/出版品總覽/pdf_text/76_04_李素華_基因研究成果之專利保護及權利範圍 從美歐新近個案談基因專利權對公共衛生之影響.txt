@@ -1,0 +1,2716 @@
+《2011 科技發展與法律規範雙年刊》 吳全峰主編
+ 基因研究成果之專利保護及權利範圍                           57
+臺北 中央研究院法律學研究所 專書（15）
+民國 101 年 12 月，頁 57-129
+
+
+                                        ＊
+    基因研究成果之專利保護及權利範圍
+    — 從美歐新近個案談基因專利權對公共衛生之影響
+
+
+                  李素華＊＊
+
+
+                   目 次
+ 壹、前言                 伍、基因專利權對公共衛生衝突
+ 貳、基因專利權對公共衛生制度         之調和方向—代結論
+   之重要性                一、專利權對公共衛生之衝突
+ 參、基因研究成果之專利適格性          有不同解決途徑
+  一、多數國家肯定基因之專利        二、專利法已明定基因專利權
+    適格性                  之限制規定
+  二、BRCA 基因專利權無效案      三、政府公部門或可適度介入
+  三、本文見解—基因應為專           或引導基因專利權之行使
+    利權所保護之發明           四、國際間陸續提出解決機制
+ 肆、基因專利權之權利範圍            以促進基因近用或限制專
+  一、基因專利權範圍之界定爭          利權
+    議—C-428/08案
+  二、本文見解：從基因發明之
+    性質界定基因專利權範圍
+
+
+
+
+＊  投稿日：2011年9月15日；接受刊登日：2012年7月12日。［責任校對：杜芸
+   珮、張家茹］ 。
+   本文初稿之部分內容發表於「第三屆科技發展與法律規範：健康與科學之人
+   權議題」學術研討會，2010年12月18日，中央研究院法律學研究所籌備處主
+   辦；感謝與談學者暨與會先進就本文所提出之寶貴建議。另，感謝審稿委員
+   提供之修改意見，筆者受惠良多，亦使本文論述更為周全。
+＊＊ 國立臺北大學法律學院法律學系副教授。
+58                2011 科技發展與法律規範雙年刊
+
+
+            摘 要
+  生醫產業研發之專利擴張問題，尤其是基因及基因檢測相關專
+利，近年來引發各界關注。前揭議題凸顯出專利法、公共衛生政
+策、醫學與法律間之互動與關連。本文分析美國及歐洲兩個重要個
+案，進而從醫學與專利法涉及之法律、科學及倫理等不同面向，探
+討專利權對於公共衛生究有正面或負面之影響。本文於最後一部分
+討論醫學領域之專利權限制問題，並建議未來應從專利法與公共衛
+生政策，思考如何建立適度限制專利權之機制。
+
+
+
+關鍵詞：專利、基因專利、BRCA 基因、生物技術專利、公共衛
+    生。
+基因研究成果之專利保護及權利範圍                                                                        59
+
+
+
+
+ The Protection and Scope of Patent Rights in
+              Human Genetics:
+       Case Studies on Gene Patents and Their Impact
+                      on Public Health
+
+
+                                  Su-Hua Lee＊
+
+                                     Abstract
+     The widespread pursuit of patents for innovations in the
+biomedicine industry, especially patents on gene and genetic testing, has
+aroused strong opinions from the public in recent years. This issue also
+implicates the proper roles of the patent law, public health policy,
+medical and legal professions. This Article analyzes two cases in the
+USA and Europe and explores whether these patent rights tend to have
+negative or positive impact on public health. Consideration is given to
+aspects of the legal, scientific and ethical dimensions of the intersection
+of medicine and patent law. The final section of this Article discusses the
+limitation of patent rights in the medical arena and advocates the
+development of the possible ways to balance the patent law system and
+public health policy in the future.
+
+
+KEYWORDS: patent, gene patent, BRCA gene, biotechnology patent,
+          public health.
+
+
+
+
+＊ Associate Professor, Department of Law, College of Law, National Taipei University.
+60                                                 2011 科技發展與法律規範雙年刊
+
+
+
+壹、前言
+
+         生物技術起源甚早，美國在1873年即有活生物體之專利申請
+     1
+案 ，近年來生物技術應用於公共衛生領域儼然成為趨勢，不論是
+在農糧作物或醫藥產品。例如：DNA 重組技術所產生的基因轉殖
+動物用於醫藥開發之臨床前試驗或提供藥物製造之原料2、基因轉
+殖動植物及其產品成為重要的農糧食品；又如，利用分子醫學
+(molecular medicine)相關技術檢測受試者是否帶有突變的上皮生長
+因子受體(epidermal growth factor receptor)，瞭解其罹患肺腺癌(lung
+adenocarinoma)之機率。在基因相關生技研究成果有無窮應用潛力
+及可能帶來龐大商業利益之誘使下，生技業者及科學家積極尋求專
+利權及其他智慧財產保護。起源於中世紀及從歐陸所發展的專利制
+度，承認發明人在一定期間享有排他性權利，成為鼓勵新技術發展
+之重要機制。同於其他技術領域，公共衛生領域之研究成果若無法
+獲得足夠的專利權保護，將減損發明人研發新醫藥與疾病治療方式
+之意願。然觀諸近四百年前所建立之專利制度，原先所設想及保護
+之發明態樣為機械裝置、物品或其他工藝性研究成果，新興之基因
+研究成果能否毫無疑義的適用既有制度，實為近年來諸多專利個案
+引發討論之主要原因。
+
+         屬於生命型態(life form)之基因是否為專利法所稱之發明，過去
+雖有爭議，惟美歐及多數國家均已承認其專利適格性，2010年美國
+紐約州地方法院(U.S. District Court, S.D. New York)審理之 BRCA 基
+因案再度引發各界討論。另外，相異於機械裝置，基因發明具有繁
+
+1    U.S. Patent No. 141,072 (issued July 22, 1873).
+2    例如：2009年初美國食品藥物管理局(Food and Drug Administration, FDA)核准
+     首件從基因轉殖動物所製造的藥物，Aaron Rowe, FDA to Evaluate Drugs Made
+     by Genetically Modified Goats, WILD SCIENCE (Jan. 8, 2009), http://www.wired.com/
+     wiredscience/2009/01/drugsfromgoats/; Andrew Pollack, F.D.A. Approves Drug from
+     Gene-Altered Goats, N.Y. TIMES (Feb. 6, 2009), http://www.nytimes.com/2009/02/
+     07/business/07goatdrug.html.
+基因研究成果之專利保護及權利範圍                                                                  61
+
+
+
+
+衍能力，基因轉殖動植物或其產物即便經過加工或其他不同步驟已
+完全改變原有物之型態或性質，卻仍能檢測得該基因之存在，例
+如：基因轉殖黃豆所製成之黃豆粉或豆腐，仍可測得專利保護之基
+因，於此情況應如何界定基因專利權之權利範圍、黃豆粉或豆腐是
+否仍為專利權效力所及，2010年歐洲法院(Court of Justice of the
+European Union, ECJ)就前揭議題作成重要決定。前揭美國及歐洲之
+基因專利爭議雖屬個案，惟所觸及者乃專利制度及公共衛生政策之
+核心：新興生物技術研究成果之專利保護、基因專利對醫藥及農糧
+近用之影響。專利法如何保護此等研究成果及應賦予之權利範圍為
+何，應回歸專利制度之本質思考，始能兼顧鼓勵創新研發與落實公
+共衛生政策。本文以美歐新近極具爭議之基因研究成果為例，探討
+生技發明之專利保護及權利範圍，並就基因專利權對公共衛生之衝
+突，提出可能的解決方向3。
+
+
+
+貳、基因專利權對公共衛生制度之重要性
+
+     1970 年 代 起 DNA 重 組 (recombinant DNA) 、 細 胞 融 合 (cell
+fusion)及組織工程(tissue engineering)等基因有關發明成為生物技術
+之核心後4，研究成果應用於公共衛生領域，包括醫藥產品及農糧
+作物，已為重要趨勢。在醫療應用上，由2008年之統計資料顯示，
+國際間排名前十大的生技公司，僅有名列首位之 Amgen（應用分
+子基因公司）是以生物技術起家及成立僅25年，其他均為知名醫藥
+
+3 鑑於我國現行專利法修正已於2011年12月21日由總統公布，施行日期為2013年
+  1月1日，本文就我國法之論述引用新修正之條文，並以「舊法」稱修正前之條
+  文。
+4 PHILIP W. GRUBB & PETER R. THOMSEN, PATENTS FOR CHEMICALS, PHARMACEUTICALS
+  AND BIOTECHNOLOGY 275 (5th ed. 2010); REAPING THE BENEFITS OF GENOMIC AND
+  PROTEOMIC RESEARCH 71 (Stephen A. Merrill & Anne-Marie Mazza eds., 2006),
+  available at http://www.nap.edu/catalog.php?record_id=11487#toc (last visited Jan.
+  31, 2012).
+62                                                2011 科技發展與法律規範雙年刊
+
+
+大廠5；觀察個別醫藥廠商之研發方向，亦可見相同趨勢，例如：
+必治妥施貴寶藥廠(Bristol-Myers Squibb) 2009年投入研發之產品
+中，生技產品即占三分之一6。20餘年來生物技術在醫藥領域之發
+展及應用後，已創造超過75種的藥品、疫苗及疾病檢測商品，改變
+臨床醫療實務7；2001年美國 FDA 核准上市之藥品中，高達60%為
+生物藥品(biopharmaceuticals) 8 ；2010年3月美國國會通過之健康照
+護改革法(Health Care Reform Act)，已直接明定生物相似性藥品
+               9
+(biosimilars) 之上市申請程序及保護事宜，由此可見生物技術在醫
+療領域之高度應用。
+
+      基因有關生物技術應用於農糧食品之重要性亦不遑多讓，例
+
+
+5    2008年全球十大生技公司之排名為：Amgen（應用分子基因公司）                                    、Roche（羅
+     氏藥廠）、Johnson & Johnson（嬌生集團）、Novo Nordisk（諾華藥廠）、Lilly
+     （禮來藥廠）、Sanofi-Aventis（賽諾菲安萬特藥廠）、Abbott（亞培藥廠）、
+     Merck KGaA（默克藥廠）              、Schering Plough（先靈葆雅藥廠，於2009年11月被
+     默克藥廠併購）、Wyeth（惠氏藥廠，已併入輝瑞藥廠）。IMS 2008 Health
+     Reports, http://imshealth.com/vgn/images/portal/CIT_40000873/17/54/840511910608_
+     biotech_slides_for_internet.pdf (last visited July, 16, 2009).
+6    R&D Highlights, BRISTOL-MYERS SQUIBB, http://www.bms.com/research/highlights/
+     Pages/default.aspx (last visited Jan. 31, 2012).
+7    Michael S. Mireles, An Examination of Patents, Licensing, Research Tools and the
+     Tragedy of the Anticommons in Biotechnology Innovation, 38 U. MICH. J.L. REFORM
+     141, 150 (2004).
+8    所謂的生物藥品，係指利用基因工程或細胞培養技術，在微生物、植物或動物
+     細胞製造所得的蛋白質（諸如細胞激素、生長激素、單株抗體）、胜肽或核酸
+     物質（諸如 DNA、RNA、antisense）                   ，其具有疾病治療或體內檢測之功能。何
+     孟璁，論生物相似性藥品之上市規範與智慧財產保護，臺灣大學科際整合法律
+     學研究所碩士論文，頁9（2009年）。我國藥品查驗登記審查準則第條第3款關
+     於「生物藥品」之定義為：依據微生物學、免疫學學理製造之血清、抗毒素、
+     疫苗、類毒素及菌液等。王世晞，製藥產業之演進、現況與趨勢，臺灣大學商
+     學研究所碩士論文，頁7（2003年）                     。
+9    生 物 相 似 藥 品 係 指 ， 以 已 核 准 上 市 之 生 物 藥 品 為 對 照 藥 品 (reference
+     pharmaceuticals)，且與對照藥品具有生物相似性之藥品，亦即能達到相似的代
+     謝反映與療效。國內外文獻對於生物相似性藥品之用詞不一，有稱為生物仿製
+     藥品(follow-on biologics)、生物可替換性藥品(biocomparables)或生技學名藥
+     (biogenerics)；美國健康照護改革法採用生物相似性或生物可替代性之名詞。
+     何孟璁（註8）         ，頁10；鄭師安，模糊未明之歐美生技學名藥規範，收於：財團
+     法人資訊工業策進會編，生技法律解碼，頁206（2005年）                                  。
+基因研究成果之專利保護及權利範圍                                                                      63
+
+
+
+
+如：1994年美國 Calgene 公司的佳味(Flavr Savr)蕃茄，乃科學家利
+用基因轉殖技術抑制蕃茄內促進熟軟酵素的 PG 基因，佳味蕃茄質
+地因而較堅實，可降低採收、運輸或加工處理過程之碰傷變質。又
+如，美國孟山都公司(Monsanto)自1996年推出抗除草劑之基改黃
+豆、玉米；杜邦及孟山都公司上市有益心血管的黃豆油、更容易消
+化的黃豆；瑞士科學家利用基因工程培養出黃金米(Golden Rice)之
+新品種稻米，其富含胡蘿蔔素，可能用來解決第三世界營養不良問
+題10。在作物栽種、動物畜養、食品製造過程中利用生物技術，具
+有增加產量、降低有害農藥化學物質使用之優點，亦能控制產品特
+性與品質。根據國際間重要農糧組織 ISAAA (International Service
+for the Acquisition of Agri-Biotech Applications)統計，2010年全球基
+改作物種植面積高達10億公頃，全球90%的貧瘠農地乃栽種基改作
+物，於開發中國家種植之成長幅度甚而高達48%，預計2015年以前
+其栽種基改作物之面積將超過已開發國家11。
+
+      同於其他技術領域，基因有關之生技研究成果亦仰賴專利權之
+保護，專利制度能確保發明人在市場上享有排他權，其為研究人員
+或生技公司獲利及填補研發成本之基礎12，研究成果若無專利保護
+而任由其他人搭便車(free-riding)，率先投入研發者不僅難以回收成
+本，亦無法經由授權或讓與而獲得足夠的資金及持續投入研發；唯
+
+
+10 古德業，各主要國家與國際經貿組織對基因改造產品(GMO)之管理現況，農政
+   與農情，94期，頁29（2000年）；李志誠，基因改造食品之展望，生物資源生
+   物技術，2卷2期，頁11（2000年）                  。其他關於 GM 技術應用在農業、食品之著
+   名個案，參見 GMO 面面觀，http://gmo.agron.ntu.edu.tw/（最後瀏覽日：2012年
+   1月31日）     。
+11 Global Status of Commercialized Biotech/GM Crops: 2010, ISAAA, http://www.
+   isaaa.org/resources/publications/briefs/42/executivesummary/default.asp (last visited
+   Jan. 29, 2012).
+12 Ronald L. Desrosiers, The Drug Patent Term: Longtime Battleground in the Control
+   of Health Care, 24 NEW ENG. L. REV.115, 124-25 (1989); Dean Baker, Bird Flu Fears:
+   Is There a Better Way to Develop Drugs? 2 (Oct. 2005) (CEPR report), available at
+   http://www.cepr.net/documents/publications/intellectual_property_2005_10.pdf.
+64                                                 2011 科技發展與法律規範雙年刊
+
+
+有足夠的專利權或其他智慧財產保護，規模較小之生技公司始能向
+創業投資(venture capital)募集後續研發所需之資金13。因此，健全
+的專利制度可鼓勵及確保生技及醫藥領域之創新研發、吸引投資；
+明確的專利政策，亦使研究人員及產業界有依循標準14，最終將提
+升生物技術水準，促進醫療方式之多元化發展，有益於公共衛生政
+策之實現。
+
+     使基因相關生技發明享有專利保護雖為達成公共衛生任務之重
+要手段，惟過度強調專利權又可能不利於公共衛生政策之落實。詳
+言之，專利排他權所滿足的公共利益包括促進科技進步、有效競爭
+及整體經濟利益，除此之外，由於生技研究成果在醫藥及農糧應用
+最為重要，從而基因專利權最直接之公共利益即在公共衛生領
+域15。基因發明准予專利後，專利權行使會直接影響公共衛生政策
+之實現，例如：農糧及醫藥研究成果將受制於少數人或因排他權而
+限制產量或生產，甚而不利於醫療活動或糧食近用、加重國家的醫
+藥財政支出。專利制度一方面要賦予發明人排他權及研發誘因，以
+促使公共衛生領域之研究成果多元化；然不當之專利保護或排他權
+行使，又對公共衛生有不利影響，甚而無法保障「健康人權」
+                 16
+(right to health) 。前揭基因相關生技專利權與公共衛生之衝突，即
+
+
+13 黃文鴻、謝季峰，藥品創新與專利保護關聯之探討，政大智慧財產評論，2卷2
+   期，頁27（2004年）          ； FAIR TRADE COMMISSION, TO PROMOTE INNOVATION: THE
+   PROPER BALANCE OF COMPETITION AND PATENT LAW AND POLICY ch. 3, at 1, 9 (2003),
+   available at http://www.ftc.gov/os/2003/10/innovationrpt.pdf.
+14 IRINA HARACOGLOU, COMPETITION LAW AND PATENTS: A FOLLOW-ON INNOVATION
+   PERSPECTIVE IN THE BIOPHARMACEUTICAL INDUSTRY 25-26 (2008).
+15 Charles Allen Black, The Cure for Deadly Patent Practices: Preventing Technology
+   Suppression and Patent Shelving in the Life Sciences, 14 ALB. L.J. SCI. & TECH. 397,
+   429 (2004).
+16 近年來，國際間已逐漸承認「健康人權」之概念，WHO 及越來越多的人權組
+   織與學者認為，因智慧財產權行使而阻礙藥品或醫療方式近用，已構成健康人
+   權之侵害，因而倡導跨國製藥企業應肩負藥物近用之人權責任。詳細討論參
+   見，吳全峰，論藥物近用與跨國製藥企業之人權責任，第三屆「科技發展與法
+   律規範：健康與科學之人權議題」研討會，中央研究院法律學研究所籌備處主
+基因研究成果之專利保護及權利範圍                                                                   65
+
+
+
+
+乃當前智慧財產及公共衛生領域學者與實務亟欲解決之議題17。基
+因研究成果之專利適格性及專利權之權利範圍界定，即屬其中最重
+要者。
+
+
+
+參、基因研究成果之專利適格性
+
+     歷經多年爭議，在多數國家承認基因為專利保護之研究成果
+後，2010年3月29日美國紐約州地方法院於 Association for Molecular
+Pathology, et al. v. United States Patent and Trademark Office, et al.
+案18，否定 BRCA 基因專利之有效性，再度引發各界爭論基因之研
+究成果為發現(discovery)或發明、是否具備專利適格性；本案上訴
+後由聯邦巡迴上訴法院（United States Court of Appeals for the Federal
+                                   19
+Circuit，下稱 CAFC）受理，2011年7月29日二審終告宣判 。
+
+一、多數國家肯定基因之專利適格性
+
+    （一）基因專利現況
+     基因或其他生技研究成果諸如生物材料(biological materials)20
+能否准予專利問題，美國在最高法院(Supreme Court) Diamond v.
+
+
+                ；HARACOGLOU, supra note 14, at 71-98.
+   辦（2010年12月18日）
+17 例如：德國2005年所修正之專利法，重點即包括基因發明之專利保護、基因專
+   利權之權利範圍及權利耗盡問題；新近我國通過之專利法修正，亦有相當多的
+   修正內容是針對生物技術及醫藥發明之專利保護。
+18 Ass’n for Molecular Pathology v. United States Patent and Trademark Office, 702 F.
+   Supp. 2d 181 (S.D.N.Y. 2010).
+19 本案目前仍由美國法院審理中，本文僅就本案至2011年7月底之實務發展進行
+   討論。
+20 所謂的生物材料，係指含有遺傳訊息，並可自我複製或於生物系統中複製之任
+   何物質，包括載體、質體、噬菌體、病毒、細菌、真菌、動物或植物細胞株、
+   動物或植物組織培養物、原生動物、單細胞藻類。經濟部智慧財產局，專利審
+   查基準，頁2-11-1（2007年）          。
+66                                                     2011 科技發展與法律規範雙年刊
+
+
+             21
+Chakrabarty 案 之影響下，自始即肯定之。基因乃包含特定遺傳訊
+息之一段去氧核醣核酸(deoxyribonucleic acid, DNA)，美國專利商標
+局(United States Patent and Trademark Office, USPTO)認為，只要是
+以「已分離之基因」為形式提出專利申請(be claimed in the form of
+“isolated DNA”)，即具備專利適格性。蓋其與一般化學領域之化合
+物發明(chemical compound)並無不同，藉由生物技術將生物體中之
+基因定序及純化後，其本質已完全轉換(transforming)，成為專利保
+護之標的22。惟除了美國外，基因專利在多數國家向為高度爭議問
+題，例如：基因或其他生物材料之研究成果為發明或發現、專利申
+請時應否明定特別要件或要求。經過一番論戰後，諸多國家始相繼
+承認其能獲准專利，諸如歐盟執委會(European Commission)至1998
+年之98/44/EC 生物技術發明保護指令（下稱98/44/EC 指令）23，始
+肯定基因及其他生物材料之專利保護，2005年間德國24及比利時25
+先後修正內國專利法使基因研究成果能准予專利。因此，目前在美
+歐日、我國及其他多數已開發國家，欲就基因及其他生物材料准予
+專利權，應無疑義；專利申請所應該當之產業利用性、新穎性及進
+步性要件26與充分揭露而可據以實施要求27，在專利審查實務亦已
+建立明確的標準28。
+
+
+21 Diamond v. Chakrabarty, 447 U.S. 303 (1980).
+22 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 185；謝銘洋，生物技術之智慧
+     財產權保護，收於：科技發展之智慧財產權議題，頁62-64（2005年）
+                                       。
+23 Directive 98/44/EC of the European Parliament and of the Council of 6 July 1998 on
+     the legal protection of biotechnological inventions, 1998 O.J. (L 213) 13-21.
+24 BGBl. Teil I/2005, S. 146 ff. 2005年1月21日公布、2005年2月28日生效施行。
+25 Act of 28 April 2005 to modify the Act of 28 March 1984 on Invention Patents, with
+   Regard to the Patentability of Biotechnological Inventions, Official Gazette, 13 May
+   2005。轉引自 Geertrui Van Overwalle, The Implementation of the Biotechnology
+   Directive in Belgium and Its After-Effects: The Introduction of a New Research
+   Exemption and a Compulsory Licence for Public Health, 37 INT’L REV. INDUSTRIAL
+   PROPERTY & COPYRIGHT L. 889, 890 n.8 (2006).
+26 我國專利法第22條參照。
+27 我國專利法第26條第1項參照（舊法第26條第2項）                           。
+28 關 於 我 國 之 專 利 審 查 標 準 ， 詳 見 智 慧 局 於 2007 年 8 月 6 日 以 經 授 智 字 第
+基因研究成果之專利保護及權利範圍                                                                    67
+
+
+
+
+     實務上目前已核准甚多的基因專利權，例如：糖尿病基因
+                             29
+(diabetes gene or AGT gene)專利 、憂鬱症基因(depression gene or
+             30
+APAF1 gene)專利 。根據統計，1980年至1990年間基因專利數量暴
+增31，1981年到1995年間全球已准予超過一千兩百件的人類基因專
+利。以整體數量而言，人類基因組(genomic)係由約三萬個基因所構
+成32，23,688個基因已定序確認其功能，並由 NCBI(National Center
+for Biotechnology Information)收錄於資料庫，其中近20%亦即4,384
+個基因在美國受到專利保護，分屬一千一百多位專利權人 33 。甚
+者，若將範圍擴大到與基因相關的專利，包括基因組或蛋白質
+(protein)之發明，1971年到2006年所准予之專利權數量高達三萬三
+千件34。以單一基因來看，可能不只涉及一件專利權，重要疾病之
+基因甚而由數個專利權所涵蓋，與乳癌及卵巢癌形成有關之 BRCA
+基因即為一例。
+
+    （二）BRCA 基因相關發明獲准專利概況
+     1990年加州柏克萊大學(University of California, Berkeley) Dr.
+King 教授帶領的研究團隊首先發現，乳癌之發生與特定基因有密
+
+
+   09620030750號令修正施行之生物相關發明專利審查基準。
+29 U.S. Patent No. 7,374,884 (issued May 20, 2008).
+30 U.S. Patent No. 7,052,853 (issued May 30, 2006).
+31 Stefan Lovgren, One-Fifth of Human Genes Have Been Patented, Study Reveals,
+   NAT’L GEOGRAPHIC NEWS (Oct. 13, 2005), http://news.nationalgeographic.com/news/
+   2005/10/1013_051013_gene_patent.html.
+32 LOUISE BERNIER, JUSTICE IN GENETICS: INTELLECTUAL PROPERTY AND HUMAN
+   RIGHTS FROM A COSMOPOLITAN LIBERAL PERSPECTIVE 94 (2010).
+33 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 209; Lovgren, supra note 31; Kate
+   Ravilious, Private Companies Own Human Gene Patents, THE GUARDIAN (Oct. 14,
+   2005), http://www. guardian.co.uk/print/0,3858,5309115-103531,00.html.
+34 GRUBB, supra note 4, at 101. 1990年以前，每年核准之基因專利權數量未超過500
+   件，但1991年起每年獲准數量大幅攀升，至2001年達到最高峰，當年度核准
+   4,500百件；其後基因專利數量開始緩慢下降。Id. at 102-03, 110. 2001年起基因
+   專利數量下滑之原因，應與美國、英國等國家相繼就基因發明之產業利用性及
+   充分揭露要求採較嚴格及明確之標準有關。BERNIER, supra note 32, at 94 n.30.
+68                                                     2011 科技發展與法律規範雙年刊
+
+
+切關連；此等生醫研究成果受到各界矚目。在美國政府科技計畫與
+創投公司之經費資助下，位於猶他州鹽湖城的 Myriad 生技公司
+（Myriad Genetics Inc.，下稱 Myriad）、猶他州大學研究基金會
+(University of Utah Research Foundation)及其他研究機構開始尋找誘
+發乳癌之特定基因35。經過多年對摩門教(Mormon Church)教徒之基
+因分析與研究，Myriad 於1994年9月及1995年11月先後確定 BRCA1
+基 因 、 BRCA2 基 因 與 乳 癌 發 生 之 關 連 性 ， 此 等 基 因 變 異 將 使
+BRCA 蛋白的功能產生缺陷或受到抑制，致使病患罹患乳癌或其他
+癌症。研究人員發現，同時帶有 BRCA1及 BRCA2基因變異者，有
+高達85%的機率會罹患早發性乳癌，罹患卵巢癌之機率亦達50%；
+臨床上針對50歲以下婦女之調查顯示，帶有 BRCA1及 BRCA2基因
+之比例分別為50%及20% 36 。Myriad 旋即針對前揭研究成果之
+BRCA 基因及檢測方法提出專利申請，1997年起陸續在美國、加拿
+大、歐洲專利局(European Patent Office, EPO)37、澳洲、紐西蘭及日
+本38獲准專利39；專利權雖由 Myriad 及參與本計畫之研究機構40共
+
+35 關於美國聯邦政府資助研發及參與研究機構間之合作關係，詳見 Ass’n for
+     Molecular Pathology, 702 F. Supp. 2d at 200-03.
+36 Cancer Risk and Abnormal Breast Cancer Genes, BREASTCANCER.ORG, http://www.
+     breastcancer.org/risk/genetic/bcrisk_abnrml_genes.jsp (last visited Jan. 31, 2012).
+37 EPO 核 准 之 專 利 ， 包 括 主 要 內 容 為 方 法 發 明 之 699,754 專 利 (method for
+   diagnosing a predisposition for breast and ovarian cancer)，以物品發明為主之專利
+   權則為705,902專利(17q-Linked breast and ovarian cancer susceptibility gene)及
+   705,903專利(in vivo mutations and polymorphisms in the 17q-linked breast and
+   ovarian cancer susceptibility gene)。由於 EPC 公約第53條（c）項明定，人類或
+   動物之手術、治療及診斷方法(methods for treatment of the human or animal body
+   by surgery or therapy and diagnostic methods)不予專利，因此，2001年 EPO 核准
+   Myriad 以檢測方法為標的之699,754專利後，諸多歐洲研究機構，包括 French
+   Institute Curie、Belgian Society for Human Genetics 主張該專利具無效事由，認
+   為其申請專利範圍構成不予專利之醫療方法。Myriad 及質疑專利有效性者在
+   EPO 的異議部門(Opposition Division)及技術上訴委員會(Technical Board of
+   Appeal, TBA)歷經7年攻防，2008年11月17日 EPO 接受 Myriad 所修正之申請專
+   利範圍，維持 BRCA 檢測方法之專利有效性。BRCA 基因相關發明在歐洲專利
+   之爭議，參見李素華，從 BRCA1省思專利制度對基因檢測發明之專利保護，
+   收於：謝銘洋編，基因體醫學研發創新與智慧財產權，頁159-182（2010年）                                。
+38 日本特許廳(Japan Patent Office)核准之三件 BRCA 基因專利：3241736專利
+基因研究成果之專利保護及權利範圍                                                                 69
+
+
+
+
+有，但專屬授權 Myriad，由其對外實施專利保護之發明。
+
+     觀諸 BRCA1及 BRCA2基因在美國獲准之專利權，有以物品為
+標的之物品發明，亦有以操作步驟及程序為標的之方法發明，同一
+專利案可能同時包含物品及方法發明，僅於不同的請求項中主張。
+
+二、BRCA 基因專利權無效案
+
+   （一）案件緣起
+  2009年5月12日以美國數個醫師團體、醫療研究機構、女性人
+道組織41與六名乳癌病患（以下簡稱原告）為首，共同在紐約州地
+方法院對 USPTO、Myriad 及猶他州大學研究基金會（以下簡稱被
+告）起訴，質疑 USPTO 所核准及由 Myriad 所擁有 BRCA 基因相
+關專利權之適法性(legality)及合憲性(constitutionality)。原告主張，
+系爭七個專利之權利範圍涵蓋 BRCA1及 BRCA2基因本身、檢測或
+偵測 BRCA 基因變異之方法，准予此等專利違反如下法律：(1) 專
+利法第101條、(2) 憲法第1條第8項第8款、(3) 憲法第一修正案及
+第 十 四 修 正 案 (The First and Fourteenth Amendments of the
+                                      42
+Constitution)，因而請求法院宣告系爭專利無效 。
+
+   (substance patent for BRCA1)、3455228專利(substance patent for BRCA2)及
+   3399539 專 利 (diagnosis method using BRCA1) 。 轉 引 自 Koichi Sumikura,
+   Intellectual Property Rights Policy for Gene-Related Inventions - Toward Optimum
+   Balance between Public and Private Ownership, in THE ROLE OF INTELLECTUAL
+   PROPERTY RIGHTS IN BIOTECHNOLOGY INNOVATION 73, 75 n.2 (David Castle ed.,
+   2009).
+39 MATTHEW RIMMER, INTELLECTUAL PROPERTY AND BIOTECHNOLOGY INVENTIONS 188
+   (2008).
+40 其他共有人包括：Centre de Rechèrche du Chul, the Tokyo Cancer Institute, Endo
+   Rechèrche, Inc. of Quebec, HSC Research & Development Limited Partnership of
+   Toronto 及 Trustees of the University of Pennsylvania.
+41 包括：分子病理協會(Association of Molecular Pathology)、美國基因醫學協會
+   (American College of Medical Genetics)、美國臨床病理協會(American Society for
+   Clinical Pathology)、美國病理師協會(College of American Pathologists)及乳癌人
+   道團體(Breast Cancer Action)。
+42 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 184.
+70                                   2011 科技發展與法律規範雙年刊
+
+
+       原告於起訴書中詳列應屬無效之七個專利權的各該請求項：(1)
+5,747,282專利（282專利）請求項1、2、5、6及7；(2) 5,837,492專
+利（492專利）請求項1、6及7；(3) 5,693,473專利（473專利）請求
+項1；(4) 5,709,999專利（999專利）請求項1；(5) 5,710,001專利
+（001專利）請求項1；(6) 5,753,441專利（447專利）請求項1；(7)
+6,033,857專利（857專利）請求項1及2。原告逐一指出前揭申請專
+利範圍中，有哪幾個請求項構成自然產物、屬於抽象概念、違反憲
+法第一及第十四修正案或憲法第1條第8項第8款之核心價值，主張
+該等專利權無效。
+
+       鑑於本案判決及上訴審 CAFC 之見解，勢必影響美國實務關於
+基因及生物技術研究成果之專利政策，亦將對其他基因及基因檢測
+專利權之有效性造成衝擊，波及發展中的個人化醫療(personalized
+medicine)產業，因此，此一訴訟提起後，馬上引發各界關注，除了
+兩造當事人外，各有支持原告及被告的法庭之友(amici curiae)提出
+書狀陳述其立場與理由43。
+
+     （一）原告主張—基因專利不利於疾病預防與治療
+       原告於訴狀中質疑 USPTO 長久以來之基因專利政策，並深入
+論述系爭專利應宣告無效之原因。首先，憲法第一修正案禁止政府
+限制人民之思想及知識自由。基因本身帶有遺傳訊息，其性質迥異
+於自然界所發現之化學物質(chemical substance)；以分離及定序形
+式呈現之基因，其特性與存在於生物體之基因並無差異，原本所帶
+有之遺傳訊息亦未有任何改變，從而基因根本不具備專利法第101
+條明定之專利適格性。同於其他基因研究成果，BRCA 基因早就存
+在人體及自然界，因聯邦政府經費資助及其他研究人員共同努力，
+始知悉其與乳癌發生之關連性，因此，Myriad 根本沒有發明、創
+
+
+43 關於原被告之法庭之友及其主張，參見 Ass’n for Molecular Pathology, 702 F. Supp.
+     2d at 190-92.
+基因研究成果之專利保護及權利範圍                                                      71
+
+
+
+
+造或以任何方式建構出 BRCA 基因44。BRCA 基因與乳癌有關之事
+實為自然產物(products of nature)，與「相對論」
+                                、「地心引力」
+                                      、「地
+球是圓的」或其他自然法則(laws of nature)並無二致。觀諸系爭專
+利之申請專利範圍，不僅涵蓋自然產物、自然法則、自然現象
+(natural phenomena)、抽象概念(abstract ideas)及基礎的人類知識或
+思想(basic human knowledge or though)，且其中五個專利之申請專
+利範圍涉及對基因序列(gene or gene sequence)之解讀與結論之獲
+致，屬於抽象的心智歷程(abstract metal process)45。基因本身乃帶
+有遺傳訊息之自然產物，直接使其准予專利，將限制資訊之自由流
+通，因而系爭專利權構成人民思想及知識自由之限制。除此之外，
+由於基因本身乃自然產物，專利制度之基本原則乃不予自然法則、
+自然產物或抽象概念受到保護，從而系爭專利權違反專利法第101
+條。
+
+      原告進一步主張，准予系爭專利不僅無助於科學技術之提升，
+反而造成阻礙。生醫領域之研究活動，研究人員慣常分享彼此所發
+現的基因物質及遺傳訊息，惟礙於基因專利之排他權，其他研究機
+構無法自由近用 BRCA 基因，使從事 BRCA 基因相關之科學技術
+研究受到限制，亦阻礙 BRCA 檢測或診斷方法之臨床應用研究。
+另外，BRCA 基因獲准專利後，其他研究人員即便研發出更好或成
+本更低的 BRCA 基因變異檢測方法，亦無法在臨床上應用，蓋該
+等方法之操作必然涉及 BRCA 基因而構成專利權之侵害。學者針
+對全美重要實驗室負責人之實證調查顯示，礙於基因專利或授權繁
+雜，有高達53%之研究機構決定停止新臨床檢測發明之研發，67%
+受訪者認為基因專利降低其從事研發之意願，主張專利權延緩或限
+制研究之比例亦達46%。因 BRCA 基因相關專利權而阻礙或限制研
+
+
+44 原告援引不同學者之實證調查，主張有高達67%或63%基因專利係由美國聯邦
+   政府經費資助所產生。Ass’n for Molecular Pathology, 702 F. Supp. 2d at 201.
+45 Id. at 185-86.
+72                        2011 科技發展與法律規範雙年刊
+
+
+發之個案同樣不勝枚舉，實證調查顯示，因 BRCA1及 BRCA2專利
+而不得不終止研究之比例最高。再以 Myriad 與 BIC (Breast Cancer
+Information Core)互動為例，BIC 係為促進乳癌資訊公開及交流之
+跨國界組織，此等合作關係有助於生醫及臨床醫學領域之乳癌研究
+與治療，然 Myriad 拒絕提供 BRCA 變異相關資訊，原告指出，過
+去兩年 Myriad 未曾提供 BIC 任何資訊46。觀諸美國國會在1790年
+制定專利法，係因憲法第1條第8項第8款賦予國會權力，國會所制
+定專利法之核心為：鼓勵實用技術之進步、在有限期間內賦予發明
+人排他權。然系爭研究成果獲准專利及使發明人享有排他權後，並
+未達到前揭憲法條文所揭示之核心價值，亦有違專利制度係為鼓勵
+創新研發之立法意旨。
+
+      原告指出，依據美國憲法第十四修正案之內容，在無法定程序
+下不能剝奪任何人的生命、自由或財產。系爭研究成果獲准專利
+後，權利人恣意決定實施發明之高額付費標準，其他研究機構或醫
+療院所即便有能力或能以較合理價格提供 BRCA 基因檢測服務，
+亦受限於專利排他權而不得為之，若無完善的保險支持，乳癌病患
+或潛在罹病之高危險群根本無法負擔權利人所主張之 BRCA 基因
+變異檢測費用。對於已被醫師認定罹患乳癌或屬於高危險群之病
+患，同樣受限於 BRCA 基因及檢測專利權，無法在作成醫療決定
+前尋求其他醫學意見(second opinion)，例如：由其他機構再次檢測
+以確認是否帶有 BRAC 變異基因及應否採取切除乳房或其他侵入
+性的預防或治療措施47。因此，以專利權保護 BRCA 基因相關研究
+成果，將危急或甚而剝奪乳癌患者及潛在患者之生命，違反美國憲
+法第十四修正案。
+
+
+
+
+46 Id. at 208-10.
+47 Id. at 206-07.
+基因研究成果之專利保護及權利範圍                               73
+
+
+
+
+    （三）被告主張—基因專利有助於新醫療技術之發展
+      對於原告之主張，被告 Myriad 反駁之，其認為基因專利並未
+限制人民之思想及知識自由，亦未違反專利法第101條專利適格性
+之規定。專利制度賦予發明人一定期間的排他權，以換取發明人在
+申請專利時充分揭露及公開技術資訊，因而擴展公共財，促進思想
+與知識之自由流通。Myriad 從未反對以 BRCA1或 BRCA2為標的所
+進行之研究活動，迄今已有超過一萬八千名科學家針對 BRCA1及
+BRCA2發表超過五千六百份及三千份之研究報告，顯見 BRCA 基
+因專利權於此技術領域所達到之資訊流通功能。對研究人員而言，
+基因專利權在獲取研究經費及資金挹注、促進研究成果商業化發展
+與應用，扮演不可或缺的角色。根據 BIO 對其150名會員（亦即生
+技公司）之實證調查，多數(77%)受訪者迄今尚未擁有已核准上市
+之產品，估計至少需再投入5至15年時間及超過一億美金費用始能
+開發出商業化產品，其中僅有相當微小比例之研究活動能獲得聯邦
+政府的經費資助，絕大多數的生技公司仍需仰賴私部門之投入，此
+與 BRCA1及 BRCA2基因研發過程所面臨的問題，如出一轍。基因
+專利權本身提供研發誘因，亦有助於獲取創投或其他私部門之資金
+挹注。基因相關研究成果若無法受到專利權保護，研究活動將因資
+金欠缺而終止，基因檢測或其他有助於公共衛生之產品或技術，亦
+無法進入市場或臨床應用48。
+
+      Myriad 亦反駁基因專利權限制科學技術研究或阻礙資訊公開
+交流之主張，Myriad 認為，其所提供的 VUS (variants of uncertain
+significance)檢測報告詳列 BRCA 基因變異資訊，研究人員近用
+VUS 檢測報告內容並無任何困難；Myriad 甚而將檢測結果及相關
+資訊建立資料庫，使從事 BRCA 或癌症研發之研究人員能近用，
+
+
+
+48 Id. at 210-11.
+74                                2011 科技發展與法律規範雙年刊
+
+
+亦有助於研發其他替代性及改良的基因檢測發明 49 。被告指摘
+Myriad 過去2年對 BIC 未有任何貢獻，實則其已提供超過兩萬筆資
+料，成為 BIC 資料庫最大的貢獻者。Myriad 網站所公開之 BRCA1
+及 BRCA2檢測數據與研究成果，是目前最有系統及完整的資料
+庫，各該資訊可由全世界各地之研究人員自由獲取及利用；相較於
+此，多數由學術領域研究人員所運作之檢測實驗室則主張，除非是
+符合臨床試驗規範所進行之檢測，否則無須分享基因檢測之數據與
+資料50。
+
+      關於病患就醫權益是否受到侵害、BRCA 基因專利是否阻礙替
+代性技術研發與應用問題，被告否認之，主張其一直以來即提供高
+品質的基因檢測產品與服務，確保檢測結果之正確性，以使病患獲
+得最完善的醫療照護；由 Myriad 所進行的 BRCA 檢測步驟均屬必
+要及不可或缺的，亦為業界所公認之模範標準(golden standard)檢測
+程序。觀諸當前之臨床實務，未見其他較 Myriad 品質更佳之檢測
+產 品 或 服 務 ； 另 一 個 廣 泛 使 用 的 MLPA (Multiplex Ligation
+Dependent Probe Amplification)乳癌基因檢測套組(kits)，迄今尚未取
+得美國 FDA 之上市核准，因而僅能用於學術或醫學研究範疇。
+Myriad 致力研發，以滿足生醫研究機構及臨床醫療上對於 BRCA
+基因之檢測需求，達到各界期待51。被告認為，就精準的檢測結果
+重複進行基因檢測，構成資源之浪費；即便如此，Myriad 從未反
+對病患尋求其他醫療機構或醫療人員就既有的檢測報告再提供醫學
+意見，亦不排除由其他生醫公司或實驗室重新檢測，仍有為數不少
+之機構取得 Myriad 授權而能進行 BRCA 基因檢測，包括芝加哥大
+學 基 因 檢 測 服 務 實 驗 室 (University of Chicago Genetic Services
+Laboratories) 及 耶 魯 基 因 檢 測 實 驗 室 (Yale DNA Diagnostic
+
+
+49 Id. at 207.
+50 Id. at 211.
+51 Id. at 206-07.
+基因研究成果之專利保護及權利範圍                                                    75
+
+
+
+             52
+Laboratories) 。因此，原告之主張並不可採，無任何事由影響系爭
+專利之有效性。
+
+  （四）地方法院—否定基因之專利適格性
+   觀諸當事人及法庭之友立場，紐約州地方法院認為原、被告意
+見極為分歧，最大爭議在於：(1)從生物體分離之基因是否為專利保
+護之標的，亦即該等基因在本質上是相同或相異於自然界所發現之
+化學物質；(2)比較已知基因變異與受檢者基因之過程，是否構成抽
+象的心智歷程，因而使原告之基因檢測方法不具備專利適格性。法
+院最後採納原告主張，就當事人爭執之系爭專利有效性問題，不論
+是物品或方法發明，逐一審視後認定，系爭專利違反憲法第1條第1
+項第8款及憲法第一修正案而無效。
+
+   以下僅就判決中與本文討論有關之基因專利權部分，亦即關於
+BRCA1基因之282專利及492專利、BRCA2基因之492專利，詳述法
+院見解53。
+
+    1. 美國專利法第101條之適格標的
+
+   依據美國專利法第100條及第101條規定，關於方法(process)、
+製品(manufacture)、機器(machine)及物之組成(composition of matter)
+的發明或發現，均為專利保護之標的。觀諸最高法院歷來見解，咸
+認為國會在立法上欲使專利法有較廣之適用範圍，惟即便如此，能
+
+52 Id. at 207.
+53 本案關於基因分析及比較之方法專利權部分，法院亦否定其有效性，主要是依
+  據美國法院歷來就方法專利標的適格之判斷標準：「機器或轉變」標準
+  (machine-or-transformation test)。2008年10月底 CAFC 在 In re Bilski 案全院聯席
+  (en banc)審理判決中，重申以此標準判斷方法發明是否為專利保護標的。
+  BRCA 檢測方法適用前揭判斷標準後，即可推導出系爭方法不能獲准專利之結
+  論，蓋其不符合專利所保護方法發明之定義。另外，282專利之部分請求項乃
+  關於比較細胞生長速度的方法發明，法院認為申請專利範圍所揭示的步驟及程
+  序，僅為科學方法之應用，非屬專利保護之方法發明，該部分專利權亦應無
+  效。
+76                                                 2011 科技發展與法律規範雙年刊
+
+
+獲 得 專 利 保 護 之 標 的 非 漫 無 限 制 。 例 如 ： 科 學 原 則 (scientific
+principles)、自然法則、自然現象、自然產物、抽象概念、抽象的
+心智歷程或抽象的智慧概念(abstract intellectual concepts)不屬於專利
+法第101條明定之標的，其乃發展任何科學及技術創作之基本工具
+(basic tools of scientific and technological work)；立法政策上必須否
+定其專利適格性之理由在於：使其享有排他權不僅無助於提升科學
+及實用技藝之進步，甚而造成阻礙。最高法院即便在 Diamond v.
+Chakrabarty 案肯定活生物體(living organism)可受到專利保護，卻
+否定自然產物之專利適格性，從而單純發現自然產物或化學物質，
+仍不能獲准專利54。
+
+     另外，參酌專利法第101條規定，適格標的、新穎性及實用性
+乃三個截然無關的因素，適格標的乃研究成果能否准予專利之首要
+判斷，先於實用性與新穎性之認定；法院在判斷研究成果之具備專
+利適格性時，不僅無須考量該研究成果應用後能否帶來極大的利益
+或是否為前所未見，甚而完全無須思及產生該研究成果所耗費之時
+間與成本為何。紐約州地方法院認為，系爭基因專利有效性之判斷
+重點在於適格標的，亦即已分離之 BRCA 基因是否為不具專利適
+格性之自然產物55。
+
+      2. 基因發明應與自然產物有顯著差異
+
+     基因發明是否構成自然產物之判斷，法院首先援引1931年重要
+判決 American Fruit Growers, inc. v. Brogdex Co.56，最高法院於該案
+中揭示，已去除果皮及經防腐硼砂(borax)處理過的果實仍為自然產
+物。申言之，在自然界雖然無法直接發現以此形式呈現之果實，處
+理(treatment)、人為勞力(labor)及操縱(manipulation)過程確實是製造
+
+
+54 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 218-19.
+55 Id. at 219-20.
+56 Am. Fruit Growers, Inc. v. Brogdex Co., 283 U.S. 1 (1931), 51 S. Ct. 328.
+基因研究成果之專利保護及權利範圍                                                        77
+
+
+
+
+果實的程序，但不因此而使得該果實轉變為專利保護之製品，除非
+其 擁 有 新 的 或 可 區 別 的 形 式 、 品 質 或 特 性 (possesses a new or
+distinctive form, quality or property)。專利保護之「製品」意指「改
+變」(a change)，但不表示所有的「改變」均可稱為「製品」，即便
+該等改變是經由處理、人為勞力或操縱之結果；能准予專利之製
+品，除了應符合「改變」之要件，尚須有「轉換」(transformation)
+為新的及不一樣物品之結果，顯現出可區別性的名稱、特性或用途
+                                                        57
+(a distinctive name, character or use)。再以 Funk Brother 案 為例，
+最高法院否認將不同品種微生物混合後之研究成果具備專利適格
+性。發明人從空氣中的氮抽取出不同微生物，篩選及檢測哪些微生
+物混合後不會相互排斥，繼而以此混合物為標的申請專利。最高法
+院認為，發明人並未創造出不同微生物間不會或會產生排斥之結
+果，混合物之品質全然取決於自然作用，自然界之成果(work of
+                58
+nature)當無准予專利之可能 。
+
+     另外，最高法院在 Chakrabarty 案雖然肯定「太陽底下由人為
+所創作之任何事物」(anything under the sun that is made by man)均為
+專利保護標的，但所指者乃人為創作與自然產物間有顯著差異
+(markedly different)。該案微生物能獲准專利之重要原因，係因專利
+保護之標的乃基因轉殖微生物，透過轉換程序已使其與原有微生物
+相較，在本質、特性及用途上產生區別，其非未知之自然現象(a
+hitherto unknown natural phenomenon)，而是人類心智投入後之產
+物。相異於前述之 Funk Brothers 案，Chakrabarty 案之發明人創造
+出一種新的微生物，其與自然界之原有微生物有顯著差異，從而已
+非自然形成之成果，而是發明人之成果。紐約州地方法院臚列美國
+最高法院、第三巡迴上訴法院(Third Circuit Court of Appeals)、
+CAFC 前身之聯邦關稅暨專利上訴法院(Court of Customs and Patent
+
+
+57 Funk Brothers Seed Co. v. Kalo Inoculant Co., 333 U.S. 127 (1948).
+58 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 222.
+78                                                2011 科技發展與法律規範雙年刊
+
+
+
+Appeals)所作成的諸多判決，闡釋發明與自然產物之區別：已知物
+質僅因人為介入而純化(purification)之結果，仍無法滿足專利適格
+性之要求，除非該產物在某種程度上已擁有不同的特質或特性59。
+
+     被告 Myriad 大量援引 Parke-Davis 案60，主張審理該案之法官
+肯定由自然界純化之物質具備專利適格性，因而 BRCA 基因亦應
+為專利保護標的。20世紀初期醫療用的腎上腺素為粉末型態，會產
+生血壓上升及血管收縮之副作用，Parke-Davis 案發明人成功的從
+動物腎上腺(suprarenal glands)粹取出鹽型(in salt form)的腎上腺化合
+物(adrenaline compound)，不僅有臨床治療效果，且無粉末腎上腺
+素之不良特性。關於專利有效性問題，法院肯定粹取而得之鹽型腎
+上腺素相異於已知之化學物質，因此，純化後之腎上腺素不會被先
+前技術(prior art)所涵蓋，准予專利並無疑義。Myriad 雖試圖藉由
+Parke-Davis 案支持生物技術定序之 BRCA 基因同樣應受到專利保
+護，紐約州地方法院卻認為，Parke-Davis 案爭點及法院判斷重點
+在於新穎性，非專利適合性問題，與本案爭點不同。另外，Myriad
+引用 Parke-Davis 案判決之一句話「即便是無任何改變之粹取物，
+亦無當然否定其可專利性之理」(even if it were merely an extracted
+product without change, there is no rule that such products are not
+patentable.)，據此而主張 BRCA 基因之專利適格性無置啄之處，對
+此紐約州地方法院持不同見解，其認為 Parke-Davis 案判決內容與
+最高法院歷來見解相左，該段文字之精準度亦有疑義，因而不僅其
+後未再被最高法院所援引，甚而有最高法院在相似案情之判決中為
+相反意思之闡釋：研究成果必須擁有與自然產物顯著差異之特性，
+始能滿足專利適格性之要求61。
+
+     除了 Parke-Davis 案，Myriad 亦援引其他判決，然均一一被紐
+
+59 Id. at 222-24.
+60 Parke-Davis & Co. v. H.K. Mulford Co., 189 F. 95 (S.D.N.Y. 1911).
+61 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 224-26.
+基因研究成果之專利保護及權利範圍                                                    79
+
+
+
+
+約州地方法院駁斥，認為該等案件爭點皆為新穎性或進步性問題，
+與 BRCA 案無關。甚者，Myriad 援引之 Merck 案62，完全依循最
+高法院於 Funk Brothers 案及 American Fruit Growers 案關於自然產
+物與發明之判斷標準。Merck 案發明乃用於治療致命性貧血之維他
+命 B12 組成物(Vitamin B12 composition)，係從微生物中萃取及純
+化。科學家雖早已證實由母牛所製造的維他命 B12組成物具有醫療
+特性，但不因此而否定該案發明之專利保護，蓋其已超越「純化已
+知物質」之程度，擁有其他的特性63。紐約州地方法院指出，本案
+事實與 Merck 案截然不同。
+
+     綜合而言，紐約州地方法院重申最高法院及其他下級法院歷來
+見解：單純純化後之自然物質，仍不足以轉變成專利保護之發明，
+其應擁有顯著差異，始能滿足專利法第101條發明之要件。
+
+      3. 經分離定序之 BRCA 基因與原始基因無顯著差異
+
+     依循專利法101條發明定義及最高法院見解，BRCA 基因必須
+滿足顯著差異之要求，始能獲准專利。在訴訟過程，Myriad 從不
+同面向論證，由生物技術分離及定序之 BRCA 基因與存在人體細
+胞之原始基因(native DNA)有何顯著差異，化學物質發明之專利適
+格性為其主要論點。Myriad 主張，專利制度早已承認，由人為方
+式將自然產物以化合物型態呈現乃准予專利之發明，同樣由化學物
+質所構成之基因，自應等同對待之；同於化學發明，分離定序後之
+基因在結構與功能上皆與原始基因不同，因而具備專利適格性。
+
+     紐約州地方法院駁斥 Myriad 主張，認為 Myriad 忽略了基因與
+化 學 物 質 在 本 質 上 有 極 大 差 異 ， 其 具 有 獨 特 之 性 質 (unique
+characteristics)，因而與其他物質或化合物不同。詳言之，基因具有
+
+
+62 Merck & Co., Inc. v. Olin Mathieson Chem. Corp., 253 F.2d 156.
+63 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 226-27.
+80                              2011 科技發展與法律規範雙年刊
+
+
+多重功能性(multifunctional)，一方面其為化學物質或分子，就此而
+言，其確實與化學發明相近；然另一方面，基因具有生物功能，其
+乃遺傳訊息之物理載體(physical carrier/embodiment of information)，
+所攜帶的遺傳訊息影響蛋白質與生物化學反應之結果。不論是在生
+物體內或體外，基因之生物功能始為重點，其為後續與該基因相關
+研究之科學知識基礎，科學家或研究人員欲知悉基因之內涵在於其
+生物功能，而非化學結構。因此，判斷定序後之基因與原始基因是
+否有顯著差異，亦應從生物功能審視。觀諸 BRCA1及 BRCA2基因
+之生物功能，不論是在人體內或人體外，其特性、品質或用途均無
+顯著差異。如同美國最高法院在 American Fruit Growers 案所言，
+研究成果之品質若全然取決於自然作用，應為自然界之成果，非人
+為心智之結果，分離定序的 BRCA 基因即屬之，自不滿足專利保
+護之適格性64。
+
+      關於基因之化學結構，Myriad 主張分離定序後之 BRCA 基因
+將不再擁有原始基因之內含子序列(intron sequence)，因而二者有結
+構上的差異(structural differences)。然法院認為，分離後之 BRCA
+與原始基因之部分結構確實存有些微不同，但其差異僅在位置上之
+不同，抑或是因為分離後的 DNA 為 RNA 接合之自然現象，不影
+響 BRCA 基因之生物功能，即便是分離後的 BRCA 基因缺少內含
+子序列，亦然。反之，若比較可能影響生物功能之編碼序列，分離
+後之 BRCA 基因與原始基因擁有完全相同的編碼序列65，從而二者
+在化學結構上亦無顯著差異。
+
+      綜合而言，紐約州地方法院認為，欲以自然產物之製品為標的
+獲准專利，並無不可，但該製品必須與自然產物有顯著差異，始能
+該當專利法第101條之發明。系爭 BRCA1及 BRCA2基因與人體中
+
+
+64 Id. at 227-29.
+65 Id. at 229-32.
+基因研究成果之專利保護及權利範圍                                                                  81
+
+
+
+
+的原始基因，不論是化學結構或生物功能，均無明顯差異，自然不
+屬於專利法所稱之發明。
+
+   （五）CAFC 判決—肯定基因之專利適格性
+     2011年7月底在各界引頸盼望下，CAFC 終於就 BRCA 基因與
+基因檢測方法之專利適格性及其判斷標準作成重要決定66，Myriad
+及反對基因專利者各有斬獲：Myriad 保有 BRCA 基因專利權，但
+部分 BRCA 基因檢測方法發明因欠缺專利適格性而無效67，有利於
+乳癌檢測在醫療實務應用。與本文討論有關之基因專利適格性問
+題，起草判決書之 Lourie 法官認為，生物技術所分離之基因與原始
+基因有顯著差異；Moore 法官雖支持判決結果，但提出不同理由之
+意見書(concurring opinion)；就 BRCA 案見解最分歧之 Bryson 法官
+則提出不同意見書(dissenting opinion)。
+
+     1. 判決內容
+
+     關於基因研究成果之專利適格性認定，審理本案之三位 CAFC
+法官一致肯定，美國專利法第101條之發明態樣應採廣義認定，惟
+立法者仍創設例外不予保護之標的，諸如自然產物、心智歷程及自
+然產物。同於紐約州地方法院見解，CAFC 亦認為，欲申請專利保
+護之標的若為自然界所衍生之研究成果，應與自然產物有顯著差
+異，始能享有排他權。基因之研究成果是否該當美國專利法第101
+
+
+66 以下內容，詳見 Ass’n for Molecular Pathology v. USPTO, No. 2010-1406 (Fed. Cir.
+   July 29, 2011)，available at http://www.cafc.uscourts.gov/images/stories/opinions-
+   orders/10-1406.pdf.
+67 關於 BRCA 基因檢測方法之專利保護事宜，審理本案之 CAFC 法官一致認定
+   欠缺專利適格性，舉凡申請專利保護標的之「分析」(analyzing)DNA 序列或
+   「比較」(comparing）不同 DAN 序列之單一步驟，均屬抽象的心智活動步驟
+   (an abstract metal step)，非專利法所稱之發明；反之，基因檢測步驟中「使細胞
+   生長」(growing cells)或「決定生長速率」(determining growth rate)之步驟，係與
+   特定標的（細胞）結合而操作之方法，符合「機器或轉變」標準，因而乃具備
+   專利適格性之方法發明。美國法院關於方法專利見解，參見註145。
+82                               2011 科技發展與法律規範雙年刊
+
+
+條所稱之發明，亦應依循前述判斷標準；至若該基因於實務上的生
+理學利用性或利益(physiological use or benefit)為何，無關專利適格
+性之判斷。
+
+      起草判決書之 Lourie 法官等同對待所有的基因研究成果，主張
+其具有化學之本質(a chemical nature)，從而關於基因之專利適格性
+判斷，應適用既有化學領域研究成果之標準。CAFC 判決指出，與
+自然界存在的基因相較，經由生物技術而分離之基因，不論是在化
+學特性及本質(chemical identity and nature)，均有顯著差異。原始基
+因為大量及接續性 DNA 分子結構之一小部分(as part of a large,
+contiguous DNA molecule)；人為操作下所分離及定序之基因，僅為
+自 然 形 成 DNA 分 子 結 構 之 一 小 片 段 (a fraction of a naturally
+occurring DNA molecule)，其乃經過生物技術修剪及整理後之序
+列，不再是天然狀態的基因序列，蓋經由純化(purified)、切割或合
+成(has been cleaved or synthesized)等程序，分離及定序後之基因，
+所擁有的化學性質已迥異於原始基因。甚者，由生物技術所分離之
+基因，打破原始基因之共價化學鍵(covalent chemical bonds)68，使
+其脫離既有的細胞及染色體環境，因而與原始基因明顯不同。其
+次，基因之屬性既為化學物質，以基因為標的而申請專利保護時，
+描述發明之最妥適方法自然是闡釋其結構，而非揭露其功能，從而
+亦應以其結構來判斷已分離基因與原始基因是否存有差異。紐約州
+地方法院在判斷基因之專利適格性時，著眼於基因所攜帶之資訊內
+容(informational content)或遺傳訊息，CAFC 認為此等事實無關乎已
+分離基因與原始基因是否有顯著差異之判斷。
+
+      CAFC 判決中亦援引諸多由 USPTO 所核准之基因專利案，支
+持美國專利專責機關長久以來所採行之專利審查實務與專利適格性
+
+
+68 共價化學鍵係由兩粒原子分享電子所形成的化學鍵，參見英漢雙解生物學辭
+     典，2版，頁138（2005年）
+                    。
+基因研究成果之專利保護及權利範圍                                       83
+
+
+
+
+判斷標準：由人為所創造之已分離基因，與原始基因有顯著差異，
+為專利法所保護之發明。CAFC 指出，最高法院在諸多判決均一再
+強調，專利法施行後之實務運作若有欠妥之處，應由國會出面矯
+正，不應由法院或司法實務據以否定法律之適用。
+
+    2. Moore 法官之不同意見書
+
+   Moore 法官原則上支持 CAFC 之判決內容，亦即基因研究成果
+有准予專利保護之可能性，惟 Moore 法官認為，應更細緻界定由生
+物技術分離及純化之基因，以決定其是否為美國專利法第101條所
+稱之發明。
+
+   詳言之，Moore 法官將基因之研究成果區分為 DNA 及 cDNA
+(complementary DNA)兩類。單純擷取原始基因一小片段所得之
+DNA 序列，其與存在於原始基因之片段呈現一致的結構與序列，
+染色體(chromosome) 內容也完全相同，此等研究成果僅為「發
+現」
+ ，非專利制度所欲保護之「發明」
+               。相反的，研究成果若為互補
+去氧核醣核酸，亦即 cDNA，其與自然界存在的核醣核酸(RNA)具
+互 補 性 (complementary) ， 且 於 結 構 上 不 包 含 內 含 子 序 列 (intron
+sequence)。觀諸 cDNA 與 RNA、抑或 cDNA 與 DNA 之染色體內
+容，均有顯著差異，從而若以 cDNA 為標的申請專利保護，其為專
+利法第101條發明之態樣。
+
+   依循前述判斷標準，Moore 法官審視 Myriad 所申請及獲准之
+BRCA 基因，認為其不構成不予專利之 DNA，因而具備專利適格
+性，系爭專利自屬有效。
+
+    3. Bryson 法官之不同意見書
+
+   提出不同意見書之 Bryson 法官贊同 Moore 法官見解，認為
+DNA 乃自然產物，非專利排他權所應保護之發明；cDNA 在結構
+上欠缺內含子序列，乃具備專利適格性之發明。惟對於其他兩位法
+84                                                  2011 科技發展與法律規範雙年刊
+
+
+官認定系爭 BRCA 基因為專利法所稱發明之看法，Bryson 法官持
+不同見解，其認為 Myriad 在申請專利時所主張之發明內容構成自
+然產物。Bryson 法官主張，Myriad 透過生物技術所純化之系爭
+BRCA 基因，與原始基因相較雖於結構上有差異，惟此等差異絲毫
+不 影 響 所 分 離 BRCA 基 因 之 功 能 及 其 利 用 性 (irrelevant to the
+function and utility of the isolated gene)，其與原始基因之功能及利用
+性完全相同。因此，不應否定 BRCA 基因為自然產物之事實，當
+無准予專利之可能。
+
+       4. 小結
+
+       CAFC 三位法官審理本案後，其中兩位法官之理由雖有不同，
+惟均肯定系爭 BRCA 基因與自然產物有顯著差異，乃具備專利適
+格性之發明；Bryson 法官則否定生物技術所分離之基因為美國專利
+法第101條明定之發明。三位法官各持不同意見下所作成之 CAFC
+判決，各界69咸認為，本案在所難免將上訴至第三審最高法院，短
+時間內美國各界仍難就基因研究成果之專利適格性問題有一致共
+識。
+
+三、本文見解—基因應為專利權所保護之發明
+
+       紐約州地方法院從發明之定義及性質否定 BRCA 基因專利權
+之有效性，打破 USPTO 長久以來所依循之審查實務。歐洲國家在
+訂定98/44/EC 指令過程，對於基因是否為專利制度所保護之發明，
+有正反不一之見解與爭議，最終仍肯定之。關於基因是否具備專利
+
+
+69 例如：Paul M. Rivard & Fraser Brown, Federal Circuit Holds Claims to Isolated
+     DNA and to Methods of Using Isolated DNA to Screen for Cancer Patent-Eligible,
+     MONDAG (Aug. 5, 2011), http://www.mondaq.com/unitedstates/article.asp?articleid=
+     141660&print=1 (last visited Jan. 31, 2012); Lewis F. Gould, Vicki G. Norton &
+     Gretchen Temeles, Federal Circuit Reverses N.Y. District Court: Claims to “Isolated”
+     DNA Are Eligible for Patent Protection, MONDAG (Aug. 8, 2011), http://www.mondaq.
+     com/unitedstates/article.asp?articleid=141766&print=1(last visited Jan. 31, 2012).
+基因研究成果之專利保護及權利範圍                                                                   85
+
+
+
+
+適格性，本文見解同於 CAFC，紐約州地方法院認定基因為自然產
+物之見解並不可採，蓋基因發明與自然產物確實有別，因此，就定
+義而言，其確實為專利制度所稱之發明；其次，使基因研究成果受
+到專利權保護似會增加疾病治療方式之近用成本或阻礙病患就醫，
+惟基因研究成果若不能准予專利，反而不利於新醫療方式之研發與
+公共衛生政策之實現。BRCA 基因或其他基因研究成果影響疾病預
+防或治療之原因，應在不當之專利權行使，從而調和基因專利權對
+公共衛生之衝突，應從適度限制專利權行使方式著手，而非一開始
+即否定其專利適格性。
+
+    （一）人為干預定序之基因符合發明定義
+     專利所保護之「發明」究指為何，各國專利法並無定義性規
+定，我國專利法第21條70規定，發明，係指利用自然法則之技術思
+想之創作。德國學說認為，所謂的發明，係指某種有計畫行為之準
+則，利用可支配的自然力量、超出人類理解活動而直接達到因果關
+係上之可見成果(Erfindungen sind Lehren zum planmäβigen Handeln
+unter Einsatz beherrschbarer Naturkräfte auβerhalb der menschlichen
+Verstandestätigkeit zur unmittelbaren Herbeiführung eines kausal
+                       71
+übersehbaren Erfolges.) 。觀諸發明與發現之最大區別在於人為干
+預程度；研究成果若是自然結果之呈現，抑或結果之發生無法由人
+為所控制或干預，諸如主要生物學之動植物栽培方法(essentially
+biological processes for the production of plants or animals)，不具專利
+適格性。本文認為，既有專利制度關於發明與發現之定義及判斷標
+準，同樣適用於基因之研究成果。
+
+     首先，以生物技術操作及經過修飾(modified)之基因，乃人為
+
+
+70 專利法舊法第21條參照。
+71 Rudolf Busse/Keukenschrijver, Patentgesetz, 6. Aufl., 2003, § 1 Rn. 17 ff.; Rudolf
+   Kraßer, Patentrecht, 6. Aufl., 2009, S. 124 f.
+86                                                 2011 科技發展與法律規範雙年刊
+
+
+控制下之產物，其為專利所保護之發明，應無疑義；惟即便是未經
+修飾(unmodified)之基因，亦該當發明之定義。詳言之，人類基因
+上有30億個鹼基對，僅其中少部分之基因序列儲存具有功能之遺傳
+訊息，其餘大部分是不表現或無意義之基因序列；此外，即便是帶
+有遺傳訊息的基因序列，其中亦含有不表現的片段(intron)。因此，
+欲從基因中篩選出一段帶有遺傳訊息之基因序列，乃相當複雜的研
+究過程，如何進行及定序出有實用價值之基因序列，實為研究人員
+投入智力後，將原始材料加以轉化之研究成果。確定特定基因與疾
+病之關連性，並不是已經「就在那裡」的現成物品72，從而所謂的
+「發現特定基因」
+       ，與發現深山中絕品蘭花品種之情況有別，其乃含
+有創造成分在內之科學活動，經由人為控制或干預所產生之研究成
+果。
+
+     其次，依循化學領域關於物質發明之判斷標準，經由生物技術
+所分離之基因，不論是否經過修飾，均是透過人為方式而定序
+(identify)之結果，其為特定技術領域之思想創作，係某種有計畫行
+為之準則，利用可支配的自然力量、超出人類理解活動而直接達到
+因果關係上之可見成果。易言之，基因乃帶有遺傳資訊之生物化學
+物質(a biochemical substance)，與自然界存在之習知化學物質差異
+極微73，因此，現行專利制度關於化學物質是否構成「發明」之判
+
+
+72 何建志，生物技術專利之最適範圍—產業政策與法律分析，收於：生物倫理
+   與法律研究中心編，生技時代的智慧財產與公共衛生議題，頁132-133（2006
+   年）  。
+73 Kraßer (Fn. 71), S. 226; SVEN J. R. BOSTYN, ENABLING BIOTECHNOLOGICAL
+   INVENTIONS IN EUROPE AND THE UNITED STATES 102 (2001); Report from the
+   Commission to the Council and the European Parliament: Development and
+   Implications of Patent Law in the Field of Biotechnology and Genetic Engineering, at
+   4, COM(2005) 312 final (July 14, 2005); Rüdiger Wolfrum/Peter-Tobias Stoll/
+   Stephanie Franck, Die Gewährleistung freier Forschung an und mit Genen und das
+   Interesse an der wirtschaftlichen Nutzung ihrer Ergebnisse, 2002, S. 40 f.; 張仁平，
+   台灣生物技術專利保護之回顧與前瞻，萬國法律，116期，頁110-118（2001
+   年）  。
+基因研究成果之專利保護及權利範圍                                                                87
+
+
+
+
+斷標準，亦即化學物質究為發現或發明之區別，同樣應適用於基因
+之研究成果，以決定其專利適格性。例如：單純將人類基因圖譜定
+序僅屬發現，其乃對於人體及其組成之科學知識獲得；但若藉由生
+物技術將特定序列之基因從自然狀態中首次加以分離，並確定該基
+因之功能，已從單純的知曉(knowing)進步到實行可能(being able)階
+段。基因雖早已存在於自然界，但未經分離定序，仍因技術限制而
+無法利用，將其從人體分離及瞭解其功能後，即有進一步應用之可
+能性，此等產物係人為干預而產生，已屬實用性之研究成果，非科
+學原理、知識或自然法則，應具備專利適格性74。
+
+     在生物技術日漸成熟之際，歐洲亦有同於紐約州地方法院之見
+解 ， 認 為 由 人 類 所 定 序 之 基 因 僅 屬 發 現 75 ， 惟 歐 盟 所 訂 定 之
+98/44/EC 生技發明指令第5條第1項已肯定其專利適格性，此亦為德
+國專利法第1a 條第1項所明定。易言之，「發現」不得為專利保護
+標的；單純發現生物體之任一組成，包括單純發現基因或基因序
+列，不論其在生物體形成或發展之任何階段，均非專利所保護的發
+明，僅為科學知識的發現，而非發明。但98/44/EC 指令第2條第2項
+及德國專利法第1a 條第2項又規定，從生物體所分離出來的成分或
+利用技術方法所製造出的任何成分，包含基因，皆得准予專利，即
+便分離所得之成分，其組織構造與自然界所存在的組成一致，亦
+同。蓋經由生物技術分離的動植物或人體組成或基因，乃技術方法
+應用之產物，且在生物體外係以定序、純化(purify)或分類(classify)
+等方式呈現，在自然界不會呈現此等狀態，因而乃人為干預所產生
+之研究成果，不應將之排除於專利保護範疇76。前揭見解亦由 EPO
+
+74 EGE Opinion No 8, Ethical Aspects of Patenting Inventions Involving Elements of
+   Human Origin, para. 2.2 (Sep. 25, 1996).
+75 Geertrui Van Overwalle, Reshaping Bio-Patents: Measures to Restore Trust in the
+   Patent System, in THE REGULATORY CHALLENGE OF BIOTECHNOLOGY 238, 239 (Han
+   Somsen ed., 2006).
+76 蔡明誠，基因技術與發明專利問題（上），萬國法律，118期，頁46（2001
+   年） ；98/44/EC Recital 21, 22.
+88                                           2011 科技發展與法律規範雙年刊
+
+
+所接受及明定於歐洲專利公約(Convention on the Grant of European
+Patent, EPC)施行細則(Rule)第23條第(e)項第2款。
+
+     據此，生物技術所分離之基因乃專利制度所稱之發明，在國際
+間歷經正反意見討論後，目前亦已為多數說見解77。
+
+     （二）基因之研究成果同樣仰賴專利權保護
+     同於其他技術領域，公共衛生領域之研究成果同樣仰賴排他權
+保護，專利制度有助於基因相關研究活動之進行。專利排他權提供
+研發誘因，發明人能透過授權或讓與等方式行使權利而獲益，進而
+有足夠資金再投入研發。因此，准予基因發明之專利保護，與專利
+制度之功能與目的相符。
+
+     1. 專利制度之功能
+
+     關 於 專 利 制 度 之 學 理 依 據 ， 有 主 張 財 產 權 說 (die
+                 78                           79
+Eigentumstheorie) 、受益權說(die Belohnungstheorie) 、激勵說(die
+                   80                            81
+Anspornungstheorie) 或公開說(die Offenbarungstheorie) 。由於任
+
+
+77 Van Overwalle, supra note 75, at 241-42.
+78 財產權說又稱自然法說(die Naturerechtstheorie)，乃基於自然法及天賦人權思
+   想，認為精神上的創作自始即為人類的所有權，發明人對於發明擁有財產權上
+   的支配權，因而與有體物之財產權相同；未得發明人同意而利用者，構成精神
+   上的竊盜(geistiger Diebstahl)。Benkard/Bacher/Melullis, Patengesetz, 10. Aufl.,
+   2006, § 1 Rn. 1b.
+79 受益權說又稱為報酬說或報償說，同樣源自於自然法思想，認為在公平正義原
+   則下，發明人公開其精神創作，增加公眾可得近用之技術知識，因此，社會應
+   對於發明及技術創新給予相當的對價作為報償。謝銘洋，智慧財產權法，2
+   版，頁23-24（2011年）   。
+80 激勵說係以技術進步為考量，以專利制度之排他權作為引誘他人從事發明的基
+   礎。激勵說之理論認為，專利制度乃引誘發明、達成技術進步最簡單、便宜及
+   有效的手段，且其結果有利於公共利益。蔡明誠，發明專利法研究，3版，頁
+   54（2000年）    ；謝銘洋（註79）   ，頁24。
+81 公開說認為，由於發明人願意及早公開發明，第三人因而能獲悉技術知識，進
+   而繼續從事研究與發展；公開發明之結果可避免重複發明之浪費，亦不致於使
+   發明絕跡而無法流傳。因此，對於非採取營業秘密方式保護精神創作之發明
+基因研究成果之專利保護及權利範圍                                                                  89
+
+
+
+
+一學說均無法單獨解釋或說明今日運作之專利制度，因此，前述學
+說乃立於相互依存及補充關係，所指者乃：以專利權作為公平正義
+(die Gerechtigkeit)及保護發明人個人利益(die Individualinteressen des
+Erfinders)之戒律(das Gebot)；在強調私權與公共利益調合及保護
+下，賦予公眾實施及近用發明之機會82。從而今日之專利制度係以
+「公權與私權結合說」為其學理基礎83 ；專利法之立法精神係在促
+進實用技術發展的公益基礎下，賦予發明人排他性的權利與經濟利
+益。前揭立法目的亦見諸於我國專利法第1條：為鼓勵、保護、利
+用發明與創作，以促進產業發展，特制定本法84。
+
+     依循前揭理論基礎，社會大眾之所以要容忍專利權人享有一定
+期間之排他權，係因專利制度符合公眾需求及擴展公共財(public
+     85
+good) 。使專利制度發揮此一功能之主因則在於發明說明之要
+求86，亦即發明人於提出專利申請時，應充分揭露發明之內容，以
+促進知識之擴散(the dissemination of knowledge)，發明所屬技術領
+域之人亦可在此等知識基礎上，繼續從事研發及創新87。據此，從
+社會及國家整體而觀，專利權發揮了兩個重要的作用：其一，使發
+明人可以獲得適當報酬，因而能繼續投入新的研究與發展；其次，
+發明人應充分揭露發明內容，使公眾有近用可能，擴大公眾之知識
+累積(public storehouse of knowledge)。結合前述兩個重要的機制，
+
+   人，應給予一定期間的排他權作為對價；此說又被稱為契約說(die Vertrags-
+   theorie)。Benkard/Bacher/Melullis (Fn. 78), § 1 Rn. 1b.
+82 Kraße (Fn. 71), S. 37.
+83 蔡明誠（註80）        ，頁56。
+84 李素華，僱傭關係下發明權益之研究：以我國專利法為中心，臺大法學論叢，
+   39卷1期，頁4-5（2010年）        。
+85 F. SCHOTT KIEFF, PAULINE NEWMAN, HERBERT F. SCHWARTZ & HENRY E. SMITH,
+   PRINCIPLES OF PATENT LAW 13 (4th ed. 2008).
+86 我國專利法第26條第1項及舊法第26條第2項參照。
+87 Kieff, Newman, Schwartz & Smith, supra note 85, at 14; U.S. DEP’T OF HEALTH &
+   HUMAN SERV., Gene Patents and Licensing Practices and Their Impact on Patient
+   Access to Genetic Tests 26 (2010), available at http://oba.od.nih.gov/oba/sacghs/
+   reports/SACGHS_patents_report_2010.pdf.
+90                                                 2011 科技發展與法律規範雙年刊
+
+
+專利制度提供研發誘因，促成知識技術之擴散，科學技術從而能持
+續的創新與發展88。發明人因專利權賦予之排他性權利及其衍生之
+財產上利益，因而有意願投入研發，此即美國林肯總統(President
+Abraham Lincoln)所稱的：專利制度係在天才之火添加油料(The
+patent system added the fuel of interest to the fire of genius.)。在專利
+權的保護下，發明由權利人以有效率的方式自行或移轉他人實施；
+不論是自行實施或技術移轉，均可達到專利法之目的89：公眾因發
+明而獲益、鼓勵發明人、被授權人及專利物品購買者能繼續從事研
+發90。
+
+     另外，經由專利制度之運作，亦可避免發生經濟學所稱的「共
+有之悲劇」(Tragedy of the Commons)91。共有之悲劇理論雖常用來
+解釋人口過度、生態及自然資源有限或過度耗損之情形，但該理論
+同樣適用於專利制度 92 ：若將個別發明人的精神創作視為公共資
+
+
+88 Rebecca S. Eisenberg, Patents and the Progress of Science: Exclusive Rights and
+   Experimental Use, 56 U. CHI. L. REV. 1017, 1024 (1989); U.S. DEP’T OF HEALTH &
+   HUMAN SERV., supra note 87, at 20, 28-29.
+89 Maureen A. O’Rourke, Toward a Doctrine of Fair Use in Patent Law, 100 COLUM. L.
+   REV. 1177, 1179 (2000).
+90 李素華（註84）       ，頁6。
+91 共有之悲劇理論乃學者 Garret Hardin 於1968年提出，意指每個人為了自己的利
+   益而恣意消耗共有地時，將導致公共資產之耗盡，最終無人獲益；為了避免共
+   有之悲劇，必須賦予私人財產權。Garrett Hardin, The Tragedy of the Commons,
+   SCIENCE, Dec. 13, 1968, at 1243, available at http://www.sciencemag.org/cgi/reprint/
+   162/3859/1243.pdf.
+92 文獻上早於1977年即有學者 Kitch，將共有之悲劇理論用於解釋性質上同樣為
+   財產權（無體財產權）之智慧財產制度。Edmund W. Kitch, The Nature and
+   Function of the Patent System, 20 J.L. & ECON. 265, 265-66 (1977), available at
+   http://www.law.virginia.edu/pdf/faculty/hein/kitch/20jl&econ265_1977.pdf. 同 樣
+   的，2003年學者 Landers 及 Posner 亦在文中將此理論適用於智慧財產領域，認
+   為賦予發明人智慧財產保護可避免共有悲劇產生及促進研發。WILLIAM M.
+   LANDES & RICHARD A. POSNER, THE ECONOMIC STRUCTURE OF INTELLECTUAL
+   PROPERTY LAW 12-16 (2003)。   「共有悲劇」及「反共有悲劇」理論在專利領域被
+   充分討論及引用，係因生物技術專利數量暴增及陸續對後續研發、糧食取得、
+   醫療近用及公共衛生產業產生不利影響後。最早基於前揭兩理論而認為應限制
+   基因專利權者，see Michael A. Heller, The Boundaries of Private Property, 108
+基因研究成果之專利保護及權利範圍                                     91
+
+
+
+
+產，任何人均可基於私人利益而使用，將使發明人不再有精神創作
+的誘因，眾人亦因而無公共資產可以利用；此外，發明人為了避免
+智慧結晶成為公共資產，將以營業秘密或其他秘而不宣的方式保護
+及實施發明，其結果亦將導致眾人無公共資產可以利用。因此，為
+了避免人類智慧財產發生共有之悲劇，專利制度必須賦予發明人排
+除第三人恣意使用其精神創作之權利。在共有之悲劇理論基礎下，
+若完全剝奪發明人的排他性權利，第三人能以搭便車方式複製其辛
+苦的研究成果，因而降低研發誘因；另一方面，若使發明人享有完
+全的排他性權利，又會降低其他人從事發明之能力與誘因。因此，
+專利制度可謂在「賦予排他權以鼓勵創新研發」與「維護公共財以
+利後續科技進步」間尋求平衡之機制93。
+
+   2. 准予基因專利權仍為維持公共衛生制度所必要
+
+   前已述及，基因乃人為干預下所產生之研究成果。觀諸特定疾
+病基因定序及其產生過程，欲定序出一段基因、確定疾病與基因之
+關連性，進而瞭解該基因之用途及功能，甚至發展出具有分析確效
+                     94                         95
+(analytic validation) 、臨床確效(clinical validation) 及臨床實用性
+
+   YALE L.J. 1163, 1166 (1999). 其認為過去使發明人享有專利權是為了避免「共有
+   悲劇」發生，但在生技領域，過多專利權卻產生「反共有悲劇」之結果，藉以
+   論證應限制基因專利。學者 Heller 以「反共有悲劇理論」主張限制基因專利權
+   後，在生醫專利權領域引發熱烈討論。究竟應以「共有悲劇理論」使基因研究
+   成果獲得足夠保護及促進研發，抑或應以「反共有悲劇理論」限制基因研究成
+   果之專利保護及使公眾自由近用基因研究成果，迄今仍為爭論不斷及尚無定論
+   之問題。本文認為，智慧財產領域之學者引用共有悲劇理論來探討發明人必須
+   享有「研發誘因」，雖行之有年，但共有及反共有悲劇理論真正被智財學者熱
+   烈討論，是在基因專利蓬勃發展之際，仔細推敲，其原因或與基因發明某種程
+   度是有共有悲劇理論的「資源耗竭」性質，亦即特定疾病與基因關連性被確定
+   及獲准專利後，該疾病基因之此等「資訊」（或資源）就被用掉，關於該疾病
+   的其他研究，幾無迴避該專利之可能性（惟此等情況應僅發生於該疾病與單一
+   或特定基因有絕對關連性，BRCA 與乳癌之關係即屬之）。此與一般無體財產
+   有多種發明應用可能性、不會有資源耗竭狀況是不太一樣的。
+93 李素華（註84）       ，頁6-7。
+94 亦有稱為分析效度，係指該等檢測技術已屬成熟，可確保檢驗結果之正確及可
+   靠，能滿足穩定性及再現性之要求。因此，只要是在符合優良臨床作業準則下
+92                                                2011 科技發展與法律規範雙年刊
+
+
+                  96
+(clinical utility) 之基因檢測技術與產品，仍須立於一定的科學及技
+術知識，耗費相當程度的努力及鉅額成本。首先，由於生命體的奧
+秘與複雜，使得基因相關生物技術之研究與應用存有高度不確定性
+及難以預測性(unpredictable)。分子間的生化反應眾多，生技研究必
+須處理繁複的因果關係，即便是粹取細胞內之單一酵素，即可能涉
+及諸多基因表現及其他蛋白質之參與。另外，欲將特定基因序列轉
+殖到細胞，往往需經歷數以千次的試驗及失敗，始能成功，蓋何種
+基因序列能與載體結合、應將轉殖基因插入載體之何處，存有各種
+排列組合之可能，諸多基因相關生技研究成果之產生，係取決於機
+運(based on chance occurrences)；特定基因研究成果即便能成功應
+用於某種動植物，在其他種類之動植物未必有相同的應用結果97。
+因此，生物技術之研究成果欲有實務應用可能，需投入相當之成本
+與努力，與其他技術領域並無不同，專利制度並無將其排除保護之
+合理理由。再以以本文所探討及引發爭議的 BRCA 基因為例，美
+國國家衛生研究院(National Institutes of Health, NIH)以科技計畫資
+助 BRCA1基因定序之經費高達兩百萬美金，但僅占總研究經費的
+
+
+
+   所進行之檢測，不管重複多少次或不管由那個實驗室執行，原則上均能得到相
+   同的結果。Office of Biotechnology Activity, Enhancing the Oversight of Genetic
+   Tests: Recommendations of the SACGT 15 (2000), available at http://oba.od.nih.gov/
+   oba/sacgt/reports/oversight_report.pdf.
+95 亦有稱為又稱為臨床效度，係指檢測結果能用於預測或偵測特定疾病之關連
+   性，決定基因檢測是否具有臨床效度之因素包括：(1)臨床靈敏度(clinical
+   sensitivity)：陽性檢測結果與疾病或將來發病者之比率、疾病或臨床現象之發
+   生是否完全取決於所檢測之基因；(2)臨床專一性(clinical specificity)：陰性檢測
+   結果與無疾病者之比率；(3)外顯性或穿透性(penetrance)：基因型發展為表現型
+   的比率。Id. at 15.
+96 所謂的臨床實用性，係指檢測結果直接應用在臨床醫療之可能性。特定基因檢
+   測是否具有臨床性，取決於該等檢測實施後所帶來利益與傷害，並與基因檢測
+   以外之其他替代方案進行比較。判斷上需考量之因素包括：檢測結果能否用於
+   決定或改善醫療方法或醫療程序、能否用於改善或調整受試者之既有生活模
+   式。Id. at 15.
+97 Alison E. Cantor, Using the Written Description and Enablement Requirements to
+   Limit Biotechnology Patents, 14 HARV. J.L. & TECH. 267, 278-80 (2000).
+基因研究成果之專利保護及權利範圍                                                                    93
+
+
+
+
+三分之一98。基因之研究成果若不能准予專利，發明人或生技公司
+可能無法獲得足夠資金從事研發，亦會影響其創新研發意願，發生
+立法者亟欲避免之「共有之悲劇」結果，最終不利於公眾及公共衛
+生政策之落實。
+
+     其次，從生物技術領域之產業發展來看，基因或其他基礎研究
+成果之專利權人通常為小型生技公司或大學實驗室。基因本身雖然
+不會成為藥品成分或醫療器材之內容，卻在發展檢測產品、確定病
+患是否罹患疾病或發展基因療法上扮演重要角色，此等研究成果之
+授權或技術移轉往往為小型生技公司或大學實驗室主要的經濟活動
+基礎99；若將基因之研究成果排除而不能准予專利，將嚴重威脅小
+型生技服務業者之生存與發展100；甚者，研究人員為避免其他人搭
+便車之不公平競爭行為，可能轉而以營業秘密方式保護研究成果，
+反而不利於科技發展與公共利益。據此，同於專利制度鼓勵與促進
+其他技術領域之創新研發，生物技術領域之研究成果若能符合發明
+之定義及可專利性要件，應使其受到足夠保護及享有專利排他權。
+
+     最後，從整體公共利益來看，使基因之研究成果准予專利，對
+公眾及公共衛生政策之發展亦有助益。蓋若能承認基因之專利適格
+性，研究人員於提出專利申請時，應符合充分揭露而可據以實施之
+要求，透過專利制度之公開程序，將使公眾知悉發明之技術內容，
+並能累積知識，帶動新醫藥或醫療產品及技術之產生。因此，使基
+因相關研究成果受到專利權保護，符合專利制度之公益目的，亦為
+落實公共衛生政策所不可或缺。
+
+
+
+
+98  Ass’n for Molecular Pathology, 702 F. Supp. 2d at 202.
+99  Esther Pfaff, “Bolar” Exemption—A Threat to the Research Tool Industry in the U.S.
+    and the EU?, 38 INT’L REV. INDUSTRIAL PROP. & COPYRIGHT L. 258, 259-60 (2007).
+100 Id. at 260; Integra LifeSciences I, Ltd. v. Merck KGaA, 331 F.3d 860, 867 (2003).
+94                                              2011 科技發展與法律規範雙年刊
+
+
+
+     （三）BRCA 基因專利權不利於公共衛生係因權利行使方式
+     BRCA 基因專利、乃至於檢測方法專利在美歐各地引發爭議，
+亦有質疑其不利於公共衛生之聲浪，然本文認為，該等專利權值得
+非難之處，不在於基因或基因檢測研究成果之專利保護，而是權利
+行使方式之妥適性101。細究 Myriad 最為各界所詬病者，乃其採取
+專屬授權策略，僅少數生技公司或實驗室能利用 BRCA 基因進行
+商業性的檢測，Myriad 雖同意大學或研究機構於學術研究範圍內
+利用 BRCA 基因，但限制其利用目的、範圍及規模，因而對相關
+研究活動產生限制。由於 Myriad 採取強勢的專利管理策略，從事
+BRCA 研究之諸多美國大學或生技公司，收到 Myriad 之專利侵權
+警告函後不得不停止 BRCA 研究，技術上更優異的乳癌檢測方法
+可能礙於基因專利權而無法繼續發展或臨床應用102。另外，即便是
+取得專屬授權之被授權人，Myriad 同樣限制其能實施檢測之範
+圍，亦即對於符合一定要件之病患，被授權人應將其檢體交由
+Myriad 實驗室檢測，造成檢測進行之不便利性，亦有侵害病患隱
+私權之疑慮103。
+
+     BRCA 基因專利權行使最受質疑者，乃 Myriad 主張過高的檢
+測費用，根據統計，由 Myriad 或其授權實驗室所進行之完整檢
+測，每次費用高達3,000美金，相較於此，由位於加拿大安大略
+(Ontario)某區域性公共醫療機構進行之檢測，其費用為 Myriad 的三
+分之一 104 。Myriad 收取過高檢測費用事宜亦在歐洲引發爭議，
+
+
+101 關於 Myriad 行使 BRCA 基因及其檢測方法專利權之個案研究，參見 Robert
+    Cook-Deegan, Christopher DeRienzo, Julia Carbone, Subhashini Chandrasekharan,
+    Christopher Heaney & Christopher Conover, Impact of Patents and Licensing
+    Practices on Access to Genetic Testing for Inherited Susceptibility to Cancer:
+    Comparing Breast and Ovarian Cancers to Colon Cancers, in U.S. DEP’T OF
+    HEALTH & HUMAN SERV., supra note 87, at Appendix A.
+102 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 204-06.
+103 RIMMER, supra note 39, at 189.
+104 Ass’n for Molecular Pathology,702 F. Supp. 2d at 203.
+基因研究成果之專利保護及權利範圍                                                                  95
+
+
+
+
+Myriad 要求之檢測費用約2,744歐元，但同樣檢測由法國實驗室進
+行僅需762歐元；英國 National Health Service 估計，非營利實驗室
+之檢測費用僅為 Myriad 收費的一半105。高額檢測費用自然對國家
+之健保或醫療財政造成嚴重負擔。
+
+   （四）既有專利制度已考量公共衛生而適度限制專利權
+     惟能否因專利權不當行使而將基因相關研究成果排除於專利保
+護之外，本文持否定見解。歐洲各國質疑 EPO 核准 BRCA 基因及
+檢測方法專利之際，EPO 曾明確揭示，賦予排他權後專利權人在何
+等範圍內可實施發明及避免專利權濫用、專利權效力是否影響後續
+研發、增加醫療成本及經濟效益等，乃另一層次問題，絕非於專利
+申請階段所應考量或據此而駁回申請案，該等問題亦非專利專責機
+關在審核專利適格性與可專利性時所應置啄106。同樣的，CAFC 於
+審理 BRCA 基因專利爭議案時，亦明確指出，所分離基因在生醫
+研究之利用可能性或可產生效益為何，無關專利適格性之判斷。本
+文認為，EPO 及 CAFC 之前揭見解實屬正確，生物技術或其他新
+興技術領域之發明准予專利後，若對公眾或公共衛生產生不利影
+響，在專利之立法政策上固然值得重視，但解決方式非由專利專責
+機關逕否定其保護可能性，而應從公益性更高之公共衛生及健康人
+權角度出發，於專利制度或其他法律建構適當的權利範圍107。
+
+     易言之，研究成果能否受到專利保護與專利權之權利範圍乃不
+同的問題，除了立法者於一開始即明定於專利法及排除不予專利之
+發明態樣外，舉凡為人類之技術思想創作即有准予專利之可能。因
+
+105 RIMMER, supra note 39, at 189.
+106 EPO, Mission Statement: Supporting the Knowledge Economy in Europe, (May 13,
+    2004), http://www.european-patent-office.org/news/pressrel/pdf/myriad_presspack_
+    en.pdf.
+107 相同見解，Graham Dutfield, Should We Regulate Biotechnology through the
+    Patent System? The Case of Terminator Technology, in THE REGULATORY
+    CHALLENGE OF BIOTECHNOLOGY 203, 210 (Han Somsen ed., 2006).
+96                      2011 科技發展與法律規範雙年刊
+
+
+此，基因相關生技研究成果產生後，能否享有排他權，應視其是否
+符合可專利性要件、是否滿足充分揭露而可據以實施之要求；至若
+准予專利後對後續研發活動或公共衛生之影響，涉及專利權行使問
+題，非專利專責機關所應考量者。基因或其他技術領域之專利權行
+使若有不當、准予之專利權範圍是否過廣、有無其他公益或立法政
+策考量而應限制排他權範圍，有待司法機關從法律體系及發明特性
+為合於目的性之解釋與法規適用，諸如本文後述之歐洲 C-425/08
+案108；甚者，若有必要再由專利專責機關透過修法或由政府公部門
+適度介入而限制專利權行使（詳如本文後述）109。
+
+     相較於一般技術領域，因公共衛生考量而對醫藥專利權之權利
+範圍有較多限制。用於臨床醫療之藥品或醫療器材，專利權行使必
+然直接影響醫藥近用及公共衛生政策，惟專利法未逕將其排除於保
+護範疇，而是使特定事由不為專利權效力所及或限制權利行使；相
+較於此，性質上屬於上游研發階段研究成果之基因發明，未必對公
+共衛生有不利影響，當無一開始即排除保護之必要。政府公部門縱
+然要採行部分學者見解110，亦即認為准予基因專利及其權利行使必
+然不利於公共衛生，因而欲否定基因研究成果之專利適格性，本文
+主張在程序上亦應透過修法於專利法中明定其乃不予專利之發
+明111。
+
+
+
+
+108 參見本文以下「肆、基因專利權之權利範圍」
+                       。
+109 參見本文以下「伍、基因專利權對公共衛生衝突之調和方向—代結論」
+                                  。
+110 例如：因專利保護而使愛滋病必要藥品價格過高問題，有學者認為欲解決該
+    等藥品之近用問題，或可參考醫療方法不與專利之規定，將愛滋病必要藥品
+    列入。林彩瑜，WTO TRIPS 協定下醫藥專利與公共健康之問題及其解決方
+    向，收於：貿易與公共衛生之法律問題—世界貿易組織法律研究（二）   ，頁55
+    （2009年）
+          。
+111 作法上如同多數國家專利法明定醫療方法不予專利（我國專利法及舊法第24
+    條第2款參照） 。
+基因研究成果之專利保護及權利範圍                                                                 97
+
+
+
+
+肆、基因專利權之權利範圍
+
+     除了基因相關研究成果之專利保護，針對生物技術之特殊性，
+專利制度亦需適度界定其權利範圍，2010年7月6日歐洲法院於
+               112
+C-428/08案            就植物基因專利權效力之闡釋，即有重要意義。
+
+一、基因專利權範圍之界定爭議—C-428/08案
+
+   （一）案件緣起
+     C-428/08案緣起於荷蘭法院所受理之專利侵權案，該案之原告
+Monsanto Technology LLC（以下簡稱 Monsanto）於1996年6月以抗
+除 草 劑 基 因 發 明 (Glyphosate Tolerant 5-Enolpyruvylshikimate-
+3Phosphate Synthases)，在 EPO 獲准546,090發明專利權（下稱090
+專利）
+  ，荷蘭亦為該歐洲專利之指定生效國。Monsanto 從三種不同
+的 細 菌 中 分 離 出 EPSPS 酶 (enzymes) ， 能 抵 抗 慣 用 於 農 業 的
+glyphosate 除草劑，Monsanto 將 EPSPS 酶插入大豆基因，創造出一
+種名為 RR 大豆(Roundup Ready soy)之基因轉殖作物。購買 RR 大
+豆栽種之農民在施灑 glyphosate 除草劑時，無須擔憂 RR 大豆受到
+影響，僅有那些未含 EPSPS 酶之雜草會枯死，進而達到方便農民
+栽種作物及施用除草劑之結果。
+
+     前揭抗除草劑基因雖然在歐洲獲准090專利，但 Monsanto 未在
+阿根廷申請專利保護，當地農民亦大規模栽種 RR 基因轉殖大豆，
+並製造成大豆粉(soy meal)。被 Monsanto 控告侵害090專利之被告
+乃隸屬於 Cefetra 集團之數家公司，包括 Cefetra BV、Cefetra Feed
+Service BV 及 Cefetra Futurs BV（下稱 Cefetra）
+                                         ，其於2005年及2006
+年間由阿根廷進口大豆粉至歐盟，海關依1383/2003/EC 規則113扣押
+
+112 Case C-428/08 Monsanto Technology LLC v. Cefetra BV, Cefetra Feed Service BV,
+    Cefetra Futures BV, Alfred C. Toepfer International GmbH.
+113 Council Regulation (EC) No 1383/2003 of 22 July 2003, Concerning customs action
+98                                                 2011 科技發展與法律規範雙年刊
+
+
+進口物。經 Monsanto 檢測後確定大豆粉係由 RR 大豆所製造，大
+豆粉中亦檢測出受到090專利保護之抗除草劑基因。Monsanto 旋即
+依1383/2003/EC 規則第16條聲請禁制令，禁止大豆粉在歐盟境內流
+通；除此之外， Monsanto 亦向荷蘭海牙地方法院 (Rechtbank’s-
+Gravenhage)起訴，主張 Cefetra 未經同意而進口專利物品，構成專
+利權侵害114。
+
+      Monsanto 主張專利侵權之請求權基礎，乃荷蘭專利法第53條
+及第53a 條。第53條為專利權內容之一般性規定，與各國專利法關
+於物品及方法專利權之規定相近115，第53a 條則為基因專利權之特
+別規定：「專利保護之發明為擁有一定特性之生物材料者，專利排
+他權及於由該生物材料所繁殖或衍生、且擁有相同特性之生物材料
+（第1項）。專利保護之發明為一定特性生物材料之產生方法者，專
+利排他權及於由該方法所直接產生之生物材料，且及於由該生物材
+料所繁殖或衍生而具有相同特性之生物材料，不問其是以有相同或
+相異之形式呈現（第2項）。專利保護之物若包含基因資訊或由其所
+組成者，專利排他權及於結合(incorporated)該物，且擁有及表現
+(perform)與該物相同功能之物品（第3項）。」與本案爭點有關者乃
+荷蘭專利法第53a 條第3項，亦即大豆粉中單純呈現(presence alone)
+抗除草劑基因，是否即已構成090專利權之侵害。
+
+      海牙地方法院認為，Monsanto 雖基於荷蘭法提出訴訟，惟荷
+蘭專利法第53a 條第1項及第2項乃源自於98/44/EC 指令第8條，第3
+
+
+
+
+    against goods suspected of infringing certain intellectual property rights and the
+    measures to be taken against goods found to have infringed such rights, 2003 O.J. (L
+    196) 7-14.
+114 海牙地方法院受理之專利侵權訴訟案，阿根廷政府以參加人(intervener)身份支
+    持被告 Cefetra。
+115 該等條文內容相當於我國專利法第58條第2項及第3項、舊法第56條第1項及第
+    2項。
+基因研究成果之專利保護及權利範圍                                                                       99
+
+
+
+
+項則源自於該指令第9條116，因此，本案實則涉及98/44/EC 指令第
+9條之適用。前揭條文明定基因專利權之權利範圍應如何闡釋，固
+然攸關被告是否成立侵權，然其解釋結果不僅影響98/44/EC 指令在
+歐盟各國之具體適用，亦涉及歐盟之內國法是否符合 TRIPS 協定
+第27條117 專利保護及第30條118 專利權限制之相關規定。因此，海
+牙地方法院裁定暫停審理，依 EC 條約第234條119請求歐洲法院就
+如下法律解釋為先行裁決(references for a preliminary ruling)120：
+
+       (i) 98/44/EC 指令第9條是否同樣適用於本案案由，亦即進口
+            至歐盟之物包含專利保護之基因，該基因之功能於進口物
+            品之形成過程確實曾表現出或有表現之可能性，但在權利
+            人主張專利權侵害之際，該基因並未表現其功能？
+
+
+116 98/44/EC 指令第9條之條文如下：除本指令第5條第1項規定外，專利保護之物
+    若包含基因資訊或由其所組成者，專利排他權及於結合該物，且擁有及表現
+    與該物相同功能之物品（The protection conferred by a patent on a product
+    containing or consisting of genetic information shall extend to all material, save as
+    provided in Article 5(1), in which the product in incorporated and in which the
+    genetic information is contained and performs its function.）
+                                                               。
+117 TRIPS 協定第27條規定如下：除本條第2項及第3項外，任何技術領域之物品
+    或方法發明，若具備新穎性及進步性，且有產業利用性者，會員應予以專利
+    保護。依本協定第65條第4項、第70條第8項及本條第3項應予以專利保護者，
+    其權利範圍不得因發明地、技術領域、產品為進口或內國所製造之不同，而
+    有歧視（第1項）。會員為保護公共秩序或倫理道德之必要，得禁止特定發明
+    之商業化利用而不予專利，包括為了保護人類、動物或植物之生命或健康、
+    抑或為了避免對環境的嚴重破壞，但不能僅因內國法禁止該發明之利用（第2
+    項）。會員得排除下列發明之可專利性：(a) 人體或動物疾病之診斷、治療及
+    手術方法；(b) 微生物以外之植物及動物、主要生物學之植物及或動物培育方
+    法，其為非主要生物學及微生物學之方法者，不在此限。會員應以專利法、
+    單獨立法或前二者之組合方式保護植物品種。本款於世界貿易組織協定生效
+    後4年予以檢討（第3項）              。
+118 TRIPS 協定第30條規定：會員得明定專利權限制之例外規定，但限於其未不
+    合理抵觸專利之一般實施、未不合理侵害專利權人之合法權益，且應考量第
+    三人之合法權益。
+119 依據 EC 條約第234條規定，會員國法院在個案審理時，若對歐盟法律之解釋
+    或有效性存有疑義，可向歐洲法院提出諮詢，由歐洲法院進行先行裁決程
+    序。
+120 Case C-428/08, para. 32.
+100                                    2011 科技發展與法律規範雙年刊
+
+
+
+       (ii) 98/44/EC 指令第9條對於基因發明是否採徹底及絕對的保
+            護，並禁止會員國於內國法排除基因專利權之絕對保護？
+
+       (iii) 090專利在1996年即已核准，遠早於98/44/EC 指令完成立
+            法及落實於內國法之際，因此，090專利權之效力問題是
+            否同樣適用98/44/EC 指令？
+
+       (iv) 闡釋前揭問題時，應否同時考量 TRIPS 協定第27條及第
+            30條之規定？
+
+      （二）Monsanto、Cefetra 及海牙地方法院之見解
+      基因發明在准予專利後，權利範圍之界定應採目的限制保護
+(purpose-bound protection; zweckgebundener odr funktionsgebundener
+Schutz)或同於一般物質受到絕對保護(absolute protection; absoluter
+          121
+Schutz)         ，於98/44/EC 指令研擬過程歐盟各國間即有相當歧見，
+但透過98/44/EC 指令第9條之規定，多數會員國認為基因專利權仍
+適用物質絕對保護之基本原則，權利範圍及於該物質（基因）所有
+可能的形式及使用可能性，不限於專利申請時已知、公開或主張之
+用途及功能。因此，申請人於說明書所載內容，僅為該基因發明可
+能用途或功能之例示性解釋，藉以判斷其可專利性（諸如產業利用
+     ，而非用於界定專利權之範圍。然 Monsanto 在海牙法
+性及進步性）
+院起訴之專利侵權案，當事人之爭執點並不在此，而是該基因於作
+物（大豆）生長過程確實發揮專利權所保護之用途及功能，但權利
+人主張專利權侵害之際，其功能在該物品（大豆粉）已無重要性，
+因此，基因雖仍呈現於被控侵權物（大豆粉），卻未表現其用途及
+功能，此等侵權物是否仍為基因專利權之效力所及，不無疑問。
+
+
+
+121 關於98/44/EC 指令就基因專利權之絕對保護及目的限制保護介紹與討論，參
+      見李素華，基因及基因醫藥之專利法制發展趨勢，收於：謝銘洋編，基因體
+      醫學研發創新與智慧財產權，頁82-87（2010年）
+                               。
+基因研究成果之專利保護及權利範圍                          101
+
+
+
+
+     進口大豆粉之 Cefetra 主張，荷蘭專利法第53a 條並未違背
+98/44/EC 指令第9條，基因專利權在荷蘭享有絕對的效力。易言
+之，物品中若包含專利保護之基因，只要該基因仍發揮其用途及功
+能，不論該用途或功能是否於專利申請時已被揭露，均為專利權效
+力所及。例如：090專利申請時僅例示抗除草劑基因能用於大豆，
+行為人若將該基因轉殖於玉米或黃豆，所產生之玉米及黃豆應為專
+利權效力所及，不問抗除草劑基因在玉米及黃豆之應用是否揭露於
+專利申請文件。惟觀諸 Cefetra 所進口的大豆粉，雖然被檢驗出含
+有090專利之抗除草劑基因，卻已不再表現其功能，從而 Monsanto
+無權再基於該基因專利權而禁止大豆粉之進口或銷售行為122。
+
+     Monsanto 反駁被告見解，認為98/44/EC 指令並未限制生物技
+術發明之保護範圍，將指令內容落實於內國法之荷蘭專利法第53條
+及第53a 條，自然不能對基因專利權之效力加諸任何限制，基因發
+明應受到絕對保護，限制基因專利權之權利內容將違反 TRIPS 協定
+第27條123。Monsanto 亦主張，大豆粉中之抗除草劑基因只是暫時
+停止表現其功能，並未完全失去功能，利用生物技術仍能將該基因
+轉殖到其他活的生物材料，使其再度發揮抗除草劑之功能，因此，
+即便在該基因暫時停止表現之情況，仍應為專利權效力所及124。
+
+     海牙地方法院認為，98/44/EC 指令第9條及荷蘭專利法第53a
+條明確規定：專利保護之基因結合於特定物，且能由該物中發現基
+因之遺傳訊息及表現其功能者，應為專利權效力所及。依循此等規
+定，海牙地方法院一方面支持被告 Cefetra 主張，亦即 Monsanto 於
+主張專利侵權之際，大豆粉中之基因並未表現其功能，應為已死亡
+的物質(dead material)125。但從另一方面來看，法院認為 Monsanto
+
+
+122 Case C-428/08, para. 23.
+123 Case C-428/08, para. 24.
+124 Case C-428/08, para. 27.
+125 Case C-428/08, para. 26.
+102                               2011 科技發展與法律規範雙年刊
+
+
+之主張亦屬有理，亦即大豆粉中之基因仍具有抗除草劑功能，被控
+侵權時該功能只是處於暫停狀態；另外，基因或其他生物材料並不
+需要持續處於發揮功能之狀態，諸如僅於特定壓力、溫度、濕度或
+病菌之條件下始會活化(activate)某基因或微生物。再者，若基因專
+利權人無法對大豆粉之進口行為主張權利，則98/44/EC 指令第9條
+及荷蘭專利法第53a 條所稱基因專利權受到絕對保護之規定，究能
+適用於何種狀況，不無疑義 126 。海牙地方法院認為，Cefetra 及
+Monsanto 主張均有值得支持之論點，由於此一問題涉及98/44/EC
+指令第9條及 TRIPS 協定適用，因而請求歐洲法院就法律解釋為先
+行裁決。
+
+      （三）歐洲法院之見解
+      1. 依基因是否處於「表現」狀態決定專利權範圍
+
+      C-428/08案最重要之法律解釋，乃關於98/44/EC 指令第9條基
+因專利權效力之闡釋，歐洲法院從條文之文字探討之。依其規定，
+專利排他權及於任何含有該基因之物，且其擁有及「表現」該基因
+之遺傳訊息，據此，能為專利權效力所及者，限於該基因在當下及
+實際物品中(at the present time and in the actual material)，確實處於
+「表現」狀態者127。觀諸海牙地方法院所審理之專利侵權案，抗除
+草劑基因在作物生長過程的確發揮功能，惟此等抵抗 glyphosate 除
+草劑之功能，並未表現於進口的大豆粉，甚而在正常狀況下亦難以
+預見(not normally conceivable)大豆粉需此功能。
+
+      為了製造大豆粉，收割後的大豆會經由不同程序處理，於此過
+程已使大豆粉成為死亡的物質，大豆粉中即便仍有抗除草劑基因，
+其乃結合在死亡的物質中及已經「停止表現」(cease to perform)；
+
+
+126 Case C-428/08, para. 27-30.
+127 Case C-428/08, para. 34-35.
+基因研究成果之專利保護及權利範圍                                  103
+
+
+
+
+日後若真有機會利用到抗除草劑基因之原有功能，僅可能發生於例
+外及有限之情況(in a residual state)，98/44/EC 指令第9條欲賦予之基
+因專利權效力，並未涵蓋於此。從大豆粉中擷取抗除草劑基因及轉
+殖到其他活的生物體，又創造出不同的生物材料，其是否為專利權
+效力所及，應再回到98/44/EC 指令第9條來判斷，此與包含抗除草
+劑基因之大豆粉無關。基因權利人不能僅因大豆粉包含特定基因，
+且該基因日後有被擷取及轉殖之可能性，即可藉此對大豆粉主張排
+他權128。98/44/EC 指令之立法說明(recital in the preamble)第23段及
+第24段、指令第5條第3項明定，必須揭露該基因之功能或用途，始
+能滿足可專利性要件。延伸前揭規定之內涵，該基因本身若已不再
+表現其功能或用途，自然不應繼續受到專利權保護，此等立法意旨
+已見諸98/44/EC 指令第9條之條文文字129。
+
+     據此，專利權保護之基因若是結合在活的物質，諸如大豆或其
+他活的生物材料，該基因仍能表現其功能，應為專利權效力所及；
+反之，與基因結合之物若已經過處理而成為死亡的物質，基因於該
+物已不再表現其功能，自然不會落入專利權之權利範圍。此等關於
+基因專利權效力之解釋，始為98/44/EC 指令第9條所指之意義130。
+
+      2. 關於本案之其他重要問題
+
+     針對海牙地方法院所提第二個問題，亦即98/44/EC 指令第9條
+是否有意禁止歐盟會員國就基因專利權效力為相異之規定，歐洲法
+院持肯定見解。其認為，從指令立法說明第3段至第5段、第7段、
+第8段到第13段文字可知，歐盟訂定98/44/EC 指令之主要目的，即
+在避免會員國就生物技術發明之智慧財產保護及權利內容採取不同
+作法，阻礙共同體內部市場之自由流通，因此，指令之規定應一體
+
+
+128 Case C-428/08, para. 36-40.
+129 Case C-428/08, para. 41-46.
+130 Case C-428/08, para. 47-50.
+104                                       2011 科技發展與法律規範雙年刊
+
+
+適用於所有會員國，法條並無意賦予內國法相異之立法空間131。
+
+      98/44/EC 指令生效前已核准之基因專利權是否同樣適用指令第
+9條規定，歐洲法院亦持肯定見解。其指出，從歐洲法院歷來判決
+及其所適用之基本原則可知，歐盟所通過之法規原則上是立即生
+效，且取代舊法。觀諸98/44/EC 指令並無過渡條款之安排，亦未就
+既有專利權為特別規定；另外，指令生效前已核准之專利權若不屬
+於98/44/EC 指令之適用範疇，將使生物技術發明之智慧財產權保護
+及權利內容產生歧異，造成共同體內部自由交易之阻礙。因此，不
+問發明專利權之核准時間點，均應適用98/44/EC 指令之規定132。
+
+      關於98/44/EC 指令是否違反 TRIPS 協定第27條及第30條之疑
+義，歐洲法院持否定見解。首先，TRIPS 協定乃國際公約之性質，
+除了 WTO 會員外，專利權人不得基於 TRIPS 協定內容而向法院起
+訴或主張權利；若98/44/EC 指令之內容有違反 TRIPS 協定之可
+能，應由歐盟與 WTO 會員協調討論之。另外，即便認為98/44/EC
+指令第9條關於基因專利權效力之解釋對權利人造成限制，該等限
+制應符合 TRIPS 協定第30條規定，亦即其未不合理抵觸專利之一
+般 實 施 、 未 不 合 理 侵 害 專 利 權 人 之 合 法 權 益 (not unreasonably
+prejudice the legitimate interests of the patent owner)，且應考量第三
+人之合法權益。
+
+二、本文見解—從基因發明之性質界定基因專利權範圍
+
+      歐洲法院關於基因專利權效力之闡釋，本文亦表支持，並認為
+此等解釋較符合准予基因發明專利權保護之立法意旨。易言之，斷
+然排除基因專利權之行使或對權利範圍採嚴格解釋，可能使生醫領
+域之研究人員無法有足夠的研發誘因，關於基因專利權之權利範圍
+
+
+131 詳細討論，參見 Case C-428/08, para. 51-63.
+132 Case C-428/08, para. 64-69.
+基因研究成果之專利保護及權利範圍                                                105
+
+
+
+
+界定，應考量專利制度之起源背景、科學技術之發展現況與基因相
+關生技發明之特性，為合於制度及其立法目的之解釋。
+
+   （一）發明態樣於專利制度之演變
+     1. 專利制度建立之初所設想的「發明」
+
+     專利制度的前身—「特許」(privileges; die Privilegien)，起源
+於中世紀，拉丁文之特許令為 litterae patentes，此一名詞後來被沿
+用而成為今日之專利(patent; das Patent)133。接近現代化的專利法，
+乃1474年3月19日威尼斯共和國(Venetian Republic)頒布之威尼斯專
+利法(the Venetian Patent Statute)134，為了使發明人願意公開技術內
+容，減少以營業秘密形式保護，威尼斯共和國之專利法已有公開發
+明、賦予發明人一定期間利益及取得發明實施對價之制度135。由威
+尼斯共和國所建立的專利制度迅速向歐陸各國擴散，其後亦為大西
+洋彼岸之北美洲殖民地所接受。美國獨立運動時期，基於促進科學
+(science)與實用技術(useful art)的發展，各州提議由國會制定適當法
+律以尊重著作權與專利權，該等建議日後亦明定於美國憲法第1條
+第8項第8款，賦予國會立法之權力，該法律的核心為：鼓勵實用技
+術之進步、在有限期間內賦予發明人排他權136。美國隨後於1790年
+頒訂專利法(the Patent Act of 1790)。
+
+     從專利制度在歐陸之發展歷史可知，制度建立者當時所設想之
+發明態樣為「製品」(manufactures)，司法實務對於製品之闡釋採廣
+義見解，所指者為進步性技藝之成果(product of inventive skill)，至
+若其是否具有銷售可能性(vendible)，則非所問137 ；除此之外，利
+
+
+133 Kraßer (Fn. 71), S. 58.
+134 KIEFF, NEWMAN, SCHWARTZ & SMITH, supra note 85, at 11.
+135 Kraßer (Fn. 71), S. 58.
+136 KIEFF, NEWMAN, SCHWARTZ & SMITH, supra note 85, at 16-17.
+137 Id. at 779.
+106                                             2011 科技發展與法律規範雙年刊
+
+
+用自然法則產生物理力之方法(a method of applying physical forces to
+the production of physical effects)，諸如產生製品之程序(processes)，
+亦為立法者當時所思及之發明138。同樣的，1790年美國專利法制定
+時，條文明定之發明乃「任何有實用性(useful)之技藝(art)、製品
+(manufacture)、發動機(engine)、機器(machine)、裝置(device)或對
+於前述內容之改良(improvement)」。其後專利法修正於條文中定義
+發明，自此所謂的方法、製品、機器及物之組成，向來被稱為專利
+制度所保護的四大類發明139；此四大類發明之標的(subject)，不論
+是物品發明或方法發明，所指者往往為具體及有形(concrete and
+tangible)之研究成果。
+
+      觀諸歐陸在專利制度建立之初，所准予專利權之發明，主要乃
+關於機械或裝置之物品或方法。例如：1594年著名的天文學家伽利
+略 (Galileo Galilei) 以 抽 水 及 灌 溉 裝 置 (water-raising and irrigation
+                   140
+device)獲准專利           ，1649年法國數學家 Blaise Pascal 之計算器裝置
+取得專利權保護，荷蘭發明家 Christiaan Huygens 分別於1657年及
+                                                             141
+1675年以擺錘時鐘(pendulum clock)裝置獲准專利                                   。除前述個案
+外，歐洲工業革命期間所核准之專利權，諸多為機器裝置之發明，
+尤其是應用於紡織領域，諸如關於棉花或蠶絲的製造機器142 。另
+外，美國第一個准予的專利權乃製造碳酸鉀(potash)之方法發明，
+由該方法所產生之產物主要當作肥料使用143。
+
+      2. 當前專利制度所面對之「發明」
+
+      隨著科學知識之擴展，新興技術之發展日趨成熟，逐漸產生難
+
+
+138 Id. at 779.
+139 JANICE M. MUELLER, PATENT LAW 254-55 (3d ed. 2009).
+140 KIEFF, NEWMAN, SCHWARTZ & SMITH, supra note 85, at 12 n.46.
+141 Kraßer (Fn. 71), S. 60.
+142 Kraßer (Fn. 71), S. 62.
+143 MUELLER, supra note 139, at 258.
+基因研究成果之專利保護及權利範圍                                                             107
+
+
+
+
+以被歸類為傳統四大類發明之研究成果，例如：商業方法(methods
+of doing business; business methods) 或 電 腦 程 式 (program for
+                                                     144
+computer)；又如基因、基因序列之生物材料                                   。1980年美國最高
+法院於 Diamond v. Chakrabarty 案明確表示，專利法第101條所列之
+四大類發明僅為例示性(representative)的立法，專利保護之發明涵
+蓋「太陽底下由人為所創作之任何事物」，自此開啟美國對商業方
+法、電腦程式及生物技術相關發明之專利保護，歐洲及亞洲各國亦
+受影響而大幅擴大專利標的之範疇。
+
+    新興技術發展所產生之研究成果同樣能享有專利排他權，固然
+能賦予發明人投入創新研發之誘因，惟既有專利制度之所有規定能
+否毫無例外的適用於新興之發明態樣，不無疑義145，諸如基因有關
+生技發明之專利保護問題。蓋長久以來專利專責機關所准予之物品
+發明，均屬具體可見之物品或物質之製品、機械或裝置，而非難以
+
+
+144 KIEFF, NEWMAN, SCHWARTZ & SMITH, supra note 85, at 781.
+145 除本文所討論之生技研究成果外，商業方法及電腦程式發明之保護問題，亦
+   為近年來專利法制之重要議題。例如：如何解決商業方法及電腦程式與既有
+   發明定義之捍格，在美國及歐洲均屬高度爭議之問題，蓋相較於過往所保護
+   之方法發明，此等新興方法之具體應用並不會產生具體而有形之產物。美國
+   專利申請及司法實務雖早已承認商業方法及電腦程式能准予專利，然2008年
+   以來由 CAFC 及最高法院作成之 Bilski 案（545 F.3d 943 (Fed. Cir. 2008)）判決
+   仍引發各界討論。EPC 公約第52條第2項 C 款雖明定：心智活動、遊戲、商業
+   活動及電腦程式之計畫、規則及方法(schemes, rules and methods for performing
+   mental acts, playing games or doing business, and programs for computers)，不視
+   為發明(shall not be regarded as inventions)，惟 EPO 仍核准相當數量之商業方法
+   及電腦程式專利，在歐洲不乏有支持及撻伐聲浪，歐盟執委會(European
+   Commission)多次提出電腦應用發明之專利保護指令(Directive on the protection
+   by patents of computer-implemented inventions)草案，試圖界定哪些商業方法及
+   電腦程式發明能獲准專利，然因爭議過大而未能為會員國承認而完成立法程
+   序。關於美國商業方法及電腦軟體之專利標的適格問題、Bilski 案之案由及法
+   院見解，詳見王立達，託古改制或重新出發—從 Bilski 案看美國方法專利標
+   的適格之最新發展，            「電子商務與智慧財產權的新思維與展望」學術研討會，
+   政治大學法學院主辦，頁15-31（2010年11月12日）                       ；關於歐盟電腦應用發明之
+   專利保護問題，詳細資料及討論，參見 Patentability of computer-implemented
+   inventions, EUROPEAN COMMISSION, http://ec.europa.eu/internal_market/indprop/
+   comp/index_en.htm (last visited Jan. 31, 2012).
+108                                    2011 科技發展與法律規範雙年刊
+
+
+想像、觸及或肉眼可見之之化學物質、藥品、微生物、基因或其他
+生物材料，更遑論該等發明本身或其應用涉及生命型態(life form)，
+能否享有排他權，自屬高度爭議議題。若將其納入專利制度，可能
+引發之疑問在於：基因專利權之權利範圍如何界定、權利耗盡理論
+(exhaustion doctrine; Erschöpfungsgrundsatz)或第一次銷售理論(first
+                 146
+sale doctrine)         如何適用於具有自我複製能力或能於生物系統中複
+製(capable of reproducing itself or being reproduced in a biological
+system)之生物材料；亦即由專利權人同意而在市場上流通之基因或
+生物材料，若因複製或自我繁殖而有產物之產生，是否仍為基因專
+利權效力所及、抑或適用權利耗盡理論。前揭新興發明態樣之專利
+保護及權利範圍，影響新科技產業之發展。
+
+      （二）專利權範圍界定應考量發明特性及其對公共利益之影響
+      已如前述，專利制度建立之初所思及的發明態樣，非具有繁衍
+能力或生命型態之物，從而過去關於物品專利權效力之規定，係以
+機械、製品、裝置等具體及有形物之發明為基礎。惟面對性質上截
+然不同之生物技術發明，如何在專利制度原先欲建構之架構及立法
+意旨下，界定其權利範圍，實需立法機關與司法機關共同努力，以
+達到鼓勵創新研發與促進公共利益之法規範目的。
+
+      1. 立法機關適時修法
+
+      具一定特性、以專利保護之微生物或細胞株，其繁衍的微生物
+及細胞株是否亦為專利權效力所及，抑或因權利耗盡理論而可由買
+受人自由處分，甚而繼續繁衍再將其販賣，不無疑問。前揭答案若
+為肯定，固然可適度限制排他權範圍，惟對專利權人甚為不利，可
+
+
+146 所謂的專利權耗盡，係指專利物品若由專利權人或其授權之人所合法製造，
+      並由專利權人同意而在市場上流通者，權利人就發明之實施權即被耗盡，對
+      該專利物品不再享有排他權限，其乃不再受到專利權拘束(patentfrei)之物品。
+      Kraßer (Fn. 71), S. 744.
+基因研究成果之專利保護及權利範圍                                                             109
+
+
+
+
+能破壞發明人從事研發之誘因147 ，蓋買受人可無限繁殖專利物品
+（生物材料）供自行使用或將其出售，基因或生物材料相關專利權
+人能享有之經濟利益因而甚為有限。相反的，若認為繁衍後的生物
+材料不適用權利耗盡理論，仍為專利權效力所及，則可能對科學技
+術研究或公共利益產生困擾。例如：大學或研究機構為了實驗目的
+而購買包含特定基因之微生物或細胞株，通常會培養或複製該微生
+物或細胞株供實驗之用，所培養的微生物或細胞株若不適用權利耗
+盡理論，生物技術領域之研究活動可能根本無法繼續進行。
+
+     針對前述情況，專利制度決定將發明之態樣擴及有生命力的生
+物技術研究成果時，立法機關已於修正法律及制定新法時，儘可能
+思及既有規範應調整或修正之處，包括確立生物材料之可專利性判
+斷標準、重新界定專利權之權利範圍及權利耗盡原則之適用。以歐
+盟98/44/EC 指令為例，第9條明定基因專利權之權利範圍，並就權
+利耗盡事宜規定於指令第8條：擁有一定特性之生物材料若受到專
+利保護，專利權及於由該生物材料所繁殖、且擁有相同特性之生物
+材料，不問其為相同或相異型態；專利所保護之特定方法，能產生
+一定特性之生物材料者，專利權及於實施該方法所直接產生之生物
+材料，由該生物材料所繁殖、且擁有相同特性之生物材料，不問其
+為相同或相異型態，亦為方法專利權所及。據此，若是自然狀態下
+所繁殖之生物材料，只要仍具有發明之技術特徵，仍為專利權效力
+所及，例如：專利保護之基因轉殖微生物，繁殖後之微生物不發生
+權利耗盡之結果，仍屬專利權之權利範圍。
+
+     2. 司法機關之法律適用符合目的性解釋
+
+     惟立法機關即便於事前盡可能配合基因或其他生物技術發明之
+特殊性而進行法規修正，仍不免有疏漏之處，在個案上即應由司法
+
+
+147 Scott A. Chambers, Exhaustion Doctrine in Biotechnology, 35 IDEA 289, 320-21
+    (1995).
+110                    2011 科技發展與法律規範雙年刊
+
+
+機關基於專利制度之本質，對法條文字作最妥適之闡釋與適用，如
+同歐洲法院在 C-428/08案就98/44/EC 指令第8條之解釋。本文認
+為，歐洲法院關於基因專利權之權利範圍界定，考量到專利保護之
+基因於被控侵權物中是否仍表現其功能、是否仍發揮其技術特徵，
+實與專利制度原先所建構及欲賦予權利人排他權之內涵相符，亦能
+符合公共利益（公共衛生）之需求。詳言之，基因發明之特性在
+於，其乃帶有遺傳訊息的載體及具有繁衍能力，此等發明之呈現方
+式亦迥異於體積較大、肉眼可見及物理上容易觸及之傳統發明態
+樣，諸如機械或裝置。基於此等特性，即便是經過加工或其他不同
+步驟已完全改變原有物之型態或性質，卻仍能檢測得該基因之存
+在。例如：某轉殖基因之功能在控制黃豆的生長速度，由該黃豆製
+成之黃豆粉、豆腐、豆漿或醬油等加工物，仍可能測得該基因，然
+是否因此而認為前述之所有物品均為專利權效力所及，實有疑義。
+
+      面對此等新興發明態樣，專利制度自應重新闡釋權利範圍之規
+定，非僵化的適用既有之物品專利權效力規範。被控侵權之物若完
+全沒有發揮發明應有之技術功能，應不認為該物具備專利排他權所
+保護之技術特徵。090專利所保護之發明內容乃抗除草劑基因，作
+物種植者會選擇栽種 RR 基因轉殖大豆係因其抗除草劑特性，亦即
+基於該基因之技術特徵，因此，不論是該基因轉殖大豆或由其所繁
+衍之其他大豆，均應為專利權效力所及，此乃98/44/EC 指令第8條
+所明定。相同的，RR 基因若轉殖至玉米或黃豆，栽種者會種植該
+等作物之考量亦在於發明之技術特徵，亦即抗除草劑特性，從而帶
+有 RR 基因之玉米或黃豆自應為專利權效力所及，此即98/44/EC 指
+令第9條欲規範之情形。然觀諸 C-428/08案，Cefetra 進口或購買之
+     ，固然帶有 RR 轉殖基因，似乎仍有98/44/EC 指令第9
+物（大豆粉）
+條適用，惟此等情形並非立法者當初所涉想及規範之態樣。其次，
+Cefetra 進口或購買大豆粉之原因，絲毫無涉於抗除草劑基因之技
+術功效，能否使其為專利權效力所及，實有疑義。在生物技術之協
+基因研究成果之專利保護及權利範圍              111
+
+
+
+
+助下，確實可從黃豆粉、豆漿或醬油等加工品中擷取出基因，將其
+轉殖入活生物體後依然能發揮該基因之功能，惟此等結果乃生物技
+術特殊性使然，不應藉此特殊性而進一步擴張權利範圍，讓基因專
+利權人享有較其他專利權人更廣之排他權。從發明之利用方式來
+看，難以想見在正常情況下第三人會從黃豆粉或醬油中擷取欲轉殖
+之 RR 基因，即便有第三人為此行為，基因專利權人本來即可主張
+專利物品之「使用」或「製造」，權益已可獲得保障。據此，縱然
+從 RR 基因轉殖大豆粉可檢測出抗除草劑基因，其已非專利法所稱
+之專利物品，第三人就該等物品之製造、販賣之要約、販賣、使用
+或進口行為應不構成基因專利權之侵害。若不為此等解釋，基因專
+利權將嚴重影響農糧產品之流通，亦使消費者無法以合理價格近用
+基因轉殖動植物之衍生物。
+
+  以基因是否仍發揮原有之功能與技術功效來界定權利範圍，一
+方面可使基因專利權人享有足夠的排他權，發揮專利制度賦予發明
+人創新研發誘因之功能；另一方面又不會過度擴張權利範圍，對公
+共利益及民眾糧食取得造成不利影響。關於基因專利權範圍之界
+定，固然宜應透過立法或修法方式達成，惟在法律無明文規定下，
+亦可由司法機關於個案上就專利權效力為目的性之解釋，如同歐洲
+法院之作法。立法機關即便在事前盡可能配合生物技術發明之特殊
+性進行法規修正，仍不免有疏漏之處，在個案上即應由司法機關從
+專利制度之本質就法條適用作最妥適之闡釋與適用，專利制度當無
+意使基因專利權人漫無限制的享有絕對保護，甚而不利於公益或危
+及公共衛生。
+112                     2011 科技發展與法律規範雙年刊
+
+
+
+伍、基因專利權對公共衛生衝突之調和方向
+  —代結論
+
+一、專利權對公共衛生之衝突有不同解決途徑
+
+      隨著生物技術應用，醫藥開發早已跳脫隨機及單純化學合成時
+代，因科學知識進展而越來越瞭解疾病與特定基因關連性後，新醫
+藥及醫療技術研發初期階段即可利用基因研究成果而有更多元化的
+研究工具及試驗材料，亦能加速新醫療產品及服務之開發腳步。為
+了鼓勵公共衛生相關產業發展，國家在法律制度應承認基因研究成
+果之專利適格性及專利保護可能性，惟權利人之排他權行使自不能
+不利於公共衛生制度之運作與發展，本文所探討之美歐新近基因專
+利案似顯示專利制度與公共衛生制度之衝突。
+
+      解決基因專利權對公共衛生之衝突有各種方式，以 BRCA 基
+因專利權之無效訴訟案為例，提起訴訟之原告所採取方式乃全然否
+定基因研究成果之專利適格性，此等作法固然能避免疾病診斷或治
+療受制於專利排他權，惟同時也會扼殺研發誘因。歐洲法院受理之
+C-428/08案亦同，全然否定 RR 基因專利權效力一方面可避免排他
+權對農糧近用之衝擊，另一方面也可能使生技業者較無意願投入農
+業領域之研究，不利於農糧及其產品之多元化發展，最終亦不利於
+公共衛生。因此，本文認為，專利制度從一開始即否定基因研究成
+果之專利適格性或專利權效力，並非最妥適方式。
+
+      調和專利排他權對公共衛生之衝突有諸多可能途徑，如何兼顧
+發明人利益與社會整體公益，始為當前智慧財產與公共衛生領域學
+者、實務各界積極研議之重點，近年來已有專利法之具體修法，國
+際組織與學者亦陸續提出解決議案148。
+
+
+148 本議題研究過程所參酌之諸多專書，均力圖尋求專利權對公共衛生所生衝突
+      之解決之道。正由於不同調和衝突之方式各有其優劣點，亦待智慧財產權與
+基因研究成果之專利保護及權利範圍                                                                113
+
+
+
+
+二、專利法已明定基因專利權之限制規定
+
+     衡諸 TRIPS 協定第30條149已肯定應適度限制專利權，現行專
+利制度早有專利權效力所不及之試驗實施例外、強制授權及國家使
+用(government use)150機制151。惟考量公共衛生需求，專利法針對
+醫藥及醫療研究成果另有特別規定專利權限制之特別規定152。關於
+專利適格性，除美國以外之多數國家，迄今仍不予醫療方法之專利
+保護（參見我國專利法及舊法第24條第2款）153，藥品發明則至晚
+近、甚而是1970年代以後，始承認其專利適格性154。關於專利權限
+制部分，源自於美國 Hatch-Waxman Act155之醫藥專利試驗實施例
+外事由，目前已明定於諸多國家之專利法或醫藥法律，包括德國專
+
+
+
+    公共衛生領域之學者專家有更多溝通與對話，因此，本文無意率然指出應採
+    行何種解決方式，僅提出目前已有之具體作法及可能方案。不同解決方式之
+    內容及優劣分析，已於或將於他文逐一及深入研析之。
+149 TRIPS 協定第30條規定，參見註118。
+150 參見德國專利法第13條及我國專利法第87條第1項。
+151 U.S. DEP’T OF HEALTH & HUMAN SERV., supra note 87, at 85-88; Van Overwalle,
+    supra note 75, at 249-51.
+152 Schulte/Moufang, Patengesetz, 8. Aufl., 2008, § 1 Rn. 246.
+153 關於醫療方法之專利保護問題，參見李素華、謝銘洋，生技醫療產業所面對
+    之新興專利課題—基因檢測、細胞治療與基因治療之專利保護與權利限制，
+    收於：謝銘洋編，基因體醫學研發創新與智慧財產權，頁111-158（2010年）                                      。
+154 多數國家晚近始承認藥品專利，包括德國在1967年專利法修正前，明定飲食
+    品、嗜好品、醫藥及化學程序所製造的物質不予專利；日本於1975年始參照
+    美國專利法引進物質專利制度(substance patent system)，承認醫藥及化學物質
+    之可專利性；我國1986年以前之專利法明定，化學品、醫藥品及其調合品不
+    予專利（1979年專利法第4條第1及3款）。在此之前，僅醫藥相關發明之製造
+    方法或製程能獲准方法專利。Busse/Keukenschrijver (Fn. 71), § 1, Rn. 128; GE
+    SHU, THE JAPANESE PATENT EXAMINATION AND TRAINING SYSTEM 10-11 (2001),
+    available at http://www.jpo.go.jp/torikumi_e/kokusai_e/asia_ip_e/pdf/wipo/2000_
+    china.pdf.
+155 美 國 國 會 於 1984 年 通 過 藥 物 價 格 競 爭 與 專 利 延 長 保 護 法 (Drug Price
+    Competition and Patent Restoration Act)，此即著名的 Hatch-Waxman Act，美國
+    諸多重要的醫藥智慧財產制度均源自於本法，包括：資料專屬權、醫藥專利
+    延長保護、學名藥研發之試驗實施例外條款（亦即 Bolar 條款）                                  、專利連結制
+    度(patent linkage)。部分制度目前亦為各國所採。
+114                                    2011 科技發展與法律規範雙年刊
+
+
+利法第11條第2b 款及我國藥事法第40-2條第5項156，其乃針對醫藥
+發明及為了取得上市許可所進行試驗之特別規定。又如，德國專利
+法第11條第3款及我國專利法第61條（舊法第58條）157明定藥品處
+方及調劑免責。另外，考量內國無製藥能力或無力購買高價藥品國
+家之公共衛生需求，2003年8月底 WTO 通過「執行杜哈 TRIPS 協
+定與公共衛生宣言第六段決議」(Implementation of paragraph 6 of
+                                                             158
+the Doha Declaration on the TRIPS Agreement and public health)   ，
+使開發中及低度開發會員能透過強制授權低價進口必要藥物，2005
+年12月 WTO 進一步將決議內容增訂於 TRIPS 協定第31-1條159，此
+為 TRIPS 協定施行以來第一次重大的實質條文修正，WTO 會員未
+來落實前揭條文後，專利法將另有醫藥專利之強制授權規定160。
+
+      考量農糧需求之公共衛生政策，首開先例而明文限制生物技術
+專利權者乃歐盟98/44/EC 指令。該指令第11條第1項及其後落實指
+令內容之德國專利法第9c 條第1項規定，專利權保護之基因轉殖植
+物（諸如基因轉殖大豆），係由專利權人或其同意之人為農業栽種
+
+
+
+156 藥事法第40條之2第5項已移列於專利法第60條。關於我國醫藥專利試驗實施
+    例外及相關判決之討論，參見陳昭華、鍾鏡湖、張乃文、鄭耀誠，學名藥試
+    驗免責規範之探討，收於：謝銘洋編，基因體醫學研發創新與智慧財產權，
+    頁183-232（2010年）  ；孫小萍，處方藥產業的法律戰爭—專利侵權之學名藥
+    實驗例外，頁125-194（2008年）        。
+157 參見專利法新法第61條。
+158 WTO Doc.,WT/L/540 (Aug. 30 2003)。關於 TRIPS 協定第31條醫藥專利強制授
+    權爭議與發展，參見林彩瑜（註110）              ，頁1-59；林宜男、許佳惠，WTO 醫藥
+    專利與公共健康議題之研析—兼論我國未來之發展趨勢，清華科技法律與
+    政策論叢，2卷1期，頁205-257（2005年）         ；王立達，從 TRIPS 協定與公眾健
+    康爭議論專利強制授權之功能與侷限，科技法學評論，1卷1期，頁215-246
+    （2004年）；倪貴榮，WTO 智慧財產權保護與公共健康議題之發展趨勢，經
+    社法制論叢，31期，頁129-158（2003年）         。
+159 WTO Doc., WT/L/641。增訂的 TRIPS 協定第31-1條與執行杜哈 TRIPS 協定與
+    公共衛生宣言第六段決議內容一致，並將決議之部分內容列為 TRIPS 協定之
+    附件(Annex)。TRIPS 協定修正案必須經過三分之二的 WTO 會員認可始生效
+    力，至2012年1月17日之 WTO 網站資料，TRIPS 協定修正尚未生效。
+160 參見專利法新法第90條及第91條。
+基因研究成果之專利保護及權利範圍                         115
+
+
+
+
+目的而販賣者，買受人種植後所繁殖之收穫物於符合一定要件下，
+得由農業經營者在其農業活動範圍內使用，專利權人不得主張權
+利。針對生物技術應用於農業有關動物之專利權限制問題，歐盟
+98/44/EC 指令第11條第2項及德國專利法第9c 條第2項規定，農業
+活動之牲畜（諸如基因轉殖母雞）或動物性繁殖物（基因轉殖母雞
+所生下之雞蛋），係由專利權人或其同意之人為農業活動目的而販
+賣者，買受之農業經營者得於農業活動範圍內使用，為了繼續進行
+農業活動亦可移轉該牲畜及動物性繁殖物。歐洲國家之前揭規定，
+一方面肯定農業領域之基因研究成果能獲得專利權保護，使發明人
+仍有研發誘因及透過權利行使享有經濟利益。另一方面又因法律明
+定，使基因相關專利權之限制遠多於一般專利權，以解決該等專利
+權行使可能阻礙農業活動、民眾農糧近用之公共衛生衝突。
+
+   近年來考量基因相關專利權行使可能不利於公共衛生之疑慮，
+甚而有歐洲國家進一步針對基因發明新增專利權之限制規定。例
+如：比利時於2005年新修正之專利法擴大試驗實施例外適用範圍，
+使非商業目的之基因研究活動不為專利權效力所及；同樣的，比利
+時專利法新增之第31-1條，明定得基於公共衛生利益而以強制授權
+近用基因檢測產品或方法，瑞士亦於2008年修正生效之專利法明定
+基因檢測專利之強制授權事由（第40c 條及第40e 條參照）161。
+
+三、政府公部門或可適度介入或引導基因專利權之行使
+
+   除了既有專利制度考量公共衛生需求而明定之權利限制規定
+外，政府機關亦可以適當方式引導或限制基因專利權之行使，例
+如：競爭法主管機關可介入及管制智慧財產權之權利濫用行為162。
+
+
+
+161 關於基因專利權之權利限制及國際間新近發展，參見李素華（註121），頁87-
+  106。
+162 蔡明誠，基因技術與發明專利問題（下），萬國法律，119期，頁71（2001
+   ；HARACOGLOU, supra note 14, at 185.
+  年）
+116                                              2011 科技發展與法律規範雙年刊
+
+
+以美國競爭法主管機關執行為例，Mylan 藥廠擁有抗憂鬱症藥品
+Ativan 及 Traxene 之專利權，保護期間即將屆滿前 FDA 核准
+lorazepam 及 clorazepate 兩種學名藥，惟不論是原廠藥或是學名藥
+的原料藥皆由 Cambrex 子公司 Profarmaco 所生產，並由 Gyma 負
+責美國地區的銷售。1997年 Mylan 與 Cambrex、Profarmaco 及
+Gyma 訂定專屬授權協議，使 Profarmaco 所生產的原料藥僅供應
+Mylan，Mylan 則與其分享藥品之銷售獲利。Mylan 成功的阻止學
+名藥銷售後恣意調整藥品售價，1998年1月7.5毫克 clorazepate 劑錠
+之五百單位瓶裝批發價從11.36美金提高到377美金，1998年3月
+Mylan 再將1毫克 lorazepam 劑錠之五百單位瓶裝批發價從7.3美金
+提高到190美金。美國競爭法主管機關—公平交易委員會(Fair
+Trade Commission, FTC)於1998年12月展開調查，認定 Mylan 不當
+獲取利益高達一億兩千萬美金。2000年 Mylan 與 FTC 達成和解，
+本案始告落幕163。因此，競爭法主管機關就適度限制醫藥專利權、
+避免其對公共衛生制度有不利影響上，實已有執法經驗，基因專利
+權之不當行使若對公共衛生產生衝擊，競爭法主管機關應能扮演調
+和者的重要角色164。
+
+      另外，資助基因相關研究之公部門，在適度限制基因專利權上
+亦可發揮其重要性165。易言之，實務上不乏基因相關發明係由政府
+出資之科技計畫所產生，以本文討論之 BRCA 基因為例，分別於
+1991年、1992年及1994年接受美國 NIH 及創投機構高達5,500萬美
+
+
+163 詳見 FTC v. Mylan Laboratories, Inc., Cambrex Corporation, Profarmaco S.R.I.,
+    and Gyma Laboratories of America, Inc., FTC File No. X990015 (District for the
+    District of Columbia)，相關檔案可由如下網站下載，FEDERAL TRADE COMMISSION,
+    http://www.ftc.gov/os/caselist/x990015ddc.htm (last visited Jan. 31, 2012).
+164 Sumikura, supra note 38, at 80-81.
+165 相 同 見 解 ， Gary Pulsinelli, Share and Share Alike: Increasing Access to
+    Government-Funded Inventions under the Bayh-Dole Act, 7 MINN. J.L. SCI. & TECH.
+    393 (2006); Christine Godt, Equitable Licenses in University-Industry Technology
+    Transfer, 2011 GRUR. INT. 377, 377 (2011).
+基因研究成果之專利保護及權利範圍                                                               117
+
+
+
+
+金、800萬美金及5,900萬美金資助166；同樣的，我國亦自2002年起
+由行政院國科會推動基因體醫學國家型科技計畫，目前在致病基因
+的發現步驟、功能及致病機轉研究、發展疾病的動物模式、基因晶
+片技術、基因細胞治療方法、疾病預防方法等方面已有成效與研究
+成果167。規範政府科技計畫研究成果歸屬與運用之相關法令或資助
+契約，即可明定基於公共衛生或其他公益政策考量，於一定條件下
+使第三人能自由近用研究成果。例如：政府科技計畫所產生之基因
+發明，得由大學或非營利研究機構，抑或同樣執行政府科技計畫之
+研究人員基於研發目的而無償利用168。考量公益與私益保障皆有其
+重要性，一概使政府科技計畫之研究成果成為公共財並不妥適，因
+此，僅使符合一定要件之第三人能無償近用發明，基因相關專利權
+人仍保有研究成果商業化運用之空間，不至完全扼殺研發誘因169。
+以此方式促進生技研究成果近用之成功案件，乃2001年由 NIH 與
+威斯康辛校友基金會(Wisconsin Alumni Research Foundation, WARF)
+成立之 WiCell 機構(WiCell Research Institute)，由其負責人類胚胎
+幹細胞專利之有償及無償授權事宜。透過此種模式，執行 NIH 計
+畫之研究人員得以無償方式使用人類胚胎幹細胞，不符合前揭要件
+之研究機構或研究人員，亦得以合理價格有償取得試驗所需之生物
+材料170。資助科技計畫之主管機關促使公益有關研究成果之開放近
+用，迄今個案雖較為有限，惟就制度運作而觀，確有執行之空間，
+公部門可考量實際需求或不同計畫狀況，於資助契約中約定研究成
+果以何種方式由第三人近用或悉由受資助者自行決定。例如：我國
+
+
+166 Ass’n for Molecular Pathology, 702 F. Supp. 2d at 201.
+167 相關訊息，參見基因體醫學國家型科技計畫網站，http://nrpgm.sinica.edu.tw/
+    index_tw.php（最後瀏覽日：2012年1月31日）
+                                 。
+168 U.S. DEP’T OF HEALTH & HUMAN SERV., supra note 87, at 72-75; Pulsinelli, supra
+    note 165, at 442-43.
+169 Pulsinelli, supra note 165, at 446-50.
+170 關於 WiCell 之人類胚胎幹細胞專利授權運作及介紹，參見孫文玲，談美國生
+    技專利法制及新近 WARF 胚胎幹細胞相關專利授權，智慧財產權管理，31
+    期，頁50-53（2001年）
+                  。
+118                                  2011 科技發展與法律規範雙年刊
+
+
+部分財團法人所執行之科技計畫，其經費百分之百由政府出資，各
+該成果若涉及國家安全，資助契約往往約定研究成果歸屬於政府；
+研究成果若以歸屬計畫執行機構為宜，但考量其可能有公益利用需
+求（諸如基於公共衛生政策或發明之性質屬於上游研發階段之研究
+工具），資助契約應可約定使符合一定條件者可無償或有償近用；
+研究成果之運用純屬私權範疇者，則可於契約中約定由受資助者保
+有完全的權利。除了透過科技計畫相關辦法或資助契約引導基因專
+利權行使方式外，相關法令亦可明定，國家於何種情況可介入不當
+的權利行使，以糾正不當的權利濫用行為。觀諸我國政府科學技術
+研究發展成果歸屬及運用辦法第9條第1項及經濟部科學技術研究發
+展成果歸屬及運用辦法第21條第1項均規定，研究成果歸屬於科技
+計畫執行單位所有，惟若有法定情形之一者171，資助機關得要求執
+行單位或研究成果受讓人將研發成果授權第三人實施，或於必要時
+將研究成果收歸國有。據此，基因專利權人若有濫用權利情事，資
+助之政府機關或可援引前揭條文及介入權利行使行為。面對攸關疾
+病預防與治療之公共衛生政策，政府公部門實有義務採取較以往更
+積極態度，使政府出資之科技計畫研究成果能有更妥適之運用及避
+免專利權濫用之結果。
+
+      最後，出資支持科技計畫之公部門亦得建立通案性之制度，例
+如：於科技計畫之資助契約中，就研究成果之利用方式另為約定或
+限制，抑或要求受資助者應以合理方式行使智慧財產。另外，就基
+因相關研究活動出資之政府機構，亦得訂定研究成果利用或授權之
+處理原則(guideline, guidance)或方針(policy)172，以使基因及其他生
+技專利權人依循之。例如：1999年美國 NIH 公布生醫研究資源運
+
+
+171 條文所規定之情形包括：(i)執行單位、研發成果受讓人或專屬被授權人，於
+    合理期間無正當理由未有效運用研發成果。(ii)執行單位、研發成果受讓人或
+    專屬被授權人，以妨礙環境保護、公共安全或公共衛生之方式實施研發成
+    果。(iii)為增進國家重大利益。
+172 U.S. DEP’T OF HEALTH & HUMAN SERV., supra note 87, at 75-78.
+基因研究成果之專利保護及權利範圍                                                                         119
+
+
+
+
+用處理原則(Principles and Guidelines for Recipients of NIH Research
+Grants and Contracts on Obtaining and Disseminating Biomedical
+                          173
+Research Resource)              ，其內容包括公、私部門研究人員近用 NIH
+生醫研究資源之合理條款與條件、生技及醫藥領域研究工具之授權
+基本原則。
+
+      透過前揭方式，均能促進基因相關生技研究成果之近用及滿足
+公共利益需求，一開始即全盤否定其專利保護或專利權行使可能
+性，反而會扼殺研發誘因，無助於新醫療方式之研究與發展。
+
+四、國際間陸續提出解決機制以促進基因近用或限制專利權
+
+      鑑於基因及其他生物技術之專利保護及權利行使對科學技術研
+究與公共衛生制度之衝擊，國際間近來不乏有倡導限制專利權行使
+或促進發明近用之聲浪。例如：英國重要之政府諮詢機構 HGC
+(Human Genetics Commission)於2010年10月呼籲政府機關應就專利
+權對疾病檢測之影響建立監測制度174；又如，2011年8月底由學者
+及非營利團體等各界共同發表「華盛頓智慧財產與公共利益宣言」
+(The Washington Declaration on Intellectual Property and the Public
+            175
+Interest)         ，重申應回歸智慧財產制度之立法目的：鼓勵創新及研
+發。關於專利權部分，宣言所倡導之方向亦在擴大排他權限制與效
+力不及事由。此一宣言之內涵實與學者主張專利法應基於公共衛生
+考量而新增免責條款176 或修法縮短專利權之保護期間177 ，不謀而
+
+173 See Principles and Guidelines for Recipients of NIH Research Grants and Contracts
+    on Obtaining and Disseminating Biomedical Research Resource, 64 Fed. Reg.
+    72,090 (Dec. 23, 1999).
+174 HUMAN GENETICS COMMISSION, INTELLECTUAL PROPERTY AND DNA DIAGNOSTICS
+    (2010), available at http://www.hgc.gov.uk/UploadDocs/DocPub/Document/IP%20
+    and%20DNA%20Diagnostics%202010%20final.pdf.
+175 宣言內容可由如下網站下載，Washington Declaration on Intellectual Property
+    and the Public Interest, INFOJUSTICE.ORG, http://infojustice.org/washington-declaration-
+    html (last visited Jan. 31, 2012).
+176 Natalie M. Derzko, In Search of a Compromised Solution to the Problem Arising
+120                                                2011 科技發展與法律規範雙年刊
+
+
+合。
+
+      另外，不乏國內外學者178倡導由國際組織或專利權擁有者建立
+制度，包括專利集管(patent pool)、研究成果公開(open development)
+或分享機制，以方便第三人近用基因相關發明。例如：OECD 主導
+下於神經科學領域建立科學資料與研究工具近用制度(Neuroscience
+Data and Tool Sharing)，使研究社群能共享神經資訊軟體與資料
+庫 179 ； 又 如 ， 1998 年 由 學 者 發 起 及 建 立 之 生 醫 資 訊 平 台
+(Bioinformatics Organization)，促進生醫領域之研究人員與教育者交
+換研究成果與資訊180；為降低專利權對於愛滋病必要藥品近用之限
+制，國際間已有醫藥專利聯盟(Medicines Patent Pool)協助促成醫藥
+專利權之授權事宜，使低度開發國家能以低價取得愛滋病藥品181。
+
+    from Patenting Biomedical Research Tools, 20 SANTA CLARA COMPUTER & HIGH
+    TECH. L.J. 347, 388- 408 (2004).
+177 Christopher May, On the Border: Biotechnology, the Scope of Intellectual Property
+    and the Dissemination of Scientific Benefits, in THE ROLE OF INTELLECTUAL
+    PROPERTY RIGHTS IN BIOTECHNOLOGY INNOVATION 252, 254 (David Castle ed.,
+    2009).
+178 例 如 ： 蔡 明 誠 （ 註 162 ）， 頁 71 ； Alan G. Isaac & Walter G. Park, Open
+    Development: Is the ‘Open Source’ Analogy Relevant to Biotechnology?, in THE
+    ROLE OF INTELLECTUAL PROPERTY RIGHTS IN BIOTECHNOLOGY INNOVATION 225,
+    225-51 (David Castle ed., 2009); Timothy Caulfield, Biotechnology Patents, Public
+    Trust and Patent Pools: The Need for Governance?, in THE ROLE OF INTELLECTUAL
+    PROPERTY RIGHTS IN BIOTECHNOLOGY INNOVATION 357, 357-368 (David Castle ed.,
+    2009); Jasper A. Bovenberg, Accessibility of Biological Data: A Role for the
+    European Database Right?, in THE ROLE OF INTELLECTUAL PROPERTY RIGHTS IN
+    BIOTECHNOLOGY INNOVATION 337, 337-356 (David Castle ed., 2009).
+179 Peter Eckersley et al., Neuroscience Data and Tool Sharing: A Legal and Policy
+    Framework for Neuroinformatics, 1 NEUROINFORMATICS 149, 154-55 (2003),
+    available at http://www.cs.mu.oz.au/~pde/writing/oecd-neuroinf.pdf.
+180 詳細資料參見：Bioinformatics.org, 2002 Organization Plan, (Sept. 20, 2002)
+    http://bioinformatics.org/about/plan-20020920.pdf.
+181 Medicines Patent Pool Responds to Critics of Gilead Licence, INTELLECTUAL
+    PROPERTY WATCH (Nov. 8, 2011), http://www.ip-watch.org/2011/11/08/medicines-
+    patent-pool-responds-to-critics-of-gilead-licence/; Another Indian Generics Company
+    Signs with Patent Pool, INTELLECTUAL PROPERTY WATCH (Feb. 2, 2012),
+    http://www.ip-watch.org/2012/02/02/another-indian-generics-company-signs-with-
+    patent-pool/?utm_source=post&utm_medium=email&utm_campaign=alerts.
+基因研究成果之專利保護及權利範圍                         121
+
+
+
+
+  近年來公共衛生與智慧財產議題在國際間受到重視，攸關人民
+健康及醫療照顧的公共衛生政策落實，有賴於相關產業之研發活
+力、充足及先進的糧食與醫藥供應，從而國家在法律制度上應賦予
+發明人排他性權利，以確保公共衛生政策之實現。相對應的，為了
+促進農糧及醫藥產品之多元化與近用可能性，專利保護之發明能廣
+泛應用及避免專利排他權影響技術與產品擴散，亦屬必要。傳統上
+即扮演鼓勵創新研發、促進有效競爭與增進公共利益角色之專利制
+度，實應在兼顧發明人利益與社會整體公益間取得平衡。
+
+  專利法制在萌芽之際，係以機械及物理領域為出發點所建構的
+法律制度；制度建立者當時並未思及生命型態或基因有關生物技術
+發明之保護問題，從而現行專利法之架構能否毫無疑問的應用於生
+命有機體之發明，不無疑義。以基因研究成果為例，其本質相同於
+化學領域之物質發明，因而應為專利法所保護之發明；惟准予專利
+後之權利範圍為何，則有待立法與司法實務釐清。因此，基因有關
+之生技研究成果如何受到專利權保護、權利範圍及權利行使之限制
+事宜，除了立法機關應事前以修法或立法方式處理外，執行法律的
+行政機關與適用法律的司法機關亦扮演重要角色182，其應基於專利
+制度之本質，在個案上對法條文字作最妥適之闡釋與適用，使基因
+專利權人享有足夠的排他權，發揮專利制度鼓勵創新研發之功能；
+另一方面，又不會過度擴張權利範圍，因而不利於民眾之糧食醫藥
+取得及公共利益。
+
+  不論發明所涉及之技術領域為何，專利法之目的係在提供發明
+人足夠的研發誘因，同時在專利之公開制度下促成公共利益之實
+現。專利制度應如何保護新興的基因相關生技發明、所賦予之權利
+範圍為何，應回歸制度之本質，兼顧創新研發與公共衛生。
+
+
+182 蔡明誠（註162），頁70-71；李崇僖，生物科技專利政策之司法權分析，收
+  於：謝銘洋編，基因體醫學研發創新與智慧財產權，頁63-65（2010年）
+                                     。
+122                      2011 科技發展與法律規範雙年刊
+
+
+
+
+                  參考文獻
+
+1. 中文部分
+王世晞（2003），製藥產業之演進、現況與趨勢，臺灣大學商學研
+      究所碩士論文。
+        ，從 TRIPS 協定與公眾健康爭議論專利強制授權之
+王立達（2004）
+      功能與侷限，科技法學評論，1卷1期，頁215-246。
+─（2010），託古改制或重新出發—從Bilski案看美國方法專
+      利標的適格之最新發展，「電子商務與智慧財產權的新思維與
+      展望」學術研討會，政治大學法學院主辦。
+古德業（2000）
+        ，各主要國家與國際經貿組織對基因改造產品(GMO)
+      之管理現況，農政與農情，94期，頁29-36。
+何孟璁（2009），論生物相似性藥品之上市規範與智慧財產保護，
+      臺灣大學科際整合法律學研究所碩士論文。
+何建志（2006），生物技術專利之最適範圍—產業政策與法律分
+      析，收於：生物倫理與法律研究中心編，生技時代的智慧財產
+      與公共衛生議題，頁101-162，台北：新學林。
+吳全峰（2010），論藥物近用與跨國製藥企業之人權責任，第三屆
+      「科技發展與法律規範：健康與科學之人權議題」研討會，中
+      央研究院法律學研究所籌備處主辦。
+李志誠（2000），基因改造食品之展望，生物資源生物技術，2卷2
+      期，頁11-12。
+李素華（2010），基因及基因醫藥之專利法制發展趨勢，收於：謝
+      銘洋編，基因體醫學研發創新與智慧財產權，頁69-106，台
+      北：元照。
+─（2010），從BRCA1省思專利制度對基因檢測發明之專利保
+      護，收於：謝銘洋編，基因體醫學研發創新與智慧財產權，頁
+基因研究成果之專利保護及權利範圍                 123
+
+
+
+
+  159-182，台北：元照。
+─（2010），僱傭關係下發明權益之研究：以我國專利法為中
+  心，臺大法學論叢，39卷1期，頁1-70。
+李素華、謝銘洋（2010），生技醫療產業所面對之新興專利課
+  題—基因檢測、細胞治療與基因治療之專利保護與權利限
+  制，收於：謝銘洋編，基因體醫學研發創新與智慧財產權，頁
+  111-158，台北：元照。
+李崇僖（2010），生物科技專利政策之司法權分析，收於：謝銘洋
+  編，基因體醫學研發創新與智慧財產權，頁37-68，台北：元
+  照。
+林宜男、許佳惠（2005），WTO 醫藥專利與公共健康議題之研
+  析—兼論我國未來之發展趨勢，清華科技法律與政策論叢，
+  2卷1期，頁205-257。
+        ，WTO TRIPS 協定下醫藥專利與公共健康之問題及
+林彩瑜（2009）
+  其解決方向，收於：貿易與公共衛生之法律問題—世界貿易
+  組織法律研究（二）
+          ，頁1-59，台北：自版。
+倪貴榮（2003），WTO 智慧財產權保護與公共健康議題之發展趨
+  勢，經社法制論叢，31期，頁129-158。
+張仁平（2001），台灣生物技術專利保護之回顧與前瞻，萬國法
+  律，116期，頁110-118。
+陳昭華、鍾鏡湖、張乃文、鄭耀誠（2010），學名藥試驗免責規範
+  之探討，收於：謝銘洋編，基因體醫學研發創新與智慧財產
+  權，頁183-232，台北：元照。
+孫小萍（2008），處方藥產業的法律戰爭—專利侵權之學名藥實
+  驗例外，台北：元照。
+        ，談美國生技專利法制及新近 WARF 胚胎幹細胞相
+孫文玲（2001）
+  關專利授權，智慧財產權管理，31期，頁47-54。
+黃文鴻、謝季峰（2004），藥品創新與專利保護關聯之探討，政大
+  智慧財產評論，2卷2期，頁25-50。
+124                                        2011 科技發展與法律規範雙年刊
+
+
+經濟部智慧財產局（2007）
+             ，專利審查基準，台北：自版。
+蔡明誠（2001），基因技術與發明專利問題（上），萬國法律，118
+      期，頁45-57。
+─（2001），基因技術與發明專利問題（下），萬國法律，119
+      期，頁64-72。
+─（2000）
+      ，發明專利法研究，3版，台北：自版。
+鄭師安（2005），模糊未明之歐美生技學名藥規範，收於：財團法
+      人資訊工業策進會編，生技法律解碼，頁206-218，台北，書
+      泉。
+謝銘洋（2011）
+        ，智慧財產權法，2版，台北：自版。
+─（2005），生物技術之智慧財產權保護，收於：科技發展之
+      智慧財產權議題，頁47-70，台北：自版。
+
+2. 外文部分
+
+Baker, Dean. 2005. Bird Flu Fears: Is There a Better Way to Develop
+      Drugs?. Available at http://www.cepr.net/documents/publications/
+      intellectual_property_2005_10.pdf. Bernier, Louise. 2010. Justice
+      in Genetics: Intellectual Property and Human Rights from a
+      Cosmopolitan Liberal Perspective. Cheltenham: Edward Elgar
+      Publishing.
+Benkard, Georg (2006), Patentgesetz, 10. Aufl., München: C.H. Beck.
+Black, Charles Allen. 2004. The Cure for Deadly Patent Practices:
+      Preventing Technology Suppression and Patent Shelving in the Life
+      Sciences. Albany Law Journal of Science & Technology 14:397-449.
+Bostyn, Sven J. R. 2001. Enabling Biotechnological Inventions in
+      Europe and the United States. Munich: European Patent Office.
+Bovenberg, Jasper A. 2009. Accessibility of Biological Data: A Role for
+      the European Database Right?. Pp. 337-356 in The Role of
+      Intellectual Property Rights in Biotechnology Innovation, edited by
+基因研究成果之專利保護及權利範圍                                                      125
+
+
+
+
+    David Castle. Cheltenham: Edward Elgar Publishing.
+Busse, Rudolf & Alfred Keukenschrijver (Hrsg.) (2003), Patentgesetz, 6.
+    Aufl., Berlin: de Gruyter.
+Cantor, Alison E. 2000. Using the Written Description and Enablement
+    Requirements to Limit Biotechnology Patents. Harvard Journal of
+    Law & Technology 14:267-313.
+Caulfield, Timothy. 2009. Biotechnology Patents, Public Trust and
+    Patent Pools: The Need for Governance?. Pp. 357-368 in The Role
+    of Intellectual Property Rights in Biotechnology Innovation, edited
+    by David Castle. Cheltenham: Edward Elgar Publishing.
+Chambers, Scott A. 1995. Exhaustion Doctrine in Biotechnology. IDEA:
+    The Journal of Law and Technology 35:289-330.
+Cook-Deegan, Robert, Christopher DeRienzo, Julia Carbone, Subhashini
+    Chandrasekharan, Christopher Heaney, and Christopher Conover.
+    2010. Impact of Patents and Licensing Practices on Access to
+    Genetic Testing for Inherited Susceptibility to Cancer: Comparing
+    Breast and Ovarian Cancers to Colon Cancers. Appendix A1-A50
+    in Gene Patents and Licensing Practices and Their Impact on
+    Patient Access to Genetic Tests, edited by Department of Health &
+    Human Services (USA). Available at http://oba.od.nih.gov/oba/
+    sacghs/reports/SACGHS_patents_report_2010.pdf.
+Department of Health & Human Services (USA). 2010. Gene Patents
+    and Licensing Practices and Their Impact on Patient Access to
+    Genetic Tests. Available at http://oba.od.nih.gov/oba/sacghs/reports/
+    SACGHS_patents_report_2010.pdf.
+Derzko, Natalie M. 2004. In Search of a Compromised Solution to the
+    Problem Arising from Patenting Biomedical Research Tools. Santa
+    Clara Computer & High Technology Law Journal 20:347-410.
+Desrosiers, Ronald L. 1989. The Drug Patent Term: Longtime
+126                                        2011 科技發展與法律規範雙年刊
+
+
+
+      Battleground in the Control of Health Care. New England Law
+      Review 24:115-153.
+Dutfield, Graham. 2006. Should We Regulate Biotechnology through the
+      Patent System? The Case of Terminator Technology. Pp. 203-213 in
+      The Regulatory Challenge of Biotechnology, edited by Han Somsen.
+      Cheltenham: Edward Elgar Publishing.
+Eckersley, Peter, Gary F. Egan, Erik De Schutter, Yiyuan Tang, Mirko
+      Novak, Václav Sebesta, Line Matthiessen, Iiro P. Jääskeläinen, Ulla
+      Ruotsalainen, and Andreas V. M. Herz. 2003. Neuroscience Data
+      and Tool Sharing: A Legal and Policy Framework for
+      Neuroinformatics.    Neuroinformatics 1:149-165.     Available   at
+      http://www.cs.mu.oz.au/~pde/writing/oecd-neuroinf.pdf.
+Eisenberg, Rebecca S. 1989. Patents and the Progress of Science:
+      Exclusive Rights and Experimental Use. The University of Chicago
+      Law Review 56:1017-1086.
+Godt, Christine. 2011. Equitable Licenses in University-Industry
+      Technology Transfer. Gewerblicher Rechtsschutz und Urheberrecht,
+      Internationaler Teil 2011:377-385.
+Grubb, Philip W., and Peter R. Thomsen. 2010. Patents for Chemicals,
+      Pharmaceuticals and Biotechnology. 5th ed. Oxford: Oxford
+      University Press.
+Haracoglou, Irina. 2008. Competition Law and Patents: A Follow-on
+      Innovation Perspective in the Biopharmaceutical Industry.
+      Cheltenham: Edward Elgar Publishing.
+Hardin, Garrett. 1968. The Tragedy of the Commons. Science, December
+      13. Available at http://www.sciencemag.org/cgi/reprint/162/3859/
+      1243.pdf.
+Heller, Michael A. 1999. The Boundaries of Private Property. Yale Law
+      Journal 108:1163-1223.
+基因研究成果之專利保護及權利範圍                                                    127
+
+
+
+
+Human Genetics Commission. 2010. Intellectual Property and DNA
+    Diagnostics. Available at http://www.hgc.gov.uk/UploadDocs/Doc
+    Pub/Document/IP%20and%20DNA%20Diagnostics%202010%20f
+    inal.pdf.
+Isaac, Alan G., and Walter G. Park. 2009. Open Development: Is the
+    ‘Open Source’ Analogy Relevant to Biotechnology?. Pp. 225-251
+    in The Role of Intellectual Property Rights in Biotechnology
+    Innovation, edited by David Castle. Cheltenham: Edward Elgar
+    Publishing.
+Kieff, F. Schott, Pauline Newman, Herbert F. Schwartz, and Henry E.
+    Smith. 2008. Principles of Patent Law. 4th ed. New York, N.Y.:
+    Thomson Reuters/Foundation Press.
+Kitch, Edmund W. 1977. The Nature and Function of the Patent System.
+    Journal of Law and Economics 20:265-290. Available at
+    http://www.law.virginia.edu/pdf/faculty/hein/kitch/20jl&econ265_1
+    977.pdf.
+Kraßer, Rudolf (2009), Patentrecht, 6. Aufl., München: C.H. Beck.
+Landes, William M., and Richard A. Posner 2003. The Economic
+    Structure of Intellectual Property Law. Cambridge, M.A.: Belknap
+    Press of Harvard University Press.
+Lovgren, Stefan. 2005. One-Fifth of Human Genes Have Been Patented,
+    Study Reveals. National Geographic News, October 13. Available
+    at http://news.nationalgeographic.com/news/2005/10/1013_051013_
+    gene_patent.html.
+May, Christopher. 2009. On the Border: Biotechnology, the Scope of
+    Intellectual Property and the Dissemination of Scientific Benefits.
+    Pp. 252-273 in The Role of Intellectual Property Rights in
+    Biotechnology Innovation, edited by David Castle. Cheltenham:
+    Edward Elgar Publishing.
+128                                        2011 科技發展與法律規範雙年刊
+
+
+
+Merrill, Stephen A., and Anne-Marie Mazza. 2006. Reaping the Benefits
+      of Genomic and Proteomic Research. Washington, D.C.: The National
+      Academies Press. Available at http://images.nap.edu/images/
+      signinbutton.gif.
+Mireles, Michael S. 2004. An Examination of Patents, Licensing,
+      Research Tools and the Tragedy of the Anticommons in
+      Biotechnology Innovation. University of Michigan Journal of Law
+      Reform 38:141-235.
+Mueller, Janice M. 2009. Patent Law. 3d ed. New York, N.Y.: Aspen
+      Publishers.
+O’Rourke, Maureen A. 2000. Toward a Doctrine of Fair Use in Patent
+      Law. Columbia Law Review 100:1177-1250.
+Pulsinelli, Gary. 2006. Share and Share Alike: Increasing Access to
+      Government-Funded Inventions under the Bayh-Dole Act.
+      Minnesota Journal of Law, Science & Technology 7:393-487.
+Rimmer, Matthew. 2008. Intellectual Property and Biotechnology
+      Inventions. Cheltenham: Edward Elgar Publishing.
+Rivard, Paul M., and Fraser Brown. 2011. Federal Circuit Holds Claims
+      to Isolated DNA and to Methods of Using Isolated DNA to Screen
+      for Cancer Patent-Eligible. Available at http://www.mondaq.com/
+      unitedstates/article.asp?articleid=141660&print=1.
+Rowe, Aaron. 2009. FDA to Evaluate Drugs Made by Genetically
+      Modified Goats. Available at http://www.wired.com/wiredscience/
+      2009/01/drugsfromgoats/.
+Schulte, Rainer (2008), Patentgesetz mit Europäischem Patentüberein-
+      kommen, 8. Aufl., Köln: Carl Heymanns Verlag.
+Shu, Ge. 2001. The Japanese Patent Examination and Training System.
+      Available at http://www.jpo.go.jp/torikumi_e/kokusai_e/asia_ip_e/
+      pdf/wipo/2000_china.pdf.
+基因研究成果之專利保護及權利範圍                                                   129
+
+
+
+
+Sumikura, Koichi. 2009. Intellectual Property Rights Policy for Gene-
+    Related Inventions - Toward Optimum Balance between Public and
+    Private Ownership. Pp. 73-97 in The Role of Intellectual Property
+    Rights in Biotechnology Innovation, edited by David Castle.
+    Cheltenham: Edward Elgar Publishing.
+Van Overwalle, Geertrui. 2006. Reshaping Bio-Patents: Measures to
+    Restore Trust in the Patent System. Pp. 238-256 in The Regulatory
+    Challenge of Biotechnology, edited by Han Somsen. Cheltenham:
+    Edward Elgar Publishing.
+─. 2006. The Implementation of the Biotechnology Directive in
+    Belgium and Its After-Effects: The Introduction of a New Research
+    Exemption and a Compulsory Licence for Public Health.
+    International Review of Industrial Property and Competition Law
+    37:889-920.
+Wolfrum, Rüdiger, Peter-Tobias Stoll, und Stephanie Franck (2002), Die
+    Gewährleistung freier Forschung an und mit Genen und das
+    Interesse an der wirtschaftlichen Nutzung ihrer Ergebnisse,
+    Frankfrut am Main: Recht & Medizin.
+

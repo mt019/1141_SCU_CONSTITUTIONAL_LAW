@@ -1,0 +1,1766 @@
+《2012 行政管制與行政爭訟》 李建良主編                                                            63
+臺北 中央研究院法律學研究所 專書（20）
+民國 105 年 6 月，頁 63-110
+
+
+
+      Entwicklungsstand und -perspektiven
+           des Verwaltungsvertrags
+
+
+                               Keynote Address
+
+                         (Delivered on November 24, 2012)
+
+                                                  ＊
+                                   Jan Ziekow
+
+
+                                     Contents
+
+ I.   Der Begriff des Verwaltungsvertrags und dessen Stellung im Kanon der
+      Handlungsformen der Verwaltung
+ II. Die für Verwaltungsverträge geltenden Rechtsregime
+ III. Der Verwaltungsvertrag als Paradigma des kooperierenden und
+      partizipativen Staates
+ IV. Überlegungen zur Weiterentwicklung des Verwaltungsvertragsrechts
+ V. Schlussbemerkung
+
+
+
+
+＊      Der Verfasser ist Direktor des Deutschen Forschungsinstituts für öffentliche
+       Verwaltung und Inhaber des Lehrstuhls für öffentliches Recht, insbesondere
+       allgemeines und besonderes Verwaltungsrecht, an der Deutschen Universität für
+       Verwaltungswissenschaften Speyer. Wesentliche Einsichten in das Thema verdankt
+       er seiner Mitgliedschaft im Beirat Verwaltungsverfahrensrecht beim
+       Bundesministerium des Innern.
+      ［責任校對：向民潔］           。
+       穩定網址：http://publication.iias.sinica.edu.tw/31015151.pdf。
+64                                                       2012 行政管制與行政爭訟
+
+
+
+
+     Das     Thema         „Entwicklungsstand       und     -perspektiven      des
+Verwaltungsvertrags“ ist so facettenreich, dass im Folgenden nur ein
+kleiner Ausschnitt aus den sich stellenden Fragen dargestellt werden
+kann. Die Bedeutung der Vereinbarung, des Vertrages für den Staat und
+sein Handeln führt zu den Grundkategorien der Begründung der
+Staatsgewalt     in       der   Frühmoderne,        zu    den    Insituten    von
+Gesellschaftsvertrag und Herrschaftsvertrag, zurück. Man braucht
+insoweit nur auf Thomas Hobbes, aber auch auf viele Staatsdenker in
+                                                1
+den folgenden Jahrhunderten hinzuweisen. Dieser Ansatz zieht sich bis
+in die heutige Zeit mit Blick auf die konsensuale Legitimation
+demokratischer Institutionen; Walter Leisner hat dies in dem
+                                                                         2
+anschaulichen Begriff der „Vertragsstaatlichkeit“ verdichtet . Von
+diesem Befund zu der daraus formulierten Forderung, dass in der
+„demokratischen Staatsform … (die) selbstbewusste Bürgerschaft …
+nicht Befehle, sondern vereinbarte Bindungen, zu Machtabbau und mehr
+                      3
+Bürgernähe“, will , ist der Weg nicht weit.
+
+     In dieser sehr grundsätzlichen Dimension wird das Thema des
+vertraglichen Handelns der Verwaltung seit mehr als 10 Jahren in
+Deutschland diskutiert, beginnend mit dem Schlagwort kooperativer
+     4                                                                           5
+Staat , anschließend unter dem Leitbegriff Public Private Partnership
+
+1 Dazu Jan Ziekow, Über Freizügigkeit und Aufenthalt, 1997, S. 90 ff. m. w. Nachw.
+2 Walter Leisner, Vertragsstaatlichkeit. Die Vereinbarung – eine Grundform des
+  Öffentlichen Rechts, 2009, pass.
+3 Leisner (Fußn. 2), S. 5.
+4 Zur Diskussion um den „kooperativen Staat“ bzw. die „kooperative Verwaltung“ vgl.
+  nur Peter Arnold, Kooperatives Handeln der nichthoheitlichen Verwaltung, in:
+  Dose/Voigt, Kooperatives Recht, 1995, S. 211 ff.; Arthur Benz, Kooperative
+  Verwaltung, 1994; Otto Depenheuer, Der Gedanke der Kooperation von Staat und
+  Gesellschaft, in: Huber, Das Kooperationsprinzip im Umweltrecht, 1999, S. 17 ff.;
+  Nicolai Dose, Die verhandelnde Verwaltung, 1997; Ernst-Hasso Ritter, Der
+  kooperative Staat, AöR 104 (1979), S. 389 ff.; Helge Rossen, Vollzug und
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags         65
+
+
+und derzeit als Facette der Debatte um eine Verstärkung der
+                     6
+Bürgerbeteiligung . Würde man versuchen, diese Zugänge unter einen
+gemeinsamen Nenner zu bringen, dann könnte man formulieren: Es geht
+darum, einen zweiten Strang der Legitimation staatlichen Handelns im
+                                                           7
+demokratischen Verfassungsstaat aufzubauen . Vertragliches bzw.
+
+
+  Verhandlung, 1999; Rüdiger Voigt, Der kooperative Staat, 1995.
+5 Vgl. zu PPP nur Jan Ziekow, Public Private Partnership – auf dem Weg zur
+  Formierung einer intermediären Innovationsebene?, VerwArch 2006, S. 626 ff.; ders.,
+  Gewährleistungsstaatliches Denken als Grundlage von Public Private Partnership?
+  (japanisch), in: Kaihatsu Ronsyu, 83-3 (2009), S. 223 ff.; ders., Public Private
+  Partnership als Instrument nachhaltiger Verwaltungspolitik, in: Urbaniec/Stec/Dolata,
+  Partnerstwo publiczno-prywatne jako instrument rozwoju zrównowazonego, 2009, S.
+  171 ff.; ders., Wandel der Staatlichkeit und wieder zurück? PPP im Kontext der
+  deutschen Diskussion um die Rolle des Staates, in: Ziekow, Wandel der Staatlichkeit
+  und wieder zurück? Die Einbeziehung Privater in die Erfüllung öffentlicher Aufgaben
+  in/nach der Weltwirtschaftskrise, 2011, S. 43 ff.; ders., Öffentlich-private
+  Partnerschaften im deutschen Verfassungs- und Verwaltungsrecht -
+  Herausforderungen und Entwicklungen, in: Administrative Law and Regulatory
+  Policy in the Global Era, 2011, S. 199 ff.; ders., Strukturen und Strategien von Public
+  Private Partnerships in Deutschland (japanisch), in: Syuichi/Takeshi, Die
+  gegenwärtigen Kooperationen zwischen Staat und Privaten in der Welt, 2012, S. 107
+  ff.; ders./Alexander Windoffer, Public Private Partnership. Struktur und
+  Erfolgsbedingungen von Kooperationsarenen, 2008 (jeweils m. w. Nachw.).
+6 Zu konsensualen Lösungen in partizipativen Verfahren am Beispiel der Mediation
+  Gerd Fuchs/Marcus Hehn/Jörg Wagner, Mediation im öffentlichen Bereich -
+  Möglichkeiten und Grenzen, UPR 2011, S. 81 ff.; Annette Guckelberger, Mediation
+  im Umweltrecht, in: Seok/Ziekow, Mediation als Methode und Instrument der
+  Konfliktmittlung im öffentlichen Sektor, 2010, S. 235 ff.; Bernd Holznagel/Ulrich
+  Ramsauer, Förderung der Mediation in Planungsverfahren, VerwArch 2013, S. 131 ff.;
+  Markus Kaltenborn, Streitvermeidung und Streitbeilegung im Verwaltungsrecht, 2007;
+  Mario Martini, Mediation und Gemeinwohl - eine Beziehungsanalyse, in:
+  Seok/Ziekow, Mediation als Methode und Instrument der Konfliktmittlung im
+  öffentlichen Sektor, 2010, S. 81, 93 ff.; Hermann Pünder, Mediation in
+  Verwaltungsverfahren, in: Erichsen/Ehlers, Allgemeines Verwaltungsrecht, 14. Aufl.
+  2010, § 16; Thorsten Siegel, Mediation in Planungsverfahren, in: Seok/Ziekow,
+  Mediation als Methode und Instrument der Konfliktmittlung im öffentlichen Sektor,
+  2010, S. 283 ff.; Jan Ziekow, Mediation im Kontext sich wandelnder Staatlichkeit, in:
+  Seok/Ziekow, Mediation als Methode und Instrument der Konfliktmittlung im
+  öffentlichen Sektor, 2010, S. 19 ff.
+7 Zur demokratischen Legitimation staatlichen Handelns vgl. nur Ernst-Wolfgang
+66                                                          2012 行政管制與行政爭訟
+
+
+
+konsensuales Handeln staatlicher Institutionen wird zu einem solchen
+zweiten Strang, der sich auf die Legitimation in konkreten Handlungs-
+kontexten bezieht.
+
+       Auf diese grundsätzlichen Vorbemerkungen zur staatstheoretischen
+Dimension des Themas wird anhand einzelner Beispiele zurück zu
+kommen sein. Selbstverständlich ist das Thema „Entwicklungsstand und
+-perspektiven des Verwaltungsvertrags“ aber auch ein juristisch-
+dogmatisches. Ich werde mich daher zunächst mit dem Begriff des
+Verwaltungsvertrags und dessen Stellung im Zusammenhang mit den
+anderen Handlungsformen der Verwaltung auseinandersetzen (unten I.).
+Anschließend          werde       ich      die      Grundstrukturen         der      für
+Verwaltungsverträge geltenden rechtlichen Regelungen und ihrer
+Probleme darstellen (unten II.). Drittens werde ich dann auf konkrete
+Beispiele, in denen der Vertrag als paradigmatisches Instrument des
+kooperierenden und partizipativen Staates diskutiert wird, eingehen
+(unten III.). Und schließlich werde ich mich mit den diskutierten
+Überlegungen zu einer Weiterentwicklung des Verwaltungsvertrags-
+rechts de lege ferenda befassen (unten IV.).
+
+
+
+
+     Böckenförde, Demokratie als Verfassungsprinzip, in: Isensee/Kirchhof, Handbuch des
+     Staatsrechts der Bundesrepublik Deutschland, Bd. II, 3. Aufl. 2004, § 24 Rn. 16 ff.;
+     Detlef Czybulka, Die Legitimation der öffentlichen Verwaltung, 1989; Utz Schliesky,
+     Souveränität und Legitimität von Herrschaftsgewalt, 2004; Hans-Heinrich Trute, Die
+     demokratische Legitimation der Verwaltung, in: Hoffmann-Riem/Schmidt-Aßmann/
+     Voßkuhle, Grundlagen des Verwaltungsrechts, Bd. I, 2. Aufl. 2012, § 6.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags          67
+
+
+I. Der Begriff des Verwaltungsvertrags und dessen
+   Stellung im Kanon der Handlungsformen der
+   Verwaltung
+
+      Zunächst ist darauf hinzuweisen, dass es sich bei dem Begriff des
+Verwaltungsvertrags im deutschen Recht um keinen Rechtsbegriff
+handelt. Es gibt eine große Anzahl von Rechtsvorschriften, die
+bereichsspezifische Regelungen für Verträge enthalten, die von der
+Verwaltung geschlossen werden können. Bekannte Beispiele finden sich
+im Baurecht mit den Instrumenten des städtebaulichen Vertrags (§ 11
+           8
+BauGB)         , des Durchführungsvertrags beim vorhabenbezogenen
+                                      9
+Bebauungsplan (§ 12 BauGB) und des Erschließungsvertrags (§ 124
+          10
+BauGB)         oder mit dem Konzept des Vertragsnaturschutzes in § 3 Abs.
+                11
+3 BNatSchG . Ein weiteres großes Referenzfeld ist das Sozialrecht, in
+dem sich etwa vertraglich zu strukturierende Beziehungen zwischen
+
+
+8  Dazu Ulrike Bick, Städtebauliche Verträge, DVBl. 2001, S. 154 ff.; Hans-Jörg Birk,
+   Städtebauliche Verträge, 5. Aufl. 2013; Tim Krämer, Realisierung städtebaulicher
+   Planungen und Projekte durch Verträge, UPR 2003, S. 104 ff.; Michael Krautzberger,
+   Städtebauliche Verträge in der praktischen Bewährung, UPR 2007, S. 407 ff.; Jost
+   Pietzcker, Probleme des städtebaulichen Vertrags, in: Erbguth/Oebbecke/Rengeling
+   u.a., Planung. Festschrift für Werner Hoppe zum 70. Geburtstag, 2000, S. 439 ff.; Olaf
+   Reidt, Städtebaulicher Vertrag und Durchführungsvertrag im Lichte der aktuellen
+   Rechtsentwicklung, BauR 2008, S. 1541 ff.; Willy Spannowsky, Fortentwicklung des
+   Rechts städtebaulicher Verträge, ZfBR 2012, S. 742 ff.
+9 Dazu Thomas Burmeister, Der Durchführungsvertrag zum vorhabenbezogenen
+   Bebauungsplan, VBlBW 2002, S. 245 ff.; Stefan Swierczyna, Praxisprobleme bei
+   Abschluss des öffentlich-rechtlichen Durchführungsvertrages nach § 12 BauGB,
+   LKV 2009, S. 452 ff.
+10 Dazu Herbert Grziwotz, Probleme des Erschließungsvertrags, DVBl 2005, S. 471 ff.;
+   Thomas Walter, Der Erschließungsvertrag im System des Erschließungsrechts, 2010.
+11 Dazu Walter Frenz, Vertragsnaturschutz in neuem Gewand, NuR 2011, S. 257 ff.;
+   Alexander Proelß/Ursula Blanke-Kießling, Der Verwaltungsvertrag als
+   Handlungsform der Naturschutzverwaltung, NVwZ 2010, S. 985 ff.; Carola
+   Windstoßer, Vertragsnaturschutz, 2008.
+68                                                         2012 行政管制與行政爭訟
+
+
+
+Krankenkassen und Leistungserbringern oder in Form der sog.
+Eingliederungsvereinbarung           zwischen      der     Sozialverwaltung        und
+                                         12
+Sozialleistungsbeziehern finden               . Diese Beispiele ließen sich
+                            13
+beträchtlich vermehren . Der Staat nicht als obrigkeitliche Autorität,
+sondern als vertraglich Handelnder ist politisch durchaus en vogue.
+
+      Keine dieser und anderer Referenzregelungen verwendet allerdings
+den Begriff des Verwaltungsvertrags. Einen verallgemeinernden Begriff
+für Verträge, die einen Bezug zur Verwaltung aufweisen, findet man nur
+in Gestalt des öffentlich-rechtlichen Vertrages. Er ist für das allgemeine
+Verwaltungsrecht in den §§ 54 ff. des Verwaltungsverfahrensgesetzes
+(VwVfG) und in Parallelvorschriften für das Sozialverwaltungsrecht in
+den §§ 53 ff. des 10. Buchs des Sozialgesetzbuchs (SGB X) geregelt.
+Dies hat teilweise zu einer Gleichsetzung des Verwaltungsvertrags mit
+dem öffentlich-rechtlichen Vertrag geführt, die man aber mittlerweile als
+                                              14
+weitgehend überwunden ansehen darf .
+
+      Denn mit einer Verengung des Begriffs des Verwaltungsvertrags auf
+den öffentlich-rechtlichen Vertrag würde man ausblenden, dass die
+
+
+12 Dazu Marc Colussi, Probleme der Eingliederungsvereinbarung nach § 15 SGB II,
+   2010; Kai-Holmger Kretschmer, Das Recht der Eingliederungsvereinbarung des SGB
+   II, 2012; Tobias Rauch/Frank Zellner, Die Eingliederungsvereinbarung nach § 15
+   SGB II, 2008; Bettina Weinreich, Die Eingliederungsvereinbarung nach § 15 SGB II,
+   SGb 2012, S. 513 ff.
+13 Vgl. weiterhin Jens Ahlhaus, Verwaltungsrechtliche Verträge im Immissions- und
+   Gewässerschutzrecht, 2011.
+14 Siehe Jan Ziekow, Verankerung verwaltungsrechtlicher Kooperationsverhältnisse
+   (Public Private Partnership) im Verwaltungsverfahrensgesetz. Gutachten, erstattet für
+   das Bundesministerium des Innern, 2001, S. 124 ff. (abrufbar unter http://www.
+   verwaltung-innovativ.de/SharedDocs/Publikationen/DirekteDownloads/verwaltungsk
+   ooperationsrecht.pdf?__blob=publicationFile&v=1. A. M. Hartmut Maurer,
+   Allgemeines Verwaltungsrecht, 18. Aufl. 2011, § 14 Rn. 7. Zusammenfassend
+   Hartmut Bauer, Verwaltungsverträge, in: Hoffmann-Riem/Schmidt-Aßmann/
+   Voßkuhle, Grundlagen des Verwaltungsrechts, Bd. II, 2. Aufl. 2012, § 36 Rn. 70 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags        69
+
+
+weitaus größere Zahl der von der Verwaltung geschlossenen Verträge
+dem Privatrecht unterliegt. Da die Verwaltung grundsätzlich frei
+entscheiden kann, ob sie zur Erfüllung ihrer Aufgaben zivil- oder
+                                                                                    15
+öffentlich-rechtlich handelt – sofern nichts anderes vorgeschrieben ist – ,
+wäre es für eine umfassende rechtliche Erfassung des vertraglichen
+Handelns der Verwaltung kontraproduktiv, würde man den Betrachtungs-
+gegenstand von den Zufälligkeiten der Wahl des Rechtsregimes im
+Einzelfall abhängig machen. Bereichsspezifische Regelungen wie die
+der städtebaulichen Verträge in § 11 BauGB gelten dementsprechend
+deshalb sowohl für öffentlich-rechtliche als auch für privatrechtliche
+          16
+Verträge .
+
+     Der Begriff des Verwaltungsvertrags erhält mithin seinen Inhalt
+durch seinen Akteursbezug: Alle Verträge, die ein Träger öffentlicher
+Verwaltung schließt, sind Verwaltungsverträge, unabhängig davon, ob es
+                                                                              17
+sich nun um zivil- oder öffentlich-rechtliche Verträge handelt . Um
+nicht mißverstanden zu werden: Der Verwaltungsvertrag ist eine
+heuristische Kategorie, eine ganzheitlicher Analyserahmen, keine
+rechtspolitische Forderung de lege ferenda. Der teilweise erhobenen
+Forderung, es müsse ein Zivilrecht und öffentliches Recht integrierender
+                                                            18
+Typus des Verwaltungsvertrags geschaffen werden , würde ich mich in
+dieser Allgemeinheit nicht anschließen. Das mag ein intellektuell
+reizvolles Unterfangen sein, würde aber die Strukturentscheidung der
+
+
+15 BVerwGE 13, S. 47, 54; BVerwG NVwZ 2007, S. 820, 821; BGH NJW 1992, S. 171,
+   172; Martin Burgi, Rechtsregime, in: Hoffmann-Riem/Schmidt-Aßmann/Voßkuhle,
+   Grundlagen des Verwaltungsrechts, Bd. I, 2. Aufl. 2012, § 18 Rn. 28.
+16 Olaf Reidt, in: Battis/Krautzberger/Löhr, Baugesetzbuch, 12. Aufl. 2014, § 11 Rn. 1.
+17 Vgl. Eberhard Schmidt-Aßmann, Verwaltungsverträge im Städtebaurecht, in: Lenz,
+   Festschrift für Konrad Gelzer, 1991, S. 117.
+18 Eberhard Schmidt-Aßmann/Walter Krebs, Rechtsfragen städtebaulicher Verträge, 2.
+   Aufl. 1992, S. 162.
+70                                                        2012 行政管制與行政爭訟
+
+
+
+deutschen       Rechtsordnung         für    die     Zweiteilung        öffentliches
+                    19
+Recht/Privatrecht , an die viele Folgerungen geknüpft sind, in einem
+Teilbereich auflösen. Worum es vielmehr geht ist die Herausbildung von
+Handlungsmaßstäben für das Agieren der Verwaltung in Kooperationen,
+und dies ist von der Zuordnung des schließlich geschlossenen Vertrages
+zu Zivilrecht oder zu öffentlichem Recht unabhängig.
+
+     Selbst wenn man einen solchen umfassenden Begriff des
+Verwaltungsvertrags zugrunde legt, bleibt der Vertrag aber nur eine unter
+                                                                                   20
+mehreren der Verwaltung zur Verfügung stehenden Handlungsformen .
+Insbesondere gibt es eine Pflicht zum Handeln gerade in Vertragsform
+im öffentlichen Recht nur sehr selten, während im Privatrecht der
+Vertrag absolut dominierend ist. Trotz aller vorgetragenen Bekenntnisse
+zu einer Abkehr vom „Obrigkeitsstaat“ und Hinwendung zu einem
+„kooperativen Staat“ bleibt es doch immer eine Einzelfallentscheidung
+der Verwaltung, in welchen Situationen sie auf den Vertrag als
+                                               21
+Handlungsform zurückgreift oder nicht . Dabei muss man erkennen,
+dass die Herstellung von Konsens allein noch nicht zum öffentlich-
+rechtlichen Vertrag führt. In der Praxis erfolgen häufig detaillierte
+
+
+
+19 Siehe dazu beispielsweise Burgi (Fußn. 15); Detlef Schmidt, Die Unterscheidung von
+   privatem und öffentlichem Recht, 1985; sowie die Beiträge in: Hoffmann-
+   Riem/Schmidt-Aßmann, Öffentliches Recht und Privatrecht als wechselseitige
+   Auffangordnungen, 1996.
+20 Zu den Handlungsformen der Verwaltung etwa Peter Krause, Rechtsformen des
+   Verwaltungshandelns, 1974; Walter Pauly, Grundlagen einer Handlungsformenlehre
+   im Verwaltungsrecht, in: Becker-Schwarze u.a., Wandel der Handlungsformen im
+   Öffentlichen Recht, 1991, S. 25 ff.; Rainer Pitschas, Entwicklung der
+   Handlungsformen im Verwaltungsrecht, in: Blümel/Pitschas, Reform des
+   Verwaltungsverfahrensrechts, 1994, S. 229 ff.; Eberhard Schmidt-Aßmann, Die Lehre
+   von den Rechtsformen des Verwaltungshandelns, DVBl. 1989, S. 533 ff.
+21 Jan Ziekow/Thorsten Siegel, Entwicklung und Perspektiven des Rechts des öffentlich-
+   rechtlichen Vertrages – Teil 1 –, VerwArch 2003, S. 593, 604.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags      71
+
+
+Absprachen zwischen der Verwaltung und dem Bürger, die aber nicht zu
+einem Vertragsschluss, sondern zum Erlass eines Verwaltungsakts führen.
+Ob man diesen Verwaltungsakt nun „konsentierten Verwaltungs-
+akt“ nennt, ändert nichts daran, dass es sich typologisch um die
+Handlungsform des Verwaltungsakts, nicht des Vertrages handelt.
+Dahinter steht auch die Einsicht, dass die Wahl der Handlungsform
+„Verwaltungsakt“ der Verwaltung spezifische Vorteile bietet, die mit der
+                                        22
+Vertragsform nicht verbunden sind .
+
+     Es kann aber auch genau umgekehrt sein und der größere Vorteil
+beim    Vertrag     liegen.    Ein    Beispiel     aus    der    Praxis    ist   der
+„bebauungsplanersetzende Grundstückskaufvertrag“. Hier geht es um
+die Konstellation, dass für unbebaute Flächen Art und Ausmaß der
+Bebaubarkeit eigentlich durch Bebauungsplan festgelegt werden müßten,
+die betreffende Gemeinde aber aus verschiedenen Gründen keinen
+Bebauungsplan aufstellen will. Sie schließt vielmehr mit einem Investor
+einen Grundstückskaufvertrag, in dem außerdem genau festgelegt wird,
+was für ein Gebäude der Investor bauen muß, wie es aussehen soll und
+welche Infrastruktureinrichtungen, z. B. einen Kindergarten, es enthalten
+muß. Die rechtliche Bewertung dieser Vorgehensweise, insbesondere
+ihre vergaberechtliche Zulässigkeit, war außerordentlich umstritten und
+ist erst seit einem Urteil des Europäischen Gerichtshofs einigermaßen
+        23
+geklärt .
+
+
+
+
+22 Dazu Jan Ziekow, Institutionen unter Konkurrenzdruck: Das Beispiel des öffentlich-
+   rechtlichen Vertrages, in: Benz/Siedentopf/Sommermann, Institutionenwandel in
+   Regierung und Verwaltung. Festschrift für Klaus König, 2004, S. 303 ff.
+23 EuGH NVwZ 2010, S. 565 ff. – Müller. Zur anderslautenden Rechtsprechung der
+   deutschen Oberlandesgerichte und zur Diskussion in der Literatur siehe Jan Ziekow,
+   in: ders./Völlink, Vergaberecht, 2. Aufl. 2013, § 99 GWB Rn. 165 ff.
+72                                                       2012 行政管制與行政爭訟
+
+
+
+II. Die für Verwaltungsverträge geltenden
+    Rechtsregime
+
+       Allgemeine Vorschriften für alle öffentlich-rechtlichen Verträge
+enthalten die §§ 54-62 VwVfG. Dabei wird ein dem Zivilrecht
+vergleichbares System von Verträgen in den §§ 54 ff. VwVfG nicht
+entwickelt      Die    dort   angelegte       Unterscheidung       zwischen    sog.
+subordinationsrechtlichen (§ 54 S. 2 VwVfG) und anderen öffentlich-
+rechtlichen Verträgen sowie zwischen Vergleichsvertrag (§ 55 VwVfG)
+und Austauschvertrag (§ 56 VwVfG) dient allein der Typisierung
+besonderer Schutzwürdigkeitsanforderungen. Einen Typenzwang gibt es
+deshalb nicht. Die Verwaltung ist nicht gehindert, andere öffentlich-
+rechtliche      Verträge      als      Austausch-       und      Vergleichsverträge
+                 24
+abzuschließen .
+
+1. Der subordinationsrechtliche Vertrag
+
+       Als „subordinationsrechtlich“ wird der öffentlich-rechtliche Vertrag
+im Sinne von § 54 S. 2 VwVfG bezeichnet. Nach dieser Vorschrift kann
+die Behörde, anstatt einen VA zu erlassen, einen öffentlich-rechtlichen
+Vertrag mit demjenigen schließen, an den sie sonst den VA richten würde.
+Der Frage, ob es sich bei einem öffentlich-rechtlichen Vertrag um einen
+subordinationsrechtlichen           Vertrag   handelt     oder     nicht,   kommt
+beträchtliche Bedeutung zu. Denn wesentliche Vorschriften der §§ 55 ff.
+VwVfG gelten nur für subordinationsrechtliche, nicht aber für andere
+öffentlich-rechtliche Verträge.
+
+       Der Grund hierfür liegt in der Funktion der Einstufung eines
+
+
+24 Michael Fehling, in: ders./Kastner/Störmer, Verwaltungsrecht – Handkommentar, 3.
+     Aufl. 2013, § 54 VwVfG Rn. 56.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags     73
+
+
+Vertrags      als      subordinationsrechtlich.         Funktional   liegt      der
+Unterscheidung zwischen „subordinationsrechtlichen“ und sonstigen
+öffentlich-rechtlichen       Verträgen           eine    Differenzierung       nach
+Schutzwürdigkeitsgesichtspunkten zugrunde. § 54 S. 2 und die an ihn
+anknüpfenden Regelungen sollen der Situation Rechnung tragen, dass
+                                          25
+der im „Schatten der Hierarchie“               der Hoheitsbefugnisse der Behörde
+kontrahierende Bürger eines besonderen Schutzes bedarf. Auf der
+anderen Seite soll die Behörde davor bewahrt werden, sich
+                                                          26
+Hoheitsbefugnisse gleichsam abkaufen zu lassen . Zur Ermittlung des
+Anwendungsbereichs des § 54 S. 2 ist daher eine Analyse des
+anzulegenden Schutzniveaus erforderlich.
+
+     Zum      Bestimmung         der      Schutzwürdigkeitsgrenze     geht      die
+Rechtsprechung von einer typisierenden Betrachtungsweise aus: § 54
+S. 2 gelte danach für alle öffentlich-rechtlichen Verträge zwischen einer
+Privatperson und einem Träger der öffentlichen Verwaltung auf einem
+Gebiet, auf dem ein hoheitliches Verhältnis der Über- und Unterordnung
+besteht, ohne dass es darauf ankomme, ob der konkrete Gegenstand der
+                                                                                27
+vertraglichen Vereinbarung sonst durch VA geregelt werden könnte .
+Die auf den jeweiligen Rechtsbereich bezogene allgemeine Über- und
+Unterordnung reiche mithin aus, um die Schutzfunktion des § 54 S. 2
+auszulösen.
+
+     Diese Vorgehensweise ist unter funktionalen Gesichtspunkten nicht
+
+
+25 Fritz Scharpf, Die Handlungsfähigkeit des Staates am Ende des zwanzigsten
+   Jahrhunderts, PVS 1991, S. 621, 629.
+26 Carl Hermann Ule/Hans-Werner Laubinger, Verwaltungsverfahrensrecht, 4. Aufl.
+   1995, § 68 Rn. 9.
+27 BVerwGE 111, S. 162, 165; BVerwG NVwZ-RR 2003, S. 874, 875; OVG Koblenz
+   DVBl. 2003, S. 811, 812; VGH Mannheim NVwZ 1991, S. 583, 584; VBlBW 2004,
+   52; VGH München NVwZ 1990, S. 979, 981.
+74                                                        2012 行政管制與行政爭訟
+
+
+
+tauglich. Wenn es für die Rechtsprechung auf das Bestehen eines
+„hoheitlichen Verhältnisses der Über- und Unterordnung“ ankommt, so
+muss man daran erinnern, dass diese Begriffsbestimmung des
+„subordinationsrechtlichen“ Vertrags weitgehend identisch ist mit den
+Kriterien für das Vorliegen eines öffentlich-rechtlichen Vertrags. Denn
+das Bestehen eines Über-/Unterordnungsverhältnisses ist das klassische
+                                                                         28
+Kennzeichen für das Handeln aufgrund öffentlichen Rechts . Welche
+Schutzwürdigkeitsdifferenzierung eine solche Abgrenzung leisten soll,
+ist nicht zu erkennen. Der Bürger ist vielmehr nur in derjenigen Situation
+besonders schutzbedürftig, in der er sich konkret überlegenen
+behördlichen Handlungsbefugnissen gegenübersieht. Bei der danach
+gebotenen Betrachtung unter dem Blickwinkel funktionaler Äquivalenz
+liegt ein subordinationsrechtlicher Vertrag nur dann vor, wenn die
+Behörde in der ganz konkreten Situation gegenüber dem ganz konkreten
+                                                                 29
+Betroffenen auch durch Verwaltungsakt handeln könnte .
+
+2. Vergleichs- und Austauschverträge
+
+     Folge der Einstufung eines Vertrages als subordinationsrechtlicher
+ist u. a., dass die besonderen Schutzbestimmungen der §§ 55 und 56
+VwVfG für Vergleichs- und Austauschverträge gelten.
+
+     a) Vergleichsvertrag
+
+     Unter einem Vergleichsvertrag im Sinne von § 55 VwVfG ist ein
+öffentlich-rechtlicher Vertrag zu verstehen, durch den eine bei
+verständiger Würdigung des Sachverhalts oder der Rechtslage
+bestehende Ungewissheit durch gegenseitiges Nachgeben beseitigt wird.
+
+
+28 Dazu etwa Jan Ziekow, Verwaltungsverfahrensgesetz, 3. Aufl. 2013, § 1 Rn. 23.
+29 Ziekow (Fußn. 28), § 54 Rn. 32.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags       75
+
+
+§ 55 ermächtigt die Behörde allerdings nicht, von vornherein den
+Abschluss eines Vertrages unter Ungewissheitsbedingungen anzustreben
+und deshalb jegliche Sachverhaltsaufklärung zu unterlassen. Da die
+Möglichkeit,        einen          Vergleichsvertrag        abzuschließen,        der
+Verfahrensökonomie dient, besteht eine Ungewissheit hinsichtlich des
+Sachverhalts im Sinne von § 55 nur dann, wenn ein weiterer
+Aufklärungsgewinn nur mit unverhältnismäßigem Aufwand zu erzielen
+      30
+wäre.
+
+      b) Austauschvertrag
+
+      Die Regelungen des § 56 VwVfG über den Austauschvertrag
+dienen den Zwecken, den sog. „Ausverkauf von Hoheitsrechten“ zu
+verhindern und den Bürger davor zu schützen, dass ihm nach der
+Gesetzeslage nicht gerechtfertigte oder unangemessene Leistungen
+                      31
+abverlangt werden . Beim Austauschvertrag im engeren Sinne wird
+jeder Vertragspartei auf der Grundlage der Gegenseitigkeit ein
+Rechtsanspruch        auf    die     Leistung      der     anderen    Vertragspartei
+             32
+eingeräumt.       Von § 56 – zumindest in entsprechender Anwendung –
+                                                                             33
+erfasst wird darüber hinaus der sog. hinkende Austauschvertrag . Hier
+wird die behördliche Leistung nicht als Gegenleistung für die Leistung
+des     Vertragspartners      vereinbart,        sondern    als    außervertragliche
+Bedingung für die Leistung des Bürgers oder stillschweigend als
+                                            34
+Geschäftsgrundlage vorausgesetzt.                 Klassisches Beispiel ist eine
+
+
+30 Jan Ziekow/Thorsten Siegel, Entwicklung und Perspektiven des Rechts des öffentlich-
+   rechtlichen Vertrages – Teil 2 –, VerwArch 2004, S. 133, 142.
+31 VGH Mannheim NVwZ 1991, S. 583, 584.
+32 BVerwGE 111, S. 162, 167.
+33 Zum „hinkenden Austauschvertrag“ und seinen Wirkungen Ulrich Stelkens,
+   „Hinkende“ Verwaltungsverträge: Wirkungen und Rechtsnatur, DÖV 2009, S. 850 ff.
+34 BVerwGE 96, S. 326, 330; BVerwGE 111, S. 162, 167; BVerwG NVwZ-RR 2003, S.
+76                                                   2012 行政管制與行政爭訟
+
+
+
+Vereinbarung, durch die sich eine Gemeinde verpflichtet, gegen
+bestimmte Leistungen des Bürgers eine bestimmte Bebauungsplanung
+vorzunehmen. Da es gegen das Abwägungsgebot verstoßen würde, wenn
+sich die Gemeinde zur Vornahme einer bestimmten Planung verpflichten
+würde, stellt diese von der Gemeinde erklärte Bereitschaft keine
+vertragliche Verpflichtung, sondern eine Geschäftsgrundlage des
+Vertrages dar.
+
+     Die Einordnung eines Vertrages als Austauschvertrag hat
+weitreichende Konsequenzen, weil für einen Austauschvertrag u. a. das
+Koppelungsverbot und das Angemessenheitsgebot gelten:
+
+     ▪   Das sog. Koppelungsverbot verlangt, dass die Gegenleistung des
+         Bürgers im sachlichen Zusammenhang mit der vertraglichen
+         Leistung der Behörde steht. Es soll in erster Linie einen
+                                                               35
+         „Ausverkauf von Hoheitsrechten“ verhindern                  und besagt,
+         dass zum einen durch einen verwaltungsrechtlichen Vertrag
+         nichts miteinander verknüpft werden darf, was nicht ohnedies
+         schon in einem inneren Zusammenhang steht, und dass zum
+         anderen behördliche Entscheidungen ohne entsprechende
+         gesetzliche     Ermächtigung      nicht     von       wirtschaftlichen
+         Gegenleistungen abhängig gemacht werden dürfen, es sei denn,
+         erst    die   Gegenleistung    würde      ein   der        Entscheidung
+                                                                     36
+         entgegenstehendes rechtliches Hindernis beseitigen . Der Fall
+
+
+   874, 875; VGH Mannheim NVwZ 1991, S. 583, 584; VBlBW 2004, S. 52, 53; VGH
+   München NVwZ 1990, S. 979, 981; VGH Kassel NVwZ-RR 2005, S. 680, 682.
+35 BVerwGE 111, S. 162, 169; BVerwG NVwZ-RR 2003, S. 874, 875; VGH Mannheim
+   NVwZ 2001, S. 694, 695; VBlBW 2004, S. 52, 53.
+36 BVerwGE 111, S. 162, 169; BVerwG NVwZ 1994, S. 485; OVG Koblenz DVBl.
+   2003, S. 811, 814; VGH Mannheim NVwZ 2001, S. 694, 695; VBlBW 2004, S. 52,
+   53.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags   77
+
+
+         einer unzulässigen Gegenleistung des Bürgers liegt z. B. vor,
+         wenn die Behörde im Gegenzug eine Leistung verspricht, auf
+         die der Bürger nach dem einschlägigen Bundes- oder
+                                                  37
+         Landesrecht ohnehin Anspruch hat , oder die Behörde Kosten
+         auf den Bürger zu überwälzen versucht, die sie nach der
+                                             38
+         Gesetzeslage selbst zu tragen hat .
+
+     ▪   Weiterhin muss die Gegenleistung den gesamten Umständen
+         nach angemessen sein (§ 56 Abs. 1 S. 2 VwVfG).
+         Angemessenheit bedeutet, dass bei wirtschaftlicher Betrachtung
+         des Gesamtvorgangs die Gegenleistung nicht außer Verhältnis
+         zu der Bedeutung und dem wirtschaftlichen Wert der von der
+         Behörde erbrachten oder zu erbringenden Leistungen stehen
+         darf und sich daraus keine unzumutbaren Belastungen für den
+                                            39
+         Vertragspartner ergeben dürfen . Insoweit handelt es sich bei
+         dem Angemessenheitskriterium um eine Ausprägung des
+                                                       40
+         Grundsatzes der Verhältnismäßigkeit . Hier wird besonders
+         deutlich, dass eine Vertragsfreiheit, wie sie unter Privaten
+         besteht, für die öffentliche Verwaltung nicht gilt.
+
+3. Folgen von Fehlern öffentlich-rechtlicher Verträge
+
+     Von Bedeutung ist die Frage, ob es sich bei einem Vertrag um einen
+subordinationsrechtlichen oder um einen anderen Vertrag handelt, auch
+für das Fehlerfolgenregime. Eine der Vorzüge, die ein öffentlich-
+
+
+37 BVerwGE 96, S. 326, 335; 111, S. 162, 169; VGH Mannheim VBlBW 2004, S. 52, 53.
+38 VGH Mannheim VBlBW 2004, S. 52, 54.
+39 BVerwGE 42, S. 331, 345; VGH Mannheim VBlBW 1997, S. 27, 28; VGH München
+   NVwZ 1999, S. 1008, 1010; BayVBl. 2009, S. 722, 724.
+40 BVerwG NJW 1985, S. 989, 990; VGH München NVwZ 1990, S. 979, 981; VGH
+   Mannheim NVwZ 2001, S. 694, 696.
+78                                                        2012 行政管制與行政爭訟
+
+
+
+rechtlicher Vertrag gegenüber einem Verwaltungsakt aufweist, ist die
+erhöhte Bestandskraft des Vertrages. Ein rechtswidriger Verwaltungsakt
+kann von der Behörde zurückgenommen (§ 48 VwVfG) oder vom
+Bürger angefochten werden (§§ 42, 113 VwGO), selbst wenn es sich um
+einen sog. konsentierten Verwaltungsakt handelt. Verstößt hingegen ein
+öffentlich-rechtlicher Vertrag gegen eine Rechtsvorschrift, so ist der
+                                                                                   41
+Vertrag („schlicht“) rechtswidrig, aber grundsätzlich rechtswirksam .
+Der Rechtsverstoß bleibt insoweit ohne Konsequenzen für die
+Wirksamkeit des Vertrages. Die Vertragspartner können sich ihren
+vertraglichen Verpflichtungen nicht wegen der Rechtswidrigkeit durch
+Anfechtung, Kündigung oder Rücktritt entziehen, sondern müssen den
+                     42
+Vertrag erfüllen .
+
+       Etwas anderes gilt nur dann, wenn ein öffentlich-rechtlicher Vertrag
+nichtig ist. Wann dies der Fall ist, ergibt sich aus dem abschließenden
+Katalog von Nichtigkeitsgründen in § 59 VwVfG. Der Grundsatz ist,
+dass ein öffentlich-rechtlicher Vertrag gemäß § 59 Abs. 1 VwVfG
+nichtig ist, wenn sich die Nichtigkeit aus der entsprechenden
+Anwendung von Vorschriften des BGB ergibt. Dieser Vorschrift kommt
+eine wichtige Verklammerungsfunktion zwischen den Teilrechts-
+ordnungen des bürgerlichen und des öffentlichen Rechts zu, indem sie
+das Nichtigkeitsregime nicht danach differenziert, ob der Schwerpunkt
+des Vertrags im öffentlichen Recht oder im Zivilrecht liegt.
+
+       Erweiterte Nichtigkeitsgründe gelten nach § 59 Abs. 2 VwVfG für
+
+
+41 Heinz Joachim Bonk/Werner Neumann, in: Stelkens/Bonk/Sachs, Verwaltungsverfahrens-
+     gesetz, 8. Aufl. 2014, § 59 Rn. 4a.
+42 Jan Ziekow/Thorsten Siegel, Entwicklung und Perspektiven des Rechts des öffentlich-
+     rechtlichen Vertrages – Teil 3 –, VerwArch 2004, S. 281, 282; Matthias Werner,
+     Allgemeine Fehlerfolgenlehre für den Verwaltungsvertrag, 2008, S. 84 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags    79
+
+
+den    subordinationsrechtlichen       Vertrag,   weil    hier   eine     erhöhte
+Schutzbedürftigkeit des Bürgers besteht. Diese Nichtigkeitsgründe
+beziehen sich teils auf den Vergleich mit rechtswidrigen bzw. nichtigen
+Verwaltungsakten, teils auf die Vertragstypen Vergleichs- und
+Austauschvertrag. Bei Nichtvorliegen der Voraussetzungen für den
+Abschluss eines dieser beiden Vertragstypen ist ein öffentlich-rechtlicher
+Vertrag nichtig.
+
+      Zum     Abschluss       dieses    kurzen      Überblicks      über       den
+Entwicklungsstand des Rechts des öffentlich-rechtlichen Vertrages ist
+noch auf zwei Vorschriften hinzuweisen, die sich für den Einsatz des
+öffentlich-rechtlichen Vertrages in der Praxis als hinderlich erweisen:
+
+4. Schriftformgebot
+
+      Nach § 57 VwVfG sind öffentlich-rechtliche Verträge schriftlich zu
+schließen. Bei Nichteinhaltung der Schriftform ist der Vertrag nichtig.
+Auf den ersten Blick überrascht diese strenge Regelung, weil ja der
+Erlass eines Verwaltungsakts nicht schriftlich erfolgen muss, sondern
+auch mündlich erfolgen kann (§ 37 Abs. 2 VwVfG). Doch steht dahinter
+die erwähnte erhöhte Bestandskraft rechtswidriger Verträge. Deshalb soll
+die notwendige Schriftform noch einmal verdeutlichen, dass hier eine
+erhöhte Bindung eingegangen wird. Die Schriftform ist deshalb auch
+nicht das Problem, sondern die zusätzlich geforderte Urkundeneinheit.
+Urkundeneinheit bedeutet, dass z. B. ein Briefwechsel zwischen den
+Parteien im Sinne eines unterschriebenen Angebots und einer
+unterschriebenen Annahmeerklärung nicht ausreicht, sondern beide
+                                                                     43
+Parteien auf demselben Dokument unterschreiben müssen . In der
+
+
+43 BVerwGE 98, S. 58, 67; OVG Lüneburg NJW 1992, S. 1404, 1405; NJW 1998, S.
+   2921; VGH Mannheim NVwZ-RR 1990, S. 225; Horst Schlemminger,
+80                                                          2012 行政管制與行政爭訟
+
+
+
+neueren Rechtsprechung ist zutreffend erkannt worden, dass die
+Urkundeneinheit die Nutzung der Vertragsform erschwert. Insbesondere
+in den Fällen, in denen durch den öffentlich-rechtlichen Vertrag nicht
+wechselseitig Verpflichtungen beider Parteien begründet werden,
+sondern nur eine der Parteien verpflichtet wird, reicht auch der
+                                                               44
+Austausch von unterschriebenen Schriftstücken aus .
+
+5. Zustimmung Drittbetroffener
+
+      In der Praxis ein wesentlich größeres Problem stellt die Vorschrift
+des § 58 Abs. 1 VwVfG dar. Danach wird ein öffentlich-rechtlicher
+Vertrag, der in Rechte Dritter eingreift, erst wirksam, wenn der Dritte
+zustimmt. Solange der Drittbetroffene dem Vertrag nicht zugestimmt hat,
+                                               45
+ist der Vertrag schwebend unwirksam . Eine Frist, innerhalb derer der
+Dritte sich über die Erteilung oder Verweigerung der Zustimmung
+erklären muss, besteht nicht. Dies bedeutet, dass ein öffentlich-
+rechtlicher Vertrag möglicherweise Jahrzehnte mit der Unsicherheit
+belastet ist, ob er denn nun wirksam ist oder nicht.
+
+      Der Zweck dieser Regelung wird üblicherweise darin gesehen, dem
+im Zivilrecht geltenden Verbot des Vertrags zu Lasten Dritter auch im
+                                                             46
+öffentlichen Recht Geltung zu verschaffen                         . Ich halte diese
+
+
+   Schriftformrisiken beim Abschluss öffentlich-rechtlicher Verträge, NVwZ 2009, S.
+   223, 224; eingehend Volker Schlette, Die Verwaltung als Vertragspartner, 2000,
+   S. 455 ff. A. M. Mónica Liliana Ibagón-Ibagón, Rechtsstaatliche Anforderungen an
+   den Verwaltungsvertrag am Beispiel der Schriftlichkeit des Vertrages, 2011, S. 134 ff.;
+   Ferdinand O. Kopp/Ulrich Ramsauer, Verwaltungsverfahrensgesetz, 15. Aufl. 2014,
+   § 57 Rn. 9 f.; Oliver Weihrauch, Verwaltungsrechtlicher Vertrag und Urkundeneinheit,
+   VerwArch 1991, S. 543, 550 ff.
+44 BVerwGE 96, S. 326, 332; OVG Bautzen SächsVBl. 2010, S. 171, 173.
+45 Bonk/Neumann (Fußn. 41), § 58 Rn. 4.
+46 Vgl. nur OVG Lüneburg UPR 2000, S. 238, 239; Kopp/Ramsauer (Fußn. 41), § 58
+   Rn. 1.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags           81
+
+
+Interpretation von vornherein für falsch. Das Verbot des Vertrags zu
+Lasten Dritter im Zivilrecht beruht auf dem Gedanken, dass die durch
+die vertragliche Einigung begründete Richtigkeitsgewähr für den
+Interessenausgleich sich auf Dritte, die an der Einigung nicht beteiligt
+                                        47
+waren, nicht erstrecken kann.                Das Verbot knüpft daher an die
+Ausübung von Privatautonomie an, die die Verwaltung für sich gerade
+                                        48
+nicht in Anspruch nehmen kann . Der zivilrechtliche Problemlösungs-
+mechanismus des Verbots des Vertrags zu Lasten Dritter ist daher für das
+öffentliche Recht funktional inadäquat. Die Vorschrift ist vielmehr eine
+Ausformung des Grundrechtsschutzes durch Verfahren und soll
+verhindern, dass der Dritte vor vollendete Tatsachen gestellt wird, die
+ihm eine Wahrung seiner Rechte unmöglich machen.
+
+      Dieser Meinungsunterschied wirkt sich unter anderem bei der
+Bestimmung des Anwendungsbereichs des Zustimmungserfordernisses
+aus. Nach der überwiegenden Auffassung sind zustimmungsbedürftig
+                                                                    49
+sowohl Verfügungs- als auch Verpflichtungsverträge . Durch einen
+Verfügungsvertrag wird unmittelbar die Begründung, Änderung oder
+Aufhebung eines Rechtsverhältnisses auf dem Gebiet des öffentlichen
+Rechts bewirkt, ohne dass es hierzu eines weiteren, dem Vertrag
+nachgeschalteten Aktes, z. B. eines Verwaltungsakts, bedarf. Beispiel ist
+der Abschluss eines Vertrags, der an die Stelle der Erteilung einer vom
+
+
+47 Mathias Habersack, Vertragsfreiheit und Drittinteressen, 1992, S. 66 ff.
+48 Ziekow (Fußn. 14), S. 122 f.; Steffen Christmann, Der öffentlich-rechtliche Vertrag mit
+   privaten Dritten im Lichte der Schuldrechtsreform, 2010, S. 12; Ulrich Stelkens,
+   Verwaltungsprivatrecht, 2005, S. 29.
+49 So etwa Bonk/Neumann (Fußn. 41), § 58 Rn. 15; Jürgen Fluck, Die Erfüllung des
+   öffentlich-rechtlichen Verpflichtungsvertrags durch Verwaltungsakt, 1985, S. 60 f.;
+   Johanna Reinker, in: Bauer/Heckmann/Ruge u.a., Verwaltungsverfahrensgesetz und
+   E-Government, 2. Aufl. 2014, § 58 Rn. 9; Schlette (Fußn. 43), S. 432; Werner (Fußn.
+   42), S. 49.
+82                                                         2012 行政管制與行政爭訟
+
+
+
+Bürger        begehrten        Erlaubnis       tritt.    Die      Erfüllung      des
+Verpflichtungsvertrags bedarf hingegen der Vornahme einer weiteren
+                                                                   50
+Handlung, z. B. des Erlasses eines Verwaltungsakts . Eine solche
+Einbeziehung des Verpflichtungsvertrags in das Erfordernis der
+Zustimmung des Dritten ist jedoch unter funktionalen Aspekten
+unzutreffend. Denn der Dritte erlangt hinreichenden Grundrechtsschutz
+dadurch, dass er die Aufhebung des Verwaltungsakts, der in Erfüllung
+des Vertrags erlassen wird, ggf. gerichtlich erzwingen kann. Es
+entspricht deshalb nicht dem Zweck des Drittbeteiligungserfordernisses,
+bereits die Wirksamkeit des Verpflichtungsvertrags von der Zustimmung
+                                        51
+des Dritten abhängig zu machen.
+
+       Nach        dieser      kurzen        Darstellung        des       rechtlichen
+Entwicklungsstandes widmen sich die folgenden Ausführungen zwei
+Beispielen befassen, in denen das vertragliche Handeln aktuell als
+Paradigma eines gewandelten Staatsverständnisses diskutiert wird.
+
+
+
+III. Der Verwaltungsvertrag als Paradigma des
+     kooperierenden und partizipativen Staates
+
+       Das Verwaltungsrecht in Deutschland befindet sich in einem
+Prozess des Perspektivenwechsels. Wenn das klassische Merkmal des
+Verwaltungsrechts das hoheitliche Handeln, das Über-Unterordnungs-
+verhältnis ist, so sieht sich diese Sichtweise mit mehr und mehr
+Gestaltungsmöglichkeiten des Bürgers konfrontiert. Der Bürger kommt
+
+
+50 BVerwG NVwZ-RR 2004, S. 413, 415.
+51 So auch Mathias Hellriegel, Wirksamkeit drittbelastender öffentlich-rechtlicher
+     Verträge ohne Zustimmung des Dritten, DVBl. 2007, S. 1211, 1212 f.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags          83
+
+
+nicht mehr nur als Objekt behördlicher Entscheidung vor, sondern wird
+zum Mitgestalter.
+
+      Dass wir es verstärkt mit Kooperationsbeziehungen zwischen
+Verwaltungen und Bürgern sowie insbesondere auch Unternehmen zu
+                                                                               52
+tun haben, ist in der Wissenschaft viel beschrieben worden . Die
+Verwaltung ist sich in zunehmendem Maße ihrer eigenen Grenzen
+bewußt. Sie bezieht Private bewußt in die Verbesserung ihrer
+organisationalen Leistungsfähigkeit ein, sei es als Informationsgeber, sei
+es in anderer Form. Zweitens kommt es im Zuge gewährleistungs-
+staatlichen Denkens mehr und mehr zu einer Entkoppelung von
+Aufgabenverantwortung und Aufgabenerfüllung: Der gewährleistende
+Staat erfüllt öffentliche Aufgaben nicht notwendig selbst, sondern
+bezieht – in unterschiedlicher Intensität – private Beiträge in die
+Aufgabenerfüllung ein. Der Staat trägt also nicht mehr die sog.
+Erfüllungsverantwortung, sondern gewährleistet nur noch, daß die
+Aufgabe im Gemeinwohlinteresse im Ergebnis auch tatsächlich erfüllt
+     53
+wird . Der zweite Strang führt zur Diskussion über eine Einbeziehung
+                                                    54
+des Bürgers in Verwaltungsentscheidungen .
+
+
+52 Vgl. nur die Nachweise in Fußn. 4.
+53 Zu Gewährleistungsstaatlichkeit und Gewährleistungsverantwortung siehe nur
+   Claudio Franzius, Der Gewährleistungsstaat, Verwaltungsarchiv 99 (2008), S. 351 ff.;
+   Wolfgang Hoffmann-Riem, Verantwortungsteilung als Schlüsselbegriff moderner
+   Staatlichkeit, in: Kirchhof/Lehner/Raupach/Rodi, Staat und Steuern. Festschrift für
+   Klaus Vogel, 2000, S. 47 ff.; Isabella Proeller/Kuno Schedler, Verwaltung im
+   Gewährleistungsstaat, in: Blanke/von Bandemer/Nullmeier/Wewer (Hrsg.), Handbuch
+   zur Verwaltungsreform, 3. Auflage 2005, S. 94 ff.; Gunnar Folke Schuppert, Der
+   Gewährleistungsstaat – modisches Label oder Leitbild sich wandelnder Staatlichkeit?,
+   in: ders. (Hrsg.), Der Gewährleistungsstaat – Ein Leitbild auf dem Prüfstand, 2005, S.
+   11 ff.; ders., Staatstypen, Leitbilder und Politische Kultur: Das Beispiel des
+   Gewährleistungsstaates, in: Heidbrink/Hirsch, Staat ohne Verantwortung?, 2007, S.
+   467 ff.
+54 Dazu nur Thomas Mann, Großvorhaben als Herausforderung für den demokratischen
+84                                                        2012 行政管制與行政爭訟
+
+
+
+       Beide Gesichtspunkte, der des kooperativen und der des
+partizipativen Staates, gehören eng zusammen und weisen weite
+Überschneidungsbereiche auf. Für das vorliegend behandelte Thema
+wesentlich ist, dass verwaltungsvertragliche Lösungsmodi gleicher-
+maßen eine große Rolle spielen, das geltende Recht aber diesbezüglich
+noch nicht optimiert ist.
+
+1. Verwaltungskooperationsrecht
+
+       Die    Diskussion      darüber,     ob   die    deutsche     Rechtsordnung
+ausreichende Instrumente bereit hält, um verstärkt kooperativem
+Handeln des Staates gerecht zu werden, hält nun schon mehr als 10 Jahre
+an und ist noch immer nicht zu einem Ende geführt. Im Mittelpunkt
+dieser Diskussion steht vor allem die Frage, ob multipolare
+Kooperationsverhältnisse         im      Bereich   der    Erfüllung     öffentlicher
+Aufgaben mit dem herkömmlichen Kanon des zivil- und des öffentlich-
+rechtlichen Vertrags bewältigt werden können oder ob man nicht eine
+Weiterentwicklung des geltenden Rechts benötigt.
+
+       Geht man davon aus, dass das Verwaltungsrecht dasjenige an
+Rechtsformen,         Instituten,     Verfahren       und      Organisationstypen
+bereitzustellen hat, das die Verwaltung benötigt, um zur Bewältigung
+
+
+     Rechtsstaat, VVDStRL 72 (2013), S. 544 ff.; Anja Seibert-Fohr,
+     Öffentlichkeitsbeteiligung im Planungsverfahren: Chancen und Grenzen am Beispiel
+     des Planvereinheitlichungsgesetzes, VerwArch 2013, S. 311 ff.; Jan Ziekow, Neue
+     Formen der Bürgerbeteiligung? Planung und Zulassung von Projekten in der
+     parlamentarischen Demokratie, Gutachten D zum 69. Dt. Juristentag, 2012; ders.,
+     Frühe Öffentlichkeitsbeteiligung – Der Beginn einer neuen Verwaltungskultur, NVwZ
+     2013, S. 754 ff.; ders., Der Bürger und die legalistische Verwaltung: Zwischen
+     Gesetzesbindung und Sprachlosigkeit, in: König/Kropp/Kuhlmann u.a., Grundmuster
+     der Verwaltungskultur, 2014, S. 105 ff.; ders., Bürgerbeteiligung als
+     systemstabilisierendes Element der parlamentarischen Demokratie, in: ders./Seok
+     (Hrsg.), Systemkrisen und Systemvertrauen, 2015, S. 223 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags        85
+
+
+                                                           55
+ihrer Aufgaben ausreichend gerüstet zu sein,                    so kann es wenig
+Zweifeln       begegnen,      dass   der     Zustand     des    geltenden     Rechts
+verbesserungsfähig ist. Die bisherige Erfahrung mit Public Private
+Partnership in Deutschland hat insbesondere gezeigt, dass ein zu
+schaffendes Verwaltungskooperationsrecht sicherzustellen hat, dass sich
+der öffentliche Partner auch in einer Kooperation mit Privaten nicht der
+Verantwortung         entziehen      kann,      auf     eine     sachangemessene
+Berücksichtigung der öffentlichen Interessen in den von der Verwaltung
+                                           56
+geschlossenen Verträgen zu achten.              Es bedarf der Verankerung von
+Regularien, die es der Verwaltung ermöglichen, ihrer Verantwortung
+gerecht werden zu können. Es muss gewährleistet sein, dass die
+Verwaltung sich durch die Kooperation nicht ihrer spezifischen
+Gemeinwohlverantwortung begibt. Verwaltungskooperation darf nicht
+dazu führen, dass das Gemeininteresse durch die Sonderinteressen der
+privaten Kooperationspartner vereinnahmt wird.
+
+      Darüber hinaus soll es die Entwicklung und Bereitstellung eines
+Angebots von rechsverhältnisgestaltenden Optionen und Direktiven den
+(potentiellen)     Kooperationspartnern          erleichtern,      für     bestimmte
+Grundkonstellationen auf gesetzlich beschriebene Muster zurückgreifen
+und für den jeweiligen Einzelfall anpassen zu können. Die Eingehung
+und     Gestaltung      von     Verwaltungskooperationen            wird     dadurch
+            57
+erleichtert.
+
+
+
+55 Gunnar Folke Schuppert, Verwaltungsrechtswissenschaft als Steuerungswissenschaft,
+   in: Hoffmann-Riem/Schmidt-Aßmann/Schuppert, Reform des Allgemeinen Verwaltungs-
+   rechts, 1993, S. 65, 96 f.
+56 Ziekow (Fußn. 14), S. 176; ebenso Heribert Schmitz, „Die Verträge sollen sicherer
+   werden“ – Zur Novellierung der Vorschriften über den öffentlich-rechtlichen Vertrag,
+   DVBl. 2005, S. 17, 18 f.
+57 Schmitz (Fußn. 56), S. 18 f.
+86                                                         2012 行政管制與行政爭訟
+
+
+
+       Sind Verwaltungskooperationen gerade durch die Zusammen-
+führung der Handlungsrationalitäten des öffentlichen und des privaten
+Sektors       zur     gemeinsamen         Erfüllung       öffentlicher      Aufgaben
+gekennzeichnet, so liegen solche Kooperationen häufig im Schnittfeld
+zwischen öffentlich-rechtlichem und privatrechtlichem Handeln. Es
+bedarf daher von vornherein eines regimeübergreifenden Konzepts, das
+die im Zusammenhang von Verwaltungskooperationen bzw. PPPs
+auftretenden Probleme aufgreift, ungeachtet dessen, ob sie ihren
+                                                                          58
+Schwerpunkt im öffentlichen Recht oder im Zivilrecht haben.
+
+       Der Typus eines solchen Verwaltungskooperationsvertrags ist das
+zentrale Scharnier des Zusammenwirkens von öffentlichem und
+privatem Sektor. Er verdeutlicht dem öffentlichen Kooperationspartner
+die Notwendigkeit, sich über die anzustrebende Rollenverteilung, die
+konkrete Verantwortungsstufung, Gedanken zu machen. Er strukturiert
+die Kooperation und bietet zur Sicherstellung des erforderlichen
+Verantwortungsniveaus und der Interessen der Kooperationspartner
+geeignete Instrumente an. Ein solcher Verwaltungskooperationsvertrag
+sollte dabei nicht mit Vertragstypen nach Art von Kauf- oder
+
+
+
+
+58 Dies haben übereinstimmend alle mit diesem Fragenkreis befassten Gutachter
+     empfohlen:     Martin     Burgi,    Privatisierung  öffentlicher    Aufgaben      –
+     Gestaltungsmöglichkeiten, Grenzen, Regelungsbedarf, Gutachten D für den 67.
+     Deutschen Juristentag, 2008, S. D 111; Gunnar Folke Schuppert, Grundzüge eines zu
+     entwickelnden Verwaltungskooperationsrechts, 2001, S. 130 f.; Ziekow (Fußn. 14), S.
+     183. Zustimmend etwa Tonio Gas, Die gesetzliche Normierung des öffentlich-
+     privaten Kooperationsvertrages, Die Verwaltung 2012, S. 43 ff.; Tobias Manz, Die
+     Normierung des öffentlich-rechtlichen Kooperationsvertrages, 2011, S. 79 ff.; Nina
+     Stöcker, Entwicklung des Verwaltungskooperationsvertrags unter Berücksichtigung
+     des Vergaberechts, 2010, S. 268 ff. Skeptisch demgegenüber Ulrich Stelkens,
+     „Kooperationsvertrag“ und Vertragsanpassungsansprüche: Zur beabsichtigten Reform
+     der §§ 54 ff. VwVfG, NWVBl. 2006, S. 1 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags    87
+
+
+                                      59
+Werkvertrag verwechselt werden.            Ein Verwaltungskooperationsrecht
+muss vielmehr die Grundstrukturen von Kooperationsverhältnissen offen
+legen und dadurch deren sachbereichsadäquate Ausgestaltung erleichtern.
+
+     Hauptbestandteil      eines    solchen       Rechts   des    Verwaltungs-
+kooperationsvertrages wäre eine Verpflichtung der Behörde zu einer Art
+Verantwortungsbilanzierung, die sicherstellen muss, dass die Behörde
+auch in der Kooperation mit Privaten ihre Verantwortung für das
+                                           60
+Allgemeinwohl wahrnehmen kann.                  Hierzu zählen neben weiteren
+Ausdifferenzierungen auch die Schaffung eines Ausgleichssystems für
+die den Kooperationspartnern entstehenden Vor- und Nachteile sowie die
+Entwicklung        von     Selbstdurchsetzungsmechanismen             bezüglich
+allgemeinwohlrelevanter vertraglicher Pflichten oder Nebenpflichten.
+
+     Nicht alle diese Anforderungen können in ihrer Erfüllung dem
+Belieben     der   Kooperationspartner          anheimgegeben    werden.       Die
+vertragliche Gestaltung bedarf vielmehr der Statuierung gesetzlicher
+Vorgaben und Merkposten, die bei der Ausformung der konkreten
+Verwaltungskooperation abgearbeitet werden. Dies ist mittlerweile
+           61
+anerkannt.
+
+2. Mediationsvereinbarungen
+
+     Ein sehr wichtiges Thema nicht nur in der politischen Diskussion,
+sondern auch in der Verwaltungsrechtswissenschaft in Deutschland ist
+derzeit die Verbesserung der Beteiligung an Verwaltungsverfahren.
+
+
+59 Im Ergebnis ebenso Burgi (Fußn. 58), S. D 112.
+60 So der Vorschlag von Ziekow (Fußn. 14), S. 207. In der Sache ebenso der
+   Musterentwurf der Verfahrensrechtsreferenten des Bundes und der Länder vom
+   21./22.4.2004, vgl. Schmitz (Fußn. 56), S. 21.
+61 Ziekow (Fußn. 14), S. 190 ff.; vgl. auch Burgi (Fußn. 58), S. D 113.
+88                                                      2012 行政管制與行政爭訟
+
+
+
+Wenn     Großprojekte      wie     Kraftwerke,     Flughäfen,      Straßen    oder
+Eisenbahnen gebaut werden ist zwar schon seit Jahrzehnten die
+Durchführung eines Verfahrens der Bürgerbeteiligung vorgeschrieben.
+Die Bürger können schriftlich Bedenken gegen das geplante Projekt
+vorbringen und es findet dann eine mündliche Erörterung der Fragen mit
+                    62
+den Bürgern statt.
+
+     Mittlerweile ist das den Bürgern aber nicht mehr genug. Sie wollen
+nicht nur angehört werden, sondern auch mitentscheiden. Deshalb wird
+zum einen über die Möglichkeiten von Volksentscheiden über die
+                                                        63
+Zulassung solcher Großvorhaben nachgedacht . Zum anderen wird
+nach Wegen gesucht, dass der Träger des Vorhabens, die Behörde und
+die Bürger miteinander vereinbaren, unter welchen Voraussetzungen das
+                                   64
+Vorhaben gebaut werden kann . Dies führt dann zu der Frage, ob nicht
+
+
+62 Dazu etwa Thomas Bunge, Beteiligung in umweltbezogenen Verwaltungs- und
+   vergleichbaren Verfahren, in: Schlacke/Schrader/Bunge, Informationsrechte,
+   Öffentlichkeitsbeteiligung und Rechtsschutz im Umweltrecht, 2010, Rn. 354 ff.;
+   Alfred Debus, Funktionen der Öffentlichkeitsbeteiligung am Beispiel des
+   Erörterungstermins, in: Gesellschaft für Umweltrecht, Dokumentation zur 32.
+   wissenschaftlichen Fachtagung, 2009, S. 185 ff.; Martin Dippel, Praxisfragen der
+   Öffentlichkeitsbeteiligung im Genehmigungsverfahren nach dem Bundes-
+   Immissionsschutzgesetz, NVwZ 2010, S. 145 ff.; Annette Guckelberger, Formen von
+   Öffentlichkeit und Öffentlichkeitsbeteiligung im Umweltverwaltungsrecht, VerwArch
+   2012, S. 35 ff.; Bilun Müller, Die Öffentlichkeitsbeteiligung im Recht der
+   Europäischen Union und ihre Einwirkungen auf das deutsche Verwaltungsrecht am
+   Beispiel des Immissionsschutzrechts, 2010; Christoph Riese/Nina Dieckmann, Der
+   Erörterungstermin - Bestandsaufnahme und Reformvorschlag, DVBl. 2010, S. 1343
+   ff.; Ziekow, Neue Formen der Bürgerbeteiligung (Fußn. 54), S. D 26 ff.
+63 Dazu Jan Ziekow, Entscheidung der Bürger über Großprojekte durch Bürger-
+   /Volksentscheid – Regelfall oder ultima ratio?, in: Lee/Ziekow, Wandlungen im
+   Verhältnis zwischen Bürger und Staat, 2015, S. 237 ff.; Annette Guckelberger,
+   Abstimmungsmöglichkeiten von (betroffenen) Bürger/innen über administrative
+   Planungs- oder Genehmigungsentscheidungen, VerwArch 2015, H. 1 und 2; Kay
+   Waechter, Großvorhaben als Herausforderung für den demokratischen Rechtsstaat,
+   VVDStRL 72 (2013), S. 499, 529 ff.
+64 Dazu Ziekow, Neue Formen der Bürgerbeteiligung (Fußn. 54), S. D 101 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags    89
+
+
+ein multipolarer öffentlicher-rechtlicher Vertrag geschlossen werden
+kann, der auch die Behörde bindet.
+
+     Nach geltendem Recht ist das nicht ganz so einfach. Im
+Ausgangspunkt muß man zwei Konstellationen unterscheiden, nämlich
+erstens eine Vereinbarung über den Sachverhalt, der der Entscheidung
+der Behörde zugrunde gelegt wird, und zweitens eine Vereinbarung über
+das Ergebnis des Genehmigungsverfahrens, also die Genehmigung,
+selbst.
+
+     a) Sachverhaltsverträge
+
+     Zunächst zum Vertrag über den Sachverhalt: Bei komplexen
+Projekten, insbesondere im Hochtechnologiebereich, besteht häufig auch
+in der Wissenschaft keine Einigkeit darüber, wie bestimmte technisch-
+naturwissenschaftliche Fragen zu beantworten sind. Dies führt dann in
+der Praxis dazu, daß beide Seiten sachverständige Gutachter benennen
+und endlos darüber gestritten wird, was denn nun richtig und was falsch
+ist. Um aus dieser Blockadesituation herauszukommen, wird eine
+Einigung über den Sachverhalt gesucht, der der zu treffenden
+behördlichen Entscheidung zugrunde gelegt werden soll.
+
+     Inwieweit     eine    solche    Vereinbarung      in   die    Form    eines
+verbindlichen Vergleichvertrags im Sinne von § 55 VwVfG gefasst
+werden kann, ist nicht abschließend geklärt. Zutreffend dürfte die
+Auffassung sein, dass sich ein Vergleichsvertrag nicht auf einzelne
+                                                                          65
+Vorfragen eines zu erlassenden Verwaltungsakts beziehen kann                   und
+ein solcher Vergleichsvertrag über das Vorliegen oder Nichtvorliegen
+eines     bestimmten       Sachverhalts     unzulässig      ist.   Denn        der
+
+
+65 Kopp/Ramsauer (Fußn. 43), § 55 Rn. 11.
+90                                                   2012 行政管制與行政爭訟
+
+
+
+Vergleichsvertrag ändert gerade nichts an der Ungewissheit über die
+           66
+Sachlage.       Er wird vielmehr geschlossen, weil die Unsicherheit über
+den Sachverhalt bestehen bleibt und die Parteien deshalb ihre
+                                                                       67
+Beziehungen abschließend im Einvernehmen regeln wollen.                      Die
+vertragliche Regelung soll gerade ohne Rücksicht auf die von
+                                                    68
+Unsicherheit geprägte Tatsachensituation gelten.
+
+      Es wird sich auch nicht unter Inanspruchnahme eines Schlusses a
+maiore ad minus argumentieren lassen, dass es den Beteiligten dann,
+wenn eine Sachverhaltsungewissheit ihnen eine Verfügung über das
+gesamte         Rechtsverhältnis,     nämlich     den      Abschluss        eines
+Vergleichsvertrags, eröffne, erst recht möglich sein müsse, über die
+Ungewissheit als solche zu verfügen. Denn § 55 VwVfG lässt die
+Sachverhaltsverantwortung der Behörde unberührt, derer sie sich auch
+                                                                       69
+nicht im Zusammenwirken mit Beteiligten entledigen kann.                     Die
+Beseitigung von Ungewissheiten hat im Rahmen des § 24 VwVfG zu
+erfolgen. Stößt die Sachverhaltsermittlung der Behörde dabei an
+Grenzen, so weist § 55 VwVfG einen Weg, zu einer Klärung des
+Rechtsverhältnisses zu kommen, ohne das Ergebnis der behördlichen
+Sachverhaltsermittlung verändern zu können. § 55 betrifft die Grenze
+der     Ermittlungspflicht     der    Behörde,   nicht    das   Ergebnis     der
+                 70
+Ermittlungen.         Dieses Ergebnis würde sich auch nicht im Wege der
+Gesetzgebung ändern lassen, weil der Grundsatz der Amtsermittlung
+durch     den      Grundsatz    der     Gesetzmäßigkeit     der   Verwaltung
+
+
+
+66 Bonk/Neumann (Fußn. 41), § 55 Rn. 45.
+67 Vgl. Ziekow/Siegel (Fußn. 30), S. 143.
+68 Fehling (Fußn. 24), § 55 VwVfG Rn. 26.
+69 Ziekow (Fußn. 28), § 55 Rn. 2.
+70 Vgl. Ziekow (Fußn. 28), § 55 Rn. 7, 9.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags     91
+
+
+                                          71
+verfassungsrechtlich vorgegeben ist .
+
+       Es bleibt daher nur die Möglichkeit, den über den Umgang mit dem
+Sachverhalt erzielten Konsens als Ausgangspunkt für die Erarbeitung
+eines Vergleichsvertrags zu nehmen, soweit ein solcher zulässig ist. Wird
+schließlich ein Vergleichsvertrag geschlossen, so wird zwar die
+Sachverhaltseinigung nicht unmittelbar verbindlich, geht jedoch in den
+bindenden Vergleichsvertrag ein.
+
+       b) Vertrag über die Genehmigungserteilung
+
+       In der zweiten Konstellation wird ein Vergleichsvertrag über die
+Genehmigungserteilung selbst abgeschlossen. Allerdings zieht auch hier
+das geltende Recht der Zulässigkeit dieser Form von Vergleichsverträgen
+enge Grenzen. Insoweit muss man zwischen Genehmigungen
+unterscheiden,      deren     Erteilung        auf   einer     Abwägungs-      oder
+Ermessensentscheidung         der     Behörde        beruht,    und   gebundenen
+Genehmigungen, auf deren Erteilung der Antragsteller einen Anspruch
+hat.
+
+       Allenfalls ein äußerst geringer Anwendungsbereich bleibt für den
+Abschluss eines Verfügungsvertrages. Der Verfügungsvertrag tritt
+unmittelbar an die Stelle eines Verwaltungsakts, hier also der
+Genehmigung. Die Genehmigung würde also durch den Vergleichs-
+vertrag selbst erteilt. Ein solcher verfügender Vergleichsvertrag ist
+vornherein unzulässig, wenn die Genehmigung in Form eines
+                                                     72
+Planfeststellungsbeschlusses ergehen muss , wie das bei fast allen
+
+
+71 Siehe nur Michael Nierhaus, Beweismaß und Beweislast, 1989, S. 258 ff.; Kyrill-
+   Alexander Schwarz, in: Fehling/Kastner, Verwaltungsrecht – Handkommentar, 3. Aufl.
+   2013, § 24 VwVfG Rn. 4.
+72 Vgl. nur Edmund Brandt, Umsetzung von Ergebnissen informeller Aushandlungen in
+92                                                          2012 行政管制與行政爭訟
+
+
+
+Verkehrsinfrastrukturprojekten           der       Fall      ist.     Denn        ein
+Planfeststellungsbeschluss ergeht auf der Grundlage einer Abwägung der
+Behörde, die durch einen Vertrag, durch den sich die Behörde an ein
+bestimmtes Ergebnis bindet, nicht unterlaufen werden darf.
+
+       Allerdings sieht es mit der Zulässigkeit eines verfügenden
+Vergleichsvertrags nicht viel besser aus, wenn es sich bei der
+Genehmigung, die durch den Verfügungsvertrag erteilt werden soll, um
+eine gebundene Genehmigung handelt. Denn in der Regel wird ein
+solcher Vertrag typologisch als Austauschvertrag im Sinne von § 56
+VwVfG einzustufen sein. Dann aber zieht das in § 56 Abs. 1 S. 2
+festgeschriebene Koppelungsverbot der Möglichkeit, dass sich der
+Projektträger zu Maßnahmen zugunsten der Bürgerinnen und Bürger
+verpflichtet, enge Grenzen, wenn der Projektträger auch ohne diese
+Maßnahmen Anspruch auf Erteilung der beantragten Genehmigung
+     73
+hat.
+
+       Einen breiteren Einsatzbereich könnten Verpflichtungsverträge
+haben, durch die nicht die gesamte Verwaltungsentscheidung durch den
+Vertrag ersetzt wird, sondern sich die Parteien nur dazu verpflichten,
+                                                       74
+sich in einer bestimmten Weise zu verhalten.                Beispielsweise könnte
+sich die Behörde dazu verpflichten, eine Genehmigung in einer zwischen
+den Beteiligten ausgehandelten Form zu erteilen. Anders als der
+
+
+
+   formelle Entscheidungen, in: Hoffmann-Riem/Schmidt-Aßmann, Konflikt-
+   bewältigung durch Verhandlungen, Bd. II, 1990, S. 239, 245 f.; Siegel (Fußn. 6), S.
+   295 f.
+73 Fehling (Fußn. 24), § 56 VwVfG Rn. 36.
+74 Zu Recht hierauf hinweisend Bernd Holznagel, Konfliktlösung durch Verhandlungen,
+   1990, S. 226 ff.; ihm folgend etwa Ivo Appel, Privatverfahren, in: Hoffmann-
+   Riem/Schmidt-Aßmann/Voßkuhle, Grundlagen des Verwaltungsrechts, Bd. II, 2. Aufl.
+   2012, § 32 Rn. 142.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags   93
+
+
+Verfügungs-         kann          der   Verpflichtungsvertrag       auch       in
+Planfeststellungsverfahren zum Einsatz kommen. Zwar ist mit Blick auf
+eine abwägungsdeterminierende Wirkung des Vertrags Vorsicht
+         75
+geboten , jedoch ist der Abschluss eines Verpflichtungsvertrags zur
+Umsetzung des Ergebnisses eines Verfahrens der Bürgerbeteiligung
+nicht gänzlich ausgeschlossen. Vielmehr wird es im Einzelnen darauf
+ankommen, ob die Vereinbarung in Kenntnis aller Gesichtspunkte
+getroffen wird, die auch in die – durch die Vereinbarung nicht
+              76
+ersetzbare         – verfahrensabschließende behördliche Abwägungs-
+/Ermessensentscheidung einzustellen sind. Ist dies der Fall, so dass keine
+Verkürzung des Entscheidungsprogramms durch den Abschluss der
+Vereinbarung erfolgt, so bestehen keine Bedenken gegen die
+Verbindlichkeit einer solchen Vereinbarung.
+
+      Allerdings besteht auch bei Verpflichtungsverträgen das Problem,
+dass der Vertrag nach herrschender Auffassung bei fehlender
+Zustimmung von Drittbetroffenen nach § 58 VwVfG schwebend
+unwirksam ist (oben II.5., dort auch zur Gegenargumentation). Das
+damit bestehende Risiko, dass von Seiten nicht dem Vertrag
+beigetretener Drittbetroffener auch dann gegen ein Projekt vorgegangen
+wird, wenn sich der Projektträger an seinen Teil der vertraglichen
+Regelungen gehalten hat, macht den Vertragsschluss wenig attraktiv.
+
+      c) Verbesserungen durch Rechtsänderungen
+
+      Wegen dieser nach geltendem Recht sehr begrenzten Möglichkeiten,
+durch Bürgerbeteiligung erzielte Kompromisse vertraglich abzusichern,
+ist des Öfteren angemahnt worden, einen die Umsetzung von
+
+
+75 Siegel (Fußn. 6), S. 296.
+76 Brandt (Fußn. 72), S. 245 f.
+94                                                      2012 行政管制與行政爭訟
+
+
+
+Beteiligungsergebnissen        erleichternden      rechtlichen     Rahmen       zu
+          77
+schaffen.      Einer der zu ergreifenden Schritte wird in jedem Fall sein
+müssen, die wegen § 58 VwVfG bestehende Vetoposition sich an
+Beteiligungsverfahren nicht Beteiligender aufzulösen. Dies könnte z. B.
+dadurch geschehen, dass die bisherige schwebende Unwirksamkeit
+durch eine schwebende Wirksamkeit mit (öffentlicher) Bekanntgabe des
+Vertrags und Einführung eines fristgebundenen Widerspruchsrechts
+                                78
+Drittbetroffener ersetzt wird.
+
+     Für Verwaltungsverträge, die aufgrund der Durchführung eines
+Vergabeverfahrens geschlossen worden sind, gibt es mittlerweile eine
+Regelung, die insoweit als Vorbild dienen könnte. Denn nach § 101b
+GWB kann die Unwirksamkeit eines rechtswidrigen Vertrages
+gerichtlich nur festgestellt werden, wenn sie innerhalb einer bestimmten
+Frist ab Kenntnis des Verstoßes, spätestens jedoch sechs Monate nach
+Vertragsschluss geltend gemacht worden ist. Nach Ablauf dieser Frist
+                                                                        79
+besteht dann Rechtssicherheit über die Gültigkeit des Vertrages.
+
+     Ich würde allerdings noch weitergehen und darüber hinaus die
+Schaffung eines neuen Typs eines vorhabenbezogenen Vertrags durch
+den Gesetzgeber vorschlagen. Durch solche vorhabenbezogene Verträge
+könnten für einen gesetzlich festzulegenden Kreis von Projekten
+Vereinbarungen zwischen Projektträger, Behörde und betroffenen
+Bürgern zugelassen werden, wenn bestimmte Verfahrensbedingungen,
+
+
+77 Rainer Pitschas, Die Rechtswirkungen der Mediation im Bewirkungsspektrum
+   kollaborativer Governance, in: Seok/Ziekow, Mediation als Methode und Instrument
+   der Konfliktmittlung im öffentlichen Sektor, 2010, S. 199, 211.
+78 Vgl. im Zusammenhang des Verwaltungskooperationsrechts den Vorschlag von
+   Ziekow (Fußn. 14), S. 143 ff.
+79 Vgl. zu dieser Vorschrift Meinrad Dreher/Jens Hoffmann, Die schwebende Wirk-
+   samkeit nach § 101 b I GWB, NZBau 2010, S. 201 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags   95
+
+
+insbesondere hinsichtlich der Beteiligung Drittbetroffener erfüllt sind.
+Inhalt des Vertrages wäre die konsentierte Regelung, dass die
+Genehmigung erteilt wird, wenn das Projekt in der vereinbarten Weise
+ausgeführt wird. Im Gegenzug akzeptiert der Projektträger etwaige
+Verschlechterungen gegenüber dem ursprünglich von ihm gestellten
+Antrag und erklären die Bürger einen Klageverzicht. Auch ein solcher
+vorhabenbezogener Vertrag wäre nicht gänzlich ohne Vorbild. So kennt
+§ 12 BauGB das Instrument des vorhabenbezogenen Bebauungsplans.
+Durch einen solchen vorhabenbezogenen Bebauungsplan schafft die
+Gemeinde erst dann Baurecht, wenn der Vorhabenträger das Vorhaben
+vorher in einem Vorhaben- und Erschließungsplan mit der Gemeinde
+abgestimmt und sich in einem Durchführungsvertrag zur Durchführung
+                80
+verpflichtet hat .
+
+
+
+IV. Überlegungen zur Weiterentwicklung des
+    Verwaltungsvertragsrechts
+
+     Bereits      aus        den      vorstehenden      Bemerkungen            zur
+Novellierungsbedürftigkeit          des   Vertragsrechts    der    öffentlichen
+Verwaltung in den Bereichen von Kooperation und Partizipation kann
+entnommen       werden,      dass     nicht   unbeträchtlicher    Bedarf       zur
+Weiterentwicklung nicht nur des Rechts der öffentlich-rechtlichen
+Verträge, sondern des Rechts der Verwaltungsverträge insgesamt besteht.
+In der Sache stehen hinter diesen Weiterentwicklungsbedarfen folgende
+Gedanken: Erstens ist das bisherige Vertragsrecht der Verwaltung zu
+stark von dem bipolaren Verständnis der Über- und Unterordnung
+
+
+80 Nachweise oben Fußn. 9.
+96                                                2012 行政管制與行政爭訟
+
+
+
+geprägt. Weder wird es multipolaren Interessenkonstellationen gerecht
+noch wird es von einem kooperativen Grundverständnis durchzogen.
+Zweitens bedarf es einer Durchsicht der für Verwaltungsverträge
+geltenden Regelungen auf das Bestehen unnötigen Ballasts.
+
+     Hieraus ergeben sich diverse Anforderungen für einen Umbau des
+Vertragsrechts der Verwaltung, die ich an dieser Stelle nur in
+Grundzügen skizzieren kann:
+
+     ▪   Die sehr grobe und von der Rechtsprechung viel zu weit
+         interpretierte Kategorie des subordinationsrechtlichen Vertrags
+         (§ 54 Satz 2 VwVfG) sollte aufgegeben werden. Stattdessen
+         sollten die hier generalisierten Schutzbedürfnisse flexibler
+         abgebildet werden (dazu oben II.1.).
+
+     ▪   Ein Beispiel sind die bisherigen Regelungen über Koppelungs-
+         verbot und Angemessenheitsprüfung beim Austauschvertrag als
+         Unterfall   des   subordinationsrechtlichen    Vertrags.   Unter
+         Schutzwürdigkeitsgesichtspunkten ist die strikte Anwendung
+         eigentlich nur in zwei Fällen erforderlich, nämlich erstens, wenn
+         durch einen Verfügungsvertrag unmittelbar der Erlass eines
+         Verwaltungsakts ersetzt wird, und zweitens, wenn die Behörde
+         den Vertragspartner nicht über die Vor- und Nachteile des
+         Vertrags aufgeklärt hat. Denn wenn der private Vertragspartner
+         sich in Kenntnis aller Vor- und Nachteile zu einem
+         Vertragsschluss entscheidet, so ist das seine privatautonome
+         Entscheidung. Er bedarf dann nicht mehr des Schutzes als bei
+         Verträgen, die er mit einem anderen Privaten schließen würde.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags   97
+
+
+
+     ▪   Weitgehend verzichtbar ist das Schriftformerfordernis des § 57
+         VwVfG. Wirklich notwendig ist es nur, wenn durch den Vertrag
+         ein selbst der Schriftform unterliegender Hoheitsakt ersetzt wird
+         oder durch den Vertrag Drittbetroffenheiten erzeugt werden und
+         der betroffene Dritte deshalb auf die Möglichkeit der
+         Kenntnisnahme vom Vertragsinhalt angewiesen ist.
+
+     ▪   Darauf, dass die bisherige schwebende Unwirksamkeit des
+         Vertrages bei fehlender Zustimmung von Drittbetroffenen durch
+         eine schwebende Wirksamkeit mit (öffentlicher) Bekanntgabe
+         des    Vertrags     und     Einführung      eines     fristgebundenen
+         Widerspruchsrechts Drittbetroffener ersetzt werden sollte, ist
+         oben (III.2.c) hingewiesen worden.
+
+     ▪   Wenig angemessen ist auch das dem Denken eines „ganz oder
+         gar nicht“ (entweder wirksam oder nichtig) verhaftete
+         Fehlerfolgenregime        öffentlich-rechtlicher     Verträge.    Dass
+         Vergleichsverträge und Austauschverträge strikt nichtig sind,
+         wenn die Voraussetzungen für ihren Abschluss nicht vorlagen,
+         ist zu unflexibel. Stattdessen sollte zunächst der Versuch einer
+         Vertragsanpassung unternommen werden müssen. Erst wenn
+         eine solche Anpassung des Vertrages nicht möglich oder einer
+         Vertragspartei nicht zumutbar ist, würde dann die Nichtigkeit
+         eintreten.
+
+     ▪   Schließlich sollte insbesondere für multipolare Konstellationen
+         ein neuer Regelungsrahmen geschaffen werden. Zwei denkbare
+         Ausprägungen dieses Regelungsrahmens sind in diesem Beitrag
+         vorgestellt worden, der vorhabenbezogene Vertrag (III.1.) und
+         der Verwaltungskooperationsvertrag (III.2.c).
+98                                                       2012 行政管制與行政爭訟
+
+
+
+V. Schlussbemerkung
+
+       Allerdings sind die Chancen eines Tätigwerdens des Gesetzgebers
+skeptisch zu beurteilen. Zu einigen wenigen der im vorliegenden Beitrag
+angesprochenen Aspekte gab es vor einigen Jahren einen Gesetzentwurf
+                                                                          81
+der zuständigen Fachbeamten in den Bundes- und Landesministerien .
+Die politischen Entscheidungsträger haben ihn nicht aufgegriffen. Es ist
+eben leichter, in politischen Reden vom Wandel hin zu einem
+kooperativen und partizipativen Staat zu sprechen als die dazu
+gehörenden Gesetze zu machen.
+
+
+
+
+81 Musterentwurf der Verfahrensrechtsreferenten des Bundes und der Länder vom
+     21./22.4.2004, vgl. Schmitz (Fußn. 56), S. 17 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags   99
+
+
+
+
+                          Literaturverzeichnis
+
+Ahlhaus, Jens (2011), Verwaltungsrechtliche Verträge im Immissions-
+     und Gewässerschutzrecht, Hamburg: Dr. Kovac.
+Appel, Ivo (2012), Privatverfahren, in: Hoffmann-Riem/Schmidt-
+     Aßmann/Voßkuhle (Hrsg.), Grundlagen des Verwaltungsrechts, Bd.
+     II, 2. Aufl., München: C. H. Beck, § 32.
+Arnold, Peter (1995), Kooperatives Handeln der nichthoheitlichen
+     Verwaltung, in: Dose/Voigt (Hrsg.), Kooperatives Recht, Baden-
+     Baden: Nomos, S. 211 ff.
+Bauer, Hartmut (2012), Verwaltungsverträge, in: Hoffmann-Riem/
+     Schmidt-Aßmann/Voßkuhle (Hrsg.), Grundlagen des Verwaltungs-
+     rechts, Bd. II, 2. Aufl., München: C. H. Beck., § 36.
+Benz,     Arthur     (1994),     Kooperative      Verwaltung:      Funktionen,
+     Voraussetzungen und Folgen, Baden-Baden: Nomos.
+Bick, Ulrike (2001), Städtebauliche Verträge, DVBl., S. 154 ff.
+Birk, Hans-Jörg (2013), Städtebauliche Verträge, 5. Aufl., Stuttgart:
+     Richard Boorberg.
+Böckenförde, Ernst-Wolfgang (2004), Demokratie als Verfassungs-
+     prinzip, in: Isensee/Kirchhof (Hrsg.), Handbuch des Staatsrechts
+     der Bundesrepublik Deutschland, Bd. II, 3. Aufl., Heidelberg: C. F.
+     Müller, § 24.
+Bonk, Heinz Joachim/Neumann, Werner (2014),                      in: Stelkens/
+     Bonk/Sachs      (Hrsg.),    Verwaltungsverfahrensgesetz,        8.   Aufl.,
+     München: C. H. Beck, §§ 58, 59.
+Brandt, Edmund (1990), Umsetzung von Ergebnissen informeller
+     Aushandlungen in formelle Entscheidungen, in: Hoffmann-
+     Riem/Schmidt-Aßmann           (Hrsg.),     Konfliktbewältigung       durch
+100                                                  2012 行政管制與行政爭訟
+
+
+
+      Verhandlungen, Bd. II, Baden-Baden: Nomos, S. 239 ff.
+Bunge, Thomas (2010), Beteiligung in umweltbezogenen Verwaltungs-
+      und vergleichbaren Verfahren, in: Schlacke/Schrader/Bunge (Hrsg.),
+      Informationsrechte, Öffentlichkeitsbeteiligung und Rechtsschutz im
+      Umweltrecht, Berlin: Erich Schmidt, S. 135 ff.
+Burgi,    Martin   (2008),     Privatisierung    öffentlicher   Aufgaben    –
+      Gestaltungsmöglichkeiten, Grenzen, Regelungsbedarf, Gutachten D
+      für den 67. Deutschen Juristentag, München: C. H. Beck.
+─ (2012), Rechtsregime, in: Hoffmann-Riem/Schmidt-Aßmann/
+      Voßkuhle, Grundlagen des Verwaltungsrechts, Bd. I, 2. Aufl., § 18.
+Burmeister,    Thomas        (2002),   Der      Durchführungsvertrag    zum
+      vorhabenbezogenen Bebauungsplan, VBlBW, S. 245 ff.
+Christmann, Steffen (2010), Der öffentlich-rechtliche Vertrag mit
+      privaten Dritten im Lichte der Schuldrechtsreform, Hamburg: Dr.
+      Kovac.
+Colussi, Marc (2010), Probleme der Eingliederungsvereinbarung nach §
+      15 SGB II, Stoughton: Books on Demand.
+Czybulka, Detlef (1989), Die Legitimation der öffentlichen Verwaltung:
+      Unter    Berücksichtigung        ihrer    Organisation    sowie      der
+      Entstehungsgeschichte zum Grundgesetz, Heidelberg: C. F. Müller.
+Debus, Alfred (2009), Funktionen der Öffentlichkeitsbeteiligung am
+      Beispiel des Erörterungstermins, in: Gesellschaft für Umweltrecht
+      (Hrsg.), Dokumentation zur 32. wissenschaftlichen Fachtagung,
+      Berlin: Erich Schmidt, S. 185 ff.
+Depenheuer, Otto (1999), Der Gedanke der Kooperation von Staat und
+      Gesellschaft, in: Huber (Hrsg.), Das Kooperationsprinzip im
+      Umweltrecht, Berlin: Berliner Wissenschafts-Verlag, S. 17 ff.
+Dippel, Martin (2010), Praxisfragen der Öffentlichkeitsbeteiligung im
+      Genehmigungsverfahren nach dem Bundes-Immissionsschutzgesetz,
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags 101
+
+
+
+     NVwZ, S. 145 ff.
+Dose, Nicolai (1997), Die verhandelnde Verwaltung: Eine empirische
+     Untersuchung über den Vollzug des Immissionsschutzrechts,
+     Baden-Baden: Nomos.
+Dreher, Meinrad/Hoffmann, Jens (2010), Die schwebende Wirk-samkeit
+     nach § 101 b I GWB, NZBau, S. 201 ff.
+Fehling,    Michael    (2013),    in:   Michael/Kastner/Störmer        (Hrsg.),
+     Verwaltungsrecht – Handkommentar, 3. Aufl., Baden-Baden:
+     Nomos, §§ 54, 56.
+Fluck, Jürgen (1985), Die Erfüllung des öffentlich-rechtlichen
+     Verpflichtungsvertrags durch Verwaltungsakt, Berlin: Duncker &
+     Humblot.
+Franzius, Claudio (2008), Der Gewährleistungsstaat, Verwaltungsarchiv
+     99, S. 351 ff.
+Frenz, Walter (2011),Vertragsnaturschutz in neuem Gewand, NuR, S.
+     257 ff.
+Fuchs, Gerd/Hehn, Marcus/Wagner, Jörg (2011), Mediation im
+     öffentlichen Bereich - Möglichkeiten und Grenzen, UPR, S. 81 ff.
+Gas, Tonio (2012), Die gesetzliche Normierung des öffentlich-privaten
+     Kooperationsvertrages, Die Verwaltung, S. 43 ff.
+Grziwotz, Herbert (2005), Probleme des Erschließungsvertrags, DVBl.,
+     S. 471 ff.
+Guckelberger, Annette (2010), Mediation im Umweltrecht, in:
+     Seok/Ziekow (Hrsg.), Mediation als Methode und Instrument der
+     Konfliktmittlung im öffentlichen Sektor, Berlin: Duncker &
+     Humblot, S. 235 ff.
+─ (2012), Formen von Öffentlichkeit und Öffentlichkeits-
+     beteiligung im Umweltverwaltungsrecht, VerwArch, S. 35 ff.
+─ (2015),             Abstimmungsmöglichkeiten           von     (betroffenen)
+102                                                   2012 行政管制與行政爭訟
+
+
+
+      Bürger/innen über administrative Planungs- oder Genehmigungs-
+      entscheidungen, VerwArch, H. 1 und 2.
+Habersack, Mathias (1992), Vertragsfreiheit und Drittinteressen, Berlin:
+      Duncker & Humblot.
+Hellriegel, Mathias (2007), Wirksamkeit drittbelastender öffentlich-
+ rechtlicher Verträge ohne Zustimmung des Dritten, DVBl., S. 1211 ff.
+Hoffmann-Riem,       Wolfgang       (2000),   Verantwortungsteilung        als
+      Schlüsselbegriff moderner Staatlichkeit, in: Kirchhof/Lehner/
+      Raupach/Rodi (Hrsg.), Staat und Steuern. Festschrift für Klaus
+      Vogel, Heidelberg: C. F. Müller, S. 47 ff.
+Hoffmann-Riem, Wolfgang/Schmidt-Aßmann, Eberhard (Hrsg.) (1996),
+      Öffentliches    Recht      und    Privatrecht      als   wechselseitige
+      Auffangordnungen, Baden-Baden: Nomos.
+Holznagel, Bernd (1990), Konfliktlösung durch Verhandlungen, Baden-
+      Baden: Nomos, S. 226 ff.
+Holznagel, Bernd/Ramsauer, Ulrich (2013), Förderung der Mediation in
+      Planungsverfahren, VerwArch, S. 131 ff.
+Ibagón-Ibagón, Mónica Liliana (2011), Rechtsstaatliche Anforderungen
+      an den Verwaltungsvertrag am Beispiel der Schriftlichkeit des
+      Vertrages, Frankfurt: Peter Lang.
+Kaltenborn, Markus (2007), Streitvermeidung und Streitbeilegung im
+      Verwaltungsrecht, Baden-Baden: Nomos.
+Kopp, Ferdinand O./Ramsauer, Ulrich (2014), Verwaltungsverfahrens-
+      gesetz, 15. Aufl., München: C. H. Beck.
+Krämer, Tim (2003), Realisierung städtebaulicher Planungen und
+      Projekte durch Verträge, UPR, S. 104 ff.
+Krause, Peter (1974), Rechtsformen des Verwaltungshandelns, Berlin:
+      Duncker & Humblot.
+Krautzberger,    Michael      (2007),   Städtebauliche     Verträge   in   der
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags 103
+
+
+
+     praktischen Bewährung, UPR, S. 407 ff.
+Kretschmer, Kai-Holmger (2012), Das Recht der Eingliederungs-
+     vereinbarung des SGB II, Berlin: Duncker & Humblot.
+Leisner, Walter (2009), Vertragsstaatlichkeit. Die Vereinbarung – eine
+     Grundform des Öffentlichen Rechts, Berlin: Duncker & Humblot.
+Mann, Thomas (2013), Großvorhaben als Herausforderung für den
+     demokratischen Rechtsstaat, VVDStRL 72, S. 544 ff.
+Manz, Tobias (2011), Die Normierung des öffentlich-rechtlichen
+     Kooperationsvertrages, Hamburg: Dr. Kovac.
+Martini,   Mario     (2010),    Mediation     und    Gemeinwohl        –   eine
+     Beziehungsanalyse, in: Seok/Ziekow (Hrsg.), Mediation als
+     Methode und Instrument der Konfliktmittlung im öffentlichen
+     Sektor, Berlin: Duncker & Humblot, S. 81-103.
+Maurer, Hartmut (2011), Allgemeines Verwaltungsrecht, 18. Aufl.,
+     München: C. H. Beck.
+Müller, Bilun (2010), Die Öffentlichkeitsbeteiligung im Recht der
+     Europäischen Union und ihre Einwirkungen auf das deutsche
+     Verwaltungsrecht am Beispiel des Immissionsschutzrechts, Baden-
+     Baden: Nomos.
+Nierhaus, Michael (1989), Beweismaß und Beweislast, München: Franz
+     Vahlen.
+Pauly, Walter (1991), Grundlagen einer Handlungsformenlehre im
+     Verwaltungsrecht,         in:       Becker-Schwarze/Köck/Kupka/von
+     Schwanenflügel (Hrsg.), Wandel der Handlungsformen im
+     Öffentlichen Recht, Stuttgart: Richard Boorberg, S. 25 ff.
+Pietzcker, Jost (2000), Probleme des städtebaulichen Vertrags, in:
+     Erbguth/Oebbecke/Rengeling (Hrsg.), Planung. Festschrift für
+     Werner Hoppe zum 70. Geburtstag, München: C. H. Beck, S. 439 ff.
+Pitschas, Rainer (1994), Entwicklung der Handlungsformen im
+104                                                2012 行政管制與行政爭訟
+
+
+
+      Verwaltungsrecht, in: Blümel/Pitschas (Hrsg.), Reform des
+      Verwaltungsverfahrensrechts, Berlin: Duncker & Humblot, S. 229
+      ff.
+─ (2010), Die Rechtswirkungen der Mediation im Bewirkungs-
+      spektrum kollaborativer Governance, in: Seok/Ziekow (Hrsg.),
+      Mediation als Methode und Instrument der Konfliktmittlung im
+      öffentlichen Sektor, Berlin: Duncker & Humblot, S. 199-214.
+─ (1994), Entwicklung der Handlungsformen im Verwaltungs-
+      recht, in: Blümel/Pitschas (Hrsg.), Reform des Verwaltungs-
+      verfahrensrechts, Berlin: Duncker & Humblot, S. 229 ff.
+Proeller, Isabella/Schedler, Kuno (2005), Verwaltung im Gewähr-
+      leistungsstaat, in: Blanke/von Bandemer/Nullmeier/Wewer (Hrsg.),
+      Handbuch zur Verwaltungsreform, 3. Aufl., Berlin: Springer VS, S.
+      94 ff.
+Proelß, Alexander/Blanke-Kießling, Ursula (2010), Der Verwaltungs-
+      vertrag als Handlungsform der Naturschutzverwaltung, NVwZ, S.
+      985 ff.
+Pünder, Hermann (2010), Mediation in Verwaltungsverfahren, in:
+      Erichsen/Ehlers (Hrsg.), Allgemeines Verwaltungsrecht, 14. Aufl.,
+      Berlin: Walter de Gruyter, § 16.
+Rauch, Tobias/Zellner, Frank (2008), Die Eingliederungsvereinbarung
+      nach § 15 SGB II, Stuttgart: Richard Boorberg.
+Reidt, Olaf (2008), Städtebaulicher Vertrag und Durchführungsvertrag
+      im Lichte der aktuellen Rechtsentwicklung, BauR, S. 1541 ff.
+─ (2014), in: Battis/Krautzberger/Löhr (Hrsg.), Baugesetzbuch, 12.
+      Aufl., München: C. H. Beck, § 11.
+Reinker, Johanna (2014), in: Bauer/Heckmann/Ruge u.a (Hrsg.),
+      Verwaltungsverfahrensgesetz        und   E-Government,    2.   Aufl.,
+      Wiesbaden: Kommunal- und Schul-Verlag.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags 105
+
+
+
+Riese, Christoph/Dieckmann, Nina (2010), Der Erörterungstermin –
+     Bestandsaufnahme und Reformvorschlag, DVBl., S. 1343 ff.
+Ritter, Ernst-Hasso (1979), Der kooperative Staat, AöR 104, S. 389 ff.
+Rossen, Helge (1999), Vollzug und Verhandlung, Tübingen: Mohr
+     Siebeck.
+Scharpf, Fritz (1991), Die Handlungsfähigkeit des Staates am Ende des
+     zwanzigsten Jahrhunderts, PVS, S. 621 ff.
+Schlemminger, Horst (2009), Schriftformrisiken beim Abschluss
+     öffentlich-rechtlicher Verträge, NVwZ, S. 223 ff.
+Schlette, Volker (2000), Die Verwaltung als Vertragspartner, Tübingen:
+     Mohr Siebeck.
+Schliesky,      Utz    (2004),    Souveränität       und   Legitimität     von
+     Herrschaftsgewalt, Tübingen: Mohr Siebeck.
+Schmidt, Detlef (1985), Die Unterscheidung von privatem und
+     öffentlichem Recht, Baden-Baden: Nomos.
+Schmidt-Aßmann, Eberhard (1989), Die Lehre von den Rechtsformen
+     des Verwaltungshandelns, DVBl., S. 533 ff.
+─ (1991), Verwaltungsverträge im Städtebaurecht, in: Lenz
+     (Hrsg.), Festschrift für Konrad Gelzer, Düsseldorf: Werner, S. 117 ff.
+Schmidt-Aßmann,        Eberhard/Krebs,      Walter    (1992),    Rechtsfragen
+     städtebaulicher Verträge, 2. Aufl., Stuttgart: Deutscher Gemeinde-
+     verlag.
+Schmitz, Heribert (2005), „Die Verträge sollen sicherer werden“ – Zur
+     Novellierung der Vorschriften über den öffentlich-rechtlichen
+     Vertrag, DVBl., S. 17 ff.
+Schuppert, Gunnar Folke (2007), Staatstypen, Leitbilder und Politische
+     Kultur:     Das     Beispiel     des     Gewährleistungsstaates,        in:
+     Heidbrink/Hirsch (Hrsg.), Staat ohne Verantwortung?, Frankfurt:
+     Campus, S. 467 ff.
+106                                                 2012 行政管制與行政爭訟
+
+
+
+─           (1993),      Verwaltungsrechtswissenschaft    als   Steuerungs-
+      wissenschaft,      in:   Hoffmann-Riem/Schmidt-Aßmann/Schuppert
+      (Hrsg.), Reform des Allgemeinen Verwaltungsrechts, Baden-Baden:
+      Nomos, S. 65 ff.
+─ (2001), Grundzüge eines zu entwickelnden Verwaltungs-
+      kooperationsrechts, Berlin: BMI.
+─ (2005), Der Gewährleistungsstaat – modisches Label oder
+      Leitbild sich wandelnder Staatlichkeit?, in: Gunnar Folke (Hrsg.),
+      Der Gewährleistungsstaat – Ein Leitbild auf dem Prüfstand, Baden-
+      Baden: Nomos, S. 11 ff.
+Schwarz, Kyrill-Alexander (2013), in: Fehling/Kastner/Störmer (Hrsg.),
+      Verwaltungsrecht – Handkommentar, 3. Aufl., Baden-Baden:
+      Nomos, § 24.
+Seibert-Fohr, Anja (2013), Öffentlichkeitsbeteiligung im Planungs-
+      verfahren: Chancen und Grenzen am Beispiel des Plan-
+      vereinheitlichungsgesetzes, VerwArch, S. 311 ff.
+Siegel,   Thorsten    (2010),      Mediation   in   Planungsverfahren,   in:
+      Seok/Ziekow (Hrsg.), Mediation als Methode und Instrument der
+      Konfliktmittlung im öffentlichen Sektor, Berlin: Duncker &
+      Humblot, S. 283 ff.
+Spannowsky, Willy (2012), Fortentwicklung des Rechts städtebaulicher
+      Verträge, ZfBR, S. 742 ff.
+Stelkens, Ulrich (2005), Verwaltungsprivatrecht, Berlin: Duncker &
+      Humblot.
+─           (2006), „Kooperationsvertrag“ und Vertragsanpassungs-
+      ansprüche: Zur beabsichtigten Reform der §§ 54 ff. VwVfG,
+      NWVBl., S. 1 ff.
+─ (2009), „Hinkende“ Verwaltungsverträge: Wirkungen und
+      Rechtsnatur, DÖV, S. 850 ff.
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags 107
+
+
+
+Stöcker, Nina (2010), Entwicklung des Verwaltungskooperationsvertrags
+     unter Berücksichtigung des Vergaberechts, Frankfurt: Peter Lang.
+Swierczyna, Stefan (2009), Praxisprobleme bei Abschluss des öffentlich-
+     rechtlichen Durchführungsvertrages nach § 12 BauGB, LKV, S.
+     452 ff.
+Trute, Hans-Heinrich (2012), Die demokratische Legitimation der
+     Verwaltung,        in:   Hoffmann-Riem/Schmidt-Aßmann/Voßkuhle
+     (Hrsg.), Grundlagen des Verwaltungsrechts, Bd. I, 2. Aufl.,
+     München: C. H. Beck, § 6.
+Ule, Carl Hermann/Laubinger, Hans-Werner (1995), Verwaltungs-
+     verfahrensrecht, 4. Aufl., Berlin: Heymanns.
+Voigt, Rüdiger (1995), Der kooperative Staat, Baden-Baden: Nomos.
+Waechter, Kay (2013), Großvorhaben als Herausforderung für den
+     demokratischen Rechtsstaat, VVDStRL 72, S. 499 ff.
+Walter, Thomas (2010), Der Erschließungsvertrag im System des
+     Erschließungsrechts, Berlin: Duncker & Humblot.
+Weihrauch,     Oliver     (1991),   Verwaltungsrechtlicher      Vertrag    und
+     Urkundeneinheit, VerwArch, S. 543 ff.
+Weinreich, Bettina (2012), Die Eingliederungsvereinbarung nach § 15
+     SGB II, SGb, S. 513 ff.
+Werner, Matthias (2008), Allgemeine Fehlerfolgenlehre für den
+     Verwaltungsvertrag, Baden-Baden: Nomos.
+Windstoßer, Carola (2008), Vertragsnaturschutz, Berlin: Duncker &
+     Humblot.
+Ziekow, Jan (1997), Über Freizügigkeit und Aufenthalt: Paradigmatische
+     Überlegungen zum grundrechtlichen Freiheitsschutz in historischer
+     und verfassungsrechtlicher Perspektive (Jus Publicum), Tübingen:
+     Mohr Siebeck.
+─ (2001), Verankerung verwaltungsrechtlicher Kooperations-
+108                                              2012 行政管制與行政爭訟
+
+
+
+      verhältnisse (Public Private Partnership) im Verwaltungsverfahrens-
+      gesetz. Gutachten, erstattet für das Bundesministerium des Innern,
+      Berlin.
+─ (2004), Institutionen unter Konkurrenzdruck: Das Beispiel des
+      öffentlich-rechtlichen Vertrages, in: Benz/Siedentopf/Sommermann
+      (Hrsg.), Institutionenwandel in Regierung und Verwaltung.
+      Festschrift für Klaus König, Berlin: Duncker & Humblot, S. 303 ff.
+─ (2006), Public Private Partnership – auf dem Weg zur
+      Formierung einer intermediären Innovationsebene?, VerwArch, S.
+      626 ff.
+─ (2009), Gewährleistungsstaatliches Denken als Grundlage von
+      Public Private Partnership? (japanisch), Kaihatsu Ronsyu 83-3, S.
+      223 ff.
+─ (2009), Public Private Partnership als Instrument nachhaltiger
+      Verwaltungspolitik, in: Urbaniec/Stec/Dolata (Hrsg.), Partnerstwo
+      publiczno-prywatne jako instrument rozwoju zrównowazonego, S.
+      171 ff.
+─ (2010), Mediation im Kontext sich wandelnder Staatlichkeit, in:
+      Seok/Ziekow (Hrsg.), Mediation als Methode und Instrument der
+      Konfliktmittlung im öffentlichen Sektor, Berlin: Duncker &
+      Humblot, S. 19 ff.
+─           (2011), Öffentlich-private Partnerschaften im deutschen
+      Verfassungs- und Verwaltungsrecht – Herausforderungen und
+      Entwicklungen, in: Administrative Law and Regulatory Policy in
+      the Global Era, S. 199 ff.
+─ (2011), Wandel der Staatlichkeit und wieder zurück? PPP im
+      Kontext der deutschen Diskussion um die Rolle des Staates, in:
+      Ziekow (Hrsg.), Wandel der Staatlichkeit und wieder zurück? Die
+      Einbeziehung Privater in die Erfüllung öffentlicher Aufgaben
+Keynote Address: Entwicklungsstand und -perspektiven des Verwaltungsvertrags 109
+
+
+
+     in/nach der Weltwirtschaftskrise, Baden-Baden: Nomos, S. 43 ff.
+─ (2012), Neue Formen der Bürgerbeteiligung? Planung und
+     Zulassung von Projekten in der parlamentarischen Demokratie,
+     Gutachten D zum 69. Dt. Juristentag, München: C. H. Beck.
+─          (2012), Strukturen und Strategien von Public Private
+     Partnerships in Deutschland (japanisch), in: Syuichi/Takeshi (Hrsg.),
+     Die gegenwärtigen Kooperationen zwischen Staat und Privaten in
+     der Welt, Tokyo: Nippon Hyoron Sha Co., S. 107 ff.
+─ (2013), Frühe Öffentlichkeitsbeteiligung – Der Beginn einer
+     neuen Verwaltungskultur, NVwZ, S. 754 ff.
+─ (2013), in: Ziekow/Völlink (Hrsg.), Vergaberecht, 2. Aufl.,
+     München: C. H. Beck, § 99.
+─          (2013), Verwaltungsverfahrensgesetz, 3. Aufl., Stuttgart:
+     Kohlhammer.
+─ (2014), Der Bürger und die legalistische Verwaltung: Zwischen
+     Gesetzesbindung und Sprachlosigkeit, in: König/Kropp/Kuhlmann
+     u.a. (Hrsg.), Grundmuster der Verwaltungskultur, Baden-Baden:
+     Nomos, S. 105 ff.
+─ (2015), Entscheidung der Bürger über Großprojekte durch
+     Bürger-/Volksentscheid – Regelfall oder ultima ratio?, in:
+     Lee/Ziekow (Hrsg.), Wandlungen im Verhältnis zwischen Bürger
+     und Staat, Berlin: Duncker & Humblot, S. 237 ff.
+─ (2015), Bürgerbeteiligung als systemstabilisierendes Element
+     der parlamentarischen Demokratie, in: Ziekow/Seok (Hrsg.),
+     Systemkrisen und Systemvertrauen, Berlin: Duncker & Humblot, S.
+     223 ff.
+Ziekow, Jan/Siegel, Thorsten (2003), Entwicklung und Perspektiven des
+     Rechts des öffentlich-rechtlichen Vertrages – Teil 1 –, VerwArch, S.
+     593 ff.
+110                                                2012 行政管制與行政爭訟
+
+
+
+─          (2004), Entwicklung und Perspektiven des Rechts des
+      öffentlich-rechtlichen Vertrages – Teil 2 –, VerwArch, S. 133 ff.
+─          (2004), Entwicklung und Perspektiven des Rechts des
+      öffentlich-rechtlichen Vertrages – Teil 3 –, VerwArch, S. 281 ff.
+Ziekow, Jan/Windoffer, Alexander (2008), Public Private Partnership:
+      Struktur und Erfolgsbedingungen von Kooperationsarenen, Baden-
+      Baden: Nomos.
+
